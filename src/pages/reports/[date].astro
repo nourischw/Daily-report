@@ -41,6 +41,11 @@ export async function getStaticPaths() {
   // Sort dates descending (newest first)
   dates.sort().reverse();
   
+  // If no dates found, return empty array (no pages will be generated)
+  if (dates.length === 0) {
+    return [];
+  }
+  
   return dates.map(date => ({
     params: { date },
     props: { date }

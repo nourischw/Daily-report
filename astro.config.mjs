@@ -6,4 +6,5 @@ export default defineConfig({
   site: 'https://nourischw.github.io/Daily-report',
   base: '/Daily-report/',
   output: 'static',
+  trailingSlash: 'never',
 });
