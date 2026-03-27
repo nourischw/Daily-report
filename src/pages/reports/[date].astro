@@ -1,8 +1,20 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { marked } from 'marked';
 
-marked.setOptions({ gfm: true, breaks: true });
+function parseMd(md: string): string {
+  if (!md) return '';
+  return md
+    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" class="text-accent-400 hover:underline">$1</a>')
+    .replace(/^- (.+)$/gm, '<li>$1</li>')
+    .replace(/^(\d+)\. (.+)$/gm, '<li>$2</li>')
+    .replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>')
+    .replace(/\n\n/g, '<br><br>')
+    .trim();
+}
 
 export async function getStaticPaths() {
   const fs = await import('fs');
@@ -147,7 +159,7 @@ const formattedDate = date ? new Date(date.replace(/-/g, '/')).toLocaleDateStrin
               </h2>
               <div class="prose prose-invert prose-lg max-w-none">
                 {reports[channel.id] ? (
-                  <article class="markdown-content" set:html={marked.parse(reports[channel.id])} />
+                  <article class="markdown-content" set:html={parseMd(reports[channel.id])} />
                 ) : (
                   <p class="text-gray-500">暫無內容</p>
                 )}

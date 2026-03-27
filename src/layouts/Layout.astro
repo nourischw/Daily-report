@@ -15,33 +15,133 @@ const { title } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
     <title>{title}</title>
   </head>
-  <body class="bg-dark-900 text-gray-100 min-h-screen font-sans">
+  <body class="bg-[#0d1117] text-gray-100 min-h-screen font-sans">
     <slot />
   </body>
 </html>
 
 <style is:global>
   * {
-    @apply border-dark-600;
+    scrollbar-width: thin;
+    scrollbar-color: #30363d #0d1117;
   }
   
-  ::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: #0d1117; }
+  ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: #484f58; }
+  
+  body {
+    font-family: 'Inter', 'Noto Sans TC', system-ui, sans-serif;
+    background: #0d1117;
+    background-image: 
+      radial-gradient(ellipse at 20% 0%, rgba(88, 166, 255, 0.06) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 100%, rgba(163, 113, 247, 0.04) 0%, transparent 50%);
+    background-attachment: fixed;
+    min-height: 100vh;
   }
   
-  ::-webkit-scrollbar-track {
-    @apply bg-dark-900;
+  /* Markdown content styling */
+  .markdown-content h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #f0f6fc;
+    margin: 1.5rem 0 0.75rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #21262d;
   }
   
-  ::-webkit-scrollbar-thumb {
-    @apply bg-dark-600 rounded-full;
+  .markdown-content h1:first-child { display: none; }
+  
+  .markdown-content h2 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #f0f6fc;
+    margin: 1.25rem 0 0.5rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
   }
   
-  ::-webkit-scrollbar-thumb:hover {
-    @apply bg-gray-500;
+  .markdown-content h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #c9d1d9;
+    margin: 1rem 0 0.5rem 0;
+  }
+  
+  .markdown-content p {
+    color: #8b949e;
+    line-height: 1.75;
+    margin: 0.5rem 0;
+  }
+  
+  .markdown-content a {
+    color: #58a6ff;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s;
+  }
+  
+  .markdown-content a:hover {
+    border-bottom-color: #58a6ff;
+  }
+  
+  .markdown-content strong {
+    color: #f0f6fc;
+    font-weight: 600;
+  }
+  
+  .markdown-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.75rem 0;
+  }
+  
+  .markdown-content ul li {
+    position: relative;
+    padding-left: 1.25rem;
+    color: #8b949e;
+    line-height: 1.75;
+    margin: 0.3rem 0;
+  }
+  
+  .markdown-content ul li::before {
+    content: '▸';
+    position: absolute;
+    left: 0;
+    color: #58a6ff;
+    font-size: 0.75rem;
+    top: 0.35rem;
+  }
+  
+  .markdown-content ul ul li::before {
+    content: '·';
+    color: #484f58;
+    font-size: 1rem;
+    top: 0.25rem;
+  }
+  
+  /* Card animations */
+  .bg-\[\#161b22\] {
+    box-shadow: 0 0 0 1px rgba(48, 54, 61, 0.5), 0 8px 24px rgba(0,0,0,0.4);
+    transition: box-shadow 0.2s;
+  }
+  
+  .bg-\[\#161b22\]:hover {
+    box-shadow: 0 0 0 1px rgba(88, 166, 255, 0.3), 0 8px 32px rgba(0,0,0,0.5);
+  }
+  
+  /* Tab buttons glow effect */
+  .tab-btn.ring-2 {
+    box-shadow: 0 0 12px rgba(88, 166, 255, 0.25);
+  }
+  
+  /* Date picker */
+  input[type="date"] {
+    color-scheme: dark;
   }
 </style>
