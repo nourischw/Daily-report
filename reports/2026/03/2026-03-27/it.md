@@ -13,12 +13,12 @@
 - **連結：** [查看原文](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 
 ### 2. Why so many control rooms were seafoam green (2025)
-- **分數：** 748｜**留言：** 147｜**作者：** Amorymeltzer
+- **分數：** 749｜**留言：** 147｜**作者：** Amorymeltzer
 - **來源：** bethmathews.substack.com
 - **連結：** [查看原文](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
 
 ### 3. We haven't seen the worst of what gambling and prediction markets will do
-- **分數：** 673｜**留言：** 476｜**作者：** mmcclure
+- **分數：** 674｜**留言：** 476｜**作者：** mmcclure
 - **來源：** derekthompson.org
 - **連結：** [查看原文](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 
@@ -28,7 +28,7 @@
 - **連結：** [查看原文](https://futuresearch.ai/blog/litellm-attack-transcript/)
 
 ### 5. Apple discontinues the Mac Pro
-- **分數：** 276｜**留言：** 210｜**作者：** bentocorp
+- **分數：** 277｜**留言：** 210｜**作者：** bentocorp
 - **來源：** 9to5mac.com
 - **連結：** [查看原文](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
 
@@ -58,7 +58,7 @@
 - **連結：** [查看原文](https://github.com/itigges22/ATLAS)
 
 ### 11. HyperAgents: Self-referential self-improving agents
-- **分數：** 167｜**留言：** 64｜**作者：** andyg_blog
+- **分數：** 168｜**留言：** 64｜**作者：** andyg_blog
 - **來源：** github.com
 - **連結：** [查看原文](https://github.com/facebookresearch/hyperagents)
 
@@ -82,15 +82,15 @@
 - **來源：** reco.ai
 - **連結：** [查看原文](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
-### 16. Chicago artist creates tourism posters for city's neighborhoods
+### 16. Schedule tasks on the web
+- **分數：** 80｜**留言：** 51｜**作者：** iBelieve
+- **來源：** code.claude.com
+- **連結：** [查看原文](https://code.claude.com/docs/en/web-scheduled-tasks)
+
+### 17. Chicago artist creates tourism posters for city's neighborhoods
 - **分數：** 80｜**留言：** 37｜**作者：** NaOH
 - **來源：** chicagotribune.com
 - **連結：** [查看原文](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
-
-### 17. Schedule tasks on the web
-- **分數：** 79｜**留言：** 50｜**作者：** iBelieve
-- **來源：** code.claude.com
-- **連結：** [查看原文](https://code.claude.com/docs/en/web-scheduled-tasks)
 
 ### 18. Using FireWire on a Raspberry Pi
 - **分數：** 77｜**留言：** 35｜**作者：** jandeboevrie
