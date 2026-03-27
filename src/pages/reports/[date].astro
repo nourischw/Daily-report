@@ -8,19 +8,24 @@ function parseMd(md: string): string {
     .replace(/^## (.+)$/gm, '<h2>$1</h2>')
     .replace(/^# (.+)$/gm, '<h1>$1</h1>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" class="text-accent-400 hover:underline inline-flex items-center gap-1">$1 <span class="text-xs">→</span></a>')
-    .replace(/^- (.+)$/gm, '<li class="mb-2">$1</li>')
-    .replace(/^(\d+)\. (.+)$/gm, '<li class="mb-2">$2</li>')
-    .replace(/(<li.*>.*<\/li>\n?)+/g, '<ul class="space-y-2">$&</ul>')
-    .replace(/\n\n/g, '<br><br>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" class="text-accent-400 hover:text-accent-300 transition-colors inline-flex items-center gap-1">$1 <span class="text-xs opacity-60">↗</span></a>')
+    .replace(/^- (.+)$/gm, '<li>$1</li>')
+    .replace(/^(\d+)\. (.+)$/gm, '<li>$2</li>')
+    .replace(/(<li.*>.*<\/li>\n?)+/g, '<ul>$&</ul>')
+    .replace(/\n\n/g, '<br>')
     .trim();
+}
+
+function getContentStats(md: string): { items: number } {
+  if (!md) return { items: 0 };
+  const count = md.split('\n').filter(l => l.match(/^#{1,3}\s/)).length;
+  return { items: count };
 }
 
 export async function getStaticPaths() {
   const fs = await import('fs');
   const path = await import('path');
   
-  // New structure: reports/YYYY/YYYY-MM/YYYY-MM-DD/
   const reportsDir = path.join(process.cwd(), 'reports');
   const dates: string[] = [];
   
@@ -49,10 +54,8 @@ export async function getStaticPaths() {
     console.log('Reports directory not ready yet');
   }
   
-  // Sort dates descending (newest first)
   dates.sort().reverse();
   
-  // If no dates found, return empty array (no pages will be generated)
   if (dates.length === 0) {
     return [];
   }
@@ -66,17 +69,51 @@ export async function getStaticPaths() {
 const { date } = Astro.params;
 
 const channels = [
-  { id: 'github', name: 'GitHub 熱度', icon: '💻', color: 'text-white' },
-  { id: 'ai', name: 'AI 新聞', icon: '🤖', color: 'text-purple-400' },
-  { id: 'it', name: 'IT 資訊', icon: '📰', color: 'text-blue-400' },
-  { id: 'jobs', name: 'IT 工作介紹', icon: '💼', color: 'text-green-400' },
-  { id: 'polymarket', name: 'Polymarket', icon: '🔮', color: 'text-yellow-400' },
+  { 
+    id: 'github', 
+    name: 'GitHub 熱度', 
+    icon: '💻', 
+    color: 'from-white to-gray-300',
+    gradient: 'from-white/10 to-gray-500/10',
+    border: 'border-white/20'
+  },
+  { 
+    id: 'ai', 
+    name: 'AI 新聞', 
+    icon: '🤖', 
+    color: 'from-purple-400 to-pink-400',
+    gradient: 'from-purple-500/10 to-pink-500/10',
+    border: 'border-purple-500/30'
+  },
+  { 
+    id: 'it', 
+    name: 'IT 資訊', 
+    icon: '📰', 
+    color: 'from-blue-400 to-cyan-400',
+    gradient: 'from-blue-500/10 to-cyan-500/10',
+    border: 'border-blue-500/30'
+  },
+  { 
+    id: 'jobs', 
+    name: 'IT 工作介紹', 
+    icon: '💼', 
+    color: 'from-green-400 to-emerald-400',
+    gradient: 'from-green-500/10 to-emerald-500/10',
+    border: 'border-green-500/30'
+  },
+  { 
+    id: 'polymarket', 
+    name: 'Polymarket', 
+    icon: '🔮', 
+    color: 'from-yellow-400 to-orange-400',
+    gradient: 'from-yellow-500/10 to-orange-500/10',
+    border: 'border-yellow-500/30'
+  },
 ];
 
 const fs = await import('fs');
 const path = await import('path');
 
-// New structure: reports/YYYY/YYYY-MM/YYYY-MM-DD/
 const year = (date as string).substring(0, 4);
 const month = (date as string).substring(5, 7);
 const reportsDir = path.join(process.cwd(), 'reports', year, month, date as string);
@@ -91,6 +128,15 @@ let reports: Record<string, string> = {
 
 let reportExists = false;
 
+// Stats
+const stats: Record<string, { items: number }> = {
+  github: { items: 0 },
+  ai: { items: 0 },
+  it: { items: 0 },
+  jobs: { items: 0 },
+  polymarket: { items: 0 }
+};
+
 try {
   if (fs.existsSync(reportsDir)) {
     reportExists = true;
@@ -101,6 +147,7 @@ try {
         if (reports[channel] !== undefined) {
           const content = fs.readFileSync(path.join(reportsDir, file), 'utf-8');
           reports[channel] = content;
+          stats[channel] = getContentStats(content);
         }
       }
     }
@@ -109,7 +156,7 @@ try {
   console.log('Report directory not ready yet');
 }
 
-// Get all available dates for archive
+// All dates
 const allDates: string[] = [];
 try {
   const rootReportsDir = path.join(process.cwd(), 'reports');
@@ -138,104 +185,147 @@ try {
 }
 allDates.sort().reverse();
 
-// Format date for display
 const formattedDate = date ? new Date(date.replace(/-/g, '/')).toLocaleDateString('zh-TW', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
   weekday: 'long'
 }) : '';
+
+const recentDates = allDates.slice(0, 7);
 ---
 
 <Layout title={`${date} 每日 IT 資訊報告`}>
-  <div class="max-w-6xl mx-auto px-4 py-8">
+  <div class="min-h-screen">
     <!-- Header -->
-    <header class="text-center mb-8">
-      <a href="/Daily-report/" class="inline-block mb-4 text-accent-500 hover:text-accent-400 transition-colors">
-        ← 返回首頁
-      </a>
-      <h1 class="text-4xl font-bold mb-2 bg-gradient-to-r from-accent-500 to-purple-400 bg-clip-text text-transparent">
-        每日 IT 資訊報告
-      </h1>
-      <p class="text-gray-400 text-lg">{formattedDate}</p>
-    </header>
-
-    {reportExists ? (
-      <>
-        <!-- Tab Navigation -->
-        <nav class="flex flex-wrap justify-center gap-2 mb-8">
-          {channels.map((channel) => (
-            <button
-              data-tab={channel.id}
-              class="tab-btn px-4 py-2 rounded-lg bg-dark-700 hover:bg-dark-600 transition-all duration-200 flex items-center gap-2 font-medium"
-            >
-              <span>{channel.icon}</span>
-              <span class={channel.color}>{channel.name}</span>
-            </button>
-          ))}
-        </nav>
-
-        <!-- Content Area -->
-        <main class="bg-dark-800 rounded-2xl p-6 min-h-[500px] shadow-xl border border-dark-700">
-          {channels.map((channel, index) => (
-            <div
-              id={`content-${channel.id}`}
-              class={`channel-content ${index === 0 ? 'block' : 'hidden'}`}
-            >
-              <h2 class="text-2xl font-semibold mb-6 flex items-center gap-3">
-                <span class="text-3xl">{channel.icon}</span>
-                <span class={channel.color}>{channel.name}</span>
-              </h2>
-              <div class="prose prose-invert prose-lg max-w-none">
-                {reports[channel.id] ? (
-                  <article class="markdown-content" set:html={parseMd(reports[channel.id])} />
-                ) : (
-                  <p class="text-gray-500">暫無內容</p>
-                )}
-              </div>
+    <header class="relative overflow-hidden">
+      <div class="absolute inset-0 bg-gradient-to-br from-accent-900/20 via-transparent to-purple-900/20"></div>
+      
+      <div class="relative max-w-6xl mx-auto px-4 py-8">
+        <!-- Back Link -->
+        <a href="/Daily-report/" class="inline-flex items-center gap-2 mb-6 text-accent-500 hover:text-accent-400 transition-colors">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+          </svg>
+          返回首頁
+        </a>
+        
+        <!-- Title -->
+        <div class="text-center mb-6">
+          <h1 class="text-3xl md:text-4xl font-bold mb-2">
+            <span class="bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent">
+              每日 IT 資訊報告
+            </span>
+          </h1>
+          <p class="text-gray-400 text-lg">{formattedDate}</p>
+        </div>
+        
+        <!-- Quick Stats -->
+        <div class="flex flex-wrap justify-center gap-3">
+          {channels.map((ch) => (
+            <div class={`flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r ${ch.gradient} border ${ch.border}`}>
+              <span class="text-xl">{ch.icon}</span>
+              <span class={`bg-gradient-to-r ${ch.color} bg-clip-text text-transparent font-semibold`}>{stats[ch.id].items} 則</span>
             </div>
           ))}
-        </main>
-      </>
-    ) : (
-      <div class="bg-dark-800 rounded-2xl p-12 text-center shadow-xl border border-dark-700">
-        <p class="text-6xl mb-4">📋</p>
-        <h2 class="text-2xl font-semibold mb-2">報告尚未生成</h2>
-        <p class="text-gray-400">選擇其他日期查看過往報告</p>
+        </div>
       </div>
-    )}
+    </header>
 
-    <!-- Archive Section -->
-    <section class="mt-12 bg-dark-800 rounded-2xl p-6 shadow-xl border border-dark-700">
-      <h3 class="text-xl font-semibold mb-4 text-gray-300">📁 報告歸檔</h3>
-      <div class="flex flex-wrap gap-2">
-        {allDates.length > 0 ? (
-          allDates.map(d => (
+    <!-- Main Content -->
+    <main class="max-w-6xl mx-auto px-4 py-8">
+      {reportExists ? (
+        <>
+          <!-- Category Cards -->
+          <section class="grid grid-cols-2 md:grid-cols-5 gap-3 mb-6">
+            {channels.map((ch) => (
+              <button
+                data-tab={ch.id}
+                class="tab-btn flex flex-col items-center p-4 rounded-xl"
+              >
+                <span class="text-3xl mb-2">{ch.icon}</span>
+                <span class={`bg-gradient-to-r ${ch.color} bg-clip-text text-transparent font-semibold text-sm`}>{stats[ch.id].items} 則</span>
+              </button>
+            ))}
+          </section>
+
+          <!-- Content Area -->
+          <main class="bg-dark-800/80 backdrop-blur rounded-3xl p-6 md:p-8 shadow-2xl border border-dark-700">
+            {channels.map((channel, index) => (
+              <div
+                id={`content-${channel.id}`}
+                class={`channel-content ${index === 0 ? 'block' : 'hidden'}`}
+              >
+                <div class="flex items-center gap-3 mb-6">
+                  <span class="text-4xl">{channel.icon}</span>
+                  <h2 class={`text-2xl font-bold bg-gradient-to-r ${channel.color} bg-clip-text text-transparent`}>{channel.name}</h2>
+                </div>
+                <div class="prose prose-invert prose-lg max-w-none">
+                  {reports[channel.id] ? (
+                    <article class="markdown-content" set:html={parseMd(reports[channel.id])} />
+                  ) : (
+                    <p class="text-gray-500">暫無內容</p>
+                  )}
+                </div>
+              </div>
+            ))}
+          </main>
+        </>
+      ) : (
+        <div class="bg-dark-800 rounded-3xl p-12 text-center shadow-2xl border border-dark-700">
+          <p class="text-7xl mb-6">📋</p>
+          <h2 class="text-3xl font-bold mb-3 text-white">報告尚未生成</h2>
+          <p class="text-gray-400 text-lg mb-6">選擇其他日期查看</p>
+          <a href="/Daily-report/" class="inline-block px-6 py-3 bg-accent-600 hover:bg-accent-500 rounded-xl text-white transition-colors">
+            返回首頁
+          </a>
+        </div>
+      )}
+
+      <!-- Archive Section -->
+      <section class="mt-12 bg-dark-800/50 backdrop-blur rounded-2xl p-6 border border-dark-700">
+        <h3 class="text-xl font-semibold mb-4 text-white flex items-center gap-2">
+          <span>📁</span> 報告歸檔
+        </h3>
+        <div class="flex flex-wrap gap-2 mb-4">
+          <span class="text-gray-500 text-sm mr-2">快速存取：</span>
+          {recentDates.map(d => (
             <a
               href={`/Daily-report/reports/${d}`}
-              class={`px-3 py-2 rounded-lg transition-all ${
-                d === date
-                  ? 'bg-accent-600 text-white'
-                  : 'bg-dark-700 hover:bg-dark-600 text-gray-300'
+              class={`px-3 py-1.5 rounded-lg text-sm transition-all ${
+                d === date 
+                  ? 'bg-accent-600 text-white' 
+                  : 'bg-dark-700 text-gray-400 hover:bg-dark-600 hover:text-white'
               }`}
             >
-              {d}
+              {d.slice(5)}
             </a>
-          ))
-        ) : (
-          <p class="text-gray-500">暫無歷史報告</p>
-        )}
-      </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="text-center text-gray-500 text-sm mt-8">
-      <p>作者：<strong>Nouris</strong> · 由 <a href="https://astro.build" target="_blank" class="text-accent-500 hover:underline">Astro</a> 驅動 · 自動更新</p>
-    </footer>
+          ))}
+        </div>
+        <div class="flex flex-wrap gap-2">
+          {allDates.length > 0 ? (
+            allDates.slice(0, 30).map(d => (
+              <a
+                href={`/Daily-report/reports/${d}`}
+                class={`px-3 py-2 rounded-lg transition-all ${
+                  d === date 
+                    ? 'bg-accent-600 text-white' 
+                    : 'bg-dark-700 hover:bg-dark-600 text-gray-300 hover:text-white'
+                }`}
+              >
+                {d}
+              </a>
+            ))
+          ) : (
+            <p class="text-gray-500">暫無歷史報告</p>
+          )}
+        </div>
+      </section>
+    </main>
   </div>
 
   <script>
-    // Tab switching logic
+    // Tab switching
     const tabBtns = document.querySelectorAll('.tab-btn');
     const contents = document.querySelectorAll('.channel-content');
 
@@ -243,24 +333,25 @@ const formattedDate = date ? new Date(date.replace(/-/g, '/')).toLocaleDateStrin
       btn.addEventListener('click', () => {
         const tabId = btn.getAttribute('data-tab');
         
-        // Update buttons
-        tabBtns.forEach(b => b.classList.remove('bg-dark-600', 'ring-2', 'ring-accent-500'));
-        btn.classList.add('bg-dark-600', 'ring-2', 'ring-accent-500');
+        tabBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
         
-        // Update content
         contents.forEach(c => {
-          if (c.id === `content-${tabId}`) {
-            c.classList.remove('hidden');
-            c.classList.add('block');
-          } else {
-            c.classList.add('hidden');
-            c.classList.remove('block');
-          }
+          c.classList.toggle('hidden', c.id !== `content-${tabId}`);
+          c.classList.toggle('block', c.id === `content-${tabId}`);
         });
+        
+        window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     });
 
-    // Set first tab as active
-    tabBtns[0]?.classList.add('bg-dark-600', 'ring-2', 'ring-accent-500');
+    tabBtns[0]?.classList.add('active');
+
+    // Hash navigation
+    if (window.location.hash) {
+      const tabId = window.location.hash.slice(1);
+      const btn = document.querySelector(`[data-tab="${tabId}"]`);
+      if (btn) btn.click();
+    }
   </script>
 </Layout>

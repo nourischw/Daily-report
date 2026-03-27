@@ -8,39 +8,42 @@ function parseMd(md: string): string {
     .replace(/^## (.+)$/gm, '<h2>$1</h2>')
     .replace(/^# (.+)$/gm, '<h1>$1</h1>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" class="text-accent-400 hover:underline inline-flex items-center gap-1">$1 <span class="text-xs">→</span></a>')
-    .replace(/^- (.+)$/gm, '<li class="mb-2">$1</li>')
-    .replace(/^(\d+)\. (.+)$/gm, '<li class="mb-2">$2</li>')
-    .replace(/(<li.*>.*<\/li>\n?)+/g, '<ul class="space-y-2">$&</ul>')
-    .replace(/\n\n/g, '<br><br>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" class="text-accent-400 hover:text-accent-300 transition-colors inline-flex items-center gap-1">$1 <span class="text-xs opacity-60">↗</span></a>')
+    .replace(/^- (.+)$/gm, '<li>$1</li>')
+    .replace(/^(\d+)\. (.+)$/gm, '<li>$2</li>')
+    .replace(/(<li.*>.*<\/li>\n?)+/g, '<ul>$&</ul>')
+    .replace(/\n\n/g, '<br>')
     .trim();
+}
+
+// Get stats from content
+function getContentStats(md: string): { items: number; firstLine: string } {
+  if (!md) return { items: 0, firstLine: '' };
+  const lines = md.split('\n').filter(l => l.trim());
+  const count = lines.filter(l => l.match(/^#{1,3}\s/)).length;
+  const firstLine = lines.find(l => l.startsWith('# ')) || '';
+  return { items: count, firstLine };
 }
 
 export async function getStaticPaths() {
   const fs = await import('fs');
   const path = await import('path');
   
-  // New structure: reports/YYYY/YYYY-MM/YYYY-MM-DD/
   const reportsDir = path.join(process.cwd(), 'reports');
   const dates: string[] = [];
   
   try {
     if (fs.existsSync(reportsDir)) {
-      // First level: year directories
       const years = fs.readdirSync(reportsDir);
       for (const year of years) {
         const yearPath = path.join(reportsDir, year);
-        const yearStat = fs.statSync(yearPath);
-        if (!yearStat.isDirectory()) continue;
+        if (!fs.statSync(yearPath).isDirectory()) continue;
         
-        // Second level: month directories
         const months = fs.readdirSync(yearPath);
         for (const month of months) {
           const monthPath = path.join(yearPath, month);
-          const monthStat = fs.statSync(monthPath);
-          if (!monthStat.isDirectory()) continue;
+          if (!fs.statSync(monthPath).isDirectory()) continue;
           
-          // Third level: date directories
           const dateDirs = fs.readdirSync(monthPath);
           for (const dateDir of dateDirs) {
             if (/^\d{4}-\d{2}-\d{2}$/.test(dateDir)) {
@@ -54,7 +57,6 @@ export async function getStaticPaths() {
     console.log('Reports directory not ready yet');
   }
   
-  // Sort dates descending (newest first)
   dates.sort().reverse();
   
   return dates.map(date => ({
@@ -64,20 +66,53 @@ export async function getStaticPaths() {
 }
 
 const channels = [
-  { id: 'github', name: 'GitHub 熱度', icon: '💻', color: 'text-white' },
-  { id: 'ai', name: 'AI 新聞', icon: '🤖', color: 'text-purple-400' },
-  { id: 'it', name: 'IT 資訊', icon: '📰', color: 'text-blue-400' },
-  { id: 'jobs', name: 'IT 工作介紹', icon: '💼', color: 'text-green-400' },
-  { id: 'polymarket', name: 'Polymarket', icon: '🔮', color: 'text-yellow-400' },
+  { 
+    id: 'github', 
+    name: 'GitHub 熱度', 
+    icon: '💻', 
+    color: 'from-white to-gray-300',
+    gradient: 'from-white/10 to-gray-500/10',
+    border: 'border-white/20'
+  },
+  { 
+    id: 'ai', 
+    name: 'AI 新聞', 
+    icon: '🤖', 
+    color: 'from-purple-400 to-pink-400',
+    gradient: 'from-purple-500/10 to-pink-500/10',
+    border: 'border-purple-500/30'
+  },
+  { 
+    id: 'it', 
+    name: 'IT 資訊', 
+    icon: '📰', 
+    color: 'from-blue-400 to-cyan-400',
+    gradient: 'from-blue-500/10 to-cyan-500/10',
+    border: 'border-blue-500/30'
+  },
+  { 
+    id: 'jobs', 
+    name: 'IT 工作介紹', 
+    icon: '💼', 
+    color: 'from-green-400 to-emerald-400',
+    gradient: 'from-green-500/10 to-emerald-500/10',
+    border: 'border-green-500/30'
+  },
+  { 
+    id: 'polymarket', 
+    name: 'Polymarket', 
+    icon: '🔮', 
+    color: 'from-yellow-400 to-orange-400',
+    gradient: 'from-yellow-500/10 to-orange-500/10',
+    border: 'border-yellow-500/30'
+  },
 ];
 
-// Get today's date in YYYY-MM-DD format
 const today = new Date().toISOString().split('T')[0];
 
 const fs = await import('fs');
 const path = await import('path');
 
-// New structure: reports/YYYY/YYYY-MM/YYYY-MM-DD/
 const currentYear = new Date().getFullYear().toString();
 const currentMonth = (new Date().getMonth() + 1).toString().padStart(2, '0');
 const todayDir = path.join(process.cwd(), 'reports', currentYear, currentMonth, today);
@@ -92,26 +127,22 @@ let reports: Record<string, string> = {
 
 let reportExists = false;
 let latestDate = today;
+let allDates: string[] = [];
 
 try {
-  // Find the latest date with reports if today's doesn't exist
   const rootReportsDir = path.join(process.cwd(), 'reports');
-  const allDates: string[] = [];
   
   if (fs.existsSync(rootReportsDir)) {
-    // First level: year directories
     const years = fs.readdirSync(rootReportsDir);
     for (const year of years) {
       const yearPath = path.join(rootReportsDir, year);
       if (!fs.statSync(yearPath).isDirectory()) continue;
       
-      // Second level: month directories
       const months = fs.readdirSync(yearPath);
       for (const month of months) {
         const monthPath = path.join(yearPath, month);
         if (!fs.statSync(monthPath).isDirectory()) continue;
         
-        // Third level: date directories
         const dateDirs = fs.readdirSync(monthPath);
         for (const dateDir of dateDirs) {
           if (/^\d{4}-\d{2}-\d{2}$/.test(dateDir)) {
@@ -126,7 +157,6 @@ try {
     allDates.sort().reverse();
     latestDate = allDates[0];
     
-    // Parse the latest date to get year/month path
     const latestYear = latestDate.substring(0, 4);
     const latestMonth = latestDate.substring(5, 7);
     const latestReportsDir = path.join(process.cwd(), 'reports', latestYear, latestMonth, latestDate);
@@ -149,34 +179,18 @@ try {
   console.log('Reports directory not ready yet');
 }
 
-// Get all available dates for archive and date picker
-const allDates: string[] = [];
-try {
-  const rootReportsDir = path.join(process.cwd(), 'reports');
-  if (fs.existsSync(rootReportsDir)) {
-    const years = fs.readdirSync(rootReportsDir);
-    for (const year of years) {
-      const yearPath = path.join(rootReportsDir, year);
-      if (!fs.statSync(yearPath).isDirectory()) continue;
-      
-      const months = fs.readdirSync(yearPath);
-      for (const month of months) {
-        const monthPath = path.join(yearPath, month);
-        if (!fs.statSync(monthPath).isDirectory()) continue;
-        
-        const dateDirs = fs.readdirSync(monthPath);
-        for (const dateDir of dateDirs) {
-          if (/^\d{4}-\d{2}-\d{2}$/.test(dateDir)) {
-            allDates.push(dateDir);
-          }
-        }
-      }
-    }
-  }
-} catch (e) {
-  console.log('Error reading dates');
-}
 allDates.sort().reverse();
+
+// Calculate stats
+const stats = {
+  github: getContentStats(reports.github),
+  ai: getContentStats(reports.ai),
+  it: getContentStats(reports.it),
+  jobs: getContentStats(reports.jobs),
+  polymarket: getContentStats(reports.polymarket)
+};
+
+const totalItems = Object.values(stats).reduce((sum, s) => sum + s.items, 0);
 
 // Format date for display
 const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString('zh-TW', {
@@ -185,108 +199,184 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
   day: 'numeric',
   weekday: 'long'
 });
+
+// Get recent dates for quick access
+const recentDates = allDates.slice(0, 7);
 ---
 
 <Layout title="每日 IT 資訊報告">
-  <div class="max-w-6xl mx-auto px-4 py-8">
-    <!-- Header -->
-    <header class="text-center mb-8">
-      <h1 class="text-4xl font-bold mb-2 bg-gradient-to-r from-accent-500 to-purple-400 bg-clip-text text-transparent">
-        每日 IT 資訊報告
-      </h1>
-      <p class="text-gray-400 text-lg">{formattedDate}</p>
+  <div class="min-h-screen">
+    <!-- Hero Header -->
+    <header class="relative overflow-hidden">
+      <!-- Background Gradient -->
+      <div class="absolute inset-0 bg-gradient-to-br from-accent-900/20 via-transparent to-purple-900/20"></div>
+      <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-accent-900/10 via-transparent to-transparent"></div>
       
-      <!-- Date Picker -->
-      <div class="mt-4 flex flex-col sm:flex-row items-center justify-center gap-2">
-        <label for="datePicker" class="text-gray-400 text-sm">選擇日期：</label>
-        <input
-          type="date"
-          id="datePicker"
-          class="bg-dark-700 border border-dark-600 rounded-lg px-3 py-2 text-gray-200 focus:outline-none focus:ring-2 focus:ring-accent-500"
-          value={latestDate}
-          min="2020-01-01"
-        />
-        <button
-          id="goToDate"
-          class="px-4 py-2 bg-accent-600 hover:bg-accent-500 rounded-lg text-white transition-colors"
-        >
-          前往
-        </button>
+      <div class="relative max-w-6xl mx-auto px-4 py-12">
+        <!-- Title -->
+        <div class="text-center mb-8">
+          <h1 class="text-4xl md:text-5xl font-bold mb-3">
+            <span class="bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent">
+              每日 IT 資訊報告
+            </span>
+          </h1>
+          <p class="text-gray-400 text-lg">{formattedDate}</p>
+        </div>
+        
+        <!-- Quick Stats -->
+        <div class="flex flex-wrap justify-center gap-3 mb-8">
+          {channels.map((ch) => (
+            <div class={`flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r ${ch.gradient} border ${ch.border}`}>
+              <span class="text-xl">{ch.icon}</span>
+              <span class={`bg-gradient-to-r ${ch.color} bg-clip-text text-transparent font-semibold`}>{stats[ch.id as keyof typeof stats].items} 則</span>
+            </div>
+          ))}
+        </div>
+        
+        <!-- Date Navigation -->
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-3">
+          <div class="flex items-center gap-2">
+            <label for="datePicker" class="text-gray-400 text-sm whitespace-nowrap">選擇日期：</label>
+            <input
+              type="date"
+              id="datePicker"
+              class="bg-dark-700 border border-dark-600 rounded-lg px-4 py-2.5 text-gray-200 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
+              value={latestDate}
+              min="2020-01-01"
+            />
+          </div>
+          <button
+            id="goToDate"
+            class="px-6 py-2.5 bg-gradient-to-r from-accent-600 to-purple-600 hover:from-accent-500 hover:to-purple-500 rounded-lg text-white font-medium transition-all shadow-lg shadow-accent-500/20 hover:shadow-accent-500/40"
+          >
+            前往 →
+          </button>
+        </div>
+        
+        <!-- Quick Access Dates -->
+        <div class="flex flex-wrap justify-center gap-2 mt-6">
+          <span class="text-gray-500 text-sm mr-2">快速存取：</span>
+          {recentDates.map(d => (
+            <a
+              href={`/Daily-report/reports/${d}`}
+              class={`px-3 py-1.5 rounded-lg text-sm transition-all ${
+                d === latestDate 
+                  ? 'bg-accent-600 text-white' 
+                  : 'bg-dark-700 text-gray-400 hover:bg-dark-600 hover:text-white'
+              }`}
+            >
+              {d.slice(5)}
+            </a>
+          ))}
+        </div>
       </div>
     </header>
 
-    {reportExists ? (
-      <>
-        <!-- Tab Navigation -->
-        <nav class="flex flex-wrap justify-center gap-2 mb-8">
-          {channels.map((channel) => (
-            <button
-              data-tab={channel.id}
-              class="tab-btn px-4 py-2 rounded-lg bg-dark-700 hover:bg-dark-600 transition-all duration-200 flex items-center gap-2 font-medium"
-            >
-              <span>{channel.icon}</span>
-              <span class={channel.color}>{channel.name}</span>
-            </button>
-          ))}
-        </nav>
+    <!-- Main Content -->
+    <main class="max-w-6xl mx-auto px-4 py-8">
+      {reportExists ? (
+        <>
+          <!-- Category Cards Preview -->
+          <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
+            {channels.map((ch) => (
+              <a
+                href={`/Daily-report/reports/${latestDate}#${ch.id}`}
+                class={`block p-6 rounded-2xl bg-gradient-to-br ${ch.gradient} border ${ch.border} card-hover group`}
+              >
+                <div class="flex items-center gap-3 mb-3">
+                  <span class="text-3xl">{ch.icon}</span>
+                  <h3 class={`text-xl font-bold bg-gradient-to-r ${ch.color} bg-clip-text text-transparent`}>{ch.name}</h3>
+                </div>
+                <p class="text-gray-400 text-sm mb-4">
+                  {stats[ch.id as keyof typeof stats].firstLine || '點擊查看詳情 →'}
+                </p>
+                <div class="flex items-center justify-between">
+                  <span class="text-2xl font-bold text-white">{stats[ch.id as keyof typeof stats].items}</span>
+                  <span class="text-sm text-gray-500 group-hover:text-accent-400 transition-colors">查看全部 →</span>
+                </div>
+              </a>
+            ))}
+          </section>
 
-        <!-- Content Area -->
-        <main class="bg-dark-800 rounded-2xl p-6 min-h-[500px] shadow-xl border border-dark-700">
-          {channels.map((channel, index) => (
-            <div
-              id={`content-${channel.id}`}
-              class={`channel-content ${index === 0 ? 'block' : 'hidden'}`}
-            >
-              <h2 class="text-2xl font-semibold mb-6 flex items-center gap-3">
-                <span class="text-3xl">{channel.icon}</span>
-                <span class={channel.color}>{channel.name}</span>
-              </h2>
-              <div class="prose prose-invert prose-lg max-w-none">
-                {reports[channel.id] ? (
-                  <article class="markdown-content" set:html={parseMd(reports[channel.id])} />
-                ) : (
-                  <p class="text-gray-500">暫無內容</p>
-                )}
+          <!-- Tab Navigation -->
+          <nav class="flex flex-wrap justify-center gap-2 mb-6">
+            {channels.map((channel) => (
+              <button
+                data-tab={channel.id}
+                class="tab-btn"
+              >
+                <span>{channel.icon}</span>
+                <span>{channel.name}</span>
+                <span class="ml-1 px-2 py-0.5 rounded-full bg-dark-800 text-xs">{stats[channel.id as keyof typeof stats].items}</span>
+              </button>
+            ))}
+          </nav>
+
+          <!-- Content Area -->
+          <main class="bg-dark-800/80 backdrop-blur rounded-3xl p-6 md:p-8 shadow-2xl border border-dark-700">
+            {channels.map((channel, index) => (
+              <div
+                id={`content-${channel.id}`}
+                class={`channel-content ${index === 0 ? 'block' : 'hidden'}`}
+              >
+                <div class="flex items-center gap-3 mb-6">
+                  <span class="text-4xl">{channel.icon}</span>
+                  <h2 class={`text-2xl font-bold bg-gradient-to-r ${channel.color} bg-clip-text text-transparent`}>{channel.name}</h2>
+                </div>
+                <div class="prose prose-invert prose-lg max-w-none">
+                  {reports[channel.id] ? (
+                    <article class="markdown-content" set:html={parseMd(reports[channel.id])} />
+                  ) : (
+                    <p class="text-gray-500">暫無內容</p>
+                  )}
+                </div>
               </div>
-            </div>
-          ))}
-        </main>
-      </>
-    ) : (
-      <div class="bg-dark-800 rounded-2xl p-12 text-center shadow-xl border border-dark-700">
-        <p class="text-6xl mb-4">📋</p>
-        <h2 class="text-2xl font-semibold mb-2">報告尚未生成</h2>
-        <p class="text-gray-400">請稍後再回來查看，或選擇其他日期</p>
-      </div>
-    )}
+            ))}
+          </main>
+        </>
+      ) : (
+        <div class="bg-dark-800 rounded-3xl p-12 text-center shadow-2xl border border-dark-700">
+          <p class="text-7xl mb-6">📋</p>
+          <h2 class="text-3xl font-bold mb-3 text-white">報告尚未生成</h2>
+          <p class="text-gray-400 text-lg mb-6">請稍後再回來查看</p>
+          <div class="flex justify-center gap-4">
+            <span class="px-4 py-2 rounded-lg bg-dark-700 text-gray-400">自動更新時間：每 6 小時</span>
+          </div>
+        </div>
+      )}
 
-    <!-- Archive Section -->
-    <section class="mt-12 bg-dark-800 rounded-2xl p-6 shadow-xl border border-dark-700">
-      <h3 class="text-xl font-semibold mb-4 text-gray-300">📁 報告歸檔</h3>
-      <div class="flex flex-wrap gap-2">
-        {allDates.length > 0 ? (
-          allDates.map(d => (
-            <a
-              href={`/Daily-report/reports/${d}`}
-              class="px-3 py-2 rounded-lg bg-dark-700 hover:bg-dark-600 text-gray-300 hover:text-white transition-all"
-            >
-              {d}
-            </a>
-          ))
-        ) : (
-          <p class="text-gray-500">暫無歷史報告</p>
+      <!-- Archive Section -->
+      <section class="mt-12 bg-dark-800/50 backdrop-blur rounded-2xl p-6 border border-dark-700">
+        <h3 class="text-xl font-semibold mb-4 text-white flex items-center gap-2">
+          <span>📁</span> 報告歸檔
+        </h3>
+        <div class="flex flex-wrap gap-2">
+          {allDates.length > 0 ? (
+            allDates.slice(0, 30).map(d => (
+              <a
+                href={`/Daily-report/reports/${d}`}
+                class={`px-3 py-2 rounded-lg transition-all ${
+                  d === latestDate 
+                    ? 'bg-accent-600 text-white' 
+                    : 'bg-dark-700 hover:bg-dark-600 text-gray-300 hover:text-white'
+                }`}
+              >
+                {d}
+              </a>
+            ))
+          ) : (
+            <p class="text-gray-500">暫無歷史報告</p>
+          )}
+        </div>
+        {allDates.length > 30 && (
+          <p class="text-gray-500 text-sm mt-3">還有 {allDates.length - 30} 個更早的報告...</p>
         )}
-      </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="text-center text-gray-500 text-sm mt-8">
-      <p>作者：<strong>Nouris</strong> · 由 <a href="https://astro.build" target="_blank" class="text-accent-500 hover:underline">Astro</a> 驅動 · 自動更新</p>
-    </footer>
+      </section>
+    </main>
   </div>
 
   <script>
-    // Tab switching logic
+    // Tab switching
     const tabBtns = document.querySelectorAll('.tab-btn');
     const contents = document.querySelectorAll('.channel-content');
 
@@ -294,27 +384,22 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
       btn.addEventListener('click', () => {
         const tabId = btn.getAttribute('data-tab');
         
-        // Update buttons
-        tabBtns.forEach(b => b.classList.remove('bg-dark-600', 'ring-2', 'ring-accent-500'));
-        btn.classList.add('bg-dark-600', 'ring-2', 'ring-accent-500');
+        tabBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
         
-        // Update content
         contents.forEach(c => {
-          if (c.id === `content-${tabId}`) {
-            c.classList.remove('hidden');
-            c.classList.add('block');
-          } else {
-            c.classList.add('hidden');
-            c.classList.remove('block');
-          }
+          c.classList.toggle('hidden', c.id !== `content-${tabId}`);
+          c.classList.toggle('block', c.id === `content-${tabId}`);
         });
+        
+        // Scroll to top of content
+        document.querySelector('.channel-content:not(.hidden)')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
       });
     });
 
-    // Set first tab as active
-    tabBtns[0]?.classList.add('bg-dark-600', 'ring-2', 'ring-accent-500');
+    tabBtns[0]?.classList.add('active');
 
-    // Date picker navigation
+    // Date picker
     const datePicker = document.getElementById('datePicker') as HTMLInputElement;
     const goToDateBtn = document.getElementById('goToDate');
     
@@ -333,5 +418,12 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
         }
       }
     });
+
+    // Hash navigation
+    if (window.location.hash) {
+      const tabId = window.location.hash.slice(1);
+      const btn = document.querySelector(`[data-tab="${tabId}"]`);
+      if (btn) btn.click();
+    }
   </script>
 </Layout>
