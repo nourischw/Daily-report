@@ -36,7 +36,10 @@ jobs:
         run: echo "TODAY=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
 
       - name: Create reports directory
-        run: mkdir -p reports/${{ steps.date.outputs.TODAY }}
+        run: |
+          YEAR=$(date +%Y)
+          MONTH=$(date +%m)
+          mkdir -p reports/$YEAR/$MONTH
 
       - name: Run report generator
         run: node scripts/generate-reports.mjs
@@ -58,9 +61,12 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions Bot"
           
-          git add reports/${{ steps.date.outputs.TODAY }}/
+          YEAR=$(date +%Y)
+          MONTH=$(date +%m)
+          TODAY=$(date +%Y-%m-%d)
+          git add reports/$YEAR/$MONTH/$TODAY/
           git status
           
-          git commit -m "Auto-update reports: ${{ steps.date.outputs.TODAY }}"
+          git commit -m "Auto-update reports: $TODAY"
           git push
           echo "Reports pushed successfully"

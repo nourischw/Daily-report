@@ -28,7 +28,9 @@ const projectRoot = path.join(__dirname, '..');
 
 const CONFIG = {
   FETCH_LIMIT: 30,
-  TODAY: new Date().toISOString().split('T')[0]
+  TODAY: new Date().toISOString().split('T')[0],
+  YEAR: new Date().getFullYear().toString(),
+  MONTH: (new Date().getMonth() + 1).toString().padStart(2, '0')
 };
 
 // ==================== GITHUB TRENDING ====================
@@ -475,7 +477,7 @@ async function main() {
   console.log(`📅 Date: ${CONFIG.TODAY}`);
   console.log('');
   
-  const reportsDir = path.join(projectRoot, 'reports', CONFIG.TODAY);
+  const reportsDir = path.join(projectRoot, 'reports', CONFIG.YEAR, CONFIG.MONTH, CONFIG.TODAY);
   
   // Create directory if not exists
   if (!fs.existsSync(reportsDir)) {

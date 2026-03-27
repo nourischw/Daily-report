@@ -20,17 +20,28 @@ export async function getStaticPaths() {
   const fs = await import('fs');
   const path = await import('path');
   
+  // New structure: reports/YYYY/YYYY-MM/YYYY-MM-DD/
   const reportsDir = path.join(process.cwd(), 'reports');
   const dates: string[] = [];
   
   try {
     if (fs.existsSync(reportsDir)) {
-      const entries = fs.readdirSync(reportsDir);
-      for (const entry of entries) {
-        const fullPath = path.join(reportsDir, entry);
-        const stat = fs.statSync(fullPath);
-        if (stat.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(entry)) {
-          dates.push(entry);
+      const years = fs.readdirSync(reportsDir);
+      for (const year of years) {
+        const yearPath = path.join(reportsDir, year);
+        if (!fs.statSync(yearPath).isDirectory()) continue;
+        
+        const months = fs.readdirSync(yearPath);
+        for (const month of months) {
+          const monthPath = path.join(yearPath, month);
+          if (!fs.statSync(monthPath).isDirectory()) continue;
+          
+          const dateDirs = fs.readdirSync(monthPath);
+          for (const dateDir of dateDirs) {
+            if (/^\d{4}-\d{2}-\d{2}$/.test(dateDir)) {
+              dates.push(dateDir);
+            }
+          }
         }
       }
     }
@@ -65,7 +76,10 @@ const channels = [
 const fs = await import('fs');
 const path = await import('path');
 
-const reportsDir = path.join(process.cwd(), 'reports', date as string);
+// New structure: reports/YYYY/YYYY-MM/YYYY-MM-DD/
+const year = (date as string).substring(0, 4);
+const month = (date as string).substring(5, 7);
+const reportsDir = path.join(process.cwd(), 'reports', year, month, date as string);
 
 let reports: Record<string, string> = {
   github: '',
@@ -100,12 +114,22 @@ const allDates: string[] = [];
 try {
   const rootReportsDir = path.join(process.cwd(), 'reports');
   if (fs.existsSync(rootReportsDir)) {
-    const entries = fs.readdirSync(rootReportsDir);
-    for (const entry of entries) {
-      const fullPath = path.join(rootReportsDir, entry);
-      const stat = fs.statSync(fullPath);
-      if (stat.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(entry)) {
-        allDates.push(entry);
+    const years = fs.readdirSync(rootReportsDir);
+    for (const year of years) {
+      const yearPath = path.join(rootReportsDir, year);
+      if (!fs.statSync(yearPath).isDirectory()) continue;
+      
+      const months = fs.readdirSync(yearPath);
+      for (const month of months) {
+        const monthPath = path.join(yearPath, month);
+        if (!fs.statSync(monthPath).isDirectory()) continue;
+        
+        const dateDirs = fs.readdirSync(monthPath);
+        for (const dateDir of dateDirs) {
+          if (/^\d{4}-\d{2}-\d{2}$/.test(dateDir)) {
+            allDates.push(dateDir);
+          }
+        }
       }
     }
   }
