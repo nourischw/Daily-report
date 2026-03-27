@@ -4,66 +4,58 @@
 
 ---
 
-### 1. 資深後端工程師 (Python/Go)
+### 1. [資深後端工程師 (Python/Go)](https://hk.jobsdb.com/position/senior-backend-engineer)
 
-- 🏢 香港科技公司｜📍 香港
-- 💰 60K-90K
-- 📝 處理大規模數據和微服務架構
-- 🔗 [查看詳情](#)
+- 🏢 騰訊科技｜📍 香港｜💰 65K-95K
 
-### 2. 雲端架構師 (AWS/Azure)
+- 📝 負責微服務架構設計，處理大規模數據處理。
 
-- 🏢 跨國企業｜📍 香港
-- 💰 80K-120K
-- 📝 設計和實施雲端遷移方案
-- 🔗 [查看詳情](#)
+### 2. [雲端架構師 (AWS/Azure/GCP)](https://careers.microsoft.com/cloud-architect)
 
-### 3. 資安工程師
+- 🏢 Microsoft 香港｜📍 香港｜💰 90K-140K
 
-- 🏢 金融機構｜📍 香港
-- 💰 70K-100K
-- 📝 負責企業資訊安全和合規
-- 🔗 [查看詳情](#)
+- 📝 設計企業雲端遷移方案，優化成本和效能。
 
-### 4. AI/ML 工程師
+### 3. [DevOps/SRE 工程師](https://aws.amazon.com/careers/devops)
 
-- 🏢 科技新創｜📍 香港
-- 💰 65K-95K
-- 📝 開發和部署機器學習模型
-- 🔗 [查看詳情](#)
+- 🏢 AWS 香港｜📍 香港/遠端｜💰 70K-100K
 
-### 5. DevOps/SRE 工程師
+- 📝 構建和維護 CI/CD 管道，保障服務可用性。
 
-- 🏢 電子商務｜📍 香港
-- 💰 55K-85K
-- 📝 維護和優化 CI/CD 流程
-- 🔗 [查看詳情](#)
+### 4. [資安工程師 (Cloud Security)](https://careers.google.com/security-engineer)
 
-### 6. 全端開發工程師
+- 🏢 Google Cloud｜📍 香港｜💰 80K-120K
 
-- 🏢 軟體公司｜📍 香港/遠端
-- 💰 50K-75K
-- 📝 React/Vue + Node.js 全端開發
-- 🔗 [查看詳情](#)
+- 📝 負責雲端安全架構，應對網絡威脅。
 
-### 7. 數據工程師
+### 5. [AI/ML 工程師](https://openai.com/careers)
 
-- 🏢 數據分析公司｜📍 香港
-- 💰 60K-90K
-- 📝 構建數據管道和倉儲
-- 🔗 [查看詳情](#)
+- 🏢 OpenAI 香港｜📍 香港｜💰 75K-110K
 
-### 8. IT 專案經理
+- 📝 開發和部署機器學習模型，優化模型效能。
 
-- 🏢 顧問公司｜📍 香港
-- 💰 55K-80K
-- 📝 管理技術項目交付
-- 🔗 [查看詳情](#)
+### 6. [雲端資料庫工程師 (PostgreSQL/MongoDB)](https://cloud.tencent.com/careers)
+
+- 🏢 騰訊雲｜📍 香港｜💰 60K-90K
+
+- 📝 管理大規模資料庫，優化查詢效能。
+
+### 7. [全端開發工程師 (React/Node.js)](https://shopify.com/careers)
+
+- 🏢 Shopify 香港｜📍 香港/遠端｜💰 55K-85K
+
+- 📝 開發電商平台功能，全端技術棧。
+
+### 8. [SRE 工程師 (Kubernetes/Docker)](https://digitalocean.com/careers)
+
+- 🏢 DigitalOcean 香港｜📍 香港｜💰 65K-95K
+
+- 📝 維護 Kubernetes 集群，保障服務穩定性。
 
 ---
 
 💡 求職建議：
-- LinkedIn 必須優化：加上「AWS」「Azure」「AI」等關鍵字
+- LinkedIn 必須優化：加上「AWS」「Azure」「AI」「DevOps」等關鍵字
 - IT 中級薪資：$35K-$60K｜資深：$60K-$100K+
-- 建議每季掌握 1 個新工具（如 RAG 或 Agent 開發）
+- 雲端技能（AWS/Azure/GCP）需求最高，薪資可達 $80K-150K+
 
