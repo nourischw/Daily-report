@@ -8,7 +8,7 @@
 
 **1. BitBoy convicted?**
 
-- 📈 概率：4%｜成交量：40.0K
+- 📈 概率：3%｜成交量：40.0K
 - [查看市場](https://polymarket.com/market/bitboy-convicted)
 
 **2. Russia-Ukraine Ceasefire before GTA VI?**
@@ -18,12 +18,12 @@
 
 **3. 新 Rihanna Album before GTA VI?**
 
-- 📈 概率：64%｜成交量：578.779062
+- 📈 概率：64%｜成交量：573.779062
 - [查看市場](https://polymarket.com/market/new-rhianna-album-before-gta-vi-926)
 
 **4. 新 Playboi Carti Album before GTA VI?**
 
-- 📈 概率：61%｜成交量：1.1K
+- 📈 概率：60%｜成交量：1.1K
 - [查看市場](https://polymarket.com/market/new-playboi-carti-album-before-gta-vi-421)
 
 **5. Will Jesus Christ return before GTA VI?**

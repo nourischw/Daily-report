@@ -6,17 +6,17 @@
 
 ### 1. Schedule tasks on the 網頁
 
-- ⭐ 94 分｜💬 63 留言｜👤 iBelieve
+- ⭐ 95 分｜💬 63 留言｜👤 iBelieve
 - 🔗 **code.claude.com**｜[閱讀原文](https://code.claude.com/docs/en/web-scheduled-tasks)
 
 ### 2. The European AllSky7 fireball 網絡
 
-- ⭐ 13 分｜💬 1 留言｜👤 marklit
+- ⭐ 16 分｜💬 1 留言｜👤 marklit
 - 🔗 **allsky7.net**｜[閱讀原文](https://www.allsky7.net/#archive)
 
 ### 3. Apple discontinues the Mac 專業
 
-- ⭐ 300 分｜💬 229 留言｜👤 bentocorp
+- ⭐ 301 分｜💬 230 留言｜👤 bentocorp
 - 🔗 **9to5mac.com**｜[閱讀原文](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
 
 ### 4. 為什麼 so many control rooms were seafoam green (2025)
@@ -71,7 +71,7 @@
 
 ### 14. We rewrote JSONata with AI in a day, saved $500k/year
 
-- ⭐ 131 分｜💬 117 留言｜👤 cjlm
+- ⭐ 132 分｜💬 117 留言｜👤 cjlm
 - 🔗 **reco.ai**｜[閱讀原文](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ### 15. Whistler: Live eBPF 程式設計 from the Common Lisp REPL
