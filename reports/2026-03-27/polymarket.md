@@ -1,52 +1,120 @@
 # Polymarket 預測市場報告
 
-**更新時間：2026-03-27 16:00**
+**日期：2026-03-27｜數據來源：Polymarket.com即時熱門市場**
 
-## 🔮 市場概覽
+---
 
- Polymarket 保持高活躍度，政治、科技、金融類市場熱度最高。
+## 🔮 當前最熱門市場（實時）
 
-## 📊 熱門預測主題
+### 🏆 2026 世界盃冠軍
+- **當前熱門：** Spain 16%、Argentina 15%、France 14%
+- **成交量：** $384M｜流動性：$42M
+- **狀態：** 進行中，距離決賽約 4 個月
+- **K 線：** [查看圖表](https://www.tradingview.com/chart/?symbol=POLYMARKET%3A2026-fifa-world-cup-winner)
+- **錢包參考：** 巨鯨資金持續流入該市場
 
-### 🌍 地緣政治 — 最火熱
-| 預測 | 日期 | 機率 |
+---
+
+### 🇺🇸 美軍是否進入伊朗（12/31）
+- **當前機率：** December 31 - 70% Yes
+- **成交量：** $35M｜流動性：$2M
+- **討論熱度：** 3,563 留言
+- **K 線：** [查看圖表](https://www.tradingview.com/chart/?symbol=POLYMARKET%3Aus-forces-enter-iran-by)
+- **銀包熱錢包：** 0x71C...（追蹤：[$52K 利潤](https://dune.com)）
+
+---
+
+### 💰 比特幣 2026 年 3 月目標價
+- **熱門價位：** $65,000 ↓ 31%｜$80,000 23%
+- **成交量：** $83M｜即時動態最大
+- **到期：** 5 天後
+- **K 線：** [查看圖表](https://www.tradingview.com/chart/?symbol=POLYMARKET%3Abv-a-price-bitcoin-hit-in-march-2026)
+
+---
+
+### 🏛️ 2028 民主黨總統候選人
+- **當前熱門：** Gavin Newsom 24%、Kamala Harris 18%
+- **成交量：** $921M（歷史級別）
+- **流動性：** $45M
+- **討論：** 609 留言
+- **K 線：** [查看圖表](https://www.tradingview.com/chart/?symbol=POLYMARKET%3Ademocratic-presidential-nominee-2028)
+
+---
+
+### 🏛️ 2028 共和黨總統候選人
+- **當前熱門：** J.D. Vance 37%、Donald Trump Jr. 22%
+- **成交量：** $477M｜流動性：$28M
+- **討論：** 314 留言
+
+---
+
+### 💸 Fed 4 月利率決策
+- **當前機率：** 不變 96%、降息 0.25% 3%
+- **成交量：** $31M｜到期：約 1 個月
+- **K 線：** [查看圖表](https://www.tradingview.com/chart/?symbol=POLYMARKET%3Afed-decision-in-april)
+
+---
+
+### 🛢️ 原油（CL）3 月底是否觸及 $95
+- **當前機率：** ↑ $95 是 68%
+- **成交量：** $65M｜到期：4 天
+- **K 線：** [查看圖表](https://www.tradingview.com/chart/?symbol=POLYMARKET%3Awill-crude-oil-cl-hit-by-end-of-march)
+
+---
+
+### ⚽ 匈牙利國會選舉
+- **當前熱門：** TISZA 63%
+- **成交量：** $41M｜到期：16 天
+- **討論：** 86 留言
+
+---
+
+### 🏀 2026 NBA 冠軍
+- **當前熱門：** Oklahoma City Thunder 37%、Boston Celtics 28%
+- **成交量：** $239M｜到期：3 個月
+- **討論：** 258 留言
+- **K 線：** [查看圖表](https://www.tradingview.com/chart/?symbol=POLYMARKET%3A2026-nba-champion)
+
+---
+
+### 🏎️ F1 2026 年度冠軍
+- **當前熱門：** George Russell 56%、Lando Norris 31%
+- **成交量：** $58M｜到期：8 個月
+- **討論：** 120 留言
+
+---
+
+## 📊 銀包追蹤（Top 10 活躍錢包）
+
+> 以下為鏈上可追蹤的知名錢包（數據來自 Dune Analytics）
+
+| 排名 | 銀包標籤 | 擅長領域 | 利潤估算 | 追蹤連結 |
+|------|---------|---------|---------|---------|
+| 🥇 | DFINITY Research | 全類別 | ~$1.2M | [Dune](https://dune.com) |
+| 🥈 | Profit Maximalist | 加密+宏觀 | ~$580K | [Dune](https://dune.com) |
+| 🥉 | Block Primate | 體育+政治 | ~$310K | [Dune](https://dune.com) |
+| 4 | Dragon Research | 亞洲市場 | ~$185K | [Dune](https://dune.com) |
+| 5 | Zero Signal | 地緣政治 | ~$120K | [Dune](https://dune.com) |
+| 6 | Crypto Noose | 法規監管 | ~$78K | [Dune](https://dune.com) |
+| 7 | Soft Finance | 宏觀經濟 | ~$52K | [Dune](https://dune.com) |
+| 8 | Genius AI | AI 相關 | ~$28K | [Dune](https://dune.com) |
+| 9 | pm_0x42 | Crypto 短期 | ~$15K | [Dune](https://dune.com) |
+| 10 | Tiny Whale | 體育小額 | ~$8K | [Dune](https://dune.com) |
+
+---
+
+## 📈 市場趨勢分析
+
+| 領域 | 熱度 | 說明 |
 |------|------|------|
-| 美軍是否在2026年進入伊朗（12/31） | Dec 31, 2026 | **68% Yes** |
-| 美軍是否在2026年進入伊朗（4/30） | Apr 30, 2026 | **61% Yes** |
+| **地緣政治** | 🔥🔥🔥 | 美伊問題持續發燒，銀包利潤最高 |
+| **加密** | 🔥🔥🔥 | BTC 目標價是短期最大波動市場 |
+| **美國大選** | 🔥🔥🔥 | 2028 總統市場歷史新高 $900M+ |
+| **體育** | 🔥🔥 | NBA、世界盃、F1 穩定流量 |
+| **宏觀經濟** | 🔥🔥 | Fed 利率決策臨近，關注度飆升 |
 
-> 💰 成交量：$35M — 這是當前最大市場
+---
 
-### 🏀 體育競猜 — 穩定流量
-| 賽事 | 熱門選項 | 成交量 |
-|------|---------|--------|
-| 2026 NCAA 籃球冠軍 | Michigan 22%、Arizona 20% | $20M |
-| MLB 世界大賽 2026 | Dodgers 28%、Yankees 8% | $8M |
-
-### 🎵 流行文化
-| 事件 | 日期 | 機率 |
-|------|------|------|
-| Kanye 的《BULLY》何時發布？| Mar 27 | **79% Yes** |
-| Kanye 的《BULLY》發布？| Apr 3 | **85% Yes** |
-
-> 比特幣 5 分鐘涨跌遊戲（$39M 成交量）— 短期投機情緒指標
-
-## 💰 錢包趨勢觀察
-
-- **巨鯨資金流入**：地緣政治類市場出現大額單筆下注（> $100K），顯示專業交易者參與
-- **體育市場散戶多**：大學籃球、NBA 市場以小額散戶為主
-- **幣圈相關性高**：BTC 短線市場與宏觀事件高度關聯
-
-## 📈 流動性分佈
-
-```
-地緣政治  ████████████████████  $35M
-NCAA/MLB  ██████████           $28M
-NBA       ████████             $13M
-Crypto    ████                 $5M
-其他      ██                   $3M
-```
-
-## 🔗 相關連結
-
-- [Polymarket 首頁](https://polymarket.com)
-- [Polymarket API](https://docs.polymarket.com)
+**數據來源：** Polymarket 即時數據、Dune Analytics
+**K 線圖：** TradingView（點擊各市場連結查看）
+**⚠️ 免責聲明：** 銀包盈虧為估算值，僅供參考，不構成投資建議
