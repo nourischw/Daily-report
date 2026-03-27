@@ -22,24 +22,24 @@
 - 詳情：[查看市場](https://polymarket.com/market/will-the-florida-panthers-win-the-2026-nhl-stanley-cup)
 
 **4. GTA VI released before June 2026?**
-- 概率：2%｜24h 成交量：$57.5K
+- 概率：2%｜24h 成交量：$48.7K
 - 詳情：[查看市場](https://polymarket.com/market/gta-vi-released-before-june-2026)
 
 **5. Will Italy qualify for the 2026 FIFA World Cup?**
 - 概率：74%｜24h 成交量：$43.6K
 - 詳情：[查看市場](https://polymarket.com/market/will-italy-qualify-for-the-2026-fifa-world-cup)
 
-**6. Will Harvey Weinstein be sentenced to no prison time?**
+**6. BitBoy convicted?**
+- 概率：4%｜24h 成交量：$38.9K
+- 詳情：[查看市場](https://polymarket.com/market/bitboy-convicted)
+
+**7. Will Harvey Weinstein be sentenced to no prison time?**
 - 概率：27%｜24h 成交量：$38.2K
 - 詳情：[查看市場](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-no-prison-time)
 
-**7. Will the Dallas Stars win the 2026 NHL Stanley Cup?**
+**8. Will the Dallas Stars win the 2026 NHL Stanley Cup?**
 - 概率：9%｜24h 成交量：$36.4K
 - 詳情：[查看市場](https://polymarket.com/market/will-the-dallas-stars-win-the-2026-nhl-stanley-cup)
-
-**8. BitBoy convicted?**
-- 概率：7%｜24h 成交量：$35.8K
-- 詳情：[查看市場](https://polymarket.com/market/bitboy-convicted)
 
 **9. Will the New Jersey Devils win the 2026 NHL Stanley Cup?**
 - 概率：0%｜24h 成交量：$30.1K
