@@ -8,12 +8,12 @@
 ## 📰 今日 IT 熱門新聞
 
 ### 1. Running Tesla Model 3's computer on my desk using parts from crashed cars
-- **分數：** 886｜**留言：** 305｜**作者：** driesdep
+- **分數：** 887｜**留言：** 305｜**作者：** driesdep
 - **來源：** bugs.xdavidhu.me
 - **連結：** [查看原文](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 
 ### 2. Why so many control rooms were seafoam green (2025)
-- **分數：** 749｜**留言：** 147｜**作者：** Amorymeltzer
+- **分數：** 750｜**留言：** 147｜**作者：** Amorymeltzer
 - **來源：** bethmathews.substack.com
 - **連結：** [查看原文](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
 
@@ -28,7 +28,7 @@
 - **連結：** [查看原文](https://futuresearch.ai/blog/litellm-attack-transcript/)
 
 ### 5. Apple discontinues the Mac Pro
-- **分數：** 277｜**留言：** 210｜**作者：** bentocorp
+- **分數：** 278｜**留言：** 212｜**作者：** bentocorp
 - **來源：** 9to5mac.com
 - **連結：** [查看原文](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
 
@@ -38,7 +38,7 @@
 - **連結：** [查看原文](https://voxday.net/2026/03/25/rip-john-bradley/)
 
 ### 7. DOOM Over DNS
-- **分數：** 247｜**留言：** 75｜**作者：** Venn1
+- **分數：** 248｜**留言：** 76｜**作者：** Venn1
 - **來源：** github.com
 - **連結：** [查看原文](https://github.com/resumex/doom-over-dns)
 
@@ -48,12 +48,12 @@
 - **連結：** [查看原文](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
 
 ### 9. Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer
-- **分數：** 193｜**留言：** 63｜**作者：** j0rg3
+- **分數：** 194｜**留言：** 63｜**作者：** j0rg3
 - **來源：** georgelarson.me
 - **連結：** [查看原文](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ### 10. $500 GPU outperforms Claude Sonnet on coding benchmarks
-- **分數：** 176｜**留言：** 63｜**作者：** yogthos
+- **分數：** 176｜**留言：** 64｜**作者：** yogthos
 - **來源：** github.com
 - **連結：** [查看原文](https://github.com/itigges22/ATLAS)
 
@@ -78,17 +78,17 @@
 - **連結：** [查看原文](https://colibri.social/)
 
 ### 15. We rewrote JSONata with AI in a day, saved $500k/year
-- **分數：** 109｜**留言：** 111｜**作者：** cjlm
+- **分數：** 109｜**留言：** 112｜**作者：** cjlm
 - **來源：** reco.ai
 - **連結：** [查看原文](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ### 16. Schedule tasks on the web
-- **分數：** 80｜**留言：** 51｜**作者：** iBelieve
+- **分數：** 81｜**留言：** 53｜**作者：** iBelieve
 - **來源：** code.claude.com
 - **連結：** [查看原文](https://code.claude.com/docs/en/web-scheduled-tasks)
 
 ### 17. Chicago artist creates tourism posters for city's neighborhoods
-- **分數：** 80｜**留言：** 37｜**作者：** NaOH
+- **分數：** 80｜**留言：** 38｜**作者：** NaOH
 - **來源：** chicagotribune.com
 - **連結：** [查看原文](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
 
@@ -103,7 +103,7 @@
 - **連結：** [查看原文](https://atgreen.github.io/repl-yell/posts/whistler/)
 
 ### 20. From 0% to 36% on Day 1 of ARC-AGI-3
-- **分數：** 70｜**留言：** 38｜**作者：** lairv
+- **分數：** 71｜**留言：** 38｜**作者：** lairv
 - **來源：** symbolica.ai
 - **連結：** [查看原文](https://www.symbolica.ai/blog/arc-agi-3)
 
