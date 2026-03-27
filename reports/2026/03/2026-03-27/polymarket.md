@@ -8,11 +8,11 @@
 
 **1. [BitBoy convicted?](https://polymarket.com/market/bitboy-convicted)
 
-- 📈 概率：4%｜成交量：38.8K
+- 📈 概率：3%｜成交量：38.8K
 
 **2. [Russia-Ukraine Ceasefire before GTA VI?](https://polymarket.com/market/russia-ukraine-ceasefire-before-gta-vi-554)
 
-- 📈 概率：55%｜成交量：695.8700579999999
+- 📈 概率：55%｜成交量：690.8700579999999
 
 **3. [新 Rihanna Album before GTA VI?](https://polymarket.com/market/new-rhianna-album-before-gta-vi-926)
 
@@ -20,7 +20,7 @@
 
 **4. [新 Playboi Carti Album before GTA VI?](https://polymarket.com/market/new-playboi-carti-album-before-gta-vi-421)
 
-- 📈 概率：59%｜成交量：1.1K
+- 📈 概率：59%｜成交量：1.2K
 
 **5. [Will Jesus Christ return before GTA VI?](https://polymarket.com/market/will-jesus-christ-return-before-gta-vi-665)
 
@@ -72,19 +72,19 @@
 
 **17. [Will Italy qualify for the 2026 FIFA World Cup?](https://polymarket.com/market/will-italy-qualify-for-the-2026-fifa-world-cup)
 
-- 📈 概率：75%｜成交量：28.1K
+- 📈 概率：76%｜成交量：28.3K
 
 **18. [Will Sweden qualify for the 2026 FIFA World Cup?](https://polymarket.com/market/will-sweden-qualify-for-the-2026-fifa-world-cup)
 
-- 📈 概率：63%｜成交量：3.6K
+- 📈 概率：63%｜成交量：3.5K
 
 **19. [Will Poland qualify for the 2026 FIFA World Cup?](https://polymarket.com/market/will-poland-qualify-for-the-2026-fifa-world-cup)
 
-- 📈 概率：38%｜成交量：11.2K
+- 📈 概率：38%｜成交量：11.3K
 
 **20. [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/market/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup)
 
-- 📈 概率：12%｜成交量：14.8K
+- 📈 概率：12%｜成交量：8.8K
 
 _...還有 80 個市場_
 
