@@ -1,5 +1,8 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { marked } from 'marked';
+
+marked.setOptions({ gfm: true, breaks: true });
 
 export async function getStaticPaths() {
   const fs = await import('fs');
@@ -144,7 +147,7 @@ const formattedDate = date ? new Date(date.replace(/-/g, '/')).toLocaleDateStrin
               </h2>
               <div class="prose prose-invert prose-lg max-w-none">
                 {reports[channel.id] ? (
-                  <article class="markdown-content" set:html={reports[channel.id]} />
+                  <article class="markdown-content" set:html={marked.parse(reports[channel.id])} />
                 ) : (
                   <p class="text-gray-500">暫無內容</p>
                 )}
