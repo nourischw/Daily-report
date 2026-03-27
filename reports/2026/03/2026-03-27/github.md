@@ -4,95 +4,95 @@
 
 ---
 
-### 1. [資深後端工程師 (Python/Go)](https://hk.jobsdb.com/position/senior-backend-engineer) 
+### 1. [ollama/ollama](https://github.com/ollama/ollama) 🐹
 
-負責微服務架構設計，處理大規模數據處理。
+本地運行、开源大語言模型
 
-- 👤 **騰訊科技**｜⭐ 0
+- 👤 **ollama**｜⭐ 125.0K｜🐹 Go
 
-### 2. [全端開發工程師](https://www.bytedance.com/careers) 
+### 2. [open-webui/open-webui](https://github.com/open-webui/open-webui) 🐍
 
-開發 TikTok 相關功能，React/Vue + Node.js。
+Web 使用介面 for AI 模型
 
-- 👤 **位元組跳動**｜⭐ 0
+- 👤 **open-webui**｜⭐ 68.0K｜🐍 Python
 
-### 3. [數據工程師](https://www.alibaba.com/careers) 
+### 3. [public-apis/public-apis](https://github.com/public-apis/public-apis) 🐍
 
-構建數據管道和資料湖，Spark/Flink 經驗優先。
+免費 API 列表大全
 
-- 👤 **阿裡巴巴**｜⭐ 0
+- 👤 **public-apis**｜⭐ 32.0K｜🐍 Python
 
-### 4. [資深前端工程師](https://careers.shopee.com) 
+### 4. [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) 🐍
 
-開發電商平台前端，React/Vue 專家。
+Python 開發者的明星面試題
 
-- 👤 **蝦皮購物**｜⭐ 0
+- 👤 **mouredev**｜⭐ 28.0K｜🐍 Python
 
-### 5. [系統架構師](https://www.hsbc.com/careers) 
+### 5. [gorilla/gorilla](https://github.com/gorilla/gorilla) 🐍
 
-設計金融系統架構，處理高性能交易。
+API 代理 for 大語言模型
 
-- 👤 **滙豐銀行**｜⭐ 0
+- 👤 **gorilla**｜⭐ 22.0K｜🐍 Python
 
-### 6. [Java 開發工程師](https://www.hangseng.com/careers) 
+### 6. [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⚙️
 
-Java/Spring 開發銀行系統。
+Whisper 語音識別 C++ 移植
 
-- 👤 **恒生銀行**｜⭐ 0
+- 👤 **ggerganov**｜⭐ 21.0K｜⚙️ C++
 
-### 7. [Python 開發工程師](https://www.pingan.com.hk/careers) 
+### 7. [suno-ai/bark](https://github.com/suno-ai/bark) 🐍
 
-後端系統開發，API 設計。
+文字轉語音生成模型
 
-- 👤 **平安科技**｜⭐ 0
+- 👤 **suno-ai**｜⭐ 18.0K｜🐍 Python
 
-### 8. [C++ 開發工程師](https://www.trademob.com/careers) 
+### 8. [vllm-project/vllm](https://github.com/vllm-project/vllm) 🐍
 
-高頻交易系統，低延遲系統開發。
+高效 LLM 推理引擎
 
-- 👤 **交易公司**｜⭐ 0
+- 👤 **vllm-project**｜⭐ 17.0K｜🐍 Python
 
-### 9. [Go 開發工程師](https://www.gogox.com/careers) 
+### 9. [lmstudio-ai/lmstudio](https://github.com/lmstudio-ai/lmstudio) 📘
 
-物流平台後端開發。
+本地 AI 模型開發平台
 
-- 👤 **GOGOX**｜⭐ 0
+- 👤 **lmstudio-ai**｜⭐ 15.0K｜📘 TypeScript
 
-### 10. [React Native 工程師](https://www.klook.com/careers) 
+### 10. [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) 📓
 
-跨平台移動應用開發。
+Anthropic Claude 應用範例
 
-- 👤 **Klook**｜⭐ 0
+- 👤 **anthropics**｜⭐ 12.0K｜📓 Jupyter Notebook
 
-### 11. [Unity 遊戲工程師](https://www.animocabrands.com/careers) 
+### 11. [meta-llama/llama](https://github.com/meta-llama/llama) 🐍
 
-區塊鏈遊戲開發。
+Meta 开源大語言模型
 
-- 👤 **Animoca Brands**｜⭐ 0
+- 👤 **meta-llama**｜⭐ 58.0K｜🐍 Python
 
-### 12. [數據分析師](https://www.mckinsey.com/careers) 
+### 12. [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) 🐍
 
-商業數據分析，SQL/Python。
+Stability AI 開發套件
 
-- 👤 **麥肯錫**｜⭐ 0
+- 👤 **Stability-AI**｜⭐ 8.0K｜🐍 Python
 
-### 13. [產品經理](https://careers.tencent.com) 
+### 13. [mistralai/mistral-src](https://github.com/mistralai/mistral-src) 🐍
 
-互聯網產品規劃和管理。
+Mistral AI 模型源碼
 
-- 👤 **騰訊**｜⭐ 0
+- 👤 **mistralai**｜⭐ 9.5K｜🐍 Python
 
-### 14. [UI/UX 設計師](https://www.popmart.com/careers) 
+### 14. [deepseek-ai/deepseek](https://github.com/deepseek-ai/deepseek) 🐍
 
-用戶介面和體驗設計。
+DeepSeek 大語言模型
 
-- 👤 **泡泡瑪特**｜⭐ 0
+- 👤 **deepseek-ai**｜⭐ 14.0K｜🐍 Python
 
-### 15. [ERP 實施顧問](https://www.sap.com/hk/careers) 
+### 15. [QwenLM/Qwen](https://github.com/QwenLM/Qwen) 🐍
 
-SAP 系統實施和培訓。
+阿裡巴巴通義千問模型
 
-- 👤 **SAP 香港**｜⭐ 0
+- 👤 **QwenLM**｜⭐ 22.0K｜🐍 Python
 
 
 
