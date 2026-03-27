@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://yourusername.github.io',
+  site: 'https://nourischw.github.io',
   base: '/ch-daily-report',
   build: {
     assets: 'assets'
