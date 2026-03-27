@@ -4,5 +4,5 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://nourischw.github.io/Daily-report',
-  base: './',
+  base: '/Daily-report/',
 });
