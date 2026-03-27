@@ -12,7 +12,8 @@
     "scrape:polymarket": "node scripts/polymarket-scraper.mjs",
     "scrape:jobs": "node scripts/jobs-scraper.mjs",
     "scrape:enhanced": "node scripts/enhanced-scraper.mjs",
-    "scrape:all": "node scripts/enhanced-scraper.mjs && node scripts/polymarket-scraper.mjs"
+    "scrape:all": "node scripts/enhanced-scraper.mjs && node scripts/polymarket-scraper.mjs",
+    "generate": "node scripts/generate-reports.mjs"
   },
   "dependencies": {
     "astro": "^5.0.0",

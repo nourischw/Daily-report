@@ -1,63 +1,112 @@
 # IT 資訊報告
 
-**日期：2026-03-27｜收集自 Hacker News、TechCrunch、The Verge（共 10 則）**
+**日期：2026-03-27｜收集自 Hacker News、TechCrunch**
+**顯示：** Top 20 則新聞
 
 ---
 
-## 📰 今日 Top 10 IT 熱門新聞
+## 📰 今日 IT 熱門新聞
 
-### 1. NYC 醫院終止 Palantir 合作 — 醫療 AI 信任危機加劇
-紐約市多家醫院宣佈終止與 Palantir 的 AI 合作。Palantir 以數據分析聞名，但隱私爭議不斷。這次決定反映醫療機構對 AI 供應商的信任危機加劇。
-[The Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)｜**253 HN Points**
+### 1. Running Tesla Model 3's computer on my desk using parts from crashed cars
+- **分數：** 886｜**留言：** 305｜**作者：** driesdep
+- **來源：** bugs.xdavidhu.me
+- **連結：** [查看原文](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 
-### 2. LiteLLM 遭供應鏈攻擊 — AI 工具鏈安全警鐘
-AI 調度工具 LiteLLM 遭受供應鏈攻擊，一名研究人員即時紀錄並公佈完整攻擊過程，再次暴露 AI 工具鏈的安全漏洞。
-[futuresearch.ai](https://futuresearch.ai/blog/litellm-attack-transcript/)｜**274 HN Points**
+### 2. Why so many control rooms were seafoam green (2025)
+- **分數：** 743｜**留言：** 146｜**作者：** Amorymeltzer
+- **來源：** bethmathews.substack.com
+- **連結：** [查看原文](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
 
-### 3. GitHub 用戶加速遷移至 Codeberg — 歐洲開源托管升溫
-一篇「懶人搬家指南」獲 502 HN Points，越來越多開發者因 Microsoft/GitHub 政策轉向 Codeberg（歐洲開源托管平台）。
-[搬家指南](https://unterwaditzer.net/2025/codeberg.html)｜**502 HN Points**
+### 3. We haven't seen the worst of what gambling and prediction markets will do
+- **分數：** 669｜**留言：** 473｜**作者：** mmcclure
+- **來源：** derekthompson.org
+- **連結：** [查看原文](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 
-### 4. CERN 推出開放獲取學術出版平台 — 學術出版開源化
-歐洲核子研究組織宣佈托管 Open Research Europe，學術出版開源化趨勢持續，開放科學邁進重要一步。
-[CERN 新聞](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)｜**178 HN Points**
+### 4. My minute-by-minute response to the LiteLLM malware attack
+- **分數：** 342｜**留言：** 131｜**作者：** Fibonar
+- **來源：** futuresearch.ai
+- **連結：** [查看原文](https://futuresearch.ai/blog/litellm-attack-transcript/)
 
-### 5. DOOM 遊戲通過 DNS 協定傳輸 — 網路協議極限玩法
-開源愛好者實現了通過 DNS 協定傳輸 DOOM 遊戲，展示網路協議的極限創意用法，證明網路並不只能傳輸「預期用途」的資料。
-[GitHub](https://github.com/resumex/doom-over-dns)｜**192 HN Points**
+### 5. Swift 6.3
+- **分數：** 312｜**留言：** 204｜**作者：** ingve
+- **來源：** swift.org
+- **連結：** [查看原文](https://www.swift.org/blog/swift-6.3-released/)
 
-### 6. OpenTelemetry profiles 進入公開 Alpha — 可觀測性再升級
-可觀測性標準 OpenTelemetry 推出 profiles 功能公開 alpha 版，追蹤系統行為的能力進一步提升，工程團隊可更精確掌握生產環境。
-[OpenTelemetry 官方](https://opentelemetry.io/blog/2026/profiles-alpha/)｜**141 HN Points**
+### 6. Apple discontinues the Mac Pro
+- **分數：** 273｜**留言：** 206｜**作者：** bentocorp
+- **來源：** 9to5mac.com
+- **連結：** [查看原文](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
 
-### 7. Intel 發布 Arc Pro B70 GPU — 瞄準 AI 推理市場、$949 起
-Intel 推出 Arc Pro B70「Big Battlemage」桌面 GPU，32GB VRAM、32 Xe2 核心，專為 AI 推理設計，售價 $949 起，正式加入 AI GPU 戰局。
-[Intel 官網](http://intel.com/ArcPro)｜TechCrunch 報導
+### 7. John Bradley, author of xv, has died
+- **分數：** 251｜**留言：** 78｜**作者：** linsomniac
+- **來源：** voxday.net
+- **連結：** [查看原文](https://voxday.net/2026/03/25/rip-john-bradley/)
 
-### 8. WhatsApp 將推「AI 生成頭像」功能 — Meta 再推 AI 個人化
-Meta 正在測試讓 WhatsApp 用戶使用 AI 生成自訂個人頭像的功能，進一步將 AI 個人化整合到日常通訊平台。
-[The Verge](https://www.theverge.com)｜Jess Weatherbed 報導
+### 8. DOOM Over DNS
+- **分數：** 247｜**留言：** 75｜**作者：** Venn1
+- **來源：** github.com
+- **連結：** [查看原文](https://github.com/resumex/doom-over-dns)
 
-### 9. Firebase 新定價惹爭議 — 開發者反應兩極
-Google Firebase 更新即時資料庫定價模式，部分開發者反映成本大幅上升，社群正在討論替代方案（Supabase、 PocketBase）。
-[Hacker News 討論](https://news.ycombinator.com/)
+### 9. CERN to host a new phase of Open Research Europe
+- **分數：** 215｜**留言：** 19｜**作者：** JohnHammersley
+- **來源：** home.cern
+- **連結：** [查看原文](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
 
-### 10. $7/月 VPS 上跑 AI Agent — 低成本 AI 部署新範例
-開發者在每月 $7 的 VPS 上運行 AI Agent，使用 IRC 作為傳輸層。低成本 AI 部署已成為新趨勢，挑戰傳統昂貴的雲端 AI 方案。
-[完整紀錄](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)｜**30 HN Points**
+### 10. Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer
+- **分數：** 192｜**留言：** 63｜**作者：** j0rg3
+- **來源：** georgelarson.me
+- **連結：** [查看原文](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+
+### 11. $500 GPU outperforms Claude Sonnet on coding benchmarks
+- **分數：** 167｜**留言：** 62｜**作者：** yogthos
+- **來源：** github.com
+- **連結：** [查看原文](https://github.com/itigges22/ATLAS)
+
+### 12. HyperAgents: Self-referential self-improving agents
+- **分數：** 166｜**留言：** 64｜**作者：** andyg_blog
+- **來源：** github.com
+- **連結：** [查看原文](https://github.com/facebookresearch/hyperagents)
+
+### 13. OpenTelemetry profiles enters public alpha
+- **分數：** 160｜**留言：** 24｜**作者：** tanelpoder
+- **來源：** opentelemetry.io
+- **連結：** [查看原文](https://opentelemetry.io/blog/2026/profiles-alpha/)
+
+### 14. Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3
+- **分數：** 132｜**留言：** 34｜**作者：** russellthehippo
+- **來源：** github.com
+- **連結：** [查看原文](https://github.com/russellromney/turbolite)
+
+### 15. Colibri – chat platform built on the AT Protocol for communities big and small
+- **分數：** 112｜**留言：** 68｜**作者：** todotask2
+- **來源：** colibri.social
+- **連結：** [查看原文](https://colibri.social/)
+
+### 16. We rewrote JSONata with AI in a day, saved $500k/year
+- **分數：** 109｜**留言：** 109｜**作者：** cjlm
+- **來源：** reco.ai
+- **連結：** [查看原文](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+
+### 17. Chicago artist creates tourism posters for city's neighborhoods
+- **分數：** 80｜**留言：** 36｜**作者：** NaOH
+- **來源：** chicagotribune.com
+- **連結：** [查看原文](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
+
+### 18. Using FireWire on a Raspberry Pi
+- **分數：** 75｜**留言：** 34｜**作者：** jandeboevrie
+- **來源：** jeffgeerling.com
+- **連結：** [查看原文](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
+
+### 19. Schedule tasks on the web
+- **分數：** 73｜**留言：** 40｜**作者：** iBelieve
+- **來源：** code.claude.com
+- **連結：** [查看原文](https://code.claude.com/docs/en/web-scheduled-tasks)
+
+### 20. Whistler: Live eBPF Programming from the Common Lisp REPL
+- **分數：** 71｜**留言：** 2｜**作者：** varjag
+- **來源：** atgreen.github.io
+- **連結：** [查看原文](https://atgreen.github.io/repl-yell/posts/whistler/)
 
 ---
 
-## 🔧 技術趨勢觀察
-
-| 領域 | 動態 | 影響 |
-|------|------|------|
-| AI 安全 | LiteLLM 攻擊引發供應鏈安全關注 | 所有 AI 工具需重新審視依賴 |
-| 開源托管 | GitHub 遷移潮持續 | Codeberg 受益 |
-| GPU 市場 | Intel 加入 AI GPU 戰局 | Nvidia 壟斷受挑戰 |
-| 可觀測性 | OpenTelemetry 持續擴展 | SRE 工具鏈現代化 |
-| 雲端定價 | Firebase 調價引發反彈 | 開發者成本意識抬頭 |
-
----
-
-**來源：** Hacker News、The Verge、TechCrunch、The Guardian（共 10 則，已去重）
+**數據來源：** Hacker News、TechCrunch
