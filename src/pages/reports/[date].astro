@@ -1,5 +1,5 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const fs = await import('fs');
@@ -32,6 +32,8 @@ export async function getStaticPaths() {
   }));
 }
 
+const { date } = Astro.params;
+
 const channels = [
   { id: 'github', name: 'GitHub 熱度', icon: '💻', color: 'text-white' },
   { id: 'ai', name: 'AI 新聞', icon: '🤖', color: 'text-purple-400' },
@@ -40,13 +42,10 @@ const channels = [
   { id: 'polymarket', name: 'Polymarket 預測', icon: '🔮', color: 'text-yellow-400' },
 ];
 
-// Get today's date in YYYY-MM-DD format
-const today = new Date().toISOString().split('T')[0];
-
 const fs = await import('fs');
 const path = await import('path');
 
-const reportsDir = path.join(process.cwd(), 'reports', today);
+const reportsDir = path.join(process.cwd(), 'reports', date as string);
 
 let reports: Record<string, string> = {
   github: '',
@@ -57,63 +56,26 @@ let reports: Record<string, string> = {
 };
 
 let reportExists = false;
-let latestDate = today;
 
 try {
-  // Find the latest date with reports if today's doesn't exist
-  const rootReportsDir = path.join(process.cwd(), 'reports');
-  const allDates: string[] = [];
-  
-  if (fs.existsSync(rootReportsDir)) {
-    const entries = fs.readdirSync(rootReportsDir);
-    for (const entry of entries) {
-      const fullPath = path.join(rootReportsDir, entry);
-      const stat = fs.statSync(fullPath);
-      if (stat.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(entry)) {
-        allDates.push(entry);
-      }
-    }
-  }
-  
-  if (allDates.length > 0) {
-    allDates.sort().reverse();
-    latestDate = allDates[0];
-    
-    if (!fs.existsSync(reportsDir)) {
-      // Use latest date instead of today
-      const latestReportsDir = path.join(process.cwd(), 'reports', latestDate);
-      if (fs.existsSync(latestReportsDir)) {
-        reportExists = true;
-        const files = fs.readdirSync(latestReportsDir);
-        for (const file of files) {
-          if (file.endsWith('.md')) {
-            const channel = file.replace('.md', '').toLowerCase();
-            if (reports[channel] !== undefined) {
-              const content = fs.readFileSync(path.join(latestReportsDir, file), 'utf-8');
-              reports[channel] = content;
-            }
-          }
-        }
-      }
-    } else {
-      reportExists = true;
-      const files = fs.readdirSync(reportsDir);
-      for (const file of files) {
-        if (file.endsWith('.md')) {
-          const channel = file.replace('.md', '').toLowerCase();
-          if (reports[channel] !== undefined) {
-            const content = fs.readFileSync(path.join(reportsDir, file), 'utf-8');
-            reports[channel] = content;
-          }
+  if (fs.existsSync(reportsDir)) {
+    reportExists = true;
+    const files = fs.readdirSync(reportsDir);
+    for (const file of files) {
+      if (file.endsWith('.md')) {
+        const channel = file.replace('.md', '').toLowerCase();
+        if (reports[channel] !== undefined) {
+          const content = fs.readFileSync(path.join(reportsDir, file), 'utf-8');
+          reports[channel] = content;
         }
       }
     }
   }
 } catch (e) {
-  console.log('Reports directory not ready yet');
+  console.log('Report directory not ready yet');
 }
 
-// Get all available dates for archive and date picker
+// Get all available dates for archive
 const allDates: string[] = [];
 try {
   const rootReportsDir = path.join(process.cwd(), 'reports');
@@ -133,40 +95,25 @@ try {
 allDates.sort().reverse();
 
 // Format date for display
-const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString('zh-TW', {
+const formattedDate = date ? new Date(date.replace(/-/g, '/')).toLocaleDateString('zh-TW', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
   weekday: 'long'
-});
+}) : '';
 ---
 
-<Layout title="每日 IT 資訊報告">
+<Layout title={`${date} 每日 IT 資訊報告`}>
   <div class="max-w-6xl mx-auto px-4 py-8">
     <!-- Header -->
     <header class="text-center mb-8">
+      <a href="/" class="inline-block mb-4 text-accent-500 hover:text-accent-400 transition-colors">
+        ← 返回首頁
+      </a>
       <h1 class="text-4xl font-bold mb-2 bg-gradient-to-r from-accent-500 to-purple-400 bg-clip-text text-transparent">
         每日 IT 資訊報告
       </h1>
       <p class="text-gray-400 text-lg">{formattedDate}</p>
-      
-      <!-- Date Picker -->
-      <div class="mt-4 flex flex-col sm:flex-row items-center justify-center gap-2">
-        <label for="datePicker" class="text-gray-400 text-sm">選擇日期：</label>
-        <input
-          type="date"
-          id="datePicker"
-          class="bg-dark-700 border border-dark-600 rounded-lg px-3 py-2 text-gray-200 focus:outline-none focus:ring-2 focus:ring-accent-500"
-          value={latestDate}
-          min="2020-01-01"
-        />
-        <button
-          id="goToDate"
-          class="px-4 py-2 bg-accent-600 hover:bg-accent-500 rounded-lg text-white transition-colors"
-        >
-          前往
-        </button>
-      </div>
     </header>
 
     {reportExists ? (
@@ -210,7 +157,7 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
       <div class="bg-dark-800 rounded-2xl p-12 text-center shadow-xl border border-dark-700">
         <p class="text-6xl mb-4">📋</p>
         <h2 class="text-2xl font-semibold mb-2">報告尚未生成</h2>
-        <p class="text-gray-400">請稍後再回來查看，或選擇其他日期</p>
+        <p class="text-gray-400">選擇其他日期查看過往報告</p>
       </div>
     )}
 
@@ -222,7 +169,11 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
           allDates.map(d => (
             <a
               href={`/reports/${d}`}
-              class="px-3 py-2 rounded-lg bg-dark-700 hover:bg-dark-600 text-gray-300 hover:text-white transition-all"
+              class={`px-3 py-2 rounded-lg transition-all ${
+                d === date
+                  ? 'bg-accent-600 text-white'
+                  : 'bg-dark-700 hover:bg-dark-600 text-gray-300'
+              }`}
             >
               {d}
             </a>
@@ -267,25 +218,5 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
 
     // Set first tab as active
     tabBtns[0]?.classList.add('bg-dark-600', 'ring-2', 'ring-accent-500');
-
-    // Date picker navigation
-    const datePicker = document.getElementById('datePicker') as HTMLInputElement;
-    const goToDateBtn = document.getElementById('goToDate');
-    
-    goToDateBtn?.addEventListener('click', () => {
-      const selectedDate = datePicker.value;
-      if (selectedDate) {
-        window.location.href = `/reports/${selectedDate}`;
-      }
-    });
-    
-    datePicker?.addEventListener('keypress', (e) => {
-      if (e.key === 'Enter') {
-        const selectedDate = datePicker.value;
-        if (selectedDate) {
-          window.location.href = `/reports/${selectedDate}`;
-        }
-      }
-    });
   </script>
 </Layout>
