@@ -1,6 +1,6 @@
 # IT 工作介紹
 
-**日期：2026-03-27**｜**香港 IT 市場（共 8 個崗位）**
+**日期：2026-03-27**｜**香港 IT 市場（共 15 個崗位）**
 
 ⚠️ 已過濾：不含「雲端」「AWS」「Azure」「DevOps」「Kubernetes」「Docker」關鍵字
 
@@ -36,23 +36,65 @@
 
 - 📝 設計金融系統架構，處理高性能交易。
 
-### 6. [測試工程師 (QA)](https://www.prudential.com.hk/careers)
+### 6. [Java 開發工程師](https://www.hangseng.com/careers)
 
-- 🏢 保誠保險｜📍 香港｜💰 40K-65K
+- 🏢 恒生銀行｜📍 香港｜💰 50K-75K
 
-- 📝 自動化測試，Selenium/Appium 經驗。
+- 📝 Java/Spring 開發銀行系統。
 
-### 7. [專案經理 (IT)](https://careers.deloitte.com)
+### 7. [Python 開發工程師](https://www.pingan.com.hk/careers)
 
-- 🏢 德勤顧問｜📍 香港｜💰 55K-80K
+- 🏢 平安科技｜📍 香港｜💰 55K-80K
 
-- 📝 管理 IT 項目交付，PMP 認證優先。
+- 📝 後端系統開發，API 設計。
 
-### 8. [網路工程師](https://www.pccw.com/careers)
+### 8. [C++ 開發工程師](https://www.trademob.com/careers)
 
-- 🏢 電訊盈科｜📍 香港｜💰 45K-70K
+- 🏢 交易公司｜📍 香港｜💰 60K-90K
 
-- 📝 維護企業網路，CCNA/CCNP 認證。
+- 📝 高頻交易系統，低延遲系統開發。
+
+### 9. [Go 開發工程師](https://www.gogox.com/careers)
+
+- 🏢 GOGOX｜📍 香港｜💰 55K-85K
+
+- 📝 物流平台後端開發。
+
+### 10. [React Native 工程師](https://www.klook.com/careers)
+
+- 🏢 Klook｜📍 香港｜💰 50K-75K
+
+- 📝 跨平台移動應用開發。
+
+### 11. [Unity 遊戲工程師](https://www.animocabrands.com/careers)
+
+- 🏢 Animoca Brands｜📍 香港｜💰 50K-80K
+
+- 📝 區塊鏈遊戲開發。
+
+### 12. [數據分析師](https://www.mckinsey.com/careers)
+
+- 🏢 麥肯錫｜📍 香港｜💰 60K-90K
+
+- 📝 商業數據分析，SQL/Python。
+
+### 13. [產品經理](https://careers.tencent.com)
+
+- 🏢 騰訊｜📍 香港｜💰 65K-95K
+
+- 📝 互聯網產品規劃和管理。
+
+### 14. [UI/UX 設計師](https://www.popmart.com/careers)
+
+- 🏢 泡泡瑪特｜📍 香港｜💰 40K-65K
+
+- 📝 用戶介面和體驗設計。
+
+### 15. [ERP 實施顧問](https://www.sap.com/hk/careers)
+
+- 🏢 SAP 香港｜📍 香港｜💰 55K-85K
+
+- 📝 SAP 系統實施和培訓。
 
 ---
 

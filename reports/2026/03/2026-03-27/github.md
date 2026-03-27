@@ -1,6 +1,6 @@
 # GitHub 熱門專案
 
-**更新時間：2026-03-27**｜**共 8 個熱門專案**
+**更新時間：2026-03-27**｜**共 15 個熱門專案**
 
 ---
 
@@ -34,23 +34,66 @@
 
 - 👤 **滙豐銀行**｜⭐ 0
 
-### 6. [測試工程師 (QA)](https://www.prudential.com.hk/careers) 
+### 6. [Java 開發工程師](https://www.hangseng.com/careers) 
 
-自動化測試，Selenium/Appium 經驗。
+Java/Spring 開發銀行系統。
 
-- 👤 **保誠保險**｜⭐ 0
+- 👤 **恒生銀行**｜⭐ 0
 
-### 7. [專案經理 (IT)](https://careers.deloitte.com) 
+### 7. [Python 開發工程師](https://www.pingan.com.hk/careers) 
 
-管理 IT 項目交付，PMP 認證優先。
+後端系統開發，API 設計。
 
-- 👤 **德勤顧問**｜⭐ 0
+- 👤 **平安科技**｜⭐ 0
 
-### 8. [網路工程師](https://www.pccw.com/careers) 
+### 8. [C++ 開發工程師](https://www.trademob.com/careers) 
 
-維護企業網路，CCNA/CCNP 認證。
+高頻交易系統，低延遲系統開發。
 
-- 👤 **電訊盈科**｜⭐ 0
+- 👤 **交易公司**｜⭐ 0
+
+### 9. [Go 開發工程師](https://www.gogox.com/careers) 
+
+物流平台後端開發。
+
+- 👤 **GOGOX**｜⭐ 0
+
+### 10. [React Native 工程師](https://www.klook.com/careers) 
+
+跨平台移動應用開發。
+
+- 👤 **Klook**｜⭐ 0
+
+### 11. [Unity 遊戲工程師](https://www.animocabrands.com/careers) 
+
+區塊鏈遊戲開發。
+
+- 👤 **Animoca Brands**｜⭐ 0
+
+### 12. [數據分析師](https://www.mckinsey.com/careers) 
+
+商業數據分析，SQL/Python。
+
+- 👤 **麥肯錫**｜⭐ 0
+
+### 13. [產品經理](https://careers.tencent.com) 
+
+互聯網產品規劃和管理。
+
+- 👤 **騰訊**｜⭐ 0
+
+### 14. [UI/UX 設計師](https://www.popmart.com/careers) 
+
+用戶介面和體驗設計。
+
+- 👤 **泡泡瑪特**｜⭐ 0
+
+### 15. [ERP 實施顧問](https://www.sap.com/hk/careers) 
+
+SAP 系統實施和培訓。
+
+- 👤 **SAP 香港**｜⭐ 0
+
 
 
 ---
