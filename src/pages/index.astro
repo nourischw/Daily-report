@@ -1,0 +1,139 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const channels = [
+  { id: 'github', name: 'GitHub 熱度', icon: '💻', color: 'text-white' },
+  { id: 'ai', name: 'AI 新聞', icon: '🤖', color: 'text-purple-400' },
+  { id: 'it', name: 'IT 資訊', icon: '📰', color: 'text-blue-400' },
+  { id: 'jobs', name: 'IT 工作介紹', icon: '💼', color: 'text-green-400' },
+  { id: 'polymarket', name: 'Polymarket 預測', icon: '🔮', color: 'text-yellow-400' },
+];
+
+// 讀取 reports 目錄中的 markdown 檔案
+const reportsDir = './src/content/reports';
+const fs = await import('fs');
+
+let reports: Record<string, string[]> = {
+  github: [],
+  ai: [],
+  it: [],
+  jobs: [],
+  polymarket: []
+};
+
+try {
+  if (fs.existsSync(reportsDir)) {
+    const files = fs.readdirSync(reportsDir);
+    for (const file of files) {
+      if (file.endsWith('.md')) {
+        const channel = file.replace('.md', '').toLowerCase();
+        if (reports[channel]) {
+          const content = fs.readFileSync(`${reportsDir}/${file}`, 'utf-8');
+          reports[channel].push(content);
+        }
+      }
+    }
+  }
+} catch (e) {
+  console.log('Reports directory not ready yet');
+}
+---
+
+<Layout title="每日 IT 資訊報告">
+  <div class="max-w-6xl mx-auto px-4 py-8">
+    <!-- Header -->
+    <header class="text-center mb-12">
+      <h1 class="text-4xl font-bold mb-2 bg-gradient-to-r from-accent-500 to-purple-400 bg-clip-text text-transparent">
+        每日 IT 資訊報告
+      </h1>
+      <p class="text-gray-400" id="date"></p>
+    </header>
+
+    <!-- Tab Navigation -->
+    <nav class="flex flex-wrap justify-center gap-2 mb-8">
+      {channels.map((channel) => (
+        <button
+          data-tab={channel.id}
+          class="tab-btn px-4 py-2 rounded-lg bg-dark-700 hover:bg-dark-600 transition-all duration-200 flex items-center gap-2 font-medium"
+        >
+          <span>{channel.icon}</span>
+          <span class={channel.color}>{channel.name}</span>
+        </button>
+      ))}
+    </nav>
+
+    <!-- Content Area -->
+    <main class="bg-dark-800 rounded-2xl p-6 min-h-[500px] shadow-xl border border-dark-700">
+      {channels.map((channel, index) => (
+        <div
+          id={`content-${channel.id}`}
+          class={`channel-content ${index === 0 ? 'block' : 'hidden'}`}
+        >
+          <h2 class="text-2xl font-semibold mb-6 flex items-center gap-3">
+            <span class="text-3xl">{channel.icon}</span>
+            <span class={channel.color}>{channel.name}</span>
+          </h2>
+          <div class="prose prose-invert prose-lg max-w-none">
+            {reports[channel.id].length > 0 ? (
+              reports[channel.id].map((content) => (
+                <article class="markdown-content" set:html={content} />
+              ))
+            ) : (
+              <div class="text-center py-12 text-gray-500">
+                <p class="text-xl mb-2">📋 暫無報告</p>
+                <p class="text-sm">將 Markdown 檔案放入 <code class="bg-dark-700 px-2 py-1 rounded">reports/</code> 目錄即可自動顯示</p>
+              </div>
+            )}
+          </div>
+        </div>
+      ))}
+    </main>
+
+    <!-- Footer -->
+    <footer class="text-center text-gray-500 text-sm mt-8">
+      <p>由 <a href="https://astro.build" class="text-accent-500 hover:underline">Astro</a> 驅動 · 自動更新</p>
+    </footer>
+  </div>
+
+  <script>
+    // Tab switching logic
+    const tabBtns = document.querySelectorAll('.tab-btn');
+    const contents = document.querySelectorAll('.channel-content');
+
+    tabBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const tabId = btn.getAttribute('data-tab');
+        
+        // Update buttons
+        tabBtns.forEach(b => b.classList.remove('bg-dark-600', 'ring-2', 'ring-accent-500'));
+        btn.classList.add('bg-dark-600', 'ring-2', 'ring-accent-500');
+        
+        // Update content
+        contents.forEach(c => {
+          if (c.id === `content-${tabId}`) {
+            c.classList.remove('hidden');
+            c.classList.add('block');
+          } else {
+            c.classList.add('hidden');
+            c.classList.remove('block');
+          }
+        });
+      });
+    });
+
+    // Set first tab as active
+    tabBtns[0]?.classList.add('bg-dark-600', 'ring-2', 'ring-accent-500');
+
+    // Display current date
+    const dateEl = document.getElementById('date');
+    if (dateEl) {
+      const now = new Date();
+      dateEl.textContent = now.toLocaleDateString('zh-TW', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        weekday: 'long'
+      });
+    }
+  </script>
+</Layout>
