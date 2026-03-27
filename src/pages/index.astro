@@ -8,10 +8,10 @@ function parseMd(md: string): string {
     .replace(/^## (.+)$/gm, '<h2>$1</h2>')
     .replace(/^# (.+)$/gm, '<h1>$1</h1>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" class="text-accent-400 hover:underline">$1</a>')
-    .replace(/^- (.+)$/gm, '<li>$1</li>')
-    .replace(/^(\d+)\. (.+)$/gm, '<li>$2</li>')
-    .replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" class="text-accent-400 hover:underline inline-flex items-center gap-1">$1 <span class="text-xs">→</span></a>')
+    .replace(/^- (.+)$/gm, '<li class="mb-2">$1</li>')
+    .replace(/^(\d+)\. (.+)$/gm, '<li class="mb-2">$2</li>')
+    .replace(/(<li.*>.*<\/li>\n?)+/g, '<ul class="space-y-2">$&</ul>')
     .replace(/\n\n/g, '<br><br>')
     .trim();
 }
@@ -52,7 +52,7 @@ const channels = [
   { id: 'ai', name: 'AI 新聞', icon: '🤖', color: 'text-purple-400' },
   { id: 'it', name: 'IT 資訊', icon: '📰', color: 'text-blue-400' },
   { id: 'jobs', name: 'IT 工作介紹', icon: '💼', color: 'text-green-400' },
-  { id: 'polymarket', name: 'Polymarket 預測', icon: '🔮', color: 'text-yellow-400' },
+  { id: 'polymarket', name: 'Polymarket', icon: '🔮', color: 'text-yellow-400' },
 ];
 
 // Get today's date in YYYY-MM-DD format
@@ -250,7 +250,7 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
 
     <!-- Footer -->
     <footer class="text-center text-gray-500 text-sm mt-8">
-      <p>由 <a href="https://astro.build" class="text-accent-500 hover:underline">Astro</a> 驅動 · 自動更新</p>
+      <p>作者：<strong>Nouris</strong> · 由 <a href="https://astro.build" target="_blank" class="text-accent-500 hover:underline">Astro</a> 驅動 · 自動更新</p>
     </footer>
   </div>
 
