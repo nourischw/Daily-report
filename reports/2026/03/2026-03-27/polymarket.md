@@ -8,15 +8,15 @@
 
 **1. [BitBoy convicted?](https://polymarket.com/market/bitboy-convicted)
 
-- 📈 概率：3%｜成交量：38.8K
+- 📈 概率：4%｜成交量：38.8K
 
 **2. [Russia-Ukraine Ceasefire before GTA VI?](https://polymarket.com/market/russia-ukraine-ceasefire-before-gta-vi-554)
 
-- 📈 概率：55%｜成交量：690.8700579999999
+- 📈 概率：54%｜成交量：700.8700579999999
 
 **3. [新 Rihanna Album before GTA VI?](https://polymarket.com/market/new-rhianna-album-before-gta-vi-926)
 
-- 📈 概率：67%｜成交量：268.27551800000003
+- 📈 概率：67%｜成交量：293.27551800000003
 
 **4. [新 Playboi Carti Album before GTA VI?](https://polymarket.com/market/new-playboi-carti-album-before-gta-vi-421)
 
@@ -40,7 +40,7 @@
 
 **9. [GTA VI 發布 before June 2026?](https://polymarket.com/market/gta-vi-released-before-june-2026)
 
-- 📈 概率：2%｜成交量：45.7K
+- 📈 概率：2%｜成交量：45.8K
 
 **10. [Will Harvey Weinstein be sentenced to no prison time?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-no-prison-time)
 
@@ -84,7 +84,7 @@
 
 **20. [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/market/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup)
 
-- 📈 概率：12%｜成交量：8.8K
+- 📈 概率：12%｜成交量：8.7K
 
 _...還有 80 個市場_
 
