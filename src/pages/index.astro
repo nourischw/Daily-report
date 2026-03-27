@@ -236,7 +236,7 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
         {allDates.length > 0 ? (
           allDates.map(d => (
             <a
-              href={`${window.location.origin}/Daily-report/reports/${d}`}
+              href={`/Daily-report/reports/${d}`}
               class="px-3 py-2 rounded-lg bg-dark-700 hover:bg-dark-600 text-gray-300 hover:text-white transition-all"
             >
               {d}
@@ -290,7 +290,7 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
     goToDateBtn?.addEventListener('click', () => {
       const selectedDate = datePicker.value;
       if (selectedDate) {
-        window.location.href = `${window.location.origin}/Daily-report/reports/${selectedDate}`;
+        window.location.href = `/Daily-report/reports/${selectedDate}`;
       }
     });
     
@@ -298,7 +298,7 @@ const formattedDate = new Date(latestDate.replace(/-/g, '/')).toLocaleDateString
       if (e.key === 'Enter') {
         const selectedDate = datePicker.value;
         if (selectedDate) {
-          window.location.href = `${window.location.origin}/Daily-report/reports/${selectedDate}`;
+          window.location.href = `/Daily-report/reports/${selectedDate}`;
         }
       }
     });
