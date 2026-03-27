@@ -1,12 +1,9 @@
 name: Scrape Daily Report
 
 on:
-  # Run every 6 hours
   schedule:
     - cron: '0 */6 * * *'
-  # Allow manual trigger
   workflow_dispatch:
-  # Also run when scraper scripts change
   push:
     paths:
       - 'scripts/**'
@@ -14,7 +11,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   scrape:
@@ -26,7 +22,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -43,16 +38,8 @@ jobs:
       - name: Create reports directory
         run: mkdir -p reports/${{ steps.date.outputs.TODAY }}
 
-      - name: Run GitHub/AI scraper
-        id: scrape-enhanced
-        run: |
-          node scripts/enhanced-scraper.mjs > reports/${{ steps.date.outputs.TODAY }}/temp-github-ai.md
-          echo "SCRAPER_OUTPUT=$(cat reports/${{ steps.date.outputs.TODAY }}/temp-github-ai.md)" >> $GITHUB_ENV
-
-      - name: Run Polymarket scraper
-        run: |
-          node scripts/polymarket-scraper.mjs > reports/${{ steps.date.outputs.TODAY }}/temp-polymarket.md
-          echo "POLYMARKET_OUTPUT=$(cat reports/${{ steps.date.outputs.TODAY }}/temp-polymarket.md)" >> $GITHUB_ENV
+      - name: Run report generator
+        run: node scripts/generate-reports.mjs
 
       - name: Check for changes
         id: changed-files
@@ -65,120 +52,6 @@ jobs:
           fi
           cat changed.txt
 
-      - name: Display scraper outputs
-        run: |
-          echo "=== GitHub/AI Output ==="
-          head -50 reports/${{ steps.date.outputs.TODAY }}/temp-github-ai.md
-          echo ""
-          echo "=== Polymarket Output ==="
-          head -50 reports/${{ steps.date.outputs.TODAY }}/temp-polymarket.md
-
-      - name: Create GitHub/AI reports
-        run: |
-          # Parse GitHub section
-          node -e "
-            const fs = require('fs');
-            const content = fs.readFileSync('reports/${{ steps.date.outputs.TODAY }}/temp-github-ai.md', 'utf8');
-            const sections = content.split('='.repeat(50));
-            
-            // GitHub report
-            const githubStart = content.indexOf('GITHUB REPORT');
-            const aiStart = content.indexOf('AI NEWS REPORT');
-            if (githubStart !== -1 && aiStart !== -1) {
-              let github = content.substring(githubStart + 'GITHUB REPORT'.length, aiStart);
-              github = '# ' + github.trim();
-              fs.writeFileSync('reports/${{ steps.date.outputs.TODAY }}/github.md', github);
-              console.log('Created github.md');
-            }
-            
-            // AI report  
-            const endMarker = '='.repeat(50);
-            const endIdx = content.lastIndexOf(endMarker);
-            if (aiStart !== -1 && endIdx !== -1) {
-              let ai = '# ' + content.substring(aiStart + 'AI NEWS REPORT'.length).trim();
-              fs.writeFileSync('reports/${{ steps.date.outputs.TODAY }}/ai.md', ai);
-              console.log('Created ai.md');
-            }
-          "
-
-      - name: Copy Polymarket report
-        run: |
-          cp reports/${{ steps.date.outputs.TODAY }}/temp-polymarket.md reports/${{ steps.date.outputs.TODAY }}/polymarket.md
-          echo "Copied polymarket.md"
-
-      - name: Create IT and Jobs placeholder
-        run: |
-          # IT news - use Hacker News data from enhanced scraper
-          cat > reports/${{ steps.date.outputs.TODAY }}/it.md << 'EOF'
-          # IT 資訊報告
-
-          **日期：${{ steps.date.outputs.TODAY }}｜收集自 Hacker News、TechCrunch**
-
-          ---
-
-          ## 📰 今日 IT 熱門新聞
-
-          ### 1. AI Agents Enter Banking Roles at Bank of America
-          Bank of America is deploying an internal AI-powered advisory platform to financial advisers.
-          **來源：** AI News｜[連結](https://www.artificialintelligence-news.com)
-
-          ### 2. NVIDIA Agent Toolkit for Enterprise AI
-          NVIDIA announced open-source software stack for deploying AI agents safely in enterprise.
-          **來源：** NVIDIA GTC 2026｜[連結](https://nvidia.com)
-
-          ### 3. Mastercard's New Foundation Model for Fraud Detection
-          Mastercard developed large tabular model trained on billions of transactions.
-          **來源：** AI News｜[連結](https://www.artificialintelligence-news.com)
-
-          ### 4. RPA Still Matters but AI Changes Automation
-          Robotic process automation remains practical for reducing manual work.
-          **來源：** AI News｜[連結](https://www.artificialintelligence-news.com)
-
-          ### 5. Visa Prepares for AI Agent-Initiated Payments
-          Banks testing how AI agents can initiate payments.
-          **來源：** AI News｜[連結](https://www.artificialintelligence-news.com)
-
-          ---
-
-          **數據來源：** Hacker News, TechCrunch, AI News
-
-          EOF
-          echo "Created it.md"
-
-          # Jobs placeholder
-          cat > reports/${{ steps.date.outputs.TODAY }}/jobs.md << 'EOF'
-          # IT 工作介紹報告
-
-          **日期：${{ steps.date.outputs.TODAY }}｜焦點市場：香港**
-
-          ---
-
-          ## 💼 香港 IT 就業市場
-
-          ### 熱門崗位
-
-          請查看手動整理的工作報告或訪問：
-          - [LinkedIn Jobs HK](https://www.linkedin.com/jobs/search/?keywords=IT&location=Hong+Kong)
-          - [JobsDB IT Jobs](https://hk.jobsdb.com/it-jobs)
-          - [e-Stack IT Jobs](https://www.e-stack.com)
-
-          ---
-
-          **備註：** 自動爬蟲正在測試中，完整報告將於近期更新。
-
-          EOF
-          echo "Created jobs.md"
-
-      - name: Cleanup temp files
-        run: |
-          rm -f reports/${{ steps.date.outputs.TODAY }}/temp-*.md
-          rm -f changed.txt
-
-      - name: Check files created
-        run: |
-          echo "=== Reports for ${{ steps.date.outputs.TODAY }} ==="
-          ls -la reports/${{ steps.date.outputs.TODAY }}/
-
       - name: Commit and push
         if: steps.changed-files.outputs.HAS_CHANGES == 'true'
         run: |
@@ -190,4 +63,4 @@ jobs:
           
           git commit -m "Auto-update reports: ${{ steps.date.outputs.TODAY }}"
           git push
-          echo "✅ Reports pushed successfully"
+          echo "Reports pushed successfully"
