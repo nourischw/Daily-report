@@ -1,44 +1,57 @@
 # GitHub 熱門專案
 
-**更新時間：2026-03-27**｜**收集：近 30 天熱門**
+**更新時間：2026-03-27**｜**共 8 個熱門專案**
 
 ---
 
-### 1. [ollama/ollama](https://github.com/ollama/ollama) 🐹
+### 1. [資深後端工程師 (Python/Go)](https://hk.jobsdb.com/position/senior-backend-engineer) 
 
-在本地運行 Llama 3、Mistral、Gemma 2 等大型語言模型。完全免費，無需雲端 API。
+負責微服務架構設計，處理大規模數據處理。
 
-- 👤 **ollama**｜⭐ 92.0K｜🐹 Go
+- 👤 **騰訊科技**｜⭐ 0
 
-### 2. [open-webui/open-webui](https://github.com/open-webui/open-webui) 🐍
+### 2. [全端開發工程師](https://www.bytedance.com/careers) 
 
-為 Ollama 等 LLMs 打造的現代化 WebUI 介面。支援多模型對話。
+開發 TikTok 相關功能，React/Vue + Node.js。
 
-- 👤 **open-webui**｜⭐ 45.0K｜🐍 Python
+- 👤 **位元組跳動**｜⭐ 0
 
-### 3. [public-apis/public-apis](https://github.com/public-apis/public-apis) 🐍
+### 3. [數據工程師](https://www.alibaba.com/careers) 
 
-收集超過 1000 個免費 API 的精選列表，涵蓋各種分類。
+構建數據管道和資料湖，Spark/Flink 經驗優先。
 
-- 👤 **public-apis**｜⭐ 280.0K｜🐍 Python
+- 👤 **阿裡巴巴**｜⭐ 0
 
-### 4. [twentyhq/twenty](https://github.com/twentyhq/twenty) 📘
+### 4. [資深前端工程師](https://careers.shopee.com) 
 
-開源的現代 CRM 系統，旨在成為 Salesforce 的替代方案。
+開發電商平台前端，React/Vue 專家。
 
-- 👤 **twentyhq**｜⭐ 41.5K｜📘 TypeScript
+- 👤 **蝦皮購物**｜⭐ 0
 
-### 5. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 🐍
+### 5. [系統架構師](https://www.hsbc.com/careers) 
 
-從零開始構建各種流行技術項目的實踐教程。
+設計金融系統架構，處理高性能交易。
 
-- 👤 **codecrafters-io**｜⭐ 115.0K｜🐍 Python
+- 👤 **滙豐銀行**｜⭐ 0
 
-### 6. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 📘
+### 6. [測試工程師 (QA)](https://www.prudential.com.hk/careers) 
 
-成為開發者的完整學習路線圖，涵蓋前端、後端、DevOps。
+自動化測試，Selenium/Appium 經驗。
 
-- 👤 **kamranahmedse**｜⭐ 305.0K｜📘 TypeScript
+- 👤 **保誠保險**｜⭐ 0
+
+### 7. [專案經理 (IT)](https://careers.deloitte.com) 
+
+管理 IT 項目交付，PMP 認證優先。
+
+- 👤 **德勤顧問**｜⭐ 0
+
+### 8. [網路工程師](https://www.pccw.com/careers) 
+
+維護企業網路，CCNA/CCNP 認證。
+
+- 👤 **電訊盈科**｜⭐ 0
+
 
 ---
 
