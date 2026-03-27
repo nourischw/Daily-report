@@ -5,4 +5,5 @@ export default defineConfig({
   integrations: [tailwind()],
   site: 'https://nourischw.github.io/Daily-report',
   base: '/Daily-report/',
+  output: 'static',
 });
