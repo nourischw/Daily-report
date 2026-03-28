@@ -4,206 +4,204 @@
 
 ---
 
-### 1. [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
+### 1. [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 
-- ⭐ 51 分｜💬 10 留言｜👤 enriquelop
+- ⭐ 107 分｜💬 28 留言｜👤 bob_theslob646
 
-### 2. [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way)
+### 2. [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 
-- ⭐ 96 分｜💬 25 留言｜👤 OJFord
+- ⭐ 53 分｜💬 3 留言｜👤 frizlab
 
-### 3. [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw)
+### 3. [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
-- ⭐ 15 分｜💬 1 留言｜👤 msephton
+https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270
 
-### 4. [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+- ⭐ 357 分｜💬 283 留言｜👤 oldfrenchfries
 
-- ⭐ 136 分｜💬 68 留言｜👤 TORcicada
+### 4. [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw)
 
-### 5. [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/)
+- ⭐ 242 分｜💬 30 留言｜👤 msephton
 
-- ⭐ 14 分｜💬 6 留言｜👤 rwmj
+### 5. [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es)
 
-### 6. [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
+- ⭐ 588 分｜💬 185 留言｜👤 enriquelop
 
-- ⭐ 409 分｜💬 237 留言｜👤 mazieres
+### 6. [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way)
 
-### 7. [Toma (YC W24) is 招聘 a 資深/Staff Eng to 構建 AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
+- ⭐ 233 分｜💬 75 留言｜👤 OJFord
+
+### 7. [I decompiled the White House's 新 app](https://thereallo.dev/blog/decompiling-the-white-house-app)
+
+- ⭐ 162 分｜💬 52 留言｜👤 amarcheschi
+
+### 8. [rpg.actor Game Jam](https://rpg.actor/jam)
+
+- ⭐ 21 分｜💬 0 留言｜👤 Kye
+
+### 9. [C++26: A User-Friednly assert() macro](https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert)
+
+- ⭐ 43 分｜💬 17 留言｜👤 jandeboevrie
+
+### 10. [CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+
+- ⭐ 243 分｜💬 117 留言｜👤 TORcicada
+
+### 11. [Folk are getting dangerously attached to AI that always tells them they're right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+
+- ⭐ 179 分｜💬 125 留言｜👤 Brajeshwar
+
+### 12. [Improved Git Diffs with Delta, Fzf and a Little Shell Scripting](https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting)
+
+- ⭐ 68 分｜💬 27 留言｜👤 nickjj
+
+### 13. [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
+
+- ⭐ 12 分｜💬 0 留言｜👤 elvis70
+
+### 14. [StationeryObject](https://stationeryobject.com/archive/)
+
+- ⭐ 22 分｜💬 1 留言｜👤 NaOH
+
+### 15. [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
+
+- ⭐ 524 分｜💬 292 留言｜👤 mazieres
+
+### 16. [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
+
+- ⭐ 261 分｜💬 142 留言｜👤 zdw
+
+### 17. [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
+
+- ⭐ 4 分｜💬 0 留言｜👤 smartmic
+
+### 18. [Paper Tape Is All You Need – 訓練 a Transformer on a 1976 Minicomputer](https://github.com/dbrll/ATTN-11)
+
+- ⭐ 93 分｜💬 17 留言｜👤 rahen
+
+### 19. [Toma (YC W24) is 招聘 a 資深/Staff Eng to 構建 AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
 
 - ⭐ 1 分｜💬 0 留言｜👤 anthonykrivonos
 
-### 8. [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
+### 20. [RSA and Python](https://xnacly.me/posts/2023/rsa/)
 
-- ⭐ 200 分｜💬 101 留言｜👤 zdw
+- ⭐ 11 分｜💬 4 留言｜👤 ibobev
 
-### 9. [Paper Tape Is All You Need – 訓練 a Transformer on a 1976 Minicomputer](https://github.com/dbrll/ATTN-11)
+### 21. [The bee that everyone wants to save](https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/)
 
-- ⭐ 22 分｜💬 0 留言｜👤 rahen
+- ⭐ 217 分｜💬 74 留言｜👤 nivethan
 
-### 10. [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
+### 22. [A single-file C allocator with explicit heaps and tuning knobs](https://github.com/xtellect/spaces)
 
-- ⭐ 436 分｜💬 316 留言｜👤 speckx
+- ⭐ 50 分｜💬 35 留言｜👤 enduku
 
-### 11. [Go Naming Conventions: A Practical Guide](https://www.alexedwards.net/blog/go-naming-conventions)
+### 23. [Show HN: A prompt that builds the most capable AI 代理 系統](https://github.com/fainir/most-capable-agent-system-prompt)
 
-- ⭐ 26 分｜💬 8 留言｜👤 yurivish
+- ⭐ 5 分｜💬 0 留言｜👤 fainir
 
-### 12. [The bee that everyone wants to save](https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/)
+### 24. [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
 
-- ⭐ 136 分｜💬 43 留言｜👤 nivethan
+- ⭐ 487 分｜💬 333 留言｜👤 speckx
 
-### 13. [LG's 新 1Hz display is the secret behind a 新 laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
+### 25. [Gerard of Cremona](https://en.wikipedia.org/wiki/Gerard_of_Cremona)
 
-- ⭐ 264 分｜💬 123 留言｜👤 robotnikman
+- ⭐ 23 分｜💬 11 留言｜👤 teleforce
 
-### 14. [Anatomy of the .Claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+### 26. [Go Naming Conventions: A Practical Guide](https://www.alexedwards.net/blog/go-naming-conventions)
 
-- ⭐ 513 分｜💬 229 留言｜👤 freedomben
+- ⭐ 69 分｜💬 43 留言｜👤 yurivish
 
-### 15. [No one is happy with NASA's 新 idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/)
+### 27. [Arm releases first in-house chip, with Meta as debut customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
 
-- ⭐ 16 分｜💬 2 留言｜👤 rbanffy
+- ⭐ 78 分｜💬 23 留言｜👤 goplayoutside
 
-### 16. [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
+### 28. [Anatomy of the .Claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
 
-Hey HN, I re-launched an old site I remembered back in the day that someone made called twitchroulette.net with a lot of 新 features and stats and I would love for people to check it out. The idea is
+- ⭐ 561 分｜💬 239 留言｜👤 freedomben
 
-- ⭐ 138 分｜💬 74 留言｜👤 ellg
+### 29. [LG's 新 1Hz display is the secret behind a 新 laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 
-### 17. [Nashville library 推出 Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)
+- ⭐ 302 分｜💬 151 留言｜👤 robotnikman
 
-- ⭐ 154 分｜💬 39 留言｜👤 toomuchtodo
+### 30. [Show HN: We built a multi-代理 research hub. The waitlist is a reverse-CAPTCHA](https://enlidea.com)
 
-### 18. [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
+Hey HN,Automated research is the next big step in AI, with companies like OpenAI aiming to debut a fully automated researcher by 2028 (https:&#x2F;&#x2F;www.technologyreview.com&#x2F;2026&#x2F;03&#x2F
 
-- ⭐ 162 分｜💬 46 留言｜👤 dmcrespo
-
-### 19. [A single-file C allocator with explicit heaps and tuning knobs](https://github.com/xtellect/spaces)
-
-- ⭐ 3 分｜💬 1 留言｜👤 enduku
-
-### 20. [Arm releases first in-house chip, with Meta as debut customer](https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html)
-
-- ⭐ 28 分｜💬 9 留言｜👤 goplayoutside
-
-### 21. [Desperately Seeking Space Friends](https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/)
-
-- ⭐ 16 分｜💬 1 留言｜👤 benbreen
-
-### 22. [‘Energy independence feels practical’: Europeans building mini solar farms](https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho)
-
-- ⭐ 308 分｜💬 288 留言｜👤 vrganj
-
-### 23. [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
-
-- ⭐ 182 分｜💬 29 留言｜👤 Cider9986
-
-### 24. [Iran-linked hackers breach FBI director's personal email](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/)
-
-https:&#x2F;&#x2F;ddosecrets.org&#x2F;article&#x2F;kash-patel-emailshttps:&#x2F;&#x2F;arstechnica.com&#x2F;tech-policy&#x2F;2026&#x2F;03&#x2F;doj-confirms-fbi...
-
-- ⭐ 281 分｜💬 398 留言｜👤 m-hodges
-
-### 25. [Matadisco – Decentralized Data Discovery](https://matadisco.org/)
-
-- ⭐ 21 分｜💬 3 留言｜👤 biggestfan
-
-### 26. [Meow.camera](https://meow.camera/#4258783365322591678)
-
-- ⭐ 286 分｜💬 64 留言｜👤 surprisetalk
-
-### 27. [Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
-
-- ⭐ 223 分｜💬 52 留言｜👤 8organicbits
-
-### 28. [Explore the Hidden World of Sand](https://magnifiedsand.com/)
-
-- ⭐ 243 分｜💬 39 留言｜👤 RAAx707
-
-### 29. [.apks are just .zips; semi-legally hacking 軟體 for orphaned 硬體 [video]](https://www.youtube.com/watch?v=P1kfuCkWo24)
-
-- ⭐ 60 分｜💬 49 留言｜👤 abadar
-
-### 30. [Telnyx package compromised on PyPI](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
-
-https:&#x2F;&#x2F;github.com&#x2F;team-telnyx&#x2F;telnyx-Python&#x2F;issues&#x2F;235https:&#x2F;&#x2F;www.aikido.dev&#x2F;blog&#x2F;telnyx-pypi-compromised-teampcp-...
-
-- ⭐ 112 分｜💬 113 留言｜👤 ramimac
+- ⭐ 13 分｜💬 12 留言｜👤 LZK
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Militarized snowflakes: The accidental beauty of Renaissance star forts
+- Iran-linked hackers breach FBI director's personal email
+- Nashville library 推出 Memory Lab for digitizing home movies
+- Microsoft Set for Worst Quarter Since 2008
+- Matadisco – Decentralized Data Discovery
+- Show HN: Twitch Roulette – Find live streamers who need views the most
+- Desperately Seeking Space Friends
+- ISBN Visualization
+- Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser
+- Canadian man says U.S. border officers made him give DNA sample
+- Meow.camera
+- Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot
+- Wikipedia bans AI-generated content in its online encyclopedia
+- Explore the Hidden World of Sand
+- NASA releases 新 Webb, Hubble images of Saturn
+- Telnyx package compromised on PyPI
+- Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET (1982)
 - The Future of SCIP
-- Improving Composer through real-time RL
 - People inside Microsoft are fighting to drop mandatory Microsoft Account
-- Ask HN: Founders of estonian e-businesses – is it worth it?
-- Adults Lose Skills to AI. Children Never 構建 Them
-- Building FireStriker: Making Civic Tech Free
-- Desk for people who work at home with a cat
-- Automatically generate all 3D print files for organizing a drawer
-- Capability-Based 安全 for Redox: Namespace and CWD as Capabilities
-- Everything old is 新 again: memory optimization
 - Running Tesla 模型 3's computer on my desk using parts from crashed cars
-- Colorado House passes bill to limit surveillance pricing and wage setting
-- Fets and Crosses: Tic-Tac-Toe built from 2458 discrete transistors
-- Embracing Bayesian methods in clinical trials
-- Hold on to Your 硬體
-- Should QA exist?
-- 21,864 Yugoslavian .yu domains
+- Ask HN: Founders of estonian e-businesses – is it worth it?
+- Accidental eCall activation in cars lead to 75% false 112 calls in Nederland
 - Trust Signals as Sparklines for Hacker News
-- Treason in the Futures Markets
-- EMachines never obsolete PCs: More than a meme
-- The European AllSky7 fireball 網絡
-- The 'paperwork flood': How I drowned a bureaucrat before dinner
+- .apks are just .zips; semi-legally hacking 軟體 for orphaned 硬體 [video]
+- Improving Composer through real-time RL
+- Everything old is 新 again: memory optimization
+- I Can't See Apple's Vision
+- What to Do About Those Menu Item Icons in macOS 26 Tahoe
+- Desk for people who work at home with a cat
+- India's maternal mortality drops nearly 80% since 1990: Global study
+- Building FireStriker: Making Civic Tech Free
+- Automatically generate all 3D print files for organizing a drawer
+- Sony temporarily suspends memory card sales due to shortages
+- Should QA exist?
+- Hold on to Your 硬體
+- Embracing Bayesian methods in clinical trials
+- ‘Energy independence feels practical’: Europeans building mini solar farms
+- 21,864 Yugoslavian .yu domains
+- Fets and Crosses: Tic-Tac-Toe built from 2458 discrete transistors
+- Capability-Based 安全 for Redox: Namespace and CWD as Capabilities
+- Colorado House passes bill to limit surveillance pricing and wage setting
+- The Comforting Lie of SHA Pinning
 - 為什麼 so many control rooms were seafoam green (2025)
 - Apple discontinues the Mac Pro
-- U.S. Ambassador to EU: Stop Fining Big Tech
-- Solving Semantle with the Wrong Embeddings
-- The Legibility of Serif and Sans Serif Typefaces (2022)
-- Gzip decompression in 250 lines of Rust
-- Schedule tasks on the 網頁
-- The State of Immutable Linux
-- Fear and denial in Silicon Valley over social media addiction trial
+- The European AllSky7 fireball 網絡
+- No one is happy with NASA's 新 idea for private space stations
+- Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure
+- EMachines never obsolete PCs: More than a meme
+- The 'paperwork flood': How I drowned a bureaucrat before dinner
+- You can't imitation-learn 如何 continual-learn
+- Britain today generating 90%+ of electricity from renewables
+- When Coupled Volcanoes Talk, These Researchers Listen
 - Jury finds Meta liable in case over child sexual exploitation on its platforms
+- Leaked Anthropic 模型 Presents 'Unprecedented Cybersecurity Risks'
+- The Legibility of Serif and Sans Serif Typefaces (2022)
+- AI data centres can warm surrounding areas by up to 9.1°C
+- Solving Semantle with the Wrong Embeddings
+- U.S. Ambassador to EU: Stop Fining Big Tech
+- Schedule tasks on the 網頁
 - Iran oil revenue soars as it's the only exporter out of Hormuz
-- Gulf Countries' Frustration with the US Grows as War Wears On
-- Can It Resolve DOOM? Game Engine in 2k DNS Records
-- Local Bernstein theory, and lower bounds for Lebesgue constants
+- ICAO issued 新 power bank restriction on flight
+- The State of Immutable Linux
+- 如何 implement the Outbox pattern in Go and Postgres
+- Data centers aren't breaking the grid. A broken grid is
 - $500 GPU outperforms Claude Sonnet on coding benchmarks
-- A Faster Alternative to Jq
-- AI got the blame for the Iran school bombing. The truth is more worrying
-- 代理-to-代理 pair 程式設計
-- Colibri – chat platform built on the AT Protocol for communities big and small
+- The Lazarus Sign
+- Gzip decompression in 250 lines of Rust
+- Personal Encyclopedias
 - Moving from GitHub to Codeberg, for lazy people
 - An unstoppable mushroom is tearing through North American forests
-- Show HN: 開源 'Conductor + Ghostty'
-- Vibe-Coded Ext4 for OpenBSD
-- Personal Encyclopedias
-- Last gasps of the rent seeking class?
-- Go Naming Conventions: A Practical Guide
-- Show HN: Foundry: a Markdown-first CMS written in Go
-- John Bradley, author of xv, has died
-- Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3
-- Show HN: I put an AI 代理 on a $7/month VPS with IRC as its transport layer
-- Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer
-- End of "Chat Control": EU parliament stops mass surveillance
-- Obsolete Sounds
-- Byte Magazine Archive 1975 to 1995
-- CERN to host a 新 phase of Open Research Europe
-- Framework Becomes a KDE Patron
-- Type Construction and Cycle Detection
-- Browser-based SFX synthesizer using WASM/Zig
-- Codex Plugins
-- Stripe Projects: Provision and manage services from the CLI
-- Olympic Committee bars transgender athletes from women’s events
-- Shell Tricks That Make Life Easier (and Save Your Sanity)
-- My minute-by-minute response to the LiteLLM malware attack
-- Namespace: We've raised $23M to 構建 the compute layer for 代碼
-- Claude Mythos: A Cyber Threat
-- Show HN: Kagento – LeetCode for AI Agents
-- TurboQuant: Building a Sub-Byte KV Cache Quantizer from Paper to Production
-- Om Malik – 'Astound'ed. Google Flips Its Fiber to PE
 
 
 ---
