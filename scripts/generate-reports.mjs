@@ -178,8 +178,8 @@ async function fetchHN() {
   console.log('  ⚠️ fallback');return FALLBACK_IT.map(s=>({title:s.title,url:s.url,score:s.score,comments:s.comments,author:s.author,description:s.description}));
 }
 
-const AI_RSS=['https://www.artificialintelligence-news.com/feed/','https://www.technologyreview.com/feed/','https://venturebeat.com/category/ai/feed/','https://blogs.nvidia.com/feed/','https://feeds.feedburner.com/TechCrunch/startups'];
-const AI_NAMES=['AI News','MIT 科技評論','VentureBeat AI','NVIDIA Blog','TechCrunch'];
+const AI_RSS=['https://www.ithome.com.tw/rss/all','https://www.wired.com/feed/rss','https://feeds.feedburner.com/TechCrunch/','https://www.artificialintelligence-news.com/feed/','https://www.technologyreview.com/feed/','https://venturebeat.com/category/ai/feed/','https://blogs.nvidia.com/feed/'];
+const AI_NAMES=['iThome 科技','Wired','TechCrunch','AI News','MIT 科技評論','VentureBeat AI','NVIDIA Blog'];
 
 async function fetchAI() {
   console.log('🤖 AI 新聞...');
