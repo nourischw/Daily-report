@@ -4,202 +4,207 @@
 
 ---
 
-### 1. [How the AI Bubble Bursts](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+### 1. [“CEO said a thing!” journalism](https://karlbode.com/ceo-said-a-thing-journalism/)
 
-- ⭐ 56 分｜💬 12 留言｜👤 martinvol
+- ⭐ 87 分｜💬 32 留言｜👤 LordAtlas
 
-### 2. [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
+### 2. [如何 turn anything into a router](https://nbailey.ca/post/router/)
 
-- ⭐ 37 分｜💬 3 留言｜👤 zaikunzhang
+- ⭐ 404 分｜💬 156 留言｜👤 yabones
 
-### 3. [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
+### 3. [Take better notes, by hand](https://brianschrader.com/archive/take-better-notes-by-hand/)
 
-- ⭐ 236 分｜💬 53 留言｜👤 zdw
+- ⭐ 88 分｜💬 42 留言｜👤 sonicrocketman
 
-### 4. [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
+### 4. [Bird brains (2023)](https://www.dhanishsemar.com/writing/bird-brains)
 
-- ⭐ 59 分｜💬 57 留言｜👤 mgrunwald_
+- ⭐ 236 分｜💬 148 留言｜👤 DiffTheEnder
 
-### 5. [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
+### 5. [Kyber (YC W23) Is 招聘 a Staff 工程師/Tech Lead](https://www.ycombinator.com/companies/kyber/jobs/jJSh3JN-enterprise-account-executive-ae)
 
-- ⭐ 123 分｜💬 55 留言｜👤 mlysk
+- ⭐ 1 分｜💬 0 留言｜👤 asontha
 
-### 6. [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+### 6. [Cherri – 程式設計 language that compiles to an Apple Shortuct](https://github.com/electrikmilk/cherri)
 
-- ⭐ 753 分｜💬 485 留言｜👤 alberto-m
+- ⭐ 84 分｜💬 6 留言｜👤 mihau
 
-### 7. [Comprehensive C++ Hashmap Benchmarks (2022)](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
+### 7. [新 Washington state law bans noncompete agreements](https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/)
 
-- ⭐ 15 分｜💬 0 留言｜👤 klaussilveira
+- ⭐ 169 分｜💬 53 留言｜👤 toomuchtodo
 
-### 8. [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
+### 8. [OCR for construction documents does not work, we fixed it](https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors)
 
-- ⭐ 71 分｜💬 18 留言｜👤 sebzuddas
+So we&#x27;ve built an API and trained models that detects fixtures, extracts schedules, and analyzes construction documents. Check us out!More examples:
+- https:&#x2F;&#x2F;www.getanchorgrid.com&#x2F
 
-### 9. [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
+- ⭐ 50 分｜💬 33 留言｜👤 wcisco17
 
-- ⭐ 86 分｜💬 32 留言｜👤 cokernel_hacker
+### 9. [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
 
-### 10. [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
+- ⭐ 158 分｜💬 92 留言｜👤 nvahalik
 
-- ⭐ 585 分｜💬 219 留言｜👤 speckx
+### 10. [Build123d: A Python CAD 程式設計 library](https://github.com/gumyr/build123d)
 
-### 11. [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
+- ⭐ 67 分｜💬 23 留言｜👤 Ivoah
 
-- ⭐ 825 分｜💬 252 留言｜👤 pavo-etc
+### 11. [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
 
-### 12. [15 Years of Forking](https://www.waterfox.com/blog/15-years-of-forking/)
+- ⭐ 5 分｜💬 0 留言｜👤 maurycyz
 
-- ⭐ 218 分｜💬 39 留言｜👤 MrAlex94
+### 12. [FTC action against Match and OkCupid for deceiving users, sharing personal data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
 
-### 13. [Spring Boot Done Right: Lessons from a 400-Module Codebase](https://medium.com/all-things-software/spring-boot-done-right-lessons-from-a-400-module-codebase-e636c3c34149)
+https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;match-group-settles-us-ftc-cla...
 
-- ⭐ 4 分｜💬 0 留言｜👤 dknj
+- ⭐ 145 分｜💬 62 留言｜👤 gnabgib
 
-### 14. [Ninja is a small 構建 系統 with a focus on speed](https://github.com/ninja-build/ninja)
+### 13. [Don't let AI write for you](https://alexhwoods.com/dont-let-ai-write-for-you/)
 
-- ⭐ 38 分｜💬 8 留言｜👤 tosh
+- ⭐ 8 分｜💬 0 留言｜👤 karimf
 
-### 15. [C++26 is done: ISO C++ standards meeting Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
+### 14. [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
 
-- ⭐ 262 分｜💬 249 留言｜👤 pjmlp
+- ⭐ 160 分｜💬 60 留言｜👤 zaikunzhang
 
-### 16. [My MacBook keyboard is broken and it's insanely expensive to fix](https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/)
+### 15. [An NSFW filter for Marginalia search](https://www.marginalia.nu/log/a_134_nsfw/)
 
-- ⭐ 259 分｜💬 311 留言｜👤 TobiasBerg
+- ⭐ 36 分｜💬 2 留言｜👤 speckx
 
-### 17. [Douglas Lenat's Automated Mathematician Source 代碼](https://github.com/white-flame/am)
+### 16. [You are falling behind because you haven't fed the insincerity machine](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/)
 
-- ⭐ 38 分｜💬 4 留言｜👤 hydrolox
+- ⭐ 72 分｜💬 11 留言｜👤 speckx
 
-### 18. [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html)
+### 17. [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
 
-- ⭐ 301 分｜💬 124 留言｜👤 Philadelphia
+- ⭐ 916 分｜💬 590 留言｜👤 alberto-m
 
-### 19. [硬體 Image Compression](https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/)
+### 18. [From Proxmox to FreeBSD and Sylve in Our Office Lab](https://www.iptechnics.com/blogs/from-proxmox-to-freebsd-and-sylve-in-our-office-lab)
 
-- ⭐ 39 分｜💬 8 留言｜👤 luu
+- ⭐ 53 分｜💬 39 留言｜👤 arch1e
 
-### 20. [How A Spartan Revolutionized Baseball](https://msutoday.msu.edu/news/2026/03/spartan-revolutionize-baseball)
+### 19. [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
 
-- ⭐ 12 分｜💬 1 留言｜👤 rmason
+- ⭐ 316 分｜💬 79 留言｜👤 zdw
 
-### 21. [Coding agents could make free 軟體 matter again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
+### 20. [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 
-- ⭐ 217 分｜💬 209 留言｜👤 rogueleaderr
+- ⭐ 159 分｜💬 138 留言｜👤 joozio
 
-### 22. [Pretext: TypeScript library for multiline text measurement and layout](https://github.com/chenglou/pretext)
+### 21. [I use Excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
 
-https:&#x2F;&#x2F;x.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234, https:&#x2F;&#x2F;xcancel.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234Demos: https:&#x2F;&#x2F;chenglou.me&#x2F;
+- ⭐ 225 分｜💬 97 留言｜👤 mlysk
 
-- ⭐ 333 分｜💬 61 留言｜👤 emersonmacro
+### 22. [Proactively Parasocial](https://nicklandolfi.com/posts/proactively-parasocial.html)
 
-### 23. [Eclipse GlassFish: This Isn't Your Father's GlassFish](https://foojay.io/today/eclipse-glassfish-this-isnt-your-fathers-glassfish/)
+- ⭐ 11 分｜💬 2 留言｜👤 jxmorris12
 
-- ⭐ 29 分｜💬 26 留言｜👤 henk53
+### 23. [Show HN: Coasts – Containerized Hosts for Agents](https://github.com/coast-guard/coasts)
 
-### 24. [Midnight train from GA: A view of America from the tracks as airports struggle](https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a)
+Hi HN - We&#x27;ve been working on Coasts (“containerized hosts”) to make it so you can run multiple localhost instances, and multiple docker-compose runtimes, across git worktrees on the same compute
 
-- ⭐ 117 分｜💬 95 留言｜👤 walterbell
+- ⭐ 19 分｜💬 7 留言｜👤 jsunderland323
 
-### 25. [The First Video Game Was Just a Box in the Corner of a Bar](https://lithub.com/the-very-first-video-game-was-just-a-box-in-the-corner-of-a-bar/)
+### 24. [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
 
-- ⭐ 14 分｜💬 8 留言｜👤 PaulHoule
+- ⭐ 131 分｜💬 39 留言｜👤 sebzuddas
 
-### 26. [Spain closes airspace to aircraft involved in Iran war](https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html)
+### 25. [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
 
-- ⭐ 30 分｜💬 0 留言｜👤 prmph
+- ⭐ 656 分｜💬 243 留言｜👤 speckx
 
-### 27. [Show HN: The Alphabetical Clock](https://boat.horse/clock/)
+### 26. [The ladder is missing rungs – Engineering Progression When AI Ate the Middle](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
 
-- ⭐ 16 分｜💬 8 留言｜👤 secretdark
+- ⭐ 23 分｜💬 1 留言｜👤 sorenvrist
 
-### 28. [15 years, one 伺服器, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
+### 27. [Comprehensive C++ Hashmap Benchmarks (2022)](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
 
-- ⭐ 161 分｜💬 33 留言｜👤 giis
+- ⭐ 53 分｜💬 15 留言｜👤 klaussilveira
 
-### 29. [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+### 28. [DigitalOcean Seeks $800M in Funding](https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/)
 
-- ⭐ 475 分｜💬 217 留言｜👤 kaycebasques
+- ⭐ 33 分｜💬 15 留言｜👤 herbertl
 
-### 30. [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)
+### 29. [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 
-- ⭐ 129 分｜💬 55 留言｜👤 1659447091
+- ⭐ 1322 分｜💬 533 留言｜👤 pavo-etc
+
+### 30. [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
+
+- ⭐ 133 分｜💬 46 留言｜👤 cokernel_hacker
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- 15 Years of Forking
+- Ninja is a small 構建 系統 with a focus on speed
+- C++26 is done: ISO C++ standards meeting Trip Report
+- Douglas Lenat's Automated Mathematician Source 代碼
+- 硬體 Image Compression
+- My MacBook keyboard is broken and it's insanely expensive to fix
+- Pretext: TypeScript library for multiline text measurement and layout
+- Philly courts will ban all smart eyeglasses starting next week
+- Bitwarden integrates with OneCLI 代理 vault
+- The First Video Game Was Just a Box in the Corner of a Bar
+- Midnight train from GA: A view of America from the tracks as airports struggle
+- Euro-Office Wants to Replace Google Docs and Microsoft Office
+- The Cognitive Dark Forest
+- The road signs that teach travellers about France
+- In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?
+- 15 years, one 伺服器, 8GB RAM and 500k users – how Webminal refuses to die
 - "Roadrunner": a bipedal, wheeled robot for multi-modal locomotion [video]
 - Interview: Nobonoko, Master of the Minimal Sequencer
-- Stripe is down
-- About the Atmosphere
-- The RISE RISC-V Runners: free, native RISC-V CI on GitHub
+- OpenClaw: The Complete 2026 Deep Dive(Install, Cost, 硬體, Reviews and More)
 - Miasma: A tool to trap AI 網頁 scrapers in an endless poison pit
+- How A Spartan Revolutionized Baseball
+- Stanford study reveals AI vision models invent images they never see
+- Spring Boot Done Right: Lessons from a 400-Module Codebase
 - Nitrile and latex gloves may cause overestimation of microplastics
-- Gonon: Building a Clock with No Numerals
+- The RISE RISC-V Runners: free, native RISC-V CI on GitHub
+- The sudden fall of Sora
+- How the AI Bubble Bursts
+- Show HN: The Alphabetical Clock
+- 2026 is the year that decides whether the open 網頁 will survive
+- Senators want datacenters to come clean on power consumption
 - More on Version Control
+- About the Atmosphere
 - Kyushu Railway Company Train Varieties
-- Ohm's Peg-to-WASM Compiler
-- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history
-- HD Audio Driver for Windows 98SE / Me
-- Neovim 0.12.0
-- Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes
 - Founder of GitLab battles cancer by founding companies
-- Creating West Coast Buddhism (2024)
+- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history
+- Gonon: Building a Clock with No Numerals
+- Ohm's Peg-to-WASM Compiler
+- Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now
+- Neovim 0.12.0
+- Eclipse GlassFish: This Isn't Your Father's GlassFish
 - Police used AI facial recognition to wrongly arrest TN woman for crimes in ND
-- 如何 Survive in the Tech industry in 2026
-- Full 網絡 of clitoral nerves mapped out for first time
+- Creating West Coast Buddhism (2024)
+- Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes
+- Sony Shuts Down Nearly Its Memory Card Business Due to Flash Shortage
 - I'll buy your electronics to feed our robot
-- AyaFlow: A high-performance, eBPF-based 網絡 traffic analyzer written in Rust
-- 新 Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays
-- Observations from carbon dioxide monitoring
+- HD Audio Driver for Windows 98SE / Me
+- AI overly affirms users asking for personal advice
+- 72% of the dollar's purchasing power was destroyed in just four episodes
+- Full 網絡 of clitoral nerves mapped out for first time
 - Show HN: Crazierl – An Erlang Operating 系統
 - Show HN: Create a full language 伺服器 in Go with 3.17 spec support
-- AI overly affirms users asking for personal advice
+- Observations from carbon dioxide monitoring
+- AyaFlow: A high-performance, eBPF-based 網絡 traffic analyzer written in Rust
+- When do we become adults, really?
+- Cuts in publishing and book reviewing imperil the future of narrative nonfiction
 - Typing and Keyboards
 - Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders
 - The loneliness of A Room of One’s Own
-- Cuts in publishing and book reviewing imperil the future of narrative nonfiction
-- When do we become adults, really?
-- LinkedIn uses 2.4 GB RAM across two tabs
-- InpharmD (YC W21) Is 招聘 – 資深 Ruby on Rails 開發者
 - A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)
-- Show HN: I made a "程式設計 language" looking for feedback
-- Moretti replication published in AER
-- Stanford study reveals AI vision models invent images they never see
-- Show HN: BreezePDF – Free, in-browser PDF editor
-- I am definitely missing the pre-AI writing era
-- CSS is DOOMed
-- A nearly perfect USB cable tester
+- Stripe is down
 - Iran-linked hackers breach FBI director's personal email
-- The Failure of the Thermodynamics of Computation (2010)
-- Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank
-- Claude 代碼 runs Git reset –hard origin/main against project repo every 10 mins
-- Quantum frontiers may be closer than they appear
-- Siclair Microvision (1977)
-- When Coupled Volcanoes Talk, These Researchers Listen
-- I turned my Kindle into my own personal newspaper
+- LinkedIn uses 2.4 GB RAM across two tabs
+- CSS is DOOMed
+- Show HN: BreezePDF – Free, in-browser PDF editor
 - Running Tesla 模型 3's computer on my desk using parts from crashed cars
-- Netscape News Feed Straight Out of the Late 00s
-- User Mode Linux
-- Improved Git Diffs with Delta, Fzf and a Little Shell Scripting
-- The road to electric in charts and data
-- The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT
-- We Added a Console Notice to Internationalizationext – and 為什麼 We Removed It
-- The Epistemology of Microphysics
-- 1929: Inside the Greatest Crash in Wall Street History
-- The 'paperwork flood': How I drowned a bureaucrat before dinner
-- I decompiled the White House's 新 app
-- ICAO issued 新 power bank restriction on flight
-- Undroidwish – A single-file, batteries-included Tcl/Tk binary for many platforms
-- Nginx – Open-Sourced Session Persistence, Multipath TCP and More
-- Detecting file changes on macOS with kqueue
-- Paper Tape Is All You Need – 訓練 a Transformer on a 1976 Minicomputer
-- Alzheimer's disease mortality among taxi and ambulance drivers (2024)
-- I Built an Open-World Engine for the N64 [video]
-- The Hackers Who Tracked My Sleep Cycle
-- Arm releases first in-house chip, with Meta as debut customer
+- A nearly perfect USB cable tester
+- Show HN: I made a "程式設計 language" looking for feedback
+- 如何 Survive in the Tech industry in 2026
+- 新 Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays
+- Quantum frontiers may be closer than they appear
 
 
 ---
