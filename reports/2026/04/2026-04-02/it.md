@@ -4,207 +4,202 @@
 
 ---
 
-### 1. [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
+### 1. [IBM 宣布 Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)
+
+- ⭐ 140 分｜💬 76 留言｜👤 bonzini
+
+### 2. [Lemonade by AMD: a fast and 開源 local 大型語言模型 伺服器 using GPU and NPU](https://lemonade-server.ai)
+
+- ⭐ 42 分｜💬 11 留言｜👤 AbuAssar
+
+### 3. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
+
+- ⭐ 33 分｜💬 1 留言｜👤 lode
+
+### 4. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
+
+- ⭐ 177 分｜💬 93 留言｜👤 novaRom
+
+### 5. [Bringing Clojure 程式設計 to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/)
+
+- ⭐ 93 分｜💬 29 留言｜👤 smartmic
+
+### 6. [Significant Raise of Reports](https://lwn.net/Articles/1065620/)
+
+- ⭐ 58 分｜💬 26 留言｜👤 stratos123
+
+### 7. [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/)
+
+- ⭐ 72 分｜💬 32 留言｜👤 luu
+
+### 8. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
+
+- ⭐ 192 分｜💬 61 留言｜👤 jaden
+
+### 9. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
+
+- ⭐ 81 分｜💬 22 留言｜👤 jackson-mcd
+
+### 10. [Reinventing the Pull Request](https://lubeno.dev/blog/reinventing-the-pull-request)
+
+- ⭐ 25 分｜💬 19 留言｜👤 bkolobara
+
+### 11. [Enabling Codex to Analyze Two Decades of Hacker News Data](https://modolap.com/publication/hn-analysis-1)
+
+- ⭐ 13 分｜💬 2 留言｜👤 ronfriedhaber
+
+### 12. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
+
+- ⭐ 491 分｜💬 237 留言｜👤 hkmaxpro
+
+### 13. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
+
+- ⭐ 205 分｜💬 67 留言｜👤 Strilanc
+
+### 14. [EmDash – A spiritual successor to WordPress that solves plugin 安全](https://blog.cloudflare.com/emdash-wordpress/)
+
+- ⭐ 602 分｜💬 450 留言｜👤 elithrar
+
+### 15. [Telli (YC F24) is 招聘 engineers, designers, and more (on-site, Berlin)](http://hi.telli.com/join-us)
+
+- ⭐ 1 分｜💬 0 留言｜👤 sebselassie
+
+### 16. [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
 
 https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;Tf_UjBMIzNo
 
-- ⭐ 828 分｜💬 740 留言｜👤 apitman
+- ⭐ 974 分｜💬 832 留言｜👤 apitman
 
-### 2. [Subscription bombing and 如何 mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
+### 17. [Subscription bombing and 如何 mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 
-- ⭐ 81 分｜💬 58 留言｜👤 homelessdino
+- ⭐ 198 分｜💬 124 留言｜👤 homelessdino
 
-### 3. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
+### 18. [新 laws to make it easier to cancel subscriptions and get refunds](https://www.bbc.co.uk/news/articles/cvg0v36ek2go)
 
-- ⭐ 121 分｜💬 36 留言｜👤 Strilanc
+- ⭐ 81 分｜💬 30 留言｜👤 chrisjj
 
-### 4. [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
+### 19. [Built a cheap DIY fan controller because my motherboard never had working PWM](https://www.himthe.dev/blog/msi-forgot-my-fans)
 
-- ⭐ 192 分｜💬 74 留言｜👤 hkmaxpro
+- ⭐ 43 分｜💬 15 留言｜👤 bobsterlobster
 
-### 5. [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
+### 20. [A 新 C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
 
-- ⭐ 39 分｜💬 5 留言｜👤 jaden
+- ⭐ 201 分｜💬 18 留言｜👤 glittershark
 
-### 6. [A 新 C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
+### 21. [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
 
-- ⭐ 153 分｜💬 12 留言｜👤 glittershark
+- ⭐ 523 分｜💬 454 留言｜👤 ingve
 
-### 7. [EmDash – A spiritual successor to WordPress that solves plugin 安全](https://blog.cloudflare.com/emdash-wordpress/)
+### 22. [Order and Tension](https://slab.org/2026/03/22/order-and-tension/)
 
-- ⭐ 538 分｜💬 375 留言｜👤 elithrar
+- ⭐ 7 分｜💬 0 留言｜👤 surprisetalk
 
-### 8. [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
+### 23. [Fast and Gorgeous Erosion Filter](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html)
 
-- ⭐ 428 分｜💬 346 留言｜👤 ingve
+- ⭐ 187 分｜💬 17 留言｜👤 runevision
 
-### 9. [The Claude 代碼 Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
+### 24. [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect)
 
-- ⭐ 104 分｜💬 69 留言｜👤 mergesort
+- ⭐ 295 分｜💬 42 留言｜👤 hauntsaninja
 
-### 10. [Fast and Gorgeous Erosion Filter](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html)
+### 25. [A Founder Tried to Pitch – and Got a Restraining Order](https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan)
 
-- ⭐ 127 分｜💬 13 留言｜👤 runevision
+- ⭐ 12 分｜💬 6 留言｜👤 elonmm
 
-### 11. [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect)
+### 26. [A.I. Helped One Man (and His Brother) 構建 a $1.8B Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)
 
-- ⭐ 259 分｜💬 41 留言｜👤 hauntsaninja
+- ⭐ 23 分｜💬 20 留言｜👤 jbredeche
 
-### 12. [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
+### 27. [DMCA-resistant Claude 代碼 source 代碼](https://codeberg.org/tornikeo/claude-code)
 
-- ⭐ 9 分｜💬 0 留言｜👤 jackson-mcd
+- ⭐ 13 分｜💬 1 留言｜👤 tornikeo
 
-### 13. [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
+### 28. [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/)
 
-- ⭐ 21 分｜💬 4 留言｜👤 AustinDev
+- ⭐ 11 分｜💬 1 留言｜👤 jeditobe
 
-### 14. [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+### 29. [Which European countries have the 最佳 salaries after taxes?](https://www.euronews.com/my-europe/2026/04/02/which-european-countries-have-the-best-salaries-after-taxes)
 
-- ⭐ 185 分｜💬 110 留言｜👤 latchkey
+- ⭐ 9 分｜💬 25 留言｜👤 andrewstetsenko
 
-### 15. [What Gödel Discovered (2020)](https://stopa.io/post/269)
+### 30. [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
-- ⭐ 30 分｜💬 5 留言｜👤 qnleigh
-
-### 16. [Reverse Engineering Crazy Taxi, Part 2](https://wretched.computer/post/crazytaxi2)
-
-- ⭐ 20 分｜💬 2 留言｜👤 wgreenberg
-
-### 17. [r/程式設計 bans all discussion of 大型語言模型 程式設計](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)
-
-- ⭐ 90 分｜💬 68 留言｜👤 cryptoz
-
-### 18. [The future of 代碼 search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
-
-- ⭐ 25 分｜💬 14 留言｜👤 neogoose
-
-### 19. [AI Perfected Chess. Humans Made It Unpredictable Again](https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves)
-
-- ⭐ 15 分｜💬 2 留言｜👤 GMoromisato
-
-### 20. [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
-
-- ⭐ 94 分｜💬 42 留言｜👤 malgorithms
-
-### 21. [Ask HN: Who is 招聘? (April 2026)](https://news.ycombinator.com/item?id=47601859)
-
-Please state the location and include 遠端 for 遠端 work, 遠端 (US)
-or similar if the country is restricted, and ONSITE when 遠端 work is not an option.Please only post if you personally are p
-
-- ⭐ 225 分｜💬 189 留言｜👤 whoishiring
-
-### 22. [Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)](https://getdull.app)
-
-I kept deleting and redownloading Instagram because I couldn&#x27;t stop watching Reels but needed the app for DMs. Tried screen time limits, just overrode them. So I built this.Dull loads Instagram, 
-
-- ⭐ 72 分｜💬 56 留言｜👤 kasparnoor
-
-### 23. [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/)
-
-- ⭐ 64 分｜💬 79 留言｜👤 LorenDB
-
-### 24. [The revenge of the data scientist](https://hamel.dev/blog/posts/revenge/)
-
-- ⭐ 132 分｜💬 27 留言｜👤 hamelsmu
-
-### 25. [InspectMind AI (YC W24) Is 招聘](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker)
-
-- ⭐ 1 分｜💬 0 留言｜👤 aakashprasad91
-
-### 26. [SpaceX files to go public](https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html)
-
-- ⭐ 289 分｜💬 384 留言｜👤 nutjob2
-
-### 27. [Weather.com/Retro](https://weather.com/retro/)
-
-- ⭐ 126 分｜💬 22 留言｜👤 typeofhuman
-
-### 28. [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
-
-- ⭐ 31 分｜💬 12 留言｜👤 kristianp
-
-### 29. [The Windows equivalents of the most used Linux commands](http://techkettle.blogspot.com/2026/04/the-windows-equivalents-of-most-used.html)
-
-- ⭐ 47 分｜💬 27 留言｜👤 elsadek
-
-### 30. [Set the Line Before It's Crossed](https://nomagicpill.substack.com/p/set-the-line-before-its-crossed)
-
-- ⭐ 56 分｜💬 26 留言｜👤 surprisetalk
+- ⭐ 199 分｜💬 114 留言｜👤 latchkey
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- What Gödel Discovered (2020)
+- Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries
+- Reverse Engineering Crazy Taxi, Part 2
+- Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)
+- Ask HN: Who is 招聘? (April 2026)
+- Signing data structures the wrong way
+- The revenge of the data scientist
+- Quad9 Enables DNS over HTTP/3 and DNS over QUIC
+- The Weather Channel – RetroCast
+- SpaceX files to go public
+- Things I Think I Think... Preferring Local OSS LLMs
 - StepFun 3.5 Flash is #1 cost-effective 模型 for OpenClaw tasks (300 battles)
+- Ubuntu Mate Leader Stepping Down, Seeking 新 Contributors
+- Set the Line Before It's Crossed
 - Jax's true calling: Ray-Marching renderers on WebGL
-- SolveSpace (開源 2D/3D CAD) working on Windows 2000 (2025)
-- Ariane 6 user's manual [pdf]
+- Trinity Large Thinking
 - Scientists crack a 20-year nuclear mystery behind the creation of gold
-- Salomi, a research repo on extreme low-bit transformer quantization
-- Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM
-- BurgerDisk News
-- Solar Balconies Take Europe by Storm
-- Escaping the Ogallala Trap
+- The Claude 代碼 Leak
 - Intuiting Pratt Parsing
-- Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)
-- Windows 95 defenses against installers that overwrite a file with an older one
+- Ariane 6 user's manual [pdf]
+- SolveSpace (開源 2D/3D CAD) working on Windows 2000 (2025)
 - Random numbers, Persian 代碼: A mysterious signal transfixes radio sleuths
-- Tracing goroutines in realtime with eBPF
 - Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)
-- How-to guide: Commissioning a Sensor Physics R&D Lab
-- Ask HN: Who wants to be hired? (April 2026)
-- Swappa.com for GrapheneOS compatible devices – Stay Away
+- Evolutionary Computation Bestiary
+- Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM
+- Axios compromised on NPM – Malicious versions drop 遠端 access trojan
+- UK Government unveils rules to end subscription traps
 - Ada and Spark on ARM Cortex-M – A 教學 with Arduino and Nucleo Examples
-- ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover
+- The Windows equivalents of the most used Linux commands
+- Windows 95 defenses against installers that overwrite a file with an older one
+- Ask HN: Who wants to be hired? (April 2026)
+- $200 oil isn't as crazy as it sounds
+- Consider the Greenland Shark (2020)
 - Is BGP safe yet?
 - Show HN: Zerobox – Sandbox any command with file, 網絡, credential controls
-- Consider the Greenland Shark (2020)
-- Show HN: We open-sourced our content writing workflow as a Claude 代碼 skill
-- Apple removes iPhone vibe coding app from app store
 - CERN levels up with 新 superconducting karts
-- Axios compromised on NPM – Malicious versions drop 遠端 access trojan
-- Refine: AI-Powered Peer Review
-- An 介紹 Writing Systems and Unicode
-- Apple at 50
-- Montana referendum to outlaw corporate campaign contributions [video]
-- Delve – Fake Compliance as a Service – Part II – Day 2 of 5
+- Solar Balconies Take Europe by Storm
+- How-to guide: Commissioning a Sensor Physics R&D Lab
+- Apple removes iPhone vibe coding app from app store
+- Show HN: NASA Artemis II Mission Timeline Tracker
+- BurgerDisk News
 - Bring Back MiniDV with This Raspberry Pi FireWire Hat
-- Default GraphQL response is now HTTP 500
-- Claude wrote a full FreeBSD 遠端 kernel RCE with root shell
-- Will AI Eventually Thrive Outside the Moat?
+- Tracing goroutines in realtime with eBPF
 - OpenAI closes funding round at an $852B valuation
-- Randomness on Apple Platforms (2024)
-- Ukrainian drone holds position for 6 weeks
-- The AI Marketing BS Index
-- Show HN: Real-time dashboard for Claude 代碼 代理 teams
-- The Document Foundation ejects its core developers
-- A dot a day keeps the clutter away
-- 為什麼 Iran targeted Amazon data centers
-- I quit. The clankers won
-- Google 雲端: Investing in the Future of PostgreSQL
+- Claude wrote a full FreeBSD 遠端 kernel RCE with root shell
+- AI Perfected Chess. Humans Made It Unpredictable Again
+- Show HN: We open-sourced our content writing workflow as a Claude 代碼 skill
+- IPv6 address, as a sentence you can remember
+- Swappa.com for GrapheneOS compatible devices – Stay Away
+- Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)
+- Salomi, a research repo on extreme low-bit transformer quantization
+- An 介紹 Writing Systems and Unicode
+- Show HN: QWERTY mini Pro – 為什麼 a 2-row, 16-key keyboard works better
+- Half of social-science studies fail replication 測試 in years-long project
+- ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover
+- Apple at 50
+- Escaping the Ogallala Trap
 - From 300KB to 69KB per Token: How 大型語言模型 Architectures Solve the KV Cache Problem
-- Teenage Engineering's PO-32 acoustic modem and synth implementation
+- Default GraphQL response is now HTTP 500
+- A dot a day keeps the clutter away
 - Cohere Transcribe: Speech Recognition
-- Rick Dangerous
+- Teenage Engineering's PO-32 acoustic modem and synth implementation
+- Randomness on Apple Platforms (2024)
+- I Am Not A Number. In memory of the more than 72,000 Palestinians killed
 - Ordinary Lab Gloves May Have Skewed Microplastic Data
-- Comparing C/C++ unity 構建 with regular 構建 on a large codebase (2024)
-- Wikidata: WikiProject Ontology/Ontology Course
-- The Finest Swiss Quality Quaternions
-- "Vibecession" reflects an increasingly difficult economy and society
 - Show HN: Postgres extension for BM25 relevance-ranked full-text search
-- AbodeLLM – An offline AI 助手 for Android devices, based on open models
+- I quit. The clankers won
+- Ukrainian drone holds position for 6 weeks
 - Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs
-- Neanderthals survived on a knife's edge for 350k years
-- Dutch armed forces recruiting 1,200 drone specialists
-- Back to FreeBSD – Part 2 – Jails
-- Show HN: 65k AI voters predict UK local elections with 75% accuracy
-- I traced my traffic through a home Tailscale exit node
 - 為什麼 the US Navy won't blast the Iranians and 'open' Strait of Hormuz
-- 43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15
-- Claude 代碼 Unpacked : A visual guide
-- Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)
-- "Special 301" Comments on Nintendo Game Piracy in Asia and Latin America (1994)
-- Artemis II is not safe to fly
 
 
 ---
