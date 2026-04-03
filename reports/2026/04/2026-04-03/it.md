@@ -6,202 +6,204 @@
 
 ### 1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
 
-- ⭐ 1130 分｜💬 337 留言｜👤 jeffmcjunkin
+- ⭐ 1358 分｜💬 390 留言｜👤 jeffmcjunkin
 
 ### 2. [Decisions that eroded trust in Azure – by a former Azure Core 工程師](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 
-- ⭐ 278 分｜💬 87 留言｜👤 axelriet
+- ⭐ 611 分｜💬 240 留言｜👤 axelriet
 
 ### 3. [Tailscale's 新 macOS home](https://tailscale.com/blog/macos-notch-escape)
 
-- ⭐ 317 分｜💬 164 留言｜👤 tosh
+- ⭐ 422 分｜💬 203 留言｜👤 tosh
 
-### 4. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
+### 4. [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
 
-- ⭐ 131 分｜💬 50 留言｜👤 1659447091
+- ⭐ 104 分｜💬 20 留言｜👤 gaigalas
 
 ### 5. [Cursor 3](https://cursor.com/blog/cursor-3)
 
-- ⭐ 282 分｜💬 240 留言｜👤 adamfeldman
+- ⭐ 374 分｜💬 303 留言｜👤 adamfeldman
 
-### 6. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
+### 6. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
 
-- ⭐ 426 分｜💬 149 留言｜👤 pretext
+- ⭐ 213 分｜💬 88 留言｜👤 1659447091
 
-### 7. [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html)
+### 7. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
 
-- ⭐ 154 分｜💬 71 留言｜👤 sedev
+- ⭐ 494 分｜💬 175 留言｜👤 pretext
 
-### 8. [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
+### 8. [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html)
 
-https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;George_H._Goble
+- ⭐ 229 分｜💬 90 留言｜👤 sedev
 
-- ⭐ 109 分｜💬 19 留言｜👤 finaard
+### 9. [Show HN: Home Maker: Declare Your Dev Tools in a Makefile](https://thottingal.in/blog/2026/03/29/home-maker/)
 
-### 9. [Lemonade by AMD: a fast and 開源 local 大型語言模型 伺服器 using GPU and NPU](https://lemonade-server.ai)
+A 開發者&#x27;s machine accumulates tools fast. A Rust CLI you compiled last year, a Python formatter installed via `uv`, a language 伺服器 pulled from npm, a terminal emulator from a curl script, 
 
-- ⭐ 440 分｜💬 97 留言｜👤 AbuAssar
+- ⭐ 30 分｜💬 14 留言｜👤 sthottingal
 
-### 10. [LinkedIn is searching your browser extensions](https://browsergate.eu/)
+### 10. [The True Shape of Io's Steeple Mountain](https://www.weareinquisitive.com/news/hidden-in-the-shadow)
 
-- ⭐ 1558 分｜💬 682 留言｜👤 digitalWestie
+- ⭐ 8 分｜💬 0 留言｜👤 carlosjobim
 
-### 11. [Memo: A language that remembers only the last 12 lines of 代碼](https://danieltemkin.com/Esolangs/Memo/)
+### 11. [Vector Meson Dominance](https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/)
 
-- ⭐ 19 分｜💬 3 留言｜👤 notem
+- ⭐ 15 分｜💬 0 留言｜👤 chmaynard
 
-### 12. [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
+### 12. [LinkedIn is searching your browser extensions](https://browsergate.eu/)
+
+- ⭐ 1665 分｜💬 696 留言｜👤 digitalWestie
+
+### 13. [The Joy of Numbered Streets](https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html)
+
+- ⭐ 37 分｜💬 16 留言｜👤 dmit
+
+### 14. [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
 
 Made a little Artemis II tracker for anyone else who is unnecessarily invested in this mission:https:&#x2F;&#x2F;artemis-ii-tracker.com&#x2F;For those of us who apparently need a dedicated place to mo
 
-- ⭐ 27 分｜💬 9 留言｜👤 codingmoh
+- ⭐ 82 分｜💬 31 留言｜👤 codingmoh
 
-### 13. [ParadeDB (YC S23) Is 招聘 資料庫 Internal Engineers (Rust)](https://paradedb.notion.site/)
+### 15. [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
+
+https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;George_H._Goble
+
+- ⭐ 139 分｜💬 26 留言｜👤 finaard
+
+### 16. [Significant progress made on Xbox 360 recompilation](https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/)
+
+- ⭐ 103 分｜💬 22 留言｜👤 tetrisgm
+
+### 17. [OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/)
+
+- ⭐ 198 分｜💬 158 留言｜👤 surprisetalk
+
+### 18. [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
+
+- ⭐ 52 分｜💬 15 留言｜👤 OhMeadhbh
+
+### 19. [JSON Canvas Spec (2024)](https://jsoncanvas.org/spec/1.0/)
+
+- ⭐ 100 分｜💬 32 留言｜👤 tobr
+
+### 20. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
+
+- ⭐ 277 分｜💬 120 留言｜👤 lode
+
+### 21. [Memo: A language that remembers only the last 12 lines of 代碼](https://danieltemkin.com/Esolangs/Memo/)
+
+- ⭐ 44 分｜💬 19 留言｜👤 notem
+
+### 22. [ParadeDB (YC S23) Is 招聘 資料庫 Internal Engineers (Rust)](https://paradedb.notion.site/)
 
 - ⭐ 1 分｜💬 0 留言｜👤 philippemnoel
 
-### 14. [OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/)
+### 23. [Pentagon Pete's Bigoted Reason for Firing 熱門 General Leaks](https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/)
 
-- ⭐ 146 分｜💬 127 留言｜👤 surprisetalk
+- ⭐ 17 分｜💬 2 留言｜👤 KnuthIsGod
 
-### 15. [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
+### 24. [Maze Algorithms (1997)](https://www.astrolog.org/labyrnth/algrithm.htm)
 
-- ⭐ 7 分｜💬 1 留言｜👤 gaigalas
+- ⭐ 39 分｜💬 5 留言｜👤 marukodo
 
-### 16. [Prefer do notation over Applicative operators when assembling records (2024)](https://haskellforall.com/2024/05/prefer-do-notation-over-applicative)
+### 25. [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
 
-- ⭐ 21 分｜💬 2 留言｜👤 wazHFsRy
+- ⭐ 84 分｜💬 45 留言｜👤 Kyro38
 
-### 17. [JSON Canvas Spec (2024)](https://jsoncanvas.org/spec/1.0/)
+### 26. [Artemis computer running two instances of MS outlook; they can't figure out 為什麼](https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25)
 
-- ⭐ 81 分｜💬 28 留言｜👤 tobr
+- ⭐ 382 分｜💬 290 留言｜👤 mooreds
 
-### 18. [Significant progress made on Xbox 360 recompilation](https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/)
+### 27. [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
 
-- ⭐ 64 分｜💬 15 留言｜👤 tetrisgm
+- ⭐ 28 分｜💬 6 留言｜👤 sohkamyung
 
-### 19. [The beginning of 程式設計 as we'll know it?](https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/)
+### 28. [Prefer do notation over Applicative operators when assembling records (2024)](https://haskellforall.com/2024/05/prefer-do-notation-over-applicative)
 
-- ⭐ 16 分｜💬 4 留言｜👤 zdw
+- ⭐ 42 分｜💬 6 留言｜👤 wazHFsRy
 
-### 20. [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
+### 29. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
 
-- ⭐ 18 分｜💬 4 留言｜👤 OhMeadhbh
+- ⭐ 808 分｜💬 397 留言｜👤 novaRom
 
-### 21. [Significant raise of reports](https://lwn.net/Articles/1065620/)
+### 30. [Lemonade by AMD: a fast and 開源 local 大型語言模型 伺服器 using GPU and NPU](https://lemonade-server.ai)
 
-- ⭐ 278 分｜💬 147 留言｜👤 stratos123
-
-### 22. [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
-
-- ⭐ 6 分｜💬 1 留言｜👤 Kyro38
-
-### 23. [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
-
-- ⭐ 253 分｜💬 114 留言｜👤 lode
-
-### 24. [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
-
-- ⭐ 6 分｜💬 2 留言｜👤 sohkamyung
-
-### 25. [Artemis computer running two instances of MS outlook; they can't figure out 為什麼](https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25)
-
-- ⭐ 312 分｜💬 235 留言｜👤 mooreds
-
-### 26. [Queueing Requests Queues Your Capacity Problems, Too](https://pushtoprod.substack.com/p/queueing-requests-queues-your-capacity-problems-too)
-
-- ⭐ 16 分｜💬 6 留言｜👤 mhawthorne
-
-### 27. [Maze Algorithms (1997)](https://www.astrolog.org/labyrnth/algrithm.htm)
-
-- ⭐ 10 分｜💬 3 留言｜👤 marukodo
-
-### 28. [Magic the Gathering Deck Shuffler](https://mtg.jessitron.honeydemo.io/)
-
-- ⭐ 35 分｜💬 14 留言｜👤 mooreds
-
-### 29. ['Backrooms' and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/)
-
-- ⭐ 171 分｜💬 78 留言｜👤 anarbadalov
-
-### 30. [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
-
-- ⭐ 740 分｜💬 380 留言｜👤 novaRom
+- ⭐ 493 分｜💬 107 留言｜👤 AbuAssar
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Foxing aspires to be an eBPF-powered replication engine for Linux filesystems
+- Magic the Gathering Deck Shuffler
+- A Rave Review of Superpowers (For Claude 代碼)
+- 'Backrooms' and the Rise of the Institutional Gothic
+- Show HN: Minimal Brain Teaser 網頁 Game (Handcrafted, No AI)
+- I Built an SMS Gateway with a $20 Android Phone – Jonno.nz
+- Queueing Requests Queues Your Capacity Problems, Too
 - Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps
-- Show HN: A P2P messenger with dual 網絡 modes (Fast and Tor)
-- Hugo's 新 CSS Powers
-- Renewables reached nearly 50% of global electricity capacity last year
-- Amazon is adding a fuel surcharge to fees it collects from third-party sellers
-- Delve allegedly forked an open-source tool and sold it as its own
+- Scientists Cloned a Mouse for 58 Generations. The Results Were Catastrophic
 - Bringing Clojure 程式設計 to Enterprise (2021)
-- Yggdrasil 網絡
 - Gone (Almost) Phishin'
-- The case for zero-error horizons in trustworthy LLMs
-- Reinventing the pull request
-- Quadratic Micropass Type 推論
-- The Australian government has announced gambling advertising reforms
-- Mercor says it was hit by cyberattack tied to compromise LiteLLM
-- Modern SQLite: Features You Didn't Know It Had
-- A $20/month user costs OpenAI $65 in compute. AI video is a money furnace
-- AWS has officially removed all EC2 instances in Bahrain from their docs
+- Foxing aspires to be an eBPF-powered replication engine for Linux filesystems
+- Renewables reached nearly 50% of global electricity capacity last year
 - Artemis II Launch Day Updates
-- An Example of Statistical Investigation of the Text Eugene Onegin – Markov, 1913 [pdf]
-- Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays
+- Hugo's 新 CSS Powers
+- Reinventing the pull request
+- rpg: A modern psql-compatible Postgres terminal and TUI written in Rust
+- Delve allegedly forked an open-source tool and sold it as its own
+- Mercor says it was hit by cyberattack tied to compromise LiteLLM
+- Show HN: A P2P messenger with dual 網絡 modes (Fast and Tor)
+- Significant raise of reports
 - Steam on Linux Use Skyrocketed Above 5% in March
-- IBM 宣布 Strategic Collaboration with Arm
-- Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt
-- Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries
-- Enabling Codex to Analyze Two Decades of Hacker News Data
-- Subscription bombing and 如何 mitigate it
-- U.S. Is Burning Through Tomahawk Cruise Missile Stockpile at an Alarming Rate
-- Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are
-- Show HN: I tested 15 free AI models at building real 軟體 on a $25/year VPS
-- Built a cheap DIY fan controller because my motherboard never had working PWM
-- Proton Workspace: An encrypted suite for team collaboration
-- Email obfuscation: What works in 2026?
+- Amazon is adding a fuel surcharge to fees it collects from third-party sellers
+- The case for zero-error horizons in trustworthy LLMs
 - Reporting potholes with an ESP32, LoRA, and AI
+- IBM 宣布 Strategic Collaboration with Arm
+- Yggdrasil 網絡
+- Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays
+- Quadratic Micropass Type 推論
+- 為什麼 Doesn't Anybody Realize We're Going Back to the Moon?
+- Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt
+- The Australian government has announced gambling advertising reforms
+- Modern SQLite: Features You Didn't Know It Had
+- An Example of Statistical Investigation of the Text Eugene Onegin – Markov, 1913 [pdf]
+- Enabling Codex to Analyze Two Decades of Hacker News Data
+- Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries
+- The beginning of 程式設計 as we'll know it?
+- Subscription bombing and 如何 mitigate it
+- Built a cheap DIY fan controller because my motherboard never had working PWM
+- Free stuff makes us irrational
 - Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)
-- CC leak: skills are better than I thought
+- Email obfuscation: What works in 2026?
+- AWS has officially removed all EC2 instances in Bahrain from their docs
+- Show HN: I tested 15 free AI models at building real 軟體 on a $25/year VPS
+- EmDash – A spiritual successor to WordPress that solves plugin 安全
+- A $20/month user costs OpenAI $65 in compute. AI video is a money furnace
+- Tesla March car registrations soar in key European markets
+- Show HN: A Minimal Basic Inspired by Brainfuck
 - Almighty Lisp: Lisp and Emacs Essentials Book
 - Quad9 Enables DNS over HTTP/3 and DNS over QUIC
-- Amazon data center in Bahrain attacked by Iranian Revolutionary Guards
-- EPA flags microplastics, pharmaceuticals as contaminants in drinking water
-- What Gödel Discovered (2020)
-- EmDash – A spiritual successor to WordPress that solves plugin 安全
-- U.S. Unveils Up to 100% Tariff on Branded Drugs
 - The revenge of the data scientist
-- March heat in American west has left snowpack at record-low levels
-- Users say Adobe Creative 雲端 rewrote hosts file to detect installed app
-- 新 laws to make it easier to cancel subscriptions and get refunds
-- Reverse Engineering Crazy Taxi, Part 2
+- What Gödel Discovered (2020)
+- CC leak: skills are better than I thought
 - SpaceX files to go public
-- Iran Says It Hit Oracle Facilities in UAE
+- Reverse Engineering Crazy Taxi, Part 2
+- Axios compromised on NPM – Malicious versions drop 遠端 access trojan
 - Things I Think I Think... Preferring Local OSS LLMs
 - Quantum computing bombshells that are not April Fools
-- First lab-grown T-Rex leather handbag unveiled in Amsterdam could fetch €575,000
-- On the trail of ancient art, deep in the Sahara
-- Tracing Goroutines in Realtime with eBPF
-- Proton Meet, Talk in total privacy
-- Axios compromised on NPM – Malicious versions drop 遠端 access trojan
-- Mistral secures $830M in debt financing to fund AI data center
-- DRAM pricing is killing the hobbyist SBC market
-- Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer
+- Iran targeted Amazon data centers
+- Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are
+- U.S. Is Burning Through Tomahawk Cruise Missile Stockpile at an Alarming Rate
+- 新 laws to make it easier to cancel subscriptions and get refunds
+- The machines are fine. I'm worried about us
 - Intuiting Pratt Parsing
-- A 新 C++ back end for ocamlc
-- Blue Owl Investors Seek to Pull $5.4B from Two Private-Credit Funds
+- DRAM pricing is killing the hobbyist SBC market
+- Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)
 - Fast and Gorgeous Erosion Filter
-- Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI
+- A 新 C++ back end for ocamlc
 - Jax's true calling: Ray-Marching renderers on WebGL
-- The Weather Channel – RetroCast
-- Order and Tension
-- NASA: Artemis II Real time tracking with multiple views
-- Trap a quantum object in a box – is it hard or soft, or is it black or white?
+- Microsoft wants Edge to automatically open by default at Windows 11 boot
+- March heat in American west has left snowpack at record-low levels
 
 
 ---
