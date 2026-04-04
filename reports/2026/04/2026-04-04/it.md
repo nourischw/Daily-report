@@ -8,206 +8,206 @@
 
 Received the following email from Anthropic:Hi,Starting April 4 at 12pm PT &#x2F; 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw.
 
-- ⭐ 211 分｜💬 214 留言｜👤 firloop
+- ⭐ 529 分｜💬 470 留言｜👤 firloop
 
 ### 2. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
 
 https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F;
 
-- ⭐ 479 分｜💬 195 留言｜👤 andsoitis
+- ⭐ 663 分｜💬 245 留言｜👤 andsoitis
 
-### 3. [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
+### 3. [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
 
-- ⭐ 69 分｜💬 12 留言｜👤 hpscript
+- ⭐ 218 分｜💬 118 留言｜👤 carabiner
 
 ### 4. [iNaturalist](https://www.inaturalist.org/)
 
-- ⭐ 327 分｜💬 94 留言｜👤 bookofjoe
+- ⭐ 391 分｜💬 105 留言｜👤 bookofjoe
 
-### 5. [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans)
+### 5. [Emotion concepts and their function in a large language 模型](https://www.anthropic.com/research/emotion-concepts-function)
 
-- ⭐ 33 分｜💬 30 留言｜👤 angst
+- ⭐ 3 分｜💬 0 留言｜👤 dnw
 
-### 6. [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
-
-- ⭐ 121 分｜💬 15 留言｜👤 detaro
-
-### 7. [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
-
-- ⭐ 36 分｜💬 9 留言｜👤 midnightfish
-
-### 8. [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
-
-- ⭐ 96 分｜💬 24 留言｜👤 0o_MrPatrick_o0
-
-### 9. [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
-
-- ⭐ 52 分｜💬 6 留言｜👤 performative
-
-### 10. [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html)
-
-- ⭐ 12 分｜💬 0 留言｜👤 summarity
-
-### 11. [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
-
-With social media and now AI, its important to keep the indie 網頁 alive. There are many people who write frequently. Blogosphere tries to highlight them by fetching the recent posts from personal blog
-
-- ⭐ 648 分｜💬 168 留言｜👤 ramkarthikk
-
-### 12. [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
+### 6. [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579)
 
 https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1sbdw29&#x2F;if_youre_...https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260403174514&#x2F;https:&#x2F;&#x2F;old.reddi...
 
-- ⭐ 237 分｜💬 155 留言｜👤 kykeonaut
+- ⭐ 327 分｜💬 175 留言｜👤 kykeonaut
+
+### 7. [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html)
+
+- ⭐ 81 分｜💬 10 留言｜👤 summarity
+
+### 8. [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
+
+- ⭐ 78 分｜💬 29 留言｜👤 politelemon
+
+### 9. [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
+
+- ⭐ 126 分｜💬 66 留言｜👤 lxm
+
+### 10. [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
+
+- ⭐ 141 分｜💬 38 留言｜👤 0o_MrPatrick_o0
+
+### 11. [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
+
+- ⭐ 78 分｜💬 30 留言｜👤 midnightfish
+
+### 12. [Improving my focus by giving up my big monitor](https://ounapuu.ee/posts/2026/04/01/focus/)
+
+- ⭐ 63 分｜💬 81 留言｜👤 Fudgel
 
 ### 13. [We replaced RAG with a virtual filesystem for our AI documentation 助手](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
-- ⭐ 220 分｜💬 96 留言｜👤 denssumesh
+- ⭐ 275 分｜💬 110 留言｜👤 denssumesh
 
-### 14. [Charge Robotics (YC S21) Is 招聘 軟體 and 硬體 Engineers](https://jobs.ashbyhq.com/charge-robotics)
+### 14. [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
 
-- ⭐ 1 分｜💬 0 留言｜👤 banks_h
+- ⭐ 223 分｜💬 98 留言｜👤 Kyro38
 
-### 15. [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
+### 15. [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
 
-- ⭐ 124 分｜💬 15 留言｜👤 uticus
+I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash? To answer that, you need award availability across multiple programs, cash prices, 
 
-### 16. [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
+- ⭐ 54 分｜💬 23 留言｜👤 borski
 
-- ⭐ 371 分｜💬 205 留言｜👤 kklisura
+### 16. [The Technocracy Movement of the 1930s](https://donotresearch.substack.com/p/welcome-to-the-technocracy)
 
-### 17. [Bourbon waste could provide next-gen supercapacitor components](https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste)
+- ⭐ 83 分｜💬 76 留言｜👤 lazydogbrownfox
 
-- ⭐ 13 分｜💬 3 留言｜👤 prabal97
+### 17. [Go on Embedded Systems and WebAssembly](https://tinygo.org/)
 
-### 18. [如何 Write Unmaintainable 代碼 (1999)](https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html)
+- ⭐ 145 分｜💬 18 留言｜👤 uticus
 
-- ⭐ 16 分｜💬 6 留言｜👤 downbad_
+### 18. [Delve sets the record straight on anonymous attacks](https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks)
 
-### 19. [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
+- ⭐ 11 分｜💬 6 留言｜👤 frenchtoast8
 
-- ⭐ 19 分｜💬 7 留言｜👤 politelemon
+### 19. [如何 make a sliding, self-locking, and predator-proof chicken coop door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
 
-### 20. [如何 Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
+- ⭐ 95 分｜💬 43 留言｜👤 uticus
 
-- ⭐ 73 分｜💬 36 留言｜👤 uticus
+### 20. [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
 
-### 21. [F-15E jet shot down over Iran](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
+- ⭐ 85 分｜💬 93 留言｜👤 jandeboevrie
+
+### 21. [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
+
+- ⭐ 342 分｜💬 98 留言｜👤 detaro
+
+### 22. [F-15E jet shot down over Iran](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
 
 https:&#x2F;&#x2F;theaviationist.com&#x2F;2026&#x2F;04&#x2F;03&#x2F;iran-f-15e-debris&#x2F;
 
-- ⭐ 367 分｜💬 852 留言｜👤 tjwds
+- ⭐ 444 分｜💬 1009 留言｜👤 tjwds
 
-### 22. [Iran strikes leave Amazon availability zones "hard down" in Bahrain and Dubai](https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability)
+### 23. [構建 your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
 
-- ⭐ 142 分｜💬 63 留言｜👤 upofadown
+- ⭐ 137 分｜💬 29 留言｜👤 arjunbajaj
 
-### 23. [Age verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/)
+### 24. [Naming rights to street auctioned in San Francisco](https://paintastreet.com/auction)
 
-- ⭐ 76 分｜💬 63 留言｜👤 londonanon
+- ⭐ 7 分｜💬 2 留言｜👤 18nleung
 
-### 24. [為什麼 are we still using Markdown?](https://bgslabs.org/blog/why-are-we-using-markdown/)
+### 25. [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
 
-- ⭐ 55 分｜💬 115 留言｜👤 veqq
+- ⭐ 97 分｜💬 18 留言｜👤 performative
 
-### 25. [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
+### 26. [South Polar Times](https://www.laphamsquarterly.org/roundtable/south-polar-times)
 
-- ⭐ 62 分｜💬 27 留言｜👤 KraftyOne
+- ⭐ 23 分｜💬 1 留言｜👤 Thevet
 
-### 26. [A Taxonomy of Interiors](https://misfitsarchitecture.com/2026/03/29/a-taxonomy-of-interiors/)
+### 27. [Bourbon waste could provide next-gen supercapacitor components](https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste)
 
-- ⭐ 19 分｜💬 0 留言｜👤 downweight
+- ⭐ 28 分｜💬 14 留言｜👤 prabal97
 
-### 27. [構建 your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
+### 28. [Scientists are working on "everything vaccines"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines)
 
-- ⭐ 107 分｜💬 23 留言｜👤 arjunbajaj
+- ⭐ 6 分｜💬 2 留言｜👤 andsoitis
 
-### 28. [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)
+### 29. [Age verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/)
 
-- ⭐ 295 分｜💬 114 留言｜👤 greenstevester
+- ⭐ 108 分｜💬 93 留言｜👤 londonanon
 
-### 29. [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
+### 30. [為什麼 are we still using Markdown?](https://bgslabs.org/blog/why-are-we-using-markdown/)
 
-- ⭐ 211 分｜💬 91 留言｜👤 jandeboevrie
-
-### 30. [DCJ11Hack+ – DEC PDP/11 based homebrew computer](https://codeberg.org/TechPaula/DCJ11HackPlus)
-
-- ⭐ 19 分｜💬 0 留言｜👤 zdw
+- ⭐ 98 分｜💬 163 留言｜👤 veqq
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion
-- The Hardest Document Extraction Problem in Insurance
-- Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M
-- Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment
-- Linux Running in a PDF (2025)
+- SSH certificates: the better SSH experience
+- Show HN: I built a frontpage for personal blogs
+- Iran strikes leave Amazon availability zones "hard down" in Bahrain and Dubai
+- 如何 Write Unmaintainable 代碼 (1999)
+- An experimental guide to Answer Engine Optimization
+- Windows++: C++ 應用 Framework for Windows by Paul DiLascia
+- Claude 代碼 Found a Linux Vulnerability Hidden for 23 Years
+- Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C
 - Show HN: Apfel – The free AI already on your Mac
-- 更新 on the eBay Scam
-- Automatic Textbook Formalization
-- Category Theory Illustrated – Types
-- OpenAI Cap Table leak reveals Microsoft's 18x return
-- Kids groups say they didn't know OpenAI was behind their child safety coalition
-- "Cognitive surrender" leads AI users to abandon logical thinking, research finds
+- Async Python Is Secretly Deterministic
 - Google releases Gemma 4 open models
-- What we learned building 100 API integrations with OpenCode
-- NHS staff refusing to use FDP over Palantir ethical concerns
-- Anthropic to limit Using third-party harnesses with Claude subscriptions
-- Big-Endian Testing with QEMU
-- TDF ejects its core developers
-- Native Americans had dice 12,000 years ago
-- Delve removed from YC portfolio website
-- Third-party Claude harnesses will now draw from extra usage
+- Show HN: ctx – an Agentic Development Environment (ADE)
+- DCJ11Hack+ – DEC PDP/11 based homebrew computer
+- Category Theory Illustrated – Types
+- Linux Running in a PDF (2025)
+- Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M
 - Decisions that eroded trust in Azure – by a former Azure Core 工程師
-- Hello, World
+- Japan to require language proficiency proof for 工程師, specialist visa
+- Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion
+- The Philosopher and the Tsar
+- 更新 on the eBay Scam
+- What we learned building 100 API integrations with OpenCode
+- Automatic Textbook Formalization
+- Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment
+- NHS staff refusing to use FDP over Palantir ethical concerns
+- April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini
+- The Hardest Document Extraction Problem in Insurance
+- "Cognitive surrender" leads AI users to abandon logical thinking, research finds
 - The Axios supply chain attack used individually targeted social engineering
-- I Gave an Claude Its Own Radio Station – It Won't Stop Broadcasting (It's Fine)
-- PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free
-- Ten Foreign Nationals Charged in an International Op Targeting Crypto Market
-- Flattening the Duck Curve: batteries reach 44% of evening demand in California
-- Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux
-- Critics say EU risks ceding control of its tech laws under U.S. pressure
-- The Subprime AI Crisis Is Here
-- The danger of military AI isn't killer robots; it's worse human judgement
-- CBP Facility Codes Sure Seem to Have Leaked via Online Flashcards
-- Three main saturated fats raise your cholesterol
+- ENiGMA½ BBS 軟體
+- Hello, World
+- Did Anyone Predict the Industrial Revolution?
+- OpenAI Cap Table leak reveals Microsoft's 18x return
 - George Goble has died
-- Maze Algorithms (1997)
+- Critics say EU risks ceding control of its tech laws under U.S. pressure
+- Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux
 - OpenAI Acquires TBPN
-- Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law
-- Mercurial Dyson – a plan for the disassembly of planet Mercury
-- UN chief tells Trump 'war is not a game show' after US bombs civilian targets
-- Solana Drift Protocol drained of $285M via fake token and governance hijack
-- Claude AI finds Vim, Emacs RCE bugs that trigger on file open
+- Artemis II Launch Day Updates
+- Maze Algorithms (1997)
+- Kids groups say they didn't know OpenAI was behind their child safety coalition
+- Lemonade by AMD: a fast and 開源 local 大型語言模型 伺服器 using GPU and NPU
 - Artemis computer running two instances of MS outlook; they can't figure out 為什麼
 - Tailscale's 新 macOS home
-- Solar and batteries can power the world
-- I Built an SMS Gateway with a $20 Android Phone – Jonno.nz
-- Lemonade by AMD: a fast and 開源 local 大型語言模型 伺服器 using GPU and NPU
-- Artemis II Launch Day Updates
 - Cursor 3
+- I Built an SMS Gateway with a $20 Android Phone – Jonno.nz
+- Writing an 大型語言模型 from scratch, part 32h – Interventions: full fat float32
 - Good ideas do not need lots of lies in order to gain public acceptance (2008)
-- Artemis II's toilet is a moon mission milestone
+- Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)
 - Qwen3.6-Plus: Towards real world agents
-- Meta Pauses Work with Mercor After Data Breach Puts AI Industry Secrets at Risk
-- HarfBuzz Slug Support with WebGL
+- Anthropic to limit Using third-party harnesses with Claude subscriptions
+- Artemis II's toilet is a moon mission milestone
+- PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free
+- The story that rocked the world: Ten years of the Panama Papers, part 1 – ICIJ
 - 'Backrooms' and the Rise of the Institutional Gothic
-- Darkness can "travel" faster than light speed
+- Flattening the Duck Curve: batteries reach 44% of evening demand in California
 - Show HN: Made a little Artemis II tracker
-- A Few Good Magazines From the 70s and 80s
-- A CSS Engine in OCaml
-- Y Combinator's CEO says he ships 37,000 lines of AI 代碼 per day
-- Memo: A language that remembers only the last 12 lines of 代碼
-- 新 Rowhammer attacks give complete control of machines running NVIDIA GPUs
+- U.S. is burning through Tomahawk cruise missile stockpile
 - Bringing Clojure 程式設計 to Enterprise (2021)
-- Gone (Almost) Phishin'
-- Second Revision of 6502 Laptop
+- Netflix just dropped their first public 模型 on Hugging Face: VOID
 - Mercor says it was hit by cyberattack tied to compromise LiteLLM
-- C89cc.sh – standalone C89/ELF64 compiler in pure portable shell
-- Trump wants to slash $707M from CISA's budget
-- Palm-sized superconducting magnet achieves 42 Tesla, rivaling the worlds biggest
+- Gone (Almost) Phishin'
+- A Few Good Magazines From the 70s and 80s
+- Sandbox Strategy Game for AI
 - Steam on Linux Use Skyrocketed Above 5% in March
+- Chip-scale optical wireless 系統 hits 362 Gbps at half the energy of Wi-Fi
+- Memo: A language that remembers only the last 12 lines of 代碼
+- I Gave an Claude Its Own Radio Station – It Won't Stop Broadcasting (It's Fine)
+- Three main saturated fats raise your cholesterol
+- No One at Waffle House Remembers FEMA Official Who Says He Teleported In
+- Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law
 
 
 ---
