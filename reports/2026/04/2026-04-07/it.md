@@ -4,216 +4,211 @@
 
 ---
 
-### 1. [My Experience as a Rice Farmer](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html)
+### 1. [We found an undocumented bug in the Apollo 11 guidance computer 代碼](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
 
-- ⭐ 22 分｜💬 1 留言｜👤 surprisetalk
+- ⭐ 107 分｜💬 49 留言｜👤 henrygarner
 
-### 2. [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+### 2. [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/)
+
+- ⭐ 55 分｜💬 10 留言｜👤 sam-bee
+
+### 3. [AI may be making us think and write more alike](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+
+- ⭐ 76 分｜💬 57 留言｜👤 giuliomagnifico
+
+### 4. [Show HN: A cartographer's attempt to realistically map Tolkien's world](https://www.intofarlands.com/atlasofarda)
+
+- ⭐ 21 分｜💬 2 留言｜👤 intofarlands
+
+### 5. [Identify a London Underground Line just by listening to it](https://tubesoundquiz.com/)
+
+- ⭐ 62 分｜💬 17 留言｜👤 nelson687
+
+### 6. [Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead](https://locker.dev)
+
+Last week SWYX nerd-sniped me into building an Open-source Dropbox.Here is Locker: the ultimate open-source Google Drive&#x2F;box&#x2F;Dropbox alternative 
+- Provider agnostic (S3, R2, vercel blob, lo
+
+- ⭐ 58 分｜💬 49 留言｜👤 Zm44
+
+### 7. [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
+
+- ⭐ 65 分｜💬 1 留言｜👤 semyonsh
+
+### 8. [Show HN: Pion/handoff – Move WebRTC out of browser and into Go](https://github.com/pion/handoff)
+
+- ⭐ 13 分｜💬 1 留言｜👤 Sean-Der
+
+### 9. [Breaking the console: a brief history of video game 安全](https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/)
+
+- ⭐ 40 分｜💬 5 留言｜👤 sprado
+
+### 10. [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
+
+- ⭐ 146 分｜💬 75 留言｜👤 jonbaer
+
+### 11. [Running Out of Disk Space in Production](https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html)
+
+- ⭐ 39 分｜💬 12 留言｜👤 romes
+
+### 12. [My Experience as a Rice Farmer](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html)
+
+- ⭐ 216 分｜💬 97 留言｜👤 surprisetalk
+
+### 13. [Floating point from scratch: Hard Mode](https://essenceia.github.io/projects/floating_dragon/)
+
+- ⭐ 38 分｜💬 6 留言｜👤 random__duck
+
+### 14. [Wi-Fi That Can Withstand a Nuclear Reactor: This receiver chip can take it](https://spectrum.ieee.org/robotics-in-nuclear-industry)
+
+- ⭐ 10 分｜💬 0 留言｜👤 voxadam
+
+### 15. [DeiMOS – A Superoptimizer for the MOS 6502](https://aransentin.github.io/deimos/)
+
+- ⭐ 9 分｜💬 0 留言｜👤 Aransentin
+
+### 16. [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
 
 I built this because I wanted to see how far I could get with a voice-to-text app that used 100% local models so no data left my computer. I&#x27;ve been using a ton for coding and emails. Experimenti
 
-- ⭐ 346 分｜💬 152 留言｜👤 MattHart88
+- ⭐ 414 分｜💬 185 留言｜👤 MattHart88
 
-### 3. [Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod)
+### 17. [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted)
 
-- ⭐ 100 分｜💬 25 留言｜👤 TheWiggles
+- ⭐ 1569 分｜💬 636 留言｜👤 adrianhon
 
-### 4. [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/)
+### 18. [Issue: Claude 代碼 is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796)
+
+- ⭐ 1187 分｜💬 640 留言｜👤 StanAngeloff
+
+### 19. [Three hundred synths, 3 硬體 projects, and one app](https://midi.guide/blog/three-hunded-synths-one-app/)
+
+- ⭐ 72 分｜💬 4 留言｜👤 ductionist
+
+### 20. [Second Revision of 6502 Laptop](https://codeberg.org/TechPaula/LT6502b)
+
+- ⭐ 72 分｜💬 16 留言｜👤 uticus
+
+### 21. [Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod)
+
+- ⭐ 148 分｜💬 36 留言｜👤 TheWiggles
+
+### 22. [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/)
 
 We’re Ben and Jacob, cofounders of Freestyle (https:&#x2F;&#x2F;freestyle.sh). We’re building a 雲端 for  Coding Agents.For the first generation of agents it looked like workflows with minimal tools.
 
-- ⭐ 256 分｜💬 139 留言｜👤 benswerd
+- ⭐ 291 分｜💬 149 留言｜👤 benswerd
 
-### 5. [Issue: Claude 代碼 is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796)
+### 23. [A cryptography 工程師's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
 
-- ⭐ 975 分｜💬 550 留言｜👤 StanAngeloff
+- ⭐ 510 分｜💬 203 留言｜👤 thadt
 
-### 6. [A cryptography 工程師's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
+### 24. [Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11](https://adashape.com)
 
-- ⭐ 435 分｜💬 175 留言｜👤 thadt
+I&#x27;ve spent the last years obsessed with a sideproject to 構建 a humanistic 3D modeler for desktop.By humanistic I mean a tool that stays out of your way, instead of requiring the user to learn b
 
-### 7. [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted)
+- ⭐ 25 分｜💬 12 留言｜👤 fsloth
 
-- ⭐ 1239 分｜💬 475 留言｜👤 adrianhon
+### 25. [Peptides: where to begin?](https://www.science.org/content/blog-post/ah-peptides-where-begin)
 
-### 8. [Apollo Guidance Computer restoration videos](https://www.curiousmarc.com/space/apollo-guidance-computer)
+- ⭐ 201 分｜💬 262 留言｜👤 A_D_E_P_T
 
-- ⭐ 30 分｜💬 4 留言｜👤 mariuz
+### 26. ["The 新 Copilot app for Windows 11 is really just Microsoft Edge"](https://twitter.com/i/status/2041112541909205001)
 
-### 9. [German police name alleged leaders of GandCrab and REvil ransomware groups](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+- ⭐ 8 分｜💬 1 留言｜👤 bundie
 
-- ⭐ 290 分｜💬 140 留言｜👤 Bender
+### 27. [German police name alleged leaders of GandCrab and REvil ransomware groups](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 
-### 10. [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/)
+- ⭐ 313 分｜💬 154 留言｜👤 Bender
+
+### 28. [Apollo Guidance Computer restoration videos](https://www.curiousmarc.com/space/apollo-guidance-computer)
+
+- ⭐ 73 分｜💬 10 留言｜👤 mariuz
+
+### 29. [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/)
 
 I&#x27;ve long been into finding deals on government auction sites (seizures, surplus sales etc.) - right now for example San Diego DHS is selling 26 tons of lead shot, with bidding starting at $1,000
 
-- ⭐ 264 分｜💬 75 留言｜👤 player_piano
+- ⭐ 295 分｜💬 82 留言｜👤 player_piano
 
-### 11. [Peptides: where to begin?](https://www.science.org/content/blog-post/ah-peptides-where-begin)
+### 30. [What being ripped off taught me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
 
-- ⭐ 114 分｜💬 147 留言｜👤 A_D_E_P_T
-
-### 12. [VOID: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)
-
-- ⭐ 142 分｜💬 42 留言｜👤 bobsoap
-
-### 13. [What being ripped off taught me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
-
-- ⭐ 386 分｜💬 197 留言｜👤 doctorhandshake
-
-### 14. [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
-
-- ⭐ 220 分｜💬 96 留言｜👤 l1n
-
-### 15. [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
-
-- ⭐ 83 分｜💬 16 留言｜👤 kitfunso
-
-### 16. [Book review: There Is No Antimemetics Division](https://www.stephendiehl.com/posts/no_antimimetics/)
-
-- ⭐ 236 分｜💬 170 留言｜👤 ibobev
-
-### 17. [AI singer now occupies eleven spots on iTunes singles chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
-
-- ⭐ 144 分｜💬 222 留言｜👤 flinner
-
-### 18. [Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V](https://github.com/roscopeco/anos)
-
-I pretty much always have a kernel project going on, and have been that way for decades. Over the past couple of years, that&#x27;s been Anos, which has gotten further along than any of my previous ho
-
-- ⭐ 56 分｜💬 19 留言｜👤 noone_youknow
-
-### 19. [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
-
-- ⭐ 205 分｜💬 113 留言｜👤 coinfused
-
-### 20. [Sky – an Elm-inspired language that compiles to Go](https://github.com/anzellai/sky)
-
-- ⭐ 156 分｜💬 57 留言｜👤 whalesalad
-
-### 21. [Show HN: Tusk for macOS and Gnome](https://shapemachine.xyz/tusk/)
-
-- ⭐ 79 分｜💬 20 留言｜👤 factorialboy
-
-### 22. [Graph-go – zero config, full visibility](https://github.com/guilherme-grimm/graph-go)
-
-- ⭐ 20 分｜💬 2 留言｜👤 devGrimm
-
-### 23. [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org)
-
-- ⭐ 456 分｜💬 126 留言｜👤 akyuu
-
-### 24. [After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
-
-- ⭐ 171 分｜💬 115 留言｜👤 datadrivenangel
-
-### 25. [Linux extreme performance H1 load generator](https://www.gcannon.org/)
-
-- ⭐ 12 分｜💬 5 留言｜👤 MDA2AV
-
-### 26. [HackerRank (YC S11) Is 招聘](https://news.ycombinator.com/item?id=47667011)
-
-The 工作 of a 開發者 is becoming an orchestrator of AI agents. HackerRank is helping 2500+ companies change how they hire for this 新 world. We&#x27;ve played a critical role in 開發者 招聘 ov
-
-- ⭐ 1 分｜💬 0 留言｜👤 rvivek
-
-### 27. [代理 Reading 測試](https://agentreadingtest.com)
-
-https:&#x2F;&#x2F;dacharycarey.com&#x2F;2026&#x2F;04&#x2F;06&#x2F;designing-代理-reading-...
-
-- ⭐ 63 分｜💬 17 留言｜👤 kaycebasques
-
-### 28. [The cult of vibe coding is dogfooding run amok](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
-
-- ⭐ 526 分｜💬 452 留言｜👤 drob518
-
-### 29. [Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting](https://github.com/4RH1T3CT0R7/ttf-doom)
-
-TrueType fonts have a hinting VM that grid-fits glyphs. It has a stack, storage area, conditionals, function calls, and it turns out it&#x27;s Turing-complete. So I built a raycasting engine in the hi
-
-- ⭐ 47 分｜💬 9 留言｜👤 4RH1T3CT0R
-
-### 30. [The team behind a pro-Iran, Lego-themed viral-video campaign](https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign)
-
-https:&#x2F;&#x2F;archive.is&#x2F;73hcR
-
-- ⭐ 125 分｜💬 196 留言｜👤 tantalor
+- ⭐ 431 分｜💬 211 留言｜👤 doctorhandshake
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- AI singer now occupies eleven spots on iTunes singles chart
+- Record wind and solar saved UK from gas imports worth £1B in March 2026
+- HackerRank (YC S11) Is 招聘
+- Book review: There Is No Antimemetics Division
+- The Last Quiet Thing
+- Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V
+- Sky – an Elm-inspired language that compiles to Go
+- Anthropic expands partnership with Google and Broadcom for next-gen compute
+- 為什麼 your 新 computer is SLOWER than your OLD computer [video]
+- Are We Idiocracy Yet?
 - Dear Heroku: Uhh What's Going On?
-- Eighteen Years of Greytrapping – Is the Weirdness Finally Paying Off?
-- Adobe modifies hosts file to detect whether Creative 雲端 is installed
+- VOID: Video Object and Interaction Deletion
+- Show HN: Hippo, biologically inspired memory for AI agents
+- The Hacker News Tarpit
+- Show HN: Tusk for macOS and Gnome
+- Battle for Wesnoth: open-source, turn-based strategy game
+- The team behind a pro-Iran, Lego-themed viral-video campaign
+- Germany Power Prices Turn Deeply Negative on Renewables Surge
+- Linux extreme performance H1 load generator
+- 構建 網頁 apps for smart glasses
+- The cult of vibe coding is dogfooding run amok
+- Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting
+- 代理 Reading 測試
+- Some iPhone Apps Receive Mysterious 更新 'From Apple'
+- After 20 years I turned off Google Adsense for my websites (2025)
+- Razor 1911 (first place at revision 2026 demoparty) [video]
 - SOM: A minimal Smalltalk for teaching of and research on Virtual Machines
-- France pulls last gold held in US
-- What happens when a destructor throws
+- Graph-go – zero config, full visibility
+- Eighteen Years of Greytrapping – Is the Weirdness Finally Paying Off?
 - Show HN: I built a tiny 大型語言模型 to demystify how language models work
-- A macOS bug that causes TCP networking to stop working after 49.7 days
+- France pulls last gold held in US
+- Adobe modifies hosts file to detect whether Creative 雲端 is installed
 - Signals, the push-pull based algorithm
-- The 1987 game “The Last Ninja” was 40 kilobytes
 - Sheets: Terminal based spreadsheet tool
-- Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B
 - Microsoft hasn't had a coherent GUI strategy since Petzold
+- Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B
+- No "新 Deal" for OpenAI
+- The 1987 game “The Last Ninja” was 40 kilobytes
 - Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair
-- Porting Go's strings package to C
-- One ant for $220: The 新 frontier of wildlife trafficking
-- Show HN: Gemma Gem – AI 模型 embedded in a browser – no API keys, no 雲端
 - Gemma 4 on iPhone
+- Show HN: Gemma Gem – AI 模型 embedded in a browser – no API keys, no 雲端
+- A macOS bug that causes TCP networking to stop working after 49.7 days
 - Show HN: Weird Clocks
-- I won't download your app. The 網頁 version is a-ok
-- Reducto releases Deep Extract
 - 為什麼 Switzerland has 25 Gbit internet and America doesn't
-- Claude Is Not Your Architect. Stop Letting It Pretend
+- Health benefits of Paris climate goals could save lives by 2040
 - Caveman: 為什麼 use many token when few token do trick
-- Ask HN: How do you handle marketing as a solo technical founder?
-- The back story behind the first "$1.8B" dollar "AI Company"
+- One ant for $220: The 新 frontier of wildlife trafficking
 - Eight years of wanting, three months of building with AI
-- An open-source 240-antenna array to bounce signals off the Moon
+- A 新 Oil Shock Accelerates a Return to Nuclear Power
+- Porting Go's strings package to C
+- I won't download your app. The 網頁 version is a-ok
 - Show HN: I made a YouTube search form with advanced filters
-- Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"
-- Show HN: Docking – Extensible Linux dock in Python
-- Employers use your personal data to figure out the lowest salary you'll accept
-- Case study: recovery of a corrupted 12 TB multi-device pool
+- An open-source 240-antenna array to bounce signals off the Moon
+- Reducto releases Deep Extract
+- Astronauts honor Artemis commander's deceased wife in emotional moon moment
 - Computational Physics (2nd Edition) (2025)
-- My university uses prompt injection to catch cheaters
-- LÖVE: 2D Game Framework for Lua
+- Employers use your personal data to figure out the lowest salary you'll accept
 - Nanocode: The 最佳 Claude 代碼 that $200 can buy in pure JAX on TPUs
+- Someone made a digital whip to make Claude work faster
 - Artemis II crew see first glimpse of far side of Moon [video]
-- Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf
+- LÖVE: 2D Game Framework for Lua
+- Trump says 'a whole civilization will die tonight' if Iran does not make a deal
+- Case study: recovery of a corrupted 12 TB multi-device pool
+- What happens when a destructor throws
 - Friendica – A Decentralized Social 網絡
-- Global Fuel Shortage Pushes Governments Toward Demand Controls
-- 81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone
-- Running Gemma 4 locally with LM Studio's 新 headless CLI and Claude 代碼
-- 為什麼 We're Removing Our Programmatic Ads
+- Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf
 - Show HN: A game where you 構建 a GPU
-- Intelligent people are better judges of the intelligence of others
-- Anthropic is burning more and more dev goodwill
-- Got kicked out of uni and had the cops called for a social media website I made
-- Music for 程式設計
-- The threat is comfortable drift toward not understanding what you're doing
-- Show HN: Meta-代理: self-improving 代理 harnesses from live traces
-- Stamp It: All programs must report their version
-- OpenJDK: Panama
-- Zooming UIs in 2026: Prezi, impress.js, and 為什麼 I built something different
-- Miracle – A hackable window 經理 for Linux
-- Scientists Figured Out How Eels Reproduce (2022)
-- Bitwarden Is Down
-- Inside a Corporate Retreat That Went Very Badly Wrong
-- Aegis – open-source FPGA silicon
-- Apple approves driver that lets NVIDIA eGPUs work with Arm Macs
-- Baby's Second Garbage Collector
-- German implementation of eIDAS will require an Apple/Google account to function
-- The Mechanics of Steins Gate (2023) [pdf]
-- Women were never meant to give birth on their backs
-- Show HN: I just built a MCP 伺服器 that connects Claude to all your wearables
-- Tracing Goroutines in Realtime with eBPF
-- Show HN: OsintRadar – Curated directory for osint tools
-- Finnish sauna heat exposure induces stronger immune cell than cytokine responses
-- Tell HN: Anthropic no longer allowing Claude 代碼 subscriptions to use OpenClaw
-- Number in man page titles e.g. sleep(3)
+- Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"
+- Running Gemma 4 locally with LM Studio's 新 headless CLI and Claude 代碼
+- My university uses prompt injection to catch cheaters
 
 
 ---
