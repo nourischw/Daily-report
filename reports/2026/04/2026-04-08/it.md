@@ -4,210 +4,208 @@
 
 ---
 
-### 1. [Git commands I run before reading any 代碼](https://piechowski.io/post/git-commands-before-reading-code/)
+### 1. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
 
-- ⭐ 482 分｜💬 111 留言｜👤 grepsedawk
+- ⭐ 603 分｜💬 127 留言｜👤 blkhp19
 
-### 2. [Veracrypt project 更新](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
+### 2. [Git commands I run before reading any 代碼](https://piechowski.io/post/git-commands-before-reading-code/)
 
-- ⭐ 509 分｜💬 153 留言｜👤 super256
+- ⭐ 1343 分｜💬 304 留言｜👤 grepsedawk
 
-### 3. [I've sold out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)
+### 3. [Understanding the Kalman Filter with a Simple Radar Example](https://kalmanfilter.net)
 
-- ⭐ 162 分｜💬 94 留言｜👤 doppp
+- ⭐ 54 分｜💬 6 留言｜👤 alex_be
 
-### 4. [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/)
+### 4. [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
 
-- ⭐ 141 分｜💬 197 留言｜👤 ra
+- ⭐ 122 分｜💬 59 留言｜👤 chabons
 
-### 5. [MegaTrain: Full Precision 訓練 of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
+### 5. [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
 
-- ⭐ 14 分｜💬 2 留言｜👤 chrsw
+- ⭐ 18 分｜💬 2 留言｜👤 latchkey
 
-### 6. [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
+### 6. [They're Made Out of Meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
 
-- ⭐ 234 分｜💬 81 留言｜👤 tetrisgm
+- ⭐ 252 分｜💬 85 留言｜👤 surprisetalk
 
-### 7. [Project Glasswing: Securing critical 軟體 for the AI era](https://www.anthropic.com/glasswing)
+### 7. [Veracrypt project 更新](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
 
-Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;ne
+- ⭐ 947 分｜💬 341 留言｜👤 super256
 
-- ⭐ 1353 分｜💬 686 留言｜👤 Ryan5453
+### 8. [MegaTrain: Full Precision 訓練 of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
 
-### 8. [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
+- ⭐ 201 分｜💬 41 留言｜👤 chrsw
 
-- ⭐ 43 分｜💬 8 留言｜👤 surprisetalk
+### 9. [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/)
 
-### 9. [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
+- ⭐ 389 分｜💬 463 留言｜👤 ra
 
-- ⭐ 797 分｜💬 192 留言｜👤 kipi
+### 10. [Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)
 
-### 10. [Explore union types in C# 15](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)
+- ⭐ 286 分｜💬 93 留言｜👤 donohoe
 
-- ⭐ 46 分｜💬 15 留言｜👤 0x00C0FFEE
+### 11. [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
 
-### 11. [Your File 系統 Is Already A Graph 資料庫](https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/)
+- ⭐ 14 分｜💬 0 留言｜👤 stonecharioteer
 
-- ⭐ 53 分｜💬 18 留言｜👤 alxndr
+### 12. [US cities are axing Flock Safety surveillance technology](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/)
 
-### 12. [Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)](https://indraneelpatil.github.io/blog/2026/robot-vacuum/)
+- ⭐ 478 分｜💬 268 留言｜👤 giuliomagnifico
 
-- ⭐ 52 分｜💬 9 留言｜👤 indraneelpatil
+### 13. [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)
 
-### 13. [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/)
+- ⭐ 15 分｜💬 16 留言｜👤 dreamsome
 
-- ⭐ 203 分｜💬 59 留言｜👤 baely
+### 14. [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)
 
-### 14. [系統 Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
+https:&#x2F;&#x2F;AI.Meta.com&#x2F;blog&#x2F;introducing-muse-spark-msl&#x2F;
 
-Related: Project Glasswing: Securing critical 軟體 for the AI era - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679121Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - 
+- ⭐ 184 分｜💬 136 留言｜👤 snowman647
 
-- ⭐ 744 分｜💬 545 留言｜👤 be7a
+### 15. [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
 
-### 15. [US cities are axing Flock Safety surveillance technology](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/)
+I&#x27;m looking for something novel and interesting, that isn&#x27;t absolutely crowded that I could meaningfully contribute to.In 2022 I was toying around with OpenAI&#x27;s RL Gym, right when the f
 
-- ⭐ 15 分｜💬 1 留言｜👤 giuliomagnifico
+- ⭐ 106 分｜💬 177 留言｜👤 e-topy
 
-### 16. [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)
+### 16. [One item purchased, ten emails](https://joshghent.com/online-shopping/)
 
-- ⭐ 561 分｜💬 229 留言｜👤 zixuanlimit
+- ⭐ 66 分｜💬 42 留言｜👤 speckx
 
-### 17. [如何 get better at guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/)
+### 17. [Teardown of unreleased LG Rollable shows 為什麼 rollable phones aren't a thing](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/)
 
-- ⭐ 379 分｜💬 185 留言｜👤 jwworth
+- ⭐ 43 分｜💬 16 留言｜👤 DamnInteresting
 
-### 18. [Native Americans had dice 12k years ago](https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426)
+### 18. [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
 
-- ⭐ 88 分｜💬 37 留言｜👤 delichon
+- ⭐ 149 分｜💬 48 留言｜👤 surprisetalk
 
-### 19. [Slightly safer vibecoding by adopting old hacker habits](http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html)
+### 19. [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
 
-- ⭐ 131 分｜💬 75 留言｜👤 transpute
+- ⭐ 318 分｜💬 106 留言｜👤 tetrisgm
 
-### 20. [Cambodia unveils statue to honour famous landmine-sniffing rat](https://www.bbc.com/news/articles/c0rx7xzd10xo)
+### 20. [We moved Railway's 前端 off Next.js. Builds went from 10+ mins to under 2](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 
-- ⭐ 426 分｜💬 101 留言｜👤 speckx
+- ⭐ 118 分｜💬 103 留言｜👤 bundie
 
-### 21. [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+### 21. [Claude Managed Agents](https://claude.com/blog/claude-managed-agents)
 
-https:&#x2F;&#x2F;aws.Amazon.com&#x2F;blogs&#x2F;aws&#x2F;launching-s3-files-making-s...
+- ⭐ 66 分｜💬 22 留言｜👤 adocomplete
 
-- ⭐ 328 分｜💬 94 留言｜👤 werner
+### 22. [Virtual Mars Traverse: Every inch of Curiosity rover's path since 2012 landing](https://www.rovers.land/)
 
-### 22. [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)
+- ⭐ 26 分｜💬 7 留言｜👤 bookofjoe
 
-- ⭐ 16 分｜💬 7 留言｜👤 doppp
+### 23. [Show HN: Go-Bt: Minimalist Behavior Trees for Go](https://github.com/rvitorper/go-bt)
 
-### 23. [A truck driver spent 20 years making a scale 模型 of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/)
+Hey HN,I just published v0.1.0 of go-bt and would love some feedback from the Go veterans here.Thanks in advance!
 
-- ⭐ 355 分｜💬 59 留言｜👤 1659447091
+- ⭐ 33 分｜💬 3 留言｜👤 rvitorper
 
-### 24. [Show HN: An interactive map of Tolkien's Middle-earth](https://middle-earth-interactive-map.web.app/)
+### 24. [I've been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
 
-An interactive map of Tolkien’s Middle-earth, with events from across the legendarium plotted as markers.I have been commuting a fair bit between the East and West coast, and thanks to American Airlin
+- ⭐ 7 分｜💬 0 留言｜👤 nickvec
 
-- ⭐ 230 分｜💬 47 留言｜👤 frasermarlow
+### 25. [Show HN: Explore the Silk Roads through an interactive map](https://www.intofarlands.com/silk-roads-map)
 
-### 25. [Binary obfuscation used in AAA Games](https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html)
+- ⭐ 34 分｜💬 4 留言｜👤 intofarlands
 
-- ⭐ 111 分｜💬 51 留言｜👤 noztol
+### 26. [Union types in C# 15](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)
 
-### 26. [Cloudflare targets 2029 for full post-quantum 安全](https://blog.cloudflare.com/post-quantum-roadmap/)
+- ⭐ 113 分｜💬 113 留言｜👤 0x00C0FFEE
 
-- ⭐ 356 分｜💬 110 留言｜👤 ilreb
+### 27. [Show HN: I built a navigation app that displays weather along the route](https://navimodo.com/)
 
-### 27. [The Clock](https://blog.senko.net/the-clock)
+Hello HN,I live in northern part of USA where winters are snowy. Whenever I took long trips, I always wondered what the weather along the route is going to be. For those who live in northern USA, you 
 
-- ⭐ 85 分｜💬 30 留言｜👤 senko
+- ⭐ 20 分｜💬 15 留言｜👤 vkatluri
 
-### 28. [A 資料庫 of analog cameras that can be 3D printed](https://printed.analogcamera.space/)
+### 28. [Your File 系統 Is Already A Graph 資料庫](https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/)
 
-- ⭐ 129 分｜💬 21 留言｜👤 thomasjb
+- ⭐ 139 分｜💬 62 留言｜👤 alxndr
 
-### 29. [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
+### 29. [Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS](https://github.com/pcruz1905/hls-restream-proxy)
 
-https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;iran-war-live-tehran-rejects-c...
+- ⭐ 74 分｜💬 23 留言｜👤 pruz
 
-- ⭐ 539 分｜💬 1593 留言｜👤 g-b-r
+### 30. [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/)
 
-### 30. [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
-
-- ⭐ 120 分｜💬 55 留言｜👤 Levitating
+- ⭐ 275 分｜💬 73 留言｜👤 baely
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP
-- Hobby CNC machining and resin casting (2015)
+- 系統 Card: Claude Mythos Preview [pdf]
+- How Costco Won in Japan
+- Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)
+- Show HN: 500k+ events/sec transformations for ClickHouse ingestion
+- Mario and Earendil
+- Iran demands Bitcoin fees for ships passing Hormuz during ceasefire
+- Show HN: BAREmail ʕ·ᴥ·ʔ – minimalist Gmail client for bad WiFi
+- Native Americans had dice 12k years ago
+- Slightly safer vibecoding by adopting old hacker habits
+- A Digital Compute-in-Memory Architecture for NFA Evaluation
+- Project Glasswing: Securing critical 軟體 for the AI era
+- 如何 get better at guitar
+- S3 Files
+- Show HN: An interactive map of Tolkien's Middle-earth
+- The Future of Everything Is Lies, I Guess
+- Lunar Flyby
+- Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters
+- 大型語言模型 plays an 8-bit Commander X16 game using structured "smart senses"
+- The Harvard Library Passport
 - Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon
-- JSIR: A High-Level IR for JavaScript
-- Running out of disk space in production
-- A whole boss fight in 256 bytes
+- A 資料庫 of analog cameras that can be 3D printed
 - Sam Altman may control our future – can he be trusted?
-- Google open-sources experimental 代理 orchestration testbed Scion
-- The Image Boards of Hayao Miyazaki
-- Acoustic Eavesdropping with Telecom Fiber Optic Cables
+- US and Iran agree to provisional ceasefire
 - 9 Mothers (YC P26) Is 招聘 – Lead Robotics and More
+- The Clock
+- Binary obfuscation used in AAA Games
+- Xilem – An experimental Rust native UI framework
+- The demise of 軟體 engineering jobs has been greatly exaggerated
+- 開源 安全 at Astral
+- Strait of Hormuz appears to remain closed amid conflicting US and Iran briefings
+- Hobby CNC machining and resin casting (2015)
+- Increase in Google Searches for "GitHub Throttling" Since August 2025
+- A whole boss fight in 256 bytes
+- The Image Boards of Hayao Miyazaki
+- JSIR: A High-Level IR for JavaScript
 - Has electricity decoupled from natural gas prices in Germany?
+- GLM-5.1: Towards Long-Horizon Tasks
+- Cambodia unveils statue to honour famous landmine-sniffing rat
+- Brit says he is not elusive Bitcoin creator named by 新 York Times
+- Under the hood of MDN's 新 front end
 - A blind man made it possible for others with low vision to 構建 Lego sets
-- Greece to ban under-15s from social media from next year
-- Struggle Against the Gods
-- Operation "Epic Fury" Deepens Transatlantic Rift: U.S., EU at Odds over 安全
-- An Arctic Road Trip Brings Vital Underground Networks into View
-- Show HN: Brutalist Concrete Laptop Stand (2024)
-- Bitcoin and quantum computing
 - Every GPU That Mattered
+- Middle East ceasefire in serious doubt as Israel assaults Lebanon
+- Show HN: Brutalist Concrete Laptop Stand (2024)
+- A truck driver spent 20 years making a scale 模型 of every building in NYC
+- Wildlife Conservation Police Are Searching Flock Cameras for ICE
+- Food shock is inevitable due to the Iran war
+- Bitcoin and quantum computing
+- macOS has a 49.7-day networking time bomb built in that only a reboot fixes
+- Struggle Against the Gods
+- Acoustic Eavesdropping with Telecom Fiber Optic Cables
 - IPv6 is the only way forward
 - AI helps add 10k more photos to OldNYC
-- John Coltrane illustrates the mathematics of jazz
-- You can't cancel a JavaScript promise (except sometimes you can)
-- Taste in the age of AI and LLMs
-- Open Models have crossed a threshold
-- Moving fast in 硬體: lessons from lab to $100M ARR
-- 大型語言模型 scraper bots are overloading acme.com's HTTPS 伺服器
 - Launch HN: Freestyle – Sandboxes for Coding Agents
-- Assessing Claude Mythos Preview's cybersecurity capabilities
-- ACE on a USB-HDMI Adapter
-- Move Detroit
+- You can't cancel a JavaScript promise (except sometimes you can)
+- Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom
+- Cloudflare targets 2029 for full post-quantum 安全
+- John Coltrane illustrates the mathematics of jazz
+- An Arctic Road Trip Brings Vital Underground Networks into View
+- Moving fast in 硬體: lessons from lab to $100M ARR
+- US fired 1k JASSM cruise missiles in 37 days. Lockheed makes 396 per year
+- Amazon rewards loyal Kindle devotees by closing the book on old e-readers
 - Identify a London Underground Line just by listening to it
-- Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin's Creator
-- Dropping Cloudflare for Bunny.net
+- Assessing Claude Mythos Preview's cybersecurity capabilities
+- Greece to ban social media for under-15s from next year
+- Greece to ban under-15s from social media from next year
+- Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP
+- Taste in the age of AI and LLMs
 - SQLite in Production: Lessons from Running a Store on a Single File
-- 12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)
-- A 新 Postcrossing stamp from the USA
 - Peptides: where to begin?
-- Blackholing My Email
-- Tailslayer: Library for reducing tail latency in RAM reads
-- We found an undocumented bug in the Apollo 11 guidance computer 代碼
-- Show HN: Unicode Steganography
-- Cells for NetBSD: kernel-enforced, jail-like isolation
-- Boneyard: Generate pixel-perfect skeleton screens from your real DOM
-- Emotion Concepts and Their Function in a Large Language 模型
-- Show HN: A cartographer's attempt to realistically map Tolkien's world
-- Solod – A subset of Go that translates to C
-- Second Revision of 6502 Laptop
-- Breaking the console: a brief history of video game 安全
-- When the compiler lies: breaking memory safety in safe Go
-- AI Assistance Reduces Persistence and Hurts Independent Performance
-- Are We Legacy Computing Yet?
-- Three hundred synths, 3 硬體 projects, and one app
-- DeiMOS – A Superoptimizer for the MOS 6502
-- We moved Railway's 前端 off Next.js. Builds went from 10+ mins to under two
-- Show HN: Pion/handoff – Move WebRTC out of browser and into Go
-- USD Purchasing Power in Real Time Since 2000
-- The BSDs in the AI Age
-- Show HN: Finalrun – Spec-driven testing using English and vision for 行動 apps
-- OpenAI says its 新 模型 GPT-2 is too dangerous to release (2019)
-- ICE acknowledges it is using powerful spyware
-- Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead
-- Issue: Claude 代碼 is unusable for complex engineering tasks with Feb updates
-- AI may be making us think and write more alike
-- Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
-- Apollo Guidance Computer restoration videos
-- Floating point from scratch: Hard Mode
-- RSoC 2026: A 新 CPU scheduler for Redox OS
-- The team behind a pro-Iran, Lego-themed viral-video campaign
 
 
 ---
