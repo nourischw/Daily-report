@@ -4,206 +4,206 @@
 
 ---
 
-### 1. [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+### 1. [Microsoft suspends dev accounts for high-profile 開源 projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
 
-- ⭐ 288 分｜💬 95 留言｜👤 speckx
+- ⭐ 190 分｜💬 45 留言｜👤 N19PEDL2
 
-### 2. [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+### 2. [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)
 
-- ⭐ 449 分｜💬 208 留言｜👤 PaulHoule
+- ⭐ 35 分｜💬 11 留言｜👤 jnord
 
-### 3. [Generative art over the years](https://blog.veitheller.de/Generative_art_over_the_years.html)
+### 3. [France 推出 Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
 
-- ⭐ 107 分｜💬 27 留言｜👤 evakhoury
+- ⭐ 595 分｜💬 256 留言｜👤 embedding-shape
 
-### 4. [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/)
+### 4. [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
 
-- ⭐ 84 分｜💬 87 留言｜👤 gmays
+- ⭐ 456 分｜💬 177 留言｜👤 speckx
 
-### 5. [We've raised $17M to 構建 what comes after Git](https://blog.gitbutler.com/series-a)
+### 5. [ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html)
 
-- ⭐ 71 分｜💬 123 留言｜👤 ellieh
+- ⭐ 149 分｜💬 32 留言｜👤 joko42
 
-### 6. [RAM Has a Design Flaw from 1966. I Bypassed It [video]](https://www.youtube.com/watch?v=KKbgulTp3FE)
+### 6. [Show HN: Keeper – embedded secret store for Go (help me break it)](https://github.com/agberohq/keeper)
 
-- ⭐ 163 分｜💬 29 留言｜👤 surprisetalk
+Keeper is an embeddable secret store (Argon2id, XChaCha20-Poly1305 by default). Four 安全 levels, audit chains, crash-safe rotation. Vault is overkill for most use cases. This is for when  you ge 
 
-### 7. [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
+- ⭐ 37 分｜💬 21 留言｜👤 babawere
 
-- ⭐ 197 分｜💬 36 留言｜👤 rickcarlino
+### 7. [FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/)
 
-### 8. [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator)
+- ⭐ 78 分｜💬 28 留言｜👤 01-_-
 
-- ⭐ 30 分｜💬 11 留言｜👤 volatilityfund
+### 8. [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/)
 
-### 9. [Afrika Bambaataa, hip-hop pioneer, has died](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
+- ⭐ 262 分｜💬 223 留言｜👤 gmays
 
-- ⭐ 80 分｜💬 11 留言｜👤 mellosouls
+### 9. [模型-Based Testing for Dungeons & Dragons](https://www.loskutoff.com/blog/model-based-testing-dnd/)
 
-### 10. [CollectWise (YC F24) Is 招聘](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
+- ⭐ 49 分｜💬 9 留言｜👤 Firfi
+
+### 10. [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+
+- ⭐ 558 分｜💬 261 留言｜👤 PaulHoule
+
+### 11. [Artemis II and the invisible hazard on the way to the Moon](https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1)
+
+- ⭐ 34 分｜💬 35 留言｜👤 zeristor
+
+### 12. [We've raised $17M to 構建 what comes after Git](https://blog.gitbutler.com/series-a)
+
+- ⭐ 190 分｜💬 414 留言｜👤 ellieh
+
+### 13. [Women are getting most of the 新 jobs. What's going on with men?](https://text.npr.org/nx-s1-5773327)
+
+- ⭐ 17 分｜💬 5 留言｜👤 mooreds
+
+### 14. [White House staff told not to place bets on prediction markets](https://www.bbc.co.uk/news/articles/cgld65x396go)
+
+- ⭐ 29 分｜💬 7 留言｜👤 chrischapman
+
+### 15. [Penguin 'Toxicologists' Find PFAS Chemicals in 遠端 Patagonia](https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia)
+
+- ⭐ 46 分｜💬 11 留言｜👤 giuliomagnifico
+
+### 16. [Generative art over the years](https://blog.veitheller.de/Generative_art_over_the_years.html)
+
+- ⭐ 176 分｜💬 45 留言｜👤 evakhoury
+
+### 17. [The Art of Risk Management (2017)](https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management)
+
+- ⭐ 26 分｜💬 6 留言｜👤 walterbell
+
+### 18. [Show HN: Marimo pair – Reactive Python notebooks as environments for agents](https://github.com/marimo-team/marimo-pair)
+
+Hi HN! We&#x27;re excited to share marimo pair [1] [2], a toolkit that drops AI agents into a running marimo notebook [3] session. This lets agents use marimo as working memory and a reactive Python r
+
+- ⭐ 32 分｜💬 1 留言｜👤 manzt
+
+### 19. [CollectWise (YC F24) Is 招聘](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
 
 - ⭐ 1 分｜💬 0 留言｜👤 OBrien_1107
 
-### 11. [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html)
+### 20. [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
 
-- ⭐ 39 分｜💬 4 留言｜👤 zdw
+- ⭐ 261 分｜💬 56 留言｜👤 rickcarlino
 
-### 12. [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
+### 21. [RAM Has a Design Flaw from 1966. I Bypassed It [video]](https://www.youtube.com/watch?v=KKbgulTp3FE)
 
-- ⭐ 180 分｜💬 30 留言｜👤 rickcarlino
+- ⭐ 288 分｜💬 98 留言｜👤 surprisetalk
 
-### 13. [YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)
+### 22. [Old laptops in a colo as low cost servers](https://colaptop.pages.dev/)
 
-- ⭐ 36 分｜💬 16 留言｜👤 digitalhigh
+- ⭐ 320 分｜💬 184 留言｜👤 argentum47
 
-### 14. [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID)
+### 23. [Unfolder for Mac – A 3D 模型 unfolding tool for creating papercraft](https://www.unfolder.app/)
 
-- ⭐ 140 分｜💬 50 留言｜👤 _tk_
+- ⭐ 258 分｜💬 47 留言｜👤 codazoda
 
-### 15. [Unfolder for Mac – A 3D 模型 unfolding tool for creating papercraft](https://www.unfolder.app/)
+### 24. [Instant 1.0, a 後端 for AI-coded apps](https://www.instantdb.com/essays/architecture)
 
-- ⭐ 203 分｜💬 41 留言｜👤 codazoda
+- ⭐ 174 分｜💬 89 留言｜👤 stopachka
 
-### 16. [The Raft consensus algorithm explained through "Mean Girls" (2019)](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
+### 25. [Research-Driven Agents: When an 代理 reads before it codes](https://blog.skypilot.co/research-driven-agents/)
 
-- ⭐ 66 分｜💬 17 留言｜👤 vermilingua
+- ⭐ 189 分｜💬 49 留言｜👤 hopechong
 
-### 17. [Old laptops in a colo as low cost servers](https://colaptop.pages.dev/)
+### 26. [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
 
-- ⭐ 231 分｜💬 128 留言｜👤 argentum47
+- ⭐ 207 分｜💬 32 留言｜👤 rickcarlino
 
-### 18. [Instant 1.0, a 後端 for AI-coded apps](https://www.instantdb.com/essays/architecture)
+### 27. [Kagi Product Tips – Customize Your Search Results with URL Redirects](https://blog.kagi.com/tips/redirects)
 
-- ⭐ 125 分｜💬 72 留言｜👤 stopachka
+- ⭐ 116 分｜💬 23 留言｜👤 treetalker
 
-### 19. [Research-Driven Agents: When an 代理 reads before it codes](https://blog.skypilot.co/research-driven-agents/)
+### 28. [War on Raze](https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6)
 
-- ⭐ 168 分｜💬 48 留言｜👤 hopechong
+- ⭐ 21 分｜💬 11 留言｜👤 tosh
 
-### 20. [Moving from WordPress to Jekyll (and static site generators in general)](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
-
-- ⭐ 73 分｜💬 39 留言｜👤 rgrieselhuber
-
-### 21. [VFX HQ: Visual Effects Headquarters (2000)](https://www.vfxhq.com/index.html)
-
-- ⭐ 5 分｜💬 0 留言｜👤 exvi
-
-### 22. [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
-
-- ⭐ 108 分｜💬 32 留言｜👤 PaulHoule
-
-### 23. [Will I ever own a zettaflop?](https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html)
-
-- ⭐ 82 分｜💬 44 留言｜👤 surprisetalk
-
-### 24. [大型語言模型 plays an 8-bit Commander X16 game using structured "smart senses"](https://pvp-ai.russell-harper.com)
-
-I connected the ChatGPT API (模型 GPT-4o) to an 8-bit shoot-&#x27;em-up game, PvP-AI, running on a Commander X16 emulator.Instead of pixels or audio, the 模型 receives structured text summaries, wha
-
-- ⭐ 20 分｜💬 2 留言｜👤 russellharper
-
-### 25. [Kagi Product Tips – Customize Your Search Results with URL Redirects](https://blog.kagi.com/tips/redirects)
-
-- ⭐ 60 分｜💬 4 留言｜👤 treetalker
-
-### 26. [An AI robot in my home](https://allevato.me/2026/04/07/an-ai-robot-in-my-home)
+### 29. [An AI robot in my home](https://allevato.me/2026/04/07/an-ai-robot-in-my-home)
 
 https:&#x2F;&#x2F;allevato.me&#x2F;2026&#x2F;04&#x2F;03&#x2F;reviving-a-robot
 
-- ⭐ 28 分｜💬 12 留言｜👤 kukanani
+- ⭐ 52 分｜💬 20 留言｜👤 kukanani
 
-### 27. [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+### 30. [The Raft consensus algorithm explained through "Mean Girls" (2019)](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
 
-- ⭐ 190 分｜💬 175 留言｜👤 powera
-
-### 28. [Robots eat cars](https://telemetry.endeff.com/p/robots-eat-cars)
-
-- ⭐ 51 分｜💬 55 留言｜👤 JMill
-
-### 29. [Show HN: I built a Cargo-like 構建 tool for C/C++](https://github.com/randerson112/craft)
-
-I love C and C++, but setting up projects can sometimes be a pain.Every time I wanted to start something 新 I&#x27;d spend the first hour writing CMakeLists.txt, figuring out find_package, copying bo
-
-- ⭐ 144 分｜💬 128 留言｜👤 randerson_112
-
-### 30. [A WebGPU implementation of Augmented Vertex Block Descent](https://github.com/jure/webphysics)
-
-- ⭐ 138 分｜💬 18 留言｜👤 juretriglav
+- ⭐ 97 分｜💬 24 留言｜👤 vermilingua
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Installing OpenBSD on the Pomera DM250{,XY?}
+- Afrika Bambaataa, hip-hop pioneer, has died
+- Reverse engineering Gemini's SynthID detection
+- Hegel, a universal property-based testing protocol and family of PBT libraries
+- Sorting Performance Rabbit Hole
 - LittleSnitch for Linux
-- Show HN: Druids – 構建 your own 軟體 factory
-- 新 iPhone age and identity checks restrict internet freedom in the UK
-- Show HN: Rust based eBook library for Python, with MIT license
-- EFF is leaving X
-- ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity
-- Microsoft is employing dark patterns to goad users into paying for storage?
-- Launch HN: Relvy (YC F24) – On-call runbooks, automated
+- Principles of Mechanical Sympathy
+- Will I ever own a zettaflop?
+- 大型語言模型 plays an 8-bit Commander X16 game using structured "smart senses"
+- Show HN: I built a Cargo-like 構建 tool for C/C++
+- A WebGPU implementation of Augmented Vertex Block Descent
 - I ported Mac OS X to the Nintendo Wii
-- Netflix Prices Went Up Again – I Bought a DVD Player Instead
+- Moving from WordPress to Jekyll (and static site generators in general)
+- VFX HQ: Visual Effects Headquarters (2000)
+- Robots eat cars
+- Show HN: Druids – 構建 your own 軟體 factory
+- Zero-構建 privacy policies with Astro
+- Launch HN: Relvy (YC F24) – On-call runbooks, automated
+- Knit File Formats
+- Git commands I run before reading any 代碼
+- EFF is leaving X
+- Many African families spend fortunes burying their dead
 - Show HN: CSS Studio. Design by hand, 代碼 by 代理
+- Show HN: Rust based eBook library for Python, with MIT license
+- Microsoft is employing dark patterns to goad users into paying for storage?
+- YouTube locked my accounts and I can't cancel my subscription
 - Meta removes ads for social media addiction litigation
 - Lichess and Take Take Take Sign Cooperation Agreement
 - Creating the Futurescape for the Fifth Element (2019)
+- Netflix Prices Went Up Again – I Bought a DVD Player Instead
 - 熱門 laptops to use with FreeBSD
-- The 訓練 Example Lie Bracket
-- Git commands I run before reading any 代碼
-- Microsoft PhotoDNA scanning problem
-- How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling
+- Installing OpenBSD on the Pomera DM250{,XY?}
 - Reallocating $100/Month Claude 代碼 Spend to Zed and OpenRouter
+- 新 iPhone age and identity checks restrict internet freedom in the UK
 - Doing Impressions: Monet's Early Caricatures (ca. late 1850s)
-- First man convicted under Take It Down Act kept making AI nudes after arrest
-- Building a framework-agnostic Ruby gem (and making sure it doesn't break)
-- Small Engines
 - Claude mixes up who said what
-- Google's AI Overviews spew false answers per hour, bombshell study reveals
-- Maine is about to become the first state to ban major 新 data centers
-- How Pizza Tycoon simulated traffic on a 25 MHz CPU
-- The Future of Everything Is Lies, I Guess: Part 3 – Culture
+- Small Engines
+- Building a framework-agnostic Ruby gem (and making sure it doesn't break)
+- Feds Try Secret Grand Jury to Unmask Reddit ICE Critic
+- The 訓練 Example Lie Bracket
+- Sam Altman may control our future – can he be trusted?
 - C# in Unity 2026: Writing more modern 代碼
+- How Pizza Tycoon simulated traffic on a 25 MHz CPU
 - Show HN: Moon simulator game, ray-casting
 - 介紹 Nintendo DS 程式設計
-- Bitmap fonts make computers feel like computers again
-- Vibe-Coded Ext4 for OpenBSD
 - Clean 代碼 in the age of coding agents
+- How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling
 - Wit, unker, Git: The lost medieval pronouns of English intimacy
-- Mexico's President Sheinbaum Decrees Universal Healthcare for 120M
-- Detox may erase 10 years of social media brain damage, researchers say
-- 開源 安全 at Astral
-- Sam Altman may control our future – can he be trusted?
-- Session is shutting down in 90 days
-- BunnyCDN has been silently losing our production files for 15 months
-- Show HN: Guruka.com – free guided mediations. No signup, private, works offline
 - Understanding Traceroute
-- Help Keep Thunderbird Alive
-- Bun v1.3.12
-- Haunted Paper Toys
-- Six (and a half) intuitions for KL divergence
-- What does it mean to “write like you talk”?
-- The Vercel plugin on Claude 代碼 wants to read your prompts
+- The Future of Everything Is Lies, I Guess: Part 3 – Culture
+- Maine is about to become the first state to ban major 新 data centers
+- 開源 安全 at Astral
 - Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator
-- Expanding Swift's IDE Support
+- What does it mean to “write like you talk”?
 - They're made out of meat (1991)
-- USB for 軟體 Developers: An 介紹 writing userspace USB drivers
-- How the Trivy supply chain attack harvested credentials from secrets managers
+- Expanding Swift's IDE Support
+- Six (and a half) intuitions for KL divergence
+- Show HN: Guruka.com – free guided mediations. No signup, private, works offline
+- Haunted Paper Toys
+- Session is shutting down in 90 days
 - Teardown of unreleased LG Rollable shows 為什麼 rollable phones aren't a thing
+- Help Keep Thunderbird Alive
+- USB for 軟體 Developers: An 介紹 writing userspace USB drivers
+- Microsoft PhotoDNA scanning problem
+- 5 Open-Source Projects Running Transformers on CPUs to GPUs in Pure-Modern Java
 - Understanding the Kalman filter with a simple radar example
-- Show HN: Linear RNN/Reservoir hybrid generative 模型, one C file (no deps.)
-- Study found that young adults have grown less hopeful and more angry about AI
+- Bitmap fonts make computers feel like computers again
 - Veracrypt project 更新
+- Vibe-Coded Ext4 for OpenBSD
 - Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones
-- US cities are axing Flock Safety surveillance technology
-- The Importance of Being Idle
-- Glasses Got Worse on Purpose
 - Project Glasswing: Securing critical 軟體 for the AI era
-- Today Is CSS Naked Day
-- Show HN: 41 years sea surface temperature anomalies
-- Binary obfuscation that doesn't kill LTO
-- NewTek Video Toaster Demo Reel
 
 
 ---
