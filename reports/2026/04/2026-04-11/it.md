@@ -4,206 +4,209 @@
 
 ---
 
-### 1. [20 Years on AWS and Never Not My 工作](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
+### 1. [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 
-- ⭐ 73 分｜💬 6 留言｜👤 cperciva
+- ⭐ 958 分｜💬 459 留言｜👤 normanvalentine
 
-### 2. [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+### 2. [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/)
 
-- ⭐ 644 分｜💬 334 留言｜👤 normanvalentine
+- ⭐ 86 分｜💬 11 留言｜👤 marvinborner
 
-### 3. [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+### 3. [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
 
-- ⭐ 761 分｜💬 253 留言｜👤 areoform
+- ⭐ 259 分｜💬 73 留言｜👤 iceberger2001
 
-### 4. [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+### 4. [Show HN: Pardonned.com – A searchable 資料庫 of US Pardons](https://news.ycombinator.com/item?id=47727960)
 
-- ⭐ 764 分｜💬 137 留言｜👤 burnt-resistor
+https:&#x2F;&#x2F;pardonned.comInspired by the videos of Liz Oyer, I wanted to be able to verify her claims and just look up all the pardons more easily.Tech Stack: 
+ Playwright - to sccrape the DOJ w
 
-### 5. [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+- ⭐ 60 分｜💬 15 留言｜👤 vidluther
 
-- ⭐ 301 分｜💬 165 留言｜👤 neversaydie
+### 5. [1D Chess](https://rowan441.github.io/1dchess/chess.html)
 
-### 6. [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
+- ⭐ 860 分｜💬 151 留言｜👤 burnt-resistor
 
-- ⭐ 301 分｜💬 32 留言｜👤 RohanAdwankar
+### 6. [Volunteers turn a fan's recordings of 10K concerts into an online treasure trove](https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62)
 
-### 7. [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
+- ⭐ 130 分｜💬 12 留言｜👤 geox
 
-- ⭐ 51 分｜💬 21 留言｜👤 iceberger2001
+### 7. [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
 
-### 8. [Great at gaming? US air traffic control wants you to apply](https://www.bbc.com/news/articles/ce84rvx0e6do)
+- ⭐ 447 分｜💬 62 留言｜👤 RohanAdwankar
 
-- ⭐ 8 分｜💬 7 留言｜👤 1659447091
+### 8. [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
 
-### 9. [WireGuard makes 新 Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
+- ⭐ 354 分｜💬 209 留言｜👤 neversaydie
+
+### 9. [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+
+- ⭐ 991 分｜💬 304 留言｜👤 areoform
+
+### 10. [AI assistance when contributing to the Linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+
+- ⭐ 363 分｜💬 264 留言｜👤 hmokiguess
+
+### 11. [WireGuard makes 新 Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
 
 Recent and related: Microsoft terminated the account VeraCrypt used to sign Windows drivers - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47686549
 
-- ⭐ 448 分｜💬 126 留言｜👤 zx2c4
+- ⭐ 496 分｜💬 145 留言｜👤 zx2c4
 
-### 10. [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
+### 12. [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 
-- ⭐ 65 分｜💬 10 留言｜👤 GenericCanadian
+- ⭐ 392 分｜💬 122 留言｜👤 stingraycharles
 
-### 11. [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+### 13. [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
 
-- ⭐ 350 分｜💬 108 留言｜👤 stingraycharles
+- ⭐ 48 分｜💬 19 留言｜👤 maxvij
 
-### 12. [AI assistance when contributing to the Linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+### 14. [How Passive Radar Works](https://www.passiveradar.com/how-passive-radar-works/)
 
-- ⭐ 267 分｜💬 173 留言｜👤 hmokiguess
+- ⭐ 23 分｜💬 6 留言｜👤 surprisetalk
 
-### 13. [JSON formatter Chrome plugin now closed and injecting adware](https://github.com/callumlocke/json-formatter)
+### 15. [France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)
 
-- ⭐ 195 分｜💬 107 留言｜👤 jkl5xx
+- ⭐ 80 分｜💬 40 留言｜👤 pabs3
 
-### 14. [CPU-Z and HWMonitor compromised](https://www.theregister.com/2026/04/10/cpuid_site_hijacked/)
+### 16. [CPU-Z and HWMonitor compromised](https://www.theregister.com/2026/04/10/cpuid_site_hijacked/)
 
 https:&#x2F;&#x2F;xcancel.com&#x2F;vxunderground&#x2F;status&#x2F;2042483067655262461https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;pcmasterrace&#x2F;comments&#x2F;1sh4e5l&#x2F;warni...https:&#x2F;&#x2F
 
-- ⭐ 306 分｜💬 88 留言｜👤 pashadee
+- ⭐ 348 分｜💬 92 留言｜👤 pashadee
 
-### 15. [Helium is hard to replace](https://www.construction-physics.com/p/helium-is-hard-to-replace)
+### 17. [Helium is hard to replace](https://www.construction-physics.com/p/helium-is-hard-to-replace)
 
-- ⭐ 292 分｜💬 204 留言｜👤 JumpCrisscross
+- ⭐ 328 分｜💬 230 留言｜👤 JumpCrisscross
 
-### 16. [A practical guide for setting up Zettelkasten method in Obsidian](https://desktopcommander.app/blog/zettelkasten-obsidian/)
+### 18. [Bevy game development tutorials and in-depth resources](https://taintedcoders.com/)
 
-- ⭐ 34 分｜💬 14 留言｜👤 rkrizanovskis
+- ⭐ 93 分｜💬 22 留言｜👤 GenericCanadian
 
-### 17. [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
+### 19. [JSON formatter Chrome plugin now closed and injecting adware](https://github.com/callumlocke/json-formatter)
 
-- ⭐ 6 分｜💬 1 留言｜👤 maxvij
+- ⭐ 232 分｜💬 115 留言｜👤 jkl5xx
 
-### 18. [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
+### 20. [Sybilproof reputation mechanisms (2005) [pdf]](https://dl.acm.org/doi/pdf/10.1145/1080192.1080202)
 
-- ⭐ 47 分｜💬 12 留言｜👤 ingve
+- ⭐ 12 分｜💬 0 留言｜👤 perfmode
 
-### 19. [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
+### 21. [A practical guide for setting up Zettelkasten method in Obsidian](https://desktopcommander.app/blog/zettelkasten-obsidian/)
 
-- ⭐ 62 分｜💬 13 留言｜👤 lermontov
+- ⭐ 60 分｜💬 33 留言｜👤 rkrizanovskis
 
-### 20. [The Bra-and-Girdle Maker That Fashioned the Impossible for NASA](https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/)
+### 22. [20 years on AWS and never not my 工作](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 
-- ⭐ 77 分｜💬 4 留言｜👤 sohkamyung
+- ⭐ 177 分｜💬 36 留言｜👤 cperciva
 
-### 21. [什麼是 RISC-V and 為什麼 it matters to Canonical](https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical)
+### 23. [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
 
-- ⭐ 119 分｜💬 77 留言｜👤 fork-bomber
+- ⭐ 93 分｜💬 16 留言｜👤 lermontov
 
-### 22. [Flashback to a time when government reports were works of art](https://www.chicagotribune.com/2026/04/08/transportation-library-northwestern/)
+### 24. [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
 
-- ⭐ 3 分｜💬 1 留言｜👤 NaOH
+- ⭐ 52 分｜💬 18 留言｜👤 bretthopper
 
-### 23. [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
+### 25. [The Bra-and-Girdle Maker That Fashioned the Impossible for NASA](https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/)
 
-- ⭐ 89 分｜💬 6 留言｜👤 ibobev
+- ⭐ 101 分｜💬 7 留言｜👤 sohkamyung
 
-### 24. [Launch HN: Twill.AI (YC S25) – Delegate to 雲端 agents, get back PRs](https://twill.ai)
+### 26. [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
+
+- ⭐ 103 分｜💬 7 留言｜👤 ibobev
+
+### 27. [A 新 Way to Spray Paint Color](https://spectrum.ieee.org/spray-paint-color-creator)
+
+- ⭐ 13 分｜💬 7 留言｜👤 sohkamyung
+
+### 28. [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)
+
+- ⭐ 175 分｜💬 158 留言｜👤 jnord
+
+### 29. [Launch HN: Twill.AI (YC S25) – Delegate to 雲端 agents, get back PRs](https://twill.ai)
 
 Hey HN, we&#x27;re Willy and Dan, co-founders of Twill.AI (https:&#x2F;&#x2F;twill.AI&#x2F;). Twill runs coding CLIs like Claude 代碼 and Codex in isolated 雲端 sandboxes. You hand it work through Sl
 
-- ⭐ 65 分｜💬 59 留言｜👤 danoandco
+- ⭐ 71 分｜💬 74 留言｜👤 danoandco
 
-### 25. [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
+### 30. [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
 
-- ⭐ 20 分｜💬 5 留言｜👤 bretthopper
-
-### 26. [Tesla's supervised self-driving 軟體 gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/)
-
-- ⭐ 10 分｜💬 4 留言｜👤 nsoonhui
-
-### 27. [PGLite Evangelism](https://substack.com/home/post/p-193415720)
-
-- ⭐ 54 分｜💬 10 留言｜👤 surprisetalk
-
-### 28. [Nowhere is safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
-
-- ⭐ 174 分｜💬 213 留言｜👤 sblank
-
-### 29. [OpenClaw’s memory is unreliable, and you don’t know when it will break](https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys)
-
-- ⭐ 97 分｜💬 108 留言｜👤 sonink
-
-### 30. [A compelling title that is cryptic enough to get you to take action on it](https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/)
-
-- ⭐ 206 分｜💬 114 留言｜👤 mooreds
+- ⭐ 64 分｜💬 22 留言｜👤 ingve
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Intel 486 CPU announced April 10, 1989
-- Show HN: FluidCAD – Parametric CAD with JavaScript
+- A compelling title that is cryptic enough to get you to take action on it
+- OpenClaw’s memory is unreliable, and you don’t know when it will break
+- Nowhere is safe
 - Clojure on Fennel Part One: Persistent Data Structures
-- Bild AI (YC W25) Is 招聘 a Founding Product 工程師
-- Sam Altman's response to Molotov cocktail incident
-- Static 代碼 analysis in Kotlin – tools overview
+- Show HN: FluidCAD – Parametric CAD with JavaScript
 - You can't trust macOS Privacy and 安全 settings
-- The Seasons Are Wrong
 - France to ditch Windows for Linux to reduce reliance on US tech
-- Vinyl Cache and Varnish Cache
+- 什麼是 RISC-V and 為什麼 it matters to Canonical
+- Bild AI (YC W25) Is 招聘 a Founding Product 工程師
+- Flashback to a time when government reports were works of art
 - 代碼 is run more than read (2023)
+- Penguin 'Toxicologists' Find PFAS Chemicals in 遠端 Patagonia
+- We've raised $17M to 構建 what comes after Git
+- Sam Altman's response to Molotov cocktail incident
+- Team from ETH Zurich make high quality quantum swap gate using a geometric phase
+- PGLite Evangelism
+- Vinyl Cache and Varnish Cache
 - Show HN: Eve – Managed OpenClaw for work
 - Show HN: A WYSIWYG word processor in Python
-- Penguin 'Toxicologists' Find PFAS Chemicals in 遠端 Patagonia
-- The difficulty of making sure your website is broken
-- Team from ETH Zurich make high quality quantum swap gate using a geometric phase
+- Bringing Rust to the Pixel Baseband
 - Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]
-- Molotov cocktail is hurled at home of Sam Altman
-- We've raised $17M to 構建 what comes after Git
 - FBI used iPhone notification data to retrieve deleted Signal messages
-- Simulating a 2D Quadcopter from Scratch
-- The Relationship Between Two People Is Not Located in Either Person
-- The 最佳 seat in town
-- A 安全 scanner as fast as a linter – written in Rust
-- Bluesky April 2026 Outage Post-Mortem
-- How NASA built Artemis II’s fault-tolerant computer
-- RSoC 2026: A 新 CPU scheduler for Redox OS
 - 40x Faster Binary Search
-- HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X
-- Show HN: Marimo pair – Reactive Python notebooks as environments for agents
-- 為什麼 do we tell ourselves scary stories about AI?
+- The difficulty of making sure your website is broken
+- We gave an AI a 3-year Lease. It opened a store
+- Molotov cocktail is hurled at home of Sam Altman
+- Simulating a 2D Quadcopter from Scratch
+- The 最佳 seat in town
+- How NASA built Artemis II’s fault-tolerant computer
+- Tesla's cabin camera estimates driver age in latest 軟體 更新
+- Raising Carthaginian Armies, Part I: Finding Carthaginians
+- News is bad for you (2013)
+- Static 代碼 analysis in Kotlin – tools overview
+- A 安全 scanner as fast as a linter – written in Rust
+- Tesla's supervised self-driving 軟體 gets Dutch okay, first in Europe
+- We Only Learn from Error
+- LittleSnitch for Linux
+- I ported Mac OS X to the Nintendo Wii
 - I still prefer MCP over skills
-- Combining spicy foods with mint boosts anti-inflammatory effects 100x or more
-- C++: Freestanding Standard Library
+- Show HN: Marimo pair – Reactive Python notebooks as environments for agents
+- Air Powered Segment Display? [video]
 - Instant 1.0, a 後端 for AI-coded apps
 - Native Instant Space Switching on macOS
-- Enforcing 新 limits and retiring Opus 4.6 Fast from Copilot Pro+
-- LittleSnitch for Linux
+- Splitting the 網頁 (2023)
+- RSoC 2026: A 新 CPU scheduler for Redox OS
+- 為什麼 do we tell ourselves scary stories about AI?
 - Kagi Product Tips – Customize Your Search Results with URL Redirects
-- I ported Mac OS X to the Nintendo Wii
-- Raising Carthaginian Armies, Part I: Finding Carthaginians
-- DOJ 熱門 Antitrust Litigators Exit After Ticketmaster Accord
+- Bluesky April 2026 Outage Post-Mortem
+- Git commands I run before reading any 代碼
+- Mythos Is Everyone's Problem
+- C++: Freestanding Standard Library
+- Scoop: Microsoft Is Pausing Carbon Removal Purchases
+- HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X
+- Sam Altman may control our future – can he be trusted?
 - The Art of Risk Management (2017)
-- Two Japanese suppliers commit to keeping Blu-ray discs and drives in supply
 - 模型-Based Testing for Dungeons & Dragons
 - Show HN: Keeper – embedded secret store for Go (help me break it)
-- Warez Scene
-- DOJ wants to scrap Watergate-era rule that makes presidential records public
-- Git commands I run before reading any 代碼
-- A Crazy Expensive U.S. Drone Just Disappeared over Strait of Hormuz
-- Travel writing's biggest myth (and 為什麼 everyone is lying)
-- Google's Gmail Upgrade Decision: 2B Users Must Act Now
-- Supply chain nightmare: How Rust will be attacked and what we can do to mitigate
-- The Mouse 程式設計 Language on CP/M
-- Hegel, a universal property-based testing protocol and family of PBT libraries
-- Iran Unable to Find Mines in Strait of Hormuz, U.S. Says
 - A WebGPU implementation of Augmented Vertex Block Descent
-- DRAM has a design flaw from 1966. I bypassed it [video]
-- An AI robot in my home
-- You're Looking at the Wrong Pretext Demo
+- Hegel, a universal property-based testing protocol and family of PBT libraries
+- Combining spicy foods with mint boosts anti-inflammatory effects 100x or more
 - Reverse engineering Gemini's SynthID detection
-- Deterministic Primality Testing for Limited Bit Width
-- Sam Altman may control our future – can he be trusted?
+- An AI robot in my home
 - Show HN: I built a Cargo-like 構建 tool for C/C++
-- 'Blips' led Australian backyard astronomers to a world-first planetary discovery
+- DRAM has a design flaw from 1966. I bypassed it [video]
+- Premium: The Hater's Guide to OpenAI
+- Ask HN: 最佳 books on building a 程式設計 language
 - Charcuterie – Visual similarity Unicode explorer
+- Travel writing's biggest myth (and 為什麼 everyone is lying)
 - Generative art over the years
-- I Hate Tailwind and Love Bootstrap
-- Social media has become a freak show
-- Artemis II and the invisible hazard on the way to the Moon
+- Supply chain nightmare: How Rust will be attacked and what we can do to mitigate
 
 
 ---
