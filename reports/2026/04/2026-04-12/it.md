@@ -4,203 +4,204 @@
 
 ---
 
-### 1. [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
+### 1. [Apple has removed most of the towns and villages in Lebanon from Apple maps](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193)
 
-- ⭐ 45 分｜💬 17 留言｜👤 0x54MUR41
+- ⭐ 69 分｜💬 18 留言｜👤 thepasswordis
 
-### 2. [Happy Map](https://pudding.cool/2026/02/happy-map/)
+### 2. [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
 
-- ⭐ 28 分｜💬 3 留言｜👤 surprisetalk
+Hi HN!I recently switched from a Fedora&#x2F;GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed som
 
-### 3. [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/)
+- ⭐ 53 分｜💬 33 留言｜👤 a-ve
 
-- ⭐ 48 分｜💬 12 留言｜👤 _Microft
+### 3. [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
 
-### 4. [An Interview with Pat Gelsinger](https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026)
+- ⭐ 257 分｜💬 130 留言｜👤 phil294
 
-- ⭐ 60 分｜💬 25 留言｜👤 zdw
+### 4. [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)
 
-### 5. [The Miller Principle (2007)](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/)
+- ⭐ 34 分｜💬 11 留言｜👤 surprisetalk
 
-- ⭐ 46 分｜💬 34 留言｜👤 FelipeCortez
+### 5. [Are sugar substitutes healthier than the real thing?](https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing)
 
-### 6. [Tofolli gates are all you need](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/)
+- ⭐ 11 分｜💬 4 留言｜👤 vinni2
 
-- ⭐ 82 分｜💬 18 留言｜👤 ibobev
+### 6. [I gave every train in 新 York an instrument](https://www.trainjazz.com/)
 
-### 7. [What have been the greatest intellectual achievements? (2017)](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
+- ⭐ 82 分｜💬 15 留言｜👤 joshuawolk
 
-- ⭐ 26 分｜💬 29 留言｜👤 o4c
+### 7. [Show HN: Oberon 系統 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases)
 
-### 8. [Anthropic downgraded cache TTL on March 6th](https://github.com/anthropics/claude-code/issues/46829)
+- ⭐ 104 分｜💬 13 留言｜👤 Rochus
 
-- ⭐ 130 分｜💬 110 留言｜👤 lsdmtme
+### 8. [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
 
-### 9. [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
+- ⭐ 322 分｜💬 140 留言｜👤 mpweiher
 
-- ⭐ 357 分｜💬 229 留言｜👤 tradertef
+### 9. [EasyPost (YC S13) Is 招聘](https://www.easypost.com/careers)
 
-### 10. [Apple 更新 looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
+- ⭐ 1 分｜💬 0 留言｜👤 jstreebin
 
-- ⭐ 225 分｜💬 119 留言｜👤 OuterVale
+### 10. [Tell HN: docker pull fails in spain due to football cloudflare block](https://news.ycombinator.com/item?id=47738883)
 
-### 11. [How We Broke 熱門 AI 代理 Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+I just spent 1h+ debugging 為什麼 my locally-hosted gitlab runner would fail to create pipelines. The gitlab 工作 output would just display weird TLS errors when trying to pull a docker images. After debu
 
-- ⭐ 411 分｜💬 103 留言｜👤 Anon84
+- ⭐ 386 分｜💬 169 留言｜👤 littlecranky67
 
-### 12. [Stewart Brand on how progress happens](https://www.newyorker.com/books/book-currents/stewart-brand-on-how-progress-happens)
+### 11. [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
 
-- ⭐ 17 分｜💬 4 留言｜👤 bookofjoe
+- ⭐ 136 分｜💬 63 留言｜👤 0x54MUR41
 
-### 13. [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
+### 12. [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
 
-- ⭐ 78 分｜💬 103 留言｜👤 gHeadphone
+- ⭐ 35 分｜💬 28 留言｜👤 wallflower
 
-### 14. [No one owes you supply-chain 安全](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
+### 13. [Anthropic downgraded cache TTL on March 6th](https://github.com/anthropics/claude-code/issues/46829)
 
-- ⭐ 9 分｜💬 0 留言｜👤 birdculture
+- ⭐ 348 分｜💬 257 留言｜👤 lsdmtme
 
-### 15. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+### 14. [Happy Map](https://pudding.cool/2026/02/happy-map/)
 
-- ⭐ 1139 分｜💬 305 留言｜👤 dominicq
+- ⭐ 150 分｜💬 23 留言｜👤 surprisetalk
 
-### 16. [How Complex is my 代碼?](https://philodev.one/posts/2026-04-code-complexity/)
+### 15. [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/)
 
-- ⭐ 136 分｜💬 34 留言｜👤 speckx
+- ⭐ 141 分｜💬 26 留言｜👤 _Microft
 
-### 17. [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
+### 16. [Apple removes Lebanese village names from Apple Maps as Israel attacks](https://twitter.com/EthanLevins2/status/2043366941922926940)
 
-- ⭐ 230 分｜💬 125 留言｜👤 iliatoli
+- ⭐ 12 分｜💬 1 留言｜👤 newspaper1
 
-### 18. [Dark Castle](https://darkcastle.co.uk/)
+### 17. [Bouncer: Block "crypto", "rage politics", and more from your X feed using AI](https://github.com/imbue-ai/bouncer)
 
-- ⭐ 199 分｜💬 25 留言｜👤 evo_9
+- ⭐ 5 分｜💬 1 留言｜👤 steveharing1
 
-### 19. [Pijul a FOSS distributed version control 系統](https://pijul.org/)
+### 18. [Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy](https://arxiv.org/abs/2505.09509)
 
-- ⭐ 168 分｜💬 25 留言｜👤 kouosi
+- ⭐ 7 分｜💬 0 留言｜👤 radeeyate
 
-### 20. [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
+### 19. [A Tour of Oodi](https://blinry.org/oodi/)
 
-- ⭐ 180 分｜💬 141 留言｜👤 ValentineC
+- ⭐ 74 分｜💬 25 留言｜👤 zdw
 
-### 21. [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+### 20. [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
 
-- ⭐ 208 分｜💬 145 留言｜👤 krackers
+- ⭐ 662 分｜💬 383 留言｜👤 tradertef
 
-### 22. [網絡 Flow Algorithms](https://www.networkflowalgs.com/)
+### 21. [The Physics of GPS](https://perthirtysix.com/how-does-gps-work)
 
-- ⭐ 30 分｜💬 0 留言｜👤 teleforce
+- ⭐ 66 分｜💬 16 留言｜👤 maouida
 
-### 23. [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
+### 22. [Doom, Played over Curl](https://github.com/xsawyerx/curl-doom)
 
-- ⭐ 270 分｜💬 132 留言｜👤 seekdeep
+- ⭐ 69 分｜💬 8 留言｜👤 creaktive
 
-### 24. [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
+### 23. [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
 
-- ⭐ 251 分｜💬 62 留言｜👤 zdw
+- ⭐ 8 分｜💬 1 留言｜👤 _Microft
 
-### 25. [Show HN: Pardonned.com – A searchable 資料庫 of US Pardons](https://news.ycombinator.com/item?id=47727960)
+### 24. [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
 
-https:&#x2F;&#x2F;pardonned.comInspired by the videos of Liz Oyer, I wanted to be able to verify her claims and just look up all the pardons more easily.Tech Stack: 
- Playwright - to sccrape the DOJ w
+- ⭐ 129 分｜💬 35 留言｜👤 sparkling
 
-- ⭐ 443 分｜💬 246 留言｜👤 vidluther
+### 25. [Exploiting the most prominent AI 代理 benchmarks](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
-### 26. [Internet outage in Iran reaches 1,008 hours](https://mastodon.social/@netblocks/116384935123261912)
+- ⭐ 465 分｜💬 115 留言｜👤 Anon84
 
-- ⭐ 7 分｜💬 0 留言｜👤 miadabdi
+### 26. [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
 
-### 27. [Surelock: Deadlock-Free Mutexes for Rust](https://notes.brooklynzelenka.com/Blog/Surelock)
+- ⭐ 19 分｜💬 3 留言｜👤 gHeadphone
 
-- ⭐ 224 分｜💬 72 留言｜👤 codetheweb
+### 27. [Floyd's Sampling Algorithm](https://buttondown.com/jaffray/archive/floyds-sampling-algorithm/)
 
-### 28. [如何 構建 a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+- ⭐ 26 分｜💬 1 留言｜👤 ibobev
 
-- ⭐ 121 分｜💬 13 留言｜👤 zdw
+### 28. [Compute iOS XNU offset from kernel cache](https://blog.reversesociety.co/blog/2026/kernel-rw-not-enough-extract-offsets-from-xnu-kernelcaches)
 
-### 29. [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
+- ⭐ 17 分｜💬 0 留言｜👤 tonygo
 
-- ⭐ 194 分｜💬 173 留言｜👤 Jimmc414
+### 29. [The Miller Principle (2007)](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/)
 
-### 30. [軟體 Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/)
+- ⭐ 69 分｜💬 48 留言｜👤 FelipeCortez
 
-- ⭐ 33 分｜💬 3 留言｜👤 quuxplusone
+### 30. [An Interview with Pat Gelsinger](https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026)
+
+- ⭐ 94 分｜💬 58 留言｜👤 zdw
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- How a dancer with ALS used brainwaves to perform live
-- The Soul of an Old Machine
+- Small models also found the vulnerabilities that Mythos found
+- Tofolli gates are all you need
+- Textbooks and Methods of Note-Taking in Early Modern Europe (2008)
+- Tell HN: OpenAI silently removed Study Mode from ChatGPT
+- We have a 99% email reputation. Gmail disagrees
+- Internet outage in Iran reaches 1,008 hours
+- 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane
+- Dark Castle
+- How Complex is my 代碼?
+- Pro Max 5x quota exhausted in 1.5 hours despite moderate usage
+- Pijul a FOSS distributed version control 系統
+- Cirrus Labs to join OpenAI
+- What have been the greatest intellectual achievements? (2017)
+- Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)
+- Surelock: Deadlock-Free Mutexes for Rust
+- Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS
+- 'The Audacity' Is the Broligarchy Takedown You Were Waiting For
+- 網絡 Flow Algorithms
+- Intel Xpress Resurrection: Reviving a Forgotten EISA Beast
+- SpaceX holds $603M in Bitcoin despite $5B loss stemming from xAI
+- 如何 構建 a `Git diff` driver
 - Optimal Strategy for Connect 4
-- 什麼是 a property?
+- Filing the corners off my MacBooks
+- The Soul of an Old Machine
+- The End of Eleventy
 - High-Level Rust: Getting 80% of the Benefits with 20% of the Pain
 - Every plane you see in the sky – you can now follow it from the cockpit in 3D
-- Filing the corners off my MacBooks
 - The Problem That Built an Industry
-- Keeping a Postgres Queue Healthy
+- 什麼是 a property?
+- 軟體 Preservation Group: C++ History Collection
+- How Beyond Meat sank from a $14B plant-based protein powerhouse to a penny stock
+- The Implementation of Functional 程式設計 Languages (1987)
 - The APL 程式設計 language source 代碼 (2012)
-- Who was "Not Even Wrong" first? [2023]
+- Relics of the Heroic Age of Manned Space Flight
+- Mystery Meat Navigation
+- Keeping a Postgres Queue Healthy
+- Apple 更新 looks like Czech mate for locked-out iPhone user
+- Apple's UK age verification brings identity checks to the iPhone
+- Show HN: Pardonned.com – A searchable 資料庫 of US Pardons
+- No one owes you supply-chain 安全
 - South Korea 引進 universal basic 行動 data access
-- 新 synthesis of astronomical measurements shows Hubble tension is real
-- The future of everything is lies, I guess – Part 5: Annoyances
-- Building a Z-Machine in the worst possible language – Whitebeard's Realm
-- USB/IP Project: a general USB device sharing 系統 over IP 網絡
+- Who was "Not Even Wrong" first? [2023]
 - Starfling: A one-tap endless orbital slingshot game in a single HTML file
-- Midnight Captain – A midnight commander inspired file 經理
-- How Passive Radar Works
+- The future of everything is lies, I guess – Part 5: Annoyances
+- USB/IP Project: a general USB device sharing 系統 over IP 網絡
 - Now is the 最佳 time to write 代碼 by hand
-- Previously unknown verses by Empedocles found on papyrus
-- France's government is ditching Windows for Linux, says US tech a strategic risk
+- 新 synthesis of astronomical measurements shows Hubble tension is real
+- How Passive Radar Works
 - 1D Chess
+- How a dancer with ALS used brainwaves to perform live
+- Previously unknown verses by Empedocles found on papyrus
+- Building a Z-Machine in the worst possible language – Whitebeard's Realm
+- France's government is ditching Windows for Linux, says US tech a strategic risk
 - Productive Procrastination
-- Phone Trips
+- US appeals court declares 158-year-old home distilling ban unconstitutional
 - Volunteers turn a fan's recordings of 10K concerts into an online treasure trove
-- How much linear memory access is enough?
-- The Life and Death of the Book Review
+- Midnight Captain – A midnight commander inspired file 經理
+- 為什麼 IBM Turned to Microsoft for Basic
 - Bevy game development tutorials and in-depth resources
-- Brocards for Vulnerability Triage
-- Layoff Thinking
-- The AI Layoff Trap
-- The Zettelkasten method in Obsidian
-- Bild AI (YC W25) Is 招聘 a Founding Product 工程師
+- How much linear memory access is enough?
+- Phone Trips
 - Chimpanzees in Uganda locked in eight-year 'civil war', say researchers
-- Bitcoin miners are losing on every coin produced as difficulty drops
+- The Zettelkasten method in Obsidian
 - Installing every* Firefox extension
-- Building Slogbox
-- Italo Calvino: A traveller in a world of uncertainty
 - OpenClaw’s memory is unreliable, and you don’t know when it will break
-- AI assistance when contributing to the Linux kernel
-- The Bra-and-Girdle Maker That Fashioned the Impossible for NASA
-- Lawyer behind AI psychosis cases warns of mass casualty risks
-- Quien – A better WHOIS lookup tool
-- WireGuard makes 新 Windows release following Microsoft signing resolution
-- Cooperative Vectors Introduction
-- Launch HN: Twill.AI (YC S25) – Delegate to 雲端 agents, get back PRs
-- Clojure on Fennel Part One: Persistent Data Structures
 - The Universal Standard Book Number
-- Method to reverse cellular ageing is about to be tested in humans
-- Ask HN: Do you trust AI agents with API keys / private keys?
-- Team from ETH Zurich make high quality quantum swap gate using a geometric phase
-- We've raised $17M to 構建 what comes after Git
-- Emergency Prices: How Private Equity Captured the Ambulance Market
-- Penguin 'Toxicologists' Find PFAS Chemicals in 遠端 Patagonia
-- Nowhere is safe
-- CPU-Z and HWMonitor compromised
-- Artemis II safely splashes down
-- Industrial design files for Keychron keyboards and mice
-- Show HN: FluidCAD – Parametric CAD with JavaScript
-- You can't trust macOS Privacy and 安全 settings
-- France to ditch Windows for Linux to reduce reliance on US tech
-- 代碼 is run more than read (2023)
-- Helium is hard to replace
-- Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom
-- Borges' cartographers and the tacit skill of reading LM output
-- Sybilproof reputation mechanisms (2005) [pdf]
-- I ported Mac OS X to the Nintendo Wii
-- Mexican surveillance company Grupo Seguritech watches the U.S. border
-- Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid
+- Italo Calvino: A traveller in a world of uncertainty
+- Apple Accused of Removing Village Names of Disputed Territory in South
+- AI assistance when contributing to the Linux kernel
+- Bitcoin miners are losing on every coin produced as difficulty drops
 
 
 ---
