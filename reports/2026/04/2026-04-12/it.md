@@ -4,203 +4,203 @@
 
 ---
 
-### 1. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+### 1. [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
 
-- ⭐ 839 分｜💬 228 留言｜👤 dominicq
+- ⭐ 131 分｜💬 76 留言｜👤 ValentineC
 
-### 2. [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+### 2. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 
-- ⭐ 145 分｜💬 82 留言｜👤 krackers
+- ⭐ 996 分｜💬 269 留言｜👤 dominicq
 
-### 3. [How We Broke 熱門 AI 代理 Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+### 3. [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
 
-- ⭐ 218 分｜💬 60 留言｜👤 Anon84
+- ⭐ 79 分｜💬 41 留言｜👤 Jimmc414
 
-### 4. [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
+### 4. [Tofolli gates are all you need](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/)
 
-- ⭐ 140 分｜💬 68 留言｜👤 iliatoli
+- ⭐ 16 分｜💬 0 留言｜👤 ibobev
 
-### 5. [Pijul a FOSS distributed version control 系統](https://pijul.org/)
+### 5. [How We Broke 熱門 AI 代理 Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
-- ⭐ 82 分｜💬 11 留言｜👤 kouosi
+- ⭐ 337 分｜💬 87 留言｜👤 Anon84
 
-### 6. [Dark Castle](https://darkcastle.co.uk/)
+### 6. [為什麼 meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
 
-- ⭐ 120 分｜💬 17 留言｜👤 evo_9
+- ⭐ 21 分｜💬 10 留言｜👤 momentmaker
 
 ### 7. [How Complex is my 代碼?](https://philodev.one/posts/2026-04-code-complexity/)
 
-- ⭐ 21 分｜💬 0 留言｜👤 speckx
+- ⭐ 92 分｜💬 17 留言｜👤 speckx
 
-### 8. [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
+### 8. [Dark Castle](https://darkcastle.co.uk/)
 
-- ⭐ 196 分｜💬 51 留言｜👤 zdw
+- ⭐ 171 分｜💬 21 留言｜👤 evo_9
 
-### 9. [如何 構建 a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+### 9. [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
 
-- ⭐ 81 分｜💬 5 留言｜👤 zdw
+- ⭐ 194 分｜💬 99 留言｜👤 iliatoli
 
-### 10. [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
+### 10. [Simplest Hash Functions](https://purplesyringa.moe/blog/simplest-hash-functions/)
 
-- ⭐ 235 分｜💬 115 留言｜👤 seekdeep
+- ⭐ 24 分｜💬 17 留言｜👤 ibobev
 
-### 11. [Surelock: Deadlock-Free Mutexes for Rust](https://notes.brooklynzelenka.com/Blog/Surelock)
+### 11. [Pijul a FOSS distributed version control 系統](https://pijul.org/)
 
-- ⭐ 169 分｜💬 53 留言｜👤 codetheweb
+- ⭐ 125 分｜💬 22 留言｜👤 kouosi
 
-### 12. [The Soul of an Old Machine](https://skalski.dev/the-soul-of-an-old-machine/)
+### 12. [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
 
-- ⭐ 24 分｜💬 6 留言｜👤 mskalski
+- ⭐ 31 分｜💬 1 留言｜👤 1659447091
 
-### 13. [什麼是 a property?](https://alperenkeles.com/posts/what-is-a-property/)
+### 13. [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
 
-- ⭐ 53 分｜💬 16 留言｜👤 alpaylan
+- ⭐ 184 分｜💬 128 留言｜👤 krackers
 
-### 14. [Show HN: Pardonned.com – A searchable 資料庫 of US Pardons](https://news.ycombinator.com/item?id=47727960)
+### 14. [Building a Z-Machine in the worst possible language – Whitebeard's Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
+
+- ⭐ 20 分｜💬 0 留言｜👤 techbelly
+
+### 15. [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
+
+- ⭐ 231 分｜💬 60 留言｜👤 zdw
+
+### 16. [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
+
+- ⭐ 256 分｜💬 125 留言｜👤 seekdeep
+
+### 17. [Surelock: Deadlock-Free Mutexes for Rust](https://notes.brooklynzelenka.com/Blog/Surelock)
+
+- ⭐ 201 分｜💬 66 留言｜👤 codetheweb
+
+### 18. [Show HN: Pardonned.com – A searchable 資料庫 of US Pardons](https://news.ycombinator.com/item?id=47727960)
 
 https:&#x2F;&#x2F;pardonned.comInspired by the videos of Liz Oyer, I wanted to be able to verify her claims and just look up all the pardons more easily.Tech Stack: 
  Playwright - to sccrape the DOJ w
 
-- ⭐ 372 分｜💬 202 留言｜👤 vidluther
+- ⭐ 415 分｜💬 230 留言｜👤 vidluther
 
-### 15. [The Life and Death of the Book Review](https://libertiesjournal.com/articles/the-life-and-death-of-the-book-review/)
+### 19. [如何 構建 a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 
-- ⭐ 18 分｜💬 4 留言｜👤 lermontov
+- ⭐ 105 分｜💬 12 留言｜👤 zdw
 
-### 16. [Every plane you see in the sky – you can now follow it from the cockpit in 3D](https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123)
+### 20. [Who was "Not Even Wrong" first? [2023]](https://www.math.columbia.edu/~woit/wordpress/?p=13455)
 
-- ⭐ 247 分｜💬 52 留言｜👤 coolwulf
+- ⭐ 5 分｜💬 2 留言｜👤 bookofjoe
 
-### 17. [Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy)
+### 21. [軟體 Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/)
 
-- ⭐ 79 分｜💬 21 留言｜👤 tanelpoder
+- ⭐ 17 分｜💬 2 留言｜👤 quuxplusone
 
-### 18. [Midnight Captain – A midnight commander inspired file 經理](https://github.com/duguyue100/midnight-captain)
+### 22. [The Soul of an Old Machine](https://skalski.dev/the-soul-of-an-old-machine/)
 
-- ⭐ 7 分｜💬 3 留言｜👤 duguyue100
+- ⭐ 48 分｜💬 10 留言｜👤 mskalski
 
-### 19. [Building Slogbox](https://alexrios.me/blog/slogbox-devlog/)
+### 23. [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
 
-- ⭐ 4 分｜💬 1 留言｜👤 zimpenfish
+- ⭐ 19 分｜💬 6 留言｜👤 maxloh
 
-### 20. [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/)
+### 24. [什麼是 a property?](https://alperenkeles.com/posts/what-is-a-property/)
 
-- ⭐ 256 分｜💬 30 留言｜👤 marvinborner
+- ⭐ 68 分｜💬 19 留言｜👤 alpaylan
 
-### 21. [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
+### 25. [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/)
 
-- ⭐ 107 分｜💬 36 留言｜👤 ShaggyHotDog
+- ⭐ 284 分｜💬 31 留言｜👤 marvinborner
 
-### 22. [新 synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en)
+### 26. [Every plane you see in the sky – you can now follow it from the cockpit in 3D](https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123)
 
-- ⭐ 39 分｜💬 4 留言｜👤 anigbrowl
+- ⭐ 312 分｜💬 58 留言｜👤 coolwulf
 
-### 23. [The APL 程式設計 language source 代碼 (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
+### 27. [The APL 程式設計 language source 代碼 (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
 
-- ⭐ 43 分｜💬 9 留言｜👤 tosh
+- ⭐ 65 分｜💬 20 留言｜👤 tosh
 
-### 24. [The future of everything is lies, I guess – Part 5: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
+### 28. [Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy)
 
-- ⭐ 221 分｜💬 131 留言｜👤 aphyr
+- ⭐ 93 分｜💬 25 留言｜👤 tanelpoder
 
-### 25. [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+### 29. [新 synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en)
 
-- ⭐ 1304 分｜💬 612 留言｜👤 normanvalentine
+- ⭐ 57 分｜💬 13 留言｜👤 anigbrowl
 
-### 26. [South Korea 引進 universal basic 行動 data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
+### 30. [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 
-- ⭐ 326 分｜💬 91 留言｜👤 saikatsg
-
-### 27. [Layoff Thinking](https://blogs.newardassociates.com/blog/2026/layoff-thinking.html)
-
-- ⭐ 61 分｜💬 63 留言｜👤 zdw
-
-### 28. [Phone Trips](http://www.wideweb.com/phonetrips/)
-
-- ⭐ 61 分｜💬 6 留言｜👤 bookofjoe
-
-### 29. [How Passive Radar Works](https://www.passiveradar.com/how-passive-radar-works/)
-
-- ⭐ 159 分｜💬 47 留言｜👤 surprisetalk
-
-### 30. [Previously unknown verses by Empedocles found on papyrus](https://www.thehistoryblog.com/archives/75792)
-
-- ⭐ 68 分｜💬 14 留言｜👤 danielam
+- ⭐ 120 分｜💬 43 留言｜👤 ShaggyHotDog
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Filing the corners off my MacBooks
+- Method to reverse cellular ageing is about to be tested in humans
+- Midnight Captain – A midnight commander inspired file 經理
+- The future of everything is lies, I guess – Part 5: Annoyances
+- The Life and Death of the Book Review
+- South Korea 引進 universal basic 行動 data access
+- Building Slogbox
+- Phone Trips
+- Previously unknown verses by Empedocles found on papyrus
 - Starfling: A one-tap endless orbital slingshot game in a single HTML file
-- How much linear memory access is enough?
-- France's government is ditching Windows for Linux, says US tech a strategic risk
-- Bitcoin miners are losing on every coin produced as difficulty drops
+- How Passive Radar Works
+- Layoff Thinking
 - Brocards for Vulnerability Triage
-- Productive Procrastination
-- Cooperative Vectors Introduction
-- Volunteers turn a fan's recordings of 10K concerts into an online treasure trove
+- France's government is ditching Windows for Linux, says US tech a strategic risk
 - Now is the 最佳 time to write 代碼 by hand
+- Productive Procrastination
+- How much linear memory access is enough?
 - 1D Chess
+- Volunteers turn a fan's recordings of 10K concerts into an online treasure trove
+- Bitcoin miners are losing on every coin produced as difficulty drops
 - Bevy game development tutorials and in-depth resources
-- Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom
+- Emergency Prices: How Private Equity Captured the Ambulance Market
 - The Zettelkasten method in Obsidian
-- Mexican surveillance company Grupo Seguritech watches the U.S. border
+- Cooperative Vectors Introduction
+- EPA Moves to Ease Coal Ash Regulations for Power Plants
+- The biggest advance in AI since the 大型語言模型
 - Italo Calvino: A traveller in a world of uncertainty
-- Installing every* Firefox extension
 - Chimpanzees in Uganda locked in eight-year 'civil war', say researchers
-- Quien – A better WHOIS lookup tool
-- AI assistance when contributing to the Linux kernel
-- Borges' cartographers and the tacit skill of reading LM output
+- Installing every* Firefox extension
 - OpenClaw’s memory is unreliable, and you don’t know when it will break
+- CDC director delays report showing Covid vaccine benefits
+- AI assistance when contributing to the Linux kernel
 - The Bra-and-Girdle Maker That Fashioned the Impossible for NASA
-- Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid
-- 14,000 Images of the French Revolution 發布 Online (2014)
+- Quien – A better WHOIS lookup tool
+- Vance Says U.S.-Iran Peace Talks Break Down over Nuclear Issue
+- Bild AI (YC W25) Is 招聘 a Founding Product 工程師
+- Americans still opt for print books over digital or audio versions
 - Launch HN: Twill.AI (YC S25) – Delegate to 雲端 agents, get back PRs
 - WireGuard makes 新 Windows release following Microsoft signing resolution
-- Sybilproof reputation mechanisms (2005) [pdf]
-- Bild AI (YC W25) Is 招聘 a Founding Product 工程師
-- Artemis II safely splashes down
+- Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom
+- Mexican surveillance company Grupo Seguritech watches the U.S. border
 - Clojure on Fennel Part One: Persistent Data Structures
-- Windows Defender Is Being Used to Hack Windows
+- Borges' cartographers and the tacit skill of reading LM output
+- Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid
+- Artemis II safely splashes down
+- Oxygen made from Moon dust for first time
+- USB/IP Project: a general USB device sharing 系統 over IP 網絡
 - Nowhere is safe
-- The Center Has a Bias
-- Industrial design files for Keychron keyboards and mice
-- Penguin 'Toxicologists' Find PFAS Chemicals in 遠端 Patagonia
-- Show HN: FluidCAD – Parametric CAD with JavaScript
-- A Brief History of Lab Notebooks
-- You can't trust macOS Privacy and 安全 settings
-- Investigating Split Locks on x86-64
-- CPU-Z and HWMonitor compromised
 - Team from ETH Zurich make high quality quantum swap gate using a geometric phase
-- 20 years on AWS and never not my 工作
-- France to ditch Windows for Linux to reduce reliance on US tech
+- Industrial design files for Keychron keyboards and mice
 - We've raised $17M to 構建 what comes after Git
+- Penguin 'Toxicologists' Find PFAS Chemicals in 遠端 Patagonia
+- CPU-Z and HWMonitor compromised
+- You can't trust macOS Privacy and 安全 settings
+- Show HN: FluidCAD – Parametric CAD with JavaScript
+- Sybilproof reputation mechanisms (2005) [pdf]
+- France to ditch Windows for Linux to reduce reliance on US tech
+- Iran and US fail to reach a deal (conomictimes.indiatimes.com)
 - 代碼 is run more than read (2023)
-- A 新 Way to Spray Paint Color
-- Polymarket gamblers betting millions on war
+- 14,000 Images of the French Revolution 發布 Online (2014)
 - Helium is hard to replace
-- One neat trick to end extreme poverty
-- AI Is Tipping the Scales Toward Hackers After Mythos Release
+- Investigating Split Locks on x86-64
+- U.S. Intelligence Shows China Taking a More Active Role in Iran War
 - JSON formatter Chrome plugin now closed and injecting adware
-- Pizza Legacy an Open-Source Reimplementation of Pizza Connection (Pizza Tycoon)
-- BlueHammer abuses Windows Defender's 更新 process to gain 系統 access
-- Several Mac mini and Mac Studio configs are now out of stock at Apple
-- It Has Always Been About Data, All the Way Down
-- The disturbing white paper Red Hat is trying to erase from the internet
-- Can It Resolve Doom? Game Engine in 2k DNS Records
-- FBI used iPhone notification data to retrieve deleted Signal messages
-- Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]
-- I Just Want Simple S3
-- 熱門 Performers Are Pathologically Ambitious
+- 20 years on AWS and never not my 工作
 - I ported Mac OS X to the Nintendo Wii
-- How NASA built Artemis II’s fault-tolerant computer
-- Show HN: Eve – Managed OpenClaw for work
-- 1 in 30 – Artemis, Greatness, and Risk
-- Show HN: A WYSIWYG word processor in Python
-- The difficulty of making sure your website is broken
+- The Center Has a Bias
+- I Just Want Simple S3
+- FBI used iPhone notification data to retrieve deleted Signal messages
 - LittleSnitch for Linux
-- 40x Faster Binary Search
-- 什麼是 RISC-V and 為什麼 it matters to Canonical
 
 
 ---
