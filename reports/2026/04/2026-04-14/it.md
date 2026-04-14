@@ -4,202 +4,208 @@
 
 ---
 
-### 1. [什麼是 jj and 為什麼 should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
+### 1. [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
 
-- ⭐ 107 分｜💬 58 留言｜👤 tigerlily
+- ⭐ 161 分｜💬 56 留言｜👤 speckx
 
-### 2. [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+### 2. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
 
-- ⭐ 725 分｜💬 191 留言｜👤 thebiblelover7
+- ⭐ 336 分｜💬 97 留言｜👤 jrm-veris
 
-### 3. [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)
+### 3. [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)
 
-- ⭐ 34 分｜💬 8 留言｜👤 moigagoo
+- ⭐ 231 分｜💬 198 留言｜👤 akyuu
 
-### 4. [A 新 spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
+### 4. [Claude 代碼 Routines](https://code.claude.com/docs/en/routines)
 
-- ⭐ 497 分｜💬 295 留言｜👤 zdw
+- ⭐ 136 分｜💬 85 留言｜👤 matthieu_bl
 
-### 5. [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
+### 5. [5NF and 資料庫 Design](https://kb.databasedesignbook.com/posts/5nf/)
 
-- ⭐ 349 分｜💬 218 留言｜👤 rrreese
+- ⭐ 68 分｜💬 22 留言｜👤 petalmind
 
-### 6. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
+### 6. [40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal](https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b)
 
-- ⭐ 1029 分｜💬 293 留言｜👤 speckx
+- ⭐ 52 分｜💬 46 留言｜👤 randycupertino
 
-### 7. [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
+### 7. [Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)
 
-- ⭐ 99 分｜💬 26 留言｜👤 zagwdt
+- ⭐ 25 分｜💬 15 留言｜👤 speckx
 
-### 8. [GitHub Stacked PRs](https://github.github.com/gh-stack/)
+### 8. [Turn your 最佳 AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
 
-- ⭐ 770 分｜💬 421 留言｜👤 ezekg
+- ⭐ 19 分｜💬 5 留言｜👤 xnx
 
-### 9. [Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict](https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/)
+### 9. [A 新 spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
 
-- ⭐ 49 分｜💬 22 留言｜👤 rfarley04
+- ⭐ 743 分｜💬 440 留言｜👤 zdw
 
-### 10. [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025)
+### 10. [Let's Talk Space Toilets](https://mceglowski.substack.com/p/lets-talk-space-toilets)
 
-- ⭐ 38 分｜💬 28 留言｜👤 adulion
+- ⭐ 52 分｜💬 12 留言｜👤 zdw
 
-### 11. [Distributed DuckDB Instance](https://github.com/citguru/openduck)
+### 11. [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
 
-- ⭐ 91 分｜💬 20 留言｜👤 citguru
+- ⭐ 54 分｜💬 6 留言｜👤 petecooper
 
-### 12. [The M×N problem of tool calling and open-source models](https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract)
+### 12. [Show HN: LangAlpha – what if Claude 代碼 was built for Wall Street?](https://github.com/ginlix-ai/langalpha)
 
-- ⭐ 30 分｜💬 7 留言｜👤 remilouf
+Some technical context on what we ran into building this.MCP tools don&#x27;t really work for financial data at scale. One tool call for five years of daily prices dumps tens of thousands of tokens in
 
-### 13. [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- ⭐ 52 分｜💬 15 留言｜👤 zc2610
 
-- ⭐ 296 分｜💬 138 留言｜👤 bumbledraven
+### 13. [guide.world: A compendium of travel guides](https://guide.world/)
 
-### 14. [The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain](https://publicdomainreview.org/essay/the-great-majority/)
+- ⭐ 11 分｜💬 2 留言｜👤 firloop
 
-- ⭐ 8 分｜💬 1 留言｜👤 apollinaire
+### 14. [Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others](https://rareese.com/posts/backblaze/)
 
-### 15. [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
+- ⭐ 782 分｜💬 484 留言｜👤 rrreese
 
-- ⭐ 187 分｜💬 85 留言｜👤 throwawayk7h
+### 15. [jj – the CLI for Jujutsu](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
 
-### 16. [Multi-Agentic 軟體 Development Is a Distributed Systems Problem](https://kirancodes.me/posts/log-distributed-llms.html)
+- ⭐ 414 分｜💬 354 留言｜👤 tigerlily
 
-- ⭐ 59 分｜💬 22 留言｜👤 tie-in
+### 16. [Carol's Causal Conundrum: a zine intro to causally ordered message delivery](https://decomposition.al/zines/)
 
-### 17. [MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres](https://github.com/lasect/pg_6502)
+- ⭐ 21 分｜💬 2 留言｜👤 evakhoury
 
-- ⭐ 42 分｜💬 3 留言｜👤 adunk
+### 17. [Show HN: Kontext CLI – Credential broker for AI coding agents in Go](https://github.com/kontext-dev/kontext-cli)
 
-### 18. [A soft robot has no problem moving with no motor and no gears](https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears)
+We built the Kontext CLI because AI coding agents need access to GitHub, Stripe, databases, and dozens of other services — and right now most teams handle this by copy-pasting long-lived API keys into
 
-- ⭐ 45 分｜💬 11 留言｜👤 hhs
+- ⭐ 47 分｜💬 14 留言｜👤 mc-serious
 
-### 19. [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
+### 18. [Show HN: Kelet – Root Cause Analysis 代理 for your 大型語言模型 apps](https://kelet.ai/)
 
-- ⭐ 443 分｜💬 243 留言｜👤 m-hodges
+I&#x27;ve spent the past few years building 50+ AI agents in prod (some reached 1M+ sessions&#x2F;day), and the hardest part was never building them — it was figuring out 為什麼 they fail.AI agents don&#
 
-### 20. [The exponential curve behind 開源 backlogs](https://armanckeser.com/writing/jellyfin-flow)
+- ⭐ 30 分｜💬 18 留言｜👤 almogbaku
 
-- ⭐ 3 分｜💬 0 留言｜👤 armanckeser
+### 19. [The Mouse 程式設計 Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/)
 
-### 21. [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/)
+- ⭐ 20 分｜💬 2 留言｜👤 PaulHoule
 
-- ⭐ 408 分｜💬 273 留言｜👤 t-3
+### 20. [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
 
-### 22. [Design and implementation of DuckDB internals](https://duckdb.org/library/design-and-implementation-of-duckdb-internals/)
+- ⭐ 191 分｜💬 38 留言｜👤 zagwdt
 
-- ⭐ 146 分｜💬 9 留言｜👤 mpweiher
+### 21. [Show HN: A memory 資料庫 that forgets, consolidates, and detects contradiction](https://github.com/yantrikos/yantrikdb-server)
 
-### 23. [Lumina – a statically typed 網頁-native language for JavaScript and WASM](https://github.com/nyigoro/lumina-lang)
+Vector databases store memories. They don&#x27;t manage them. After 10k memories, recall quality degrades because there&#x27;s no consolidation, no forgetting, no conflict resolution. Your AI 代理 ju
 
-- ⭐ 25 分｜💬 7 留言｜👤 light_ideas
+- ⭐ 12 分｜💬 6 留言｜👤 pranabsarkar
 
-### 24. [The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/)
+### 22. [Nucleus Nouns](https://ben-mini.com/2026/nucleus-nouns)
 
-- ⭐ 4 分｜💬 1 留言｜👤 coinfused
+- ⭐ 38 分｜💬 10 留言｜👤 bewal416
 
-### 25. [Rust Threads on the GPU](https://www.vectorware.com/blog/threads-on-gpu/)
+### 23. [Franklin's bad ads for Apple II clones and the beloved impersonator they depict](https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/)
 
-- ⭐ 92 分｜💬 28 留言｜👤 PaulHoule
+- ⭐ 111 分｜💬 64 留言｜👤 rfarley04
 
-### 26. [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
+### 24. [The M×N problem of tool calling and open-source models](https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract)
 
-- ⭐ 122 分｜💬 108 留言｜👤 WillDaSilva
+- ⭐ 101 分｜💬 34 留言｜👤 remilouf
 
-### 27. [Write less 代碼, be more responsible](https://blog.orhun.dev/code-responsibly/)
+### 25. [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)
 
-- ⭐ 118 分｜💬 66 留言｜👤 orhunp_
+- ⭐ 972 分｜💬 250 留言｜👤 thebiblelover7
 
-### 28. [Make tmux pretty and usable (2024)](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+### 26. [The acyclic e-graph: Cranelift's mid-end optimizer](https://cfallin.org/blog/2026/04/09/aegraph/)
 
-- ⭐ 402 分｜💬 248 留言｜👤 speckx
+- ⭐ 49 分｜💬 13 留言｜👤 tekknolagi
 
-### 29. [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)
+### 27. [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
 
-N-Day-Bench tests whether frontier LLMs can find known 安全 vulnerabilities in real repository 代碼. Each month it pulls fresh cases from GitHub 安全 advisories, checks out the repo at the las
+- ⭐ 52 分｜💬 11 留言｜👤 speckx
 
-- ⭐ 80 分｜💬 26 留言｜👤 mufeedvh
+### 28. [Show HN: Plain – The full-stack Python framework designed for humans and agents](https://github.com/dropseed/plain)
 
-### 30. [Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/)
+- ⭐ 7 分｜💬 0 留言｜👤 focom
 
-- ⭐ 392 分｜💬 308 留言｜👤 edent
+### 29. [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+
+- ⭐ 359 分｜💬 163 留言｜👤 bumbledraven
+
+### 30. [The future of everything is lies, I guess: Work](https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work)
+
+- ⭐ 208 分｜💬 170 留言｜👤 aphyr
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Distributed DuckDB Instance
+- Someone bought 30 WordPress plugins and planted a backdoor in all of them
+- For the first time in the U.S., renewables generate more power than natural gas
+- WiiFin – Jellyfin Client for Nintendo Wii
+- Multi-Agentic 軟體 Development Is a Distributed Systems Problem
+- Zig 0.16.0 Release Notes
+- NimConf 2026: Dates Announced, Registrations Open
+- GitHub Stacked PRs
+- A soft robot has no problem moving with no motor and no gears
+- Show HN: Run GUIs as Scripts
+- Amazon acquires Apple's satellite partner
+- War as a Pretext: Gulf States Are Tightening the Screws on Speech–Again
+- Design and implementation of DuckDB internals
+- Lumina – a statically typed 網頁-native language for JavaScript and WASM
+- Write less 代碼, be more responsible
+- MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres
 - 如何 make Firefox builds 17% faster
+- All 5 units of life's genetic 代碼 were just discovered in an asteroid sample
+- On hacker mindset
 - I just want simple S3
-- Ask HN: I quit my 工作 over weaponized robots to start my own venture
 - Building a CLI for all of Cloudflare
+- Rust Threads on the GPU
+- The exponential curve behind 開源 backlogs
+- The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain
+- To teach in the era of ChatGPT is to know pain
 - Air Powered Segment Display? [video]
-- Anastasia (1997) live action reference material
-- TanStack Start Now Support React 伺服器 Components
 - Tracking down a 25% Regression on LLVM RISC-V
-- I shipped a transaction bug, so I built a linter
+- Single-Dose Creatine Reduces Sleep Deprivation-Induced Deterioration
+- N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?
 - GAIA – Open-source framework for building AI agents that run on local 硬體
+- Google, Microsoft, Meta All Tracking You Even When You Opt Out
+- Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets
+- PyCon US 2026: 為什麼 we're asking you to think about your hotel reservation
+- My brother's minesweeper site (minesweeper.org) has been running for 27 years
+- US appeals court declares 158-year-old home distilling ban unconstitutional
+- Stanford HAI Index Report 2026
 - What we learned building a Rust runtime for TypeScript
-- Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)
+- Anastasia (1997) live action reference material
 - Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours
+- The impact of AI on 軟體 engineers in 2026: key trends
 - Visualizing CPU Pipelining (2024)
-- B-trees and 資料庫 indexes (2024)
+- The secrets of the Shinkansen
+- I Found It: The 最佳 Free Restaurant Bread in America
 - Servo is now available on crates.io
-- Roblox devs now need a subscription to share their games freely
-- A name is succession, legacy and celebration in Japan's Kabuki theater
-- Show HN: A stateful UI runtime for reactive 網頁 apps in Go
-- The Journal of C Language Translation
-- MEMS Array Chip Can Project Video the Size of a Grain of Sand
-- Initial mainline video capture and camera support for Rockchip RK3588
 - Repository Pattern with Hygienic Macros in Scheme – Lisp
-- Can Claude Fly a Plane?
-- If you started a company two years ago, many assumptions are no longer true
-- 介紹 Obsidian
-- All elementary functions from a single binary operator
-- 為什麼 it’s impossible to measure England’s coastline
-- Bear Roll – Daily roll of Bear Blog's 熱門 posts
-- The AI revolution in math has arrived
-- Tool to explore regularly sampled time series
-- Microsoft isn't removing Copilot from Windows 11, it's just renaming it
-- I ran Gemma 4 as a local 模型 in Codex CLI
-- UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism
-- We need Post-Quantum Cryptography more than ever
-- Exploiting the most prominent AI 代理 benchmarks
-- The Future of Everything Is Lies, I Guess: Safety
-- Just Enough Chimera Linux
-- This year’s insane timeline of hacks
-- An open letter to the UK Government on digital privacy
-- 新 Orleans's Car-Crash Conspiracy
-- Tax Wrapped 2025
-- Ascending into the Realm of Japanese Charts
-- Michigan 'digital age' bills pulled after privacy concerns raised
-- Show HN: Pushduck – S3 uploads that run on Cloudflare Workers, no AWS SDK
-- Claude 代碼 may be burning your limits with invisible tokens
-- Sometimes powerful people just do dumb shit
-- Verification Debt Is Your Next Headache
+- Make tmux pretty and usable (2024)
 - EasyPost (YC S13) Is 招聘
-- The economics of 軟體 teams: 為什麼 most engineering orgs are flying blind
-- State of Homelab 2026
-- DIY Soft Drinks
-- Bring Back Idiomatic Design (2023)
-- Microsoft exec suggests AI agents will need to buy licenses, just like employees
-- Seven countries now generate nearly all their electricity from renewables (2024)
-- JVM Options Explorer
-- Who's Been Impersonating This ProPublica Reporter?
-- Mastodon gets Sovereign Tech Agency funding
-- Show HN: boringBar – a taskbar-style dock replacement for macOS
-- Taking on CUDA with ROCm: 'One Step After Another'
-- Is math big or small?
-- Pro Max 5x quota exhausted in 1.5 hours despite moderate usage
-- In Denmark, the spread of solar panels has become a divisive issue
-- The looming college-enrollment death spiral
-- Colossal Pressure: Russia targets university students for military recruitment
-- Google has a secret reference desk
-- Show HN: Continual Learning with .md
-- How long-distance couples use digital games to facilitate intimacy (2025)
-- Most people can't juggle one ball
-- Apple's accidental moat: How the "AI Loser" may end up winning
+- B-trees and 資料庫 indexes (2024)
+- Android now stops you sharing your location in photos
+- Initial mainline video capture and camera support for Rockchip RK3588
+- All elementary functions from a single binary operator
+- MEMS Array Chip Can Project Video the Size of a Grain of Sand
+- The AI revolution in math has arrived
+- The Case Against Gameplay Loops (2024)
+- If you started a company two years ago, many assumptions are no longer true
+- Exploiting the most prominent AI 代理 benchmarks
+- I ran Gemma 4 as a local 模型 in Codex CLI
+- 介紹 Obsidian
+- Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)
+- US Treasury Seeking Access to Anthropic's Mythos to Find Flaws
+- 為什麼 it’s impossible to measure England’s coastline
+- Man suspected of Molotov attack Sam Altmans home charged with attempted murder
+- I shipped a transaction bug, so I built a linter
+- The Journal of C Language Translation
+- Microsoft isn't removing Copilot from Windows 11, it's just renaming it
+- The Future of Everything Is Lies, I Guess: Safety
+- Tool to explore regularly sampled time series
+- Stolen Rockstar Games analytics data leaked by extortion gang
+- Claude 代碼 may be burning your limits with invisible tokens
+- Just Enough Chimera Linux
 
 
 ---
