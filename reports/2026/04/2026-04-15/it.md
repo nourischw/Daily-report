@@ -4,200 +4,204 @@
 
 ---
 
-### 1. [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
+### 1. [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 
-- ⭐ 177 分｜💬 51 留言｜👤 downbad_
+- ⭐ 70 分｜💬 23 留言｜👤 i5heu
 
-### 2. [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)
+### 2. [開源 Isn't Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats)
 
-- ⭐ 120 分｜💬 50 留言｜👤 downbad_
+- ⭐ 217 分｜💬 127 留言｜👤 bearsyankees
 
-### 3. [Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis](https://en.wikipedia.org/wiki/Costasiella_kuroshimae)
+### 3. [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
 
-- ⭐ 57 分｜💬 20 留言｜👤 vinnyglennon
+- ⭐ 346 分｜💬 77 留言｜👤 speckx
 
-### 4. [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
+### 4. [Google Broke Its Promise to Me. Now ICE Has My Data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
 
-- ⭐ 189 分｜💬 71 留言｜👤 snoofydude
+- ⭐ 290 分｜💬 88 留言｜👤 Brajeshwar
 
-### 5. [Claude 代碼 Routines](https://code.claude.com/docs/en/routines)
+### 5. [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
 
-- ⭐ 661 分｜💬 372 留言｜👤 matthieu_bl
+- ⭐ 383 分｜💬 118 留言｜👤 downbad_
 
-### 6. [Google Gemma 4 Runs Natively on iPhone with Full Offline AI 推論](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+### 6. [Fix monitor that goes black, off or blinks due to static electricity in chair](https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/)
 
-- ⭐ 96 分｜💬 69 留言｜👤 takumi123
+- ⭐ 35 分｜💬 19 留言｜👤 cyclopeanutopia
 
-### 7. [Metro stop is Ancient Rome's 新 attraction](https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome)
+### 7. [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
 
-- ⭐ 19 分｜💬 3 留言｜👤 Stevvo
+- ⭐ 41 分｜💬 26 留言｜👤 thm
 
-### 8. [Proliferate (YC S25) Is 招聘 Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
+### 8. [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)
 
-- ⭐ 1 分｜💬 0 留言｜👤 pablo24602
+- ⭐ 294 分｜💬 136 留言｜👤 downbad_
 
-### 9. [Wacli – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
+### 9. [Adaptional (YC S25) Is 招聘 Founding AI Engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
 
-- ⭐ 142 分｜💬 106 留言｜👤 dinakars777
+- ⭐ 1 分｜💬 0 留言｜👤 acesohc
 
-### 10. [Direct Win32 API, Weird-Shaped Windows, and 為什麼 They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
+### 10. [Show HN: Libretto – Making AI browser automations deterministic](https://github.com/saffron-health/libretto)
 
-- ⭐ 92 分｜💬 48 留言｜👤 birdculture
+Libretto (https:&#x2F;&#x2F;libretto.sh) is a Skill+CLI that makes it easy for your coding 代理 to generate deterministic browser automations and debug existing ones. Key shift is going from “give an
 
-### 11. [A communist Apple II and fourteen years of not knowing what you're testing](https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/)
+- ⭐ 40 分｜💬 8 留言｜👤 muchael
 
-- ⭐ 198 分｜💬 87 留言｜👤 major4x
+### 11. [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why)
 
-### 12. [新 bill would let 新 Yorkers hang solar panels from windows](https://gothamist.com/news/here-comes-the-sun-new-bill-would-let-new-yorkers-hang-solar-panels-from-windows)
+- ⭐ 57 分｜💬 84 留言｜👤 Benjamin_Dobell
 
-- ⭐ 15 分｜💬 15 留言｜👤 geox
+### 12. [Forcing an inversion of control on the SaaS stack](https://www.100x.bot/a/client-side-injection-inversion-of-control-saas)
 
-### 13. [MIT Radiation Laboratory](https://www.ll.mit.edu/about/history/mit-radiation-laboratory)
+- ⭐ 44 分｜💬 32 留言｜👤 shardullavekar
 
-- ⭐ 15 分｜💬 2 留言｜👤 stmw
+### 13. [Do you even need a 資料庫?](https://www.dbpro.app/blog/do-you-even-need-a-database)
 
-### 14. [Picasso’s Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59)
+- ⭐ 111 分｜💬 185 留言｜👤 upmostly
 
-- ⭐ 166 分｜💬 59 留言｜👤 guigar
+### 14. [Show HN: GNU Grep as a PHP Extension](https://github.com/hparadiz/ext-gnu-grep)
 
-### 15. [Stop Flock](https://stopflock.com)
+- ⭐ 12 分｜💬 0 留言｜👤 hparadiz
 
-- ⭐ 791 分｜💬 206 留言｜👤 cdrnsf
+### 15. [How do Wake-On-LAN works](https://blog.xaner.dev/post/wake-on-lan/)
 
-### 16. [Installing OpenBSD on the Pomera DM250 Writerdeck](https://jcs.org/2026/04/09/openbsd-dm250)
+- ⭐ 49 分｜💬 16 留言｜👤 swq115
 
-- ⭐ 50 分｜💬 11 留言｜👤 djfergus
+### 16. [Anna's Archive loses $322M Spotify piracy case without a fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
 
-### 17. [什麼是 in Road Flares?](https://www.spiegl.org/rocket/flare/flare.html)
+- ⭐ 189 分｜💬 209 留言｜👤 askl
 
-- ⭐ 24 分｜💬 11 留言｜👤 hyperific
+### 17. [The Future of Everything Is Lies, I Guess: 新 Jobs](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs)
 
-### 18. [5NF and 資料庫 Design](https://kb.databasedesignbook.com/posts/5nf/)
+- ⭐ 198 分｜💬 133 留言｜👤 aphyr
 
-- ⭐ 179 分｜💬 67 留言｜👤 petalmind
+### 18. [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)
 
-### 19. [Turn your 最佳 AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
+- ⭐ 160 分｜💬 51 留言｜👤 markerbrod
 
-- ⭐ 177 分｜💬 94 留言｜👤 xnx
+### 19. [CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on 測試 That Made It Famous](https://seqpu.com/CPUsArentDead/)
 
-### 20. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+- ⭐ 76 分｜💬 41 留言｜👤 fredmendoza
 
-- ⭐ 668 分｜💬 195 留言｜👤 jrm-veris
+### 20. [Wacli – WhatsApp CLI](https://github.com/steipete/wacli)
 
-### 21. [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
+- ⭐ 209 分｜💬 140 留言｜👤 dinakars777
 
-- ⭐ 98 分｜💬 22 留言｜👤 mirzap
+### 21. [Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis](https://en.wikipedia.org/wiki/Costasiella_kuroshimae)
 
-### 22. [Amazon to acquire Globalstar and expand Amazon Leo satellite 網絡](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network)
+- ⭐ 116 分｜💬 49 留言｜👤 vinnyglennon
 
-- ⭐ 91 分｜💬 66 留言｜👤 homarp
+### 22. [Where did my taxes go?](https://wherethefuckdidmytaxesgo.com/)
 
-### 23. [My adventure in designing API keys](https://vjay15.github.io/blog/apikeys/)
+- ⭐ 86 分｜💬 127 留言｜👤 kacy
 
-- ⭐ 81 分｜💬 64 留言｜👤 vjay15
+### 23. [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
 
-### 24. [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
+- ⭐ 239 分｜💬 138 留言｜👤 snoofydude
 
-- ⭐ 138 分｜💬 97 留言｜👤 pabs3
+### 24. [Pretty Fish: A better mermaid diagram editor](https://pretty.fish/)
 
-### 25. [Let's talk space toilets](https://mceglowski.substack.com/p/lets-talk-space-toilets)
+- ⭐ 105 分｜💬 21 留言｜👤 pastelsky
 
-- ⭐ 197 分｜💬 52 留言｜👤 zdw
+### 25. [Metro stop is Ancient Rome's 新 attraction](https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome)
 
-### 26. [Guide.world: A compendium of travel guides](https://guide.world/)
+- ⭐ 90 分｜💬 22 留言｜👤 Stevvo
 
-- ⭐ 126 分｜💬 21 留言｜👤 firloop
+### 26. [We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video]](https://www.youtube.com/watch?v=cltnlks2-uU)
 
-### 27. [The dangers of California's legislation to censor 3D printing](https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing)
+- ⭐ 47 分｜💬 17 留言｜👤 zdw
 
-- ⭐ 441 分｜💬 386 留言｜👤 salkahfi
+### 27. [Google Gemma 4 Runs Natively on iPhone with Full Offline AI 推論](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
-### 28. [PCBWay sponsorship: full-size SD module for Arduino projects](https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/)
+- ⭐ 238 分｜💬 158 留言｜👤 takumi123
 
-- ⭐ 31 分｜💬 26 留言｜👤 ibobev
+### 28. [Show HN: Every CEO and CFO change at US public companies, live from SEC](https://tracksuccession.com/explore)
 
-### 29. [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900)
+Built this solo. It watches SEC filings for executive and board changes, extracts the data, and shows it in real time. 2,100+ changes in the last 30 days. The comp data is interesting: average 新 CEO
 
-- ⭐ 204 分｜💬 172 留言｜👤 rcarmo
+- ⭐ 152 分｜💬 60 留言｜👤 porsche959
 
-### 30. [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
+### 29. [Study: Back-to-basics approach can match or outperform AI in language analysis](https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/)
 
-- ⭐ 116 分｜💬 87 留言｜👤 mmastrac
+- ⭐ 32 分｜💬 15 留言｜👤 giuliomagnifico
+
+### 30. [The tiniest e-reader in the world, and you can 構建 one yourself](https://www.androidauthority.com/tiny-e-reader-diy-3657661/)
+
+- ⭐ 34 分｜💬 6 留言｜👤 Brajeshwar
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Tell HN: Fiverr left customer files public and searchable
-- I wrote to Flock's privacy contact to opt out of their domestic spying program
-- DaVinci Resolve – Photo
-- A 新 spam policy for “back button hijacking”
-- Claude may require identity verification in some cases
-- What Claude 代碼's Source Revealed About AI Engineering Culture
-- Someone bought 30 WordPress plugins and planted a backdoor in all of them
-- Troubleshooting Email Delivery to Microsoft Users
-- 'Seeking connection': video game where players stopped shooting, started talking
-- jj – the CLI for Jujutsu
-- Distributed DuckDB Instance
-- The M×N problem of tool calling and open-source models
-- OpenSSL 4.0.0
-- Hazardous States and Accidents
-- Show HN: LangAlpha – what if Claude 代碼 was built for Wall Street?
-- Don't feel like exercising? Maybe it's the wrong time of day for you
-- Your codebase doesn't care how it got written
-- Game: Print Gallery Of An Artist, A brief exploration of recursive spaces
-- Show HN: Plain – The full-stack Python framework designed for humans and agents
-- Fuck the 雲端 (2009)
-- GitHub Stacked PRs
-- Seed: Adding `vau` with an immutable dynamic environment to Chez Scheme
-- Trusted access for the next era of cyber defense
-- 為什麼 Is France Moving from Microsoft Windows to Linux
-- Saying goodbye to Agile
-- Carol's Causal Conundrum: a zine intro to causally ordered message delivery
-- Multi-Agentic 軟體 Development Is a Distributed Systems Problem
-- Nucleus Nouns
-- I just want simple S3
-- Apple App Store threatened to remove Grok over deepfakes: Letter
-- Scientists discover 為什麼 bread can cause weight gain without extra calories
-- Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others
-- The Death of an AI Whistleblower
-- A soft robot has no problem moving with no motor and no gears
-- Design and implementation of DuckDB internals
-- Founders Need to Be Ruthless When Chasing Deals
-- The acyclic e-graph: Cranelift's mid-end optimizer
-- Has_not_been_viewed_much
-- Gas Town: From Clown Show to v1.0
-- AgentFM – A single Go binary that turns idle GPUs into a P2P AI grid
-- On hacker mindset
-- Free, fast diagnostic tools for DNS, email authentication, and 網絡 安全
-- Lean proved this program correct; then I found a bug
-- Introspective Diffusion Language Models
-- Tracking down a 25% Regression on LLVM RISC-V
-- Write less 代碼, be more responsible
-- Air Powered Segment Display? [video]
-- YouTube now world's largest media company, topping Disney
-- MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres
-- Rust Threads on the GPU
-- US appeals court declares 158-year-old home distilling ban unconstitutional
-- GAIA – Open-source framework for building AI agents that run on local 硬體
+- AI ruling prompts warnings from US lawyers: Your chats could be used against you
+- Dependency cooldowns turn you into a free-rider
+- Users lose $9.5M to fake Ledger wallet app on the Apple App Store
+- Not all elementary functions can be expressed with exp-minus-log
+- MIT Radiation Laboratory
+- A communist Apple II and fourteen years of not knowing what you're testing
+- Elevated errors on Claude.AI, API, Claude 代碼
+- Picasso’s Guernica (Gigapixel)
+- My adventure in designing API keys
+- Space Force looks at moving "significant number" of 推出 from ULA to SpaceX
+- Stop Flock
+- Installing OpenBSD on the Pomera DM250 Writerdeck
+- 新 Modern Greek
+- Claude 代碼 Routines
+- 5NF and 資料庫 Design
+- Turn your 最佳 AI prompts into one-click tools in Chrome
+- Allbirds shares soar 600% as it pivots from footwear to AI
+- Rare concert recordings are landing on the Internet Archive
 - My AI-Assisted Workflow
-- Lumina – a statically typed 網頁-native language for JavaScript and WASM
-- Exploiting the most prominent AI 代理 benchmarks
-- Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets
-- Show HN: Kelet – Root Cause Analysis 代理 for your 大型語言模型 apps
-- The Mouse 程式設計 Language on CP/M (2020)
-- Slop-scan – Detect AI 代碼 slop patterns in your repo
-- Franklin's bad ads for Apple II clones and the beloved impersonator they depict
-- WiiFin – Jellyfin Client for Nintendo Wii
-- All elementary functions from a single binary operator
-- Responsive images in Hugo using Render Hooks
-- TN's Charlie Kirk Act bans student walkouts, protects conservative speakers
-- Servo is now available on crates.io
-- Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours
-- Zig 0.16.0 Release Notes
-- Tell HN: Anthropic no longer allows you to fix to specific 模型 version
-- I ran Gemma 4 as a local 模型 in Codex CLI
-- What we learned building a Rust runtime for TypeScript
+- Let's talk space toilets
+- The next evolution of the Agents SDK
+- 什麼是 in Road Flares?
+- Guide.world: A compendium of travel guides
+- US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]
+- Direct Win32 API, Weird-Shaped Windows, and 為什麼 They Mostly Disappeared
+- The dangers of California's legislation to censor 3D printing
+- CRISPR takes a bold leap toward silencing Down syndrome's extra chromosome
+- DaVinci Resolve – Photo
+- Allbirds 宣布 pivot from shoes to AI, stock explodes 175%
+- The Orange Pi 6 Plus
+- A 新 spam policy for “back button hijacking”
+- Someone bought 30 WordPress plugins and planted a backdoor in all of them
+- Amazon to acquire Globalstar and expand Amazon Leo satellite 網絡
+- Understanding Clojure's Persistent Vectors, pt. 1 (2013)
+- I wrote to Flock's privacy contact to opt out of their domestic spying program
+- Tell HN: Fiverr left customer files public and searchable
+- 'Seeking connection': video game where players stopped shooting, started talking
+- PCBWay sponsorship: full-size SD module for Arduino projects
+- Distributed DuckDB Instance
+- Troubleshooting Email Delivery to Microsoft Users
+- The M×N problem of tool calling and open-source models
+- Show HN: Pseudonymizing sensitive data for LLMs without losing context
+- US national level OS-level age verification bill proposed
+- What Claude 代碼's Source Revealed About AI Engineering Culture
+- GitHub Stacked PRs
+- OpenSSL 4.0.0
+- Show HN: Plain – The full-stack Python framework designed for humans and agents
+- Show HN: LangAlpha – what if Claude 代碼 was built for Wall Street?
+- 為什麼 Is France Moving from Microsoft Windows to Linux
+- Your codebase doesn't care how it got written
+- Seed: Adding `vau` with an immutable dynamic environment to Chez Scheme
+- Sam Vimes 'Boots' Theory of Socio-Economic Unfairness
+- I just want simple S3
+- Multi-Agentic 軟體 Development Is a Distributed Systems Problem
+- AI disease-prediction models were trained on dubious data
+- Don't feel like exercising? Maybe it's the wrong time of day for you
+- Fuck the 雲端 (2009)
+- Game: Print Gallery Of An Artist, A brief exploration of recursive spaces
+- Nucleus Nouns
+- Carol's Causal Conundrum: a zine intro to causally ordered message delivery
+- Claude may require identity verification in some cases
+- Hazardous States and Accidents
+- Academic fraud may be the symptom of a more systemic problem
+- MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints
+- Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others
+- Design and implementation of DuckDB internals
+- A soft robot has no problem moving with no motor and no gears
+- Trusted access for the next era of cyber defense
+- Founders Need to Be Ruthless When Chasing Deals
+- On hacker mindset
 
 
 ---
