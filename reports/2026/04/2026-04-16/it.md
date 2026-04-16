@@ -4,206 +4,206 @@
 
 ---
 
-### 1. [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
+### 1. [Darkbloom – Private 推論 on idle Macs](https://darkbloom.dev)
 
-- ⭐ 242 分｜💬 89 留言｜👤 dbreunig
+- ⭐ 157 分｜💬 76 留言｜👤 twapi
 
-### 2. [I made a terminal pager](https://theleo.zone/posts/pager/)
+### 2. [Stop Using Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
 
-- ⭐ 58 分｜💬 10 留言｜👤 speckx
+- ⭐ 199 分｜💬 35 留言｜👤 Zetaphor
 
-### 3. [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394)
+### 3. [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575)
 
-- ⭐ 62 分｜💬 43 留言｜👤 harambae
+- ⭐ 103 分｜💬 49 留言｜👤 pabs3
 
-### 4. [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
+### 4. [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
 
-- ⭐ 156 分｜💬 67 留言｜👤 pentagrama
+- ⭐ 45 分｜💬 23 留言｜👤 Aaronmacaron
 
-### 5. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
+### 5. [RedSun: 系統 user access on Win 11/10 and 伺服器 with the April 2026 更新](https://github.com/Nightmare-Eclipse/RedSun)
 
-- ⭐ 1104 分｜💬 478 留言｜👤 Brajeshwar
+- ⭐ 56 分｜💬 10 留言｜👤 airhangerf15
 
-### 6. [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why)
+### 6. [The paper computer](https://jsomers.net/blog/the-paper-computer)
 
-- ⭐ 208 分｜💬 158 留言｜👤 Benjamin_Dobell
+- ⭐ 114 分｜💬 24 留言｜👤 jsomers
 
-### 7. [God sleeps in the minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
+### 7. [RamAIn (YC W26) Is 招聘](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
 
-- ⭐ 458 分｜💬 97 留言｜👤 speckx
+- ⭐ 1 分｜💬 0 留言｜👤 svee
 
-### 8. [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
+### 8. [A Look into NaviDial, Japan's Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
 
-- ⭐ 82 分｜💬 7 留言｜👤 gregsadetsky
+- ⭐ 30 分｜💬 3 留言｜👤 pwim
 
-### 9. [介紹 Spherical Harmonics for Graphics Programmers](https://gpfault.net/posts/sph.html)
+### 9. [Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)
 
-- ⭐ 7 分｜💬 1 留言｜👤 luu
+Full disclosure - I formerly worked for Grafana Labs.The size of this Grafana Mimir deployment would rank it in the 熱門 echelon of customers. The irony is that this may be a $0 revenue user for Grafan
 
-### 10. [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
+- ⭐ 25 分｜💬 6 留言｜👤 jmarbach
 
-- ⭐ 37 分｜💬 9 留言｜👤 ltratt
+### 10. [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
 
-### 11. [Live Nation illegally monopolized ticketing market, jury finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
+- ⭐ 367 分｜💬 129 留言｜👤 dbreunig
 
-https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;15&#x2F;arts&#x2F;music&#x2F;live-nation-an..., https:&#x2F;&#x2F;archive.ph&#x2F;KA1wVhttps:&#x2F;&#x2F;www.theverge.com&#x2F;policy&#x2F;9126
+### 11. [Fast and Easy Levenshtein distance using a Trie](https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie)
 
-- ⭐ 396 分｜💬 117 留言｜👤 Alex_Bond
+- ⭐ 34 分｜💬 3 留言｜👤 sebg
 
-### 12. [Hacker News CLI](https://pythonhosted.org/hackernews-cli/commands.html)
+### 12. [Too much discussion of the XOR swap trick](https://heather.cafe/posts/too_much_xor_swap_trick/)
 
-- ⭐ 33 分｜💬 12 留言｜👤 rolph
+- ⭐ 24 分｜💬 6 留言｜👤 CJefferson
 
-### 13. [PBS Nova: Terror in Space (1998)](https://www.pbs.org/wgbh/nova/mir/)
+### 13. [ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)
 
-- ⭐ 23 分｜💬 6 留言｜👤 opengrass
+- ⭐ 179 分｜💬 128 留言｜👤 armcat
 
-### 14. [Anna's Archive loses $322M Spotify piracy case without a fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
+### 14. [介紹 spherical harmonics for graphics programmers](https://gpfault.net/posts/sph.html)
 
-- ⭐ 334 分｜💬 363 留言｜👤 askl
+- ⭐ 81 分｜💬 8 留言｜👤 luu
 
-### 15. [The Gemini app is now on Mac](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/)
+### 15. [I made a terminal pager](https://theleo.zone/posts/pager/)
 
-- ⭐ 81 分｜💬 40 留言｜👤 thm
+- ⭐ 117 分｜💬 27 留言｜👤 speckx
 
-### 16. [Ask HN: Who is using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
+### 16. [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why)
 
-I don&#x27;t use it personally, and neither does anyone in my circle...even though I feel like I&#x27;m super plugged into the AI world
+- ⭐ 284 分｜💬 204 留言｜👤 Benjamin_Dobell
 
-- ⭐ 213 分｜💬 256 留言｜👤 misterchocolat
+### 17. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
 
-### 17. [Fixing a monitor that goes black, off or blinks due to static electricity (2023)](https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/)
+- ⭐ 1368 分｜💬 586 留言｜👤 Brajeshwar
 
-- ⭐ 116 分｜💬 65 留言｜👤 cyclopeanutopia
+### 18. [North American English Dialects](https://aschmann.net/AmEng/)
 
-### 18. [Do you even need a 資料庫?](https://www.dbpro.app/blog/do-you-even-need-a-database)
+- ⭐ 13 分｜💬 1 留言｜👤 skogstokig
 
-- ⭐ 204 分｜💬 245 留言｜👤 upmostly
+### 19. [Rewriting a 20-year-old Python library](https://www.b-list.org/weblog/2026/mar/23/20-year-library/)
 
-### 19. [CRISPR takes important step toward silencing Down syndrome’s extra chromosome](https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html)
+- ⭐ 6 分｜💬 0 留言｜👤 PaulHoule
 
-- ⭐ 78 分｜💬 51 留言｜👤 amichail
+### 20. [FIXAPL](https://fixapl.netlify.app/)
 
-### 20. [How can I keep from singing?](https://blog.danieljanus.pl/singing/)
+- ⭐ 3 分｜💬 0 留言｜👤 tosh
 
-- ⭐ 46 分｜💬 9 留言｜👤 nathell
-
-### 21. [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
-
-- ⭐ 221 分｜💬 129 留言｜👤 bckygldstn
-
-### 22. [Forcing an inversion of control on the SaaS stack](https://www.100x.bot/a/client-side-injection-inversion-of-control-saas)
-
-- ⭐ 74 分｜💬 44 留言｜👤 shardullavekar
-
-### 23. [Adaptional (YC S25) is 招聘 AI engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
-
-- ⭐ 1 分｜💬 0 留言｜👤 acesohc
-
-### 24. [Monsters in the Archives by Caroline Bicks – The Writing Secrets of Stephen King](https://www.theguardian.com/books/2026/mar/30/monsters-in-the-archives-by-caroline-bicks-review-the-writing-secrets-of-stephen-king)
-
-- ⭐ 8 分｜💬 1 留言｜👤 lermontov
-
-### 25. [Does Gas Town 'steal' usage from users' 大型語言模型 credits to improve itself?](https://github.com/gastownhall/gastown/issues/3649)
-
-- ⭐ 210 分｜💬 105 留言｜👤 rektomatic
-
-### 26. [Costasiella kuroshimae](https://en.wikipedia.org/wiki/Costasiella_kuroshimae)
-
-- ⭐ 142 分｜💬 53 留言｜👤 vinnyglennon
-
-### 27. [One interface, every protocol](https://openbindings.com/blog/one-interface-every-protocol)
-
-- ⭐ 39 分｜💬 5 留言｜👤 clevengermatt
-
-### 28. [Show HN: Libretto – Making AI browser automations deterministic](https://github.com/saffron-health/libretto)
+### 21. [Show HN: Libretto – Making AI browser automations deterministic](https://github.com/saffron-health/libretto)
 
 Libretto (https:&#x2F;&#x2F;libretto.sh) is a Skill+CLI that makes it easy for your coding 代理 to generate deterministic browser automations and debug existing ones. Key shift is going from “give an
 
-- ⭐ 83 分｜💬 24 留言｜👤 muchael
+- ⭐ 93 分｜💬 33 留言｜👤 muchael
 
-### 29. [Atlassian defends firing 工程師 for suggesting CEO is 'rich jerk'](https://www.afr.com/technology/atlassian-defends-firing-engineer-for-suggesting-ceo-is-rich-jerk-20260317-p5ob1w)
+### 22. [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
 
-- ⭐ 35 分｜💬 21 留言｜👤 jamesfinlayson
+- ⭐ 72 分｜💬 17 留言｜👤 ltratt
 
-### 30. [Golden eagles' return to English skies](https://www.bbc.co.uk/news/articles/cje4zlxqkqdo)
+### 23. [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
 
-- ⭐ 41 分｜💬 21 留言｜👤 techterrier
+- ⭐ 372 分｜💬 188 留言｜👤 bckygldstn
+
+### 24. [Stealth signals are bypassing Iran’s internet blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
+
+- ⭐ 88 分｜💬 28 留言｜👤 WaitWaitWha
+
+### 25. [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
+
+- ⭐ 104 分｜💬 12 留言｜👤 gregsadetsky
+
+### 26. [代理 - Native Mac OS X coding ide/harness](https://github.com/macOS26/Agent)
+
+- ⭐ 40 分｜💬 9 留言｜👤 jv22222
+
+### 27. [Live Nation illegally monopolized ticketing market, jury finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
+
+https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;15&#x2F;arts&#x2F;music&#x2F;live-nation-an..., https:&#x2F;&#x2F;archive.ph&#x2F;KA1wVhttps:&#x2F;&#x2F;www.theverge.com&#x2F;policy&#x2F;9126
+
+- ⭐ 511 分｜💬 148 留言｜👤 Alex_Bond
+
+### 28. [US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+
+- ⭐ 124 分｜💬 94 留言｜👤 1vuio0pswjnm7
+
+### 29. [CRISPR takes important step toward silencing Down syndrome’s extra chromosome](https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html)
+
+- ⭐ 137 分｜💬 73 留言｜👤 amichail
+
+### 30. [The Gemini app is now on Mac](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/)
+
+- ⭐ 132 分｜💬 64 留言｜👤 thm
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- ChatGPT for Excel
-- The Universal Constraint Engine: Neuromorphic Computing Without 神經網絡 Networks
-- Want to write a compiler? Just read these two papers (2008)
-- Metro stop is Ancient Rome's 新 attraction
-- Pretty Fish: A better mermaid diagram editor
-- Kalshi CEO expects US DOJ to prosecute insider trading cases
-- Google Gemma 4 Runs Natively on iPhone with Full Offline AI 推論
-- How Wake-On-LAN works (2020)
-- Show HN: GNU grep as a PHP extension
-- Good sleep, good learning, good life (2012)
-- Gemini Robotics-ER 1.6
-- Show HN: I rebuilt a 2000s browser strategy game on Cloudflare's edge
-- TX Tesla driver narrowly avoids disaster when autopilot engages at RR crossing
-- 為什麼 are Flock employees watching our children?
-- The AI Market Is Hitting Peak Absurdity
-- Study: Back-to-basics approach can match or outperform AI in language analysis
-- We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video]
-- Show HN: Fakecloud – Free, open-source AWS emulator
-- Iowa cancer rates surge – farm chemicals are a key risk, 新 report finds
-- In the last 30 years, the number of public companies has been cut in half
-- The Future of Everything Is Lies, I Guess: 新 Jobs
-- Dependency cooldowns turn you into a free-rider
-- Tesla "Full Self-Driving" drives through RR crossing barriers in viral video
-- Google shoehorned Rust into Pixel 10 modem to make legacy 代碼 safer
-- Not all elementary functions can be expressed with exp-minus-log
-- Show HN: Every CEO and CFO change at US public companies, live from SEC
-- Gemini App on Mac
-- MacBook Neo isn't innovation: It's Apple correcting a story it pushed for years
-- It's cool to care (2025)
-- The Enigma of Gertrude Stein
-- Jury finds Live Nation and Ticketmaster operated as a monopoly, overcharged fans
-- Wacli – WhatsApp CLI
-- Robot Police Dogs Powered by AI Take over Atlanta's Streets
-- Claude 代碼 Routines
-- Stop Flock
-- 5NF and 資料庫 Design
-- Installing OpenBSD on the Pomera DM250 Writerdeck
-- My adventure in designing API keys
-- Project Maven Put A.I. Into the Kill Chain
+- Sal Khan's AI revolution hasn't happened yet
+- Show HN: Hiraeth – AWS Emulator
+- Do you even need a 資料庫?
+- Intel Xpress Resurrection: Reviving a Forgotten EISA Beast
+- C++26: Structured Bindings in Conditions
+- YouTube users get option to set their Shorts time limit to zero minutes
+- Hacker News CLI (2014)
+- How can I keep from singing?
+- Fixing a monitor that goes black, off or blinks due to static electricity (2023)
+- Ask HN: Who is using OpenClaw?
+- Show HN: Meet SDocs - A markdown-first cli-native replacement for Word and GDocs
+- PBS Nova: Terror in Space (1998)
+- Ohio prison inmates 'built computers and hid them in ceiling' (2017)
+- God sleeps in the minerals
+- Direct Win32 API, weird-shaped windows, and 為什麼 they mostly disappeared
+- Tailscale-rs: Official Rust library for embedding Tailscale
 - 開源 Isn't Dead
-- AI ruling prompts warnings from US lawyers: Your chats could be used against you
+- A Better Ludum Dare; Or, 如何 Ruin a Legacy
+- Florida surgeon charged with killing man after removing liver instead of spleen
+- Want to write a compiler? Just read these two papers (2008)
+- Monsters in the Archives by Caroline Bicks – The Writing Secrets of Stephen King
+- EU Age Verification Solution
+- The Universal Constraint Engine: Neuromorphic Computing Without 神經網絡 Networks
+- Google Gemma 4 Runs Natively on iPhone with Full Offline AI 推論
+- Anna's Archive loses $322M Spotify piracy case without a fight
+- One interface, every protocol
+- Does Gas Town 'steal' usage from users' 大型語言模型 credits to improve itself?
+- Arguing with Agents
+- Show HN: Gave Claude a casino bankroll – it gambles till it's too broke to think
+- Good sleep, good learning, good life (2012)
+- Golden eagles' return to English skies
+- How Wake-On-LAN works (2020)
+- The Future of Everything Is Lies, I Guess: 新 Jobs
+- Gemini Robotics-ER 1.6
+- Study: Back-to-basics approach can match or outperform AI in language analysis
+- Kalshi CEO expects US DOJ to prosecute insider trading cases
+- Dependency cooldowns turn you into a free-rider
+- Show HN: I rebuilt a 2000s browser strategy game on Cloudflare's edge
+- Not all elementary functions can be expressed with exp-minus-log
+- We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video]
+- Show HN: I built a Wikipedia based AI deduction game
+- Digital Ocean's "Teams" deleted my account in one click
+- Keycard – inject API keys into subprocesses, never touch shell env
+- Show HN: Omi – watches your screen, hears conversations, tells you what to do
+- Claude 代碼 Routines
+- Show HN: Fakecloud – Free, open-source AWS emulator
+- 5NF and 資料庫 Design
+- Stop Flock
+- Show HN: Every CEO and CFO change at US public companies, live from SEC
+- Costasiella kuroshimae
+- Wacli – WhatsApp CLI
 - Turn your 最佳 AI prompts into one-click tools in Chrome
-- The tiniest e-reader in the world, and you can 構建 one yourself
 - Rare concert recordings are landing on the Internet Archive
-- 2007 United States Air Force nuclear weapons incident
-- MIT Radiation Laboratory
-- Gemini 3.1 Flash TTS – with directed prompts
-- Sweden blames Russian hackers for attempting 'destructive' thermal plant attack
-- Where did my taxes go?
+- 為什麼 are Flock employees watching our children?
+- My adventure in designing API keys
+- Iowa cancer rates surge – farm chemicals are a key risk, 新 report finds
+- Academic fraud may be the symptom of a more systemic problem
+- Gemini App on Mac
 - Let's talk space toilets
-- Fixing a 20-year-old bug in Enlightenment E16
-- Tesla 'Full Self-Driving' crashed through railroad gate seconds before train
-- Guide.world: A compendium of travel guides
-- Simon Oxley, famous tech logo designer, has died
-- We Left the 雲端 (2023)
-- DaVinci Resolve – Photo
+- Show HN: Sudomake Friends, personalized AI personas in a Telegram group chat
+- In the last 30 years, the number of public companies has been cut in half
 - Someone bought 30 WordPress plugins and planted a backdoor in all of them
+- DaVinci Resolve – Photo
 - A 新 spam policy for “back button hijacking”
-- So, you want to be a darknet drug lord (2015)
-- Gemini 3.1 Flash TTS: the next generation of expressive AI speech
-- AI-assisted cognition endangers human development?
-- The dangers of California's legislation to censor 3D printing
-- BYD is now upgrading some of its 熱門 selling EVs with 5-min flash charging
-- 什麼是 in Road Flares?
-- Understanding Clojure's Persistent Vectors, pt. 1 (2013)
-- Core Rope Memory
-- The Orange Pi 6 Plus
-- I wrote to Flock's privacy contact to opt out of their domestic spying program
-- Direct Win32 API, Weird-Shaped Windows, and 為什麼 They Mostly Disappeared
-- Distributed DuckDB Instance
+- Claude.md Scorer: paste your file, get rubric score and rewrites
+- Tesla "Full Self-Driving" drives through RR crossing barriers in viral video
+- Fixing a 20-year-old bug in Enlightenment E16
+- AI ruling prompts warnings from US lawyers: Your chats could be used against you
+- MIT Radiation Laboratory
+- Jury finds Live Nation and Ticketmaster operated as a monopoly, overcharged fans
 
 
 ---
