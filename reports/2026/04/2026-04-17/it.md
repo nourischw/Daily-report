@@ -4,202 +4,202 @@
 
 ---
 
-### 1. [Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)
+### 1. [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
 
-- ⭐ 40 分｜💬 6 留言｜👤 ColinWright
+- ⭐ 508 分｜💬 331 留言｜👤 meetpateltech
 
-### 2. [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
+### 2. [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
 
-- ⭐ 135 分｜💬 72 留言｜👤 mpweiher
+- ⭐ 305 分｜💬 176 留言｜👤 aray07
 
-### 3. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+### 3. [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
 
-- ⭐ 1822 分｜💬 1316 留言｜👤 meetpateltech
+- ⭐ 479 分｜💬 178 留言｜👤 ColinWright
 
-### 4. [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
+### 4. [NASA Force](https://nasaforce.gov/)
 
-- ⭐ 88 分｜💬 42 留言｜👤 Mr_Minderbinder
+- ⭐ 86 分｜💬 107 留言｜👤 LorenDB
 
-### 5. [Average Is All You Need](https://rawquery.dev/blog/average-is-all-you-need)
+### 5. [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848)
 
-- ⭐ 29 分｜💬 17 留言｜👤 AlexC04
+- ⭐ 130 分｜💬 50 留言｜👤 speckx
 
-### 6. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
+### 6. [NIST gives up enriching most CVEs](https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/)
 
-- ⭐ 918 分｜💬 483 留言｜👤 mikeevans
+- ⭐ 98 分｜💬 23 留言｜👤 mooreds
 
-### 7. [How Silicon Valley Is Turning Scientists into Exploited Gig Workers](https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/)
+### 7. [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
 
-- ⭐ 43 分｜💬 21 留言｜👤 ZunarJ5
+- ⭐ 34 分｜💬 22 留言｜👤 binsquare
 
-### 8. [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)
+### 8. [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
 
-- ⭐ 169 分｜💬 46 留言｜👤 gregsadetsky
+- ⭐ 6 分｜💬 1 留言｜👤 cybermango
 
-### 9. [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+### 9. [Ban the sale of precise geolocation](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
 
-- ⭐ 88 分｜💬 23 留言｜👤 xk3
+- ⭐ 380 分｜💬 117 留言｜👤 hn_acker
 
-### 10. [30 Years of HPC: many 硬體 advances, little adoption of 新 languages](https://chapel-lang.org/blog/posts/30years/)
+### 10. [Kyber (YC W23) Is 招聘 a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
 
-- ⭐ 73 分｜💬 40 留言｜👤 matt_d
+- ⭐ 1 分｜💬 0 留言｜👤 asontha
 
-### 11. [中文 Literacy Speedrun II: Character Cyclotron](https://blog.kevinzwu.com/character-cyclotron/)
+### 11. [Iceye Open Data](https://www.iceye.com/open-data-initiative)
 
-- ⭐ 33 分｜💬 13 留言｜👤 surprisetalk
+- ⭐ 68 分｜💬 11 留言｜👤 marklit
 
-### 12. [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
+### 12. [Healthchecks.io now uses self-hosted object storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
 
-- ⭐ 256 分｜💬 65 留言｜👤 adityaathalye
+- ⭐ 93 分｜💬 48 留言｜👤 zdw
 
-### 13. [Show HN: SPICE simulation → oscilloscope → verification with Claude 代碼](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
+### 13. [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/)
 
-I built MCP servers for my oscilloscope and SPICE simulator so Claude 代碼 can close the loop between simulation and real 硬體.
+- ⭐ 39 分｜💬 13 留言｜👤 seanieb
 
-- ⭐ 96 分｜💬 19 留言｜👤 _fizz_buzz_
+### 14. [Solitaire simulator for finding the 最佳 strategy: Current record is 8.590%](https://github.com/dacracot/Klondike3-Simulator)
 
-### 14. [Guy builds AI driven 硬體 hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
+- ⭐ 16 分｜💬 7 留言｜👤 PaulHoule
 
-- ⭐ 203 分｜💬 40 留言｜👤 scaredpelican
+### 15. [Connie Converse was a folk-music genius. Then she vanished](https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer)
 
-### 15. [Android CLI: 構建 Android apps 3x faster using any 代理](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
+- ⭐ 18 分｜💬 6 留言｜👤 mellosouls
 
-- ⭐ 262 分｜💬 102 留言｜👤 ingve
+### 16. [Designing the Transport Typeface](https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs)
 
-### 16. [Human Accelerated Region 1](https://en.wikipedia.org/wiki/Human_accelerated_region_1)
+- ⭐ 38 分｜💬 6 留言｜👤 speckx
 
-- ⭐ 68 分｜💬 35 留言｜👤 apollinaire
+### 17. [The Gregorio project – GPL tools for typesetting Gregorian chant](https://gregorio-project.github.io/index.html)
 
-### 17. [How Big Tech wrote secrecy into EU law to hide data centres' environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
+- ⭐ 22 分｜💬 6 留言｜👤 mcookly
 
-- ⭐ 83 分｜💬 25 留言｜👤 cyberlimerence
+### 18. [Show HN: Stage – Putting humans back in control of 代碼 review](https://stagereview.app/)
 
-### 18. [Taking a Look at Compression Algorithms – Moncef Abboud](https://cefboud.com/posts/compression/)
+Hey HN! We&#x27;re Charles and Dean, and we&#x27;re building Stage: a 代碼 review tool that guides you through reading a PR step by step, instead of piecing together a giant diff.Here&#x27;s a demo vi
 
-- ⭐ 3 分｜💬 0 留言｜👤 fagnerbrack
+- ⭐ 60 分｜💬 58 留言｜👤 cpan22
 
-### 19. [Playdate’s handheld changed how Duke University teaches game design](https://news.play.date/news/duke-playdate-education/)
+### 19. [Ada, its design, and the language that built the languages](https://www.iqiipi.com/the-quiet-colossus.html)
 
-- ⭐ 186 分｜💬 87 留言｜👤 Ivoah
+- ⭐ 215 分｜💬 150 留言｜👤 mpweiher
 
-### 20. [ReBot-DevArm: open-source Robotic Arm](https://github.com/Seeed-Projects/reBot-DevArm)
+### 20. [Detecting DOSBox from Within the Box](https://datagirl.xyz/posts/dos_inside_the_box.html)
 
-- ⭐ 73 分｜💬 18 留言｜👤 rickcarlino
+- ⭐ 12 分｜💬 0 留言｜👤 atan2
 
-### 21. [Substrate AI Is 招聘 Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer)
+### 21. [Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech](https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/)
 
-- ⭐ 1 分｜💬 0 留言｜👤 kunle
+- ⭐ 5 分｜💬 0 留言｜👤 Cider9986
 
-### 22. [A Better R 程式設計 Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
+### 22. [Teddy Roosevelt and Abraham Lincoln in the same photo (2010)](https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/)
 
-- ⭐ 138 分｜💬 24 留言｜👤 sebg
+- ⭐ 94 分｜💬 16 留言｜👤 bryanrasmussen
 
-### 23. [Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth (2006)](https://ieeexplore.ieee.org/document/1715264)
+### 23. [Reflections on 30 years of HPC 程式設計](https://chapel-lang.org/blog/posts/30years/)
 
-- ⭐ 34 分｜💬 11 留言｜👤 teleforce
+- ⭐ 111 分｜💬 83 留言｜👤 matt_d
 
-### 24. [A Git helper tool that breaks large merges into parallelizable tasks](https://github.com/mwallner/mergetopus)
+### 24. [NeoGeo AES+: SNK 宣布 reissue of retro console without emulation](https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html)
 
-- ⭐ 46 分｜💬 11 留言｜👤 schusterfredl
+- ⭐ 11 分｜💬 1 留言｜👤 doener
 
-### 25. [Qwen3.6-35B-A3B: Agentic coding power, now open to all](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
+### 25. [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
 
-- ⭐ 1158 分｜💬 487 留言｜👤 cmitsakis
+- ⭐ 123 分｜💬 62 留言｜👤 Mr_Minderbinder
 
-### 26. [US Bill Mandates On-Device Age Verification](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification)
+### 26. [Average is all you need](https://rawquery.dev/blog/average-is-all-you-need)
 
-- ⭐ 249 分｜💬 162 留言｜👤 ronsor
+- ⭐ 58 分｜💬 62 留言｜👤 AlexC04
 
-### 27. [Cloudflare's AI Platform: an 推論 layer designed for agents](https://blog.cloudflare.com/ai-platform/)
+### 27. [Random musings: 80s 硬體, cyberdecks](https://strangelyentangled.com/blog/musings-80s-hardware/)
 
-- ⭐ 292 分｜💬 74 留言｜👤 nikitoci
+- ⭐ 3 分｜💬 0 留言｜👤 speckx
 
-### 28. [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
+### 28. [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)
 
-- ⭐ 20 分｜💬 0 留言｜👤 kuizu
+- ⭐ 203 分｜💬 53 留言｜👤 gregsadetsky
 
-### 29. [The future of everything is lies, I guess: Where do we go from here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
+### 29. [Scan your website to see how ready it is for AI agents](https://isitagentready.com)
 
-- ⭐ 654 分｜💬 671 留言｜👤 aphyr
+- ⭐ 75 分｜💬 131 留言｜👤 WesSouza
 
-### 30. [The beginning of scarcity in AI](https://tomtunguz.com/ai-compute-crisis-2026/)
+### 30. [Hyperscalers have already outspent most famous US megaprojects](https://twitter.com/finmoorhouse/status/2044933442236776794)
 
-- ⭐ 114 分｜💬 146 留言｜👤 gmays
+- ⭐ 61 分｜💬 45 留言｜👤 nowflux
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Discourse Is Not Going Closed Source
-- Rubens Menin's 150 Years "Old" Port Wine
-- Bluesky has been dealing with a DDoS attack for nearly a full day
-- Precision over perception: 為什麼 architecture matters in benchmarking
-- Launch HN: Kampala (YC W26) – Reverse-工程師 Apps into APIs
+- A Python Interpreter Written in Python
+- The missing catalogue: 為什麼 finding books in translation is still so hard
+- Official Clojure Documentary page with Video, Shownotes, and Links
+- Android CLI: 構建 Android apps 3x faster using any 代理
+- Claude Opus 4.7
+- Playdate’s handheld changed how Duke University teaches game design
+- Human Accelerated Region 1
+- Show HN: SPICE simulation → oscilloscope → verification with Claude 代碼
+- Guy builds AI driven 硬體 hacker arm from duct tape, old cam and CNC machine
+- Congress extends controversial surveillance powers for 10 days
+- Slop Cop
+- A Better R 程式設計 Experience Thanks to Tree-sitter
+- Qwen3.6-35B-A3B: Agentic coding power, now open to all
+- Codex for almost everything
+- Cloudflare's AI Platform: an 推論 layer designed for agents
+- The future of everything is lies, I guess: Where do we go from here?
+- The beginning of scarcity in AI
+- Israel escalates attacks on medics in Lebanon with deadly 'quadruple tap'
+- Controversial FISA program extended by House but only until April 30
 - Codex Hacked a Samsung TV
-- 新 unsealed records reveal Amazon's price-fixing tactics, California AG claims
+- Launch HN: Kampala (YC W26) – Reverse-工程師 Apps into APIs
+- Airline adds bunk beds for economy travelers but bans snacks, smells and cuddles
+- Bluesky has been dealing with a DDoS attack for nearly a full day
+- Discourse Is Not Going Closed Source
 - Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7
-- Everything we like is a psyop?
-- Artifacts: Versioned storage that speaks Git
 - AI cybersecurity is not proof of work
-- US tech firms lobbied EU to keep datacentre emissions secret
-- Building a 網頁 Page That Edits Itself
-- GPT‑Rosalind for life sciences research
-- Show HN: MacMind – A transformer 神經網絡 網絡 in HyperCard on a 1989 Macintosh
-- The "Passive Income" trap ate a generation of entrepreneurs
+- 新 unsealed records reveal Amazon's price-fixing tactics, California AG claims
 - EU age verification app hacked, 2 minute 如何 posted
+- Artifacts: Versioned storage that speaks Git
+- Everything we like is a psyop?
+- Show HN: MacMind – A transformer 神經網絡 網絡 in HyperCard on a 1989 Macintosh
+- Rubens Menin's 150 Years "Old" Port Wine
+- GPT‑Rosalind for life sciences research
+- NIST cuts down CVE analysis amid vulnerability overload
 - PHP 8.6 Closure Optimizations
+- PROBoter – Open-source platform for automated PCB analysis
+- US Bill Mandates On-Device Age Verification
+- The "Passive Income" trap ate a generation of entrepreneurs
+- Show HN: CodeBurn – Analyze Claude 代碼 token usage by task
+- Ask HN: Building a solo business is impossible?
+- North American English Dialects
 - Cave under castle with prehistoric hippo bones 'once in a lifetime' find
 - Circuit Transformations, Loop Fusion, and Inductive Proof
-- German Dog Commands
-- Show HN: CodeBurn – Analyze Claude 代碼 token usage by task
 - Cloudflare Email Service
-- Show HN: Marky – A lightweight Markdown viewer for agentic coding
-- North American English Dialects
-- Six Characters
+- US tech firms lobbied EU to keep datacentre emissions secret
+- US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]
+- German Dog Commands
 - Darkbloom – Private 推論 on idle Macs
 - RedSun: 系統 user access on Win 11/10 and 伺服器 with the April 2026 更新
-- The paper computer
-- US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]
+- Building a 網頁 Page That Edits Itself
+- Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire
+- Show HN: Marky – A lightweight Markdown viewer for agentic coding
 - FSF trying to contact Google about spammer sending 10k+ mails from Gmail account
-- Too much discussion of the XOR swap trick
-- Probabilistic engineering and the 24-7 employee
 - IPv6 traffic crosses the 50% mark
-- Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]
-- IBM AP-101 general-purpose computer [pdf]
-- Ask HN: Building a solo business is impossible
 - ChatGPT for Excel
+- What's the Point of Hardbacks?
 - Do you even need a 資料庫?
+- Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]
 - Retrofitting JIT Compilers into C Interpreters
 - Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI
-- Japan implements language proficiency requirements for certain visa applicants
-- "Wretches, Speak Evil of Me": Goethe and Schiller's Xenions (1896 Edition)
-- 介紹 spherical harmonics for graphics programmers
-- Tailscale-rs: Official Rust library for embedding Tailscale
 - The Gemini app is now on Mac
+- Tailscale-rs: Official Rust library for embedding Tailscale
 - PiCore - Raspberry Pi Port of Tiny Core Linux
-- Mozilla Thunderbolt
-- Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus
+- Japan implements language proficiency requirements for certain visa applicants
+- Direct Win32 API, weird-shaped windows, and 為什麼 they mostly disappeared
 - The buns in McDonald's Japan's burger photos are all slightly askew
-- €54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs
+- Probabilistic engineering and the 24-7 employee
 - Cybersecurity looks like proof of work now
 - Live Nation illegally monopolized ticketing market, jury finds
-- Show HN: Home Memory – A local DB of my house, down to cables and pipes
-- Direct Win32 API, weird-shaped windows, and 為什麼 they mostly disappeared
-- Show HN: Stage – Putting humans back in control of 代碼 review
-- Claude Opus 4.7 模型 Card
-- Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan
-- Five men control AI. Who should control them?
-- The Accursèd Alphabetical Clock
-- Monumental ship burial beneath ancient Norwegian mound predates the Viking Age
-- 代理 - Native Mac OS X coding ide/harness
-- SDL bans AI-written commits
-- How can I keep from singing?
-- Google Gemma 4 Runs Natively on iPhone with Full Offline AI 推論
-- Cal.com is going closed source
-- God sleeps in the minerals
-- Laravel raised money and now injects ads directly into your 代理
-- European civil servants are being forced off WhatsApp
-- AI companies are buying the Slack data of failed startups
+- Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus
 
 
 ---
