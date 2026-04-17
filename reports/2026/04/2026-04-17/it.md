@@ -6,212 +6,202 @@
 
 ### 1. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 
-- ⭐ 1475 分｜💬 1067 留言｜👤 meetpateltech
+- ⭐ 1670 分｜💬 1183 留言｜👤 meetpateltech
 
 ### 2. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
 
-- ⭐ 675 分｜💬 364 留言｜👤 mikeevans
+- ⭐ 817 分｜💬 412 留言｜👤 mikeevans
 
 ### 3. [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)
 
-- ⭐ 28 分｜💬 0 留言｜👤 gregsadetsky
+- ⭐ 118 分｜💬 19 留言｜👤 gregsadetsky
 
-### 4. [Guy builds AI driven 硬體 hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
+### 4. [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 
-- ⭐ 89 分｜💬 15 留言｜👤 scaredpelican
+- ⭐ 39 分｜💬 8 留言｜👤 xk3
 
-### 5. [A Better R 程式設計 Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
-
-- ⭐ 81 分｜💬 6 留言｜👤 sebg
-
-### 6. [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
-
-- ⭐ 105 分｜💬 24 留言｜👤 adityaathalye
-
-### 7. [Android CLI: 構建 Android apps 3x faster using any 代理](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
-
-- ⭐ 123 分｜💬 30 留言｜👤 ingve
-
-### 8. [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
-
-- ⭐ 94 分｜💬 56 留言｜👤 evo_9
-
-### 9. [新 unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
-
-- ⭐ 107 分｜💬 19 留言｜👤 kmfrk
-
-### 10. [Show HN: Spice simulation → oscilloscope → verification with Claude 代碼](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
+### 5. [Show HN: SPICE simulation → oscilloscope → verification with Claude 代碼](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
 
 I built MCP servers for my oscilloscope and SPICE simulator so Claude 代碼 can close the loop between simulation and real 硬體.
 
-- ⭐ 11 分｜💬 2 留言｜👤 _fizz_buzz_
+- ⭐ 65 分｜💬 12 留言｜👤 _fizz_buzz_
 
-### 11. [Qwen3.6-35B-A3B: Agentic coding power, now open to all](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
+### 6. [Guy builds AI driven 硬體 hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
 
-- ⭐ 910 分｜💬 418 留言｜👤 cmitsakis
+- ⭐ 152 分｜💬 33 留言｜👤 scaredpelican
 
-### 12. [Cloudflare's AI Platform: an 推論 layer designed for agents](https://blog.cloudflare.com/ai-platform/)
+### 7. [30 Years of HPC: many 硬體 advances, little adoption of 新 languages](https://chapel-lang.org/blog/posts/30years/)
 
-- ⭐ 239 分｜💬 58 留言｜👤 nikitoci
+- ⭐ 19 分｜💬 0 留言｜👤 matt_d
 
-### 13. [Playdate’s handheld changed how Duke University teaches game design](https://news.play.date/news/duke-playdate-education/)
+### 8. [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
 
-- ⭐ 66 分｜💬 26 留言｜👤 Ivoah
+- ⭐ 175 分｜💬 44 留言｜👤 adityaathalye
 
-### 14. [The future of everything is lies, I guess: Where do we go from here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
+### 9. [Android CLI: 構建 Android apps 3x faster using any 代理](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
 
-- ⭐ 509 分｜💬 559 留言｜👤 aphyr
+- ⭐ 206 分｜💬 73 留言｜👤 ingve
 
-### 15. [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
+### 10. [A Better R 程式設計 Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
 
-- ⭐ 305 分｜💬 68 留言｜👤 simonw
+- ⭐ 119 分｜💬 14 留言｜👤 sebg
 
-### 16. [Join Akkari's Founding Team (YC P26) as an 工程師](https://news.ycombinator.com/item?id=47799454)
+### 11. [ReBot-DevArm: open-source Robotic Arm](https://github.com/Seeed-Projects/reBot-DevArm)
 
-Akkari is the customer context API for LLMs.Akkari unifies and continuously reconstructs customer context from fragmented sources (calls, chat, emails, CRM, etc.) so that agents can execute on the mos
+- ⭐ 39 分｜💬 5 留言｜👤 rickcarlino
 
-- ⭐ 1 分｜💬 0 留言｜👤 michael_moore
+### 12. [Playdate’s handheld changed how Duke University teaches game design](https://news.play.date/news/duke-playdate-education/)
 
-### 17. [GPT‑Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind/)
+- ⭐ 127 分｜💬 50 留言｜👤 Ivoah
 
-- ⭐ 57 分｜💬 14 留言｜👤 babelfish
+### 13. [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/)
 
-### 18. [Show HN: Marky – A lightweight Markdown viewer for agentic coding](https://github.com/GRVYDEV/marky)
+- ⭐ 85 分｜💬 30 留言｜👤 sams99
 
-Hey HN,In this age of agentic coding I&#x27;ve found myself spending a lot of time reviewing markdown files. Whether it&#x27;s plans or documentation that I&#x27;ve asked my 代理 to generate for me, 
+### 14. [Human Accelerated Region 1](https://en.wikipedia.org/wiki/Human_accelerated_region_1)
 
-- ⭐ 36 分｜💬 14 留言｜👤 GRVYDEV
+- ⭐ 29 分｜💬 3 留言｜👤 apollinaire
 
-### 19. [Launch HN: Kampala (YC W26) – Reverse-工程師 Apps into APIs](https://www.zatanna.ai/kampala)
+### 15. [Qwen3.6-35B-A3B: Agentic coding power, now open to all](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
+
+- ⭐ 1030 分｜💬 453 留言｜👤 cmitsakis
+
+### 16. [Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth](https://ieeexplore.ieee.org/document/1715264)
+
+- ⭐ 6 分｜💬 1 留言｜👤 teleforce
+
+### 17. [A Git helper tool that breaks large merges into parallelizable tasks](https://github.com/mwallner/mergetopus)
+
+- ⭐ 20 分｜💬 3 留言｜👤 schusterfredl
+
+### 18. [Cloudflare's AI Platform: an 推論 layer designed for agents](https://blog.cloudflare.com/ai-platform/)
+
+- ⭐ 270 分｜💬 61 留言｜👤 nikitoci
+
+### 19. [US Bill Mandates On-Device Age Verification](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification)
+
+- ⭐ 96 分｜💬 43 留言｜👤 ronsor
+
+### 20. [Everything we like is a psyop?](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
+
+- ⭐ 224 分｜💬 140 留言｜👤 evo_9
+
+### 21. [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day)
+
+- ⭐ 46 分｜💬 19 留言｜👤 dotmanish
+
+### 22. [The future of everything is lies, I guess: Where do we go from here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
+
+- ⭐ 591 分｜💬 619 留言｜👤 aphyr
+
+### 23. [The beginning of scarcity in AI](https://tomtunguz.com/ai-compute-crisis-2026/)
+
+- ⭐ 52 分｜💬 74 留言｜👤 gmays
+
+### 24. [新 unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
+
+- ⭐ 197 分｜💬 45 留言｜👤 kmfrk
+
+### 25. [Launch HN: Kampala (YC W26) – Reverse-工程師 Apps into APIs](https://www.zatanna.ai/kampala)
 
 Hey! I am Alex and together with my co-founder Tarun built Kampala (https:&#x2F;&#x2F;www.zatanna.AI&#x2F;kampala). It’s a man-in-the-middle (MITM) style proxy that allows you to agentically reverse e
 
-- ⭐ 74 分｜💬 63 留言｜👤 alexblackwell_
+- ⭐ 85 分｜💬 67 留言｜👤 alexblackwell_
 
-### 20. ["Wretches, Speak Evil of Me": Goethe and Schiller's Xenions (1896 Edition)](https://publicdomainreview.org/collection/xenions/)
+### 26. [GPT‑Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind/)
 
-- ⭐ 8 分｜💬 1 留言｜👤 benbreen
+- ⭐ 89 分｜💬 22 留言｜👤 babelfish
 
-### 21. [Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan](https://www.bbc.com/news/articles/clyrd818gd2o)
+### 27. [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
 
-- ⭐ 117 分｜💬 67 留言｜👤 flykespice
+- ⭐ 380 分｜💬 81 留言｜👤 simonw
 
-### 22. [Artifacts: Versioned storage that speaks Git](https://blog.cloudflare.com/artifacts-git-for-agents-beta/)
+### 28. [FCC exempts Netgear from ban on foreign routers, doesn't explain 為什麼](https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/)
 
-- ⭐ 158 分｜💬 17 留言｜👤 jgrahamc
-
-### 23. [George Orwell Predicted the Rise of "AI Slop" in Nineteen Eighty-Four](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html)
-
-- ⭐ 44 分｜💬 30 留言｜👤 doener
-
-### 24. [Show HN: CodeBurn – Analyze Claude 代碼 token usage by task](https://github.com/AgentSeal/codeburn)
-
-Built this after realizing I was spending ~$1400&#x2F;week on Claude 代碼 with almost no visibility into what was actually consuming tokens.Tools like ccusage give a cost breakdown per 模型 and per d
-
-- ⭐ 75 分｜💬 17 留言｜👤 agentseal
-
-### 25. [The "Passive Income" trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/)
-
-- ⭐ 147 分｜💬 107 留言｜👤 devonnull
-
-### 26. [IBM AP-101 general-purpose computer [pdf]](https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf)
-
-- ⭐ 19 分｜💬 4 留言｜👤 __patchbit__
-
-### 27. [Show HN: MacMind – A transformer 神經網絡 網絡 in HyperCard on a 1989 Macintosh](https://github.com/SeanFDZ/macmind)
-
-I trained a transformer in HyperCard.  1,216 parameters.  1989 Macintosh.  And yes, it took a while.MacMind is a complete transformer 神經網絡 網絡, embeddings, positional encoding, self-attention, b
-
-- ⭐ 120 分｜💬 34 留言｜👤 hammer32
-
-### 28. [Circuit Transformations, Loop Fusion, and Inductive Proof](https://natetyoung.github.io/carry_save_fusion/)
-
-- ⭐ 25 分｜💬 1 留言｜👤 matt_d
+- ⭐ 28 分｜💬 5 留言｜👤 rawgabbit
 
 ### 29. [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv)
 
-- ⭐ 206 分｜💬 119 留言｜👤 campuscodi
+- ⭐ 234 分｜💬 127 留言｜👤 campuscodi
 
-### 30. [AI cybersecurity is not proof of work](https://antirez.com/news/163)
+### 30. [Artifacts: Versioned storage that speaks Git](https://blog.cloudflare.com/artifacts-git-for-agents-beta/)
 
-Recent and related: Cybersecurity looks like proof of work now - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47769089 - (198 comments)
-
-- ⭐ 200 分｜💬 79 留言｜👤 surprisetalk
+- ⭐ 188 分｜💬 20 留言｜👤 jgrahamc
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Cloudflare Email Service
+- AI cybersecurity is not proof of work
+- The "Passive Income" trap ate a generation of entrepreneurs
+- Circuit Transformations, Loop Fusion, and Inductive Proof
+- Show HN: MacMind – A transformer 神經網絡 網絡 in HyperCard on a 1989 Macintosh
+- Show HN: Marky – A lightweight Markdown viewer for agentic coding
+- Show HN: CodeBurn – Analyze Claude 代碼 token usage by task
 - PHP 8.6 Closure Optimizations
-- Python Package Compiler:Package Matlab Programs for Deployment as Python Package
-- Six Characters
-- Starlink outage hit drone tests, exposing Pentagon's growing reliance on SpaceX
-- AI companies are buying the Slack data of failed startups
-- Japan implements language proficiency requirements for certain visa applicants
-- European civil servants are being forced off WhatsApp
+- Cloudflare Email Service
+- German Dog Commands
+- IBM AP-101 general-purpose computer [pdf]
+- "Wretches, Speak Evil of Me": Goethe and Schiller's Xenions (1896 Edition)
 - North American English Dialects
+- 'Middle Class' Actors Are Getting 'Squeezed Out' of Hollywood
+- Six Characters
 - RedSun: 系統 user access on Win 11/10 and 伺服器 with the April 2026 更新
 - Darkbloom – Private 推論 on idle Macs
 - The paper computer
+- Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]
+- Cave under castle with prehistoric hippo bones 'once in a lifetime' find
 - IPv6 traffic crosses the 50% mark
 - FSF trying to contact Google about spammer sending 10k+ mails from Gmail account
 - Too much discussion of the XOR swap trick
-- Claude Opus 4.7 模型 Card
-- €54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs
-- Mozilla Thunderbolt
-- Kent Beck: Parkinson's
-- Show HN: Home Memory – A local DB of my house, down to cables and pipes
+- Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan
 - US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]
+- Japan implements language proficiency requirements for certain visa applicants
 - ChatGPT for Excel
-- Laravel raised money and now injects ads directly into your 代理
 - Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI
+- AI companies are buying the Slack data of failed startups
 - Retrofitting JIT Compilers into C Interpreters
-- Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus
-- U.S. set to launch tariff refund 系統 on April 20
+- €54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs
+- European civil servants are being forced off WhatsApp
 - 介紹 spherical harmonics for graphics programmers
-- Tailscale-rs: Official Rust library for embedding Tailscale
-- Atlassian is changing how we use customer data on August 17, 2026
 - Do you even need a 資料庫?
+- Opus 4.7 is horrible at writing
+- Show HN: Home Memory – A local DB of my house, down to cables and pipes
+- Claude Opus 4.7 模型 Card
+- Mozilla Thunderbolt
+- Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus
+- Tailscale-rs: Official Rust library for embedding Tailscale
+- Starlink outage hit drone tests, exposing Pentagon's growing reliance on SpaceX
+- Long-term adaptation pathways for Venice and its lagoon under sea-level rise [pdf]
+- Python Package Compiler:Package Matlab Programs for Deployment as Python Package
 - The Gemini app is now on Mac
+- Show HN: Stage – Putting humans back in control of 代碼 review
 - PiCore - Raspberry Pi Port of Tiny Core Linux
-- Cybersecurity looks like proof of work now
 - The buns in McDonald's Japan's burger photos are all slightly askew
-- The Accursèd Alphabetical Clock
-- SDL bans AI-written commits
+- Cybersecurity looks like proof of work now
 - Live Nation illegally monopolized ticketing market, jury finds
-- Sir-Bench – benchmark for 安全 incident response agents
-- US, EU move toward landmark biometric data sharing deal
-- South African-led HIV vaccine trial offers a significant moment of promise
-- Show HN: 代理-cache – Multi-tier 大型語言模型/tool/session caching for Valkey and Redis
-- Reed Hastings is leaving Netflix after 29 years
-- 代理 - Native Mac OS X coding ide/harness
+- Laravel raised money and now injects ads directly into your 代理
 - Direct Win32 API, weird-shaped windows, and 為什麼 they mostly disappeared
-- Mozilla 宣布 "Thunderbolt" as an Open-Source, Enterprise AI Client
-- We gave an AI a 3 year retail lease and asked it to make a profit
-- Hospital Held Woman for Months Against Her Will. SCOTUS to decide if she can sue
-- A Look into NaviDial, Japan's Legacy Phone Service
-- How can I keep from singing?
-- The Death of Character in Game Console Interfaces
-- Cal.com is going closed source
-- Ask HN: How do you maintain flow when vibe coding?
-- U.S. to Create High-Tech Manufacturing Zone in Philippines
-- White House to give US agencies Anthropic Mythos access, Bloomberg News reports
-- God sleeps in the minerals
+- The Accursèd Alphabetical Clock
 - Europe has "maybe 6 weeks of jet fuel left"
-- KLM cancels 160 flights due to fuel shortage
-- Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]
+- Global warming is making the strongest hurricanes stronger
+- Kent Beck: Parkinson's
+- SDL bans AI-written commits
+- Anthropic in talks to give US Government access to its Mythos 模型
+- Show HN: Tracking 熱門 US Science Olympiad Alumni over Last 25 Years
+- 代理 - Native Mac OS X coding ide/harness
+- How can I keep from singing?
+- Five men control AI. Who should control them?
+- Cal.com is going closed source
+- God sleeps in the minerals
 - Google Gemma 4 Runs Natively on iPhone with Full Offline AI 推論
-- List of World Naked Bike Rides
-- Show HN: SmallDocs - Markdown without the frustrations
+- U.S. set to launch tariff refund 系統 on April 20
+- How customer lists and trademarks help companies borrow
+- A Look into NaviDial, Japan's Legacy Phone Service
+- Reed Hastings is leaving Netflix after 29 years
 - Want to write a compiler? Just read these two papers (2008)
-- Google broke its promise to me – now ICE has my data
-- Show HN: Ilha – a UI library that fits in an AI context window
-- Stop 新 York's Attack on 3D Printing
-- I Made the "Next-Level" Camera and I love it
-- Anna's Archive loses $322M Spotify piracy case without a fight
-- Ask HN: Who is using OpenClaw?
-- CRISPR takes important step toward silencing Down syndrome’s extra chromosome
+- South African-led HIV vaccine trial offers a significant moment of promise
+- Apple's $599 MacBook Neo Sold Out Through April Amid Surging Demand
 
 
 ---
