@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+### 1. [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
 
-- ⭐ 270 分｜💬 117 留言｜👤 rbanffy
+- ⭐ 113 分｜💬 28 留言｜👤 DamnInteresting
 
-### 2. [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)
+### 2. [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 
-- ⭐ 491 分｜💬 490 留言｜👤 anabranch
+- ⭐ 80 分｜💬 32 留言｜👤 Eridanus2
 
-### 3. [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+### 3. [Game devs explain the tricks involved with letting you pause a game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
 
-- ⭐ 241 分｜💬 212 留言｜👤 gnabgib
+- ⭐ 180 分｜💬 118 留言｜👤 speckx
 
 ### 4. [What are skiplists good for?](https://antithesis.com/blog/2026/skiptrees/)
 
-- ⭐ 36 分｜💬 6 留言｜👤 mfiguiere
+- ⭐ 138 分｜💬 27 留言｜👤 mfiguiere
 
-### 5. [Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine)
+### 5. [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
 
-- ⭐ 66 分｜💬 25 留言｜👤 tyleo
+- ⭐ 340 分｜💬 146 留言｜👤 rbanffy
 
-### 6. [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
+### 6. [The seven 程式設計 ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 
-- ⭐ 312 分｜💬 88 留言｜👤 NelsonMinar
+- ⭐ 42 分｜💬 13 留言｜👤 helloplanets
 
-### 7. [Game Devs Explain the Tricks Involved with Letting You Pause a Game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
+### 7. [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
-- ⭐ 10 分｜💬 2 留言｜👤 speckx
+- ⭐ 321 分｜💬 315 留言｜👤 gnabgib
 
-### 8. [The becquerel as an SI unit for request rate](https://entropicthoughts.com/si-units-for-request-rate)
+### 8. [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)
 
-- ⭐ 39 分｜💬 9 留言｜👤 fanf2
+- ⭐ 544 分｜💬 533 留言｜👤 anabranch
 
-### 9. [為什麼 Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
+### 9. [Changes in the 系統 prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
 
-- ⭐ 372 分｜💬 358 留言｜👤 RickJWagner
+- ⭐ 41 分｜💬 8 留言｜👤 pretext
 
-### 10. [Metatextual Literacy](https://www.jenn.site/metatextual-literacy/)
+### 10. [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 
-- ⭐ 20 分｜💬 2 留言｜👤 dado3212
+- ⭐ 355 分｜💬 93 留言｜👤 NelsonMinar
 
-### 11. [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
+### 11. [為什麼 Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/)
 
-- ⭐ 134 分｜💬 17 留言｜👤 larve
+- ⭐ 27 分｜💬 23 留言｜👤 naves
 
-### 12. [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)
+### 12. [It's cool to care (2025)](https://alexwlchan.net/2025/cool-to-care/)
 
-- ⭐ 372 分｜💬 119 留言｜👤 f_r_d
+- ⭐ 29 分｜💬 14 留言｜👤 surprisetalk
 
-### 13. [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
+### 13. [Ask HN: How did you land your first projects as a solo 工程師/consultant?](https://news.ycombinator.com/item?id=47822940)
 
-- ⭐ 86 分｜💬 28 留言｜👤 weaksauce
+I’ve spent roughly the last decade and some change as a 軟體 工程師, and recently decided to start a solo consultancy.I’m focused on helping SMEs sort out the messy back-office parts of the busi
 
-### 14. [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
+- ⭐ 66 分｜💬 33 留言｜👤 modelcroissant
 
-- ⭐ 742 分｜💬 375 留言｜👤 yusufusta
+### 14. [Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine)
 
-### 15. [Zero-Copy GPU 推論 from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
+- ⭐ 92 分｜💬 39 留言｜👤 tyleo
 
-- ⭐ 63 分｜💬 24 留言｜👤 agambrahma
+### 15. [為什麼 Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 
-### 16. [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
+- ⭐ 441 分｜💬 415 留言｜👤 RickJWagner
 
-- ⭐ 283 分｜💬 185 留言｜👤 cdrnsf
+### 16. [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
 
-### 17. [Dizzying Spiral Staircase with Single Guardrail Once Led to 熱門 of Eiffel Tower](https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/)
+- ⭐ 88 分｜💬 26 留言｜👤 signa11
 
-- ⭐ 17 分｜💬 6 留言｜👤 bookofjoe
+### 17. [Binary Dependencies: Identifying the Hidden Packages We All Depend On](https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/)
 
-### 18. [Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups](https://www.sumida-aquarium.com/special/sokanzu/en/2026/)
+- ⭐ 33 分｜💬 2 留言｜👤 PaulHoule
 
-- ⭐ 202 分｜💬 8 留言｜👤 Lwrless
+### 18. [Shader Lab, like Photoshop but for shaders](https://eng.basement.studio/tools/shader-lab)
 
-### 19. [Bypassing the kernel for 56ns cross-language IPC](https://github.com/riyaneel/Tachyon/tree/main/docs/adr)
+- ⭐ 8 分｜💬 0 留言｜👤 ragojose
 
-- ⭐ 32 分｜💬 12 留言｜👤 riyaneel
+### 19. [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)
 
-### 20. [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
+- ⭐ 415 分｜💬 127 留言｜👤 f_r_d
 
-- ⭐ 143 分｜💬 66 留言｜👤 sohkamyung
+### 20. [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
 
-### 21. [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/)
+- ⭐ 99 分｜💬 15 留言｜👤 nobody9999
 
-- ⭐ 35 分｜💬 28 留言｜👤 random_
+### 21. [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
 
-### 22. [Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data](https://github.com/drasimwagan/mdv)
+- ⭐ 165 分｜💬 21 留言｜👤 larve
 
-- ⭐ 108 分｜💬 40 留言｜👤 drasim
+### 22. [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
 
-### 23. [Scientists discover “cleaner ants” that groom giant ants in Arizona desert](https://www.sciencedaily.com/releases/2026/04/260414075641.htm)
+- ⭐ 806 分｜💬 404 留言｜👤 yusufusta
 
-https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;ece3.73308https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;13&#x2F;science&#x2F;harvester-cone-an... &#x2F; https:&#x2F;&#x
+### 23. [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd)
 
-- ⭐ 94 分｜💬 37 留言｜👤 t-3
+- ⭐ 10 分｜💬 0 留言｜👤 tosh
 
-### 24. [Understanding the FFT Algorithm (2013)](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
+### 24. [Metatextual Literacy](https://www.jenn.site/metatextual-literacy/)
 
-- ⭐ 80 分｜💬 9 留言｜👤 peter_d_sherman
+- ⭐ 41 分｜💬 3 留言｜👤 dado3212
 
-### 25. [80386 Memory Pipeline](https://nand2mario.github.io/posts/2026/80386_memory_pipeline/)
+### 25. [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
 
-- ⭐ 102 分｜💬 14 留言｜👤 wicket
+- ⭐ 107 分｜💬 38 留言｜👤 weaksauce
 
-### 26. [I dug into the Postgres sources to write my own WAL receiver](https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25)
+### 26. [Dizzying Spiral Staircase with Single Guardrail Once Led to 熱門 of Eiffel Tower](https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/)
 
-- ⭐ 38 分｜💬 5 留言｜👤 alzhi7
+- ⭐ 32 分｜💬 16 留言｜👤 bookofjoe
 
-### 27. [Fuzix OS](https://www.fuzix.org/)
+### 27. [Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups](https://www.sumida-aquarium.com/special/sokanzu/en/2026/)
 
-- ⭐ 96 分｜💬 24 留言｜👤 DeathArrow
+- ⭐ 223 分｜💬 12 留言｜👤 Lwrless
 
-### 28. [Floating Point Fun on Cortex-M Processors](https://danielmangum.com/posts/floating-point-cortex-m/)
+### 28. [Zero-Copy GPU 推論 from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
 
-- ⭐ 50 分｜💬 5 留言｜👤 hasheddan
+- ⭐ 93 分｜💬 36 留言｜👤 agambrahma
 
-### 29. [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
+### 29. [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
 
-- ⭐ 199 分｜💬 124 留言｜👤 coinfused
+- ⭐ 336 分｜💬 206 留言｜👤 cdrnsf
 
-### 30. [Show HN: SmallDocs – Markdown without the frustrations](https://news.ycombinator.com/item?id=47777633)
+### 30. [Bypassing the kernel for 56ns cross-language IPC](https://github.com/riyaneel/Tachyon/tree/main/docs/adr)
 
-Hi HN, I’d like to introduce you to SmallDocs (https:&#x2F;&#x2F;sdocs.dev). SDocs is a CLI + webapp to instantly and 100% privately elegantly preview and share markdown files. (代碼: https:&#x2F;&#x2
-
-- ⭐ 71 分｜💬 36 留言｜👤 FailMore
+- ⭐ 55 分｜💬 23 留言｜👤 riyaneel
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: I made a calculator that works over disjoint sets of intervals
-- Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment
-- PgQue: Zero-Bloat Postgres Queue
+- My first impressions on ROCm and Strix Halo
+- Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data
+- Scientists discover “cleaner ants” that groom giant ants in Arizona desert
+- Understanding the FFT Algorithm (2013)
+- NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating
+- Fuzix OS
+- 80386 Memory Pipeline
+- It's OK to compare floating-points for equality
+- Frank Dudley Beane's Experience with Ergot and Cannabis Indica (1884)
+- SI Units for Request Rate (2024)
 - UpCodes (YC S17) is 招聘 SDRs to help make construction more productive
-- Air Is Full of DNA
+- PgQue: Zero-Bloat Postgres Queue
+- I dug into the Postgres sources to write my own WAL receiver
+- Floating Point Fun on Cortex-M Processors
 - Towards trust in Emacs
-- The world in which IPv6 was a good design
-- SDF Public Access Unix 系統
-- Michael Rabin has died
 - Claude Design
-- Does your DSL little language need operator precedence?
+- EU age verification app: "Worry-free package" with 安全 vulnerabilities
+- Show HN: SmallDocs – Markdown without the frustrations
+- Michael Rabin has died
+- William Cecil's Succession Plan
 - 4-bit floating point FP4
 - Graphs that explain the state of AI in 2026
+- The purist's guide to phở in Hanoi
+- The Work Runs on Different Maps
+- Does your DSL little language need operator precedence?
+- Air Is Full of DNA
+- 為什麼 is IPv6 so complicated?
+- SDF Public Access Unix 系統
 - The simple geometry behind any road
-- Global freedom declined for the 20th consecutive year in 2025
 - Show HN: AI Subroutines – Run automation scripts inside your browser tab
 - The quiet disappearance of the free-range childhood
-- Bluetooth tracker hidden in postcard and mailed to warship exposed its location
-- Dad brains: How fatherhood rewires the male mind
-- Sidephone: A minimalist Android phone with swappable USB keypads
-- 為什麼 is IPv6 so complicated?
-- Amiga Graphics Archive
-- Landmark ancient-genome study shows surprise acceleration of human evolution
 - Measuring Claude 4.7's tokenizer costs
-- Category Theory Illustrated – Orders
-- Amazon is discontinuing Kindle for PC on June 30th
-- Traders placed over $1B in perfectly timed bets on the Iran war
-- Air Canada suspends 6 routes 'no longer economically feasible'
+- Landmark ancient-genome study shows surprise acceleration of human evolution
+- Amiga Graphics Archive
+- Sidephone: A minimalist Android phone with swappable USB keypads
+- Global freedom declined for the 20th consecutive year in 2025
 - All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)
-- Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean
-- Introducing: ShaderPad
-- It is incorrect to "normalize" // in HTTP URL paths
-- I’m spending months coding the old way
-- Isaac Asimov: The Last Question (1956)
 - Ada, its design, and the language that built the languages
-- PostgreSQL production incident caused by transaction ID wraparound
-- Casus Belli Engineering
+- Category Theory Illustrated – Orders
+- Introducing: ShaderPad
+- Isaac Asimov: The Last Question (1956)
+- I’m spending months coding the old way
+- Dad brains: How fatherhood rewires the male mind
+- Bluetooth tracker hidden in postcard and mailed to warship exposed its location
+- Show HN: I made a calculator that works over disjoint sets of intervals
+- Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment
+- It is incorrect to "normalize" // in HTTP URL paths
 - Healthchecks.io now uses self-hosted object storage
-- The USDA's gardening zones have shifted. (Interactive app and map) (2024)
+- Amazon is discontinuing Kindle for PC on June 30th
+- Casus Belli Engineering
 - The GNU libc atanh is correctly rounded
-- The Unix executable as a Smalltalk method (2025) [video]
-- 硬體 Is Hard?
 - Show HN: Smol machines – subsecond coldstart, portable virtual machines
-- Open-source Firecracker microVM orchestrator
+- The Unix executable as a Smalltalk method (2025) [video]
+- Traders placed over $1B in perfectly timed bets on the Iran war
 - Connie Converse was a folk-music genius. Then she vanished
+- Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean
+- Self-hosted webmail client for JMAP protocol: Email, calendar, contacts, files
 - "cat readme.txt" is not safe if you use iTerm2
-- The Great Pyramid of Giza and the Speed of Light
-- Fake Claude site installs malware that gives attackers access to your computer
-- Are the costs of AI agents also rising exponentially? (2025)
 - I built a 3D printing business and ran it for 8 months
+- Are the costs of AI agents also rising exponentially? (2025)
 - Experiment with ICEYE Open Data
+- The RAM shortage could last years
 - Hyperscalers have already outspent most famous US megaprojects
 - Slop Cop
+- 硬體 Is Hard?
 - Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock
-- A simplified 模型 of Fil-C
+- The Great Pyramid of Giza and the Speed of Light
 - Detecting DOSBox from Within the Box
+- The USDA's gardening zones have shifted. (Interactive app and map) (2024)
 - Teddy Roosevelt and Abraham Lincoln in the same photo (2010)
-- Amazon won't release Fire Sticks that support sideloading anymore
-- Generating a color spectrum for an image
-- FIM – Linux framebuffer image viewer
-- Apple TV's Upcoming Cyberpunk Series Will Be the Matrix Meets Blade Runner
-- Middle schooler finds coin from Troy in Berlin
-- The Gregorio project – GPL tools for typesetting Gregorian chant
-- Verkada Deceives School That Verkada Cameras Would Not "Brick"
-- NASA Force
-- Loonies for Loongsons
-- Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG
-- Young sons of U.S. marshal ride horseback from Oklahoma to 新 York (2018)
-- Solitaire simulator for finding the 最佳 strategy: Current record is 8.590%
-- IMDB recent 更新: user reviews can't be accessed anymore without an account
 
 
 ---
