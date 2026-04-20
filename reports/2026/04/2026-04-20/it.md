@@ -4,202 +4,204 @@
 
 ---
 
-### 1. [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)
+### 1. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
 
-- ⭐ 214 分｜💬 78 留言｜👤 doener
+- ⭐ 340 分｜💬 194 留言｜👤 mfiguiere
 
-### 2. [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
+### 2. [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
 
-- ⭐ 84 分｜💬 39 留言｜👤 Someone
+- ⭐ 308 分｜💬 104 留言｜👤 HotGarbage
 
-### 3. [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
+### 3. [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
 
-- ⭐ 289 分｜💬 175 留言｜👤 Liriel
+- ⭐ 253 分｜💬 60 留言｜👤 thomasp85
 
-### 4. [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
+### 4. [The Theory of Interstellar Trade [pdf] (1978)](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 
-- ⭐ 4 分｜💬 1 留言｜👤 thomasp85
+- ⭐ 52 分｜💬 13 留言｜👤 AFF87
 
-### 5. [Focused microwaves allow 3D printers to fuse circuits onto almost anything](https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/)
+### 5. [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
 
-- ⭐ 59 分｜💬 12 留言｜👤 breve
+- ⭐ 568 分｜💬 306 留言｜👤 Liriel
 
-### 6. [Up to 8M Bees Are Living in an Underground 網絡 Beneath This Cemetery](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977)
+### 6. [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
 
-- ⭐ 93 分｜💬 12 留言｜👤 janandonly
+- ⭐ 342 分｜💬 163 留言｜👤 meetpateltech
 
-### 7. [NSA is using Anthropic's Mythos despite blacklist](https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/)
+### 7. [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 
-- ⭐ 151 分｜💬 106 留言｜👤 Palmik
+- ⭐ 136 分｜💬 59 留言｜👤 speckx
 
-### 8. [SDF Public Access Unix 系統](https://sdf.org/?ssh)
+### 8. [10 years ago, someone wrote a 測試 for Servo that included an expiry in 2026](https://mastodon.social/@jdm_/116429380667467307)
 
-- ⭐ 105 分｜💬 45 留言｜👤 neehao
+- ⭐ 124 分｜💬 77 留言｜👤 luu
 
-### 9. [Vercel April 2026 安全 incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+### 9. [Kefir C17/C23 Compiler](https://sr.ht/~jprotopopov/kefir/)
 
-https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-安全-in...
+- ⭐ 27 分｜💬 1 留言｜👤 conductor
 
-- ⭐ 786 分｜💬 448 留言｜👤 colesantiago
+### 10. [Bloom (YC P26) Is 招聘](https://www.ycombinator.com/companies/trybloom/jobs)
 
-### 10. [What if 資料庫 branching was easy?](https://xata.io/blog/what-if-database-branching-was-easy)
+- ⭐ 1 分｜💬 0 留言｜👤 RayFitzgerald
 
-- ⭐ 14 分｜💬 5 留言｜👤 tee-es-gee
+### 11. [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
 
-### 11. [為什麼 macOS27 won't be supporting Intel anymore](https://twitter.com/Lina_Hoshino/status/2046112493320458649)
+- ⭐ 206 分｜💬 89 留言｜👤 Someone
 
-- ⭐ 27 分｜💬 31 留言｜👤 tasoeur
+### 12. [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
-### 12. [Claude Token Counter, now with 模型 comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)
+- ⭐ 150 分｜💬 165 留言｜👤 FiddlerClamp
 
-- ⭐ 147 分｜💬 58 留言｜👤 twapi
+### 13. [The Palantir's Stasi Protocols](https://professorsigmund.com/praxis/palantir-stasi-protocols.html)
 
-### 13. [Stop trying to 工程師 your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
+- ⭐ 61 分｜💬 16 留言｜👤 Prof_Sigmund
 
-- ⭐ 291 分｜💬 143 留言｜👤 walterbell
+### 14. [Atlassian enables default data collection to train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
-### 14. [Zero-copy protobuf and ConnectRPC for Rust](https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02)
+- ⭐ 337 分｜💬 78 留言｜👤 kevcampb
 
-- ⭐ 84 分｜💬 24 留言｜👤 PaulHoule
+### 15. [Sauna effect on heart rate](https://tryterra.co/research/sauna-effect-on-heart-rate)
 
-### 15. [I Made the "Next-Level" Camera and I love it](https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/)
+- ⭐ 278 分｜💬 162 留言｜👤 kyriakosel
 
-- ⭐ 97 分｜💬 17 留言｜👤 ndr
+### 16. [WebUSB Extension for Firefox](https://github.com/ArcaneNibble/awawausb)
 
-### 16. [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design)
+- ⭐ 125 分｜💬 97 留言｜👤 tuananh
 
-- ⭐ 71 分｜💬 35 留言｜👤 tibbar
+### 17. [Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)](https://dl.acm.org/doi/epdf/10.1145/2212877.2212896)
 
-### 17. [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
+- ⭐ 22 分｜💬 6 留言｜👤 aragonite
 
-- ⭐ 193 分｜💬 82 留言｜👤 vinhnx
+### 18. [Chernobyl's last wedding](https://www.bbc.com/news/articles/c0q92lx8q75o)
 
-### 18. [Ben Lerner's Big Feelings](https://www.vulture.com/article/ben-lerner-transcription-interview.html)
+- ⭐ 32 分｜💬 8 留言｜👤 1659447091
 
-- ⭐ 39 分｜💬 18 留言｜👤 prismatic
+### 19. [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)
 
-### 19. [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/)
+- ⭐ 105 分｜💬 18 留言｜👤 startages
 
-- ⭐ 53 分｜💬 42 留言｜👤 martinald
+### 20. [OpenClaw isn't fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
 
-### 20. [NASA Artemis Posters](https://www.nasa.gov/gallery/artemis/)
+- ⭐ 213 分｜💬 250 留言｜👤 feigewalnuss
 
-- ⭐ 13 分｜💬 1 留言｜👤 bookofjoe
+### 21. [Show HN: Alien – Self-hosting with 遠端 management (written in Rust)](https://news.ycombinator.com/item?id=47835599)
 
-### 21. [Turtle WoW classic 伺服器 宣布 shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/)
+Hi HN, I&#x27;m Alon, and I&#x27;m building Alien, an open-source platform for deploying your 軟體 into your customer&#x27;s environment and keeping it fully managed.In my previous startup, I hear
 
-- ⭐ 260 分｜💬 234 留言｜👤 Brajeshwar
+- ⭐ 46 分｜💬 16 留言｜👤 alongub
 
-### 22. [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
+### 22. [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
 
-- ⭐ 207 分｜💬 121 留言｜👤 crescit_eundo
+- ⭐ 659 分｜💬 551 留言｜👤 ramonga
 
-### 23. [Monumental ship burial beneath ancient Norwegian mound predates the Viking Age](https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html)
+### 23. [I'm never buying another Kindle](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
 
-- ⭐ 69 分｜💬 19 留言｜👤 pseudolus
+- ⭐ 145 分｜💬 115 留言｜👤 mikhael
 
-### 24. [Who Is Blake Whiting?](https://theamericanscholar.org/who-is-blake-whiting/)
+### 24. [At Long Last, InfoWars Is Ours](https://theonion.info/)
 
-- ⭐ 21 分｜💬 4 留言｜👤 Caiero
+- ⭐ 156 分｜💬 2 留言｜👤 xnx
 
-### 25. [IEA: Solar overtakes all energy sources in a major global first](https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/)
+### 25. [Focused microwaves allow 3D printers to fuse circuits onto almost anything](https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/)
 
-- ⭐ 94 分｜💬 67 留言｜👤 Klaster_1
+- ⭐ 126 分｜💬 23 留言｜👤 breve
 
-### 26. [Mechanical Keyboard Sounds – A listening Museum](https://sheets.works/data-viz/keyboard-sounds)
+### 26. [NSA is using Anthropic's Mythos despite blacklist](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon)
 
-- ⭐ 154 分｜💬 46 留言｜👤 akashwadhwani35
+- ⭐ 379 分｜💬 270 留言｜👤 Palmik
 
-### 27. [A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)](https://github.com/esutcu/planb-lpm)
+### 27. [Ask HN: 如何 solve the cold start problem for a two-sided marketplace?](https://news.ycombinator.com/item?id=47834213)
 
-- ⭐ 47 分｜💬 18 留言｜👤 debugga
+I&#x27;m building a P2P crowdshipping marketplace, basically BlaBlaCar but for packages instead of passengers. Travelers going between cities&#x2F;countries carry items for people who need to send stu
 
-### 28. [A Pascal's Wager for AI Doomers](https://pluralistic.net/2026/04/16/pascals-wager/)
+- ⭐ 99 分｜💬 101 留言｜👤 alegd
 
-- ⭐ 14 分｜💬 13 留言｜👤 vrganj
+### 28. [Up to 8M Bees Are Living in an Underground 網絡 Beneath This Cemetery](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977)
 
-### 29. [Scientific datasets are riddled with copy-paste errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
+- ⭐ 153 分｜💬 27 留言｜👤 janandonly
 
-- ⭐ 124 分｜💬 38 留言｜👤 jruohonen
+### 29. [I Made the "Next-Level" Camera and I love it](https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/)
 
-### 30. [Two Motorola Transistors Became the Default NPNs](https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/)
+- ⭐ 201 分｜💬 67 留言｜👤 ndr
 
-- ⭐ 38 分｜💬 15 留言｜👤 ChuckMcM
+### 30. [IPC medley: message-queue peeking, io_uring, and bus1](https://lwn.net/Articles/1065490/)
+
+- ⭐ 35 分｜💬 0 留言｜👤 signa11
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- SDF Public Access Unix 系統
+- Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys
+- Claude Token Counter, now with 模型 comparisons
+- The Abstraction Fallacy: 為什麼 AI Can Simulate but Not Instantiate Consciousness
+- Zero-copy protobuf and ConnectRPC for Rust
+- Epicycles All the Way Down (2025)
+- How Motorola’s 2N2222 and 2N3904 transistors became the default NPNs
+- Stop trying to 工程師 your way out of listening to people
+- AI chatbots could be making you stupider
+- NASA Artemis Posters
+- EV sales soar in main European markets as drivers shun expensive petrol
+- What if 資料庫 branching was easy?
+- Cahokia
+- Monumental ship burial beneath ancient Norwegian mound predates the Viking Age
+- Forbes Prediction Market Gamefies Story About Mass Shooting of 8 Children
+- Peter Thiel Is Building a Parallel Justice 系統 – Powered by AI
+- Stripe's Payment APIs: the first 10 years (2020)
+- Mechanical Keyboard Sounds – A listening Museum
+- Who Is Blake Whiting?
+- Allbirds' Move to AI Has Echoes of the Dot-Com Frenzy
+- Vercel April 2026 安全 incident
+- Scientific datasets are riddled with copy-paste errors
+- Brave Origin
+- A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)
+- Turning a Chinese IoT camera into an owl livestream
+- Ben Lerner's Big Feelings
+- IEA: Solar overtakes all energy sources in a major global first
+- Baltic nations brace for impact of Iran war delaying US weapons shipments
+- Sudo for Windows (2024)
 - Swiss AI Initiative (2023)
-- OpenClaw isn't fooling me. I remember MS-DOS
-- Knitout and Kniterate 3
 - Six Levels of Dark Mode (2024)
-- Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon
-- 2,100 Swiss municipalities showing which provider handles their official email
-- Nanopass Framework: Clean Compiler Creation Language
-- I wrote a CHIP-8 emulator in my own 程式設計 language
-- Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)
+- Wife Acceptance Factor
 - Amazon's AI boom is creating mess of duplicate tools and data inside the company
+- 2,100 Swiss municipalities showing which provider handles their official email
+- Users unable to load ChatGPT, Codex and API Platform
+- Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon
+- ChatGPT and Codex Down
+- A Brief History of Fish Sauce
+- Car Owners Are Revolting over Tesla's Self-Driving Promises
+- What we once had (at the height of the XMPP era of the Internet) (2023)
+- Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)
+- Knitout and Kniterate 3
+- Turtle WoW classic 伺服器 宣布 shutdown after Blizzard wins injunction
+- Your Company Is a Skill Now
+- Palantir Wants to Reinstate the Draft
 - SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)
-- The Victorian sex abuse scandal that shocked Britain and changed the law
+- Show HN: CyberWriter – a .md editor built on Apple's (barely-used) on-device AI
 - 4-bit floating point FP4
+- I wrote a CHIP-8 emulator in my own 程式設計 language
+- MerJS: A Zig-native 網頁 framework that ships without Node
+- macOS 27 won’t be supporting Intel anymore
 - Changes in the 系統 prompt between Claude Opus 4.6 and 4.7
-- Judge sides with ICE tracker creators in DHS/DOJ First Amendment lawsuit
-- Regulators monitor Anthropic's Mythos for banking risks
-- Show HN: A lightweight way to make agents talk without paying for API usage
-- Notion leaks email addresses of all editors of any public page
-- Show HN: Faceoff – A terminal UI for following NHL games
-- Interesting Map Geometry and Mathematics
+- Uber is betting that people don't realize 70 * 0.25 = 17.5
+- The Bromine Chokepoint
+- Kimi K2.6: Advancing Open-Source Coding
+- A P2P 網絡 for Reproducible Autoresearch 代碼 Experiments
+- File 系統 Wars
+- Changes to GitHub Copilot Individual Plans
+- The Victorian sex abuse scandal that shocked Britain and changed the law
+- U.S. banks may soon collect citizenship data from customers
 - The RAM shortage could last years
+- Notion leaks email addresses of all editors of any public page
+- Yann LeCun says Dario Amodei "knows nothing about AI effects on jobs"
+- Show HN: A lightweight way to make agents talk without paying for API usage
+- Show HN: Faceoff – A terminal UI for following NHL games
+- Game devs explain the tricks involved with letting you pause a game
 - Hot-wiring the Lisp machine
 - The creative 軟體 industry has declared war on Adobe
 - Show HN: Shader Lab, like Photoshop but for shaders
-- A Common MVP Evolution: Service to 系統 Integration to Product (2017)
-- The seven 程式設計 ur-languages (2022)
-- PopOS Linux: Creating a Bootable Backup USB With Encryption
-- It's cool to care (2025)
-- Archive of BYTE magazine, starting with issue #1 in 1975
-- Reverse Engineering ME2's USB with a Heat Gun and a Knife
-- Game devs explain the tricks involved with letting you pause a game
-- College instructor turns to typewriters to curb AI-written work
-- Reading Input from an USB RFID Card Reader
-- NIST scientists create 'any wavelength' lasers
-- Prove you are a robot: CAPTCHAs for agents
-- What are skiplists good for?
-- Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
-- Ask HN: How did you land your first projects as a solo 工程師/consultant?
-- A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)
-- Binary GCD
-- 為什麼 Japan has such good railways
-- UpCodes (YC S17) is 招聘 SDRs to help make construction more productive
-- The electromechanical angle computer inside the B-52 bomber's star tracker
-- Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data
-- Thoughts and feelings around Claude Design
-- SI Units for Request Rate (2024)
-- Show HN: Newsmaps.io a map of how news topics are covered by different countries
-- Claude Design
-- Scientists discover “cleaner ants” that groom giant ants in Arizona desert
-- NASA working on 'Big Bang' upgrade to keep the Voyagers alive for longer
-- 3D-Printing a Trombone
-- KTaO3-Based Supercurrent Diode
-- How Long Poop Stays in Your Body May Impact Your Health, Study Finds
-- Zero-Copy GPU 推論 from WebAssembly on Apple Silicon
-- Deleteduser.com a $15 PII Magnet
-- Cheap Batteries Are Taking over the Power Grids
-- Airline worker arrested after sharing photos of bomb damage in WhatsApp group
-- To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus (1996)
-- Mac Mini and Mac Studio Supply Shortages
-- Blue Origin's rocket reuse achievement marred by upper stage failure
-- Bypassing the kernel for 56ns cross-language IPC
-- Sudo for Windows (2024)
-- Eliza a Play by Tom Holloway
-- Minimal Viable Programs (2014)
-- Binary Dependencies: Identifying the Hidden Packages We All Depend On
-- The world in which IPv6 was a good design (2017)
-- State of Kdenlive
-- Intel refreshes non-Ultra Core CPUs with 新 silicon for the first time
-- Metatextual Literacy
-- Notes from the SF peptide scene
+- Interesting Map Geometry and Mathematics
 
 
 ---
