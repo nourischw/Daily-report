@@ -4,217 +4,210 @@
 
 ---
 
-### 1. [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
+### 1. [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
 
-- ⭐ 225 分｜💬 49 留言｜👤 kaipereira
+- ⭐ 290 分｜💬 66 留言｜👤 sohkamyung
 
-### 2. [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
+### 2. [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
+
+- ⭐ 63 分｜💬 7 留言｜👤 marklit
+
+### 3. [GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)
+
+- ⭐ 70 分｜💬 27 留言｜👤 ingve
+
+### 4. [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
+
+- ⭐ 28 分｜💬 9 留言｜👤 xnx
+
+### 5. [Nobody Got Fired for Uber's $8M Ledger Mistake?](https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million)
+
+- ⭐ 48 分｜💬 16 留言｜👤 ohduran
+
+### 6. [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)
+
+- ⭐ 83 分｜💬 16 留言｜👤 alfanick
+
+### 7. [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
+
+- ⭐ 444 分｜💬 124 留言｜👤 kaipereira
+
+### 8. [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
 
 Livestream: https:&#x2F;&#x2F;OpenAI.com&#x2F;live&#x2F;系統 card: https:&#x2F;&#x2F;deploymentsafety.OpenAI.com&#x2F;ChatGPT-images-2-0&#x2F;chatg...
 
-- ⭐ 728 分｜💬 557 留言｜👤 wahnfrieden
+- ⭐ 906 分｜💬 756 留言｜👤 wahnfrieden
 
-### 3. [Acetaminophen vs. ibuprofen](https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet)
+### 9. [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
 
-- ⭐ 287 分｜💬 141 留言｜👤 nkurz
+- ⭐ 4 分｜💬 0 留言｜👤 ibobev
 
-### 4. [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/)
+### 10. [Kernel 代碼 removals driven by 大型語言模型-created 安全 reports](https://lwn.net/Articles/1068928/)
 
-https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-026-70656-0
-
-- ⭐ 59 分｜💬 2 留言｜👤 geox
-
-### 5. [Laws of 軟體 Engineering](https://lawsofsoftwareengineering.com)
-
-- ⭐ 944 分｜💬 452 留言｜👤 milanm081
-
-### 6. [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
-
-https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;spacex-says-it-has-option...https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;21&#x2F;business&#x2F;spacex-cursor-de... (https:&#x2F;&#x2F
-
-- ⭐ 522 分｜💬 635 留言｜👤 dmarcos
-
-### 7. [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
-
-Vercel April 2026 安全 incident - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47824463 - April 2026 (485 comments)A Roblox cheat and one AI tool brought down Vercel&#x27;s platform - https
-
-- ⭐ 303 分｜💬 108 留言｜👤 queenelvis
-
-### 8. [Garbage Collection Without Unsafe 代碼](https://fitzgen.com/2024/02/06/safe-gc.html)
-
-- ⭐ 19 分｜💬 1 留言｜👤 foota
-
-### 9. [Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma](https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics)
-
-- ⭐ 6 分｜💬 0 留言｜👤 pseudolus
-
-### 10. [Windows 伺服器 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
-
-- ⭐ 107 分｜💬 85 留言｜👤 jasoneckert
+- ⭐ 15 分｜💬 1 留言｜👤 edward
 
 ### 11. [XOR'ing a register with itself is the idiom for zeroing it out. 為什麼 not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
 
-- ⭐ 4 分｜💬 0 留言｜👤 ingve
+- ⭐ 79 分｜💬 90 留言｜👤 ingve
 
-### 12. [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
+### 12. [為什麼 Musicians Are Manufacturing Sold-Out Shows](https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows)
 
-- ⭐ 271 分｜💬 96 留言｜👤 ahaspel
+- ⭐ 23 分｜💬 8 留言｜👤 helsinkiandrew
 
-### 13. [Drunk post: Things I've learned as a 資深 工程師 (2021)](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
+### 13. [Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter](https://arxiv.org/abs/2604.15039)
 
-- ⭐ 120 分｜💬 76 留言｜👤 zdw
+- ⭐ 16 分｜💬 1 留言｜👤 matt_d
 
-### 14. [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/)
+### 14. [Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma](https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics)
 
-- ⭐ 179 分｜💬 88 留言｜👤 tobr
+- ⭐ 66 分｜💬 2 留言｜👤 pseudolus
 
-### 15. [Meta to start capturing employee mouse movements, keystrokes for AI 訓練](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+### 15. [Laws of 軟體 Engineering](https://lawsofsoftwareengineering.com)
+
+- ⭐ 1084 分｜💬 494 留言｜👤 milanm081
+
+### 16. [All your agents are going async](https://zknill.io/posts/all-your-agents-are-going-async/)
+
+- ⭐ 74 分｜💬 47 留言｜👤 zknill
+
+### 17. [Garbage Collection Without Unsafe 代碼](https://fitzgen.com/2024/02/06/safe-gc.html)
+
+- ⭐ 74 分｜💬 12 留言｜👤 foota
+
+### 18. [MuJoCo – Advanced Physics Simulation](https://github.com/google-deepmind/mujoco)
+
+- ⭐ 53 分｜💬 10 留言｜👤 modinfo
+
+### 19. [I don't chain everything in JavaScript anymore](https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/)
+
+- ⭐ 21 分｜💬 14 留言｜👤 AllThingsSmitty
+
+### 20. [Windows 伺服器 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
+
+- ⭐ 144 分｜💬 116 留言｜👤 jasoneckert
+
+### 21. [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
+
+Vercel April 2026 安全 incident - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47824463 - April 2026 (485 comments)A Roblox cheat and one AI tool brought down Vercel&#x27;s platform - https
+
+- ⭐ 331 分｜💬 110 留言｜👤 queenelvis
+
+### 22. [CATL's 新 LFP battery can charge from 10 to 98% in less than 7 minutes](https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/)
+
+- ⭐ 43 分｜💬 14 留言｜👤 PotatoNinja
+
+### 23. [Drunk post: Things I've learned as a 資深 工程師 (2021)](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
+
+- ⭐ 181 分｜💬 122 留言｜👤 zdw
+
+### 24. [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
+
+https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;spacex-says-it-has-option...https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;21&#x2F;business&#x2F;spacex-cursor-de... (https:&#x2F;&#x2F
+
+- ⭐ 667 分｜💬 826 留言｜👤 dmarcos
+
+### 25. [Changes to GitHub Copilot individual plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/)
+
+- ⭐ 496 分｜💬 200 留言｜👤 zorrn
+
+### 26. [Acetaminophen vs. ibuprofen](https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet)
+
+- ⭐ 490 分｜💬 307 留言｜👤 nkurz
+
+### 27. [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/)
+
+https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-026-70656-0
+
+- ⭐ 86 分｜💬 4 留言｜👤 geox
+
+### 28. [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
+
+- ⭐ 315 分｜💬 105 留言｜👤 ahaspel
+
+### 29. [Meta to start capturing employee mouse movements, keystrokes for AI 訓練](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 Alt link: https:&#x2F;&#x2F;tech.yahoo.com&#x2F;AI&#x2F;Meta-AI&#x2F;articles&#x2F;exclusive-Meta-st...
 
-- ⭐ 486 分｜💬 364 留言｜👤 dlx
+- ⭐ 651 分｜💬 438 留言｜👤 dlx
 
-### 16. [Changes to GitHub Copilot individual plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/)
+### 30. [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/)
 
-- ⭐ 406 分｜💬 160 留言｜👤 zorrn
-
-### 17. [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
-
-- ⭐ 146 分｜💬 93 留言｜👤 sam
-
-### 18. [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
-
-- ⭐ 1176 分｜💬 592 留言｜👤 Trollmann
-
-### 19. [A printing press for biological data](https://www.owlposting.com/p/the-printing-press-for-biological)
-
-- ⭐ 21 分｜💬 0 留言｜👤 crescit_eundo
-
-### 20. [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
-
-- ⭐ 187 分｜💬 49 留言｜👤 petecooper
-
-### 21. [CrabTrap: An 大型語言模型-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap)
-
-https:&#x2F;&#x2F;www.brex.com&#x2F;journal&#x2F;building-crabtrap-open-source
-
-- ⭐ 110 分｜💬 36 留言｜👤 pedrofranceschi
-
-### 22. [Edit store price tags using Flipper Zero](https://github.com/i12bp8/TagTinker)
-
-- ⭐ 328 分｜💬 299 留言｜👤 trueduke
-
-### 23. [Hunting a 34 year old pointer bug in EtherSlip](https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html)
-
-- ⭐ 26 分｜💬 4 留言｜👤 mbbrutman
-
-### 24. [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
-
-- ⭐ 116 分｜💬 43 留言｜👤 ineedasername
-
-### 25. [Some secret management belongs in your HTTP proxy](https://blog.exe.dev/http-proxy-secrets)
-
-- ⭐ 17 分｜💬 3 留言｜👤 tosh
-
-### 26. [Kuri – Zig based 代理-browser alternative](https://github.com/justrach/kuri)
-
-- ⭐ 14 分｜💬 2 留言｜👤 sorcercode
-
-### 27. [Claude 代碼 to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
-
-https:&#x2F;&#x2F;x.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;2046725498592722972https:&#x2F;&#x2F;xcancel.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;204672549859272297...
-
-- ⭐ 511 分｜💬 498 留言｜👤 JamesMcMinn
-
-### 28. [20000 Gates and 20 MIPS [pdf]](https://bitsavers.org/pdf/amdahl/history/20000_Gates_and_20_MIPS_199011.pdf)
-
-- ⭐ 8 分｜💬 3 留言｜👤 ingve
-
-### 29. [Running a Minecraft 伺服器 and more on a 1960s UNIVAC Computer](https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer)
-
-- ⭐ 213 分｜💬 33 留言｜👤 brilee
-
-### 30. [Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor)
-
-Hi HN,
-I built VidStudio, a privacy focused video editor that runs in the browser. I tried to keep it as frictionless as possible, so there are no accounts and no uploads. Everything is persisted on y
-
-- ⭐ 269 分｜💬 86 留言｜👤 kolx
+- ⭐ 220 分｜💬 120 留言｜👤 tobr
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Global growth in solar "the largest ever observed for any source"
+- Fusion Power Plant Simulator
+- Cal.diy: open-source community edition of cal.com
+- Framework Laptop 13 Pro
+- A printing press for biological data
+- Edit store price tags using Flipper Zero
+- CrabTrap: An 大型語言模型-as-a-judge HTTP proxy to secure agents in production
+- Rock carving facts
+- Iran claims US exploited networking equipment backdoors during strikes
 - Trellis AI (YC W24) Is 招聘 engineers to 構建 self-improving agents
-- Theseus, a Static Windows Emulator
+- Running a Minecraft 伺服器 and more on a 1960s UNIVAC Computer
+- Claude 代碼 to be removed from Anthropic's Pro plan?
+- Show HN: VidStudio, a browser based video editor that doesn't upload your files
+- Kuri – Zig based 代理-browser alternative
+- FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX
+- Hunting a 34 year old pointer bug in EtherSlip
+- Anthropic investigating unauthorised access of powerful Mythos AI 模型
+- Context Is 軟體, Weights Are 硬體
+- Some secret management belongs in your HTTP proxy
 - Show HN: GoModel – an open-source AI gateway in Go
-- My practitioner view of program analysis
 - A type-safe, realtime collaborative Graph 資料庫 in a CRDT
-- Zindex – Diagram Infrastructure for Agents
-- Fields Medal Video: Maryna Viazovska (2022)
-- Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)
-- Clarus, Moofo, and Lackey
-- San Diego rents declined following surge in supply
-- Salmon exposed to cocaine and its main byproduct roam more widely
-- Tim Cook's Impeccable Timing
-- Show HN: Backlit Keyboard API for Python
+- Mythos Falls into the Wrong Hands
+- Theseus, a Static Windows Emulator
+- Google unveils chips for AI 訓練 and 推論 in latest shot at NVIDIA
+- My practitioner view of program analysis
 - The Beauty of Bonsai Styles
-- In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition
-- Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling
+- Salmon exposed to cocaine and its main byproduct roam more widely
+- Pandas feels clunky coming from R. What about Haskell?
+- Zindex – Diagram Infrastructure for Agents
+- Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)
+- 20000 Gates and 20 MIPS [pdf]
+- Tim Cook's Impeccable Timing
+- Global growth in solar "the largest ever observed for any source"
 - Less human AI agents, please
-- Show HN: Ctx – a /resume that works across Claude 代碼 and Codex
-- Global energy markets are on the verge of a disaster
-- Kasane: 新 drop-in Kakoune front end with GPU rendering and WASM Plugins
+- Fields Medal Video: Maryna Viazovska (2022)
 - Anthropic says OpenClaw-style Claude CLI usage is allowed again
-- Clojure: Transducers
-- Colorado River disappeared record for 5M years: now we know where it was
-- Tindie store under "scheduled maintenance" for days
-- Anthropic takes $5B from Amazon and pledges $100B in 雲端 spending in return
-- The Mystery of Rennes-Le-Château, Part 4: Non-Fiction Meets Fiction
+- CDC blocks study showing Covid shots cut hospital visits after earlier delay
+- Show HN: Ctx – a /resume that works across Claude 代碼 and Codex
 - Air is full of DNA
-- Show HN: Daemons – we pivoted from building agents to cleaning up after them
+- What Async Promised and What It Delivered
+- Show HN: Backlit Keyboard API for Python
+- Kasane: 新 drop-in Kakoune front end with GPU rendering and WASM Plugins
+- Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling
 - Louis Zocchi, games industry pioneer, has died
-- Slava's Monoid Zoo
-- MNT Reform is an open 硬體 laptop, designed and assembled in Germany
-- 10k-watt GPU meet 40-watt lump of meat
+- Clojure: Transducers
+- Tindie store under "scheduled maintenance" for days
+- Microsoft trims 雲端 desktop pricing, even as it boosts AI costs
+- Anthropic takes $5B from Amazon and pledges $100B in 雲端 spending in return
 - The purist's guide to phở in Hanoi
-- I don't want your PRs anymore
-- Arc Raiders players decided to 測試 who was friendlier, PC or console players
-- TSRX – TypeScript Language Extension for Declarative UI
-- Show HN: Mediator.AI – Using Nash bargaining and LLMs to systematize fairness
-- Modern Rendering Culling Techniques
+- Colorado River disappeared record for 5M years: now we know where it was
 - WebUSB Extension for Firefox
-- Claude 代碼 Removed from $20-a-Month "Pro" Subscription for 新 Users
-- High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction
-- Japan's cherry blossom 資料庫, 1,200 years old, has a 新 keeper
+- MNT Reform is an open 硬體 laptop, designed and assembled in Germany
+- San Diego rents declined following surge in supply
+- Modern Rendering Culling Techniques
+- Show HN: Daemons – we pivoted from building agents to cleaning up after them
+- In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition
 - M 7.4 earthquake – 100 km ENE of Miyako, Japan
-- Show HN: Almanac MCP, turn Claude 代碼 into a Deep Research 代理
-- Expansion Artifacts
-- Apple ignores DMA interoperability requests and contradicts own documentation
-- Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving
-- Monero Community Crowdfunding 系統
+- Everyone born after 2008 to be banned from smoking
+- Japan's cherry blossom 資料庫, 1,200 years old, has a 新 keeper
 - OpenClaw isn't fooling me. I remember MS-DOS
-- John Ternus to become Apple CEO
-- Soul Player C64 – A real transformer running on a 1 MHz Commodore 64
-- Even 'uncensored' models can't say what they want
+- Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving
+- Show HN: Mediator.AI – Using Nash bargaining and LLMs to systematize fairness
+- Slava's Monoid Zoo
 - 10 years ago, someone wrote a 測試 for Servo that included an expiry in 2026
-- Modern Front end Complexity: essential or accidental?
+- Even 'uncensored' models can't say what they want
+- Monero Community Crowdfunding 系統
+- John Ternus to become Apple CEO
+- High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction
+- Soul Player C64 – A real transformer running on a 1 MHz Commodore 64
 - Atlassian enables default data collection to train AI
-- Kefir C17/C23 Compiler
-- GitHub's fake star economy
-- Focused microwaves allow 3D printers to fuse circuits onto almost anything
-- Smoking ban for people born after 2008 in the UK agreed
-- Types and 神經網絡 Networks
-- Sauna effect on heart rate
-- Figma's woes compound with Claude Design
-- 新 Drugs for Pancreatic Cancer Show Remarkable Promise for Deadly Disease
-- Bill banning people born after 2008 from buying tobacco clears UK parliament
-- Year of the IPv6 Overlay 網絡
-- Taskd – a 新 task management 系統
-- Up to 8M Bees Are Living in an Underground 網絡 Beneath This Cemetery
-- Brussels launched an age checking app. Hackers took 2 minutes to break it
-- 如何 make a fast dynamic language interpreter
+- Original GrapheneOS responses to WIRED fact checker
 
 
 ---
