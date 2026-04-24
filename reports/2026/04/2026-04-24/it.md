@@ -4,206 +4,214 @@
 
 ---
 
-### 1. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+### 1. [DeepSeek v4](https://api-docs.deepseek.com/)
 
-- ⭐ 1089 分｜💬 752 留言｜👤 rd
+https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-AI&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main...
 
-### 2. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised)
+- ⭐ 732 分｜💬 398 留言｜👤 impact_sy
 
-- ⭐ 644 分｜💬 318 留言｜👤 tosh
+### 2. [為什麼 I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
 
-### 3. [Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
+- ⭐ 144 分｜💬 27 留言｜👤 RyanShook
+
+### 3. [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/)
+
+- ⭐ 7 分｜💬 1 留言｜👤 larelli
+
+### 4. [An 更新 on recent Claude 代碼 quality reports](https://www.anthropic.com/engineering/april-23-postmortem)
+
+- ⭐ 704 分｜💬 522 留言｜👤 mfiguiere
+
+### 5. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+
+- ⭐ 1326 分｜💬 872 留言｜👤 rd
+
+### 6. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised)
+
+- ⭐ 741 分｜💬 360 留言｜👤 tosh
+
+### 7. [US special forces soldier arrested after allegedly winning $400k on Maduro raid](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade)
+
+https:&#x2F;&#x2F;www.justice.gov&#x2F;usao-sdny&#x2F;pr&#x2F;us-soldier-charged-usin...
+
+- ⭐ 194 分｜💬 237 留言｜👤 nkrisc
+
+### 8. [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
+
+- ⭐ 123 分｜💬 53 留言｜👤 scubakid
+
+### 9. [Meta tells staff it will cut 10% of jobs](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency)
+
+https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;04&#x2F;23&#x2F;Meta-工作-cuts-10-percent-8...
+
+- ⭐ 576 分｜💬 547 留言｜👤 Vaslo
+
+### 10. [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
 
 Hey there! I am Luca, I write https:&#x2F;&#x2F;refactoring.fm&#x2F; and I built Tolaria for myself to manage my own knowledge base (10K notes, 300+ articles written in over 6 years of newslettering) 
 
-- ⭐ 93 分｜💬 30 留言｜👤 lucaronin
+- ⭐ 180 分｜💬 68 留言｜👤 lucaronin
 
-### 4. [U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market](https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0)
+### 11. [MeshCore development team splits over trademark dispute and AI-generated 代碼](https://blog.meshcore.io/2026/04/23/the-split)
 
-- ⭐ 222 分｜💬 93 留言｜👤 paulpauper
+- ⭐ 209 分｜💬 109 留言｜👤 wielebny
 
-### 5. [MeshCore development team splits over trademark dispute and AI-generated 代碼](https://blog.meshcore.io/2026/04/23/the-split)
+### 12. [Familiarity is the enemy: On 為什麼 Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
 
-- ⭐ 151 分｜💬 91 留言｜👤 wielebny
+- ⭐ 27 分｜💬 9 留言｜👤 adityaathalye
 
-### 6. [An 更新 on recent Claude 代碼 quality reports](https://www.anthropic.com/engineering/april-23-postmortem)
+### 13. [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 
-- ⭐ 576 分｜💬 432 留言｜👤 mfiguiere
+- ⭐ 147 分｜💬 94 留言｜👤 joshuablais
 
-### 7. [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
+### 14. [Ubuntu 26.04](https://lwn.net/Articles/1069399/)
 
-- ⭐ 54 分｜💬 2 留言｜👤 mji
+- ⭐ 164 分｜💬 85 留言｜👤 lxst
 
-### 8. [I am building a 雲端](https://crawshaw.io/blog/building-a-cloud)
+### 15. [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
 
-- ⭐ 995 分｜💬 487 留言｜👤 bumbledraven
+- ⭐ 123 分｜💬 5 留言｜👤 mji
 
-### 9. [Palantir employees are starting to wonder if they're the bad guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
+### 16. [Your hex editor should color-代碼 bytes](https://simonomi.dev/blog/color-code-your-bytes/)
 
-- ⭐ 743 分｜💬 509 留言｜👤 pavel_lishin
+- ⭐ 568 分｜💬 151 留言｜👤 tobr
 
-### 10. [My phone replaced a brass plug](https://drobinin.com/posts/my-phone-replaced-a-brass-plug/)
+### 17. [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
 
-- ⭐ 82 分｜💬 13 留言｜👤 valzevul
+- ⭐ 5 分｜💬 0 留言｜👤 aliezsid
 
-### 11. [Show HN: 代理 Vault – Open-source credential proxy and vault for agents](https://github.com/Infisical/agent-vault)
-
-Hey HN! Today we&#x27;re launching 代理 Vault - an 開源 HTTP credential proxy and vault for AI agents. Repo is at https:&#x2F;&#x2F;github.com&#x2F;Infisical&#x2F;代理-vault, and there&#x27;s
-
-- ⭐ 70 分｜💬 25 留言｜👤 dangtony98
-
-### 12. [UK Biobank health data keeps ending up on GitHub](https://biobank.rocher.lc)
+### 18. [UK Biobank health data keeps ending up on GitHub](https://biobank.rocher.lc)
 
 I&#x27;m a researcher studying privacy, and I started tracking the DMCA notices that UK Biobank sends to GitHub. I tracked 110 notices filed so far, targeting 197 代碼 repositories by 170 developers a
 
-- ⭐ 70 分｜💬 18 留言｜👤 Cynddl
+- ⭐ 113 分｜💬 27 留言｜👤 Cynddl
 
-### 13. [Your hex editor should color-代碼 bytes](https://simonomi.dev/blog/color-code-your-bytes/)
+### 19. [My phone replaced a brass plug](https://drobinin.com/posts/my-phone-replaced-a-brass-plug/)
 
-- ⭐ 505 分｜💬 143 留言｜👤 tobr
+- ⭐ 123 分｜💬 23 留言｜👤 valzevul
 
-### 14. [Incident with multple GitHub services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
+### 20. [Show HN: 代理 Vault – Open-source credential proxy and vault for agents](https://github.com/Infisical/agent-vault)
 
-- ⭐ 207 分｜💬 102 留言｜👤 bwannasek
+Hey HN! Today we&#x27;re launching 代理 Vault - an 開源 HTTP credential proxy and vault for AI agents. Repo is at https:&#x2F;&#x2F;github.com&#x2F;Infisical&#x2F;代理-vault, and there&#x27;s
 
-### 15. [Astronomers find the edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/)
+- ⭐ 103 分｜💬 32 留言｜👤 dangtony98
 
-- ⭐ 86 分｜💬 13 留言｜👤 bookofjoe
+### 21. [為什麼 Not Venus?](https://mceglowski.substack.com/p/why-not-venus)
 
-### 16. [A programmable watch you can actually wear](https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682)
+- ⭐ 4 分｜💬 0 留言｜👤 zdw
 
-- ⭐ 141 分｜💬 75 留言｜👤 sarusso
+### 22. [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
 
-### 17. [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
+- ⭐ 256 分｜💬 62 留言｜👤 russellthehippo
 
-- ⭐ 231 分｜💬 55 留言｜👤 russellthehippo
+### 23. [A programmable watch you can actually wear](https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682)
 
-### 18. [French government agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
+- ⭐ 176 分｜💬 82 留言｜👤 sarusso
 
-- ⭐ 357 分｜💬 122 留言｜👤 robtherobber
+### 24. [Incident with multple GitHub services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
 
-### 19. [I spent years trying to make CSS states predictable](https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/)
+- ⭐ 240 分｜💬 117 留言｜👤 bwannasek
 
-- ⭐ 51 分｜💬 14 留言｜👤 tenphi
+### 25. [Astronomers find the edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/)
 
-### 20. [Advanced Packaging Limits Come into Focus](https://semiengineering.com/advanced-packaging-limits-come-into-focus/)
+- ⭐ 113 分｜💬 25 留言｜👤 bookofjoe
 
-- ⭐ 28 分｜💬 5 留言｜👤 PaulHoule
+### 26. [Used La Marzocco machines are coveted by cafe owners and collectors](https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html)
 
-### 21. [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
+https:&#x2F;&#x2F;archive.ph&#x2F;afj75
 
-- ⭐ 174 分｜💬 145 留言｜👤 codezero
+- ⭐ 65 分｜💬 110 留言｜👤 mitchbob
 
-### 22. [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
+### 27. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
 
-- ⭐ 308 分｜💬 105 留言｜👤 maxloh
+- ⭐ 2179 分｜💬 744 留言｜👤 Kaibeezy
 
-### 23. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+### 28. [Writing a C Compiler, in Zig (2025)](https://ar-ms.me/thoughts/c-compiler-1-zig/)
 
-- ⭐ 2146 分｜💬 735 留言｜👤 Kaibeezy
+- ⭐ 159 分｜💬 43 留言｜👤 tosh
 
-### 24. [Writing a C Compiler, in Zig (2025)](https://ar-ms.me/thoughts/c-compiler-1-zig/)
+### 29. [I am building a 雲端](https://crawshaw.io/blog/building-a-cloud)
 
-- ⭐ 139 分｜💬 39 留言｜👤 tosh
+- ⭐ 1051 分｜💬 527 留言｜👤 bumbledraven
 
-### 25. [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
+### 30. [French government agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 
-- ⭐ 98 分｜💬 65 留言｜👤 joshuablais
-
-### 26. [WireGuard for Windows Reaches v1.0](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html)
-
-- ⭐ 104 分｜💬 7 留言｜👤 zx2c4
-
-### 27. [Isopods of the world](https://isopod.site/)
-
-- ⭐ 153 分｜💬 52 留言｜👤 debesyla
-
-### 28. [A Renaissance gambling dispute spawned probability theory](https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/)
-
-- ⭐ 98 分｜💬 15 留言｜👤 sohkamyung
-
-### 29. [If America's so rich, how'd it get so sad?](https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so)
-
-- ⭐ 432 分｜💬 795 留言｜👤 momentmaker
-
-### 30. [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
-
-- ⭐ 847 分｜💬 183 留言｜👤 cdrnsf
+- ⭐ 378 分｜💬 132 留言｜👤 robtherobber
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Our newsroom AI policy
-- Jiga (YC W21) Is 招聘
-- What physical ‘life force’ turns biology’s wheels?
-- Website streamed live directly from a 模型
-- Investigation uncovers two sophisticated telecom surveillance campaigns
-- GPT-5.5: Mythos-Like Hacking, Open to All
-- Over-editing refers to a 模型 modifying 代碼 beyond 什麼是 necessary
+- Advanced Packaging Limits Come into Focus
+- Nev – keyboard focused GUI and terminal text editor
+- A quick look at Mythos run on Firefox: too much hype?
+- I spent years trying to make CSS states predictable
 - GitHub Merge Queue Silently Reverted 代碼
-- Technical, cognitive, and intent debt
-- An amateur historian's favorite books about the Silk Road
+- Isopods of the world
+- Apple fixes bug that cops used to extract deleted chat messages from iPhones
+- A Renaissance gambling dispute spawned probability theory
+- Jiga (YC W21) Is 招聘
+- Girl, 10, finds rare Mexican axolotl under Welsh bridge
+- Our newsroom AI policy
+- Website streamed live directly from a 模型
+- Study Reveals 75% of Enterprises Report Double-Digit AI Failure Rates
+- What physical ‘life force’ turns biology’s wheels?
+- GPT-5.5: Mythos-Like Hacking, Open to All
+- Palantir employees are starting to wonder if they're the bad guys
+- WireGuard for Windows Reaches v1.0
+- AI run store in SF can't stop ordering candies and paying women less.
+- If America's so rich, how'd it get so sad?
+- Friendster Relaunch
 - We found a stable Firefox identifier linking all your private Tor identities
-- How the Tech World Turned Evil
+- Investigation uncovers two sophisticated telecom surveillance campaigns
 - Ping-pong robot beats 熱門-level human players
-- The end of responsive images
 - Qwen3.6-27B: Flagship-Level Coding in a 27B Dense 模型
-- Raylib v6.0
+- An amateur historian's favorite books about the Silk Road
 - Parallel agents in Zed
-- US special forces soldier arrested after allegedly winning $400k on Maduro raid
+- Equity for Europeans
+- In a first, a ransomware family is confirmed to be quantum-safe
 - Books are not too expensive
+- Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image
 - 5x5 Pixel font for tiny screens
-- People Do Not Yearn for Automation
+- Oracle's Deluge of AI Debt Pushes Wall Street to the Limit
 - Windows 9x Subsystem for Linux
-- Bodega cats of 新 York
-- Meta to cut 10% of jobs
-- A History of Erasures Learning to Write Like Leylâ Erbil
-- Highlights from Git 2.54
-- Theft Is Now Progressive Chic
-- Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game
-- OpenAI's response to the Axios 開發者 tool compromise
+- Study shows removing exposure to plastic from our food chain yields quick result
+- Raylib v6.0
+- Microsoft offers buyouts up to 7% of US employees
 - Workspace Agents in ChatGPT
 - XOR'ing a register with itself is the idiom for zeroing it out. 為什麼 not sub?
+- OpenAI's response to the Axios 開發者 tool compromise
+- The end of responsive images
+- Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game
 - What killed the Florida orange?
-- X is shutting down Communities because of low usage and lots of spam
-- Verus is a tool for verifying the correctness of 代碼 written in Rust
-- 新 study compares growing corn for energy to solar production
-- Borrow-checking without type-checking
-- Bring Your 代理 to Teams
 - ChatGPT Images 2.0
-- 'Hairdryer used to trick weather sensor' to win Polymarket bet
-- Canonical Releases Ubuntu 26.04 LTS Resolute Raccoon
+- Romancy – a lightweight durable execution framework
+- Highlights from Git 2.54
+- People Do Not Yearn for Automation
+- Privacy Setup for Android 16 with GrapheneOS
 - Columnar Storage Is Normalization
+- A History of Erasures Learning to Write Like Leylâ Erbil
+- 新 study compares growing corn for energy to solar production
+- Verus is a tool for verifying the correctness of 代碼 written in Rust
+- Borrow-checking without type-checking
+- Over-editing refers to a 模型 modifying 代碼 beyond 什麼是 necessary
+- Bring Your 代理 to Teams
+- X is shutting down Communities because of low usage and lots of spam
+- How the Tech World Turned Evil
 - Our eighth generation TPUs: two chips for the agentic era
-- The Illuminated Man: an unconventional portrait of JG Ballard
+- Unauthorized Discord group gained access to Anthropic's Mythos 模型
+- Technical, cognitive, and intent debt
 - Kernel 代碼 removals driven by 大型語言模型-created 安全 reports
-- Plexus P/20 Emulator
-- The active ingredients: physical activity features linked to healthy brain aging
-- The Neon King of 新 Orleans
-- The Forgotten History of Hershey's Electric Railway (1916) in Cuba
-- You don't need advice from editors on rejected manuscripts
+- The Illuminated Man: an unconventional portrait of JG Ballard
 - Iran claims US exploited networking equipment backdoors during strikes
-- Surveillance Pricing: Exploiting Information Asymmetries
-- 3.4M Solar Panels
-- Effectful Recursion Schemes
 - OpenAI 模型 for masking personally identifiable information (PII) in text
-- DOJ arrests soldier who made $400k betting on Maduro's removal
 - Making RAM at Home [video]
-- The handmade beauty of Machine Age data visualizations
+- 3.4M Solar Panels
+- The Neon King of 新 Orleans
+- You don't need advice from editors on rejected manuscripts
+- Surveillance Pricing: Exploiting Information Asymmetries
 - Another Day Has Come
-- The great Scouse pasty war
-- Show HN: LocalLLM – Recipes for Running the Local 大型語言模型 (Need Contributors)
-- Ultraviolet corona discharges on treetops during storms
-- Approximating Hyperbolic Tangent
-- Scoring Show HN submissions for AI design patterns
-- Fluid dynamics for Toddlers: A much simpler Navier-Stokes derivation
-- Show HN: Broccoli, one shot coding 代理 on the 雲端
-- GPT-5.5 – No ARC-AGI-3 scores
-- All your agents are going async
-- Musicians are manufacturing sold-out shows
-- Garbage collection without unsafe 代碼
-- Schools for the Deaf
+- Effectful Recursion Schemes
 
 
 ---
