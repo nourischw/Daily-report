@@ -4,204 +4,204 @@
 
 ---
 
-### 1. [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
+### 1. [新 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 
-- ⭐ 516 分｜💬 506 留言｜👤 elffjs
+- ⭐ 273 分｜💬 129 留言｜👤 calcifer
 
-### 2. [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
+### 2. [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
 
-- ⭐ 30 分｜💬 4 留言｜👤 arkadiuss
+- ⭐ 638 分｜💬 626 留言｜👤 elffjs
 
-### 3. [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72)
+### 3. [如何 Implement an FPS Counter](https://vplesko.com/posts/how_to_implement_an_fps_counter.html)
 
-- ⭐ 146 分｜💬 23 留言｜👤 Ariarule
+- ⭐ 53 分｜💬 5 留言｜👤 vplesko
 
-### 4. [新 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
+### 4. [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
 
-- ⭐ 14 分｜💬 1 留言｜👤 calcifer
+- ⭐ 87 分｜💬 14 留言｜👤 arkadiuss
 
-### 5. [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas)
+### 5. [Show HN: A Karpathy-style 大型語言模型 wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
 
-- ⭐ 83 分｜💬 38 留言｜👤 andsoitis
+I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on 熱門. No vector or graph db yet.It runs locally in ~&#x2F;.wuphf&#x2F;wiki&#x
 
-### 6. [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
+- ⭐ 104 分｜💬 49 留言｜👤 najmuzzaman
 
-- ⭐ 80 分｜💬 13 留言｜👤 andsoitis
+### 6. [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
 
-### 7. [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+- ⭐ 7 分｜💬 1 留言｜👤 marvinborner
 
-- ⭐ 217 分｜💬 72 留言｜👤 hhh
+### 7. [A Man Who Invented the Future](https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future)
 
-### 8. [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
+- ⭐ 13 分｜💬 4 留言｜👤 apollinaire
 
-- ⭐ 119 分｜💬 16 留言｜👤 pigeons
+### 8. [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas)
 
-### 9. ["Plain text has been around for decades and it's here to stay." – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
+- ⭐ 136 分｜💬 68 留言｜👤 andsoitis
 
-- ⭐ 61 分｜💬 7 留言｜👤 rbanffy
+### 9. [Plain text has been around for decades and it’s here to stay](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
 
-### 10. [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
+- ⭐ 134 分｜💬 54 留言｜👤 rbanffy
 
-- ⭐ 409 分｜💬 105 留言｜👤 alcazar
+### 10. [A 網頁-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
 
-### 11. [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
+- ⭐ 9 分｜💬 3 留言｜👤 mariuz
 
-- ⭐ 159 分｜💬 46 留言｜👤 wise_blood
+### 11. [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
 
-### 12. [(Blender) Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
+- ⭐ 201 分｜💬 30 留言｜👤 pigeons
 
-- ⭐ 36 分｜💬 1 留言｜👤 shankysingh
+### 12. [The mail sent to a video game publisher](https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth)
 
-### 13. [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
+- ⭐ 66 分｜💬 1 留言｜👤 colinprince
 
-- ⭐ 202 分｜💬 122 留言｜👤 NaOH
+### 13. [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72)
 
-### 14. [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)
+- ⭐ 213 分｜💬 41 留言｜👤 Ariarule
 
-- ⭐ 51 分｜💬 13 留言｜👤 signor_bosco
+### 14. [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
 
-### 15. [A disabled kea parrot is the alpha male of his circus](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9)
+- ⭐ 265 分｜💬 82 留言｜👤 hhh
 
-- ⭐ 27 分｜💬 8 留言｜👤 zdw
+### 15. [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
 
-### 16. [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
+- ⭐ 453 分｜💬 112 留言｜👤 alcazar
 
-- ⭐ 204 分｜💬 79 留言｜👤 jamie-simon
+### 16. [PCR is a surprisingly near-optimal technology](https://nikomc.com/2026/04/22/pcr/)
 
-### 17. [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
+- ⭐ 47 分｜💬 6 留言｜👤 mailyk
 
-- ⭐ 158 分｜💬 69 留言｜👤 nreece
+### 17. [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
 
-### 18. [Work with the garage door up (2024)](https://notes.andymatuschak.org/Work_with_the_garage_door_up)
+- ⭐ 192 分｜💬 59 留言｜👤 wise_blood
 
-- ⭐ 152 分｜💬 111 留言｜👤 jxmorris12
+### 18. [開源 memory layer so any AI 代理 can do what Claude.AI and ChatGPT do](https://alash3al.github.io/stash?_v01)
 
-### 19. [PCR Is a (Surprisingly) Near-Optimal Technology](https://nikomc.com/2026/04/22/pcr/)
+- ⭐ 79 分｜💬 38 留言｜👤 alash3al
 
-- ⭐ 3 分｜💬 0 留言｜👤 mailyk
+### 19. [Panipat: The Rise of the Mughals](https://www.historytoday.com/archive/feature/panipat-rise-mughals)
 
-### 20. [MacBook Neo and how the iPad should be](https://craigmod.com/essays/ipad_neo/)
+- ⭐ 5 分｜💬 1 留言｜👤 Thevet
 
-- ⭐ 253 分｜💬 140 留言｜👤 jen729w
+### 20. [Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
 
-### 21. [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
+- ⭐ 74 分｜💬 1 留言｜👤 shankysingh
 
-- ⭐ 162 分｜💬 148 留言｜👤 maguay
+### 21. [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
 
-### 22. [Show HN: I've built a nice home 伺服器 OS](https://lightwhale.asklandd.dk/)
+- ⭐ 266 分｜💬 118 留言｜👤 jamie-simon
 
-ohai!I&#x27;ve 發布 Lightwhale 3, which is possibly the easiest way to self-host Docker containers.It&#x27;s a free, immutable Linux 系統 purpose-built to live-boot straight into a working Docke
+### 22. [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
 
-- ⭐ 105 分｜💬 43 留言｜👤 Zta77
+- ⭐ 150 分｜💬 40 留言｜👤 andsoitis
 
-### 23. [ENIAC's Architects Wove Stories Through Computing](https://spectrum.ieee.org/eniac-80th-anniversary-weaving)
+### 23. [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)
 
-- ⭐ 7 分｜💬 0 留言｜👤 sohkamyung
+- ⭐ 81 分｜💬 27 留言｜👤 signor_bosco
 
-### 24. [Reverse-engineering infrared-based electronic shelf labels](https://www.furrtek.org/?a=esl)
+### 24. [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
 
-- ⭐ 20 分｜💬 2 留言｜👤 pabs3
+- ⭐ 193 分｜💬 161 留言｜👤 maguay
 
-### 25. [The mail sent to a video game publisher](https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth)
+### 25. [A Powerful 新 'QR 代碼' Untangles Math's Knottiest Knots](https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/)
 
-- ⭐ 14 分｜💬 0 留言｜👤 colinprince
+- ⭐ 42 分｜💬 16 留言｜👤 defrost
 
-### 26. [You don't want long-lived keys](https://argemma.com/blog/long-lived-keys/)
+### 26. [Work with the garage door up (2024)](https://notes.andymatuschak.org/Work_with_the_garage_door_up)
 
-- ⭐ 49 分｜💬 30 留言｜👤 kkl
+- ⭐ 167 分｜💬 117 留言｜👤 jxmorris12
 
 ### 27. [DeepSeek v4](https://api-docs.deepseek.com/news/news260424)
 
 https:&#x2F;&#x2F;API-docs.deepseek.com&#x2F;https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-AI&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main...
 
-- ⭐ 1878 分｜💬 1462 留言｜👤 impact_sy
+- ⭐ 1952 分｜💬 1500 留言｜👤 impact_sy
 
-### 28. [開源 memory layer so any AI 代理 can do what Claude.AI and ChatGPT do](https://alash3al.github.io/stash?_v01)
+### 28. [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
 
-- ⭐ 18 分｜💬 1 留言｜👤 alash3al
+- ⭐ 231 分｜💬 139 留言｜👤 NaOH
 
-### 29. [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
+### 29. [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
 
-- ⭐ 39 分｜💬 27 留言｜👤 gregsadetsky
+- ⭐ 290 分｜💬 145 留言｜👤 nreece
 
 ### 30. [Diatec, known for its mechanical keyboard brand FILCO, has ceased operations](https://gigazine.net/gsc_news/en/20260424-filco-diatec/)
 
-- ⭐ 111 分｜💬 41 留言｜👤 gslin
+- ⭐ 128 分｜💬 47 留言｜👤 gslin
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- The Overtom Chess Computer Museum
-- I'm done making desktop applications (2009)
-- I cancelled Claude: Token issues, declining quality, and poor support
+- Show HN: I've built a nice home 伺服器 OS
+- Larry McMurtry's Tall Tales
+- Reverse-engineering infrared-based electronic shelf labels
 - GPT-5.5
+- You don't want long-lived keys
+- I'm done making desktop applications (2009)
+- The Overtom Chess Computer Museum
+- I cancelled Claude: Token issues, declining quality, and poor support
 - Show HN: Browser Harness – Gives 大型語言模型 freedom to complete any browser task
-- SDL Now Supports DOS
-- CC-Canary: Detect early signs of regressions in Claude 代碼
-- Physicists revive 1990s laser concept to propose a next-generation atomic clock
-- SFO Quiet Airport (2025)
-- FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)
-- Different language models learn similar number representations
-- CSS as a Query Language
-- OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API
-- Mounting tar archives as a filesystem in WebAssembly
-- Redesigning the Recurse Center 應用 to inspire curious programmers
-- Hear your 代理 suffer through your 代碼
 - $8800 house design helps prevent fatal diseases in African children
-- ML supports existence of unrecognized transient astronomical phenomena
-- Show HN: VT 代碼 – Rust TUI coding 代理 with multi-provider support
-- 如何 be anti-social – a guide to incoherent and isolating social experiences
-- Devin for Terminal
-- MiniZinc, constraint modelling language solve discrete optimisation problems
+- Escrow 安全 for iCloud Keychain
+- CC-Canary: Detect early signs of regressions in Claude 代碼
+- SDL Now Supports DOS
+- ENIAC's Architects Wove Stories Through Computing
+- MacBook Neo and how the iPad should be
+- Physicists revive 1990s laser concept to propose a next-generation atomic clock
+- Different language models learn similar number representations
+- Hear your 代理 suffer through your 代碼
+- CSS as a Query Language
 - US special forces soldier arrested after allegedly winning $400k on Maduro raid
+- 如何 be anti-social – a guide to incoherent and isolating social experiences
+- Mounting tar archives as a filesystem in WebAssembly
+- SFO Quiet Airport (2025)
+- Alberta startup sells no-tech tractors for half price
+- Redesigning the Recurse Center 應用 to inspire curious programmers
+- MiniZinc, constraint modelling language solve discrete optimisation problems
+- OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API
 - Spinel: Ruby AOT Native Compiler
 - The operating cost of adult and gambling startups
+- You probably wouldn't notice if an AI chatbot slipped ads into its responses
+- Show HN: Gova – The declarative GUI framework for Go
+- An 更新 on recent Claude 代碼 quality reports
+- ML supports existence of unrecognized transient astronomical phenomena
+- Using the internet like it's 1999
+- Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+- FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)
+- 為什麼 Not Venus?
+- UK Biobank health data keeps ending up on GitHub
+- Is Italy the 新 tax haven for the global rich?
+- TorchTPU: Running PyTorch Natively on TPUs at Google Scale
 - TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment
+- Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite
+- Composition shouldn't be this hard
+- Show HN: VT 代碼 – Rust TUI coding 代理 with multi-provider support
+- 8087 Emulation on 8086 Systems
+- I am building a 雲端
 - Generalised plusequals
 - Eurosky.social Account
-- Show HN: Gova – The declarative GUI framework for Go
-- Avnac: Open-source local-first Canva alternative
-- Alberta startup sells no-tech tractors for half price
-- Cactus, a work-stealing parallel recursion runtime for C
-- Using the internet like it's 1999
-- An 更新 on recent Claude 代碼 quality reports
-- Google Flow Music
-- Is Italy the 新 tax haven for the global rich?
-- MenteDB – open-source memory 資料庫 for AI agents (Rust)
-- Could a Claude 代碼 routine watch my finances?
-- Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
-- YC as a Service
-- 為什麼 Not Venus?
-- Useknockout – open-source background removal API, 40× cheaper than remove.bg
-- UK Biobank health data keeps ending up on GitHub
-- TorchTPU: Running PyTorch Natively on TPUs at Google Scale
-- 8087 Emulation on 8086 Systems
-- Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses
-- Composition shouldn't be this hard
-- The bull case for graph DBs in law
-- Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite
-- Jiga (YC W21) Is 招聘
-- Show HN: HNswered – watches for replies to your Hacker News posts and comments
 - A programmable watch you can actually wear
-- Show HN: Nimbus – Browser with Claude 代碼 UX
-- I am building a 雲端
-- My phone replaced a brass plug
-- 為什麼 I Write (1946)
-- Writing a C Compiler, in Zig (2025)
-- Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases
-- Show HN: 代理 Vault – Open-source credential proxy and vault for agents
-- Mac-use: open-source Codex computer-use clone for your OpenClaw on Mac OS
+- Could a Claude 代碼 routine watch my finances?
 - Apple fixes bug that cops used to extract deleted chat messages from iPhones
-- Refuse to let your doctor record you
-- PiClaw v2.0.0 – A 新 Hope
+- Writing a C Compiler, in Zig (2025)
+- My phone replaced a brass plug
+- MenteDB – open-source memory 資料庫 for AI agents (Rust)
+- Cactus, a work-stealing parallel recursion runtime for C
+- Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses
+- Jiga (YC W21) Is 招聘
 - Used La Marzocco machines are coveted by cafe owners and collectors
-- Familiarity is the enemy: On 為什麼 Enterprise systems have failed for 60 years
+- Show HN: 代理 Vault – Open-source credential proxy and vault for agents
+- 為什麼 I Write (1946)
+- Devin for Terminal
 - Astronomers find the edge of the Milky Way
-- Do I belong in tech anymore?
-- Habitual coffee intake shapes the microbiome, modifies physiology and cognition
-- Apple TV 遠端 is the perfect accessory for vibe coding
-- Norway set to become latest country to ban social media for under 16s
+- YC as a Service
+- Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases
+- Familiarity is the enemy: On 為什麼 Enterprise systems have failed for 60 years
+- Your hex editor should color-代碼 bytes
+- Google Flow Music
+- Show HN: Nimbus – Browser with Claude 代碼 UX
+- Avnac: Open-source local-first Canva alternative
+- Our newsroom AI policy
 
 
 ---
