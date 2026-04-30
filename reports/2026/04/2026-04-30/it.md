@@ -4,200 +4,202 @@
 
 ---
 
-### 1. [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/)
+### 1. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
 
-- ⭐ 121 分｜💬 41 留言｜👤 mpweiher
+- ⭐ 212 分｜💬 42 留言｜👤 the-mitr
 
-### 2. [I aggregated 28 US Government auction sites into one search](https://bidprowl.com)
+### 2. [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI 訓練 Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
-- ⭐ 31 分｜💬 10 留言｜👤 scarsam
+- ⭐ 175 分｜💬 47 留言｜👤 j12y
 
-### 3. [Granite 4.1: IBM's 8B 模型 Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
+### 3. [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
 
-- ⭐ 151 分｜💬 84 留言｜👤 steveharing1
+- ⭐ 80 分｜💬 19 留言｜👤 elvis70
 
-### 4. [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
+### 4. [CopyFail Was Not Disclosed to Distros](https://www.openwall.com/lists/oss-security/2026/04/30/10)
 
-- ⭐ 264 分｜💬 100 留言｜👤 jaffathecake
+- ⭐ 130 分｜💬 71 留言｜👤 ori_b
 
-### 5. [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
+### 5. [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/)
 
-- ⭐ 794 分｜💬 476 留言｜👤 ilreb
+- ⭐ 614 分｜💬 527 留言｜👤 mpweiher
 
-### 6. [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
+### 6. [Claude 代碼 refuses requests or charges extra if your commits mention "OpenClaw"](https://twitter.com/theo/status/2049645973350363168)
 
-- ⭐ 352 分｜💬 79 留言｜👤 embedding-shape
+https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168
 
-### 7. [Zed 1.0](https://zed.dev/blog/zed-1-0)
+- ⭐ 535 分｜💬 344 留言｜👤 elmean
 
-- ⭐ 1959 分｜💬 623 留言｜👤 salkahfi
+### 7. [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
 
-### 8. [如何 Disable Firefox's 新 Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
+- ⭐ 209 分｜💬 48 留言｜👤 chmaynard
 
-- ⭐ 22 分｜💬 38 留言｜👤 embedding-shape
+### 8. [Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file](https://honker.dev/)
 
-### 9. [The Zig project's rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+- ⭐ 96 分｜💬 19 留言｜👤 ferriswil
 
-- ⭐ 408 分｜💬 210 留言｜👤 lumpa
+### 9. [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
 
-### 10. [Copy Fail](https://copy.fail/)
+- ⭐ 155 分｜💬 79 留言｜👤 vok
 
-- ⭐ 1142 分｜💬 406 留言｜👤 unsnap_biceps
+### 10. [I aggregated 28 US Government auction sites into one search](https://bidprowl.com)
 
-### 11. [A Primer on Bézier Curves – So What Makes a Bézier Curve?](https://pomax.github.io/bezierinfo/)
+- ⭐ 186 分｜💬 55 留言｜👤 scarsam
 
-- ⭐ 30 分｜💬 11 留言｜👤 mostlyk
+### 11. [Spain's parliament will act against massive IP blockages by LaLiga](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/)
 
-### 12. [GCC 16 has been 發布](https://gcc.gnu.org/gcc-16/changes.html)
+- ⭐ 270 分｜💬 109 留言｜👤 akyuu
 
-- ⭐ 87 分｜💬 5 留言｜👤 HeliumHydride
+### 12. [If Apple makes an iPad Neo, it's all over](https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html)
 
-### 13. [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
+- ⭐ 11 分｜💬 1 留言｜👤 ndr42
 
-- ⭐ 265 分｜💬 56 留言｜👤 rdl
+### 13. [10Gb/s Ethernet: what I did to get it working in my home](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did)
 
-### 14. [Meta in row after workers who saw smart glasses users having sex lose jobs](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
+- ⭐ 52 分｜💬 27 留言｜👤 gpjt
 
-- ⭐ 5 分｜💬 1 留言｜👤 gorbachev
+### 14. [Mozilla's opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
 
-### 15. ["Parse, don't validate" through the years with C++](https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/)
+- ⭐ 458 分｜💬 189 留言｜👤 jaffathecake
 
-- ⭐ 46 分｜💬 19 留言｜👤 dwrodri
+### 15. [A 1960s art school experiment that redefined creativity](https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/)
 
-### 16. [Cursor Camp](https://neal.fun/cursor-camp/)
+- ⭐ 44 分｜💬 8 留言｜👤 pseudolus
 
-- ⭐ 1039 分｜💬 168 留言｜👤 bpierre
+### 16. [Recovering files from beyond the grave using PhotoRec](https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/)
 
-### 17. [U.S. Debt Tops 100% of GDP](https://www.wsj.com/economy/u-s-debt-tops-100-of-gdp-81c013d7)
+- ⭐ 11 分｜💬 1 留言｜👤 speckx
 
-- ⭐ 18 分｜💬 3 留言｜👤 JumpCrisscross
+### 17. [Granite 4.1: IBM's 8B 模型 Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
 
-### 18. [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
+- ⭐ 241 分｜💬 151 留言｜👤 steveharing1
 
-- ⭐ 56 分｜💬 14 留言｜👤 louisbarclay
+### 18. [The Zig project's rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
-### 19. [For the first time in history, more Americans are moving to EU than vice versa](https://twitter.com/benbawan/status/2049303326999609846)
+- ⭐ 595 分｜💬 371 留言｜👤 lumpa
 
-- ⭐ 50 分｜💬 46 留言｜👤 akyuu
+### 19. [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
 
-### 20. [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
+- ⭐ 454 分｜💬 99 留言｜👤 embedding-shape
 
-- ⭐ 140 分｜💬 20 留言｜👤 the-mitr
+### 20. [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
 
-### 21. [My Stratum-0 Atomic Clock](https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html)
+- ⭐ 979 分｜💬 585 留言｜👤 ilreb
 
-- ⭐ 3 分｜💬 0 留言｜👤 g0xA52A2A
+### 21. [How Semiconductors Were Made in America](https://www.siliconimist.com/p/semiconductors-made-in-america)
 
-### 22. [London to Calcutta by Bus (2022)](https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html)
+- ⭐ 10 分｜💬 2 留言｜👤 johncole
 
-- ⭐ 86 分｜💬 28 留言｜👤 CGMthrowaway
+### 22. [The Science Behind Honey's Eternal Shelf Life (2013)](https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
 
-### 23. [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
+- ⭐ 47 分｜💬 28 留言｜👤 downbad_
 
-- ⭐ 164 分｜💬 133 留言｜👤 reconnecting
+### 23. [A Primer on Bézier Curves – So What Makes a Bézier Curve?](https://pomax.github.io/bezierinfo/)
 
-### 24. [OpenTrafficMap](https://opentrafficmap.org/)
+- ⭐ 101 分｜💬 21 留言｜👤 mostlyk
 
-- ⭐ 305 分｜💬 86 留言｜👤 moooo99
+### 24. [Kubereboot/Kured: Kubernetes Reboot Daemon](https://github.com/kubereboot/kured)
 
-### 25. [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
+- ⭐ 10 分｜💬 1 留言｜👤 ankitg12
 
-- ⭐ 366 分｜💬 88 留言｜👤 agwa
+### 25. [Show HN: TRiP – a complete transformer engine in C built from scratch just by me](https://github.com/carlovalenti/TRiP)
 
-### 26. [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+- ⭐ 16 分｜💬 1 留言｜👤 carlovalenti
 
-- ⭐ 58 分｜💬 22 留言｜👤 brudgers
+### 26. [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
 
-### 27. [Mike: open-source legal AI](https://mikeoss.com/)
+- ⭐ 4 分｜💬 0 留言｜👤 ethagnawl
 
-- ⭐ 135 分｜💬 59 留言｜👤 noleary
+### 27. [My Stratum-0 Atomic Clock](https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html)
 
-### 28. [Laws of UX](https://lawsofux.com/)
+- ⭐ 62 分｜💬 21 留言｜👤 g0xA52A2A
 
-- ⭐ 304 分｜💬 51 留言｜👤 bobbiechen
+### 28. [What can we gain by losing infinity?](https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/)
 
-### 29. [An open-source stethoscope that costs between $2.5 and $5 to produce](https://github.com/GliaX/Stethoscope)
+- ⭐ 82 分｜💬 86 留言｜👤 Tomte
 
-- ⭐ 276 分｜💬 120 留言｜👤 0x54MUR41
+### 29. [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
 
-### 30. [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262)
+- ⭐ 319 分｜💬 76 留言｜👤 rdl
 
-- ⭐ 1177 分｜💬 501 留言｜👤 homebrewer
+### 30. [Largest Digital Human Rights Conference Suddenly Canceled](https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/)
+
+- ⭐ 52 分｜💬 9 留言｜👤 Brajeshwar
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- 為什麼 I still reach for Lisp and Scheme instead of Haskell
-- Joby kicks off NYC electric air taxi demos with historic JFK flight
-- Creating a Color Palette from an Image
+- Because It Doesn't Have To
+- GCC 16 has been 發布
+- DataCenter.FM – background noise app featuring the sound of the AI bubble
+- Zed 1.0
+- "Parse, don't validate" through the years with C++
+- House GOP concedes in DHS funding fight, reopening TSA but blocking ICE funds
+- Meta in row after workers who saw smart glasses users having sex lose jobs
+- OpenTrafficMap
+- Biology is a Burrito: A text- and visual-based journey through a living cell
+- Copy Fail
+- London to Calcutta by Bus (2022)
+- Monad Tutorials Timeline
+- Mike: open-source legal AI
 - Gooseworks (YC W23) Is 招聘 a Founding Growth 工程師
-- 1.4 GW: battery storage at former Grohnde nuclear power plant
-- Consequences of passing too few register parameters to a C function
+- I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens
+- Show HN: FusionCore: ROS 2 sensor fusion that outperforms robot_localization
+- Fast GPU Linear Algebra via Compile Time Expression Fusion
+- SatoshiGuesser – Roll for Bitcoin
+- Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs
 - Ghostty is leaving GitHub
-- We need a federation of forges
-- Functional programmers need to take a look at Zig
-- A grounded conceptual 模型 for ownership types in Rust
+- Joby kicks off NYC electric air taxi demos with historic JFK flight
+- Most Swiss back initiative to cap population at 10M, poll shows
+- Cursor Camp
+- Radio Lockdown Averted
+- Official SAP NPM packages compromised to steal credentials
+- Consequences of passing too few register parameters to a C function
 - 如何 構建 the Future: Demis Hassabis [video]
-- Copy-fail-destroyer: K8s remediation for CVE-2026-31431
-- I accidentally made law enforcement shut down their fake honeypot
-- Warm Burnout: editor and terminal color scheme
-- Show HN: Throwaway – open-source disposable email checker and API
+- PostgreSQL 19 features I'm excited about
+- Functional programmers need to take a look at Zig
+- We're in 1905: 為什麼 Electricity (Not Dot-Com) Is the Right AI Analogy
+- Creating a Color Palette from an Image
 - Ramp's Sheets AI Exfiltrates Financials
-- 為什麼 isn't AMD's MI300X competitive?
+- A grounded conceptual 模型 for ownership types in Rust
+- I accidentally made law enforcement shut down their fake honeypot
+- FastCGI: 30 years old and still the better protocol for reverse proxies
+- Iran war disrupts the circuit board supply chain, raises costs for tech firms
+- Warm Burnout: editor and terminal color scheme
 - DRAM Crunch: Lessons for 系統 Design
-- Vera: a 程式設計 language designed for machines to write
+- Talkie: a 13B vintage language 模型 from 1930
 - Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years
 - GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts
 - Virtualisation on Apple Silicon Macs is different
-- A 25-Year-Fight over a 2-Second Sample
-- Will you heed my warnings now?
+- You're probably taking the wrong painkiller: acetaminophen vs. ibuprofen
+- Vera: a 程式設計 language designed for machines to write
+- Copy-fail-destroyer: K8s remediation for CVE-2026-31431
 - Postgres's lateral joins allow for quite the good eDSL
-- Talkie: a 13B vintage language 模型 from 1930
-- Online age verification is the hill to die on
-- Soft launch of open-source 代碼 platform for government
-- You can beat the binary search
-- At Protocol: Building the Social Internet
-- Maryland becomes first state to ban surveillance pricing in grocery stores
-- Chrome looks set to ship an 大型語言模型 Prompt API to the 網頁. We oppose this API
-- Considering a Sphere
-- Letting AI play my game – building an agentic 測試 harness to help play-testing
-- Mistral Medium 3.5
-- Microsoft open sources DOS 1.00 on 45th anniversary
-- Bugs Rust won't catch
-- Making AI chatbots friendly leads to mistakes and support of conspiracy theories
-- The Lingua Franca of LaTeX (2019)
-- Improving ICU handovers by learning from Scuderia Ferrari F1 team
-- Tell HN: VS 代碼 v1.117.0 automatically adds GitHub Copilot as your co author
-- Zulip 12.0 發布
-- Before GitHub
-- Show HN: Rocky – Rust SQL engine with branches, replay, column lineage
-- 200 Journalists Applaud the Internet Archive's Role in Preserving Public Record
+- An open-source stethoscope that costs between $2.5 and $5 to produce
 - Show HN: A 新 benchmark for testing LLMs for deterministic outputs
-- Show HN: Qumulator – quantum circuit simulator, 1000 qubits, no GPU
-- ASML became the chokepoint for cutting-edge chips
-- HardenedBSD Is Now Officially on Radicle
-- UAE to leave OPEC
-- How ChatGPT serves ads
-- Claude.AI and API unavailable [fixed]
-- Intel Arc Pro B70 Review
-- I have officially retired from Emacs
-- Show HN: Rip.so – a graveyard for dead internet things
-- GitHub Copilot 代碼 review will start consuming GitHub Actions minutes
-- Show HN: Drive any macOS app in the background without stealing the cursor
-- I benchmarked Claude 代碼's caveman plugin against "be brief."
-- Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation
-- Show HN: 代理 that refuses to run commands without human approval
-- VibeVoice: Open-source frontier voice AI
-- Withnail's Coat and I
-- Using a 1978 terminal in 2026 (DEC VT-100) · Nikhil Jha
-- GitHub Actions is the weakest link
-- Gallium oxide electronics withstand extreme cold
-- Show HN: Live Sun and Moon Dashboard with NASA Footage
-- Weight-Loss Drugs May Reduce Buildup of Alzheimer's Proteins
-- Lessons from Building an OTel Normalizer for GenAI
-- CJIT: C, Just in Time
-- Who owns the 代碼 Claude 代碼 wrote?
+- Laws of UX
+- Banksy confirms he's behind statue in central London
+- Soft launch of open-source 代碼 platform for government
+- HERMES.md in commit messages causes requests to route to extra usage billing
+- A 新 Study Shows How Ad-Based Technology Is Used for Surveillance
+- 為什麼 I still reach for Lisp and Scheme instead of Haskell
+- Online age verification is the hill to die on
+- How not to ban surveillance pricing
+- Letting AI play my game – building an agentic 測試 harness to help play-testing
+- Gone but Not Forgotten: Recovering the Dead 網頁
+- A 25-Year-Fight over a 2-Second Sample
+- No 新 trial for Sam Bankman-Fried
+- Maryland becomes first state to ban surveillance pricing in grocery stores
+- At Protocol: Building the Social Internet
+- Show HN: Throwaway – open-source disposable email checker and API
+- Bugs Rust won't catch
+- Japan is building cardboard suicide drones
+- Before GitHub
+- Mistral Medium 3.5
+- Claude⁹'s confession deleting 資料庫: 'I violated every principle I was given'
+- Will you heed my warnings now?
+- I tricked 3M people into believing in an evil fake polycule
 
 
 ---
