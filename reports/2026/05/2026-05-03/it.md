@@ -4,202 +4,208 @@
 
 ---
 
-### 1. [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime 網頁](https://github.com/bring-shrubbery/ml-sharp-web)
+### 1. [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
 
-- ⭐ 47 分｜💬 4 留言｜👤 bring-shrubbery
+After years of flying Southwest, I recently had the opportunity to tour the headquarters in Dallas. I particularly enjoyed seeing the full-motion 737 simulators, 網絡 Operations Center, and TechOps
 
-### 2. [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+- ⭐ 67 分｜💬 6 留言｜👤 KatiMichel
 
-- ⭐ 295 分｜💬 127 留言｜👤 unignorant
+### 2. [BYOMesh – 新 LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
 
-### 3. [This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/)
+- ⭐ 18 分｜💬 3 留言｜👤 nullagent
 
-- ⭐ 385 分｜💬 92 留言｜👤 richardboegli
+### 3. [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)
 
-### 4. [Dav2d](https://code.videolan.org/videolan/dav2d)
+- ⭐ 402 分｜💬 231 留言｜👤 teleforce
 
-- ⭐ 514 分｜💬 146 留言｜👤 dabinat
+### 4. [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
 
-### 5. [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
+- ⭐ 57 分｜💬 27 留言｜👤 xngbuilds
 
-- ⭐ 344 分｜💬 82 留言｜👤 valzevul
+### 5. [How far behind is each major Chromium browser?](https://chromium-drift.pages.dev/)
 
-### 6. [Windows quality 更新: Progress we've made since March](https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/)
+- ⭐ 85 分｜💬 28 留言｜👤 skaul
 
-- ⭐ 77 分｜💬 179 留言｜👤 jovial_cavalier
+### 6. [Alert-driven monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)
 
-### 7. [Group averages obscure how an individual's brain controls behavior: study](https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html)
+- ⭐ 67 分｜💬 28 留言｜👤 khazit
 
-- ⭐ 28 分｜💬 4 留言｜👤 hhs
+### 7. [什麼是 Z-Angle Memory and 為什麼 is Intel developing it?](https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/)
 
-### 8. [Do_not_track](https://donottrack.sh/)
+- ⭐ 52 分｜💬 17 留言｜👤 rbanffy
 
-- ⭐ 389 分｜💬 121 留言｜👤 RubyGuy
+### 8. [Metal Gear Solid 2's source 代碼 has been leaked on 4chan](https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/)
 
-### 9. [Unverified Evaluations in Dusk's PLONK](https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/)
+- ⭐ 74 分｜💬 22 留言｜👤 rishabhd
 
-- ⭐ 27 分｜💬 3 留言｜👤 deut-erium
+### 9. [Nuclear receptor 4A1 linked to health effects of coffee: study](https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html)
 
-### 10. [Neanderthals ran 'fat factories' 125,000 years ago (2025)](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago)
+https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nuclear_receptor_4A1
 
-- ⭐ 221 分｜💬 108 留言｜👤 andsoitis
+- ⭐ 79 分｜💬 55 留言｜👤 pseudolus
 
-### 11. [Specsmaxxing – On overcoming AI psychosis, and 為什麼 I write specs in YAML](https://acai.sh/blog/specsmaxxing)
+### 10. [Cordouan Lighthouse](https://en.wikipedia.org/wiki/Cordouan_Lighthouse)
 
-- ⭐ 156 分｜💬 168 留言｜👤 brendanmc6
+- ⭐ 14 分｜💬 0 留言｜👤 Petiver
 
-### 12. [Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php)
+### 11. [For thirty years I programmed with Phish on, every day](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html)
 
-- ⭐ 56 分｜💬 21 留言｜👤 mikhael
+- ⭐ 152 分｜💬 103 留言｜👤 azhenley
 
-### 13. [Utilyze measures how efficiently your GPU is doing useful work](https://github.com/systalyze/utilyze)
+### 12. [Show HN: Apple's SHARP running in the browser via ONNX runtime 網頁](https://github.com/bring-shrubbery/ml-sharp-web)
 
-- ⭐ 7 分｜💬 0 留言｜👤 nateb2022
+Hi HN, author here. SHARP is Apple&#x27;s recent single-image 3D Gaussian splatting 模型 (https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2512.10685). Their reference 代碼 is PyTorch + a pretty heavy pipel
 
-### 14. [Investors pile into clean energy as Iran war drives push for energy 安全](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
+- ⭐ 133 分｜💬 35 留言｜👤 bring-shrubbery
 
-- ⭐ 42 分｜💬 27 留言｜👤 JumpCrisscross
+### 13. [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
 
-### 15. [Systemd-經理-TUI: A TUI 應用 for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
+- ⭐ 369 分｜💬 180 留言｜👤 unignorant
 
-- ⭐ 28 分｜💬 7 留言｜👤 thunderbong
+### 14. [Group averages obscure how an individual's brain controls behavior: study](https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html)
 
-### 16. [Inventions for battery reuse and recycling increase seven-fold in last decade](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade)
+- ⭐ 97 分｜💬 25 留言｜👤 hhs
 
-- ⭐ 207 分｜💬 21 留言｜👤 JeanKage
+### 15. [Porsche will contest Laguna Seca in historic colors of the Apple Computer livery](https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html)
 
-### 17. [VS 代碼 inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
+- ⭐ 82 分｜💬 28 留言｜👤 Amorymeltzer
 
-- ⭐ 1283 分｜💬 670 留言｜👤 indrora
+### 16. [Text-to-CAD](https://github.com/earthtojake/text-to-cad)
 
-### 18. [The 代理 harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)
+- ⭐ 5 分｜💬 0 留言｜👤 softservo
 
-- ⭐ 118 分｜💬 86 留言｜👤 shad42
+### 17. [This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/)
 
-### 19. [Benchmarking a Bug Scanner](https://blog.detail.dev/posts/bug-scanner/)
+- ⭐ 467 分｜💬 133 留言｜👤 richardboegli
 
-- ⭐ 5 分｜💬 2 留言｜👤 drob
+### 18. [Dav2d](https://code.videolan.org/videolan/dav2d)
 
-### 20. [A more efficient implementation of Shor's algorithm](https://lwn.net/Articles/1066156/)
+- ⭐ 574 分｜💬 166 留言｜👤 dabinat
 
-- ⭐ 90 分｜💬 23 留言｜👤 signa11
+### 19. [Six years perfecting maps on watchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
 
-### 21. [Clojurists Together – Q2 2026 開源 Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
+- ⭐ 412 分｜💬 106 留言｜👤 valzevul
 
-- ⭐ 115 分｜💬 14 留言｜👤 dragandj
+### 20. [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case](https://arxiv.org/abs/2604.25679)
 
-### 22. [Because it doesn't have to](https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html)
+- ⭐ 138 分｜💬 125 留言｜👤 mrtz
 
-- ⭐ 59 分｜💬 13 留言｜👤 zdw
+### 21. [Do_not_track](https://donottrack.sh/)
 
-### 23. [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
+- ⭐ 473 分｜💬 146 留言｜👤 RubyGuy
 
-Hello HN,I was away from my computer for two weeks, and after coming back and reading the latest discussions on HN about coding assistants (models, harnesses), I felt very out of the loop. My normal p
+### 22. [Windows quality 更新: Progress we've made since March](https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/)
 
-- ⭐ 125 分｜💬 64 留言｜👤 yunusabd
+- ⭐ 146 分｜💬 414 留言｜👤 jovial_cavalier
 
-### 24. [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
+### 23. [Largest electric autonomous container ship begins commercial service](https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html)
 
-- ⭐ 252 分｜💬 94 留言｜👤 moosia
+- ⭐ 22 分｜💬 7 留言｜👤 Geekette
 
-### 25. [A physics engine with incremental rollback for multiplayer games](https://easel.games/blog/2026-rollback-physics)
+### 24. [Show HN: I built a RISC-V emulator that runs DOOM](https://github.com/lalitshankarch/rvcore)
 
-- ⭐ 97 分｜💬 35 留言｜👤 BSTRhino
+Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=f5uygzEmdLwHi HN,I built a RISC-V emulator that implements the RV32IM instruction set and a minimal syscall interface to run DOOM. A few weeks ago,
 
-### 26. [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php)
+- ⭐ 21 分｜💬 0 留言｜👤 Flex247A
 
-- ⭐ 42 分｜💬 2 留言｜👤 victorkulla
+### 25. [Neanderthals ran 'fat factories' 125,000 years ago (2025)](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago)
 
-### 27. [Maryland to ban A.I.-driven price increases in grocery stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
+- ⭐ 270 分｜💬 146 留言｜👤 andsoitis
 
-- ⭐ 180 分｜💬 139 留言｜👤 doener
+### 26. [The Oscars just banned AI from winning acting and writing awards](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740)
 
-### 28. [The USB Situation](https://randsinrepose.com/archives/the-usb-situation/)
+- ⭐ 38 分｜💬 11 留言｜👤 ZeidJ
 
-- ⭐ 135 分｜💬 179 留言｜👤 herbertl
+### 27. [Utilyze measures how efficiently your GPU is doing useful work](https://github.com/systalyze/utilyze)
 
-### 29. [DeepSeek V4 – almost on the frontier](https://simonwillison.net/2026/Apr/24/deepseek-v4/)
+- ⭐ 45 分｜💬 10 留言｜👤 nateb2022
 
-- ⭐ 555 分｜💬 338 留言｜👤 indigodaddy
+### 28. [Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php)
 
-### 30. [Windows API is Successful Cross-Platform API (2024)](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
+- ⭐ 98 分｜💬 38 留言｜👤 mikhael
 
-- ⭐ 87 分｜💬 90 留言｜👤 phendrenad2
+### 29. [Breaking Up with WordPress After Two Decades](https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades)
+
+- ⭐ 59 分｜💬 29 留言｜👤 owenbuilds
+
+### 30. [Inventions for battery reuse and recycling increase seven-fold in last decade](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade)
+
+- ⭐ 236 分｜💬 34 留言｜👤 JeanKage
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- VS 代碼 inserting 'Co-Authored-by Copilot' into commits regardless of usage
+- Ghost Operators: How Israeli Telecoms Were Exploited to Track Citizens Worldwide
+- The 代理 harness belongs outside the sandbox
+- Specsmaxxing – On overcoming AI psychosis, and 為什麼 I write specs in YAML
+- I Recreated the Apple Lisa Computer Inside an FPGA – The LisaFPGA Project
+- Clojurists Together – Q2 2026 開源 Funding Announcement
+- Unverified Evaluations in Dusk's PLONK
+- A more efficient implementation of Shor's algorithm
+- DeepSeek V4 – almost on the frontier
+- Systemd-經理-TUI: A TUI 應用 for managing systemd services
+- AI, Intimacy, and the Data You Never Meant to Share
+- A physics engine with incremental rollback for multiplayer games
+- How many e's are in the word seventeen [video] (AI hallucination)
+- Running official Arch Linux on Arm (not to be confused ArchLinuxARM)
+- Because it doesn't have to
+- Underwater robot tracks sperm whale conversations in real time
+- Modern jet engine turbines: each blade a single crystal (2015)
+- Physical buttons outperform touchscreens in 新 cars (2023)
+- Haskell: Debugging
 - Barman – Backup and Recovery 經理 for PostgreSQL
+- Ask HN: Those building Swift apps without touching Xcode, 什麼是 your workflow?
+- Show HN: State of the Art of Coding Models, According to Hacker News Commenters
+- 安全 Through Obscurity Is Not Bad
 - Little magazines are back
-- When Dawkins met Claude – Could this AI be conscious?
 - NetHack 5.0.0
-- Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge
-- Unsigned sizes: A five year mistake
 - Refusal in Language Models Is Mediated by a Single Direction
-- A 網絡 smuggling Starlink tech into Iran to beat internet blackout
+- I Built SpecDD Because AI Kept Forgetting What We Were Building
+- Unsigned sizes: A five year mistake
 - Open Design: Use Your Coding 代理 as a Design Engine
-- Dabbling in Erlang, part 2: A minimal introduction (2013)
-- Executable installer will stop being 發布 with Python 3.16
-- California to begin ticketing driverless cars that violate traffic laws
-- 為什麼 are there both TMP and TEMP environment variables? (2015)
-- Dotcl: Common Lisp Implementation on .NET
-- Simple and correct snapshot isolation
-- Modern C++ 程式設計: Busato
-- 為什麼 does it take so long to release black fan versions?
-- Roblox shares plummet 18% as child safety measures weigh on bookings
-- Flue is a TypeScript framework for building the next generation of agents
-- Show HN: Pollen – distributed WASM runtime, no control plane, single binary
-- Learning Pseudorandom Numbers with Transformers
-- I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
-- Show HN: DAC – open-source dashboard as 代碼 tool for agents and humans
-- 開源 does not imply open community
-- Uber wants to turn its drivers into a sensor grid for self-driving companies
-- Voice-AI-for-Beginners – A curated learning path for developers
-- Sourcefeed – a pop-up RSS service
+- When Dawkins met Claude – Could this AI be conscious?
 - CollectWise (YC F24) Is 招聘
-- America's Expanding Domestic Surveillance
-- Comparing the Z80 and 6502 to Their Relatives
+- 為什麼 are there both TMP and TEMP environment variables? (2015)
+- Business Owners Are Worst Clients
+- Dotcl: Common Lisp Implementation on .NET
+- OSM-FR Panoramax 伺服器 "only for testing if outside of France"
+- 為什麼 does it take so long to release black fan versions?
+- Benchmarking a Bug Scanner
+- Utah to hold websites liable for users who mask their location with VPNs
+- Dabbling in Erlang, part 2: A minimal introduction (2013)
+- California to begin ticketing driverless cars that violate traffic laws
+- I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
+- Screw You Realtek
+- Show HN: Pollen – distributed WASM runtime, no control plane, single binary
+- Windows API is Successful Cross-Platform API (2024)
+- Flue is a TypeScript framework for building the next generation of agents
+- Roblox shares plummet 18% as child safety measures weigh on bookings
+- A 網絡 smuggling Starlink tech into Iran to beat internet blackout
+- Show HN: DAC – open-source dashboard as 代碼 tool for agents and humans
 - Using group theory to explore the space of positional encodings for attention
+- Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge
+- How fast is a macOS VM, and how small could it be?
+- Comparing the Z80 and 6502 to Their Relatives
+- Uber wants to turn its drivers into a sensor grid for self-driving companies
+- Maryland to ban A.I.-driven price increases in grocery stores
+- Simple and correct snapshot isolation
 - Ti-84 Evo
+- Modern C++ 程式設計: Busato
+- Amazon says restoring damaged Middle East 雲端 operations to take months
+- The USB Situation
+- Voice-AI-for-Beginners – A curated learning path for developers
+- Recreating the Smells of History
+- 開源 does not imply open community
+- America's Expanding Domestic Surveillance
+- I rebuilt my blog's cache. Bots are the audience now
+- Executable installer will stop being 發布 with Python 3.16
 - Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him
+- The text mode lie: 為什麼 modern TUIs are a nightmare for accessibility
+- Learning Pseudorandom Numbers with Transformers
 - 新 research suggests people can communicate and practice skills while dreaming
 - Artemis II Photo Timeline
-- Ask.com has closed
-- K3k: Kubernetes in Kubernetes
-- Also-RANS: Asymmetric Numeral Systems for Entropy Coding
-- Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks
-- SFO Gate Explorer
-- Welcome to Hell 開發者
-- Bitmap and tilemap generation from a single example
-- Running Adobe's 1991 PostScript Interpreter in the Browser
-- Show HN: Piruetas – A self-hosted diary app I built for my girlfriend
-- Canonical/Ubuntu have been under DDoS
-- Show HN: Browser-based light pollution simulator using real photometric data
-- Show HN: Filling PDF forms with AI using client-side tool calling
-- The gay jailbreak technique (2025)
-- When Microsoft saved Apple (2017)
-- LFM2-24B-A2B: Scaling Up the LFM2 Architecture
-- Show HN: Rust library for Undo/Redo using deltas, snapshots or commands
-- Stackless coroutines for gamedev in ~200 lines of C++
-- Zed 1.0
-- Understand Anything
-- Pixel Embeddings Beat Vision Encoders for Unified Understanding and Generation
-- Ghostty is leaving GitHub
-- Ask HN: Who wants to be hired? (May 2026)
-- Show HN: Large Scale Article Extract of Newspapers 1730s-1960s
-- Wyoming celebrates 'nuclear Renaissance' as feds approve license for a reactor
-- 新 mechanical panoramic film camera from Jeff Bridges
-- A Letter from Dijkstra on APL (1982)
-- To Restore an Island Paradise, Add Fungi
-- Show HN: AI CAD Harness
-- Chinese EVs Can Now Project Movies from Their Headlights
-- Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables
-- Researchers print structural colour with an inkjet printer
-- City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo
-- Infrasound waves stop kitchen fires, but can they replace sprinklers?
-- Advanced Quantization Algorithm for LLMs
-- Direct electrochemical black coffee quality appraisal using cyclic voltammetry
 
 
 ---
