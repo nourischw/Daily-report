@@ -4,204 +4,200 @@
 
 ---
 
-### 1. [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
+### 1. [US healthcare marketplaces shared citizenship and race data with ad tech giants](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/)
 
-- ⭐ 277 分｜💬 222 留言｜👤 n1b0m
+- ⭐ 207 分｜💬 63 留言｜👤 ZeidJ
 
-### 2. [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
+### 2. [Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
 
-- ⭐ 140 分｜💬 55 留言｜👤 thitran
+- ⭐ 86 分｜💬 30 留言｜👤 bearsyankees
 
-### 3. [Newton's law of gravity passes its biggest 測試](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)
+### 3. [Stop big tech from making users behave in ways they don't want to](https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to)
 
-- ⭐ 14 分｜💬 0 留言｜👤 pseudolus
+- ⭐ 104 分｜💬 54 留言｜👤 andsoitis
 
-### 4. [PyInfra 3.8.0 Is Out](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0)
+### 4. [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/)
 
-- ⭐ 10 分｜💬 1 留言｜👤 wowi42
+- ⭐ 174 分｜💬 89 留言｜👤 remote-dev
 
-### 5. [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
+### 5. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
 
-- ⭐ 308 分｜💬 120 留言｜👤 maxloh
+- ⭐ 776 分｜💬 392 留言｜👤 thitran
 
-### 6. [World's biggest RC A380 [video]](https://www.youtube.com/watch?v=wr9YLGbhxng)
+### 6. [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
 
-- ⭐ 53 分｜💬 12 留言｜👤 NaOH
+- ⭐ 84 分｜💬 35 留言｜👤 cft
 
-### 7. [Using “underdrawings” for accurate text and numbers](https://samcollins.blog/underdrawings/)
+### 7. [Redis array: short story of a long development process](https://antirez.com/news/164)
 
-- ⭐ 295 分｜💬 96 留言｜👤 samcollins
+- ⭐ 162 分｜💬 61 留言｜👤 antirez
 
-### 8. [Texico: Learn the principles of 程式設計 without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
+### 8. [UK Fuel Price Intelligence](https://www.fuelinsight.co.uk)
 
-- ⭐ 99 分｜💬 5 留言｜👤 o4c
+- ⭐ 106 分｜💬 46 留言｜👤 theazureguy
 
-### 9. [BYOMesh – 新 LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+### 9. [Heat pump sales rise across Europe](https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/)
 
-- ⭐ 410 分｜💬 132 留言｜👤 nullagent
+- ⭐ 77 分｜💬 11 留言｜👤 doener
 
-### 10. [為什麼 are 神經網絡 networks and cryptographic ciphers so similar? (2025)](https://reiner.org/neural-net-ciphers)
+### 10. [Pomiferous: The most extensive apples (pommes) 資料庫](https://pomiferous.com/)
 
-- ⭐ 35 分｜💬 6 留言｜👤 jxmorris12
+- ⭐ 50 分｜💬 18 留言｜👤 Ariarule
 
-### 11. [DeepClaude – Claude 代碼 代理 loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
+### 11. [PyInfra 3.8.0 Is Out](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0)
 
-- ⭐ 537 分｜💬 222 留言｜👤 alattaran
+- ⭐ 185 分｜💬 73 留言｜👤 wowi42
 
-### 12. [The Road to a Billion-Token Context](https://cacm.acm.org/news/the-road-to-a-billion-token-context/)
+### 12. [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
 
-- ⭐ 35 分｜💬 34 留言｜👤 pseudolus
+- ⭐ 519 分｜💬 454 留言｜👤 n1b0m
 
-### 13. [Discovering hard disk physical geometry through microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
+### 13. [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
 
-- ⭐ 123 分｜💬 5 留言｜👤 TapamN
+- ⭐ 108 分｜💬 90 留言｜👤 littlexsparkee
 
-### 14. [A treasure trove of fossils rewrites the story of early life](https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/)
+### 14. [Let's Talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
 
-- ⭐ 59 分｜💬 9 留言｜👤 worldvoyageur
+- ⭐ 15 分｜💬 2 留言｜👤 cdrnsf
 
-### 15. [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
+### 15. [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
 
-After years of flying Southwest, I recently had the opportunity to tour the headquarters in Dallas. I particularly enjoyed seeing the full-motion 737 simulators, 網絡 Operations Center, and TechOps
+- ⭐ 28 分｜💬 0 留言｜👤 ironyman
 
-- ⭐ 279 分｜💬 83 留言｜👤 KatiMichel
+### 16. [Show HN: nfsdiag - a NFS diagnostic 應用](https://github.com/lsferreira42/nfsdiag)
 
-### 16. [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
+- ⭐ 4 分｜💬 0 留言｜👤 lsferreira42
 
-- ⭐ 423 分｜💬 390 留言｜👤 bjhess
+### 17. [Rumor: Disney to Remove Star Wars Sequel Trilogy from Timeline](https://geeksandgamers.com/remove-star-wars-sequel-trilogy/)
 
-### 17. [US–Indian space mission maps extreme subsidence in Mexico City](https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html)
+- ⭐ 22 分｜💬 10 留言｜👤 bilsbie
 
-- ⭐ 174 分｜💬 67 留言｜👤 leopoldj
+### 18. [Trillions in Retirement Dollars Flow into Opaque Trusts](https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs)
 
-### 18. [Fun with polynomials and linear algebra; or, slight abstract nonsense](https://guille.site/posts/abstract-nonsense/)
+- ⭐ 58 分｜💬 4 留言｜👤 koolhead17
 
-- ⭐ 29 分｜💬 0 留言｜👤 LolWolf
+### 19. ['Kitten Space Agency' Is the Spiritual Successor to 'Kerbal Space Program'](https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview)
 
-### 19. [OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses)
+- ⭐ 51 分｜💬 17 留言｜👤 Tomte
 
-- ⭐ 431 分｜💬 382 留言｜👤 donsupreme
+### 20. [Alberta voter list leak is a potential public safety disaster](https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/)
 
-### 20. [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+- ⭐ 77 分｜💬 54 留言｜👤 Teever
 
-- ⭐ 192 分｜💬 92 留言｜👤 jdgr
+### 21. [Days without GitHub incidents](https://www.dayswithoutgithubincident.com/)
 
-### 21. [Tar Files Created on macOS Display Errors When Extracting on Linux (2024)](https://aruljohn.com/blog/macos-created-tar-files-linux-errors/)
+- ⭐ 279 分｜💬 115 留言｜👤 goalieca
 
-- ⭐ 124 分｜💬 83 留言｜👤 heresie-dabord
+### 22. [DAG Workflow Engine](https://github.com/vivekg13186/Daisy-DAG)
 
-### 22. [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
+- ⭐ 48 分｜💬 36 留言｜👤 blobmty
 
-- ⭐ 381 分｜💬 214 留言｜👤 xngbuilds
+### 23. [Using “underdrawings” for accurate text and numbers](https://samcollins.blog/underdrawings/)
 
-### 23. [K3sup – bootstrap K3s over SSH in < 60s](https://github.com/alexellis/k3sup)
+- ⭐ 339 分｜💬 125 留言｜👤 samcollins
 
-- ⭐ 71 分｜💬 33 留言｜👤 rickcarlino
+### 24. [為什麼 are 神經網絡 networks and cryptographic ciphers so similar? (2025)](https://reiner.org/neural-net-ciphers)
 
-### 24. [Bad Connection: Global telecom exploitation by covert surveillance actors](https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/)
+- ⭐ 98 分｜💬 32 留言｜👤 jxmorris12
 
-https:&#x2F;&#x2F;www.haaretz.com&#x2F;israel-news&#x2F;安全-aviation&#x2F;2026-0... (https:&#x2F;&#x2F;archive.ph&#x2F;0QYbN)
+### 25. [Texico: Learn the principles of 程式設計 without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
 
-- ⭐ 172 分｜💬 15 留言｜👤 miohtama
+- ⭐ 162 分｜💬 11 留言｜👤 o4c
 
-### 25. [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
+### 26. [BYOMesh – 新 LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
 
-- ⭐ 150 分｜💬 71 留言｜👤 ofrzeta
+- ⭐ 451 分｜💬 147 留言｜👤 nullagent
 
-### 26. [介紹 Atom](https://validator.w3.org/feed/docs/atom.html)
+### 27. [Newton's law of gravity passes its biggest 測試](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)
 
-- ⭐ 111 分｜💬 47 留言｜👤 susam
+- ⭐ 96 分｜💬 68 留言｜👤 pseudolus
 
-### 27. [為什麼 Almost Everyone Loses–Except a Few Sharks–On Prediction Markets](https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11)
+### 28. [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
 
-- ⭐ 8 分｜💬 2 留言｜👤 JumpCrisscross
+- ⭐ 534 分｜💬 236 留言｜👤 maxloh
 
-### 28. [新 statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
+### 29. [How Monero's proof of work works](https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works)
 
-- ⭐ 452 分｜💬 429 留言｜👤 dryadin
+- ⭐ 157 分｜💬 128 留言｜👤 alcazar
 
-### 29. [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)
+### 30. [DeepClaude – Claude 代碼 代理 loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
 
-- ⭐ 761 分｜💬 432 留言｜👤 teleforce
-
-### 30. [Text-to-CAD](https://github.com/earthtojake/text-to-cad)
-
-- ⭐ 136 分｜💬 36 留言｜👤 softservo
+- ⭐ 625 分｜💬 264 留言｜👤 alattaran
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Usage-based pricing killing your vibe, here's 如何 roll your own local AI
+- The Visible Zorker: Zork 3
+- Homebridge 2.0 is here, and it speaks Matter
+- Flock Holding Closed Police Conference, Requires Police Consent for Marketing
+- Discovering hard disk physical geometry through microbenchmarking (2019)
+- DHS Demanded Google Data on Canadian's Activity, Location over Anti-ICE Posts
+- A treasure trove of fossils rewrites the story of early life
+- Southwest Headquarters Tour
+- Let's Buy Spirit Air
+- US–Indian space mission maps extreme subsidence in Mexico City
+- Fun with polynomials and linear algebra; or, slight abstract nonsense
+- Incident with Issues and Webhooks – Resolved
+- OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors
+- World's biggest RC A380 [video]
+- Bad Connection: Global telecom exploitation by covert surveillance actors
+- Text-to-CAD
+- OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools
+- A desktop made for one
+- 新 statue in London, attributed to Banksy, of a suited man, blinded by a flag
+- Mercedes-Benz commits to bringing back physical buttons
+- Tar Files Created on macOS Display Errors When Extracting on Linux (2024)
 - I recreated the Apple Lisa computer inside an FPGA [video]
-- 為什麼 TUIs are back
+- K3sup – bootstrap K3s over SSH in < 60s
+- Robot dogs with tech boss faces roam Berlin art exhibit
+- How Many Children Learned Mathematics from Kiselev's Textbooks?
+- OpenAI Finalizes $10B Joint Venture with PE Firms to 部署 AI
 - Show HN: Ableton Live MCP
-- 什麼是 Z-Angle Memory and 為什麼 is Intel developing it?
-- 安全 through obscurity is not bad
+- 為什麼 TUIs are back
 - Show HN: Apple's SHARP running in the browser via ONNX runtime 網頁
-- The text mode lie: 為什麼 modern TUIs are a nightmare for accessibility
+- 什麼是 Z-Angle Memory and 為什麼 is Intel developing it?
+- 1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'
+- 安全 through obscurity is not bad
 - I built my own hair electrolysis machine
-- Over 8M Thermos jars and bottles recalled after 3 people lost vision
-- Roger Sweet, Creator of the He-Man Action Figure, Dies at 91
+- 介紹 Atom
+- 代碼 Orange: Fail Small is complete. The result is a stronger Cloudflare 網絡
+- Nuclear receptor 4A1 linked to health effects of coffee: study
+- The 'Hidden' Costs of Great Abstractions
 - Group averages obscure how an individual's brain controls behavior: study
 - Denuvo has been cracked in all single-player games it previously protected
-- Make your own microforest (2025)
-- Metal Gear Solid 2's source 代碼 has been leaked on 4chan
-- Modern jet engine turbines: each blade a single crystal (2015)
+- The text mode lie: 為什麼 modern TUIs are a nightmare for accessibility
 - DeepSeek V4 – almost on the frontier
+- Make your own microforest (2025)
+- Roger Sweet, Creator of the He-Man Action Figure, Dies at 91
+- Modern jet engine turbines: each blade a single crystal (2015)
+- 10K+ Satellites in Space
+- 為什麼 Almost Everyone Loses–Except a Few Sharks–On Prediction Markets
 - Alert-driven monitoring
-- Nuclear receptor 4A1 linked to health effects of coffee: study
+- Mommy, Are the Inspirational Stories on LinkedIn Real?
+- Metal Gear Solid 2's source 代碼 has been leaked on 4chan
 - Windows quality 更新: Progress we've made since March
 - Infrasound waves stop kitchen fires, but can they replace sprinklers?
 - How far behind is each major Chromium browser?
-- LLMs Are Not a Higher Level of Abstraction
 - Supercollider
-- Brain scans reveal 3 ADHD subtypes
-- Underwater robot tracks sperm whale conversations in real time
-- Debunking the CIA's “magic” heartbeat sensor [video]
-- Advice I WISH I'D BEEN Told (1999)
-- United flight collides with truck and pole as it lands at Newark
+- Humanoid Robot Actuators
 - A couple million lines of Haskell: Production engineering at Mercury
 - Dav2d
-- Agentic Coding Is a Trap
-- Cordouan Lighthouse
+- The Road to a Billion-Token Context
+- CollectWise (YC F24) Is 招聘
+- LLMs Are Not a Higher Level of Abstraction
 - This Month in Ladybird – April 2026
+- Ask HN: Is a hands-off, family-friendly, de-Googled "home lab" feasible?
 - The 代理 harness belongs outside the sandbox
 - Do_not_track
-- Clojurists Together – Q2 2026 開源 Funding Announcement
-- Automatic Brightness in Plasma
-- Porsche will contest Laguna Seca in historic colors of the Apple Computer livery
+- Underwater robot tracks sperm whale conversations in real time
 - Unsigned sizes: A five year mistake
-- A more efficient implementation of Shor's algorithm
-- From CVS to Git, thirty years of source control
-- Six years perfecting maps on watchOS
-- Buckets and objects are not enough
-- Talking to Transformers
 - Barman – Backup and Recovery 經理 for PostgreSQL
+- Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A dha
+- A more efficient implementation of Shor's algorithm
+- Six years perfecting maps on watchOS
 - A physics engine with incremental rollback for multiplayer games
-- Show HN: I built a RISC-V emulator that runs DOOM
-- I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
-- Open Design: Use Your Coding 代理 as a Design Engine
-- Show HN: State of the Art of Coding Models, According to Hacker News Commenters
-- Dotcl: Common Lisp Implementation on .NET
-- 為什麼 are there both TMP and TEMP environment variables? (2015)
-- Refusal in Language Models Is Mediated by a Single Direction
-- CollectWise (YC F24) Is 招聘
-- 為什麼 does it take so long to release black fan versions?
-- Specsmaxxing – On overcoming AI psychosis, and 為什麼 I write specs in YAML
-- AI, Intimacy, and the Data You Never Meant to Share
-- Neanderthals ran 'fat factories' 125k years ago (2025)
-- Because it doesn't have to
-- AI deleted my most tests, and said "All Tests Pass"
-- Little magazines are back
-- NetHack 5.0.0
-- Broadcasting GPS on the Local 網絡
-- Embedded Rust or C firmware? Lessons from an industrial microcontroller use case
-- Unverified Evaluations in Dusk's PLONK
-- Show HN: Pollen – distributed WASM runtime, no control plane, single binary
-- Show HN: 軟體 工程師 to Novelist: Writing a Book Like Coding
-- Inventions for battery reuse and recycling increase seven-fold in last decade
-- How Kepler built verifiable AI for financial services with Claude
-- Stitch together lots of little HTML pages with navigations for interactions
 
 
 ---
