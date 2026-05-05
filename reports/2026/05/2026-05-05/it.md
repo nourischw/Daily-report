@@ -4,202 +4,205 @@
 
 ---
 
-### 1. [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
+### 1. [Accelerating Gemma 4: faster 推論 with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
 
-- ⭐ 65 分｜💬 38 留言｜👤 alentodorov
+- ⭐ 197 分｜💬 74 留言｜👤 amrrs
 
-### 2. [AI Product Graveyard](https://tooldirectory.ai/ai-graveyard)
+### 2. [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html)
 
-- ⭐ 32 分｜💬 6 留言｜👤 StriverGuy
+- ⭐ 239 分｜💬 158 留言｜👤 blenderob
 
-### 3. [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
+### 3. [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/)
 
-- ⭐ 270 分｜💬 137 留言｜👤 pjmlp
+- ⭐ 117 分｜💬 76 留言｜👤 palashawas
 
-### 4. [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/)
+### 4. [EEVblog: The 555 Timer is 55 years old](https://www.youtube.com/watch?v=6JhK8iCQuqI)
 
-- ⭐ 134 分｜💬 115 留言｜👤 pmig
+- ⭐ 122 分｜💬 30 留言｜👤 brudgers
 
-### 5. [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
+### 5. [GLM-5V-Turbo: Toward a Native Foundation 模型 for Multimodal Agents](https://arxiv.org/abs/2604.26752)
 
-- ⭐ 602 分｜💬 426 留言｜👤 SergeAx
+- ⭐ 40 分｜💬 6 留言｜👤 gmays
 
-### 6. [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings)
+### 6. [I'm scared about biological computing](https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing)
 
-- ⭐ 198 分｜💬 167 留言｜👤 MrBuddyCasino
+- ⭐ 69 分｜💬 45 留言｜👤 kuberwastaken
 
-### 7. [Lessons for Agentic Coding: What should we do when 代碼 is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
+### 7. [IBM didn't want Microsoft to use the Tab key to move between dialog fields](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
 
-- ⭐ 118 分｜💬 104 留言｜👤 ingve
+- ⭐ 173 分｜💬 89 留言｜👤 SeenNotHeard
 
-### 8. [Hand Drawn QR Codes (2025)](https://sethmlarson.dev/hand-drawn-qr-codes)
+### 8. [Agents for financial services and insurance](https://www.anthropic.com/news/finance-agents)
 
-- ⭐ 149 分｜💬 28 留言｜👤 jollyjerry
+- ⭐ 119 分｜💬 98 留言｜👤 louiereederson
 
-### 9. [Google Chrome silently installs a 4 GB AI 模型 on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+### 9. [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)
 
-- ⭐ 454 分｜💬 421 留言｜👤 john-doe
+- ⭐ 24 分｜💬 2 留言｜👤 mooreds
 
-### 10. [sRGB profile comparison](https://ninedegreesbelow.com/photography/srgb-profile-comparison.html)
+### 10. [Proliferate (YC S25) Is 招聘- 200k for 初級 engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 
-- ⭐ 11 分｜💬 0 留言｜👤 Retr0id
+- ⭐ 1 分｜💬 0 留言｜👤 pablo24602
 
-### 11. [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+### 11. [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
 
-- ⭐ 434 分｜💬 135 留言｜👤 Sean-Der
+- ⭐ 55 分｜💬 42 留言｜👤 littlexsparkee
 
-### 12. [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+### 12. [Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)
 
-- ⭐ 91 分｜💬 59 留言｜👤 youngbrioche
+I’m Michel, co-founder and CEO of Airbyte (https:&#x2F;&#x2F;airbyte.com&#x2F;). We’ve spent the last six years building data connectors. Today we&#x27;re launching Airbyte Agents (https:&#x2F;&#x2F;d
 
-### 13. [Farewell to a Giant of Botany](https://nautil.us/farewell-to-a-giant-of-botany-1280409)
+- ⭐ 55 分｜💬 6 留言｜👤 mtricot
 
-- ⭐ 54 分｜💬 4 留言｜👤 Brajeshwar
+### 13. [Collaborative Editing in CodeMirror](https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html)
 
-### 14. [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
+- ⭐ 36 分｜💬 3 留言｜👤 luu
 
-- ⭐ 131 分｜💬 69 留言｜👤 averi
+### 14. [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/)
 
-### 15. [Show HN: I built a 新 word game, Wordtrak](https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game)
+- ⭐ 281 分｜💬 209 留言｜👤 pmig
 
-Hi HN! Looking for feedback on this 1v1 and daily word dueling game I&#x27;ve built over the last few months.Play here: https:&#x2F;&#x2F;wordtrak.com&#x2F;Or on iOS here: https:&#x2F;&#x2F;apps.Apple
+### 15. [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 
-- ⭐ 7 分｜💬 1 留言｜👤 qrush
+- ⭐ 390 分｜💬 212 留言｜👤 pjmlp
 
-### 16. [Train Your Own 大型語言模型 from Scratch](https://github.com/angelos-p/llm-from-scratch)
+### 16. [UK: Two millionth electric car registered as market rebounds strongly](https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/)
 
-- ⭐ 310 分｜💬 37 留言｜👤 kristianpaul
+- ⭐ 134 分｜💬 162 留言｜👤 kieranmaine
 
-### 17. [代理 Skills](https://addyosmani.com/blog/agent-skills/)
+### 17. [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
 
-- ⭐ 294 分｜💬 151 留言｜👤 BOOSTERHIDROGEN
+- ⭐ 315 分｜💬 255 留言｜👤 alentodorov
 
-### 18. [Mouse Pointer as a Mere Mortal](https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/)
+### 18. [Docker 29 has changed its default image store for 新 installs](https://docs.docker.com/engine/storage/containerd)
 
-- ⭐ 46 分｜💬 17 留言｜👤 zdw
+- ⭐ 98 分｜💬 49 留言｜👤 neitsab
 
-### 19. [為什麼 I Created phpc.tv](https://afilina.com/why-phpc-tv)
+### 19. [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
 
-- ⭐ 36 分｜💬 5 留言｜👤 luu
+- ⭐ 85 分｜💬 6 留言｜👤 ibobev
 
-### 20. [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
+### 20. [Clarification on the Notepad++ Trademark Issue](https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/)
 
-- ⭐ 25 分｜💬 7 留言｜👤 anujbans
+- ⭐ 88 分｜💬 31 留言｜👤 minimaxir
 
-### 21. [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
+### 21. [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 
-- ⭐ 314 分｜💬 306 留言｜👤 littlexsparkee
+- ⭐ 233 分｜💬 162 留言｜👤 youngbrioche
 
-### 22. [Securing a DoD contractor: Finding a multi-tenant authorization vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
+### 22. [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings)
 
-- ⭐ 203 分｜💬 91 留言｜👤 bearsyankees
+- ⭐ 283 分｜💬 240 留言｜👤 MrBuddyCasino
 
-### 23. [Setting up 伺服器 monitoring for a Rails app on Hatchbox](https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html)
+### 23. [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
 
-- ⭐ 12 分｜💬 2 留言｜👤 andreigaspar
+I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).
+為什麼 I built it: every color palette generator 
 
-### 24. [2-D Mathematical Curves](https://www.2dcurves.com/)
+- ⭐ 7 分｜💬 4 留言｜👤 ouli
 
-- ⭐ 53 分｜💬 4 留言｜👤 the-mitr
+### 24. [Simple Meta-Harness on Islo.dev](https://zozo123.github.io/meta-harness-on-islo-page/)
 
-### 25. [Biscuit](https://github.com/yattsu/biscuit)
+- ⭐ 35 分｜💬 17 留言｜👤 zozo123-IB
 
-- ⭐ 73 分｜💬 7 留言｜👤 unixfg
+### 25. [Incident with Actions](https://www.githubstatus.com/incidents/1j40g94rn22j)
 
-### 26. [Redis array: short story of a long development process](https://antirez.com/news/164)
+- ⭐ 136 分｜💬 74 留言｜👤 pera
 
-- ⭐ 297 分｜💬 106 留言｜👤 antirez
+### 26. [Adding a feature to a closed-source app](https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/)
 
-### 27. [When networking doesn't work](https://www.os2museum.com/wp/when-networking-doesnt-work/)
+- ⭐ 14 分｜💬 5 留言｜👤 stavros
 
-- ⭐ 79 分｜💬 14 留言｜👤 kencausey
+### 27. [Lessons for Agentic Coding: What should we do when 代碼 is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
 
-### 28. [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
+- ⭐ 195 分｜💬 198 留言｜👤 ingve
 
-- ⭐ 157 分｜💬 117 留言｜👤 dreadsword
+### 28. [The first photo published in a newspaper](https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/)
 
-### 29. [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
+- ⭐ 39 分｜💬 16 留言｜👤 geuis
 
-- ⭐ 184 分｜💬 91 留言｜👤 r00k
+### 29. [Google Chrome silently installs a 4 GB AI 模型 on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
-### 30. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
+- ⭐ 883 分｜💬 610 留言｜👤 john-doe
 
-- ⭐ 1407 分｜💬 688 留言｜👤 thitran
+### 30. [AI didn't delete your 資料庫, you did](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+
+- ⭐ 427 分｜💬 226 留言｜👤 Brajeshwar
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- pgxbackup: Continuity Support for pgBackRest
+- Hand Drawn QR Codes (2025)
+- Instagram Encrypted Messaging Ends on Friday, May 8
+- Show HN: I built a 新 word game, Wordtrak
+- Did I photograph the Aurora or was it something else? (2016)
+- Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement
+- AI Product Graveyard
+- Farewell to a Giant of Botany
+- CVE-2026-31431: Copy Fail vs. rootless containers
+- GPT‑5.5 Instant
+- 新 Landing Page for Awesome PaaS
+- 代理 Skills
+- Show HN: A Mutating Webhook to automatically strip PII from K8s logs
+- 為什麼 is Cloudflare protecting the DDoS'er (beamed.st) attacking Ubuntu servers?
+- Airborne Microplastics May Be Warming the Planet
+- Train Your Own 大型語言模型 from Scratch
+- Mouse Pointer as a Mere Mortal
+- sRGB profile comparison
+- The Frog for Whom the Bell Tolls
+- Securing a DoD contractor: Finding a multi-tenant authorization vulnerability
+- Talking to strangers at the gym
+- Biscuit
+- 2-D Mathematical Curves
+- 為什麼 I Created phpc.tv
 - 1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'
-- Let's talk about LLMs
-- Testing Mac OS on the Apple 網絡 伺服器 2.0 ROMs
+- How OpenAI delivers low-latency voice AI at scale
+- Zig → Rust porting guide
+- When networking doesn't work
+- Kids can bypass some age checks with a drawn-on mustache
+- Formatting a 25M-line codebase overnight
+- Show HN: Codeberg (Forgejo) CLI, built with Xclif
 - PyInfra 3.8.0
-- Microsoft Edge stores all passwords in memory in clear text, even when unused
-- How Monero’s proof of work works
-- I am worried about Bun
 - GameStop makes $55.5B takeover offer for eBay
+- How Monero’s proof of work works
+- Let's talk about LLMs
+- Microsoft Edge stores all passwords in memory in clear text, even when unused
 - Pomiferous: The most extensive apples (pommes) 資料庫
-- Y Combinator's Stake in OpenAI (0.6%?)
-- Gap between national food production and food-based dietary guidance (2025)
-- UK Fuel Price Intelligence – Market analytics from reporting stations
+- Testing Mac OS on the Apple 網絡 伺服器 2.0 ROMs
+- I am worried about Bun
+- Pornhub to become accessible again for some UK users
+- pgxbackup: Continuity Support for pgBackRest
+- The fun has been optimized out of the Internet
+- Kagi's Orion browser hits public beta on Linux
+- Richard Dawkins concludes AI is conscious, even if it doesn't know it
 - A complete Llama2 推論 engine that fits in 1356 bytes of x86 assembly
-- Sierra Raises $950M at $15B Valuation
-- US healthcare marketplaces shared citizenship and race data with ad tech giants
-- Transformers Are Inherently Succinct (2025)
-- What I'm Hearing About Cognitive Debt (So Far)
+- Show HN: Orch8 – Durable workflow engine in Rust, one binary, Postgres or SQLite
+- UK Fuel Price Intelligence – Market analytics from reporting stations
+- Setting up 伺服器 monitoring for a Rails app on Hatchbox
+- Gap between national food production and food-based dietary guidance (2025)
+- Diamonds Suck (2006)
+- Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks
 - Texico: Learn the principles of 程式設計 without even touching a computer
-- The Visible Zorker: Zork 3
-- Stop big tech from making users behave in ways they don't want to
-- Show HN: nfsdiag – A NFS diagnostic 應用
+- Wearables Are Going Off the Rails
+- Sierra Raises $950M at $15B Valuation
+- Y Combinator's Stake in OpenAI (0.6%?)
+- US healthcare marketplaces shared citizenship and race data with ad tech giants
 - Newton's law of gravity passes its biggest 測試
+- Stop big tech from making users behave in ways they don't want to
+- The Visible Zorker: Zork 3
+- Redis array: short story of a long development process
+- Deepfakes Are Coming for Your Bank Account
+- PGKeeper: Building the bouncer we needed for Postgres
+- Transformers Are Inherently Succinct (2025)
+- Show HN: nfsdiag – A NFS diagnostic 應用
 - Heat pump sales rise across Europe
-- Original Apollo 11 Guidance Computer Source 代碼 for Command and Lunar Module
-- 18th-century mechanical volcano roars to life 250 years later
 - 為什麼 are 神經網絡 networks and cryptographic ciphers so similar? (2025)
-- Inexpressibility in Exp-Minus-Log (EML)
+- Shortages push long-term supply agreements for SSDs and HDDs to record 5 years
+- Eight vaccines linked to a lower risk of dementia
+- SubQ – a major breakthrough in 大型語言模型 intelligence
+- What I'm Hearing About Cognitive Debt (So Far)
 - Show HN: I Built a Museum Exhibit
-- Oasis Linux
-- China Opens Rocket 推出 to International Satellites
-- DAG Workflow Engine
-- Trademark violation: Fake Notepad++ for Mac
-- A treasure trove of fossils rewrites the story of early life
-- 'Point of no return': 新 Orleans relocation must start now due to sea level
-- 為什麼 AI Agents Need Proof Chains, Not Just Logs
-- BYOMesh – 新 LoRa mesh radio offers 100x the bandwidth
-- Text-to-CAD
-- World's biggest RC A380 [video]
-- Jonathan Swift's Last Joke
-- The Car That Watches You Back: The Advertising Infrastructure of Modern Cars
-- A desktop made for one
-- Mercedes-Benz commits to bringing back physical buttons
-- “Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)
-- The 'Hidden' Costs of Great Abstractions
-- Buffon's needle problem visualized
-- Using “underdrawings” for accurate text and numbers
-- A little comparison between R and Kap
-- Fun with polynomials and linear algebra; or, slight abstract nonsense
-- Show HN: I indexed 8,643 BSides talks across 227 chapters and 6 continents
-- The Road to a Billion-Token Context
-- 新 statue in London, attributed to Banksy, of a suited man, blinded by a flag
-- 介紹 Atom
-- DeepSeek V4 – almost on the frontier
-- Harvard doctor believes we've been getting cholesterol all wrong
-- Offenders sentenced up to 10 years for spying on TSMC
-- Show HN: I built a native macOS audio player and it changed my life
-- DeepClaude – Claude 代碼 代理 loop with DeepSeek V4 Pro
-- Show HN: Apple's SHARP running in the browser via ONNX runtime 網頁
-- I recreated the Apple Lisa computer inside an FPGA [video]
-- 什麼是 Z-Angle Memory and 為什麼 is Intel developing it?
-- Trillions in Retirement Dollars Flow into Opaque Trusts
-- Some children are drawing on fake moustaches to bypass online age checks
-- 安全 through obscurity is not bad
-- Denuvo has been cracked in all single-player games it previously protected
-- From CVS to Git, thirty years of source control
-- SprintiQ – open-source sprint planning for Claude 代碼
-- Woman's Talkspace therapy app sessions exposed in court
-- The state of ARM64 on Windows in 2026
-- Show HN: Ableton Live MCP
 
 
 ---
