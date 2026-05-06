@@ -4,207 +4,200 @@
 
 ---
 
-### 1. [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
+### 1. [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
 
-- ⭐ 533 分｜💬 250 留言｜👤 warpspin
+- ⭐ 430 分｜💬 89 留言｜👤 cianmm
 
-### 2. [Accelerating Gemma 4: faster 推論 with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
+### 2. [The bottleneck was never the 代碼](https://www.thetypicalset.com/blog/thoughts-on-coding-agents)
 
-- ⭐ 454 分｜💬 200 留言｜👤 amrrs
+- ⭐ 136 分｜💬 82 留言｜👤 Anon84
 
-### 3. [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/)
+### 3. [Setting up a Sun Ray 伺服器 on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
 
-- ⭐ 321 分｜💬 183 留言｜👤 palashawas
+- ⭐ 61 分｜💬 13 留言｜👤 jandeboevrie
 
-### 4. [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html)
+### 4. [Agents can now create Cloudflare accounts, buy domains, and 部署](https://blog.cloudflare.com/agents-stripe-projects/)
 
-- ⭐ 363 分｜💬 248 留言｜👤 blenderob
+- ⭐ 454 分｜💬 243 留言｜👤 rolph
 
-### 5. [Write some 軟體, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+### 5. [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
 
-- ⭐ 135 分｜💬 98 留言｜👤 nohell
+- ⭐ 474 分｜💬 237 留言｜👤 signa11
 
-### 6. [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI)
+### 6. [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2)
 
-- ⭐ 230 分｜💬 58 留言｜👤 brudgers
+- ⭐ 270 分｜💬 32 留言｜👤 hakonjdjohnsen
 
-### 7. [為什麼 most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
+### 7. [Reverse-engineering the 1998 Ultima Online demo 伺服器](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html)
 
-- ⭐ 71 分｜💬 62 留言｜👤 pancomplex
+- ⭐ 118 分｜💬 24 留言｜👤 notsentient
 
-### 8. [NPR finds "no sign" of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
+### 8. [Knitting bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
 
-- ⭐ 220 分｜💬 99 留言｜👤 ilamont
+- ⭐ 205 分｜💬 97 留言｜👤 ColinEberhardt
 
-### 9. [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
+### 9. [Batteries Not Included, or Required, for These Smart Home Sensors](https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors)
 
-I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).
-為什麼 I built it: every color palette generator 
+- ⭐ 98 分｜💬 33 留言｜👤 gnabgib
 
-- ⭐ 110 分｜💬 41 留言｜👤 ouli
+### 10. [Cat (YC S22) Seeks Fractional 工程師 to 構建 AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer)
 
-### 10. [Wiki Builder: Skill to 構建 大型語言模型 Knowledge Bases](https://academy.dair.ai/blog/wiki-builder-claude-code-plugin)
+- ⭐ 1 分｜💬 0 留言｜👤 botacode
 
-- ⭐ 8 分｜💬 1 留言｜👤 omarsar
+### 11. [OpenAI president forced to read his personal diary entries to jury](https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/)
 
-### 11. [GLM-5V-Turbo: Toward a Native Foundation 模型 for Multimodal Agents](https://arxiv.org/abs/2604.26752)
+- ⭐ 30 分｜💬 21 留言｜👤 koolba
 
-- ⭐ 116 分｜💬 23 留言｜👤 gmays
+### 12. [Wolfenstein 3D for Gameboy Color on custom cartridge (2016)](https://www.happydaze.se/wolf/)
 
-### 12. [Agents for financial services and insurance](https://www.anthropic.com/news/finance-agents)
+- ⭐ 53 分｜💬 6 留言｜👤 ksymph
 
-- ⭐ 199 分｜💬 151 留言｜👤 louiereederson
+### 13. [DNSSEC disruption affecting .de domains – Resolved](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
 
-### 13. [I'm scared about biological computing](https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing)
+- ⭐ 699 分｜💬 370 留言｜👤 warpspin
 
-- ⭐ 146 分｜💬 132 留言｜👤 kuberwastaken
+### 14. [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
 
-### 14. [Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)
+- ⭐ 140 分｜💬 86 留言｜👤 neilfrndes
 
-I’m Michel, co-founder and CEO of Airbyte (https:&#x2F;&#x2F;airbyte.com&#x2F;). We’ve spent the last six years building data connectors. Today we&#x27;re launching Airbyte Agents (https:&#x2F;&#x2F;d
+### 15. [Accelerating Gemma 4: faster 推論 with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
 
-- ⭐ 95 分｜💬 23 留言｜👤 mtricot
+- ⭐ 609 分｜💬 298 留言｜👤 amrrs
 
-### 15. [Google Chrome silently installs a 4 GB AI 模型 on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+### 16. [Virtual violin produces realistic sounds](https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429)
 
-- ⭐ 1249 分｜💬 851 留言｜👤 john-doe
+- ⭐ 33 分｜💬 29 留言｜👤 gmays
 
-### 16. [Today I've made the difficult decision to reduce the size of Coinbase by ~14%](https://twitter.com/brian_armstrong/status/2051616759145185723)
+### 17. [YouTube, your RSS feeds are broken](https://openrss.org/blog/youtube-your-feeds-are-broken)
 
-- ⭐ 268 分｜💬 384 留言｜👤 adrianmsmith
+- ⭐ 206 分｜💬 77 留言｜👤 veeti
 
-### 17. [I completed 100 Days of Java over 5 years and mapped the journey as a graph](https://mohibulsblog.netlify.app/java/100daysofjava/graph/)
+### 18. [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 
-- ⭐ 28 分｜💬 5 留言｜👤 celurian92
+- ⭐ 138 分｜💬 18 留言｜👤 cheeaun
 
-### 18. [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
+### 19. [A Simpler Parametrization for Modern Optimizers](https://jiha-kim.github.io/posts/a-simpler-parametrization-for-modern-optimizers/)
 
-- ⭐ 272 分｜💬 323 留言｜👤 littlexsparkee
+- ⭐ 13 分｜💬 6 留言｜👤 ibobev
 
-### 19. [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+### 20. [The Thinking Plant's Man (2025)](https://www.sciencehistory.org/stories/magazine/the-thinking-plants-man/)
 
-- ⭐ 311 分｜💬 219 留言｜👤 youngbrioche
+- ⭐ 3 分｜💬 0 留言｜👤 benbreen
 
-### 20. [Should I run plain Docker Compose in production in 2026?](https://distr.sh/blog/running-docker-in-production/)
+### 21. [Write some 軟體, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
 
-- ⭐ 358 分｜💬 256 留言｜👤 pmig
+- ⭐ 304 分｜💬 209 留言｜👤 nohell
 
-### 21. [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)
+### 22. [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/)
 
-https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;Meta-mark-zuckerberg-AI-publisher...
+- ⭐ 426 分｜💬 244 留言｜👤 palashawas
 
-- ⭐ 256 分｜💬 232 留言｜👤 spankibalt
+### 23. [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html)
 
-### 22. [IBM didn't want Microsoft to use the Tab key to move between dialog fields](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
+- ⭐ 482 分｜💬 326 留言｜👤 blenderob
 
-- ⭐ 302 分｜💬 175 留言｜👤 SeenNotHeard
+### 24. [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI)
 
-### 23. [Proliferate (YC S25) Is 招聘- 200k for 初級 engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
+- ⭐ 303 分｜💬 80 留言｜👤 brudgers
 
-- ⭐ 1 分｜💬 0 留言｜👤 pablo24602
+### 25. [Telus Uses AI to Alter Call-代理 Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
 
-### 24. [Researchers print structural colour with an inkjet printer](https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/)
+- ⭐ 190 分｜💬 154 留言｜👤 debo_
 
-- ⭐ 49 分｜💬 10 留言｜👤 zeristor
+### 26. [為什麼 most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
 
-### 25. [Urban Birds Are Rising Earlier Because of Traffic Noise (2013)](https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise)
+- ⭐ 183 分｜💬 156 留言｜👤 pancomplex
 
-- ⭐ 29 分｜💬 13 留言｜👤 thunderbong
+### 27. [Make some art with your phone sensors](https://tautme.github.io/phone-sensors/sensor-etch.html)
 
-### 26. [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
+- ⭐ 72 分｜💬 13 留言｜👤 adm4
 
-- ⭐ 382 分｜💬 291 留言｜👤 alentodorov
+### 28. [Google Chrome silently installs a 4 GB AI 模型 on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
-### 27. [Underwater robot tracks sperm whale conversations in real time](https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/)
+- ⭐ 1512 分｜💬 1018 留言｜👤 john-doe
 
-- ⭐ 53 分｜💬 13 留言｜👤 thedebuglife
+### 29. [Wiki Builder: Skill to 構建 大型語言模型 Knowledge Bases](https://academy.dair.ai/blog/wiki-builder-claude-code-plugin)
 
-### 28. [The extended predicative Mahlo universe in Martin-Löf type theory](https://academic.oup.com/logcom/article/34/6/1032/7158523)
+- ⭐ 85 分｜💬 10 留言｜👤 omarsar
 
-- ⭐ 25 分｜💬 0 留言｜👤 danny00
+### 30. [Today I've made the difficult decision to reduce the size of Coinbase by ~14%](https://twitter.com/brian_armstrong/status/2051616759145185723)
 
-### 29. [Xbox CEO ends Copilot AI development and overhauls leadership](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
-
-- ⭐ 54 分｜💬 11 留言｜👤 gmays
-
-### 30. [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
-
-- ⭐ 112 分｜💬 26 留言｜👤 ibobev
+- ⭐ 416 分｜💬 638 留言｜👤 adrianmsmith
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- I'm scared about biological computing
+- Show HN: Airbyte Agents – context for agents across multiple data sources
+- Agents for financial services and insurance
+- Show HN: Explore color palettes inspired by 3000 master painter artworks
+- Behavior-Oriented Concurrency for Python
+- GLM-5V-Turbo: Toward a Native Foundation 模型 for Multimodal Agents
+- Ombudsman column: The Pentagon is trying to silence me
+- California farmers to destroy 420k peach trees following Del Monte bankruptcy
+- Visualize Any Hugging Face 模型
+- I completed 100 Days of Java over 5 years and mapped the journey as a graph
+- Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement
+- Comparing the Z80 and 6502 to Their Relatives
+- iOS 27 is adding a 'Create a Pass' button to Apple Wallet
+- Shrinkflation Is Quietly Making All Gadgets Worse
+- IBM didn't want Microsoft to use the Tab key to move between dialog fields
 - Lessons for Agentic Coding: What should we do when 代碼 is cheap?
-- While the King Lives: An Old C 程式設計 Prank in GNU Hello from 1993
-- 為什麼 airlines are always going bankrupt
-- Collaborative Editing in CodeMirror (2020)
+- Underwater robot tracks sperm whale conversations in real time
 - Hand Drawn QR Codes (2025)
-- Docker 29 has changed its default image store for 新 installs
-- Async Rust never left the MVP state
+- Researchers print structural colour with an inkjet printer
+- Feds Fine Durham Energy Efficiency Co $722M
+- When everyone has AI and the company still learns nothing
+- While the King Lives: An Old C 程式設計 Prank in GNU Hello from 1993
+- Should I run plain Docker Compose in production in 2026?
+- Academics Need to Wake Up on AI
 - Farewell to a Giant of Botany
-- The first photo published in a newspaper, in 1848 (2023)
-- 為什麼 Only Rich Kids Make It in Music Today
-- Show HN: I built a 新 word game, Wordtrak
-- Simple Meta-Harness on Islo.dev
-- Quantum Key Distribution (QKD) and Quantum Cryptography (QC)
-- Human brain changes after first psilocybin use
-- CVE-2026-31431: Copy Fail vs. rootless containers
-- Train Your Own 大型語言模型 from Scratch
-- AI didn't delete your 資料庫, you did
+- Async Rust never left the MVP state
 - Talking to strangers at the gym
-- Tools in the Grass: Raising the next generation of crafts person
-- Empty Screenings – Finds AMC movie screenings with few or no tickets sold
+- The extended predicative Mahlo universe in Martin-Löf type theory (2023)
+- CVE-2026-31431: Copy Fail vs. rootless containers
+- Urban Birds Are Rising Earlier Because of Traffic Noise (2013)
+- Train Your Own 大型語言模型 from Scratch
 - Past Ferrari Models, 1947–2023
-- Mouse Pointer as a Mere Mortal
-- Airborne Microplastics May Be Warming the Planet
-- 新 Landing Page for Awesome PaaS
-- Treat your coding agents like developers
-- sRGB profile comparison
-- AI Product Graveyard
-- How OpenAI delivers low-latency voice AI at scale
-- Clarification on the Notepad++ Trademark Issue
-- Biscuit
-- The Frog for Whom the Bell Tolls
-- The Cult of Male Miata Drivers (2022)
+- Detection of an atmosphere on a trans-Neptunian object beyond Pluto
+- Docker 29 has changed its default image store for 新 installs
+- SubQ: Sub-Quadratic 大型語言模型
+- Xbox CEO ends Copilot AI development and overhauls leadership
+- Simulating Cells Fighting to the Death
+- Collaborative Editing in CodeMirror (2020)
+- Empty Screenings – Finds AMC movie screenings with few or no tickets sold
 - PyInfra 3.8.0
-- 2-D Mathematical Curves
-- Formatting a 25M-line codebase overnight
-- 為什麼 is Cloudflare protecting the DDoS'er (beamed.st) attacking Ubuntu servers?
 - GameStop makes $55.5B takeover offer for eBay
-- Adding a feature to a closed-source app
+- The first photo published in a newspaper, in 1848 (2023)
+- How OpenAI delivers low-latency voice AI at scale
+- The Soul of Maintaining a 新 Machine
+- Singapore 引進 caning for boys who bully others at school
+- FFmpeg 開發者 calls out OxideAV for AI license laundering of his 代碼
 - How Monero’s proof of work works
-- Did I photograph the Aurora or was it something else? (2016)
-- Zig → Rust porting guide
-- GPT‑5.5 Instant
-- When networking doesn't work
-- Show HN: A Mutating Webhook to automatically strip PII from K8s logs
-- Gap between national food production and food-based dietary guidance (2025)
+- Formatting a 25M-line codebase overnight
+- Mouse Pointer as a Mere Mortal
 - Pomiferous: The most extensive apples (pommes) 資料庫
-- Instagram Encrypted Messaging Ends on Friday, May 8
-- 為什麼 I Created phpc.tv
+- Biscuit
 - Let's talk about LLMs
+- My Claude 代碼 Setup: Pure CLI, Pure Unix, Zero IDE
 - Microsoft Edge stores all passwords in memory in clear text, even when unused
-- Kids can bypass some age checks with a drawn-on mustache
+- 2-D Mathematical Curves
 - I am worried about Bun
-- 代理 Skills
-- Testing Mac OS on the Apple 網絡 伺服器 2.0 ROMs
-- X user tricks Grok into sending them $200k
-- UK Fuel Price Intelligence – Market analytics from reporting stations
+- When networking doesn't work
+- Gap between national food production and food-based dietary guidance (2025)
+- AI didn't delete your 資料庫, you did
+- Quantum Key Distribution (QKD) and Quantum Cryptography (QC)
+- Zig → Rust porting guide
+- The Frog for Whom the Bell Tolls
+- Simple Meta-Harness on Islo.dev
 - Texico: Learn the principles of 程式設計 without even touching a computer
-- .de TLD Issue Solved
-- Show HN: 新 Benchmark from SWE-bench team is 0% solved
-- pgxbackup: Continuity Support for pgBackRest
-- Show HN: Codeberg (Forgejo) CLI, built with Xclif
-- Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks
-- Sierra Raises $950M at $15B Valuation
-- SubQ: a sub-quadratic 大型語言模型 with 12M-token context
-- SubQ: Sub-quadratic 大型語言模型 built for 12M-token context
-- Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack
-- Securing a DoD contractor: Finding a multi-tenant authorization vulnerability
-- Newton's law of gravity passes its biggest 測試
-- A complete Llama2 推論 engine that fits in 1356 bytes of x86 assembly
-- US healthcare marketplaces shared citizenship and race data with ad tech giants
+- 為什麼 is southern Italy poorer than northern Italy?
+- 代理 Skills
+- sRGB profile comparison
+- Testing Mac OS on the Apple 網絡 伺服器 2.0 ROMs
+- UK Fuel Price Intelligence – Market analytics from reporting stations
+- Kids can bypass some age checks with a drawn-on mustache
 
 
 ---
