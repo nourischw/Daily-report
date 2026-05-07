@@ -4,26 +4,72 @@
 
 ---
 
-### 1. [Intercom遭到供應鏈攻擊Mini Shai-Hulud波及](https://www.ithome.com.tw/news/175614)
+### 1. [為了推動AI領域的投資，資安公司Arctic Wolf傳出裁��250人](https://www.ithome.com.tw/news/175622)
+
+根據科技新聞網站The Register的報導，資安公司Arctic Wolf近期裁員250人，目的是強化威脅情報平臺與代理型資安營運中心（Agentic SOC），投入更多與AI相關的資金，涵蓋銷售、產品開發、行銷多個部門，其中部分員工在職超過4年。
+
+- 📰 **iThome 科技**
+
+### 2. [Palo Alto Networks防火牆作業系統零時差漏洞傳出遭國家級駭客利用](https://www.ithome.com.tw/news/175621)
+
+5月6日資安公司Palo Alto Networks揭露已被用於攻擊的零時差漏洞CVE-2026-0300，此弱點存在於User-ID身分驗證入口網站，未經身分驗證的攻擊者能以root權限執行程式碼，CVSS v4.0風險為9.3分，無論實體設備PA系列的或虛擬版防火牆VM系列都有可能受影響。究竟漏洞如何遭到利用？該公司透露更多細節。
+
+- 📰 **iThome 科技**
+
+### 3. [【臺灣資安大會直擊】BEC郵件詐騙手法採用AI深偽技術，讓商業詐騙進入「真假難辨」新階段](https://www.ithome.com.tw/news/175620)
+
+隨著生成式AI與深偽技術快速普及，商業電子郵件詐騙（BEC）正從傳統假冒郵件，演變為結合雲端帳號滲透、AI視訊偽造與跨境社交工程的新型態攻擊。曾在KPMG、鴻海集團擔任顧問、資訊或資安主管的遠東新世紀資安處資安長易換棣在今年臺灣資安大會中分享他的觀察及經驗，BEC已不只是資安事件，而是企業治理、信任機制與商業流程全面遭到操控的問題。
+他強調，BEC最危險之處，在於攻擊者不是直接竊取資金，而是利用企業原本正常運作的信任機制，讓受害者「親手完成匯款」。
+「它是透過合法的商業流程，操控人類在正常運作所依據的信任機制，而且最恐怖的是，它是透過受害者自己的手完成最後一個動作」，易換棣說。
+
+- 📰 **iThome 科技**
+
+### 4. [Oracle釋出2026年4月關鍵修補更新，共修補241項漏洞，含多項重大與高風險漏洞](https://www.ithome.com.tw/news/175619)
+
+Oracle近日發布2026年4月關鍵修補更新（Critical Patch 更新，CPU），共包含481項更新程式，修補241項漏洞，包括22項重大漏洞，影響範圍包括資料庫、應用伺服器等28個產品家族。
+
+- 📰 **iThome 科技**
+
+### 5. [聯發科啟用PUE1.1的高能效AI研發資料中心，以浸沒式冷卻與再生能源打造永續算力](https://www.ithome.com.tw/news/175617)
+
+隨著生成式AI與高效能運算需求快速攀升，AI資料中心的能源消耗與散熱問題，已成為企業邁向永續發展的重要挑戰。聯發科今天(5/7)宣布啟用位於銅鑼科學園區的研發資料中心，不僅導入以NVIDIA DGX B200平台打造的NVIDIA DGX SuperPOD運算叢集，大規模採用單相浸沒式冷卻技術，以提升能源效率與降低冷卻耗能，強化AI研發基礎設施的永續能力。
+聯發科表示，該研發資料中心自2023年起依循綠建築的鑽石級標準規畫建置，並採模組化三期設計，第一期已於2026年正式啟用，未來將視AI業務成長需求逐步擴充。
+
+- 📰 **iThome 科技**
+
+### 6. [資安研究機構揭露針對cPanel重大漏洞的攻擊激增，用戶需立即修補](https://www.ithome.com.tw/news/175616)
+
+資安研究機構Censys近日發布報告，指出Linux主機管理平臺cPanel/WHM重大漏洞CVE-2026-41940公開後，大量cPanel主機已成為攻擊目標，自5月1日起，網際網路上相關惡意活動明顯增加，用戶需立即採取修補措施。
+
+- 📰 **iThome 科技**
+
+### 7. [【資安日報】5月7日，駭客聲稱提供OpenClaw用戶擴充功能散布惡意軟體](https://www.ithome.com.tw/news/175615)
+
+惡意OpenClaw技能套件被用於散布Remcos與GhostLoader
+
+
+- 📰 **iThome 科技**
+
+### 8. [Intercom遭到供應鏈攻擊Mini Shai-Hulud波及](https://www.ithome.com.tw/news/175614)
 
 繼SAP的NPM套件、深度學習框架PyTorch的PyPI程式庫Lightning遭遇Mini Shai-Hulud供應鏈蠕蟲攻擊後，有其他套件也受到波及。
 
 - 📰 **iThome 科技**
 
-### 2. [駭客發動長達5小時慢而低調的DDoS攻擊以規避偵測](https://www.ithome.com.tw/news/175613)
+### 9. [駭客發動長達5小時慢而低調的DDoS攻擊以規避偵測](https://www.ithome.com.tw/news/175613)
 
 資安業者DataDome發現近來駭客發動分散式阻斷服務（DDoS）攻擊手法有所演進，從短時大規模流量攻擊轉向慢而低調的長時間活動。
 DataDome的Galileo團隊在2026年4月緩解了一波針對一家使用者生成內容平臺客戶的網頁機器人（bot）DDoS流量攻擊，以時間換取空間，在5小時內發出24.5億次請求，但未曾觸發傳統防護方案流量限制的機制。
 
 - 📰 **iThome 科技**
 
-### 3. [Google發布Chrome 148，修補127個資安漏洞](https://www.ithome.com.tw/news/175612)
+### 10. [Google發布Chrome 148，修補127個資安漏洞](https://www.ithome.com.tw/news/175612)
 
-5月5日Google針對電腦版與Android版用戶，推出148版Chrome更新���總共修補127個資安漏洞，數量比前一次Chrome 147安全更新修補的
+5月5日Google針對電腦版與Android版用戶，推出148版Chrome更新，總共修補127個資安漏洞，數量比前一次Chrome 147安全更新修補的
 
 - 📰 **iThome 科技**
 
-### 4. [【臺灣資安大會直擊】沒弄清楚DevSecOps流程反模式，靠AI也解不了四大根本問題](https://www.ithome.com.tw/news/175611)
+### 11. [【臺灣資安大會直擊】沒弄清楚DevSecOps流程反模式，靠AI也解不了四大根本問題](https://www.ithome.com.tw/news/175611)
 
 不少企業看上GAI強大的資料處理能力，想要用來處理繁雜的資安作業，像是分析龐大的Log，篩選複雜的告警等，根據iThome今年CIO&amp;amp;CISO大調查，30%的資訊主管認為AI可以緩解資安人力不足的問題，每三家企業也就有一家今年要導入資安流程的AI 代理來輔助。
 針對這波企業想用AI來強化資安的浪潮，靖本行策執行長盧建成認為，AI只是讓問題變快，不代表責任或決策變得更清楚。
@@ -31,166 +77,125 @@ DataDome的Galileo團隊在2026年4月緩解了一波針對一家使用者生成
 
 - 📰 **iThome 科技**
 
-### 5. [Braintrust遭未授權存取，要求用戶輪換AI供應商API金鑰](https://www.ithome.com.tw/news/175609)
+### 12. [Braintrust遭未授權存取，要求用戶輪換AI供應商API金鑰](https://www.ithome.com.tw/news/175609)
 
 AI可觀測性平臺Braintrust確認內部AWS帳號發生未授權存取事件，受影響環境存有客戶在Braintrust設定的AI模型供應商API金鑰。Braintrust表示事件目前已受控制，並要求客戶撤銷及重新產生儲存在平臺上的相關金鑰，以降低後續被濫用的風險。
 
 - 📰 **iThome 科技**
 
-### 6. [美國CISA推動CI Fortify計畫強化美國基礎設施韌性](https://www.ithome.com.tw/news/175610)
+### 13. [美國CISA推動CI Fortify計畫強化美國基礎設施韌性](https://www.ithome.com.tw/news/175610)
 
 美國網路安全暨基礎架構管理署（CISA）本週宣佈啟動關鍵基礎設施（critical infrastructure，CI）強化（CI Fortify）計畫，要求能源、國防等基礎設施機構增加投資以強化隔離作業及回復運作的能力，因應地緣政治中的網路安全威脅。
 
 - 📰 **iThome 科技**
 
-### 7. [AMD第一季營收成長38%，資料中心業務成主要成長動能](https://www.ithome.com.tw/news/175608)
+### 14. [AMD第一季營收成長38%，資料中心業務成主要��長動能](https://www.ithome.com.tw/news/175608)
 
 半導體業者AMD週二（5/5）公布截至3月28日的2026財年第一季財報，該季AMD創下102.5億美元的營收，成長38%，其中，在AI需求的帶動下，其資料中心部門營收成長幅度更達57%。
 
 - 📰 **iThome 科技**
 
-### 8. [Node.js沙箱函式庫vm2再爆重大逃逸漏洞](https://www.ithome.com.tw/news/175605)
+### 15. [Node.js沙箱函式庫vm2再爆重大逃逸漏洞](https://www.ithome.com.tw/news/175605)
 
 Node.js沙箱函式庫vm2出現重大沙箱逃逸漏洞CVE-2026-26956，受影響版本為3.10.4，修補版本為3.10.5。GitHub安全公告顯示，該漏洞嚴重性等級為重大，CVSS v3.1分數為9.8，攻擊者若能將經過特殊設計的程式碼交由VM.run()執行，就可能跳出沙箱，並在主機端執行命令。PoC片段與poc.js檔案現已於GitHub公開，建議使用者升級至vm2 3.10.5或更新版本。
 
 - 📰 **iThome 科技**
 
-### 9. [Anthropic Claude Desktop、Google Chrome疑未經告知、許可，悄悄在用戶裝置安裝檔案](https://www.ithome.com.tw/news/175607)
+### 16. [Anthropic Claude Desktop、Google Chrome疑未經告知、許可，悄悄在用戶裝置安裝���案](https://www.ithome.com.tw/news/175607)
 
 研究人員先後發現Anthropic Claude桌機版及Google Chrome在用戶電腦上安裝檔案，未經事先告知、詢問，也未提供退出選項。
 
 - 📰 **iThome 科技**
 
-### 10. [為深度學習框架PyTorch打造的PyPI程式庫Lightning遭供應鏈攻擊](https://www.ithome.com.tw/news/175606)
+### 17. [為深度學習框架PyTorch打造的PyPI程式庫Lightning遭供應鏈攻擊](https://www.ithome.com.tw/news/175606)
 
 4月底NPM套件供應鏈攻擊活動Mini Shai-Hulud針對SAP而來，該公司4款套件受到影響，如今傳出相關攻擊延燒到其他開源生態圈的情況。
 
 - 📰 **iThome 科技**
 
-### 11. [北韓駭客ScarCruft利用安卓惡意軟體BirdCall攻擊中國境內的脫北者](https://www.ithome.com.tw/news/175604)
+### 18. [北韓駭客ScarCruft利用安卓惡意軟體BirdCall攻擊中國境內的脫北者](https://www.ithome.com.tw/news/175604)
 
-北韓駭客ScarCruft（APT37）的攻擊目標，大部分集中在韓國，並關注政府機關與軍事單位，以及與北韓利益有關的���業組織。最近新一波攻擊行動引起研究人員的注意，因為這些駭客在中國特定地區發起攻擊行動，目標就是逃離北韓的難民與脫北者。
-
-- 📰 **iThome 科技**
-
-### 12. [思科網路管理平臺存在阻斷服務漏洞，IT人員需手動重開機才能恢復運作](https://www.ithome.com.tw/news/175603)
-
-5月6日思科發布資安公告，指出旗下的Crosswork 網絡 Controller（CNC）與網絡 Services Orchestrator（NSO）平臺存在資安漏洞CVE-2026-20188，一旦遭到利用，攻擊者可在未經身分驗證的情況下，造成CNC與NSO出現服務中斷（DoS）的現象，CVSS風險評為7.5分，危險程度屬高風險等級。
+北韓駭客ScarCruft（APT37）的攻擊目標，大部分集中在韓國，並關注政府機關與軍事單位，以及與北韓利益有關的企業組織。最近新一波攻擊行動引起研究人員的注意，因為這些駭客在中國特定地區發起攻擊行動，目標就是逃離北韓的難民與脫北者。
 
 - 📰 **iThome 科技**
 
-### 13. [Arm財報創新高，押注AGI CPU擴大雲端市占](https://www.ithome.com.tw/news/175602)
+### 19. [思科網路管理平臺存在阻斷服務漏洞，IT人員需手動重開機才能恢復運作](https://www.ithome.com.tw/news/175603)
+
+5月6日思科發布資安公告，指出旗下的Crosswork 網絡 Controller（CNC）與網絡 Services Orchestrator（NSO）平臺存在資安漏洞CVE-2026-20188，一旦遭到利用，攻擊者可在未經身分驗證的情況下，造成CNC與NSO發生服務阻斷（DoS）的情況，CVSS風險評為7.5分，屬高風險等級。
+
+- 📰 **iThome 科技**
+
+### 20. [Arm財報創新高，押注AGI CPU擴大雲端市占](https://www.ithome.com.tw/news/175602)
 
 英國晶片設計公司Arm週三（5/6）公布截至3月31日的2026財年第四季財報，該季Arm創下14.9億美元的營收，成長20%。該季Arm淨收入為3.13億美元，每股盈餘0.29美元，高於去年同期的0.2美元。當天Arm股價上漲了13.63%，以237.3美元作收。
 在14.9億美元的營收中，有8.2億美元來自於授權費，成長了29%，另外的6.7億美元為權利金，成長11%。
 
 - 📰 **iThome 科技**
 
-### 14. [惡意OpenClaw技能套件被用於散布Remcos與GhostLoader](https://www.ithome.com.tw/news/175601)
+### 21. [惡意OpenClaw技能套件被用於散布Remcos與GhostLoader](https://www.ithome.com.tw/news/175601)
 
-自今年初開始開源AI代理OpenClaw（曾名Clawdbot和Moltbot）爆紅，「養龍蝦」成為顯學，駭客也鎖定這波風潮，假冒提供技能擴充套件（Skill）的名義，向這些使用者散布惡意軟體。
-
-- 📰 **iThome 科技**
-
-### 15. [微軟Phone Link應用程式被濫用，惡意軟體CloudZ竊取手機簡訊與OTP](https://www.ithome.com.tw/news/175600)
-
-論及手機與電腦之間的互通有無，許多人會想到蘋果強大的生態系，使用者能直接在Mac電腦接聽iPhone的電話，或���使用AirDrop快速分享照片與檔案，不過，微軟也在Windows作業系統導入「手機連結（Phone Link）」應用程式，以提供類似的功能，如今有人盯上這類機制，透過惡意軟體竊取機敏資料。
+年初開源AI代理OpenClaw爆紅，「養龍蝦」成為熱門話題，駭客也鎖定這波風潮，假借提供技能擴充套件（Skill）的名義，向這些使用者散布惡意軟體。
+資安廠商Zscaler發現，有人從3月開始透過惡意技能套件DeepSeek-Claw，針對Windows、macOS、Linux用戶散布惡意程式，藉此竊取憑證、瀏覽器Cookie、加密貨幣錢包，以及API金鑰等敏感資料。
 
 - 📰 **iThome 科技**
 
-### 16. [Anthropic與SpaceX達成算力合作，提高Claude 代碼與API使用上限](https://www.ithome.com.tw/news/175599)
+### 22. [微軟Phone Link應用程式被濫用，惡意軟體CloudZ竊取手機簡訊與OTP](https://www.ithome.com.tw/news/175600)
+
+論及手機與電腦之間的跨裝置整合，許多人會想到蘋果強大的生態系，使用者能直接在Mac電腦接聽iPhone的電話，或是使用AirDrop快速分享照片與檔案，不過，微軟也在Windows作業系統導入「手機連結（Phone Link）」應用程式，以提供類似的功能，如今有人盯上這類機制，透過惡意軟體竊取機敏資料。
+
+- 📰 **iThome 科技**
+
+### 23. [Anthropic與SpaceX達成算力合作，提高Claude 代碼與API使用上限](https://www.ithome.com.tw/news/175599)
 
 Anthropic週三（5/6）宣布，已與SpaceX達成合作協議，將使用其Colossus 1資料中心的全部算力容量，並將因此放寬Claude 代碼與Claude API的使用限制。
 
 - 📰 **iThome 科技**
 
-### 17. [為掩護網路間諜活動，伊朗駭客MuddyWater利用勒索軟體Chaos製造混亂](https://www.ithome.com.tw/news/175598)
+### 24. [為掩護網路間諜活動，伊朗駭客MuddyWater利用勒索軟體Chaos製造混亂](https://www.ithome.com.tw/news/175598)
 
-一般來說，駭客發動勒索軟體攻擊，多半是為了牟取經濟利益，或是表達特定的訴求，最近兩到三年也有將勒索軟體用於破壞的情形。不過，也有駭客用來掩蓋真正的動機，企圖藉由勒索軟體轉移受害組織的焦點。
+一般來說，駭客發動勒索軟體攻擊，多半是為了牟取經濟利益，或是表達特定的訴求，最近兩到三��也有將勒索軟體用於破壞的情形。不過，也有駭客用來掩蓋真正的動機，企圖藉由勒索軟體轉移受害組織的焦點。
 
 - 📰 **iThome 科技**
 
-### 18. [劍橋研究指出逾8成金融業者已導入AI，監管機關最擔心資料隱私與AI幻覺風險](https://www.ithome.com.tw/news/175597)
+### 25. [劍橋研究指出逾8成金融業者已導入AI，監管機關最擔心資料隱私與AI幻覺風險](https://www.ithome.com.tw/news/175597)
 
 劍橋大學賈吉商學院（Cambridge Judge Business School）發布全球金融業AI研究
 
 - 📰 **iThome 科技**
 
-### 19. [臺灣有74%企業為了轉型而用AI，卻有半數難辨威脅](https://www.ithome.com.tw/news/175596)
+### 26. [臺灣有74%企業為了轉型而用AI，卻有半數難辨威脅](https://www.ithome.com.tw/news/175596)
 
 針對臺灣企業導入AI的現況，資安業者趨勢科技示警，指出國內有相當多企業在追求導入AI速度之際，已經呈現出容易忽略風險控管的現況。
-該公司表示，根據旗下企業資安事業群（TrendAI）調查報告TrendAI 2026 global AI study顯示，有74%的臺灣企業迫於高層或市場壓力，核准了可能帶來資安風險的AI方案，這當中卻只有不到一半的企業認為，其內部團隊能辨識惡意或異常的AI行為。
-��狀況突顯一種內部風險，臺灣企業在提升競爭力與AI轉型的同時，儘管部分企業試圖建立安全配套，但有半數以上的風險控管能力已成為被忽略的一環。
+該公司表示，根據旗下企業資安事業群（TrendAI）調查報告TrendAI 2026 global AI study顯示，有74%的臺灣企業迫於高層或市場壓力，核准了可能帶來資安風險的AI方案，這當���卻只有不到一半的企業認為，其內部團隊能辨識惡意或異常的AI行為。
+此狀況突顯一種內部風險，臺灣企業在提升競爭力與AI轉型的同時，儘管部分企業試圖建立安全配套，但有半數以上的風險控管能力已成為被忽略的一環。
 
 - 📰 **iThome 科技**
 
-### 20. [惡意軟體Quasar Linux結合後門與Rootkit功能，鎖定開發人員而來](https://www.ithome.com.tw/news/175595)
+### 27. [惡意軟體Quasar Linux結合後門與Rootkit功能，鎖定開發人員而來](https://www.ithome.com.tw/news/175595)
 
 去年下半鎖定開源生態圈的惡意程式供應鏈攻擊頻頻傳出，其中的蠕蟲活動Shai-Hulud與GlassWorm不斷出現在資安新聞版面，最近又有新的惡意程式出現，引起資安公司的關注。
 
 - 📰 **iThome 科技**
 
-### 21. [【臺灣資安大會直擊】衛福部推SBOM填補AI供應鏈漏洞、醫療主權雲八大方針正式版近期將出爐](https://www.ithome.com.tw/news/175594)
+### 28. [【臺灣資安大會直擊】衛福部推SBOM填補AI供應鏈漏洞、醫療主權雲八大方針正式版近期將出爐](https://www.ithome.com.tw/news/175594)
 
-衛福部資訊處處長李建璋今日（5/6）在臺灣資安大會醫療資安論壇揭露，衛福部下一步將在負責任AI中心推動導入SBOM（軟體物料清單）機制���降低醫療AI軟體供應鏈漏洞風險。同時，衛福部延續今年初與微軟、Google雲端和AWS等三大公有雲業者的醫療主權雲八大方針溝通，近期將公布正式版本，醫院未來選擇公有雲服務時雖會多出5%至15%的成本費用，但可享有更完善的保障，如加密金鑰由醫院掌握、資料未經醫院授權不得二次利用等。
+衛福部資訊處處長李建璋今日（5/6）在臺灣資安大會醫療資安論壇揭露，衛福部下一步將在負責任AI中心推動導入SBOM（軟體物料清單）機制，降低醫療AI軟體供應鏈漏洞風險。同時，衛福部延續今年初與微軟、Google雲端和AWS等三大公有雲業者的醫療主權雲八大方針溝通，近期將公布正式版本，醫院未來選擇公有雲服務時雖會多出5%至15%的成本費用，但可享有更完善的保障，如加密金鑰由醫院掌握、資料未經醫院授權不得二次利用等。
 醫療AI不只看模型，衛福部點名SBOM防供應鏈漏洞
 李建璋指出，醫療AI的資安風險，不只來自模型本身，而是背後龐大的軟體供應鏈。
 
 - 📰 **iThome 科技**
 
-### 22. [【臺灣資安大會直擊】2026年底9成資訊都是AI撰寫？趨勢科技揭示AI演進下的4大內外部風險](https://www.ithome.com.tw/news/175591)
+### 29. [【臺灣資安大會直擊】2026年底9成資訊都是AI撰寫？趨勢科技揭示AI演進下的4大內外部風險](https://www.ithome.com.tw/news/175591)
 
 「到了今年底，你在網路上看到的資訊，可能90%都不是人寫的。」這不是科幻小說的對白，在今年臺灣資安大會上，趨勢科技企業資安事業群（TrendAI）威脅研究總監Ryan Flores特別針對這波AI浪潮，剖析企業正處於進退維谷的內憂與外患之間。
-隨著AI技術突飛猛進，網路犯罪態勢也呈現重大轉變，Ryan Flores對此��出的說明可歸納為4大要點。在內部風險方面有1項重要態勢：AI系統本身也會存在需要修補的漏洞，近兩年來的AI漏洞暴增，2024年有1,583個，2025年有2,130個；而在外部威脅上則有3項重要態勢，包括內容生成成本大幅降低、身分冒充變得可規模化，以及攻擊邏輯從傳統惡意程式轉
+隨著AI技術突飛猛進，網路犯罪態勢也呈現重大轉變，Ryan Flores對此提出的說明可歸納為4大要點。在內部風險方面有1項重要態勢：AI系統本身也會存在需要修補的漏洞，近兩年來的AI漏洞暴增，2024年有1,583個，2025年有2,130個；而在外部威脅上則有3項重要態勢，包括內容生成成本大幅降低、身分冒充變得可規模化，以及攻擊邏輯從傳統惡意程式轉為
 
 - 📰 **iThome 科技**
 
-### 23. [【臺灣資安大會直擊】合勤資安長游政卿：歐盟CRA倒數上路，產品安全成供應鏈生死線](https://www.ithome.com.tw/news/175593)
+### 30. [【臺灣資安大會直擊】合勤資安長游政卿：歐盟CRA倒數上路，產品安全成供應鏈生死線](https://www.ithome.com.tw/news/175593)
 
 歐盟網路韌性法案(Cyber Resilience Act，CRA）進入實施倒數，企業的產品資安合規正從「法遵議題」轉變為「供應鏈存亡關鍵」。在今天(5/6)臺灣資安大會上，合勤投控資安長游政卿指出，CRA將在未來兩年內引發全球供應鏈重整，產品安全不再只是加分項，而是企業能否持續參與國際市場競爭的基本門檻。
 CRA上路倒數，供應鏈面臨重新洗牌
-
-- 📰 **iThome 科技**
-
-### 24. [Infoblox完成併購Axur，強化外部威脅防護能力](https://www.ithome.com.tw/news/175592)
-
-DDI與DNS安全解決方案廠商Infoblox近日宣布完成併購Axur，藉此擴展因應外部威脅的防護能力，並結合後者的技術，推出數位風險防護服務（Digital Risk Protection Services，DRPS），作為其風險暴露管理（Exposure Management）框架的首個元件。
-
-- 📰 **iThome 科技**
-
-### 25. [中國內容管理系統MetInfo存在重大漏洞，已出現積極利用的攻擊活動](https://www.ithome.com.tw/news/175590)
-
-一個月前，中國網站管理公司米拓信息的內容管理平臺（CMS）米拓（MetInfo）近期修補資安漏洞CVE-2026-29014，有資安公司發現，實際攻擊活動數週後出現、5月初顯著增加。
-
-- 📰 **iThome 科技**
-
-### 26. [研究人員警示駭客濫用Amazon SES發動釣魚攻擊，合法雲端郵件服務成為繞過防護手段](https://www.ithome.com.tw/news/175589)
-
-資安業者Kaspersky近日發布報告指出，駭客正在濫用Amazon旗下雲端郵件服務Simple Email Service（SES）發動釣魚攻擊，利用受信任的雲端基礎設施繞過傳統郵件過濾機制，較過去的釣魚攻擊更難以防範。
-
-- 📰 **iThome 科技**
-
-### 27. [Telegram Mini Apps遭濫用於假冒服務詐騙](https://www.ithome.com.tw/news/175588)
-
-資安業者CTM360發布資安研究報告，揭露名為FEMITBOT的詐騙基礎架構。攻擊者濫用Telegram Mini Apps與Telegram Bot，在Telegram內建立假冒加密貨幣、金融、AI、串流媒體與加密貨幣挖礦池的互動頁面，誘導使用者投入資金，部分網站還會提供Android APK檔案散布惡意程式。
-
-- 📰 **iThome 科技**
-
-### 28. [【資安日報】5月6日，Apache修補網頁伺服器高風險漏洞](https://www.ithome.com.tw/news/175587)
-
-Apache基金會修補HTTP 伺服器高風險漏洞
-
-- 📰 **iThome 科技**
-
-### 29. [Palo Alto Networks揭露防火牆重大資安漏洞，並指出已被用於實際攻擊](https://www.ithome.com.tw/news/175586)
-
-5月6日資安公司Palo Alto Networks發布資安公告，揭露防火牆作業系統PAN-OS資安漏洞CVE-2026-0300，此弱點存在於User-ID身分驗證入口網站，為記憶體緩衝區溢位漏洞，未經身分驗證的攻擊者透過特製封包，就能在防火牆系統當中以root權限執行任意程式碼，CVSS v4.0風險評為9.3分（滿分10分），屬重大等級漏洞。值得留意的是，該漏洞已出現遭到利用的情況，但相關修補程式預計要一至三週後才會推出。
-
-- 📰 **iThome 科技**
-
-### 30. [Linux基金會成立x402 Foundation，攜手產業推動AI代理支付標準](https://www.ithome.com.tw/news/175585)
-
-因應AI代理應用帶動的自動化交易需求，
 
 - 📰 **iThome 科技**
 
@@ -198,13 +203,23 @@ Apache基金會修補HTTP 伺服器高風險漏洞
 
 ### 更多 AI 新聞 (70則)
 
+- Sleep Number ComfortNext Lux Smart Bed: Redefining Support (**Wired**)
+- 最佳 Printers for Any Home-Office Need (2026): Brother, HP, and More (**Wired**)
+- 最佳 Bug Spray (2026), Tested and Reviewed (**Wired**)
+- How I Fixed My Webcam Lighting for Zoom Calls (2026) (**Wired**)
+- Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open 網頁 (**Wired**)
+- This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes (**Wired**)
+- 11 最佳 Sunscreens, WIRED Tested and Reviewed (**Wired**)
+- Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’ (**Wired**)
+- There Is No Evidence the Trump Assassination Attempts Were Staged. People Still Believe They Were (**Wired**)
+- Everyone Should Travel With a Pair of Cheap Wired Headphones (2026) (**Wired**)
 - Vimeo Promo 代碼: 40% Off This May 2026 (**Wired**)
 - Walmart Promo Codes: 65% Off (**Wired**)
+- Womanizer Coupons: Save 15% in May (**Wired**)
+- AT&amp;T Promo Codes and Bundle Deals: Save $50 in May (**Wired**)
 - Groupon Promo Codes: 60% Off in May 2026 (**Wired**)
 - HP Discount Codes: 60% Off May 2026 (**Wired**)
 - Maytag Promo Codes: 15% Off Appliances (**Wired**)
-- Womanizer Coupons: Save 15% in May (**Wired**)
-- AT&amp;T Promo Codes and Bundle Deals: Save $50 in May (**Wired**)
 - Target Promo 代碼: $50 Off | May 2026 (**Wired**)
 - Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla (**Wired**)
 - A Kid With a Fake Mustache Tricked an Online Age-Verification Tool (**Wired**)
@@ -228,26 +243,16 @@ Apache基金會修補HTTP 伺服器高風險漏洞
 - Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die (**Wired**)
 - The 最佳 Bed Frames, Tested in Our Own Rooms (2026) (**Wired**)
 - Activists Are Taking On Elon Musk’s SpaceX IPO (**Wired**)
-- The Motley Fool Promo 代碼: Save Up to $200 on Stock Advisor May 2026 (**Wired**)
 - 1Password Coupon: Score a Free Trial in 2026 (**Wired**)
 - Bose Promo 代碼: 40% Off for May 2026 (**Wired**)
 - Hydrow Discount 代碼: Save Up to $150 | May 2026 (**Wired**)
 - AirDoctor Coupon Codes: 40% Off | May 2026 (**Wired**)
 - Expedia Coupons: 75% Off (**Wired**)
+- The Motley Fool Promo 代碼: Save Up to $200 on Stock Advisor May 2026 (**Wired**)
 - Vivid Seats Promo Codes and Deals: Get 10% Off (**Wired**)
 - Acer Promo Codes: 40% Off (**Wired**)
 - Factor Promo 代碼: 50% Off Off Meal Prep (**Wired**)
 - Ring Promo 代碼: 50% Off (**Wired**)
-- LegalZoom Promo 代碼: Exclusive 10% Off LLC Formations (**Wired**)
-- Jabra Promo Codes: 30% Off  Headphones, Headsets &amp; More (**Wired**)
-- ‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk (**Wired**)
-- Telehealth Abortion Is Still Possible Without Mifepristone (**Wired**)
-- The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy (**Wired**)
-- Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification (**Wired**)
-- Bose Brings Back Its ‘Lifestyle’ Branding With 新 Speakers for the Home (**Wired**)
-- Google DeepMind Workers Vote to Unionize Over Military AI Deals (**Wired**)
-- Murena /e/OS Tablet Review: Privacy for a Price (**Wired**)
-- The iPhone That Never Was (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
