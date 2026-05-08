@@ -4,208 +4,210 @@
 
 ---
 
-### 1. [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+### 1. [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
+
+- ⭐ 110 分｜💬 80 留言｜👤 surprisetalk
+
+### 2. [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 
 https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi...
 
-- ⭐ 553 分｜💬 341 留言｜👤 stefanpie
-
-### 2. [Maybe you shouldn't install 新 軟體 for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
-
-- ⭐ 419 分｜💬 212 留言｜👤 psxuaw
+- ⭐ 768 分｜💬 473 留言｜👤 stefanpie
 
 ### 3. [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
 
 https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;
 
-- ⭐ 604 分｜💬 361 留言｜👤 PriorityLeft
+- ⭐ 928 分｜💬 631 留言｜👤 PriorityLeft
 
-### 4. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+### 4. [Nintendo 宣布 price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
 
-- ⭐ 581 分｜💬 231 留言｜👤 flipped
+- ⭐ 123 分｜💬 95 留言｜👤 razorbeamz
 
-### 5. [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
+### 5. [An 介紹 Meshtastic](https://meshtastic.org/docs/introduction/)
 
-- ⭐ 31 分｜💬 4 留言｜👤 peter_d_sherman
+- ⭐ 24 分｜💬 9 留言｜👤 ColinWright
 
-### 6. [Pinocchio is weirder than you remembered](https://storica.club/blog/pinocchio-in-italian/)
+### 6. [Maybe you shouldn't install 新 軟體 for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
 
-- ⭐ 115 分｜💬 40 留言｜👤 cemsakarya
+- ⭐ 627 分｜💬 348 留言｜👤 psxuaw
 
-### 7. [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
+### 7. [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
 
-- ⭐ 619 分｜💬 310 留言｜👤 speckx
+- ⭐ 127 分｜💬 39 留言｜👤 Borkdude
 
-### 8. [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
+### 8. [GeoJSON](https://geojson.org/)
 
-- ⭐ 435 分｜💬 212 留言｜👤 bsuh
+- ⭐ 40 分｜💬 16 留言｜👤 tosh
 
-### 9. [A polynomial autoencoder beats PCA on transformer embeddings](https://ivanpleshkov.dev/blog/polynomial-autoencoder/)
+### 9. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 
-- ⭐ 17 分｜💬 2 留言｜👤 timvisee
+- ⭐ 692 分｜💬 285 留言｜👤 flipped
 
-### 10. [Inventing Cyrillic](https://www.historytoday.com/archive/history-matters/inventing-cyrillic)
+### 10. [Dithering with CSS](https://ikesau.co/blog/dithering-with-css/)
 
-- ⭐ 18 分｜💬 1 留言｜👤 lermontov
+- ⭐ 52 分｜💬 17 留言｜👤 speckx
 
-### 11. [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
+### 11. [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
 
-- ⭐ 69 分｜💬 31 留言｜👤 foltik
+- ⭐ 686 分｜💬 326 留言｜👤 speckx
 
-### 12. [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
+### 12. [Pinocchio is weirder than you remembered](https://storica.club/blog/pinocchio-in-italian/)
 
-- ⭐ 55 分｜💬 41 留言｜👤 hhs
+- ⭐ 212 分｜💬 87 留言｜👤 cemsakarya
 
-### 13. [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
+### 13. [Rumors of my death are slightly exaggerated](https://news.ycombinator.com/item?id=48037336)
 
-- ⭐ 256 分｜💬 86 留言｜👤 instagraham
+AI hallucinations are getting ambitious.A couple people recently emailed, asking whether the Klein bottle business was still operating after my death.“Huh?” I thought. “I ain’t dead yet.”After some di
 
-### 14. [如何 make SSE token streams resumable, cancellable, and multi-device](https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/)
+- ⭐ 426 分｜💬 63 留言｜👤 CliffStoll
 
-- ⭐ 19 分｜💬 1 留言｜👤 zknill
+### 14. [Hackers breach JDownloader website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/)
 
-### 15. [Los Alamos and the long path to detecting neutrinos](https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger)
+- ⭐ 20 分｜💬 5 留言｜👤 bundie
 
-- ⭐ 28 分｜💬 3 留言｜👤 LAsteNERD
+### 15. [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)
 
-### 16. [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
+- ⭐ 40 分｜💬 39 留言｜👤 FailMore
 
-https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10448-0
+### 16. [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
 
-- ⭐ 95 分｜💬 38 留言｜👤 hhs
+- ⭐ 505 分｜💬 247 留言｜👤 bsuh
 
-### 17. [AlphaEvolve: Gemini-powered coding 代理 scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
+### 17. [A polynomial autoencoder beats PCA on transformer embeddings](https://ivanpleshkov.dev/blog/polynomial-autoencoder/)
 
-- ⭐ 284 分｜💬 122 留言｜👤 berlianta
+- ⭐ 59 分｜💬 15 留言｜👤 timvisee
 
 ### 18. [DeepSeek 4 Flash local 推論 engine for Metal](https://github.com/antirez/ds4)
 
-- ⭐ 361 分｜💬 99 留言｜👤 tamnd
+- ⭐ 430 分｜💬 119 留言｜👤 tamnd
 
-### 19. [Digging into Drama at the Document Foundation](https://lwn.net/Articles/1066418/)
+### 19. [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
 
-- ⭐ 13 分｜💬 0 留言｜👤 signa11
+- ⭐ 312 分｜💬 100 留言｜👤 instagraham
 
 ### 20. [Brazil's Pix payment 系統 faces pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/)
 
-- ⭐ 169 分｜💬 119 留言｜👤 wslh
+- ⭐ 253 分｜💬 227 留言｜👤 wslh
 
-### 21. [Mojo 1.0 Beta](https://mojolang.org/)
+### 21. [Singapore 引進 caning for boys who bully others at school](https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies)
 
-- ⭐ 71 分｜💬 45 留言｜👤 sbt567
+- ⭐ 238 分｜💬 346 留言｜👤 rustoo
 
-### 22. [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+### 22. [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
 
-- ⭐ 600 分｜💬 536 留言｜👤 thm
+- ⭐ 67 分｜💬 25 留言｜👤 peter_d_sherman
 
-### 23. [Singapore 引進 caning for boys who bully others at school](https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies)
+### 23. [AlphaEvolve: Gemini-powered coding 代理 scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
 
-- ⭐ 150 分｜💬 171 留言｜👤 rustoo
+- ⭐ 306 分｜💬 132 留言｜👤 berlianta
 
 ### 24. [Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 
 https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;mozil...
 
-- ⭐ 159 分｜💬 82 留言｜👤 HieronymusBosch
+- ⭐ 242 分｜💬 112 留言｜👤 HieronymusBosch
 
-### 25. [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants)
+### 25. [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
 
-- ⭐ 133 分｜💬 37 留言｜👤 hhs
+https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10448-0
 
-### 26. [Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+- ⭐ 124 分｜💬 48 留言｜👤 hhs
 
-- ⭐ 81 分｜💬 18 留言｜👤 jruohonen
+### 26. [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis)
 
-### 27. [I want to live like Costco people](https://tastecooking.com/i-want-to-live-like-costco-people/)
+- ⭐ 96 分｜💬 21 留言｜👤 gmays
 
-- ⭐ 282 分｜💬 588 留言｜👤 speckx
+### 27. [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
 
-### 28. [程式設計 Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
+- ⭐ 104 分｜💬 47 留言｜👤 foltik
 
-- ⭐ 590 分｜💬 295 留言｜👤 jeromechoo
+### 28. [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
-### 29. [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
+- ⭐ 727 分｜💬 620 留言｜👤 thm
 
-- ⭐ 58 分｜💬 7 留言｜👤 snide
+### 29. [如何 make SSE token streams resumable, cancellable, and multi-device](https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/)
 
-### 30. [US will start revoking passports for parents who owe child support](https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6)
+- ⭐ 48 分｜💬 10 留言｜👤 zknill
 
-- ⭐ 42 分｜💬 13 留言｜👤 OutOfHere
+### 30. [Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+
+- ⭐ 116 分｜💬 27 留言｜👤 jruohonen
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Principles for 代理-native CLIs
-- Chrome removes claim of On-device Al not sending data to Google Servers
+- Digging into Drama at the Document Foundation
+- QBE – Compiler Back End
+- SocialCrawl – search what people are saying across Reddit, X, TikTok, and 25
+- I want to live like Costco people
+- Nonprofit hospitals spend billions on consultants with no clear effect
+- Los Alamos and the long path to detecting neutrinos
 - Claude 代碼 CVE-2026-39861:sandbox escape via symlink
-- Komai: a fine Matrix chat app you can get to love
-- GPT-5.5 Price Increase: What It Costs
-- Let Me Convince You to Be Prolific
+- Creating for a niche
+- Floats Don't Agree with Themselves
+- Principles for 代理-native CLIs
 - Show HN: TRUST – Coding Rust like it's 1989
-- Tools in the Grass: Raising the next generation of crafts person
-- The Self-Cancelling Subscription
 - GovernGPT (YC W24) Is 招聘 Engineers to 構建 Thinking Systems in Montreal
-- PySimpleGUI 6
+- Chrome removes claim of On-device Al not sending data to Google Servers
+- Valve releases Steam Controller CAD files under Creative Commons license
+- Gambling ads on social media reach more than twice as many men as women: study
+- The Self-Cancelling Subscription
+- HantaWatch Real time hantavirus outbreak tracker
+- Let Me Convince You to Be Prolific
+- RSS feeds send me more traffic than Google
 - RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust
 - ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters
-- Evaluating Geekbench 6
-- Valve releases Steam Controller CAD files under Creative Commons license
-- RSS feeds send me more traffic than Google
-- Rolling the Root Key
-- 為什麼 I'm giving up on Facebook (2017)
-- OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)
-- The IT Productivity Paradox
+- Tools in the Grass: Raising the next generation of crafts person
+- Canvas Breach Disrupts Schools and Colleges Nationwide
+- Komai: a fine Matrix chat app you can get to love
+- PySimpleGUI 6
+- Eight More 8-bit Era Microprocessors (2024)
 - Making 大型語言模型 訓練 Faster with Unsloth and NVIDIA
-- The Traveling Salesdog Problem
-- Colored Shadow Penumbra
-- Child marriages plunged when girls stayed in school in Nigeria
 - Diskless Linux boot using ZFS, iSCSI and PXE
-- Utah data center: Projected daily heat equivalent to 23 atomic bombs
-- Indian matchbox labels as a visual archive
-- Easy Random Trees
-- SQLite Is a Library of Congress Recommended Storage Format
-- Motherboard sales 'collapse' amid unprecedented shortages fueled by AI
+- The IT Productivity Paradox
 - Appearing productive in the workplace
-- I switched from Mac to a Lenovo Chromebook
-- KDE Plasma 6.7 to Provide a Better Experience for CPU-Based Rendering
-- MPEG-2 Transport Stream Packaging for Media over QUIC Transport
+- SQLite Is a Library of Congress Recommended Storage Format
+- OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)
+- Child marriages plunged when girls stayed in school in Nigeria
+- 程式設計 Still Sucks
+- Indian matchbox labels as a visual archive
+- Motherboard sales 'collapse' amid unprecedented shortages fueled by AI
+- Rolling the Root Key
+- Colored Shadow Penumbra
+- 'Dirty Frag' exploit leaks out, gives root on most Linux machines
 - 代理-harness-kit scaffolding for multi-代理 workflows (MCP, provider-agnostic)
-- How Cloudflare responded to the “Copy Fail” Linux vulnerability
-- Show HN: AnamDB – An AI-native, differentiable Datalog engine written in Rust
-- SingleRide: Longest route on NYC Subway without visiting the same station twice
-- The IDE Should Become an Operating 系統 for AI
-- 新 開源 city-state, with 新 constitution functional on one site
-- Printing Blogs
-- CVE-2026-42511 Breakdown: RCE in FreeBSD
-- Copy Fail 2: Electric Boogaloo
 - Chevrolet Performance eCrate package (400v/200hp)
+- SingleRide: Longest route on NYC Subway without visiting the same station twice
+- I switched from Mac to a Lenovo Chromebook
+- MPEG-2 Transport Stream Packaging for Media over QUIC Transport
+- Evaluating Geekbench 6
+- CVE-2026-42511 Breakdown: RCE in FreeBSD
+- How Cloudflare responded to the “Copy Fail” Linux vulnerability
+- Easy Random Trees
+- Printing Blogs
 - Speedup in Lattice Boltzmann Cylinder Flow
-- The Disappearance of the Public Bench
-- Show HN: Stage CLI – An easier way of reading your AI generated changes locally
-- Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude 代碼
-- Learning OCaml: PPX for Mere Mortals
-- The brave souls who bought a used, 340k-mile rental camper van
-- OurCar: What I learned making an app for my family
-- ProgramBench: Can language models rebuild programs from scratch?
-- Permacomputing Principles
-- Molecular quantum nanosensors functioning in living cells
-- AWS says data center overheating in North Virginia disrupts services
-- Boris Cherny: TI-83 Plus Basic 程式設計 教學 (2004)
+- Mojo 1.0 Beta
 - Vibe coding and agentic engineering are getting closer than I'd like
-- Mojo Language
-- Community firmware for the Xteink X4 e-paper reader
-- The mechanical latching memory of an adhesive tape
-- Pen pal programs endure in a digital age
-- Show HN: Tilde.run – 代理 sandbox with a transactional, versioned filesystem
-- Show HN: 代理-skills-eval – 測試 whether 代理 Skills improve outputs
 - Google Chrome silently installs a 4 GB AI 模型 on your device without consent
-- DBase: 1979-2026
-- WAF and framework adapter mitigations for React and Next.js vulnerabilities
-- 為什麼 Don't Lowercase Letters Come Right After Uppercase Letters in ASCII?
+- The Traveling Salesdog Problem
+- The brave souls who bought a used, 340k-mile rental camper van
+- Permacomputing Principles
+- ProgramBench: Can language models rebuild programs from scratch?
+- Community firmware for the Xteink X4 e-paper reader
+- OurCar: What I learned making an app for my family
+- Show HN: Stage CLI – An easier way of reading your AI generated changes locally
+- Show HN: Tilde.run – 代理 sandbox with a transactional, versioned filesystem
+- Boris Cherny: TI-83 Plus Basic 程式設計 教學 (2004)
+- Pen pal programs endure in a digital age
+- Show HN: 代理-skills-eval – 測試 whether 代理 Skills improve outputs
+- Salary isn't everything: 為什麼 flexibility to work remotely is the future of work
+- Show HN: AnamDB – An AI-native, differentiable Datalog engine written in Rust
 - What British people mean when they say 'sorry'
-- Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'
-- Consumer Confidence Diverging for Low- and High-Income Households
+- Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude 代碼
+- The mechanical latching memory of an adhesive tape
+- Police advised to disable Bluetooth on Axon body-worn cameras to avoid detection
 
 
 ---
