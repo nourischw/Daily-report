@@ -128,7 +128,7 @@ Linux核心再傳本地提權漏洞，資安研究人員Hyunwoo Kim公開名為D
 ### 20. [美國最大行動式醫療診斷服務商導入AI平臺，96%排程作業不再仰賴人工處理](https://www.ithome.com.tw/news/175643)
 
 美國行動式醫療診斷服務供應商TridentCare導入AI代理，應用於工作排程、路線安排與例外狀況處理，將排程自動化比率提升至96%，病患等候服務的時間也因此縮短。
-TridentCare服務範圍涵蓋美國46個州，每天派遣數百輛車，提供行動式X光、超音波與實驗室服務，服務對象包括護理之家、復健中心、矯正機構與其他照護場域。該公司每年需協調數千名具備專業證照的臨床人員，完成約540萬次現場診療服務。
+TridentCare服務範圍涵蓋美國46個州，每天派遣數百輛車，提供行動式X光、超音波與實驗���服務，服務對象包括護理之家、復健中心、矯正機構與其他照護場域。該公司每年需協調數千名具備專業證照的臨床人員，完成約540萬次現場診療服務。
 
 - 📰 **iThome 科技**
 
@@ -170,7 +170,7 @@ Google本週四（5/7）揭露了全新的健康平臺Google Health，將既有F
 
 ### 27. [Ivanti修補裝置管理平臺EPMM已遭利用的高風險漏洞](https://www.ithome.com.tw/news/175634)
 
-5月7日資安公司Ivanti發布公告，端點管理平臺Endpoint 經理 行動（EPMM）存在5個高風險漏洞��值得留意的是，其中一個登記為CVE-2026-6973的資安漏洞已出現實際攻擊活動。這些漏洞影響12.8.0.0以下版本的EPMM，Ivanti發布12.8.0.1、12.7.0.1、12.6.1.1版修補。
+5月7日資安公司Ivanti發布公告，端點管理平臺Endpoint 經理 行動（EPMM）存在5個高風險漏洞，值得留意的是，其中一個登記為CVE-2026-6973的資安漏洞已出現實際攻擊活動。這些漏洞影響12.8.0.0以下版本的EPMM，Ivanti發布12.8.0.1、12.7.0.1、12.6.1.1版修補。
 
 - 📰 **iThome 科技**
 
@@ -182,7 +182,7 @@ Google本週四（5/7）揭露了全新的健康平臺Google Health，將既有F
 
 ### 29. [為了推動AI領域的投資，資安公司Arctic Wolf傳出裁員250人](https://www.ithome.com.tw/news/175622)
 
-根據科技新聞網站The Register的報導，資安公司Arctic Wolf近期裁員250人，目的是強化威脅情報平臺與代理型資安營運中心（Agentic SOC），投入更多與AI相關的資金，涵蓋銷���、產品開發、行銷多個部門，其中部分員工在職超過4年。
+根據科技新聞網站The Register的報導，資安公司Arctic Wolf近期裁員250人，目的是強化威脅情報平臺與代理型資安營運中心（Agentic SOC），投入更多與AI相關的資金，涵蓋銷售、產品開發、行銷多個部門，其中部分員工在職超過4年。
 
 - 📰 **iThome 科技**
 
@@ -196,6 +196,10 @@ Google本週四（5/7）揭露了全新的健康平臺Google Health，將既有F
 
 ### 更多 AI 新聞 (70則)
 
+- The Pentagon Releases 新 Trove of Declassified UFO Files (**Wired**)
+- Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks (**Wired**)
+- Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’ (**Wired**)
+- There’s a Long-Shot Proposal to Protect California Workers From AI (**Wired**)
 - The 最佳 行動 Gaming Controllers for iPhone and Android (2026) (**Wired**)
 - We Asked Coffee Pros to Blind 測試 Coffee Machines. The Results Were Surprising (**Wired**)
 - Billie Eilish Doesn't Know if There Will Ever Be Another Billie Eilish (**Wired**)
@@ -214,8 +218,8 @@ Google本週四（5/7）揭露了全新的健康平臺Google Health，將既有F
 - 最佳 Last-Minute Mother’s Day Deals on Mom-Approved Gifts  (2026) (**Wired**)
 - One of DOGE’s Young Engineers Is Now Running a Defense Tech Startup (**Wired**)
 - Diabetes Detection Needs Better Tools. They’re on the Way (**Wired**)
-- Google Ditches the Screen With the 新 Fitbit Air (2026) (**Wired**)
 - Google Is Rebranding the Fitbit App to ‘Google Health’ (**Wired**)
+- Google Ditches the Screen With the 新 Fitbit Air (2026) (**Wired**)
 - Sleep Number ComfortNext Lux Smart Bed: Redefining Support (**Wired**)
 - 最佳 Printers for Any Home-Office Need (2026): Brother, HP, and More (**Wired**)
 - 最佳 Bug Spray (2026), Tested and Reviewed (**Wired**)
@@ -242,10 +246,6 @@ Google本週四（5/7）揭露了全新的健康平臺Google Health，將既有F
 - I Am Begging AI Companies to Stop Naming Features After Human Processes (**Wired**)
 - Hackers Hate AI Slop Even More Than You Do (**Wired**)
 - 最佳 Carry-On Suitcases (2026): Away, Rimowa, Tumi (**Wired**)
-- A Library Dedicated Solely to the Epstein Files Is Opening in 新 York (**Wired**)
-- Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’ (**Wired**)
-- 7 最佳 Digital Notebooks (2026): reMarkable, Kobo, Kindle (**Wired**)
-- ReMarkable Paper Pure Tablet Review: Back to Basics (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
