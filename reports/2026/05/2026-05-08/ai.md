@@ -4,197 +4,194 @@
 
 ---
 
-### 1. [PCIe 8.0草案出爐，資料傳輸率上看1TB/s](https://www.ithome.com.tw/news/175636)
+### 1. [Microsoft Teams將針對可疑外部來電示警，防範品牌冒用語音詐��](https://www.ithome.com.tw/news/175659)
+
+微軟將強化Microsoft Teams通話安全，針對Teams Calling新增品牌冒用防護（Brand Impersonation Protection for Teams Calling）功能，防範攻擊者透過外部的網路語音（Voice over Internet Protocol，VoIP ）來電假冒企業、客服或其他可信任組織，誘騙使用者回應或進一步提供資訊。
+
+- 📰 **iThome 科技**
+
+### 2. [OpenAI推出ChatGPT信任聯絡人功能，重大自傷風險可通知親友](https://www.ithome.com.tw/news/175657)
+
+OpenAI週四（5/7）宣布推出ChatGPT信任聯絡人（Trusted Contact）功能，讓18歲以上使用者可自願指定一名信任的成年人，在系統判斷使用者可能有嚴重自傷風險時，通知該名聯絡人介入關心。
+OpenAI說明，使用者有時會在ChatGPT中探索個人問題，甚至在對話中透露自己正處於困難或需要支持的狀態，因此OpenAI希望系統在敏感情境下不只提供回應，也能在必要時協助使用者連結到現實生活中的支援。
+
+- 📰 **iThome 科技**
+
+### 3. [三星Galaxy Watch 6能以AI預測昏倒](https://www.ithome.com.tw/news/175656)
+
+三星本週宣布在一項臨床研究中，Galaxy Watch 6可有效預測神經性失調引發的昏厥症狀，以便用戶採取預防措施。
+三星是在與韓國中央大學光明醫院（Chung-Ang University Gwangmyeong Hospital）的聯合臨床研究中，利用Galaxy Watch 6偵測的生物訊號，準確預測迷走神經性昏厥（VVS）。
+
+- 📰 **iThome 科技**
+
+### 4. [AWS美東資料中心傳出供電與冷卻異常，EC2與EBS服務受影響](https://www.ithome.com.tw/news/175652)
+
+AWS透過其服務狀態儀表板警示，美國東部（北維吉尼亞）的US-EAST-1服務區域，因單一資料中心供電與冷卻系統異常，導致部分EC2與EBS服務出現「impairment（功能降級）」情況，進而影響到其他相關服務運作，AWS表示已著手修復問題，目前已有初步復原跡象，但尚未能確認完全復原的時程。
+US-EAST-1是AWS最大型、也最重要的��務區域之一，一旦出現事故、往往牽連廣泛，2025年10月的大規模中斷事件，波及全球大量網站與雲端服務，仍讓人心有餘悸，因而這次散熱與供電異常，也格外引起我們注意。
+
+- 📰 **iThome 科技**
+
+### 5. [Linux核心再現本機提權漏洞，發行版修補前攻擊程式已流出](https://www.ithome.com.tw/news/175646)
+
+Linux核心再傳本地提權漏洞，資安研究人員Hyunwoo Kim公開名為Dirty Frag的漏洞鏈，指出攻擊者若已能在受影響Linux系統上執行程式，可能由低權限帳號取得Root權限。由於Dirty Frag漏洞影響所有主流Linux環境，且發行版修補與CVE編號申請尚未完成前，已有第三方公開部分漏洞細節與攻擊程式，使研究人員需提前揭露完整資訊。
+
+- 📰 **iThome 科技**
+
+### 6. [Cloudflare營收成長34%，宣布裁撤2成員工](https://www.ithome.com.tw/news/175649)
+
+網路基礎架構及資安服��業者Cloudflare週四（5/7）公布第一季財報，該季Cloudflare創造6.4億美元的營收，成長34%，隨後宣布要裁撤1,100名員工，約占該公司20%的員工比重。
+
+- 📰 **iThome 科技**
+
+### 7. [Anthropic Claude 代碼設計問題，可被MCP劫持竊取OAuth憑證](https://www.ithome.com.tw/news/175647)
+
+資安業者Mitiga研究人員發現Anthropic Claude 代碼存在設計漏洞，可能遭駭客發動MCP劫持（MCP Hijacking）竊走其OAuth憑證，但開發人員可能渾然不覺，並透過供應鏈攻擊擴大下游受害範圍。
+
+- 📰 **iThome 科技**
+
+### 8. [Gartner預估2026年全球IT支出達6.31兆美元，AI基礎架構帶動資料中心支出大增](https://www.ithome.com.tw/news/175645)
+
+市場研究機構Gartner發布全球IT支出預測，2026年全球IT支出預估將從2025年的5.56兆美元，增加至6.31兆美元，年增13.5%。這波成長主要受到AI基礎架構、先進記憶體、軟體與雲端基礎架構服務需求推動。
+
+- 📰 **iThome 科技**
+
+### 9. [國安局指出高德地圖存在資安問題，使用者通話及個資會回傳中國](https://www.ithome.com.tw/news/175644)
+
+因具備精準顯示紅綠燈倒數秒數等功能，中國導航服務高德地圖在臺灣快速竄紅，但其資料來源與個資蒐集方式引發疑慮，使得我國政府關注此事並進行評估。
+
+- 📰 **iThome 科技**
+
+### 10. [美國最大行動式醫療診斷服務商導入AI平臺，96%排程作業不再仰賴人工處理](https://www.ithome.com.tw/news/175643)
+
+美國行動式醫療診斷服務供應商TridentCare導入AI代理，應用於工作排程、路線安排與例外狀況處理，將排程自動化比率提升至96%，病患等候服務的時間也因此縮短。
+TridentCare服務範圍涵蓋美國46個州，每天派遣數百輛車，提供行動式X光、超音波與實驗室服務，服務對象包括護理之家、復健中心、矯正機構與其他照護場域。該公司每年需協調數千名具備專業證照的臨床人員，完成約540萬次現場診療服務。
+
+- 📰 **iThome 科技**
+
+### 11. [駭客濫用Anthropic與OpenAI的模型攻擊墨西哥水力及排水系統](https://www.ithome.com.tw/news/175633)
+
+駭客在攻擊企業組織的IT環境濫用AI已是常態，如今傳出有人將AI用於滲透關鍵基礎設施。
+
+- 📰 **iThome 科技**
+
+### 12. [FDA升級內部AI工具Elsa，串接資料整合平臺強化查詢功能](https://www.ithome.com.tw/news/175639)
+
+AI 領域最新動態。
+
+- 📰 **iThome 科技**
+
+### 13. [Mozilla發布Firefox 150.0.2，修補3項高風險漏洞](https://www.ithome.com.tw/news/175638)
+
+5月7日Mozilla基金會發布Firefox 150.0.2，一共修補3項���風險資安漏洞，分別為CVE-2026-8090、CVE-2026-8092、CVE-2026-8093，這些弱點皆與記憶體有關，其中的
+
+- 📰 **iThome 科技**
+
+### 14. [Google發表全新健康平臺Google Health，整合Fitbit與Gemini](https://www.ithome.com.tw/news/175658)
+
+Google本週四（5/7）揭露了全新的健康平臺Google Health，將既有Fitbit App升級為Google Health App，推出由Gemini驅動的個人健康教練Google Health Coach，並發表無螢幕、可24小時佩戴的新款健康追蹤器Fitb
+
+- 📰 **iThome 科技**
+
+### 15. [駭客架設假Claude網站散布惡意軟體Beagle](https://www.ithome.com.tw/news/175637)
+
+上個月資安公司Malwarebytes揭露冒牌Claude網站的攻擊行動，駭客藉此散布遠端存取木馬PlugX，本週有新的調查結果出爐，公布更多細節。
+
+- 📰 **iThome 科技**
+
+### 16. [PCIe 8.0草案出爐，資料傳輸率上看1TB/s](https://www.ithome.com.tw/news/175636)
 
 周邊元件互連（Peripheral Component Interconnect，PCI）標準制定組織PCI-SIG本週公佈PCIe 8.0標準草案，預計2028年釋出給產業，最高資料傳輸率可達1.0 TB/s。最新釋出的PCIe 8.0標準草案為0.5版，預計在2028年釋出給產業。
 
 - 📰 **iThome 科技**
 
-### 2. [為了推動AI領域的投資，資安公司Arctic Wolf傳出裁員250人](https://www.ithome.com.tw/news/175622)
+### 17. [Ivanti修補裝置管理平臺EPMM已遭利用的高風險漏洞](https://www.ithome.com.tw/news/175634)
+
+5月7日資安公司Ivanti發布公告，端點管理平臺Endpoint 經理 行動（EPMM）存在5個高風險漏洞，值得留意的是，其中一個登記為CVE-2026-6973的資安漏洞已出現實際攻擊活動。這些漏洞影響12.8.0.0以下版本的EPMM，Ivanti發布12.8.0.1、12.7.0.1、12.6.1.1版修補。
+
+- 📰 **iThome 科技**
+
+### 18. [CISA在Palo Alto Networks防火牆重大漏洞揭露��下，即同步納入KEV清單，限期3天採取緩解措施](https://www.ithome.com.tw/news/175627)
+
+5月6日揭露的Palo Alto Networks防火牆重大漏洞CVE-2026-0300，CVE-2026-0300，當天美國網路安全與基礎設施安全局（CISA）隨即證實已出現被利用的活動，將其納入
+
+- 📰 **iThome 科技**
+
+### 19. [為了推動AI領域的投資，資安公司Arctic Wolf傳出裁員250人](https://www.ithome.com.tw/news/175622)
 
 根據科技新聞網站The Register的報導，資安公司Arctic Wolf近期裁員250人，目的是強化威脅情報平臺與代理型資安營運中心（Agentic SOC），投入更多與AI相關的資金，涵蓋銷售、產品開發、行銷多個部門，其中部分員工在職超過4年。
 
 - 📰 **iThome 科技**
 
-### 3. [Palo Alto Networks防火牆作業系統零時差漏洞傳出遭國家級駭客利用](https://www.ithome.com.tw/news/175621)
+### 20. [Palo Alto Networks防火牆作業系統零時差漏洞傳出遭國家級駭客利用](https://www.ithome.com.tw/news/175621)
 
-5月6日資安公司Palo Alto Networks揭露已被用於攻擊的零時差��洞CVE-2026-0300，此弱點存在於User-ID身分驗證入口網站，未經身分驗證的攻擊者能以root權限執行程式碼，CVSS v4.0風險為9.3分，實體設備PA系列與虛擬版防火牆VM系列都可能受影響。究竟漏洞如何遭到利用？該公司透露更多細節。
+5月6日資安公司Palo Alto Networks揭露已被用於攻擊的零時差漏洞CVE-2026-0300，此弱點存在於User-ID身分驗證入口網站，未經身分驗證的攻擊者能以root權限執行程式碼，CVSS v4.0風險為9.3分，實體設備PA系列與虛擬版防火牆VM系列都可能受影響。究竟漏洞如何遭到利用？該公司透露更多細節。
 
 - 📰 **iThome 科技**
 
-### 4. [【臺灣資安大會直擊】BEC郵件詐騙手法採用AI深偽技術，讓商業詐騙進入「真假難辨」新階段](https://www.ithome.com.tw/news/175620)
+### 21. [【臺灣資安大會直擊】BEC郵件詐騙手法採用AI深偽技術，讓商業詐騙進入「真假難辨」新階段](https://www.ithome.com.tw/news/175620)
 
 隨著生成式AI與深偽技術快速普及，商業電子郵件詐騙（BEC）正從傳統假冒郵件，演變為結合雲端帳號滲透、AI視訊偽造與跨境社交工程的新型態攻擊。曾在KPMG、鴻海集團擔任顧問、資訊或資安主管的遠東新世紀資安處資安長易換棣在今年臺灣資安大會中分享他的觀察及經驗，BEC已不只是資安事件，而是企業治理、信任機制與商業流程全面遭到操控的問題。
-他強調，BEC最危險之處，在於攻擊者不是直接竊取資金，而是利用企業原本正常運作的信任機制，讓受害者「親手完成匯款」。
-「它是透過合法的商��流程，操控人類在正常運作所依據的信任機制，而且最恐怖的是，它是透過受害者自己的手完成最後一個動作」，易換棣說。
+他強調，BEC最危險之處，在於攻擊者不是直接竊取資金，而是利用企業原本正常運作的信任機制，讓��害者「親手完成匯款」。
+「它是透過合法的商業流程，操控人類在正常運作所依據的信任機制，而且最恐怖的是，它是透過受害者自己的手完成最後一個動作」，易換棣說。
 
 - 📰 **iThome 科技**
 
-### 5. [Oracle釋出2026年4月關鍵修補更新，共修補241項漏洞，含多項重大與高風險漏洞](https://www.ithome.com.tw/news/175619)
+### 22. [Oracle釋出2026年4月關鍵修補更新，共修補241項漏洞，含多項重大與高風險漏洞](https://www.ithome.com.tw/news/175619)
 
 Oracle近日發布2026年4月關鍵修補更新（Critical Patch 更新，CPU），共包含481項更新程式，修補241項漏洞，包括22項重大漏洞，影響範圍包括資料庫、應用伺服器等28個產品家族。
 
 - 📰 **iThome 科技**
 
-### 6. [聯發科啟用PUE1.1的高能效AI研發資料中心，以浸沒式冷卻與再生能源打造永續算力](https://www.ithome.com.tw/news/175617)
+### 23. [聯發科啟用PUE1.1的高能效AI研發資料中心，以浸沒式冷卻與再生能源打造永續算力](https://www.ithome.com.tw/news/175617)
 
-隨著生成式AI與高效能運算需求快速攀升，AI資料中心的能源消耗與散熱問題，已成為企業邁向永續發展的重要挑戰。聯發科今天(5/7)宣布啟用位於銅鑼科學園區���研發資料中心，不僅導入以NVIDIA DGX B200平台打造的NVIDIA DGX SuperPOD運算叢集，大規模採用單相浸沒式冷卻技術，以提升能源效率與降低冷卻耗能，強化AI研發基礎設施的永續能力。
+隨著生成式AI與高效能運算需求快速攀升，AI資料中心的能源消耗與散熱問題，已成為企業邁向永續發展的重要��戰。聯發科今天(5/7)宣布啟用位於銅鑼科學園區的研發資料中心，不僅導入以NVIDIA DGX B200平台打造的NVIDIA DGX SuperPOD運算叢集，大規模採用單相浸沒式冷卻技術，以提升能源效率與降低冷卻耗能，強化AI研發基礎設施的永續能力。
 聯發科表示，該研發資料中心自2023年起依循綠建築的鑽石級標準規畫建置，並採模組化三期設計，第一期已於2026年正式啟用，未來將視AI業務成長需求逐步擴充。
 
 - 📰 **iThome 科技**
 
-### 7. [資安研究機構揭露針對cPanel重大漏洞的攻擊激增，用戶需立即修補](https://www.ithome.com.tw/news/175616)
+### 24. [資安研究機構揭露針對cPanel重大漏洞的攻擊激增，用戶需立即修補](https://www.ithome.com.tw/news/175616)
 
 資安研究機構Censys近日發布報告，指出Linux主機管理平臺cPanel/WHM重大漏洞CVE-2026-41940公開後，大量cPanel主機已成為攻擊目標，自5月1日起，網際網路上相關惡意活動明顯增加，用戶需立即採取修補措施。
 
 - 📰 **iThome 科技**
 
-### 8. [【資安日報】5月7日，駭客聲稱提供OpenClaw用戶擴充功能散布惡意軟體](https://www.ithome.com.tw/news/175615)
+### 25. [【資安日報】5月7日���駭客聲稱提供OpenClaw用戶擴充功能散布惡意軟體](https://www.ithome.com.tw/news/175615)
 
 惡意OpenClaw技能套件被用於散布Remcos與GhostLoader
 
 
 - 📰 **iThome 科技**
 
-### 9. [Intercom遭到供應鏈攻擊Mini Shai-Hulud波及](https://www.ithome.com.tw/news/175614)
+### 26. [Intercom遭到供應鏈攻擊Mini Shai-Hulud波及](https://www.ithome.com.tw/news/175614)
 
 近期SAP的NPM套件與深度學習框架PyTorch Lightning的PyPI套件被滲透，遭遇Mini Shai-Hulud供應鏈蠕蟲攻擊，有其他套件也受到波及。
 
 - 📰 **iThome 科技**
 
-### 10. [駭客發動長達5小時慢而低調的DDoS攻擊以規避偵測](https://www.ithome.com.tw/news/175613)
+### 27. [駭客發動長達5小時慢而低調的DDoS攻擊以規避偵測](https://www.ithome.com.tw/news/175613)
 
 資安業者DataDome發現近來駭客發動分散式阻斷服務（DDoS）攻擊手法有所演進，從短時大規模流量攻擊轉向慢而低調的長時間活動。
-DataDome的Galileo團隊在2026年4月緩解了一波針對一家使用者生成內容平臺客戶的網頁機器人（bot）DDoS流量攻擊，以時間換取空間，在5小時內發出24.5億次請求，但未曾觸發傳統防護方案流量限制的機制。
+DataDome的Galileo團隊在2026年4月緩解了一波針對一家使用者生成內容平臺客戶的網頁機器人（bot）DDoS流量攻擊，以時間換���空間，在5小時內發出24.5億次請求，但未曾觸發傳統防護方案流量限制的機制。
 
 - 📰 **iThome 科技**
 
-### 11. [Google發布Chrome 148，修補127個資安漏洞](https://www.ithome.com.tw/news/175612)
+### 28. [Google發布Chrome 148，修補127個資安漏洞](https://www.ithome.com.tw/news/175612)
 
 5月5日Google針對電腦版與Android版用戶，推出148版Chrome更新，總共修補127個資安漏洞，數量比前一次Chrome 147安全更新修補的
 
 - 📰 **iThome 科技**
 
-### 12. [【臺灣資安大會直擊】沒弄清楚DevSecOps流程反模式，靠AI也解不了四大根本問題](https://www.ithome.com.tw/news/175611)
+### 29. [【臺灣資安大會直擊】沒弄清楚DevSecOps流程反模式，靠AI也解不了四大根本問題](https://www.ithome.com.tw/news/175611)
 
 不少企業看上GAI強大的資料處理能力，想要用來處理繁雜的資安作業，像是分析龐大的Log，篩選複雜的告警等，根據iThome今年CIO&amp;amp;CISO大調查，30%的資訊主管認為AI可以緩解資安人力不足的問題，每三家企業也就有一家今年要導入資安流程的AI 代理來輔助。
-針對這波企業想用AI來強化資安的浪潮，靖本行策執行長盧建成認為，AI只是讓問題變快���不代表責任或決策變得更清楚。
-早在AI資安爆紅之前，過去幾年，企業最夯的話題是DevSecOps，因為DevOps在臺發展十年，逐漸成了企業開發的主流方法論，但是速度變化了，安全的壓力也隨之而來，企業開始積極在開發流程的不同階段
+針對這波企業想用AI來強化資安的浪潮��靖本行策執行長盧建成認為，AI只是讓問題變快，不代表責任或決策變得更清楚。
+早在AI資安爆紅之前，過去幾年，企業最夯的話題是DevSecOps，因為DevOps在臺發展十年，逐漸成了企業開發的主流方法論，但是速度變化了，安全的壓力也隨之而來，企業開始積極在開發流程的不同階段，
 
 - 📰 **iThome 科技**
 
-### 13. [Braintrust遭未授權存取，要求用戶輪換AI供應商API金鑰](https://www.ithome.com.tw/news/175609)
+### 30. [Braintrust遭未授權存取，要求用戶輪換AI供應商API金鑰](https://www.ithome.com.tw/news/175609)
 
 AI可觀測性平臺Braintrust確認內部AWS帳號發生未授權存取事件，受影響環境存有客戶在Braintrust設定的AI模型供應商API金鑰。Braintrust表示事件目前已受控制，並要求客戶撤銷及重新產生儲存在平臺上的相關金鑰，以降低後續被濫用的風險。
-
-- 📰 **iThome 科技**
-
-### 14. [美國CISA推動CI Fortify計畫強化美國基礎設施韌性](https://www.ithome.com.tw/news/175610)
-
-美國網路安���暨基礎架構管理署（CISA）本週宣佈啟動關鍵基礎設施（critical infrastructure，CI）強化（CI Fortify）計畫，要求能源、國防等基礎設施機構增加投資以強化隔離作業及回復運作的能力，因應地緣政治中的網路安全威脅。
-
-- 📰 **iThome 科技**
-
-### 15. [AMD第一季營收成長38%，資料中心業務成主要成長動能](https://www.ithome.com.tw/news/175608)
-
-半導體業者AMD週二（5/5）公布截至3月28日的2026財年第一季財報，該季AMD創下102.5億美元的營收，成長38%，其中，在AI需求的帶動下，其資料中心部門營收成長幅度更達57%。
-
-- 📰 **iThome 科技**
-
-### 16. [Node.js沙箱函式庫vm2再爆重大逃逸漏洞](https://www.ithome.com.tw/news/175605)
-
-Node.js沙箱函式庫vm2出現重大沙箱逃逸漏洞CVE-2026-26956，受影響版本為3.10.4，修補版本為3.10.5。GitHub安全公告顯示，該漏洞嚴重性等級為重大，CVSS v3.1分數為9.8，攻擊者若能將經過特殊設計的程式碼交由VM.run()執行，就可能跳出沙箱，並在主機端執行命令。PoC片段與poc.js檔案現已於GitHub公開，建議使用者升級至vm2 3.10.5或更新版本。
-
-- 📰 **iThome 科技**
-
-### 17. [Anthropic Claude Desktop、Google Chrome疑未經告知、許可，悄悄在用戶裝置安裝檔案](https://www.ithome.com.tw/news/175607)
-
-研究人員先後發現Anthropic Claude桌機版及Google Chrome在用戶電腦上安裝檔案，未經事先告知、詢問，也未提供退出選項。
-
-- 📰 **iThome 科技**
-
-### 18. [PyTorch高階訓練框架的PyPI套件遭供應鏈攻擊](https://www.ithome.com.tw/news/175606)
-
-4月底NPM套件供應鏈攻擊活動Mini Shai-Hulud針對SAP而來，該公司4款套件受到影響，如今傳出相關攻擊延燒到其他開源生態圈的情況。
-
-- 📰 **iThome 科技**
-
-### 19. [北韓駭客ScarCruft利用安卓惡意軟體BirdCall攻擊中國境內的脫北者](https://www.ithome.com.tw/news/175604)
-
-北韓駭客ScarCruft（APT37）的攻擊目標，大部分集中在韓國，並關注政府機關與軍事單位，以及與北韓利益有關的企業組織。最近新一波攻擊行動引起研究人員的注意，因為這些駭客在中國特定地區發起攻擊行動，目標就是逃離北韓的難民與脫北者。
-
-- 📰 **iThome 科技**
-
-### 20. [思科網路管理平臺存在阻斷服務漏洞，IT人員需手動重開機才能恢復運作](https://www.ithome.com.tw/news/175603)
-
-5月6日思科發布資安公告，指出旗下的Crosswork 網絡 Controller（CNC）與網絡 Services Orchestrator（NSO）平臺存在資安漏洞CVE-2026-20188，一旦遭到利用，攻擊者可在未經身分驗證的情況下，造成CNC與NSO發生服務阻斷（DoS）的情況，CVSS風險評為7.5分，屬高風險等級。
-
-- 📰 **iThome 科技**
-
-### 21. [Arm財報創新高，押注AGI CPU擴大雲端市占](https://www.ithome.com.tw/news/175602)
-
-英國晶片設計公司Arm週三（5/6）公布截至3月31日的2026財年第四季財報，該季Arm創下14.9億美元的營收，成長20%。該季Arm淨收入為3.13億美元，每股盈餘0.29美元，高於去年同期的0.2美元。當天Arm股價上漲了13.63%，以237.3美元作收。
-在14.9億美元的營收中，有8.2億美元來自於授權費，成長了29%，另外的6.7億美元為權利金，成長11%。
-
-- 📰 **iThome 科技**
-
-### 22. [惡意OpenClaw技能套件被用於散布Remcos與GhostLoader](https://www.ithome.com.tw/news/175601)
-
-年初開源AI代理OpenClaw爆紅，「養龍蝦」成為熱門話題，駭客也鎖定這波風潮，假借提供技能擴充套件（Skill）的名義，向這些使用者散布惡意軟體。
-資安廠商Zscaler發現，有人從3月開始透過惡意技能套件DeepSeek-Claw，針對Windows、macOS、Linux用戶散布惡意程式，藉此竊取憑證、瀏覽器Cookie、加密貨幣錢包，以及API金鑰等敏感資料。
-
-- 📰 **iThome 科技**
-
-### 23. [微軟Phone Link應用程式被濫用，惡意軟體CloudZ竊取手機簡訊與OTP](https://www.ithome.com.tw/news/175600)
-
-論及手機與電腦之間的跨裝置整合，許多人會想到蘋果強大的生態系，使用者能直接在Mac電腦接聽iPhone的電話，或是使用AirDrop快速分享照片與檔案，不過，微軟也在Windows作業系統導入「手機連結（Phone Link）」應用程式，以提供類似的功能，如今有人盯上這類機制，透過惡意軟體竊取機敏資料。
-
-- 📰 **iThome 科技**
-
-### 24. [Anthropic與SpaceX達成算力合作，提高Claude 代碼與API使用上限](https://www.ithome.com.tw/news/175599)
-
-Anthropic週三（5/6）宣布，已與SpaceX達成合作協議，將使用其Colossus 1資料中心的全部算力容量，並將因此放寬Claude 代碼與Claude API的使用限制。
-
-- 📰 **iThome 科技**
-
-### 25. [為掩護網路間諜活動，伊朗駭客MuddyWater利用勒索軟體Chaos製造混亂](https://www.ithome.com.tw/news/175598)
-
-一般來說，駭客發動勒索軟體攻擊，多半是為了牟取經濟利益，或是表達特定的訴求，最近兩到三年也有將勒索軟體用於破壞的情形。不過，也有駭客用來掩蓋真正的動機，企圖藉由勒索軟體轉移受害組織的焦點。
-
-- 📰 **iThome 科技**
-
-### 26. [劍橋研究指出逾8成金融業者已導入AI，監管機關最擔心資料隱私與AI幻覺風險](https://www.ithome.com.tw/news/175597)
-
-劍橋大學賈吉商學院（Cambridge Judge Business School）發布全球金融業AI研究
-
-- 📰 **iThome 科技**
-
-### 27. [臺灣有74%企業為了轉型而用AI，卻有半數難辨威脅](https://www.ithome.com.tw/news/175596)
-
-針對臺灣企業導入AI的現況，資安業者趨勢科技示警，指出國內有相當多企業在追求導入AI速度之際，已經呈現出容易忽略風險控管的現況。
-該公司表示，根據旗下企業資安事業群（TrendAI）調查報告TrendAI 2026 global AI study顯示，有74%的臺灣企業迫於高層或市場壓力，核准了可能帶來資安風險的AI方案，這當中卻只有不到一半的企業認為，其內部團隊能辨識惡意或異常的AI行為。
-此狀況突顯一種內部風險，臺灣企業在提升競爭力與AI轉型的同時，儘管部分企業試圖建立安全配套，但有半數以上的風險控管能力已成為被忽略的一環。
-
-- 📰 **iThome 科技**
-
-### 28. [惡意軟體Quasar Linux結合後門與Rootkit功能，鎖定開發人員而來](https://www.ithome.com.tw/news/175595)
-
-去年下半鎖定開源生態圈的惡意程式供應鏈攻擊頻頻傳出，其中的蠕蟲活動Shai-Hulud與GlassWorm不斷出現在資安新聞版面，最近又有新的惡意程式出現��引起資安公司的關注。
-
-- 📰 **iThome 科技**
-
-### 29. [【臺灣資安大會直擊】衛福部推SBOM填補AI供應鏈漏洞、醫療主權雲八大方針正式版近期將出爐](https://www.ithome.com.tw/news/175594)
-
-衛福部資訊處處長李建璋今日（5/6）在臺灣資安大會醫療資安論壇揭露，衛福部下一步將在負責任AI中心推動導入SBOM（軟體物料清單）機制，降低醫療AI軟體供應鏈漏洞風險。同時，衛福部延續今年初與微軟、Google雲端和AWS等三大公有雲業者的醫療主權雲八大方針溝通，近期將公布正式版本，醫院未來選擇公有雲服務時雖會多出5%至15%的成本費用，但可享有更完善的保障，如加密金鑰由醫院掌握、資料未經醫院授權不得二次利用等。
-醫療AI不只看模型，衛福部點名SBOM防供應鏈漏洞
-李建璋指出，醫療AI的資安風險，不只來自模型本身，而是背後龐大的軟體供應鏈。
-
-- 📰 **iThome 科技**
-
-### 30. [【臺灣資安大會直擊】2026年底9成資訊都是AI撰寫？趨勢科技揭示AI演進下的4大內外部風險](https://www.ithome.com.tw/news/175591)
-
-「到了今年底，你在網路上看到的資訊，可能90%都不是人寫的。」這不是科幻小說的對白，在今年臺灣資安大會上，趨勢科技企業資安事業群（TrendAI）威脅研究總監Ryan Flores特別針對這波AI浪潮，剖析企業正處於進退維谷的內憂與外患之間。
-隨著AI技術突飛猛進，網路犯罪態勢也呈現重大轉變，Ryan Flores對此提出的說明可歸納為4大要點。在內部風險方面有1項重要態勢：AI系統本身也會存在需要修補的漏洞，近兩年來的AI漏洞暴增，2024年有1,583個，2025年有2,130個；而在外部威脅上則有3項重要態勢，包括內容生成成本大幅降低、身分冒充變得可規模化，以及攻擊邏輯從傳統惡意程式轉為
 
 - 📰 **iThome 科技**
 
@@ -202,6 +199,8 @@ Anthropic週三（5/6）宣布，已與SpaceX達成合作協議，將使用其Co
 
 ### 更多 AI 新聞 (70則)
 
+- The Canvas Hack Is a 新 Kind of Ransomware Debacle (**Wired**)
+- 50% Off DoorDash Promo 代碼 | May 2026 (**Wired**)
 - Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI (**Wired**)
 - Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained (**Wired**)
 - 如何 Disable Google's Gemini in Chrome (**Wired**)
@@ -250,8 +249,6 @@ Anthropic週三（5/6）宣布，已與SpaceX達成合作協議，將使用其Co
 - 最佳 Water Leak Detectors (2026): Moen, Phyn, TP-Link (**Wired**)
 - Smeg Forte Stand Mixer Review: Big Power, Mixed Results (**Wired**)
 - Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die (**Wired**)
-- The 最佳 Bed Frames, Tested in Our Own Rooms (2026) (**Wired**)
-- Activists Are Taking On Elon Musk’s SpaceX IPO (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
