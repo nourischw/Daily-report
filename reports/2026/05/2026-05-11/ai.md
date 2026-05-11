@@ -4,192 +4,189 @@
 
 ---
 
-### 1. [惡意程式ZiChatBot透過PyPI套件散布，針對Windows與Linux用戶而來](https://www.ithome.com.tw/news/175669)
+### 1. [AI時代資安新風險，東元電機：未來駭客攻擊的不只是系統，而是企業決策](https://www.ithome.com.tw/news/175703)
 
-資安公司卡巴斯基近日揭露駭客組織OceanLotus（APT32）於PyPI儲存庫的攻擊活動，這些駭客自2025年7月上傳一系列的惡意套件，這些套件確實具備駭客宣稱的功能，不過實際上卻會根據受害電腦的作業系統，執行Windows版或Linux版的惡意程式載入工具（Dropper），最終植入惡意軟體ZiChatBot，該公司向PyPI維護團隊通報後，上述套件已被下架。
+生成式AI快速進入企業營運流程之際，企業面臨的資安風險也正從傳統IT安全問題，逐步轉變成更深層的治理與決策風險。東元電機數位發展處處長胡修武近日在一場演講中指出，AI並不只是新的工具，而是一種全新的資訊架構。當AI逐漸成為企業內部的「數位員工」，未來駭客攻擊的目標，也將不再只是系統本身，而是企業的決策能力。
+資安是長期能力的積累
 
 - 📰 **iThome 科技**
 
-### 2. [Zara母公司傳被ShinyHunters竊取資料，影響近20萬人](https://www.ithome.com.tw/news/175681)
+### 2. [OpenAI Codex現可透過Chrome擴充功能背景處理跨分頁任務](https://www.ithome.com.tw/news/175700)
+
+OpenAI Codex現在可透過Chrome擴充功能，在macOS與Windows的Chrome中處理部分原本需要於瀏覽器內完成的工作。該更新讓Codex除了協助程式開發工作，也能處理網站與網頁應用程式中的部分瀏覽器工作，並支援跨分頁背景執行任務，不會接管使用者目前正在操作的瀏覽器。
+
+- 📰 **iThome 科技**
+
+### 3. [FCC延長外國製路由器與無人機更新豁免，允許既有設備更新至2029年](https://www.ithome.com.tw/news/175699)
+
+美國聯邦通訊委員會（Federal Communications Commission，FCC）旗下的工程與技術辦公室（Office of Engineering and Technology，OET）上週五（5/8）宣布，把外國製無人機（Uncrewed Aircraft Systems，UAS）、無人機關鍵零組件及路由器的軟體與韌體更新豁免期限，延後到至少2029年1月1日。
+
+- 📰 **iThome 科技**
+
+### 4. [【資安日報】5月11日，逾半數密碼的MD5雜湊值一小時就能破解](https://www.ithome.com.tw/news/175698)
+
+約六成的密碼MD5雜湊值可在一小時內破解
+
+- 📰 **iThome 科技**
+
+### 5. [Node.js沙箱函式庫vm2繼WASM沙箱逃逸後，再修NodeVM巢狀執行設定漏洞](https://www.ithome.com.tw/news/175691)
+
+Node.js沙箱函式庫vm2近期連續修補沙箱逃逸漏洞，繼3.10.5版處理CVE-2026-26956後，又在3.11.1版修補NodeVM巢狀執行設定問題CVE-2026-44007。該漏洞可能讓沙箱內程式碼繞過原本禁止載入模組的限制，進一步建立新的執行環境，並嘗試在主機端執行命令。
+
+- 📰 **iThome 科技**
+
+### 6. [歐洲央行總裁質疑歐元穩定幣必要性，主張以央行貨幣支撐代幣化金融](https://www.ithome.com.tw/news/175693)
+
+歐洲央行（ECB）總裁Christine Lagarde週五（5/8）在西班牙Roda de Bará舉行的Banco de España拉丁美洲經濟論壇上表示，歐洲不應只是因應美元穩定幣崛起，就急著推動歐元穩定幣；推動歐元穩定幣的必要性其實遠低於外界想像，甚至可能帶來金融穩定與貨幣政策傳導風險。
+
+- 📰 **iThome 科技**
+
+### 7. [逾5千個Vibe Coding應用程式可公開存取且毫不設防，可能導致企業資料外洩](https://www.ithome.com.tw/news/175692)
+
+資安業者RedAccess近日向媒體WIRED與Axios揭露，大量透過直覺式程式開發（Vibe Coding）方式建立的網路應用程式，缺乏身分驗證等基本的安全措施，導致企業敏感資料可能暴露於公開網路。
+
+- 📰 **iThome 科技**
+
+### 8. [Cloudflare廣域網路即服務開始支援PQC，強化企業WAN量子威脅防護](https://www.ithome.com.tw/news/175690)
+
+網路服務與資安業者Cloudflare宣布，Cloudflare IPsec後量子加密功能正式上線，這也是該公司加速後量子準備（Post
+
+- 📰 **iThome 科技**
+
+### 9. [2026年第一季全球網際網路中斷事件偏多，政府斷網、停電與軍事衝突成主因](https://www.ithome.com.tw/news/175688)
+
+網路與資安服務業者Cloudflare發布2026年第一季全球網際網路中斷事件觀察，
+
+- 📰 **iThome 科技**
+
+### 10. [Hugging Face出現冒充OpenAI的惡意儲存庫，鎖定Windows用戶散布竊資軟體](https://www.ithome.com.tw/news/175689)
+
+素有AI界GitHub之稱的Hugging Face提供大量的模型與工具，已成為許多人研究與開發AI應用的重要資源，有駭客因為該平臺極為熱門，而對其發動惡意軟體攻擊。
+
+- 📰 **iThome 科技**
+
+### 11. [檔案下載工具JDownloader網站遭駭，駭客竄改安裝檔下載連結](https://www.ithome.com.tw/news/175687)
+
+根據資安新聞網站Bleeping Computer報導，提供檔案下載工具軟體JDownloader的官方網站遭駭，攻擊者竄改安裝程式的下載連結，導致Windows電腦可能會被植入Python打造的遠端存取木馬。
+
+- 📰 **iThome 科技**
+
+### 12. [非關聯式資料庫Redis揭露5個漏洞，未修補可能導致遠端執行程式碼攻擊](https://www.ithome.com.tw/news/175686)
+
+開源記憶體型NoSQL資料庫系統Redis的資安團隊，近日
+
+- 📰 **iThome 科技**
+
+### 13. [Ubuntu與Fedora都將支援本地生成式AI，開發者反彈](https://www.ithome.com.tw/news/175685)
+
+紅帽（Red Hat）工程師Gordon Messmer在3月31日於Fedora論壇提出了「Fedora AI 開發者桌面」（Fedora AI 開發者 Desktop Objective）計畫，Ubuntu則由Canonical工程副總裁Jon Seager在4月27日正式
+
+- 📰 **iThome 科技**
+
+### 14. [紅帽新版RHEL強化後量子安全準備，導入抗量子簽章與AI輔助升級](https://www.ithome.com.tw/news/175684)
+
+AI 領域最新動態。
+
+- 📰 **iThome 科技**
+
+### 15. [Canvas再被駭客入侵斷線，大學被迫延遲期末考](https://www.ithome.com.tw/news/175683)
+
+Canvas供應商Instructure四月遭勒索軟體ShinyHunters外洩資料，上週網站再度遭駭，導致大學用戶運作大亂，甚至延遲期末考。
+Instructure上週公告遭ShinyHunters外洩資料後，很快就回復營運，但上週四再度遭ShinyHunters入侵。這群駭客將Canvas入口網站置換成勒索訊息。聲稱未接獲Instructure聯繫，對方反而實施一定的安全措施。由於已過了公開Canvas資料公布談判期限，駭客於是向Canvas學校用戶喊話，呼籲他們如果不希望資料公開，就個別和駭客直接以TOX通訊程式聯繫、談判「和解」，最後期限為5月12日。駭客還公布了受影響的學校清單。不
+
+- 📰 **iThome 科技**
+
+### 16. [微軟Copilot Cowork新增手機版、加入技能、可整合企業流程](https://www.ithome.com.tw/news/175682)
+
+微軟上週宣布為其AI工作助理Copilot Cowork推出手機版本並且強化功能，包括技能（skill）及和企業檔案、資料整合的能力。
+
+- 📰 **iThome 科技**
+
+### 17. [勒索軟體RansomHouse聲稱竊得資安公司Trellix的原始碼](https://www.ithome.com.tw/news/175680)
+
+一週前Trellix在網站發布公告，透露部分原始碼的儲存庫遭未經授權存取，近日有駭客組織聲稱是其所為。
+
+- 📰 **iThome 科技**
+
+### 18. [美國警告LiteLLM重大SQL注入漏洞已被用於實際攻擊](https://www.ithome.com.tw/news/175679)
+
+4月24日LiteLLM開發團隊揭露SQL注入漏洞CVE-2026-42208，資安公司Sysdig也發現，在公告發布的36小時後，已有人將其用於實際攻擊，如今美國政府也證實該漏洞遭利用。
+
+- 📰 **iThome 科技**
+
+### 19. [CISA要求聯邦機構3天內修補Ivanti行動裝置管理平臺零時差漏洞](https://www.ithome.com.tw/news/175678)
+
+上週Ivanti發布資安公告，修補端點管理平臺Endpoint 經理 行動（EPMM）多項資安漏洞，其中CVE-2026-6973已被實際利用，現在美國政府也證實此事，要求聯邦機構必須在同一週的週末完成修補。
+
+- 📰 **iThome 科技**
+
+### 20. [惡意NuGet套件冒充中國.NET程式庫，企圖對開發人員的瀏覽器、加密貨幣錢包發動攻擊](https://www.ithome.com.tw/news/175666)
+
+NPM、PyPI儲存庫接連傳出供應鏈攻擊事件，不過也有針對其他開發生態圈的攻擊行動，且有不少開發人員上當。
+
+- 📰 **iThome 科技**
+
+### 21. [惡意程式ZiChatBot透過PyPI套件散布，針對Windows與Linux用戶而來](https://www.ithome.com.tw/news/175669)
+
+資安公司卡巴斯基近日揭露駭客組織OceanLotus（APT32）於PyPI儲存庫的攻擊活動，攻擊者自2025年7月上傳一系列的惡意套件，而這些套件確實具備駭客宣稱的功能，不過實際上卻會根據受害電腦的作業系統，執行Windows版或Linux版的惡意程式載��工具（Dropper），最終植入惡意軟體ZiChatBot，該公司向PyPI維護團隊通報後，上述套件已被下架。
+
+- 📰 **iThome 科技**
+
+### 22. [Zara母公司傳被ShinyHunters竊取資料，影響近20萬人](https://www.ithome.com.tw/news/175681)
 
 西班牙快時尚品牌Zara母公司Inditex疑似遭勒索軟體組織ShinyHunters宣稱入侵雲端分析系統，被竊取197,000筆客戶資料。
 四月中勒索軟體組織ShinyHunters宣稱，他們利用Anodot行銷分析平臺的驗證憑證，從Inditex的BigQuery執行個體竊得140 GB資料。由於該公司未能支付贖金，駭客威脅準備將竊得的資料公開。
 
 - 📰 **iThome 科技**
 
-### 3. [Firefox大改版修復的漏洞其實不只271個！Mozilla基金會揭露近期結合AI處理的Firefox漏洞多達423個](https://www.ithome.com.tw/news/175674)
+### 23. [Firefox大改版修復的漏洞其實不只271個！Mozilla基金會揭露近期結合AI處理的Firefox漏洞多達423個](https://www.ithome.com.tw/news/175674)
 
-瀏覽器Firefox在4月下旬發布150版，Mozilla基金會表示，由於與AI模型大廠Anthropic合作，因此有機會採用早期版本的先進AI模型Claude Mythos Preview，經過初期評估發現大量漏洞，他們總共修補271個漏洞
+瀏覽器Firefox在4月下旬發布150版，Mozilla基金會表示，由於與AI模型大廠Anthropic合作，因���有機會採用早期版本的先進AI模型Claude Mythos Preview，經過初期評估發現大量漏洞， 他們總共修補271個漏洞 ，而在後續發布的149.0.2、150.0.
 
 - 📰 **iThome 科技**
 
-### 4. [cPanel新揭露與修補3個漏洞](https://www.ithome.com.tw/news/175673)
+### 24. [cPanel新揭露與修補3個漏洞](https://www.ithome.com.tw/news/175673)
 
 許多網站主機代管業者採用的Linux系統管理軟體cPanel與網頁 Host 經理（WHM）在4月底揭露與修補重大漏洞CVE-2026-41940，後續引發一連串資安風波，5月8日再度發布漏洞公告，揭露與修補3個新漏洞：
 
 - 📰 **iThome 科技**
 
-### 5. [Linux高風險漏洞Dirty Frag影響2017年至今的系統核心，以及5種發行版](https://www.ithome.com.tw/news/175672)
+### 25. [Linux高風險漏洞Dirty Frag影響2017年至今的系統核心，以及6種發行版](https://www.ithome.com.tw/news/175672)
 
 4月底揭露的Linux系統核心的本機提權漏洞Copy Fail（CVE-2026-31431）震撼全球之餘，沒想到本週五（5月8日）竟又爆出另一批同樣存在Linux系統核心的本機提權漏洞Dirty Frag，當天還有代號為0xdeadbeefnetwork（_SiCk）的研究員，也在GitHub公開另一個濫用此漏洞的概念驗證程式，稱為
 
 - 📰 **iThome 科技**
 
-### 6. [OpenAI發布三款Realtime API語音模型，將GPT-5等級推理帶進即時語音互動](https://www.ithome.com.tw/news/175665)
+### 26. [OpenAI發布三款Realtime API語音模型，將GPT-5等級推理帶進即時語音互動](https://www.ithome.com.tw/news/175665)
 
 OpenAI發布三款可透過Realtime API使用的新音訊模型，分別是GPT-Realtime-2、GPT-Realtime-Translate與GPT-Realtime-Whisper，讓開發者建立可即時對話、翻譯與轉錄的語音應用。其中GPT-Realtime-2是OpenAI所稱具GPT-5等級推理能力的語音模型，主要用於讓語音助理在對話中理解使用者需求、保留前後脈絡，並在需要時呼叫工具完成工作。
 
 - 📰 **iThome 科技**
 
-### 7. [衛福部期中將著重AI與資安治理，醫院資安預算至少應編3%](https://www.ithome.com.tw/news/175668)
+### 27. [衛福部期中將著重AI與資安治理，醫院資安預算至少應編3%](https://www.ithome.com.tw/news/175668)
 
-隨著醫療機構持續成為勒索攻擊與個資外洩的高風險目標，醫院不只得補強技術防護，也得提前因應更嚴格的法規與治理要求。
+隨著醫療機構持續成為勒索攻擊與個資外洩的高風險目標，醫院不只得補強技術防護，也得提前因應更���格的法規與治理要求。
 在5月7日的臺灣資安大會中，中山醫學大學附設醫院醫療資訊中心副主任黃冠凱指出，衛福部推動的健康臺灣深耕計畫近期將進入期中審查，其中第3範疇聚焦資安治理、資料治理與AI治理，將成為衛福部資訊處的重要核查項目。他也建議，醫院整體資安經費至少應占總預算3%以上，才能建立基本防護能力。
-除了預算與治理，他也從法規遵循、AI威脅偵測，到IoT設備分段管理等面向，提出醫院資安強化方向。他同時提醒，《個人資料保護法》修正草案已明定，未來只要發生特種個資外洩且筆數超過100筆，不只須在72小時內通
+除了預算與治理，他也從法規遵循、AI威脅偵測，到IoT設備分段管理等面向，提出醫院資安強化方向。他同時提醒，《個人資料保護法》修正草案已明定，未來只要發生特種個資外洩且筆數超過100筆，不只須在72小時
 
 - 📰 **iThome 科技**
 
-### 8. [駭客結合釣魚攻擊與遠端管理工具，影響逾80個機構](https://www.ithome.com.tw/news/175667)
+### 28. [駭客結合釣魚攻擊與遠端管理工具，影響逾80個機構](https://www.ithome.com.tw/news/175667)
 
 資安業者Securonix近日發布報告，揭露代號VENOMOUS#HELPER的釣魚攻擊行動，駭客自2025年4月起，利用兩款遠端監控與管理（RMM）工具：修改版的SimpleHelp與ScreenConnect，攻擊超過80個機構。
 Securonix指出，駭客首先透過假冒美國社會安全局名義寄送釣魚郵件，誘騙受害者下載惡意檔案，一旦受害者執行惡意檔案，駭客便會藉此安裝擁有合法數位簽章的RMM工具，從而對受害裝置建立持久的遠端存取能力，並藉此規避傳統資安防護與惡意程式偵測。
 
 - 📰 **iThome 科技**
 
-### 9. [加拿大查獲簡訊廣播器犯罪活動，攻擊者假冒合法基地臺並利用2G連線弱點發送釣魚簡訊](https://www.ithome.com.tw/news/175664)
+### 29. [加拿大查獲簡訊廣播器犯罪活動，攻擊者假冒合法基地臺並利用2G連線弱點發送釣魚簡訊](https://www.ithome.com.tw/news/175664)
 
 日前多倫多警察局（Toronto Police Service）公布「燈塔專案」
 
 - 📰 **iThome 科技**
 
-### 10. [約六成的密碼MD5雜湊值可在一小時內破解](https://www.ithome.com.tw/news/175663)
+### 30. [約六成的密碼MD5雜湊值可在一小時內破解](https://www.ithome.com.tw/news/175663)
 
-每年的5月第一個星期四是世界密碼日（World Password Day），許多資安專家會宣導密碼衛生的重要性，不過這次有資安公司揭露相當特別的分析結果，那就是應用系統存放的密碼資料，以現在的硬體資源而言相當容易破解。
-
-- 📰 **iThome 科技**
-
-### 11. [WordPress轉址外掛功能發現潛藏多年後門程式，逾7萬網站恐暴露於惡意程式散播風險](https://www.ithome.com.tw/news/175662)
-
-網站代管業者Austin Ginder近日發布報告，指出廣泛使用的開源網站管理系統WordPress上，有不少用戶使用的外掛程式Quick Page/Post Redirect存在潛藏5年的後門，影響超過7萬個網站，可能導致內容注入與惡意程式碼散播等問題，負責管理外掛程式庫的WordPress.org平臺已將其下架，已安裝的用戶應先行移除。
-
-- 📰 **iThome 科技**
-
-### 12. [因應AI輔助開發風險，GitHub MCP 伺服器加入提交前機密憑證與相依套件掃描](https://www.ithome.com.tw/news/175660)
-
-GitHub正式推出GitHub MCP 伺服器機密憑證掃描功能，並公開預覽相依套件漏洞掃描。
-
-- 📰 **iThome 科技**
-
-### 13. [【資安週報】0504~0508，臺灣資安大會CYBERSEC 2026登場，聚焦AI代理時代防禦新對策](https://www.ithome.com.tw/news/175661)
-
-這一星期臺灣資安大會CYBERSEC 2026舉行是主要焦點，逾二萬名產官學代表齊聚，不僅象徵資安已晉升為國家戰略與全社會韌性的核心，也突顯各界重視AI時代下的防禦轉型與治理。
-全球重大威脅事件方面，零時差漏洞攻擊持續焦點，被針對目標包括：Linux核心LPE漏洞CVE-2026-31431（Copy Fail）、cPanel漏洞CVE-2026-41940，以及Palo Alto Networks的PAN-OS漏洞CVE-2026-0300。在此當中，前兩者的影響相當廣泛，也引發各界呼籲企業應儘速落實更新與修補。
-
-- 📰 **iThome 科技**
-
-### 14. [Microsoft Teams將針對可疑外部來電示警，防範品牌冒用語音詐騙](https://www.ithome.com.tw/news/175659)
-
-微軟將強化Microsoft Teams通話安全，針對Teams Calling新增品牌冒用防護（Brand Impersonation Protection for Teams Calling）功能，防範攻擊者透過外部的網路語音（Voice over Internet Protocol，VoIP ）來電假冒企業、客服或其他可信任組織，誘騙使用者回應或進一步提供資訊。
-
-- 📰 **iThome 科技**
-
-### 15. [OpenAI推出ChatGPT信任聯絡人功能，重大自傷風險可通知親友](https://www.ithome.com.tw/news/175657)
-
-OpenAI週四（5/7）宣布推出ChatGPT信任聯絡人（Trusted Contact）功能，讓18歲以上使用者可自願指定一名信任的成年人，在系統判斷使用者可能有嚴重自傷風險時，通知該名聯絡人介入關心。
-OpenAI說明，使用者有時會在ChatGPT中探索個人問題，甚至在對話中透露自己正處於困難或需要支持的狀態，因此OpenAI希望系統在敏感情境下不只提供回應，也能在必要時協助使用者連結到現實生活中的支援。
-
-- 📰 **iThome 科技**
-
-### 16. [三星Galaxy Watch 6能以AI預測昏倒](https://www.ithome.com.tw/news/175656)
-
-三星本週宣布在一項臨床研究中，Galaxy Watch 6可有效預測神經性失調引發的昏厥症狀，以便用戶採取預防措施。
-三星是在與韓國中央大學光明醫院（Chung-Ang University Gwangmyeong Hospital）的聯合臨床研究中，利用Galaxy Watch 6偵測的生物訊號，準確預測迷走神經性昏厥（VVS）。
-
-- 📰 **iThome 科技**
-
-### 17. [【資安日報】5月8日，Linux核心再傳本機提權漏洞Dirty Frag](https://www.ithome.com.tw/news/175655)
-
-Linux核心再現本機提權零時差漏洞，攻擊程式已流出
-
-- 📰 **iThome 科技**
-
-### 18. [AWS���東資料中心傳出供電與冷卻異常，EC2與EBS服務受影響](https://www.ithome.com.tw/news/175652)
-
-AWS透過其服務狀態儀表板警示，美國東部（北維吉尼亞）的US-EAST-1服務區域，因單一資料中心供電與冷卻系統異常，導致部分EC2與EBS服務出現「impairment（功能降級）」情況，進而影響到其他相關服務運作，AWS表示已著手修復問題，目前已有初步復原跡象，但尚未能確認完全復原的時程。
-US-EAST-1是AWS最大型、也最重要的服務區域之一，一旦出現事故、往往牽連廣泛，2025年10月的大規模中斷事件，波及全球大量網站與雲端服務，仍讓人心有餘悸，因而這次散熱與供電異常，也格外引起我們注意。
-
-- 📰 **iThome 科技**
-
-### 19. [Linux核心再現本機提權漏洞，發行版修補前攻擊程式已流出](https://www.ithome.com.tw/news/175646)
-
-Linux核心再傳本機提權漏洞，資安研究人員Hyunwoo Kim公開名為Dirty Frag的漏洞鏈，指出攻擊者若已能在受影響Linux系統上執行程式，可能由低權限帳號取得Root權限。由於Dirty Frag漏洞影響所有主流Linux環境，且發行版修補與CVE編號申請尚未完成前，已有第三方公開部分漏洞細節與攻擊程式，使研究人員需提前揭露完整資訊。
-
-- 📰 **iThome 科技**
-
-### 20. [Cloudflare營收成長34%，宣布裁撤2成員工](https://www.ithome.com.tw/news/175649)
-
-網路基礎架構及資安服務業者Cloudflare週四（5/7）公布第一季財報，該季Cloudflare創造6.4億美元的營收，成長34%，隨後宣布要裁撤1,100名員工，約占該公司20%的員工比重。
-
-- 📰 **iThome 科技**
-
-### 21. [駭客濫用遠端管理工具Tiflux於受害電腦建立存取管道](https://www.ithome.com.tw/news/175648)
-
-為了將攻擊活動隱藏於合法行為之中，駭客濫用遠端監控及管理工具（RMM）的情況極為氾濫，最常見的有AnyDesk、Splashtop、SimpleHelp，以及ScreenConnect等，不過，最近有人開始使用較不知名的工具，引起研究人員的注意。
-
-- 📰 **iThome 科技**
-
-### 22. [Anthropic Claude 代碼設計問題，可被MCP劫持竊取OAuth憑證](https://www.ithome.com.tw/news/175647)
-
-資安業者Mitiga研究人員發現Anthropic Claude 代碼存在設計漏洞，可能遭駭客發動MCP劫持（MCP Hijacking）竊走其OAuth憑證，但開發人員可能渾然不覺，並透過供應鏈攻擊擴大下游受害範圍。
-
-- 📰 **iThome 科技**
-
-### 23. [Gartner預估2026年全球IT支出達6.31兆美元，AI基礎架構帶動資料中心支出大增](https://www.ithome.com.tw/news/175645)
-
-市場研究機構Gartner發布全球IT支出預測，2026年全球IT支出預估將從2025年的5.56兆美元，增加至6.31兆美元，年增13.5%。這波成長主要受到AI基礎架構、先進記憶體、軟體與雲端基礎架構服務需求推動。
-
-- 📰 **iThome 科技**
-
-### 24. [國安局指出高德地圖存在資安問題，使用者通話及個資會回傳中國](https://www.ithome.com.tw/news/175644)
-
-因具備精準顯示紅綠燈倒數秒數等功能，中國導航服務高德地圖在臺灣快速竄紅，但其資料來源與個資蒐集方式引發疑慮，使得我國政府關注此事並進行評估。
-
-- 📰 **iThome 科技**
-
-### 25. [美國最大行動式醫療診斷服務商導入AI平臺，96%排程作業不再仰賴人工處理](https://www.ithome.com.tw/news/175643)
-
-美國行動式醫療診斷服務供應商TridentCare導入AI代理，應用於工作排程、路線安排與例外狀況處理，將排程自動化比率提升至96%，病患等候服務的時間也因此縮短。
-TridentCare服務範圍涵蓋美國46個州，每天派遣數百輛車，提供行動式X光、超音波與實驗室服務，服務對象包括護理之家、復健中心、矯正機構與其他照護場域。該公司每年需協調數千名具備專業證照的臨床人員，完成約540萬次現場診療服務。
-
-- 📰 **iThome 科技**
-
-### 26. [駭客濫用Anthropic與OpenAI的模型攻擊墨西哥水力及排水系統](https://www.ithome.com.tw/news/175633)
-
-駭客在攻擊企業組織的IT環境濫用AI已是常態，如今傳出有人將AI用於滲透關鍵基礎設施。
-
-- 📰 **iThome 科技**
-
-### 27. [FDA升級內部AI工具Elsa，串接資料整合平臺強化查詢功能](https://www.ithome.com.tw/news/175639)
-
-AI 領域最新動態。
-
-- 📰 **iThome 科技**
-
-### 28. [Mozilla發布Firefox 150.0.2，修補3項高風險漏洞](https://www.ithome.com.tw/news/175638)
-
-5月7日Mozilla基金會發布Firefox 150.0.2，一共修補3項高風險資安漏洞，分別為CVE-2026-8090、CVE-2026-8092、CVE-2026-8093，這些弱點皆與記憶體有關，其中的
-
-- 📰 **iThome 科技**
-
-### 29. [Google發表全新健康平臺Google Health，整合Fitbit與Gemini](https://www.ithome.com.tw/news/175658)
-
-Google本週四（5/7）揭露了全新的健康平臺Google Health，將既有Fitbit App升級為Google Health App，推出由Gemini驅動的個人健康教練Google Health Coach，並發表無螢幕、可24小時佩戴的新款健康追蹤器Fitb
-
-- 📰 **iThome 科技**
-
-### 30. [駭客架設假Claude網站散布惡意軟體Beagle](https://www.ithome.com.tw/news/175637)
-
-上個月資安公司Malwarebytes揭露冒牌Claude網站的攻擊行動，駭客藉此散布遠端存取木馬PlugX，本週有新的調查結果出爐，公布更多細節。
+每年的5月第一個星期四是世界密碼日（World Password Day），許多資安專家會宣導密碼衛生的重要性，不過這次有資安公司揭露相當特別的分析結果，那就是應用系統��放的密碼資料，以現在的硬體資源而言相當容易破解。
 
 - 📰 **iThome 科技**
 
