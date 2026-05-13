@@ -1,0 +1,276 @@
+# AI 新聞
+
+**日期：2026-05-13**｜**精選 100 則**
+
+---
+
+### 1. [Salesforce推出Agentforce Operations，以AI代理自動化企業後臺流程](https://www.ithome.com.tw/news/175746)
+
+企業軟體與CRM服務業者Salesforce推出Agentforce Operations，將AI代理從客戶與員工體驗等前臺互動，進一步延伸到支撐企業營運的後臺流程。這項產品主打以專業的AI代理處理手動、重複性任務，包括流程協調、資料驗證、合規檢查、核准追蹤，以及跨系統資料處理。
+
+- 📰 **iThome 科技**
+
+### 2. [勒索軟體組織Nitrogen疑似駭入鴻海取得8TB、上千萬份檔案](https://www.ithome.com.tw/news/175745)
+
+媒體報導，鴻海本月稍早遭勒索軟體組織Nitrogen攻擊，被駭客竊走高達8TB、1100萬份生產及客戶檔案。
+Cybernews首先報導，在5月初美國廠區發生嚴重IT問題後，勒索軟體Nitrogen操作者本週在其暗網網站將鴻海列為受害者。駭客宣稱取得的檔案包括英特爾、蘋果、戴爾電腦（Dell）、NVIDIA的機密指令、專案和設計草圖，以及其他眾多檔案。
+
+- 📰 **iThome 科技**
+
+### 3. [【臺灣資安大會直擊】台新新光資安主管：資安預算不等於資安部門預算，企業應重新定義資安投資範圍](https://www.ithome.com.tw/news/175742)
+
+「資安預算應占IT預算多少比例？」，相信是許多人關心的資安治理議題，也是企業資安長爭取資安預算的根本。台新新光金控資訊安全部資深協理方振維在今年臺灣資安大會中分享他的看法，他認為資安預算比例存在一個根本問題，不同企業對「什麼是資安」的定義並不一致，導致許多數字根本無法直接比較。
+他表示，企業真正需要思考的，不只是資安部門編列多少經費，而是哪些IT與基礎設施投資，本質上與資安風險治理有關。
+資安預算不只是資安部門的預算
+
+- 📰 **iThome 科技**
+
+### 4. [VCF 9.1增強橫向存取安全，擴充EDR整合勒索軟體隔離復原](https://www.ithome.com.tw/review/175733)
+
+相隔近一年，博通（Broadcom）月初宣布VMware 雲端 Foundation（VCF）推出9.1版更新，提供AI與Kubernetes原生的私有雲基礎架構平臺，��調能讓企業在部署推論與代理式AI應用系統時，享有更低的成本、強化的安全性，以及自由選擇最佳GPU與CPU硬體的彈性。
+
+- 📰 **iThome 科技**
+
+### 5. [老牌Windows診斷工具Sysinternals推出新版本，3大工具同步升級](https://www.ithome.com.tw/news/175743)
+
+常用於系統監控與資安事件分析的Windows診斷工具集Sysinternals，近日發布新版本， 涵蓋系統啟動分析工具Autoruns、記憶體傾印分析工具ProcDump，以及螢幕放大與標註工具ZoomIt的更新 。
+
+- 📰 **iThome 科技**
+
+### 6. [【臺灣資安大會直擊】酷澎臺灣資安長陳浩維宣布：酷澎首個公開版漏洞獎勵計畫，並揭露背後的戰略藍圖](https://www.ithome.com.tw/news/175741)
+
+你敢不敢讓自家的產品、系統或服務，公開讓全世界的白帽駭客，進行漏洞回報呢？跨境電商酷澎（Coupang）臺灣暨日本資安長陳浩維日前（5月6日）���「臺灣資安大會CyberSec 2026」的大會演講中，首度公開酷澎臺灣將與全球規模最大的漏洞通報平臺HackerOne合作消息，推出「公開版漏洞獎勵計畫」（Public Bug Bounty Program），陳浩維說：「這不只是臺灣第一個與HackerOne的合作計畫，也是酷澎全球首發合作專案。」
+陳浩維也在臺灣資安大會現場，針對先前韓國酷澎因為內部前中國籍員工外洩客戶個資，有20萬名臺灣客戶受到牽連一事，正式對大眾鞠躬道歉。
+
+- 📰 **iThome 科技**
+
+### 7. [奇偶科技影像監控管理軟體系統存在重大漏洞](https://www.ithome.com.tw/news/175739)
+
+4月27日奇偶科技（GeoVision）發布資安公告，指出影像監控管理軟體系統GV-VMS V20存在資安漏洞CVE-2026-42369、CVE-2026-42370、CVE-2026-7372，影響20.0.2以下的版本，攻擊者只要發送特製的HTTP請求，就有機會在未經身分驗證的情況下，觸發漏洞執行任意程式碼，該公司發布20.1.0版修補。
+
+- 📰 **iThome 科技**
+
+### 8. [【臺灣資安大會直擊】醫院OT資安不能照辦公室IT那套！應先盤點、縮小範圍，再談防護](https://www.ithome.com.tw/news/175738)
+
+在今年度臺灣資安大會醫療資安論壇上，擁有近30年醫療儀器工程資歷的張韶良，拋出一個問題：當IT要求密碼長度從4位、8位一路拉高到16位，還得同時包含英文、數字與符號，這套資安規則搬進醫療現場，行得通嗎？
+他描述一個場景：當醫護正在搶救病人，醫療儀器突然要求輸入密碼登入，「這有可能嗎？不可能。」因為，「在醫療儀器界，救命最重要。」辦公室IT的資安邏輯，沒辦法直接搬進病房。
+
+- 📰 **iThome 科技**
+
+### 9. [AWS推出Claude Platform on AWS，企業可用既有帳號存取Anthropic原生服務](https://www.ithome.com.tw/news/175734)
+
+AWS正式發布Claude Platform on AWS，AWS用戶可透過既有AWS帳號使用Anthropic原生Claude Platform，並沿用AWS IAM身分驗證、AWS Marketplace帳務與CloudTrail稽核記錄。這項服務讓企��在Amazon Bedrock之外，多一個取用Claude API與Claude Console的選擇。
+
+- 📰 **iThome 科技**
+
+### 10. [【臺灣資安大會直擊】金管會揭金融資安韌性藍圖最新進展，即將發布金融業PQC遷移指引](https://www.ithome.com.tw/news/175737)
+
+金管會去年底發布了影響未來四年金融資安監理的「金融資安韌性發展藍圖」，經過半年，金管會資訊服務處處長林裕泰在剛落幕的臺灣資安大會上，揭露了半年來的多項成果和新進展。
+金融資安發展藍圖聚焦四大主軸，包括了目標治理、全域防護、生態聯防和堅實韌性。在目標治理上，金管會希望企業公司治理，董事會將資安納入公司治理核心，董事會不要只停留在合規思維，更要從業務目標角度思考安全控管如何配合。也要能參考主管機關政策或同業資安水準，設定企業未來半年、一年的資安目標，作為衡量成效的依據。
+去年初，林裕泰看到本土資安廠商一份紅隊演練結果報告，提到舉辦上百場紅隊演練中，過半數演練都發現了共同的AD CS弱點，企業的網域
+
+- 📰 **iThome 科技**
+
+### 11. [惡意軟體框架PCPJack鎖定雲端基礎設施，封鎖駭客團體TeamPCP的存取權限](https://www.ithome.com.tw/news/175704)
+
+駭客團體TeamPCP（PCPcat）3月滲透資安公司Aqua 安全開發的漏洞掃描工具Trivy，引發大家對於軟體供應鏈攻擊的擔憂，後續又發動一連串的供應鏈攻擊，不過，最近有一起針對雲端的惡意軟體活動相當不尋常，因為攻擊者顯然與TeamPCP爭奪攻擊資源。
+
+- 📰 **iThome 科技**
+
+### 12. [微軟警告Dirty Frag出現疑似遭到利用的跡象](https://www.ithome.com.tw/news/175736)
+
+5月8日資安研究人員Hyunwoo Kim公開資安漏洞Dirty Frag，此漏洞存在於Linux核心，為本機權限提升（LPE）弱點，攻擊者有機會透過低權限帳號取得root權限，而且，漏洞的影響範圍涵蓋至少6種Linux發行版，這樣的特性，讓人很容��想到4月底公布的Copy Fail（CVE-202
+
+- 📰 **iThome 科技**
+
+### 13. [Mirai變種xlabs_v1殭屍網路現蹤，劫持Android裝置發動DDoS攻擊](https://www.ithome.com.tw/news/175735)
+
+資安威脅情報公司Hunt.io近日發布研究報告，揭露基於Mirai變種的新型殭屍網路惡意軟體xlabs_v1，鎖定暴露在網際網路，且啟用ADB（Android Debug Bridge）介面的Android裝置，入侵並控制受害設備組成DDoS攻擊網路。任何預設啟用 ADB且連上網際網路的物聯網硬體設備，都有可能中招。
+
+- 📰 **iThome 科技**
+
+### 14. [英國NCSC提醒企業使用AI尋找漏洞前，先完善漏洞管理機制](https://www.ithome.com.tw/news/175732)
+
+隨著AI模型能力持續提升，英國國家網路安全中心（NCSC）提醒，使用AI模型尋找漏洞，目的應是強化系統安全；企業組織在導入前，應先確認自身是否具備漏洞管理、資產盤點等能力，否則當漏洞回報量增加，反而可能加重資安團隊負擔。 
+NCSC也強調，落實網路安全衛生仍是改善組織資安體質的關鍵；相較於零時差漏洞遭到利用，企業未能及時套用已釋出的修補程式，或是內部系統出現未經授權存取行為，帶來的安全風險更值得留意。
+
+- 📰 **iThome 科技**
+
+### 15. [向量資料庫Pinecone推出AI代理知識引擎Nexus，主打以預先編譯知識改善RAG檢索問題](https://www.ithome.com.tw/news/175731)
+
+向量資料庫業者Pinecone近日公布新產品Nexus，定位為專供AI代理（AI agents）使用的知識引擎（knowledge engine），並提出「知識編譯（knowledge compilation）」概念，主張以預先整理與結構化企業知識的方式，改善現行RAG（Retrieval-Augmented Generation）架構在代理式AI場景的效能與可靠性問題。
+
+- 📰 **iThome 科技**
+
+### 16. [【臺灣資安大會直擊】用AI對抗AI，緯創資通藍隊將資安事件回應速度從「小���」縮短至「分鐘」](https://www.ithome.com.tw/news/175726)
+
+近年來，Google、AWS與微軟等科技大廠陸續公開內部資安團隊用AI強化防禦，各界因此得以參考多種可仿效的實務作法，對臺灣企業而言，這股應用浪潮雖受重視，但如何將AI真正落實於日常資安維運，仍是大家積極探索的課題。今年臺灣資安大會開始出現更多企業公開實務經驗，高科技製造業者緯創資通（Wistron）就是一例。
+
+- 📰 **iThome 科技**
+
+### 17. [GitLab啟動Act 2策略調整，改造AI代理開發平臺並縮減人力](https://www.ithome.com.tw/news/175730)
+
+GitLab執行長Bill Staples發布公開信，宣布公司啟動一項名為Act 2的組織重整與產品策略調整，核心方向是因應AI代理參與軟體開發後，程式碼提交、合併請求與CI/CD流程可能從人類速度轉向機器速度。GitLab表示，既有開發平臺若只是把AI功能加掛到原有流程，將難以承受代理大量並行工作的負載，因此公司將改造底層基礎架構與開發流程。
+
+- 📰 **iThome 科技**
+
+### 18. [【資安日報】5月12日，駭客首度濫用AI挖掘零時差漏洞並生成攻擊工具](https://www.ithome.com.tw/news/175725)
+
+Google揭露駭客濫用AI找出零時差漏洞，企圖發動大規模攻擊
+
+
+- 📰 **iThome 科技**
+
+### 19. [網頁應用程式框架TanStack的NPM套件遭Mini Shai-Hulud供應鏈攻擊](https://www.ithome.com.tw/news/175724)
+
+從3月下旬起接連發動供應鏈攻擊的駭客團體TeamPCP，繼傳出三度對資安公司Checkmarx下手後，也有其他NPM套件遭到這些駭客滲透，散布蠕蟲程式。
+
+- 📰 **iThome 科技**
+
+### 20. [OpenAI宣布創立專替企業導入AI的OpenAI Deployment Company](https://www.ithome.com.tw/news/175723)
+
+OpenAI週一（5/11）正式宣布成立OpenAI Deployment Company，這家新公司專門協助組織導入AI，同時OpenAI亦宣布將買下AI顧問公司Tomoro，但雙方並未透露交易金額。
+
+- 📰 **iThome 科技**
+
+### 21. [NVIDIA Labs公開cuda-oxide，供開發者用Rust編寫CUDA GPU核心](https://www.ithome.com.tw/news/175720)
+
+NVIDIA Labs公開cuda-oxide v0.1.0，這是一套實驗性的Rust到CUDA編譯器，讓開發者能以Rust撰寫CUDA的單指令多執行緒（Single Instruction, Multiple Threads，SIMT）GPU核心，並直接編譯成NVIDIA GPU使用的PTX中介表示。目前該專案仍屬早期alpha測試版。
+
+- 📰 **iThome 科技**
+
+### 22. [Google揭露駭客濫用AI找出零時差漏洞，企圖發動大規模攻擊](https://www.ithome.com.tw/news/175722)
+
+近期軟體開發團隊、資安研究員積極使用AI挖掘大量資安漏洞，然後進行修補的態勢已成潮流，希望能趕在駭客之前找出零時差漏洞，讓應用程式或系統變得更難被滲透，然而，駭客���濫用AI找出零時差漏洞，並打算發動大規模攻擊。
+
+- 📰 **iThome 科技**
+
+### 23. [AI資安模型Mythos首度實戰curl專案，發現1項漏洞與20項程式缺陷](https://www.ithome.com.tw/news/175721)
+
+由Anthropic開發的AI資安模型Mythos，首次應用於開源專案curl的程式碼分析，並產出第一批成果。Mythos掃描約17.6萬行程式碼後，共發現5項漏洞，但經curl資安團隊人工審查後，僅確認1項為實際的安全漏洞，其餘4項中，有3項為誤判（false positives），1項為一般程式錯誤（bug）。
+
+- 📰 **iThome 科技**
+
+### 24. [iPhone與Android互傳訊息更安全，iOS 26.5支援RCS端到端加密](https://www.ithome.com.tw/news/175719)
+
+蘋果與Google週一（5/11）同步宣布，從iOS 26.5版開始，RCS（Rich Communication Services，豐富通
+
+- 📰 **iThome 科技**
+
+### 25. [針對Checkmarx發布的Jenkins AST外掛遭駭，TeamPCP聲稱是他們所為](https://www.ithome.com.tw/news/175718)
+
+5月9日資安公司Checkmarx發出警告，該公司推出的Jenkins AST外掛程式遭供應鏈攻擊，駭客上架有問題的新版本，要用戶採取行動因應，有資安研究員公布更多細節。
+
+- 📰 **iThome 科技**
+
+### 26. [Google發布ChromeOS長期支援版更新，修補多項高風險記憶體漏洞](https://www.ithome.com.tw/news/175717)
+
+Google發布ChromeOS作業系統長期支援版（Long Term Support）新版本，將LTS-144版更新至144.0.7559.250版，同時修補11項漏洞，多數屬於高風險的記憶體安全漏洞。
+
+- 📰 **iThome 科技**
+
+### 27. [中國業者公布雙核心量子電腦](https://www.ithome.com.tw/news/175716)
+
+中國業者中科酷原科技近日公布其最��量子電腦新進展，宣稱打造出全球首臺雙核量子電腦，具有能協同運作、但低功耗及體積小等優點。
+總部位於武漢的中科酷原科技2024年推出中國首座商用中性原子量子電腦，名為漢原1號。漢原2號為升級版。該系統採用中國移動五嶽紀元（WuYueOS）量子計算作業系統，宣稱是全球首次量子運算領域引入「雙核」概念；在單一機箱中同時操作兩套不同的中性原子陣列，包括100個⁸⁷Rb（銣-87）原子和100個⁸⁵Rb（銣-85）原子。藉此實現雙核協作運算。
+
+- 📰 **iThome 科技**
+
+### 28. [汽車大廠Skoda網路商店被駭，疑外洩客戶個資](https://www.ithome.com.tw/news/175715)
+
+捷克汽車大廠Skoda公告，其線上商店平臺遭駭，警告客戶姓名、電子郵件信箱等個資可能遭存取。
+Skoda的安全監控團隊發現異常活動。在發現後該公司立即將網站下線並修補漏洞。事後Skoda研判，駭客是濫用其運行線上商店的標準商店軟體的漏洞，可能存取線上商店平臺處理的資料。
+
+- 📰 **iThome 科技**
+
+### 29. [資安公司Checkmarx再傳遭供應鏈攻擊，Jenkins AST外掛被竄改](https://www.ithome.com.tw/news/175714)
+
+自3月下旬駭客團體TeamPCP攻擊資安公司Checkmarx的基礎設施即程式碼（Infrastructure as 代碼，IaC）掃描工具KICS，且該公司的Open VSX延伸套件遭駭，一個月後，KICS的Docker映像檔也遭到攻擊，如今再傳新的供應鏈攻擊活動。
+
+- 📰 **iThome 科技**
+
+### 30. [OpenAI發表Daybreak資安防禦方案，整合GPT-5.5-Cyber與Codex 安全](https://www.ithome.com.tw/news/175713)
+
+OpenAI週二（5/12）發表了Daybreak，宣稱這是專替資安防禦者打造的前沿AI，它結合了OpenAI的各種模型、Codex，以及資安合作夥伴，可協助企業掃描漏洞、建立威脅模型、驗證修補結果，以加速資安防禦並持續保護軟體安全。
+
+- 📰 **iThome 科技**
+
+---
+
+### 更多 AI 新聞 (70則)
+
+- Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says (**Wired**)
+- xAI Adds 19 新 Gas Turbines Despite Ongoing Lawsuit (**Wired**)
+- The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy (**Wired**)
+- Foxconn Ransomware Attack Shows Nothing Is Safe Forever (**Wired**)
+- MAHA Keeps Being Weird as Hell About Fertility (**Wired**)
+- The Audemars Piguet x Swatch Collaboration Is Here for Real (**Wired**)
+- Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz (**Wired**)
+- The 熱門 新 Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer (**Wired**)
+- Googlebook Is Google’s 新 AI-Powered Laptop Platform Built on Android (**Wired**)
+- Trump Media Scales Back Plans for Its Own Prediction Market (**Wired**)
+- All Your Hantavirus Questions, Answered by an Infectious Disease Expert (**Wired**)
+- Hantavirus Conspiracy Theories Are Already Spreading Online (**Wired**)
+- Some Women Are Obsessively Testing Their Vaginas to Optimize Them (**Wired**)
+- 為什麼 Soccer Still Defies Statistical Analysis (**Wired**)
+- The Creators of ‘Hacks’ Really, Really, Really Hate AI (**Wired**)
+- Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support (**Wired**)
+- Beatbot Pool-Cleaning Robots Are on Sale (**Wired**)
+- What Happens When You Try to Treat OCD With Psilocybin (**Wired**)
+- Chewy Promo Codes: $20 Off May 2026 (**Wired**)
+- Dell Coupon Codes: 20% Off for May 2026 (**Wired**)
+- Booking.com Promo Codes: 20% Off | May 2026 (**Wired**)
+- 30% Off Canon Promo Codes | May 2026 (**Wired**)
+- Paramount+ Coupon Codes and Deals for May 2026 (**Wired**)
+- Priceline Promo Codes: 10% Off May 2026 (**Wired**)
+- Noom Promo Codes: 50% Off 最佳 Deals &amp; Free Trials for April 2026 (**Wired**)
+- OnePlus Promo 代碼: $70 Off | 2026 (**Wired**)
+- Nike Promo Codes and Discounts: 30% for May 2026 (**Wired**)
+- Hoka Coupon Codes: 30% Off | May 2026 (**Wired**)
+- 50% Off Home Depot Promo Codes | May 2026 (**Wired**)
+- 30% Off Samsung Promo 代碼 | May 2026 (**Wired**)
+- Squarespace Promo Codes: 20% Off in May 2026 (**Wired**)
+- Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’ (**Wired**)
+- Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story (**Wired**)
+- The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance (**Wired**)
+- There’s an Unhinged 新 Video Game About Trump and the Iran War (**Wired**)
+- A 新 Hantavirus Vaccine Is in the Works (**Wired**)
+- 更新 Your iPhone Now for Better Encrypted Messaging With Android (**Wired**)
+- Papa Johns Is Getting Into Drone Delivery—but Not for Pizza (**Wired**)
+- A Chevron Texas Power Plant Seeks School District Tax Break (**Wired**)
+- CUDA Proves NVIDIA Is a 軟體 Company (**Wired**)
+- I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly 訓練 AI (**Wired**)
+- Keyboard Shortcuts I Learned From My Cat (**Wired**)
+- Could Contact-Tracing Apps Help With the Hantavirus? Not Really (**Wired**)
+- Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC (**Wired**)
+- How Handheld Translators Work and 為什麼 They’re Handy for Travel (**Wired**)
+- ‘Reservation Hijacking’ Scams Target Travelers. Here’s 如何 Stay Safe (**Wired**)
+- 最佳 Live-Captioning Smart Glasses (2026), WIRED Tested (**Wired**)
+- Hackable Robot Lawn Mower Unlocks a 新 Nightmare (**Wired**)
+- The 19 Most Exciting Cars at the Beijing Auto Show 2026 (**Wired**)
+- Instacart Promo 代碼: $15 Off | May 2026 (**Wired**)
+- How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
+- 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
+- LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
+- 熱門 10 AI Tools in 2023 That Will Make Your Life Easier (**TechCrunch**)
+- 熱門 10 AI Content Generator &amp; Writer Tools in 2022 (**TechCrunch**)
+- Beginner Guide to CJ Affiliate (Commission Junction) in 2022 (**TechCrunch**)
+- 熱門 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022) (**TechCrunch**)
+- Most Frequently Asked Questions About Affiliate Marketing (**TechCrunch**)
+- 什麼是 Blockchain: Everything You Need to Know (2022) (**TechCrunch**)
+- ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ? (**TechCrunch**)
+- Sellfy Review 2022: How Good Is This Ecommerce Platform? (**TechCrunch**)
+- Ahrefs vs SEMrush: Which SEO Tool Should You Use? (**TechCrunch**)
+- 熱門 10 最佳 PLR(Private Label Rights)  Websites | Which One You Should Join in 2022? (**TechCrunch**)
+- Canva Review 2022: Details, Pricing &amp; Features (**TechCrunch**)
+- 熱門 7 最佳 Wordpress Plugin Of All Time (**TechCrunch**)
+- Ginger VS Grammarly: Which Grammar Checker is Better in (2022) ? (**TechCrunch**)
+- Most Frequently Asked Questions About NFTs(Non-Fungible Tokens) (**TechCrunch**)
+- 10 最佳 Chrome Extensions That Are Perfect for Everyone (**TechCrunch**)
+- Most Frequently Asked Questions About  Email Marketing (**TechCrunch**)
+- 7 Free Websites Every Content Creator Needs to Know (**TechCrunch**)
+
+
+---
+
+📡 數據來源：AI News、MIT 科技評論、VentureBeat、NVIDIA、TechCrunch
