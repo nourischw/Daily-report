@@ -4,212 +4,206 @@
 
 ---
 
-### 1. [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+### 1. [European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
 
-- ⭐ 181 分｜💬 72 留言｜👤 Murfalo
+- ⭐ 80 分｜💬 28 留言｜👤 aequitas
 
-### 2. [Googlebook](https://googlebook.google/)
+### 2. [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
+
+- ⭐ 147 分｜💬 33 留言｜👤 matt_d
+
+### 3. [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+
+- ⭐ 401 分｜💬 175 留言｜👤 Murfalo
+
+### 4. [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
+
+- ⭐ 141 分｜💬 70 留言｜👤 hggh
+
+### 5. [Googlebook](https://googlebook.google/)
 
 https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Android&#x2F;comments&#x2F;1tb8xls&#x2F;introducin...
 
-- ⭐ 625 分｜💬 1053 留言｜👤 tambourine_man
-
-### 3. [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
-
-- ⭐ 64 分｜💬 16 留言｜👤 ericswpark
-
-### 4. [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
-
-- ⭐ 69 分｜💬 24 留言｜👤 tcp_handshaker
-
-### 5. [如何 make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
-
-- ⭐ 222 分｜💬 26 留言｜👤 _vaporwave_
+- ⭐ 755 分｜💬 1268 留言｜👤 tambourine_man
 
 ### 6. [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M 模型](https://github.com/cactus-compute/needle)
 
 Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) 模型. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices.We were alw
 
-- ⭐ 292 分｜💬 105 留言｜👤 HenryNdubuaku
+- ⭐ 436 分｜💬 149 留言｜👤 HenryNdubuaku
 
-### 7. [CERT is releasing six CVEs for serious 安全 vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
+### 7. [如何 make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
 
-- ⭐ 239 分｜💬 118 留言｜👤 chizhik-pyzhik
+- ⭐ 325 分｜💬 37 留言｜👤 _vaporwave_
 
-### 8. [為什麼 資深 developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
+### 8. [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
 
-- ⭐ 386 分｜💬 185 留言｜👤 nilirl
+- ⭐ 146 分｜💬 87 留言｜👤 tcp_handshaker
 
-### 9. [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
+### 9. [CERT is releasing six CVEs for serious 安全 vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
 
-- ⭐ 167 分｜💬 37 留言｜👤 doener
+- ⭐ 309 分｜💬 145 留言｜👤 chizhik-pyzhik
 
-### 10. [Fc, a lossless compressor for floating-point streams](https://github.com/xtellect/fc)
+### 10. [為什麼 資深 developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
 
-- ⭐ 23 分｜💬 6 留言｜👤 enduku
+- ⭐ 544 分｜💬 234 留言｜👤 nilirl
 
 ### 11. [Traceway: MIT-licensed observability stack you can self-host in ~90s](https://github.com/tracewayapp/traceway)
 
-- ⭐ 11 分｜💬 2 留言｜👤 sebakubisz
+- ⭐ 92 分｜💬 6 留言｜👤 sebakubisz
 
-### 12. [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
+### 12. [What if there was no BASIC in EndBASIC? – by Julio Merino](https://blogsystem5.substack.com/p/no-basic-in-endbasic)
 
-- ⭐ 414 分｜💬 35 留言｜👤 ibobev
+- ⭐ 16 分｜💬 1 留言｜👤 rbanffy
 
-### 13. [Quack: The DuckDB Client-伺服器 Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol)
+### 13. [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
 
-- ⭐ 194 分｜💬 42 留言｜👤 aduffy
+- ⭐ 149 分｜💬 43 留言｜👤 ericswpark
 
-### 14. [Starship V3](https://www.spacex.com/updates#starship-v3)
+### 14. [Up in Smoke](https://thebaffler.com/odds-and-ends/the-profession-that-does-not-exist-symposium)
 
-- ⭐ 25 分｜💬 4 留言｜👤 fprog
+- ⭐ 17 分｜💬 0 留言｜👤 NaOH
 
-### 15. [When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
+### 15. [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
 
-- ⭐ 16 分｜💬 1 留言｜👤 sbulaev
+- ⭐ 468 分｜💬 38 留言｜👤 ibobev
 
-### 16. [Foucault's Order of Things Explained with Trading Cards [video]](https://www.youtube.com/watch?v=1TbHYjGvS68)
+### 16. [When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
 
-- ⭐ 23 分｜💬 13 留言｜👤 surprisetalk
+- ⭐ 83 分｜💬 5 留言｜👤 sbulaev
 
-### 17. [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
+### 17. [Quack: The DuckDB Client-伺服器 Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol)
 
-- ⭐ 146 分｜💬 122 留言｜👤 devhouse
+- ⭐ 274 分｜💬 56 留言｜👤 aduffy
 
-### 18. [Lanzaboote – NixOS Secure Boot](https://x86.lol/generic/2022/11/26/lanzaboote.html)
+### 18. [Scrcpy v4.0](https://github.com/Genymobile/scrcpy/releases/tag/v4.0)
 
-- ⭐ 47 分｜💬 6 留言｜👤 evilmonkey19
+- ⭐ 162 分｜💬 22 留言｜👤 xnx
 
-### 19. [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
+### 19. [Referer Reality](https://www.robinsloan.com/lab/referer/)
 
-- ⭐ 313 分｜💬 128 留言｜👤 xz18r
+- ⭐ 39 分｜💬 9 留言｜👤 tobr
 
-### 20. [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai)
+### 20. [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
 
-Hey HN, we&#x27;re Alex and Tyler, co-founders of Voker.AI (https:&#x2F;&#x2F;voker.AI&#x2F;), an 代理 analytics platform for AI product teams. Voker gives full visibility into what users are asking 
+- ⭐ 369 分｜💬 138 留言｜👤 xz18r
 
-- ⭐ 41 分｜💬 19 留言｜👤 ttpost
+### 21. [Fc, a lossless compressor for floating-point streams](https://github.com/xtellect/fc)
 
-### 21. [Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)
+- ⭐ 64 分｜💬 13 留言｜👤 enduku
+
+### 22. [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
+
+- ⭐ 191 分｜💬 164 留言｜👤 devhouse
+
+### 23. [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
+
+- ⭐ 319 分｜💬 88 留言｜👤 doener
+
+### 24. [I made rust's cargo copy but for CPP](https://github.com/user-with-username/crow)
+
+- ⭐ 10 分｜💬 2 留言｜👤 anybodyy
+
+### 25. ["I applied to be pope"](https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT)
+
+- ⭐ 6 分｜💬 0 留言｜👤 hansmayer
+
+### 26. [As researchers age, they produce less disruptive work](https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650)
+
+- ⭐ 65 分｜💬 61 留言｜👤 Brajeshwar
+
+### 27. [Starship V3](https://www.spacex.com/updates#starship-v3)
+
+- ⭐ 209 分｜💬 277 留言｜👤 fprog
+
+### 28. [Lanzaboote – NixOS Secure Boot](https://x86.lol/generic/2022/11/26/lanzaboote.html)
+
+- ⭐ 86 分｜💬 8 留言｜👤 evilmonkey19
+
+### 29. [Bambu Lab is abusing the 開源 social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
+
+- ⭐ 1242 分｜💬 393 留言｜👤 rubenbe
+
+### 30. [Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)
 
 Hi HN, we’re Sai and Aayush, and we’re building Hypercubic (https:&#x2F;&#x2F;www.hypercubic.AI&#x2F;), bringing AI tools to the mainframe and COBOL world. (We did a Launch HN last year: https:&#x2F;&
 
-- ⭐ 59 分｜💬 35 留言｜👤 sai18
-
-### 22. [Bambu Lab is abusing the 開源 social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
-
-- ⭐ 1113 分｜💬 369 留言｜👤 rubenbe
-
-### 23. [You Don't Look Like a Gamer: On Toxicity, Gatekeeping, & Women Who Share Gaming](https://gardinerbryant.com/you-dont-look-like-a-gamer/)
-
-- ⭐ 7 分｜💬 1 留言｜👤 Kate0CoolLibby
-
-### 24. [EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant)
-
-- ⭐ 102 分｜💬 11 留言｜👤 hn_acker
-
-### 25. [Show HN: Statewright – Visual state machines that make AI agents reliable](https://github.com/statewright/statewright)
-
-Agentic problem solving in its current state is very brittle.  I fell in love with it, but it creates as many problems as it solves.I&#x27;m Ben Cochran, I spent 20+ years in the trenches with full-st
-
-- ⭐ 78 分｜💬 25 留言｜👤 azurewraith
-
-### 26. [Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder](https://news.ycombinator.com/item?id=48110593)
-
-Hi HN, I’m Namanyay from Gigacatalyst (link: https:&#x2F;&#x2F;gigacatalyst.com&#x2F;). Gigacatalyst allows sales, CS, and users to 構建 one-off features, so your SaaS can support long-tail customer 
-
-- ⭐ 41 分｜💬 17 留言｜👤 namanyayg
-
-### 27. [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
-
-- ⭐ 113 分｜💬 39 留言｜👤 luispa
-
-### 28. [Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)
-
-- ⭐ 61 分｜💬 31 留言｜👤 fedek_
-
-### 29. [Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare)
-
-- ⭐ 293 分｜💬 92 留言｜👤 Brajeshwar
-
-### 30. [Scrcpy v4.0](https://github.com/Genymobile/scrcpy/releases/tag/v4.0)
-
-- ⭐ 31 分｜💬 5 留言｜👤 xnx
+- ⭐ 70 分｜💬 41 留言｜👤 sai18
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Beyond Semantic Similarity
-- Riding the D in Los Angeles: city hopes 新 subway stations will be game changer
+- Launch HN: Voker (YC S24) – Analytics for AI Agents
+- When life gives you lemons, write better error messages
+- Foucault's Order of Things Explained with Trading Cards [video]
+- EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant
+- Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder
+- Show HN: Statewright – Visual state machines that make AI agents reliable
+- Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim
+- What can singing mice say about human speech?
 - Text Blaze (YC W21) Is 招聘 for a No-AI Summer Internship
-- Learning 軟體 Architecture
-- Instructure pays ransom to Canvas hackers
-- We accidentally recreated old Facebook
-- The Surprisingly Long Life of the Vacuum Tube
-- Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want
+- Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare
+- Zero-native – 構建 native desktop apps with 網頁 UI
+- DMARC Fail: 7 Causes and 如何 Fix Each
 - Israel's AI targeting 系統: how data from a phone become a death sentence
-- The Real Story of Troy
-- The Moth Story Map
-- Screenshots of Old Desktop OSes
+- Learning 軟體 Architecture
+- Riding the D in Los Angeles: city hopes 新 subway stations will be game changer
 - Postmortem: TanStack NPM supply-chain compromise
-- The Cost of Doing Business: How SF's Tax Structure Constrains Economic Growth [pdf]
+- Screenshots of Old Desktop OSes
+- Beyond Semantic Similarity
 - Extremely Low Frequencies
-- Profiling.sampling – Statistical Profiler
-- SQL: Incorrect by Construction
-- 軟體 Internals Book Club
-- I hate soldering
-- Chasing Chicago's movable bridges (2014)
-- FairyFuse: Multiplication-Free 大型語言模型 推論 on CPUs via Fused Ternary Kernels
 - Bullshit Machines
-- EU to crack down on TikTok, Instagram's 'addictive design' targeting kids
-- Docker images are hundreds of MB; a full game engine compiles to 35MB WASM
+- Instructure pays ransom to Canvas hackers
+- YellowKey Bitlocker Bypass Vulnerability
+- I hate soldering
+- 軟體 Internals Book Club
+- The Surprisingly Long Life of the Vacuum Tube
+- The Real Story of Troy
+- Leak reveals Google's Aluminium OS with a 16-minute video
+- Profiling.sampling – Statistical Profiler
 - A lost ancient script reveals how writing as we know it began
+- Chasing Chicago's movable bridges (2014)
 - If AI writes your 代碼, 為什麼 use Python?
-- They Live (1988) inspired Adblocker
-- Interaction Models
-- Fuck You, Bambu Lab. Go Ahead, Sue Us
-- Show HN: TikTok but for scientific papers
-- Rtwatch: Watch videos with friends using WebRTC
 - 硬體 Attestation as Monopoly Enabler
-- Complexity Creates Risk: 為什麼 Simpler Infrastructure Is Safer Infrastructure
-- Coursera and Udemy are now one company
 - The BeBox: BeOS 硬體, Photos, and the Apple Deal That Wasn't
-- GitLab 宣布 workforce reduction and end of their CREDIT values
-- UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)
-- UnDUNE II
-- Through the looking glass of benchmark hacking
+- Show HN: TikTok but for scientific papers
+- The Moth Story Map
+- Docker images are hundreds of MB; a full game engine compiles to 35MB WASM
+- They Live (1988) inspired Adblocker
+- EU to crack down on TikTok, Instagram's 'addictive design' targeting kids
 - Local AI needs to be the norm
-- Library for fast mapping of Java records to native memory
-- Remembering Planet Source 代碼: Sharing 代碼 Before GitHub Made It Easy
+- Rtwatch: Watch videos with friends using WebRTC
+- UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)
+- GitLab 宣布 workforce reduction and end of their CREDIT values
 - 訓練 an 大型語言模型 in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s
-- eBay Rejects GameStop's $56B Takeover as Not Credible
-- Nonlinearities in Vacuum Tubes, Bipolar and, Field-Effect Transistors(2024)
-- AI load breaks GitHub – 為什麼 not other vendors?
-- Boriel BASIC
-- US Army goes green-ish, wants soldiers munching on plant proteins
-- Scientists Confirm 'Brain-Eating Amoeba' Is Widespread Yellowstone Grand Teton
-- Interfaze: A 新 模型 architecture built for high accuracy at scale
+- FairyFuse: Multiplication-Free 大型語言模型 推論 on CPUs via Fused Ternary Kernels
+- America is experiencing a productivity miracle
+- Library for fast mapping of Java records to native memory
+- Coursera and Udemy are now one company
 - Gmail registration now requires scanning a QR 代碼 and sending a text message
-- VGA Memory Access Is Complicated
-- Twin brothers wipe 96 government databases minutes after being fired
+- Remembering Planet Source 代碼: Sharing 代碼 Before GitHub Made It Easy
+- The Walled Garden of the Surveilled 網頁
+- Interfaze: A 新 模型 architecture built for high accuracy at scale
+- Complexity Creates Risk: 為什麼 Simpler Infrastructure Is Safer Infrastructure
+- UnDUNE II
 - AMÁLIA and the future of European Portuguese LLMs
-- Show HN: A modern Music Player Daemon based on Rockbox firmware
-- AI isn't paying off in the way companies think according to Gartner study
 - Ratty – A terminal emulator with inline 3D graphics
-- The rise and fall of snake oil
+- Two Thousand Line educational operating 系統 發布 by Cornell University
+- Boriel BASIC
+- VGA Memory Access Is Complicated
 - Guitar tuner that uses phone accelerometer
-- I let AI 構建 a tool to help me figure out what was waking me up at night
+- Through the looking glass of benchmark hacking
+- We accidentally recreated old Facebook
+- Show HN: A modern Music Player Daemon based on Rockbox firmware
+- The rise and fall of snake oil
 - Building a 網頁 伺服器 in aarch64 assembly to give my life (a lack of) meaning
-- Silverback Imfura took a chance, and ended up alone
-- Claude Platform on AWS
 - I'm going back to writing 代碼 by hand
-- CUDA-oxide: NVIDIA's official Rust to CUDA compiler
-- Griffin PowerMate driver for modern macOS
-- Google says criminal hackers used AI to find a major 軟體 flaw
-- Nullsoft, 1997-2004 (2004)
+- RomHacking with Ghidra, Part 1: Loading SNES ROMs
+- I let AI 構建 a tool to help me figure out what was waking me up at night
+- Twin brothers wipe 96 government databases minutes after being fired
+- Silverback Imfura took a chance, and ended up alone
 - A recent experience with ChatGPT 5.5 Pro
-- The Boston library where you still can borrow a giant puppet
 
 
 ---
