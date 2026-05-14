@@ -4,208 +4,202 @@
 
 ---
 
-### 1. [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)
+### 1. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
 
-- ⭐ 42 分｜💬 13 留言｜👤 littlexsparkee
+- ⭐ 227 分｜💬 88 留言｜👤 arkadiyt
 
-### 2. [Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)
+### 2. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 
-- ⭐ 19 分｜💬 0 留言｜👤 rbanffy
+- ⭐ 315 分｜💬 84 留言｜👤 allenleee
 
-### 3. [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
+### 3. [新 Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
+
+- ⭐ 138 分｜💬 34 留言｜👤 hetsaraiya
+
+### 4. [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
+
+- ⭐ 23 分｜💬 4 留言｜👤 quadrige
+
+### 5. [A message from President Kornbluth about funding and the talent pipeline](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)
+
+- ⭐ 495 分｜💬 511 留言｜👤 dmayo
+
+### 6. [The Power of a Free Popsicle (2018)](https://www.gsb.stanford.edu/insights/power-free-popsicle)
+
+- ⭐ 12 分｜💬 0 留言｜👤 NaOH
+
+### 7. [HDD Firmware Hacking](https://icode4.coffee/?p=1465)
+
+- ⭐ 54 分｜💬 5 留言｜👤 jsploit
+
+### 8. [Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)
+
+- ⭐ 149 分｜💬 40 留言｜👤 rbanffy
+
+### 9. [Fossils show millipede and centipede ancestors evolved legs underwater](https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html)
+
+- ⭐ 51 分｜💬 2 留言｜👤 gmays
+
+### 10. [Int a = 5; a = a++ + ++a; a =? (2011)](https://gynvael.coldwind.pl/?id=372)
+
+- ⭐ 27 分｜💬 48 留言｜👤 e-topy
+
+### 11. [Terranox AI (YC W26) Is 招聘 a Founding AI/ML 工程師 and Summer AI/ML Intern](https://www.workatastartup.com/companies/terranox-ai)
+
+- ⭐ 1 分｜💬 0 留言｜👤 jadecheclair
+
+### 12. [You Don't Align an AI, You Align with It](https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it)
+
+- ⭐ 16 分｜💬 3 留言｜👤 danieltanfh95
+
+### 13. [AI is making me dumb](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+
+- ⭐ 174 分｜💬 120 留言｜👤 Eighth
+
+### 14. [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification)
+
+- ⭐ 11 分｜💬 0 留言｜👤 rmdmphilosopher
+
+### 15. [The conflation of money and things](https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/)
+
+- ⭐ 46 分｜💬 12 留言｜👤 bookofjoe
+
+### 16. [EditLens: Quantifying the extent of AI editing in text (2025)](https://arxiv.org/abs/2510.03154)
+
+- ⭐ 23 分｜💬 0 留言｜👤 horseradish
+
+### 17. [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+
+- ⭐ 492 分｜💬 441 留言｜👤 neilfrndes
+
+### 18. [What's in a GGUF, besides the weights – and what's still missing?](https://nobodywho.ooo/posts/whats-in-a-gguf/)
+
+- ⭐ 20 分｜💬 9 留言｜👤 bashbjorn
+
+### 19. [60fps Video on a CGA? – The GlyphBlaster](https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html)
+
+- ⭐ 45 分｜💬 6 留言｜👤 tambourine_man
+
+### 20. [London's Smallest Public Sculptures](https://lookup.london/londons-smallest-public-sculptures/)
+
+- ⭐ 5 分｜💬 0 留言｜👤 susam
+
+### 21. [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
 
 Every privacy-focused DNS service requires an account: NextDNS, Cloudflare for Families, Apple&#x27;s iCloud Private Relay (paid, iOS-only). The protocol that doesn’t require one - ODoH - had basicall
 
-- ⭐ 62 分｜💬 17 留言｜👤 rdme
+- ⭐ 103 分｜💬 34 留言｜👤 rdme
 
-### 4. [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+### 22. [Germany's Sovereign Tech Fund Backs KDE with €1.3M](https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562)
 
-- ⭐ 372 分｜💬 332 留言｜👤 neilfrndes
+- ⭐ 8 分｜💬 1 留言｜👤 Lihh27
 
-### 5. [Myths about /dev/urandom (2014)](https://www.2uo.de/myths-about-urandom/)
+### 23. [Rewrite Bun in Rust has been merged](https://github.com/oven-sh/bun/pull/30412)
 
-- ⭐ 24 分｜💬 20 留言｜👤 signa11
+- ⭐ 280 分｜💬 337 留言｜👤 Chaoses
 
-### 6. [The Tree House: A voyage to the source of a backyard dream](https://www.laphamsquarterly.org/roundtable/tree-house)
+### 24. [Understanding the Linux Kernel: The Linux Kernel Startup](https://internals-for-interns.com/posts/linux-kernel-startup/)
 
-- ⭐ 21 分｜💬 1 留言｜👤 Caiero
+- ⭐ 16 分｜💬 0 留言｜👤 valyala
 
-### 7. [The Whole Anthropic Kerfuffle](https://twitter.com/josevalim/status/2054887621336174799)
+### 25. [German intelligence offices snub Palantir 軟體](https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897)
 
-- ⭐ 31 分｜💬 17 留言｜👤 tosh
+- ⭐ 12 分｜💬 0 留言｜👤 abawany
 
-### 8. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
+### 26. [Myths about /dev/urandom (2014)](https://www.2uo.de/myths-about-urandom/)
 
-- ⭐ 831 分｜💬 522 留言｜👤 haunter
+- ⭐ 73 分｜💬 40 留言｜👤 signa11
 
-### 9. [Scorched Earth 2000 – 網頁](http://www.scorch2000.com/web/)
+### 27. [Leaving the Physical World](https://www.eff.org/pages/leaving-physical-world)
 
-- ⭐ 311 分｜💬 125 留言｜👤 meshko
+- ⭐ 164 分｜💬 75 留言｜👤 andsoitis
 
-### 10. [Leaving the Physical World](https://www.eff.org/pages/leaving-physical-world)
+### 28. [The Tree House: A voyage to the source of a backyard dream](https://www.laphamsquarterly.org/roundtable/tree-house)
 
-- ⭐ 76 分｜💬 27 留言｜👤 andsoitis
+- ⭐ 60 分｜💬 10 留言｜👤 Caiero
 
-### 11. [The European Union backs Italy's right to make Meta pay for news](https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/)
+### 29. [Grok 構建](https://x.ai/news/grok-build-cli)
 
-- ⭐ 8 分｜💬 0 留言｜👤 giuliomagnifico
+- ⭐ 45 分｜💬 11 留言｜👤 meetpateltech
 
-### 12. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
+### 30. [DIY open-source ultrasound 硬體 on the rp2040/rp2350](http://un0rick.cc/pic0rick)
 
-- ⭐ 582 分｜💬 183 留言｜👤 speckx
-
-### 13. [A Claude 代碼 and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
-
-- ⭐ 118 分｜💬 19 留言｜👤 cdrnsf
-
-### 14. [Saying Goodbye to one line of APL](https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1)
-
-- ⭐ 24 分｜💬 7 留言｜👤 tosh
-
-### 15. [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
-
-- ⭐ 261 分｜💬 320 留言｜👤 tosh
-
-### 16. [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
-
-- ⭐ 406 分｜💬 265 留言｜👤 laurentlb
-
-### 17. [The Emacsification of 軟體](https://sockpuppet.org/blog/2026/05/12/emacsification/)
-
-- ⭐ 339 分｜💬 214 留言｜👤 rdslw
-
-### 18. [Remove .zig Files from Bun](https://github.com/oven-sh/bun/pull/30680)
-
-- ⭐ 22 分｜💬 6 留言｜👤 quasigloam
-
-### 19. [Technical Dimensions of Live Feedback in 程式設計 Systems](https://joshuahhh.com/dims-of-feedback/)
-
-- ⭐ 29 分｜💬 4 留言｜👤 tobr
-
-### 20. [The Siri for Families Apple Will Never 構建](https://taoofmac.com/space/blog/2026/05/14/1220)
-
-- ⭐ 30 分｜💬 14 留言｜👤 rcarmo
-
-### 21. [Pipes, Forks, and Zombies](https://cs61.seas.harvard.edu/wiki/2017/Shell3/)
-
-- ⭐ 7 分｜💬 1 留言｜👤 tosh
-
-### 22. [Claude Account Suspended Seconds After Purchase?](https://news.ycombinator.com/item?id=48134808)
-
-I literally created a 新 account, pressed submit on the credit card dialog, the purchase goes through and i get logged out. I try to log in, and it says I&#x27;m banned. I check my mail box and I see
-
-- ⭐ 9 分｜💬 3 留言｜👤 AnthropicWHAT
-
-### 23. [Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO](https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d)
-
-- ⭐ 18 分｜💬 4 留言｜👤 1vuio0pswjnm7
-
-### 24. [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
-
-- ⭐ 111 分｜💬 107 留言｜👤 jandeboevrie
-
-### 25. [Swift bricks to be installed on all 新 buildings in Scotland](https://www.theguardian.com/environment/2026/jan/28/swift-bricks-to-be-installed-in-all-new-buildings-in-scotland-after-holyrood-backs-ruling)
-
-- ⭐ 26 分｜💬 4 留言｜👤 bookofjoe
-
-### 26. [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/)
-
-- ⭐ 194 分｜💬 59 留言｜👤 Eswo
-
-### 27. [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
-
-- ⭐ 71 分｜💬 26 留言｜👤 efavdb
-
-### 28. [Extraordinary Ordinals](https://text.marvinborner.de/2026-04-09-17.html)
-
-- ⭐ 33 分｜💬 11 留言｜👤 marvinborner
-
-### 29. [Show HN: Nibble](https://github.com/glouw/nibble)
-
-An attempt at a single pass LLVM 前端 in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn&#x27;t perfect, and the README touches 
-
-- ⭐ 72 分｜💬 17 留言｜👤 glouwbug
-
-### 30. [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M 模型](https://github.com/cactus-compute/needle)
-
-Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) 模型. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices.We were alw
-
-- ⭐ 694 分｜💬 197 留言｜👤 HenryNdubuaku
+- ⭐ 5 分｜💬 0 留言｜👤 kelu124
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- The US is winning the AI race where it matters most: commercialization
-- Cisco workforce reductions
-- Xs of Y – roguelike that names itself every run. Written in 4kLoC
-- Heritability of human life span is ~50% when heritability is redefined
+- USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought
+- Green Card Holders Targeted for Deportation by 新 'Removal Apparatus'
+- A Claude 代碼 and Codex Skill for Deliberate Skill Development
+- Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight
+- Saying Goodbye to one line of APL
+- Bitcoin trader recovers wallet with help of Claude
+- Anthropic forms $200M partnership with the Gates Foundation
+- The Emacsification of 軟體
+- Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO
+- Pipes, Forks, and Zombies
+- Linux gaming is faster because Windows APIs are becoming Linux kernel features
+- Show HN: Needle: We Distilled Gemini Tool Calling into a 26M 模型
+- Chess puzzle I found in my dad's old book
+- Scorched Earth 2000 – 網頁
+- Swift bricks to be installed on all 新 buildings in Scotland
+- Which country will be the first to pass laws limiting Meta Ray-Ban glasses?
+- Healthcare 軟體 company owner convicted of $1B Medicare fraud conspiracy
+- Avoiding and reducing microplastic false positives from dry glove contact
+- A field manual for Deutsche Bahn
+- City and Flock Manipulate 安全 Scores
+- What the Hell Was Going on with Cigarette Ads in the 70s? (2024)
+- Overworked AI Agents Turn Marxist, Researchers Find
+- Show HN: Nibble
+- Texas county pauses data center construction in rural areas
+- Observation: Communication changes when both sides use AI
+- Technical Dimensions of Live Feedback in 程式設計 Systems
+- Parents don't want their kids to use tech at school., districts pushing back
 - How can Apple deal with the memory shortage?
-- Reverting the incremental GC in Python 3.14 and 3.15
-- Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration
-- Princeton mandates proctoring for in-person exams, upending 133 year precedent
-- Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation
-- Employment Ice Age
-- S-100 Virtual Workbench
-- Notes from Optimizing CPU-Bound Go Hot Paths
-- The Deathbed Notes of Henry James (1968)
+- Heritability of human life span is ~50% when heritability is redefined
 - delta time
-- Substrate (YC S24) Is 招聘 a Technical Success 經理
-- Microsoft BitLocker – YellowKey zero-day exploit
-- Biggest Questions in Biotech
-- Marco Polo: Finding a friend with only distance and motion
-- Leaving GitHub for Forgejo
-- A sentimental tour of late 1990s and early 2000s hacking tools
+- Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration
+- Setting up a free *.city.state.us locality domain (2025)
+- Cisco workforce reductions
+- Deal reached with hackers to delete data stolen from the Canvas platform
+- Extraordinary Ordinals
+- 大型語言模型 Targeted Underperformance Disproportionately Impacts Vulnerable Users
+- Princeton mandates proctoring for in-person exams, upending 133 year precedent
+- Using Chinese AI models to get a degree
+- S-100 Virtual Workbench
+- Show HN: Browse 61 3D Printable Robots
+- A History of IDEs at Google
+- MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble
+- Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7
+- 為什麼 Can't Writers Seem to Quit Substack?
+- Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation
+- ChatGPT Gave Me Chilling Advice–As I Simulated Planning a Mass Shooting
+- LinkedIn Fanfiction
+- Turns Out, Nobody Wants a Data Center in Their Backyard
 - SQLite 代碼 of Ethics
-- 新 York, California pension leaders oppose 'extreme' SpaceX control structure
-- Golden Testing a CAD Library
+- Lawmakers' prescription data at risk after data breach
+- Leaving GitHub for Forgejo
+- Marco Polo: Finding a friend with only distance and motion
+- A sentimental tour of late 1990s and early 2000s hacking tools
 - An idiot’s guide to lead optimisation for proteins
+- Will Wildfires Spell This the End of the Campfire in Canada?
+- Notes from Optimizing CPU-Bound Go Hot Paths
+- The AI Layoff Bill Is Coming Due, and CTOs Are Going to Pay It Twice
 - I moved my digital stack to Europe
-- The other half of AI safety
+- Microsoft BitLocker – YellowKey zero-day exploit
+- Dell confirms its SupportAssist 軟體 causes Windows BSOD crashes
+- The European Union backs Italy's right to make Meta pay for news
 - The limits of Rust, or 為什麼 you should probably not follow Amazon and Cloudflare
+- Apple's 安全 Has Been Tough to Crack. Mythos Helped Find a Way In
+- The Siri for Families Apple Will Never 構建
+- Anthropic moves Claude 代碼 SDK and Claude -p out of subscription plans
 - Cost of enum-to-string: C++26 reflection vs. the old ways
-- Meta won't let you block its AI account on Threads
-- Arena AI 模型 ELO History
-- Mystery Microsoft bug leaker keeps the zero-days coming
-- Browsers Treat Big Sites Differently
 - Googlebook
-- Restore full BambuNetwork support for Bambu Lab printers
-- When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug
-- Twin brothers wipe 96 government databases minutes after being fired
-- 'A Four-Eyed World' Review: The Story of Spectacles
 - As researchers age, they produce less disruptive work
-- 49,000 Lake Tahoe residents will lose power to data centers
-- Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing
-- 新 stainless steel can survive conditions for hydrogen production in seawater
-- 網頁 伺服器 on a Nintendo Wii
-- Exploring 8 Shaft Weaving
-- Traceway: MIT-licensed observability stack you can self-host in ~90s
-- Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder
-- Making the news available at no cost is a victory
-- Bacterial defense 系統 builds DNA in unexpected 新 way to stop viruses
-- Comparing a 1980s memory map to the Raspi Pico
-- The Original 1965 Gatorade Recipe
-- Using OR-Tools CP-SAT for Scheduling Problems
-- Medicare's 新 payment 模型 is built for AI. Most of the tech world has no idea
-- 為什麼 資深 developers fail to communicate their expertise
-- My graduation cap runs Rust
-- 開源 Resistance: keep OSS alive on company time
-- Rars: a Rust RAR implementation, mostly written by LLMs
-- Preserving Fisher-Price Pixter
-- Fc, a lossless compressor for floating-point streams
-- The Boring Part of Bell Labs (2025)
-- Israel's AI targeting 系統: how data from a phone become a death sentence
-- AEPs: API Enhancement Proposals
-- The vi family
-- AI coders are carrying half-open laptops through airports, offices, ice rinks
-- 如何 make your text look futuristic (2016)
-- Kraftwerk's radical 1976 track
-- Deterministic Fully-Static Whole-Binary Translation Without Heuristics
-- A desire for a loud car correlates with higher scores on psychopathy and sadism
-- The Age of the Amplifier
-- After 3 decades of splendid scientific communication, this one's for you, Ned
-- Show HN: Agentic interface for mainframes and COBOL
-- Postmortem: TanStack NPM supply-chain compromise
+- The other half of AI safety
+- Restore full BambuNetwork support for Bambu Lab printers
 
 
 ---
