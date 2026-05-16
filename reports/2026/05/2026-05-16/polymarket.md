@@ -8,83 +8,83 @@
 
 **1. [新 Rihanna Album before GTA VI?](https://polymarket.com/market/new-rhianna-album-before-gta-vi-926)
 
-- 📈 概率：55%｜成交量：2.7K
+- 📈 概率：56%｜成交量：1.3K
 
 **2. [新 Playboi Carti Album before GTA VI?](https://polymarket.com/market/new-playboi-carti-album-before-gta-vi-421)
 
-- 📈 概率：51%｜成交量：98.02913899999999
+- 📈 概率：53%｜成交量：124.52913900000001
 
 **3. [Will Jesus Christ return before GTA VI?](https://polymarket.com/market/will-jesus-christ-return-before-gta-vi-665)
 
-- 📈 概率：49%｜成交量：5.8K
+- 📈 概率：49%｜成交量：6.0K
 
 **4. [Trump out as President before GTA VI?](https://polymarket.com/market/trump-out-as-president-before-gta-vi-846)
 
-- 📈 概率：51%｜成交量：841.019995
+- 📈 概率：51%｜成交量：856.5099950000001
 
 **5. [Will China invades Taiwan before GTA VI?](https://polymarket.com/market/will-china-invades-taiwan-before-gta-vi-716)
 
-- 📈 概率：51%｜成交量：522.3558780000001
+- 📈 概率：51%｜成交量：568.515878
 
 **6. [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/market/will-bitcoin-hit-1m-before-gta-vi-872)
 
-- 📈 概率：48%｜成交量：39.8K
+- 📈 概率：49%｜成交量：39.8K
 
 **7. [GTA VI 發布 before June 2026?](https://polymarket.com/market/gta-vi-released-before-june-2026)
 
-- 📈 概率：1%｜成交量：32.4K
+- 📈 概率：1%｜成交量：34.0K
 
 **8. [Will Harvey Weinstein be sentenced to no prison time?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-no-prison-time)
 
-- 📈 概率：90%｜成交量：8.4K
+- 📈 概率：93%｜成交量：9.2K
 
 **9. [Will Harvey Weinstein be sentenced to less than 5 years in prison?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-less-than-5-years-in-prison)
 
-- 📈 概率：6%｜成交量：7.2K
+- 📈 概率：5%｜成交量：7.4K
 
 **10. [Will Harvey Weinstein be sentenced to between 5 and 10 years in prison?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-between-5-and-10-years-in-prison)
 
-- 📈 概率：2%｜成交量：5.2K
+- 📈 概率：1%｜成交量：5.3K
 
 **11. [Will Harvey Weinstein be sentenced to between 10 and 20 years in prison?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-between-10-and-20-years-in-prison)
 
-- 📈 概率：1%｜成交量：5.2K
+- 📈 概率：1%｜成交量：5.4K
 
 **12. [Will Harvey Weinstein be sentenced to between 20 and 30 years in prison?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-between-20-and-30-years-in-prison)
 
-- 📈 概率：2%｜成交量：7.5K
+- 📈 概率：1%｜成交量：8.2K
 
 **13. [Will Harvey Weinstein be sentenced to more than 30 years in prison?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-more-than-30-years-in-prison)
 
-- 📈 概率：2%｜成交量：5.6K
+- 📈 概率：1%｜成交量：5.9K
 
 **14. [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](https://polymarket.com/market/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup)
 
-- 📈 概率：38%｜成交量：3.9K
+- 📈 概率：38%｜成交量：3.5K
 
 **15. [Will the Colorado Avalanche win the 2026 NHL Stanley Cup?](https://polymarket.com/market/will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup)
 
-- 📈 概率：40%｜成交量：28.2K
+- 📈 概率：40%｜成交量：20.1K
 
 **16. [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](https://polymarket.com/market/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup)
 
-- 📈 概率：12%｜成交量：49.4K
+- 📈 概率：12%｜成交量：40.7K
 
 **17. [Will the Montreal Canadiens win the 2026 NHL Stanley Cup?](https://polymarket.com/market/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup)
 
-- 📈 概率：9%｜成交量：13.5K
+- 📈 概率：9%｜成交量：13.0K
 
 **18. [Will the Buffalo Sabres win the 2026 NHL Stanley Cup?](https://polymarket.com/market/will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup)
 
-- 📈 概率：3%｜成交量：86.1K
+- 📈 概率：3%｜成交量：44.6K
 
 **19. [Will the Oklahoma City Thunder win the 2026 NBA Finals?](https://polymarket.com/market/will-the-oklahoma-city-thunder-win-the-2026-nba-finals)
 
-- 📈 概率：60%｜成交量：28.9K
+- 📈 概率：59%｜成交量：86.6K
 
 **20. [Will the Cleveland Cavaliers win the 2026 NBA Finals?](https://polymarket.com/market/will-the-cleveland-cavaliers-win-the-2026-nba-finals)
 
-- 📈 概率：2%｜成交量：254.0K
+- 📈 概率：2%｜成交量：457.8K
 
 _...還有 80 個市場_
 
