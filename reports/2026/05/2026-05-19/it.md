@@ -4,206 +4,216 @@
 
 ---
 
-### 1. [OpenBSD 7.9 發布](https://www.openbsd.org/79.html)
+### 1. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
 
-- ⭐ 124 分｜💬 47 留言｜👤 bradley_taunt
+https:&#x2F;&#x2F;AI.Google.dev&#x2F;Gemini-API&#x2F;docs&#x2F;models&#x2F;Gemini-3.5-flas...
 
-### 2. [新 accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
+- ⭐ 149 分｜💬 148 留言｜👤 spectraldrift
 
-- ⭐ 212 分｜💬 97 留言｜👤 interpol_p
+### 2. [I’ve built a virtual museum with nearly every operating 系統 you can think of](https://virtualosmuseum.org/)
 
-### 3. [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
+- ⭐ 371 分｜💬 79 留言｜👤 andreww591
 
-- ⭐ 253 分｜💬 103 留言｜👤 danybittel
+### 3. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
 
-### 4. [Show HN: I made a 3D pose maker for artists](https://setpose.com/)
+https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;business&#x2F;Google-seach-bar..., https:&#x2F;&#x2F;archive.ph&#x2F;XI1sQhttps:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;19&#x
 
-- ⭐ 16 分｜💬 11 留言｜👤 augustvdv
+- ⭐ 56 分｜💬 178 留言｜👤 berkeleyjunk
 
-### 5. [Going full AI 工程師, not touching 代碼 anymore](https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/)
+### 4. [Apple unveils 新 accessibility features](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
 
-- ⭐ 18 分｜💬 18 留言｜👤 maxheyer
+- ⭐ 497 分｜💬 262 留言｜👤 interpol_p
 
-### 6. [I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
+### 5. [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
 
-- ⭐ 163 分｜💬 41 留言｜👤 vi_sextus_vi
+https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2056753169888334312https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;Anthropic-OpenAI-karpathy-a..., https:&#x2F;&#x2F;archive
 
-### 7. [Hanoi's humble beer glass and the memory of a nation](https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/)
+- ⭐ 884 分｜💬 346 留言｜👤 dmarcos
 
-- ⭐ 21 分｜💬 0 留言｜👤 NaOH
+### 6. [Show HN: Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
 
-### 8. [An Apple (II) for Teacher](https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/)
+The Setup:https:&#x2F;&#x2F;i.imgur.com&#x2F;o0hgybh.jpeghttps:&#x2F;&#x2F;i.imgur.com&#x2F;mcNiomp.jpeghttps:&#x2F;&#x2F;i.imgur.com&#x2F;vIjw6pc.jpeghttps:&#x2F;&#x2F;i.imgur.com&#x2F;nzOwmSC.jpeg
 
-- ⭐ 19 分｜💬 1 留言｜👤 cfmcdonald
+- ⭐ 418 分｜💬 166 留言｜👤 danybittel
 
-### 9. [Nim-Presto – REST API Framework for Nim Language](https://github.com/status-im/nim-presto)
+### 7. [Disney erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight)
 
-- ⭐ 33 分｜💬 5 留言｜👤 TheWiggles
+- ⭐ 57 分｜💬 4 留言｜👤 7777777phil
 
-### 10. [Polypad](https://polypad.amplify.com/)
+### 8. [Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
 
-- ⭐ 149 分｜💬 14 留言｜👤 ivank
+- ⭐ 73 分｜💬 18 留言｜👤 akhuettel
 
-### 11. [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
+### 9. [The Silver Swan](https://thebowesmuseum.org.uk/collections/the-silver-swan/)
 
-- ⭐ 230 分｜💬 19 留言｜👤 pabs3
+- ⭐ 8 分｜💬 0 留言｜👤 pseudolus
 
-### 12. [Photo GIMP – A Patch for GIMP 3 for Photoshop Users](https://github.com/Diolinux/PhotoGIMP)
+### 10. [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
 
-- ⭐ 129 分｜💬 91 留言｜👤 SockThief
+- ⭐ 4 分｜💬 0 留言｜👤 praccu
 
-### 13. [新 Lifetime Plex Pass Pricing](https://www.plex.tv/blog/new-lifetime-plex-pass-pricing/)
+### 11. [Gemini Omni](https://deepmind.google/models/gemini-omni/)
 
-- ⭐ 8 分｜💬 3 留言｜👤 Larrikin
+- ⭐ 96 分｜💬 40 留言｜👤 meetpateltech
 
-### 14. [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus)
+### 12. [Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs](https://superlog.sh/)
 
-- ⭐ 60 分｜💬 31 留言｜👤 simonebrunozzi
+Hey HN, we’re Nico and Arseniy, co-founders of Superlog (https:&#x2F;&#x2F;superlog.sh). We&#x27;re building a self-installing, self healing observability tool meant not to be opened. It has a wizard 
 
-### 15. [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
+- ⭐ 33 分｜💬 31 留言｜👤 Magnanten
 
-- ⭐ 217 分｜💬 141 留言｜👤 theanonymousone
+### 13. [Show HN: Haystack – Review the PRs that need human attention](https://haystackeditor.com/)
 
-### 16. [Click (2016)](https://clickclickclick.click/)
+Hey HN! We&#x27;re building Haystack (https:&#x2F;&#x2F;haystackeditor.com&#x2F;) to help teams deal with the explosion in the number of pull requests that need to be reviewed due to the rise of codin
 
-- ⭐ 337 分｜💬 85 留言｜👤 andrewzeno
+- ⭐ 15 分｜💬 6 留言｜👤 akshaysg
 
-### 17. [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
+### 14. [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 
-- ⭐ 52 分｜💬 3 留言｜👤 LelouBil
+- ⭐ 309 分｜💬 142 留言｜👤 LelouBil
 
-### 18. [Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone](https://www.kv4p.com/)
+### 15. [Show HN: Forge – Guardrails take an 8B 模型 from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)
 
-- ⭐ 123 分｜💬 46 留言｜👤 krupan
+Hi HN, I&#x27;m Antoine Zambelli, AI Director at Texas Instruments.I built Forge, an open-source reliability layer for self-hosted 大型語言模型 tool-calling.What it does:- Adds domain-and-tool-agnostic guardra
 
-### 19. [Cursor 引進 Composer 2.5](https://cursor.com/blog/composer-2-5)
+- ⭐ 8 分｜💬 2 留言｜👤 zambelli
 
-https:&#x2F;&#x2F;twitter.com&#x2F;cursor_ai&#x2F;status&#x2F;2056415413077233983
+### 16. [I found ultra-pure quantum crystals in an abandoned mine in the Atacama desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
 
-- ⭐ 213 分｜💬 162 留言｜👤 asar
+- ⭐ 231 分｜💬 93 留言｜👤 vi_sextus_vi
 
-### 20. [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
+### 17. [Intro to TLA+ for the 大型語言模型 Era: Prompt Your Way to Victory](https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/)
 
-- ⭐ 492 分｜💬 350 留言｜👤 tomeraberbach
+- ⭐ 80 分｜💬 20 留言｜👤 zdw
 
-### 21. [The lasting influence of Netscape Time](https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/)
+### 18. [為什麼 is almost everyone right-handed? A 新 study connects it to bipedalism](https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk)
 
-- ⭐ 73 分｜💬 15 留言｜👤 zdw
+- ⭐ 39 分｜💬 59 留言｜👤 gmays
 
-### 22. [Intro to TLA+ for the 大型語言模型 Era: Prompt Your Way to Victory](https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/)
+### 19. [Hanoi’s humble beer glass and the memory of a nation](https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/)
 
-- ⭐ 5 分｜💬 1 留言｜👤 zdw
+- ⭐ 91 分｜💬 26 留言｜👤 NaOH
 
-### 23. [PyTorch Landscape](https://pytorch.landscape2.io)
+### 20. [KV Sharing, MHC, and Compressed Attention](https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures)
 
-- ⭐ 67 分｜💬 19 留言｜👤 salamo
+- ⭐ 18 分｜💬 1 留言｜👤 gmays
 
-### 24. [1024000^2 Blocks, 2B2T Minecraft 伺服器 World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
+### 21. [Mistral AI Acquires Emmi AI to Create the Leading AI Stack](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
 
-- ⭐ 163 分｜💬 101 留言｜👤 exploraz
+- ⭐ 4 分｜💬 0 留言｜👤 doener
 
-### 25. [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
+### 22. [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
 
-- ⭐ 577 分｜💬 472 留言｜👤 yakkomajuri
+- ⭐ 681 分｜💬 532 留言｜👤 yakkomajuri
 
-### 26. [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm)
+### 23. [Andrej Karpathy Joins Anthropic](https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic)
 
-Hey HN!I&#x27;m Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we&#x27;ve done experiments in retail (vending mac
+- ⭐ 4 分｜💬 0 留言｜👤 vinni2
 
-- ⭐ 316 分｜💬 235 留言｜👤 lukaspetersson
+### 24. [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
 
-### 27. [Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+- ⭐ 323 分｜💬 248 留言｜👤 theanonymousone
 
-- ⭐ 158 分｜💬 41 留言｜👤 surprisetalk
+### 25. [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
 
-### 28. [U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub](https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330)
+https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Peter_G._Neumann
 
-- ⭐ 21 分｜💬 2 留言｜👤 neogodless
+- ⭐ 294 分｜💬 23 留言｜👤 pabs3
 
-### 29. [Show HN: Number Gacha, a gacha game distilled to its essence](https://isabisabel.com/gacha/)
+### 26. [Show HN: I made a 3D pose maker for artists](https://setpose.com/)
 
-Number Gacha is a half-parody, half-real gacha game where you roll, unwrap, and battle numbers. Play on Desktop for the 最佳 experience!
+- ⭐ 61 分｜💬 28 留言｜👤 augustvdv
 
-- ⭐ 201 分｜💬 98 留言｜👤 babel16
+### 27. [An Apple (II) for Teacher](https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/)
 
-### 30. [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
+- ⭐ 47 分｜💬 16 留言｜👤 cfmcdonald
 
-- ⭐ 174 分｜💬 42 留言｜👤 veqq
+### 28. [Minnesota becomes first state to ban prediction markets](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets)
+
+- ⭐ 9 分｜💬 0 留言｜👤 ortusdux
+
+### 29. [Polypad](https://polypad.amplify.com/)
+
+- ⭐ 198 分｜💬 23 留言｜👤 ivank
+
+### 30. ['Capitalism has to become more humane': a Stanford economist on big tech](https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz)
+
+- ⭐ 38 分｜💬 23 留言｜👤 xyzal
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust
-- Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25
+- AI, "Humanity", and Dr. Manhattan Syndrome: A Communications Intervention
+- Deciphering the Hashihara Castle Town Map
+- Cursor 引進 Composer 2.5
+- OpenBSD 7.9
+- Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone
+- Click (2016)
+- 'Comically bad' datasets used to train clinical models for stroke and diabetes
+- Google I/O
+- Nim-Presto – REST API Framework for Nim Language (2024)
+- 1024000^2 Blocks, 2B2T Minecraft 伺服器 World Download Project, and Discoveries
+- We let AIs run radio stations
+- PyTorch Landscape
+- Photo GIMP – A Patch for GIMP 3 for Photoshop Users
+- AI-written story published in Granta, wins major literary prize
+- Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions
+- The lasting influence of Netscape Time
+- Show HN: Number Gacha, a gacha game distilled to its essence
+- Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp
+- War game exposed U.S. vulnerability to low-tech warfare
+- The 程式設計 Language for Agents
+- We used Quint to find over 10 bugs in SQLite while hardening Turso
 - AI eats the world (Spring 26) [pdf]
+- Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust
+- Anyone on the Internet Can Ring Your Doorbell
 - Elon Musk has lost his lawsuit against Sam Altman and OpenAI
-- Two computers, one monitor, zero fiddling (2025)
-- Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment
-- Peter Salus has died
+- Graduates are booing pep talks on AI at college commencements
+- Colonization of Venus
+- StanChart CEO: AI to Replace "Lower-Value Human Capital"
+- Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25
+- Google pushes 更新 to Antigravity instead it reinstalls and locks everyone out
+- Anthropic acquires Stainless
+- Growing tribe of jobless techies is stuck in Silicon Valley's 新 reality
+- Stop 'tokenmaxxing' and 部署 AI sensibly instead
 - Show HN: Files.md – Open-source alternative to Obsidian
-- Agora-1: The Multi-代理 World 模型
+- Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment
+- Tagging Blog Posts with BERTopic and LLMs
+- Andrej Karpathy Joins Anthropic
 - The Fil-C Optimized Calling Convention
+- Agora-1: The Multi-代理 World 模型
 - The quiet renovation at Bitwarden
 - We stopped AI bot spam in our GitHub repo using Git's –author flag
-- 為什麼 is it called Kent House?
-- Consider the Sister
-- Loopmaster – Livecoding Music IDE
-- When can the C++ compiler devirtualize a call?
-- Badger Badger Badger Video Officially Preserved by British Film Institute
+- Peter Salus has died
 - It is time to give up the dualism introduced by the debate on consciousness
+- Type Out the 代碼
+- OpenAI co-founder Andrej Karpathy joins Anthropic
+- Minnesota passes the nation's first ban on 'nudification' apps
+- Loopmaster – Livecoding Music IDE
 - 什麼是 Date:Italy?
+- 為什麼 is it called Kent House?
+- Voice AI Systems Are Vulnerable to Hidden Audio Attacks
+- Graduates are booing pep talks on AI at college commencements
 - The FBI Wants to Buy Nationwide Access to License Plate Readers
 - Show HN: InsForge – Open-source Heroku for coding agents
-- Voice AI Systems Are Vulnerable to Hidden Audio Attacks
+- Google Search is getting its biggest changes
 - Project Glasswing: what Mythos showed us
 - The Futility of Lava Lamps: What Random Means
 - Iran starts Bitcoin-backed ship insurance for Hormuz strait
+- Your Slop, My Sludge
+- Consider the Sister
 - Cutting 推論 cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint
-- Coding on Paper
-- Make ZIP files smaller with ZIP Shrinker
-- Anthropic Is Preparing for IPO and We Should Be Worried
 - Strange crystals found inside wreckage from the first nuclear bomb 測試
-- Earth's Radio Bubble: Every signal we've ever sent into space
-- Designing an FPGA Calculator from Scratch
+- Coding on Paper
+- When can the C++ compiler devirtualize a call?
+- Badger Badger Badger Video Officially Preserved by British Film Institute
 - The Aperiodic Table
-- Shutterstock to pay $35M over hard-to-cancel subscriptions
-- Understanding Singleflight in Go
 - I 3D Printed Origami [video]
-- Anyone on the Internet Can Ring Your Doorbell
-- Linux 7.1-rc4: 安全 list "almost unmanageable" from AI bug reports
-- Learn Harness Engineering
-- Aether: High-performance, formally-verified storage engine written in Rust
-- 新 York to tax luxury second homes in NYC
-- Haiku OS runs on M1 Macs now
-- My domain got abused on GitHub Pages
-- Apple Silicon costs less than OpenRouter
-- Going Analog
-- Show HN: We missed Winamp, so we built an audio player for macOS
-- Codex-maxxing
-- An Overview of the Mathematical Theory of Communication for Philosophers [pdf]
-- BambuStudio has been violating PrusaSlicer AGPL license since their fork
-- War game exposed U.S. vulnerability to low-tech warfare
-- Mocked by a scandal sheet, Kierkegaard endured months of personal attacks
-- Qwen 3.7 Preview
-- .at TLD is 熱門 on CF Radar
-- Garry Tan, the CEO of YC, accused me of unethical reporting
-- GenCAD
-- AgentCRM – Headless CRM for Claude 代碼
-- 'We mould trees to grow into the shape of chairs'
-- Porting my 3D points renderer on a ZX Spectrum 48K
-- Mug Shots: A Small Town Noir (2014)
-- WriteUp: 16 Bytes of x86 that turn Matrix rain into sound
-- Linux 安全 mailing list 'almost unmanageable'
-- Show HN: Clark-Browser – Stealth Chromium
-- 構建 a radio wave detector with balls of aluminum foil
-- Sieve – scans Cursor/Claude chat history for leaked API keys
-- I turned a $80 RK3562 Android tablet into a Debian Linux workstation
-- CISA Admin Leaked AWS GovCloud Keys on GitHub
-- Prolog Coding Horror
-- Browse.sh, an 開源 catalog of browser skills
-- Starship's Twelfth Flight 測試
-- Actually, democracy dies in H.R.
+- Designing an FPGA Calculator from Scratch
+- We were trying to Terraform Mars but instead we saved the sea snails
+- AI 系統 fails during Glendale Community College graduation ceremony
+- Earth's Radio Bubble: Every signal we've ever sent into space
 
 
 ---
