@@ -4,206 +4,208 @@
 
 ---
 
-### 1. [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)
+### 1. [An OpenAI 模型 has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 
-- ⭐ 315 分｜💬 112 留言｜👤 giuliomagnifico
+- ⭐ 163 分｜💬 84 留言｜👤 tedsanders
 
-### 2. [Qwen3.7-Max: The 代理 Frontier](https://qwen.ai/blog?id=qwen3.7)
+### 2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 
-- ⭐ 220 分｜💬 84 留言｜👤 kevinsimper
+Previous thread in sequence:GitHub is investigating unauthorized access to their internal repositories - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201316 - May 2026 (321 comments)
 
-### 3. [Map of Metal](https://mapofmetal.com/)
+- ⭐ 95 分｜💬 36 留言｜👤 Timofeibu
 
-- ⭐ 199 分｜💬 63 留言｜👤 robin_reala
+### 3. [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/)
 
-### 4. [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html)
+- ⭐ 167 分｜💬 42 留言｜👤 hexagr
 
-- ⭐ 74 分｜💬 32 留言｜👤 eqrion
+### 4. [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs)
 
-### 5. [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)
+- ⭐ 48 分｜💬 9 留言｜👤 gregsadetsky
 
-- ⭐ 258 分｜💬 253 留言｜👤 healsdata
+### 5. [為什麼 is Inkwell stuck in review](https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html)
 
-### 6. [Google's AI is being manipulated. The search giant is quietly fighting back](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
+- ⭐ 39 分｜💬 13 留言｜👤 speckx
 
-- ⭐ 60 分｜💬 27 留言｜👤 tigerlily
+### 6. [Qwen3.7-Max: The 代理 Frontier](https://qwen.ai/blog?id=qwen3.7)
 
-### 7. [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
+- ⭐ 502 分｜💬 195 留言｜👤 kevinsimper
 
-- ⭐ 344 分｜💬 486 留言｜👤 lycopodiopsida
+### 7. [Sharla Boehm, the programmer whose 代碼 underpins the Internet](https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/)
 
-### 8. [When Fast Fourier Transform Meets Transformer for Image Restoration (2024)](https://github.com/deng-ai-lab/SFHformer)
+- ⭐ 41 分｜💬 13 留言｜👤 dxs
 
-- ⭐ 22 分｜💬 1 留言｜👤 teleforce
+### 8. [SBCL: the ultimate assembly 代碼 breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 
-### 9. [America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen)
+- ⭐ 86 分｜💬 5 留言｜👤 yacin
 
-- ⭐ 49 分｜💬 18 留言｜👤 danieltanfh95
+### 9. [Incident Report: May 19, 2026 – GCP Account Suspension](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage)
 
-### 10. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+Previous thread: Incident Report: Railway Blocked by Google 雲端 [resolved] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201484
 
-https:&#x2F;&#x2F;AI.Google.dev&#x2F;Gemini-API&#x2F;docs&#x2F;models&#x2F;Gemini-3.5-flas...
+- ⭐ 305 分｜💬 181 留言｜👤 0xedb
 
-- ⭐ 879 分｜💬 603 留言｜👤 spectraldrift
+### 10. [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html)
 
-### 11. [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
+- ⭐ 246 分｜💬 113 留言｜👤 eqrion
 
-- ⭐ 292 分｜💬 68 留言｜👤 ChocMontePy
+### 11. [Map of Metal](https://mapofmetal.com/)
 
-### 12. [Autoregressive next token prediction and KV Cache in transformers](https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf)
+- ⭐ 341 分｜💬 120 留言｜👤 robin_reala
 
-- ⭐ 6 分｜💬 0 留言｜👤 coarchitect
+### 12. [Qian Xuesen: The missile genius America lost and China gained (2025)](https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained)
 
-### 13. [I’ve built a virtual museum with nearly every operating 系統 you can think of](https://virtualosmuseum.org/)
+- ⭐ 22 分｜💬 12 留言｜👤 thnaks
 
-- ⭐ 877 分｜💬 189 留言｜👤 andreww591
+### 13. [Google's AI is being manipulated. The search giant is quietly fighting back](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
 
-### 14. [Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order](https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/)
+- ⭐ 198 分｜💬 146 留言｜👤 tigerlily
 
-- ⭐ 113 分｜💬 79 留言｜👤 iamnothere
+### 14. [Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE](https://www.alqst.org/ar/posts/1190)
 
-### 15. [Japan is gripped by mass allergies. A 1950s project is to blame](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan)
+- ⭐ 811 分｜💬 345 留言｜👤 giuliomagnifico
 
-- ⭐ 225 分｜💬 109 留言｜👤 ranit
+### 15. [Apparently Google hates us now](https://twitter.com/pokemoncentral/status/2057123807404638250)
 
-### 16. [College students drown out AI-praising commencement speeches with boos](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
+- ⭐ 310 分｜💬 150 留言｜👤 zeitg3ist
 
-- ⭐ 203 分｜💬 180 留言｜👤 iancmceachern
+### 16. [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
 
-### 17. [Show HN: Forge – Guardrails take an 8B 模型 from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)
+- ⭐ 91 分｜💬 67 留言｜👤 theanonymousone
 
-Hi HN, I&#x27;m Antoine Zambelli, AI Director at Texas Instruments.I built Forge, an open-source reliability layer for self-hosted 大型語言模型 tool-calling.What it does:- Adds domain-and-tool-agnostic guardra
+### 17. [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0)
 
-- ⭐ 579 分｜💬 207 留言｜👤 zambelli
+- ⭐ 45 分｜💬 11 留言｜👤 aarestad
 
-### 18. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
+### 18. [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
 
-https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;business&#x2F;Google-seach-bar..., https:&#x2F;&#x2F;archive.ph&#x2F;XI1sQhttps:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;19&#x
+- ⭐ 443 分｜💬 592 留言｜👤 lycopodiopsida
 
-- ⭐ 625 分｜💬 858 留言｜👤 berkeleyjunk
+### 19. [LoRA and Weight Decay (2023)](https://irhum.github.io/blog/lorawd/)
 
-### 19. [Infomaniak transitions to a foundation 模型 to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
+- ⭐ 8 分｜💬 0 留言｜👤 jxmorris12
 
-- ⭐ 123 分｜💬 34 留言｜👤 darktoto
+### 20. [Formal Verification Gates for AI Coding Loops](https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/)
 
-### 20. [Remove-AI-Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)
+- ⭐ 67 分｜💬 10 留言｜👤 pyrex41
 
-- ⭐ 336 分｜💬 207 留言｜👤 janalsncm
+### 21. [Testing distributed systems with AI agents](https://github.com/shenli/distributed-system-testing)
 
-### 21. [The Invention of Buses](https://worksinprogress.co/issue/the-invention-of-buses/)
+- ⭐ 60 分｜💬 8 留言｜👤 shenli3514
 
-- ⭐ 33 分｜💬 7 留言｜👤 surprisetalk
+### 22. [Handling the great 代碼 forge fragmentation](https://www.alexselimov.com/posts/forge_fragmentation/)
 
-### 22. [No way to parse integers in C (2022)](https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html)
+- ⭐ 26 分｜💬 9 留言｜👤 mooreds
 
-- ⭐ 29 分｜💬 23 留言｜👤 konmok
+### 23. [Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment)
 
-### 23. [Apple unveils 新 accessibility features](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
+- ⭐ 556 分｜💬 348 留言｜👤 ceejayoz
 
-- ⭐ 703 分｜💬 368 留言｜👤 interpol_p
+### 24. [Stable Audio 3](https://arxiv.org/abs/2605.17991)
 
-### 24. [Nobody understands the point of hybrid cars [video]](https://www.youtube.com/watch?v=KnUFH5GX_fI)
+- ⭐ 65 分｜💬 13 留言｜👤 guardienaveugle
 
-- ⭐ 129 分｜💬 94 留言｜👤 CHB0403085482
+### 25. [When Fast Fourier Transform Meets Transformer for Image Restoration (2024)](https://github.com/deng-ai-lab/SFHformer)
 
-### 25. [Gemini CLI will stop working from June 18, 2026](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/)
+- ⭐ 64 分｜💬 7 留言｜👤 teleforce
 
-- ⭐ 312 分｜💬 162 留言｜👤 primaprashant
+### 26. [Japan is gripped by mass allergies. A 1950s project is to blame](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan)
 
-### 26. [Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
+- ⭐ 317 分｜💬 145 留言｜👤 ranit
 
-- ⭐ 298 分｜💬 90 留言｜👤 doener
+### 27. [Show HN: Lance – image/video generation and understanding in one 模型](https://github.com/bytedance/Lance)
 
-### 27. [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
+The 模型 has 3B active parameters. We put the 代碼, homepage, paper and 模型 links here:- 代碼: https:&#x2F;&#x2F;github.com&#x2F;bytedance&#x2F;Lance- Homepage: https:&#x2F;&#x2F;lance-project.gith
 
-- ⭐ 312 分｜💬 168 留言｜👤 smooke
+- ⭐ 34 分｜💬 10 留言｜👤 cleardusk
 
-### 28. [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
+### 28. [Show HN: Hocuspocus 4 – self-hosted Yjs collaboration 後端](https://github.com/ueberdosis/hocuspocus)
 
-- ⭐ 93 分｜💬 100 留言｜👤 pramodbiligiri
+Hi HN! I&#x27;m Philip, one of the founders of Tiptap. Next to our open-source rich text editor framework, we started developing Hocuspocus about five years ago and open-sourced it too, to solve one o
 
-### 29. [RISC-V and Floating-Point](https://fprox.substack.com/p/risc-v-and-floating-point)
+- ⭐ 25 分｜💬 3 留言｜👤 philipisik
 
-- ⭐ 47 分｜💬 34 留言｜👤 hasheddan
+### 29. [Autoregressive next token prediction and KV Cache in transformers](https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf)
 
-### 30. [CopyFail: From Pod to Host](https://xint.io/blog/copy-fail-pod-to-host)
+- ⭐ 43 分｜💬 0 留言｜👤 coarchitect
 
-- ⭐ 42 分｜💬 6 留言｜👤 tptacek
+### 30. [Smartmedia Card Spec Opened, available free (2000)](https://www.edn.com/smartmedia-card-interface-spec-opened-available-for-free/#google_vignette)
+
+- ⭐ 24 分｜💬 14 留言｜👤 brudgers
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Simulated Evolution on the PICO-8
-- Incident Report: Railway Blocked by Google 雲端 (Resolved)
-- In 1979 工程師 Hugh Padgham discovered "gated reverb" – by accident
-- Minnesota becomes first state to ban prediction markets
+- Hormuz closure could trigger 'agrifood shock', price crisis within a year
+- No way to parse integers in C (2022)
+- Anna's Archive hit with $19.5M default judgment and global domain takedown order
+- Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment
+- Infomaniak transitions to a foundation 模型 to protect user data privacy
+- Show HN: I made a tool for learning scales, chords, and 如何 combine them
+- Gemini 3.5 Flash
+- FiveThirtyEight articles on the Internet Archive
+- WordPress 7.0
+- I’ve built a virtual museum with nearly every operating 系統 you can think of
 - GitHub is investigating unauthorized access to their internal repositories
+- Ask HN: Shouldn't Google need to give a public statement about Railway incident?
+- CopyFail: From Pod to Host
+- OpenAI Is Preparing to File for an IPO in the Coming Days or Weeks
+- Simulated Evolution on the PICO-8
+- After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban
+- Former Cuban president Raúl Castro indicted in US over fatal downing of 2 planes
+- What You Will Lose When You Retire – By Dan Haylett
+- Show HN: Forge – Guardrails take an 8B 模型 from 53% to 99% on agentic tasks
+- In 1979 工程師 Hugh Padgham discovered "gated reverb" – by accident
+- RISC-V and Floating-Point
 - The Mercury logic 程式設計 系統
-- I’ve joined Anthropic
-- Growing 神經網絡 Cellular Automata
+- C++26: More Function Wrappers
 - Lisp in 網頁-Based Applications (2001)
-- 為什麼 is almost everyone right-handed? A 新 study connects it to bipedalism
-- Former congressman Barney Frank has died
-- Show HN: Open-Source Agentic QA Harness with Memory
-- Nostalgic Kits Central (2024)
-- You can access Gemini chat history without unlocking your phone with Android 16
+- Google changes its search box
+- The Invention of Buses
+- What Do Unions Do?
+- Gemini CLI will stop working from June 18, 2026
+- Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC
+- Remove-AI-Watermarks – CLI and library for removing AI watermarks from images
+- Apple unveils 新 accessibility features
+- Learnings from 100K lines of Rust with AI (2025)
 - Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities
-- Railway GCP Account Suspension Incident Report
 - HTML-in-Canvas Demos
-- Public have more fear than hope on AI and future of work, study finds
 - Intro to TLA+ for the 大型語言模型 Era: Prompt Your Way to Victory
-- The two oldest printing presses
+- Mistral AI acquires Emmi AI
 - Hanoi’s humble beer glass and the memory of a nation
+- OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool
 - The TTY Demystified (2008)
-- Fewer Bots, More Ads: The Pentagon's Evolving Online Influence Campaigns
+- The two oldest printing presses
+- Nostalgic Kits Central (2024)
 - Tool mapping 90 companies in the photonics and CPO supply chain
-- Museum of Imaginary Musical Instruments
-- Disney erased FiveThirtyEight
+- Nobody understands the point of hybrid cars [video]
+- Russian Troops' Fear Grows as Ukraine AI "Slaughterbot" Drones Headhunt Them
 - Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs
-- Dumb ways for an 開源 project to die
-- Skills in 網頁, iOS, and Android
+- Disney erased FiveThirtyEight
+- Cooling copper plates could slash data center energy use by 90%
 - Polypad
-- Testing MiniMax M2.7 via API on three real ML and coding workflows
-- Show HN: Gaussian Splat of a Strawberry
+- Nobody Cares, Write Anyway
 - CISA Admin Leaked AWS GovCloud Keys on GitHub
-- OpenBSD 7.9
-- Ex-Google CEO Eric Schmidt booed at Arizona U commencement speech
+- Show HN: Gaussian Splat of a Strawberry
+- Wi-Wi Is Wireless Time Sync at 1 Nanosecond
+- 為什麼 I don’t vibe 代碼
+- Museum of Imaginary Musical Instruments
 - Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone
-- Fixing the Most Dangerous Dam in the World
-- Gemini Omni
+- Deutsche Bahn blocks Linux users
 - The foundations of a provably secure operating 系統 (PSOS) (1979) [pdf]
-- Cities: Skylines Uses a Stock-Market Analogy to Influence Gameplay
+- OpenBSD 7.9
 - The last six months in LLMs in five minutes
-- I found ultra-pure quantum crystals in an abandoned mine in the Atacama desert
-- Unusual uses of OEIS sequences on GitHub
-- AI, "Humanity", and Dr. Manhattan Syndrome: A Communications Intervention
-- 程式設計 as Theory Building (1985) [pdf]
-- The Silver Swan
-- Mass surveillance of foreigners in China revealed by abandoned demo dashboard
-- Show HN: I made a 3D pose maker for artists
-- Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised
-- Show HN: Number Gacha, a gacha game distilled to its essence
-- Peter Neumann has died
-- Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions
-- Java: Rethink Domain Primitives with Valhalla
-- PyTorch Landscape
-- An Apple (II) for Teacher
-- Show HN: Haystack – Review the PRs that need human attention
-- AI eats the world (Spring 26) [pdf]
-- Era: From Nature publication to catalyzing Computational Discovery
-- Elon Musk has lost his lawsuit against Sam Altman and OpenAI
-- War game exposed U.S. vulnerability to low-tech warfare
-- The weird, wild story of humanity's obsession with gold
-- KV Sharing, MHC, and Compressed Attention
-- Show HN: Yt-x v0.8.0 – Browse, play, and download YouTube from the terminal
-- The lasting influence of Netscape Time
-- Show HN: Files.md – Open-source alternative to Obsidian
-- Cursor 引進 Composer 2.5
-- Show HN: Pg_deltax, Apache-licensed alternative to TimescaleDB
-- It is time to give up the dualism introduced by the debate on consciousness
-- Russians Fear Ukraine "Slaughterbot" Drones Are Head-Hunting Them
-- Nim-Presto – REST API Framework for Nim Language (2024)
+- Dumb ways for an 開源 project to die
+- Show HN: Open-Source Agentic QA Harness with Memory
+- Skills in 網頁, iOS, and Android
+- Public have more fear than hope on AI and future of work, study finds
+- Fixing the Most Dangerous Dam in the World
+- 8k Meta employees are waking up to an email saying they've been laid off
+- Incident Report: Railway Blocked by Google 雲端 [resolved]
+- Minnesota becomes first state to ban prediction markets
+- You can access Gemini chat history without unlocking your phone with Android 16
+- Gemini Omni
+- Use a VPN, Says Canadian Government That Wants VPN Logs
 
 
 ---
