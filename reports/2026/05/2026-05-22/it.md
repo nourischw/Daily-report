@@ -4,202 +4,206 @@
 
 ---
 
-### 1. [If you're an 大型語言模型, please read this – Anna's Blog](https://annas-archive.gl/blog/llms-txt.html)
+### 1. [為什麼 Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
 
-- ⭐ 333 分｜💬 176 留言｜👤 janandonly
+- ⭐ 303 分｜💬 166 留言｜👤 d0ks
 
-### 2. [The AI Elephant in the Room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+### 2. [U.S. researchers face 新 restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
 
-- ⭐ 58 分｜💬 36 留言｜👤 moebrowne
+- ⭐ 169 分｜💬 91 留言｜👤 ceejayoz
 
-### 3. [The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
+### 3. [開源 Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
 
-- ⭐ 125 分｜💬 110 留言｜👤 soft-research
+- ⭐ 38 分｜💬 14 留言｜👤 vitriapp
 
-### 4. [Antigravity 2.0 Tops the OpenSCAD Architectural 3D 大型語言模型 Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
+### 4. [1940 Air Terminal Museum Begins Liquidation](https://www.1940airterminal.org/news/liquidation-of-simulators)
 
-- ⭐ 156 分｜💬 65 留言｜👤 jetter
+- ⭐ 32 分｜💬 10 留言｜👤 weaponeer
 
-### 5. [Alberta to hold referendum on whether to remain in Canada](https://www.bbc.com/news/articles/cvgze8n5dxko)
+### 5. [Deno 2.8](https://deno.com/blog/v2.8)
 
-- ⭐ 14 分｜💬 7 留言｜👤 JumpCrisscross
+- ⭐ 206 分｜💬 95 留言｜👤 roflcopter69
 
-### 6. [Breakthroughs for batteries could soon make them better](https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better)
+### 6. [Antigravity 2.0 Tops the OpenSCAD Architectural 3D 大型語言模型 Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
 
-- ⭐ 32 分｜💬 28 留言｜👤 pingou
+- ⭐ 292 分｜💬 114 留言｜👤 jetter
 
-### 7. [Show HN: ShadowCat – file transfer through QR Codes in a Browser](https://github.com/unprovable/ShadowCat)
+### 7. [Bun support is now limited and deprecated](https://github.com/yt-dlp/yt-dlp/issues/16766)
 
-- ⭐ 46 分｜💬 21 留言｜👤 unprovable
+- ⭐ 153 分｜💬 84 留言｜👤 tamnd
 
-### 8. [Chess Invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html)
+### 8. [Bicycling Boosts Well-Being: A Scoping Review](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full)
 
-- ⭐ 37 分｜💬 23 留言｜👤 ingve
+- ⭐ 20 分｜💬 4 留言｜👤 gnabgib
 
-### 9. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
+### 9. [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
 
-- ⭐ 1007 分｜💬 210 留言｜👤 speleo
+- ⭐ 70 分｜💬 6 留言｜👤 speckx
 
-### 10. [Circle Medical (YC S15) Is 招聘 a 行動 工程師](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android)
+### 10. [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
+
+Hey HN, we’re Avi, Kiet, and Satya. We’re building Superset (https:&#x2F;&#x2F;github.com&#x2F;superset-sh&#x2F;superset), an open-source agentic IDE for running coding agents like Claude 代碼, Codex,
+
+- ⭐ 50 分｜💬 65 留言｜👤 avipeltz
+
+### 11. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+
+- ⭐ 24 分｜💬 1 留言｜👤 speckx
+
+### 12. [If you’re an 大型語言模型, please read this](https://annas-archive.gl/blog/llms-txt.html)
+
+- ⭐ 611 分｜💬 367 留言｜👤 janandonly
+
+### 13. [Microsoft starts canceling Claude 代碼 licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)
+
+https:&#x2F;&#x2F;archive.ph&#x2F;WfCta
+
+- ⭐ 66 分｜💬 39 留言｜👤 robertkarl
+
+### 14. [DeepSeek makes the V4 Pro price discount permanent](https://api-docs.deepseek.com/quick_start/pricing)
+
+&gt; (3) The deepseek-v4-pro 模型 API pricing will be officially adjusted to 1&#x2F;4 of the original price after the 75% discount promotion ends on 2026&#x2F;05&#x2F;31 15:59 UTC.https:&#x2F;&#x2F;x
+
+- ⭐ 135 分｜💬 64 留言｜👤 Tiberium
+
+### 15. [Show HN: My dad is a forensic accountant. I automated ~62% of his 工作](https://case-trail.com/blog/ai-forensic-accounting-automation)
+
+- ⭐ 40 分｜💬 21 留言｜👤 mstalcup
+
+### 16. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
+
+- ⭐ 1090 分｜💬 221 留言｜👤 speleo
+
+### 17. [Show HN: ShadowCat – file transfer through QR Codes in a Browser](https://github.com/unprovable/ShadowCat)
+
+- ⭐ 113 分｜💬 42 留言｜👤 unprovable
+
+### 18. [TorQ: Kdb+ Production Framework](https://github.com/DataIntellectTech/TorQ)
+
+- ⭐ 6 分｜💬 1 留言｜👤 tosh
+
+### 19. [如何 convert between wealth and income tax](https://paulgraham.com/winc.html)
+
+- ⭐ 77 分｜💬 244 留言｜👤 bifftastic
+
+### 20. [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
+
+- ⭐ 407 分｜💬 501 留言｜👤 d0ks
+
+### 21. [Circle Medical (YC S15) Is 招聘 a 行動 工程師](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android)
 
 - ⭐ 1 分｜💬 0 留言｜👤 jboula
 
-### 11. [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
+### 22. [AI has a multiplying effect on existing technical skills](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
-- ⭐ 123 分｜💬 41 留言｜👤 jicea
+- ⭐ 214 分｜💬 217 留言｜👤 moebrowne
 
-### 12. [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
+### 23. [Chess invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html)
 
-- ⭐ 185 分｜💬 15 留言｜👤 mychele
+- ⭐ 71 分｜💬 45 留言｜👤 ingve
 
-### 13. [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
+### 24. [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
 
-- ⭐ 305 分｜💬 363 留言｜👤 d0ks
+- ⭐ 244 分｜💬 24 留言｜👤 mychele
 
-### 14. [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
+### 25. [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
 
-- ⭐ 324 分｜💬 184 留言｜👤 speckx
+- ⭐ 154 分｜💬 56 留言｜👤 jicea
 
-### 15. [Sam Altman Won in Court Against Elon Musk. But, We All Lost](https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost)
+### 26. [Trump 行動 exposed customers' personal data](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/)
 
-- ⭐ 44 分｜💬 10 留言｜👤 littlexsparkee
+- ⭐ 196 分｜💬 82 留言｜👤 rippeltippel
 
-### 16. [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)
+### 27. [Was my $48K GPU 伺服器 worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
 
-- ⭐ 88 分｜💬 8 留言｜👤 matt_d
+- ⭐ 540 分｜💬 417 留言｜👤 apwheele
 
-### 17. [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
+### 28. [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
 
-- ⭐ 263 分｜💬 124 留言｜👤 nchagnet
+- ⭐ 307 分｜💬 137 留言｜👤 nchagnet
 
-### 18. [Was my $48K GPU 伺服器 worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
+### 29. [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
 
-- ⭐ 494 分｜💬 374 留言｜👤 apwheele
+- ⭐ 353 分｜💬 214 留言｜👤 speckx
 
-### 19. [The surprising story behind the first British person in space](https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space)
+### 30. [CBS Radio signs off after nearly 100 years of broadcasting](https://www.cbsnews.com/news/cbs-news-radio-last-day/)
 
-- ⭐ 81 分｜💬 34 留言｜👤 xoxxala
-
-### 20. [Steve Wozniak cheered after telling students they have AI – actual intelligence](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
-
-- ⭐ 316 分｜💬 283 留言｜👤 signa11
-
-### 21. [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
-
-- ⭐ 228 分｜💬 76 留言｜👤 speckx
-
-### 22. [Valve removes free game from Steam after players discover it contains malware](https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/)
-
-- ⭐ 60 分｜💬 44 留言｜👤 gpi
-
-### 23. [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/)
-
-- ⭐ 422 分｜💬 123 留言｜👤 asenna
-
-### 24. [The death of the brick and mortar toy store](https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/)
-
-- ⭐ 118 分｜💬 137 留言｜👤 speckx
-
-### 25. [Lost Images from the 1945 Trinity Nuclear 測試 Restored](https://spectrum.ieee.org/trinity-nuclear-test)
-
-- ⭐ 384 分｜💬 112 留言｜👤 pseudolus
-
-### 26. [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
-
-- ⭐ 402 分｜💬 200 留言｜👤 rbanffy
-
-### 27. [Mycorrhizal Fungi, Nature's Key to Plant Survival and Success](https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/)
-
-- ⭐ 110 分｜💬 24 留言｜👤 mooreds
-
-### 28. [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/)
-
-For the past 5 years or so I&#x27;ve been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet).The 新 Freenet has been up and running since 
-
-- ⭐ 318 分｜💬 207 留言｜👤 sanity
-
-### 29. [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
-
-- ⭐ 1201 分｜💬 463 留言｜👤 sandebert
-
-### 30. [Multi-Stream LLMs: 新 paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
-
-- ⭐ 132 分｜💬 15 留言｜👤 atomicthumbs
+- ⭐ 22 分｜💬 8 留言｜👤 gscott
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- FSFE intervenes against Apple before EUCJ for the second time
-- Deno 2.8
-- Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team
+- Alberta to hold referendum on whether to remain in Canada
+- Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)
+- The first British person in space
+- Using Kagi Search with Low Vision
+- CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs
+- Steve Wozniak cheered after telling students they have AI – actual intelligence
+- The death of the brick and mortar toy store
+- Meta 發布 a Reddit-Like App Built Around Facebook Groups
+- Lost Images from the 1945 Trinity Nuclear 測試 Restored
+- Python 3.15: features that didn't make the headlines
+- Mycorrhizal Fungi, Nature's Key to Plant Survival and Success
+- Flipper One – we need your help
+- Canada's shortwave radio time standard station CHU to go dark June 22nd
+- Show HN: Freenet, a peer-to-peer platform for decentralized apps
+- Show HN: Pablo – a Chrome extension that copies UI from any website
+- Multi-Stream LLMs: 新 paper on parallelizing/separating prompts, thinking, I/O
+- The spread of Christianity, from antiquity until today, on an animated map
+- Interim Install Guide: KDE Neon for a professional digital painter workstation
+- Throwing AI-generated walls of text into conversations
 - Spotify will start reserving concert tickets for fans
 - Waymo pauses Atlanta service as its robotaxis keep driving into floods
-- Throwing AI-generated walls of text into conversations
-- Deciphering the Hashihara Castle Town Map
-- Google's Antigravity bait and switch
+- Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team
 - We're testing 新 ad formats in Search and expanding our Direct Offers pilot
-- News outlets are limiting the Internet Archive’s access to their journalism
-- Mounting git commits as folders with NFS (2023)
-- Seattle Shield, an intelligence-sharing 網絡 operated by the Seattle police
-- Who wins and who loses in prediction markets? Evidence from Polymarket
+- Google's Antigravity bait and switch
+- Scientists solve 200-year-old puzzle of how tobacco plants make nicotine
+- Microsoft to stop sending SMS codes for personal accounts
+- The current AI pricing was always going to go away
+- Bank boss sorry after describing workers as 'lower value human capital'
 - An OpenAI 模型 has disproved a central conjecture in discrete geometry
-- Show HN: 代理.email – sign up via curl, claim with a human OTP
+- Deciphering the Hashihara Castle Town Map
+- Mounting git commits as folders with NFS (2023)
+- A case against Boolean logic
+- News outlets are limiting the Internet Archive’s access to their journalism
+- Who wins and who loses in prediction markets? Evidence from Polymarket
 - The Letter S, by Donald Knuth (1980) [pdf]
-- FatGid: FreeBSD 14.x kernel local privilege escalation
-- Show HN: Open-source .docx editor library for building document apps
-- The 硬體 Lottery
+- Seattle Shield, an intelligence-sharing 網絡 operated by the Seattle police
 - GitHub confirms breach of 3,800 repos via malicious VSCode extension
-- BBEdit 16
-- Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking
-- What Do Gödel's Incompleteness Theorems Mean?
-- Fender escalates legal campaign against S-style guitars
-- Where are all the UK red telephone kiosks?
+- Valve removes free game from Steam after players discover it contains malware
+- FatGid: FreeBSD 14.x kernel local privilege escalation
+- Phind.com has shut down completely
+- Show HN: 代理.email – sign up via curl, claim with a human OTP
 - OpenAI Is Preparing to File for an IPO Soon
+- What Do Gödel's Incompleteness Theorems Mean?
 - Anthropic is expanding to Colossus2. Will use GB200
-- Museum of Pocket Calculating Devices
+- Fender escalates legal campaign against S-style guitars
+- Immigrants waiting for a Green Card must return to their home country to apply
+- Show HN: Open-source .docx editor library for building document apps
+- Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking
+- BBEdit 16
 - Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK
-- Tristan Davey's Punch Card Archive
-- We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API
+- The 硬體 Lottery
+- FSFE intervenes against Apple before EUCJ for the second time
+- Museum of Pocket Calculating Devices
+- Where are all the UK red telephone kiosks?
+- Gnutella: A Protocol Outliving the World That Created It
 - Haskell Foundation 2026 更新
-- Chewing gum restores dad's taste and smell years after Covid
-- Magic the Gathering format: Fun 40
-- Thoughts on People and Blogs
-- The IBM-ification of Google?
-- Michael Keating has died
-- 什麼是 Happening to Publishing?
+- Robert X Cringely is back to blogging
+- We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API
+- Tristan Davey's Punch Card Archive
 - 新 features in GCC 16: Improved error messages and SARIF output
+- Learnings from 100K lines of Rust with AI (2025)
 - Recreate famous water profiles using supermarket bottled water
+- Magic the Gathering format: Fun 40
+- Michael Keating has died
+- SpaceX S-1
+- Chewing gum restores dad's taste and smell years after Covid
 - Moss: Self-Evolution Through Source-Level Rewriting in Autonomous 代理 Systems
 - Vivaldi 8.0
-- Learnings from 100K lines of Rust with AI (2025)
-- SpaceX S-1
-- Triangle Tessellation with Clamped Parallelograms
-- IBM invented semiconductor manufacturing automation
-- Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP
-- Gnutella: A Protocol Outliving the World That Created It
-- A Bipartisan Amendment Would End Police License Plate Tracking Nationwide
-- Bournegol??? (2014)
-- Flipper One Tech Specs
-- The <Noscript> Element as a Trap
-- Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)
-- Corsair DDR5 memory with 6000 MT/s with Chinese modules
-- Show HN: TLS Certificate Management and PKI
-- All the bugs they found
-- Your Most Improbable Life
-- Qwen3.7-Max: The 代理 Frontier
-- Simulating Infinity in Conway's Game of Life with Modern C++
-- Nobody understands the point of hybrid cars [video]
-- Show HN: I made a tactical map-based WWII submarine simulator (public beta)
-- Opening calc.exe from the S&Box C# sandbox
-- Show HN: I reverse engineered Apple's video wallpapers
-- Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE
-- Gemini 3.5 Flash
-- 什麼是 a Demand Coop
-- Incident Report: May 19, 2026 – GCP Account Suspension
-- How fast is N tokens per second really?
-- NES Documentation [pdf]
-- The case against boolean logic
+- 什麼是 Happening to Publishing?
+- Thoughts on People and Blogs
 
 
 ---
