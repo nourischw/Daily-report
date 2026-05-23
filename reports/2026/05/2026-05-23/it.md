@@ -6,204 +6,204 @@
 
 ### 1. [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 
-- ⭐ 200 分｜💬 52 留言｜👤 lexandstuff
+- ⭐ 388 分｜💬 133 留言｜👤 lexandstuff
 
-### 2. [Project Glasswing: An Initial 更新](https://www.anthropic.com/research/glasswing-initial-update)
+### 2. [為什麼 Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
 
-- ⭐ 319 分｜💬 197 留言｜👤 louiereederson
+- ⭐ 631 分｜💬 312 留言｜👤 d0ks
 
-### 3. [為什麼 Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+### 3. [The Quadratic Sandwich](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html)
 
-- ⭐ 494 分｜💬 279 留言｜👤 d0ks
+- ⭐ 17 分｜💬 1 留言｜👤 cpp_frog
 
-### 4. [Sleep research led to a 新 sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
+### 4. [Project Glasswing: An Initial 更新](https://www.anthropic.com/research/glasswing-initial-update)
 
-- ⭐ 64 分｜💬 41 留言｜👤 colinprince
+- ⭐ 411 分｜💬 248 留言｜👤 louiereederson
 
-### 5. [Blood Pumping Mechanism of the Hoof](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/)
+### 5. [Experience: We found a baby on the subway – now he's our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son)
 
-- ⭐ 20 分｜💬 0 留言｜👤 thunderbong
+- ⭐ 14 分｜💬 1 留言｜👤 Michelangelo11
 
-### 6. [開源 Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
+### 6. [Blood Pumping Mechanism of the Hoof (2020)](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/)
 
-- ⭐ 171 分｜💬 98 留言｜👤 vitriapp
+- ⭐ 73 分｜💬 12 留言｜👤 thunderbong
 
-### 7. [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft)
+### 7. [Microsoft starts canceling Claude 代碼 licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)
+
+https:&#x2F;&#x2F;archive.ph&#x2F;WfCta
+
+- ⭐ 213 分｜💬 157 留言｜👤 robertkarl
+
+### 8. [Neutron scattering explains 為什麼 gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
+
+- ⭐ 59 分｜💬 17 留言｜👤 layer8
+
+### 9. [Sleep research led to a 新 sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
+
+- ⭐ 144 分｜💬 90 留言｜👤 colinprince
+
+### 10. [什麼是 the history of the ERROR_ARENA_TRASHED error 代碼?](https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339)
+
+- ⭐ 22 分｜💬 5 留言｜👤 supermatou
+
+### 11. [CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+
+- ⭐ 188 分｜💬 49 留言｜👤 speckx
+
+### 12. [Sp.h is the standard library that C deserves](https://spader.zone/sp/)
+
+- ⭐ 90 分｜💬 81 留言｜👤 dboon
+
+### 13. [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft)
 
 https:&#x2F;&#x2F;github.com&#x2F;EVV1E&#x2F;waylandcrafthttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cTkEM7b0IQw
 
-- ⭐ 130 分｜💬 25 留言｜👤 Jotalea
+- ⭐ 199 分｜💬 41 留言｜👤 Jotalea
 
-### 8. [Comparing an LZ4 Decompressor on Four Legacy CPUs](https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/)
+### 14. [Deno 2.8](https://deno.com/blog/v2.8)
 
-- ⭐ 28 分｜💬 0 留言｜👤 tosh
+- ⭐ 348 分｜💬 149 留言｜👤 roflcopter69
 
-### 9. [SpaceX 推出 Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505)
+### 15. [Kindle loyalists scramble as Amazon turns page on old e-readers](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/)
 
-- ⭐ 118 分｜💬 42 留言｜👤 busymom0
+- ⭐ 11 分｜💬 4 留言｜👤 cf100clunk
 
-### 10. [CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+### 16. [Antigravity 2.0 Tops the OpenSCAD Architectural 3D 大型語言模型 Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
 
-- ⭐ 132 分｜💬 38 留言｜👤 speckx
+- ⭐ 379 分｜💬 148 留言｜👤 jetter
 
-### 11. [I’m writing again](https://www.cringely.com/2026/05/21/im-writing-again/)
+### 17. [開源 Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
 
-- ⭐ 97 分｜💬 27 留言｜👤 dan_hawkins
+- ⭐ 213 分｜💬 123 留言｜👤 vitriapp
 
-### 12. [Deno 2.8](https://deno.com/blog/v2.8)
+### 18. [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/)
 
-- ⭐ 307 分｜💬 136 留言｜👤 roflcopter69
+- ⭐ 18 分｜💬 2 留言｜👤 gslin
 
-### 13. [Antigravity 2.0 Tops the OpenSCAD Architectural 3D 大型語言模型 Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
+### 19. [Comparing an LZ4 Decompressor on Four Legacy CPUs](https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/)
 
-- ⭐ 349 分｜💬 138 留言｜👤 jetter
+- ⭐ 58 分｜💬 3 留言｜👤 tosh
 
-### 14. [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
+### 20. [1940 Air Terminal Museum Begins Liquidation](https://www.1940airterminal.org/news/liquidation-of-simulators)
 
-- ⭐ 42 分｜💬 12 留言｜👤 bilalq
+- ⭐ 114 分｜💬 29 留言｜👤 weaponeer
 
-### 15. [1940 Air Terminal Museum Begins Liquidation](https://www.1940airterminal.org/news/liquidation-of-simulators)
+### 21. [Wi-Wi is wireless time sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/)
 
-- ⭐ 89 分｜💬 27 留言｜👤 weaponeer
+- ⭐ 115 分｜💬 26 留言｜👤 Brajeshwar
 
-### 16. [Wi-Wi is wireless time sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/)
+### 22. [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
 
-- ⭐ 85 分｜💬 14 留言｜👤 Brajeshwar
+- ⭐ 142 分｜💬 14 留言｜👤 speckx
 
-### 17. [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
+### 23. [I’m writing again](https://www.cringely.com/2026/05/21/im-writing-again/)
 
-- ⭐ 109 分｜💬 13 留言｜👤 speckx
+- ⭐ 134 分｜💬 36 留言｜👤 dan_hawkins
 
-### 18. [Bun support is now limited and deprecated](https://github.com/yt-dlp/yt-dlp/issues/16766)
+### 24. [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
 
-- ⭐ 374 分｜💬 396 留言｜👤 tamnd
+- ⭐ 130 分｜💬 39 留言｜👤 bilalq
 
-### 19. [Models.dev: open-source 資料庫 of AI 模型 specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
+### 25. [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
 
-- ⭐ 105 分｜💬 14 留言｜👤 maxloh
+- ⭐ 91 分｜💬 5 留言｜👤 hasheddan
 
-### 20. [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
+### 26. ["Stick" – A primitive/fun interactive demo of a tiny rig to animate layout](https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html)
 
-- ⭐ 58 分｜💬 2 留言｜👤 hasheddan
+- ⭐ 35 分｜💬 10 留言｜👤 zhxiaoliang
 
-### 21. [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
+### 27. [Bun support is now limited and deprecated](https://github.com/yt-dlp/yt-dlp/issues/16766)
+
+- ⭐ 462 分｜💬 465 留言｜👤 tamnd
+
+### 28. [If you’re an 大型語言模型, please read this](https://annas-archive.gl/blog/llms-txt.html)
+
+- ⭐ 795 分｜💬 420 留言｜👤 janandonly
+
+### 29. [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
 
 Hey HN, we’re Avi, Kiet, and Satya. We’re building Superset (https:&#x2F;&#x2F;github.com&#x2F;superset-sh&#x2F;superset), an open-source agentic IDE for running coding agents like Claude 代碼, Codex,
 
-- ⭐ 82 分｜💬 109 留言｜👤 avipeltz
+- ⭐ 93 分｜💬 116 留言｜👤 avipeltz
 
-### 22. ["Stick" – A primitive/fun interactive demo of a tiny rig to animate layout](https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html)
+### 30. [Staged publishing and 新 install-time controls for npm](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/)
 
-- ⭐ 5 分｜💬 1 留言｜👤 zhxiaoliang
-
-### 23. [If you’re an 大型語言模型, please read this](https://annas-archive.gl/blog/llms-txt.html)
-
-- ⭐ 730 分｜💬 404 留言｜👤 janandonly
-
-### 24. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
-
-- ⭐ 1141 分｜💬 229 留言｜👤 speleo
-
-### 25. [U.S. researchers face 新 restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
-
-- ⭐ 341 分｜💬 217 留言｜👤 ceejayoz
-
-### 26. [YAML? That's Norway Problem](https://lab174.com/blog/202601-yaml-norway/)
-
-- ⭐ 16 分｜💬 8 留言｜👤 theanonymousone
-
-### 27. [Thinking in an array language (2022)](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
-
-- ⭐ 56 分｜💬 7 留言｜👤 tosh
-
-### 28. [Domain-Camouflaged Injection Attacks Evade Detection in Multi-代理 大型語言模型 Systems](https://arxiv.org/abs/2605.22001)
-
-- ⭐ 34 分｜💬 4 留言｜👤 sbulaev
-
-### 29. [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
-
-- ⭐ 479 分｜💬 575 留言｜👤 d0ks
-
-### 30. [DeepSeek makes the V4 Pro price discount permanent](https://api-docs.deepseek.com/quick_start/pricing)
-
-&gt; (3) The deepseek-v4-pro 模型 API pricing will be officially adjusted to 1&#x2F;4 of the original price after the 75% discount promotion ends on 2026&#x2F;05&#x2F;31 15:59 UTC.https:&#x2F;&#x2F;x
-
-- ⭐ 322 分｜💬 186 留言｜👤 Tiberium
+- ⭐ 43 分｜💬 6 留言｜👤 brianmcnulty
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- GitHub 引進 staged publishing and 新 install-time controls for NPM
-- Waymo expands pause to four cities as robotaxis keep driving into floods
-- I was bored so I turned my dev tools into an alien planet ruled by my dog
-- Circle Medical (YC S15) Is 招聘 a 行動 工程師
-- TikTok disproportionately served anti-Democratic videos during the 2024 election
-- TorQ: Kdb+ Production Framework
+- U.S. researchers face 新 restrictions on publishing with foreign collaborators
+- Models.dev: open-source 資料庫 of AI 模型 specs, pricing, and capabilities
 - Cleve Moler has died
-- Show HN: ShadowCat – file transfer through QR Codes in a Browser
+- DeepSeek makes the V4 Pro price discount permanent
+- The 最佳 Windows is Linux
+- Thinking in an array language (2022)
+- NVIDIA Removes Gaming Revenue Category from Financial Reports
 - Slumber a TUI HTTP Client
-- Was my $48K GPU 伺服器 worth it?
-- 為什麼 We've Filed a Referendum
+- Circle Medical (YC S15) Is 招聘 a 行動 工程師
+- Show HN: ShadowCat – file transfer through QR Codes in a Browser
+- TikTok disproportionately served anti-Democratic videos during the 2024 election
+- Waymo expands pause to four cities as robotaxis keep driving into floods
+- TorQ: Kdb+ Production Framework
 - Chess invariants
-- Uv is fantastic, but its package management UX is a mess
-- 如何 convert between wealth and income tax
-- Tobacco plant can produce five psychedelics, including psilocybin and DMT
-- Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
-- AI has a multiplying effect on existing technical skills
-- Don't just paste the AI at me
-- Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)
-- AI keeps inventing fake cases. Lawyers keep citing them
+- SpaceX 推出 Starship v3 rocket
 - Using Kagi Search with Low Vision
-- Malicious Postinstall Hook Found in 700 GitHub Repos, Including Node Projects
+- Project Hail Mary – Stellar Navigation Chart
+- 如何 convert between wealth and income tax
+- Ontology vs. Semantic Layer
+- AI has a multiplying effect on existing technical skills
+- Parsing IPv6 Addresses Crazily Fast with AVX-512
+- 為什麼 We've Filed a Referendum
 - The death of the brick and mortar toy store
-- Flipper One – we need your help
-- The first British person in space
+- The Making of Indian Statistics
 - Mycorrhizal Fungi, Nature's Key to Plant Survival and Success
-- CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs
-- Show HN: Freenet, a peer-to-peer platform for decentralized apps
+- Domain-Camouflaged Injection Attacks Evade Detection in Multi-代理 大型語言模型 Systems
+- The memory shortage is causing a repricing of consumer electronics
+- The first British person in space
+- Tobacco plant can produce five psychedelics, including psilocybin and DMT
 - Throwing AI-generated walls of text into conversations
-- Steve Wozniak cheered after telling students they have AI – actual intelligence
+- Microsoft Agrees to $250M Settlement with Activision Blizzard Shareholders
+- CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs
 - Multi-Stream LLMs: 新 paper on parallelizing/separating prompts, thinking, I/O
-- Students Create a Self-Balancing, Self-Driving Bicycle
+- Show HN: Freenet, a peer-to-peer platform for decentralized apps
+- An OpenAI 模型 has disproved a central conjecture in discrete geometry
+- We're testing 新 ad formats in Search and expanding our Direct Offers pilot
+- AI keeps inventing fake cases. Lawyers keep citing them
 - Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team
 - Spotify will start reserving concert tickets for fans
-- Netherlands seizes 800 servers of hosting firm enabling cyberattacks
-- Trump 行動 exposed customers' personal data
-- CBS Radio signs off after nearly 100 years of broadcasting
 - Waymo pauses Atlanta service as its robotaxis keep driving into floods
-- We're testing 新 ad formats in Search and expanding our Direct Offers pilot
-- An OpenAI 模型 has disproved a central conjecture in discrete geometry
 - Google's Antigravity bait and switch
-- Microsoft starts canceling Claude 代碼 licenses
+- Steve Wozniak cheered after telling students they have AI – actual intelligence
 - The Letter S, by Donald Knuth (1980) [pdf]
-- Alberta to hold referendum on whether to remain in Canada
 - GitHub confirms breach of 3,800 repos via malicious VSCode extension
-- News outlets are limiting the Internet Archive’s access to their journalism
-- Who wins and who loses in prediction markets? Evidence from Polymarket
-- Mounting git commits as folders with NFS (2023)
+- Was my $48K GPU 伺服器 worth it?
 - OpenAI Is Preparing to File for an IPO Soon
-- Show HN: Pablo – a Chrome extension that copies UI from any website
-- FatGid: FreeBSD 14.x kernel local privilege escalation
+- Who wins and who loses in prediction markets? Evidence from Polymarket
+- ReconForge – Open-Source 安全 Reconnaissance Toolkit
+- News outlets are limiting the Internet Archive’s access to their journalism
 - Anthropic is expanding to Colossus2. Will use GB200
-- Deciphering the Hashihara Castle Town Map
-- Seattle Shield, an intelligence-sharing 網絡 operated by the Seattle police
+- Crypto industry braces for quantum computing threat
+- Uv is fantastic, but its package management UX is a mess
+- Mounting git commits as folders with NFS (2023)
+- Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
+- Cannes Film Cost $500k to Make. $400k Was AI Compute Costs
+- FatGid: FreeBSD 14.x kernel local privilege escalation
+- Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)
 - What Do Gödel's Incompleteness Theorems Mean?
+- Trump 行動 exposed customers' personal data
+- Seattle Shield, an intelligence-sharing 網絡 operated by the Seattle police
 - Fender escalates legal campaign against S-style guitars
-- NTSB pulls docket after AI recreates dead pilots' voices
+- Deciphering the Hashihara Castle Town Map
 - Show HN: 代理.email – sign up via curl, claim with a human OTP
-- Who's to Blame When an Ivy League President Drives into His Students?
-- Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs
-- Python 3.15: features that didn't make the headlines
+- Show HN: Pablo – a Chrome extension that copies UI from any website
+- CBS Radio signs off after nearly 100 years of broadcasting
 - Lost Images from the 1945 Trinity Nuclear 測試 Restored
-- Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK
-- Capital and the Debt Trap
-- Show HN: Open-source .docx editor library for building document apps
-- Haskell Foundation 2026 更新
-- BBEdit 16
 - Learnings from 100K lines of Rust with AI (2025)
-- Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking
-- A case against Boolean logic
+- Python 3.15: features that didn't make the headlines
+- Alberta to hold referendum on whether to remain in Canada
+- Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK
 
 
 ---
