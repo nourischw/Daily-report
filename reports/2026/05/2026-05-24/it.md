@@ -8,208 +8,202 @@
 
 https:&#x2F;&#x2F;opensource.Microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...
 
-- ⭐ 42 分｜💬 5 留言｜👤 DamnInteresting
+- ⭐ 213 分｜💬 50 留言｜👤 DamnInteresting
 
-### 2. [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
+### 2. [為什麼 is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
 
-- ⭐ 57 分｜💬 6 留言｜👤 MaximilianEmel
+- ⭐ 108 分｜💬 26 留言｜👤 zdw
 
 ### 3. [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
 
-- ⭐ 25 分｜💬 5 留言｜👤 spike021
+- ⭐ 128 分｜💬 43 留言｜👤 spike021
 
-### 4. [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
+### 4. [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
 
-- ⭐ 299 分｜💬 168 留言｜👤 hggh
+- ⭐ 192 分｜💬 12 留言｜👤 MaximilianEmel
 
-### 5. [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
+### 5. [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
 
-- ⭐ 5 分｜💬 0 留言｜👤 moonleay
+- ⭐ 48 分｜💬 8 留言｜👤 anujbans
 
-### 6. [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
+### 6. [Converting an Integer to a Decimal String in Under Two Nanoseconds](https://onlinelibrary.wiley.com/doi/10.1002/spe.70079)
 
-- ⭐ 33 分｜💬 7 留言｜👤 nosolace
+- ⭐ 16 分｜💬 4 留言｜👤 mpweiher
 
-### 7. [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/)
+### 7. [The C64 Dead 測試 Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
 
-- ⭐ 227 分｜💬 129 留言｜👤 James72689
+- ⭐ 31 分｜💬 3 留言｜👤 masswerk
 
-### 8. [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/)
-
-- ⭐ 53 分｜💬 17 留言｜👤 hyperific
-
-### 9. [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/)
-
-- ⭐ 353 分｜💬 107 留言｜👤 ravenical
-
-### 10. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
+### 8. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
 
 https:&#x2F;&#x2F;www.uscis.gov&#x2F;newsroom&#x2F;news-releases&#x2F;us-citizenship-...https:&#x2F;&#x2F;www.uscis.gov&#x2F;sites&#x2F;default&#x2F;files&#x2F;document&#x2F;memos&#x2F;PM-... [pdf]htt
 
-- ⭐ 599 分｜💬 1033 留言｜👤 tlhunter
+- ⭐ 840 分｜💬 1422 留言｜👤 tlhunter
 
-### 11. [Byrne's Euclid](https://www.c82.net/euclid/)
+### 9. [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 
-- ⭐ 19 分｜💬 5 留言｜👤 layer8
+- ⭐ 364 分｜💬 210 留言｜👤 hggh
 
-### 12. [Judson's Last Ride](https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html)
+### 10. [Amazon 網頁 Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
 
-- ⭐ 40 分｜💬 1 留言｜👤 NaOH
+- ⭐ 183 分｜💬 48 留言｜👤 RyeCombinator
 
-### 13. [Show HN: Anyone interested in a tool helps to explore C++ ASTs](https://uvic-aurora.github.io/acav-manual/index.html)
+### 11. [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/)
 
-I built this 軟體 to help users who need to do static 代碼 analysis for C&#x2F;C++ codebase. This can help you to explore the ASTs interactively. It can replace the Clang ast dump completely and a
+- ⭐ 387 分｜💬 110 留言｜👤 ravenical
 
-- ⭐ 18 分｜💬 2 留言｜👤 leomicv
+### 12. [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)
 
-### 14. [新 map reveals lost roads of the Roman Empire](https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/)
+- ⭐ 19 分｜💬 10 留言｜👤 alexjurkiewicz
+
+### 13. [Neoclassical C++: segmented iterators revisited](https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/)
+
+- ⭐ 24 分｜💬 1 留言｜👤 ibobev
+
+### 14. [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/)
+
+- ⭐ 274 分｜💬 158 留言｜👤 James72689
+
+### 15. [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/)
+
+- ⭐ 86 分｜💬 29 留言｜👤 hyperific
+
+### 16. [Judson's Last Ride](https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html)
+
+- ⭐ 94 分｜💬 4 留言｜👤 NaOH
+
+### 17. [The Art of Money Getting](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/)
+
+- ⭐ 274 分｜💬 149 留言｜👤 dxs
+
+### 18. [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
+
+- ⭐ 61 分｜💬 15 留言｜👤 nosolace
+
+### 19. [Key, in sight [Creative uses of keyboard shortcuts and macros]](https://aresluna.org/key-in-sight/)
+
+- ⭐ 3 分｜💬 1 留言｜👤 anotherevan
+
+### 20. [Schlitz Is Gone, but First It's Getting One Last Hurrah](https://www.milwaukeemag.com/schlitz-is-gone/)
+
+- ⭐ 28 分｜💬 12 留言｜👤 NaOH
+
+### 21. [Buildcraft Is a Compiler Problem](https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/)
+
+- ⭐ 16 分｜💬 4 留言｜👤 mitander
+
+### 22. [Hengefinder: Finding when the sun aligns with your street](https://victoriaritvo.com/blog/hengefinder/)
+
+- ⭐ 138 分｜💬 34 留言｜👤 evakhoury
+
+### 23. [Air France and Airbus found guilty of manslaughter over 2009 plane crash](https://www.bbc.com/news/articles/czd2qmdvmq6o)
+
+- ⭐ 77 分｜💬 47 留言｜👤 baal80spam
+
+### 24. [80386 microcode disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
+
+- ⭐ 247 分｜💬 47 留言｜👤 nand2mario
+
+### 25. [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+
+- ⭐ 102 分｜💬 21 留言｜👤 elpocko
+
+### 26. [Byrne's Euclid](https://www.c82.net/euclid/)
+
+- ⭐ 43 分｜💬 12 留言｜👤 layer8
+
+### 27. [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)
+
+- ⭐ 189 分｜💬 179 留言｜👤 ingve
+
+### 28. [新 map reveals lost roads of the Roman Empire](https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/)
 
 https:&#x2F;&#x2F;itiner-e.org&#x2F;https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41597-025-06140-z
 
-- ⭐ 47 分｜💬 6 留言｜👤 sohkamyung
+- ⭐ 74 分｜💬 8 留言｜👤 sohkamyung
 
-### 15. [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)
+### 29. [Kindle loyalists scramble as Amazon turns page on old e-readers](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/)
 
-- ⭐ 144 分｜💬 125 留言｜👤 ingve
+- ⭐ 159 分｜💬 178 留言｜👤 cf100clunk
 
-### 16. [SpaceX 推出 Starship v3 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight)
+### 30. [-​-dangerously-skip-reading-代碼](https://olano.dev/blog/dangerously-skip/)
 
-https:&#x2F;&#x2F;www.nbcnews.com&#x2F;now&#x2F;video&#x2F;spacex-successfully-launch... [video]
-
-- ⭐ 366 分｜💬 236 留言｜👤 busymom0
-
-### 17. [Hengefinder: Finding when the sun aligns with your street](https://victoriaritvo.com/blog/hengefinder/)
-
-- ⭐ 113 分｜💬 26 留言｜👤 evakhoury
-
-### 18. [Show HN: Twixt – transform one word into another in four moves](https://twixt.games/)
-
-I made this game while working on a different project about teaching English spelling. I was reading about homophones and got struck by how much a homophone can transform the shape of a word, so I sta
-
-- ⭐ 3 分｜💬 2 留言｜👤 unseen_forms
-
-### 19. [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
-
-- ⭐ 83 分｜💬 17 留言｜👤 elpocko
-
-### 20. [80386 microcode disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
-
-- ⭐ 222 分｜💬 46 留言｜👤 nand2mario
-
-### 21. [The Art of Money Getting](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/)
-
-- ⭐ 201 分｜💬 132 留言｜👤 dxs
-
-### 22. [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities)
-
-- ⭐ 97 分｜💬 126 留言｜👤 thejoeflow
-
-### 23. [ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning)
-
-- ⭐ 83 分｜💬 19 留言｜👤 cdrnsf
-
-### 24. [Making deep learning go brrrr from first principles (2022)](https://horace.io/brrr_intro.html)
-
-- ⭐ 154 分｜💬 59 留言｜👤 tosh
-
-### 25. [When does learning from data work (math starting from basic probability)](https://prateekchandrajha.github.io/vc-rademacher.html)
-
-- ⭐ 6 分｜💬 0 留言｜👤 alok-g
-
-### 26. [Kindle loyalists scramble as Amazon turns page on old e-readers](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/)
-
-- ⭐ 121 分｜💬 138 留言｜👤 cf100clunk
-
-### 27. [Score by Collisions, Patch by Panic](https://blog.himanshuanand.com/2026/05/score-by-collisions-patch-by-panic/)
-
-- ⭐ 4 分｜💬 0 留言｜👤 unknownhad
-
-### 28. [Toxic chemical leak at a manufacturing facility in Orange County](https://www.bbc.com/news/articles/c3w2l249j8go)
-
-- ⭐ 116 分｜💬 82 留言｜👤 borski
-
-### 29. [-​-dangerously-skip-reading-代碼](https://olano.dev/blog/dangerously-skip/)
-
-- ⭐ 100 分｜💬 115 留言｜👤 fagnerbrack
-
-### 30. [sp.h: Fixing C by giving it a high quality, ultra portable standard library](https://spader.zone/sp/)
-
-- ⭐ 194 分｜💬 174 留言｜👤 dboon
+- ⭐ 138 分｜💬 135 留言｜👤 fagnerbrack
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- NeuralNote
-- Don't Roll Your Own
-- Italy moves to Airbus A330 tankers
+- Show HN: Anyone interested in a tool helps to explore C++ ASTs
+- Limerick
+- PHP's Oddities
+- Making deep learning go brrrr from first principles (2022)
 - Spanish court declines to fine NordVPN over LaLiga piracy blocking order
-- Texas woman arrested for Facebook post about town water quality
-- Air France and Airbus found guilty of manslaughter over 2009 plane crash
-- The 安全 of Ephemeral Pages
+- Revised^7 Report on Scheme, Large: Procedural Fascicle Draft is now public
+- SpaceX 推出 Starship v3 rocket
+- ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies
+- NeuralNote
 - Improving C# Memory Safety
+- Italy moves to Airbus A330 tankers
 - Highest Random Weight in Elixir
-- Oura says it gets government demands for user data
-- Lisp in Vim (2019)
-- A self-powered computer in actual credit-card size (~1mm thick)
-- Solving the “Zork” Mystery
-- Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite
-- Justice Department scrubs its website of news releases about Jan. 6 defendants
+- Show HN: Twixt – transform one word into another in four moves
+- Local LLMs perform better when you teach them to ask before they answer
+- API proposed by Chrome: Declarative partial updates
 - The quadratic sandwich
-- A scoping review of bicycling interventions’ impacts on well-being
+- Texas woman arrested for Facebook post about town water quality
 - Project Glasswing: An Initial 更新
+- A scoping review of bicycling interventions’ impacts on well-being
+- Oura says it gets government demands for user data
+- Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite
+- Expanding the human proteome with microproteins and peptideins – Nature
+- Solving the “Zork” Mystery
+- Lisp in Vim (2019)
 - A 1955 Los Alamos computer experiment changed our understanding of chaos
-- Evaluating Spec CPU2026
-- The FBI Wants 'Near Real-Time' Access to US License Plate Readers
+- Earliest Uses of Various Mathematical Symbols
 - 為什麼 Japanese companies do so many different things
+- When does learning from data work (math starting from basic probability)
 - ArcBrush – Node-based 2D image editor
-- Aube – Node.js package 經理 in Rust
-- z386: An Open-Source 80386 Built Around Original Microcode
 - Shipping a laptop to a refugee camp in Uganda
-- Fast Factorial Algorithms
-- We made our filesystem 47× faster by deleting it
-- Rubish: A Unix shell written in pure Ruby
-- Reflections on Building Forum 軟體
-- Data Centers Now Consume 6% of US Electricity–and the Backlash Has Begun
-- Microsoft starts canceling Claude 代碼 licenses
-- Meta Sam 3: Segment Anything with Text, Clicks and Concepts
+- sp.h: Fixing C by giving it a high quality, ultra portable standard library
+- Don't Roll Your Own
+- The FBI Wants 'Near Real-Time' Access to US License Plate Readers
+- Evaluating Spec CPU2026
 - You can no longer Google the word 'disregard'
-- Yeunjoo Choi from Igalia on Chromium
+- The 安全 of Ephemeral Pages
+- Microsoft starts canceling Claude 代碼 licenses
+- Fast Factorial Algorithms
+- Show HN: Play nbsdgames to increase your brain (exclamation mark)
+- Aube – Node.js package 經理 in Rust
+- Toxic chemical leak at a manufacturing facility in Orange County
+- z386: An Open-Source 80386 Built Around Original Microcode
+- Rubish: A Unix shell written in pure Ruby
 - Neutron scattering explains 為什麼 gluten-free pasta falls apart (2025)
-- Jimmy Carr on 為什麼 Everyone Is Wrong About AI [video]
 - Iowa to mandate students take Intellectual Freedom classes amid low enrollment
-- Circle Medical (YC S15) Is 招聘 a 行動 工程師
-- 1940 Air Terminal Museum Begins Liquidation
-- Anthropic blames dystopian sci-fi for 訓練 AI models to act "evil"
+- A self-powered computer in actual credit-card size (~1mm thick)
+- We made our filesystem 47× faster by deleting it
 - Launch HN: Superset (YC P26) – IDE for the agents era
+- 1940 Air Terminal Museum Begins Liquidation
+- Data Centers Now Consume 6% of US Electricity–and the Backlash Has Begun
 - A blueprint for formal verification of Apple corecrypto
-- The AWS Service Quotas That Will Take Down Your Production at 3 Am
 - Bun support is now limited and deprecated
-- US tech firms share Dutch regulator officials' names with Senate
-- The Forgotten Art of the LAN Party (2023)
-- Alberta will vote on whether to remain part of Canada. What now?
-- An automated A.I. WWE news channel on YouTube tries to pronounce "WWE"
-- E-Hiking Is Here. You Can Tell by My 1k-Watt Hips. Hypershell's X Ultra S
-- Slumber a TUI HTTP Client
-- Inside an N64 Cartridge: How the 硬體 Actually Works [video]
-- Claude 代碼 MIT Dashboard
-- Garden Grove chemical threat: 40000 evacuated as overheated tank faces explosion
-- Deno 2.8
-- CISA tries to contain data leak
-- 什麼是 the history of the ERROR_ARENA_TRASHED error 代碼?
+- The day my ping took countermeasures
+- Circle Medical (YC S15) Is 招聘 a 行動 工程師
 - Project Hail Mary – Stellar Navigation Chart
-- Staged publishing and 新 install-time controls for npm
-- Jeremy Scott gets cheer after ripping up AI-written commencement speech
-- 新 Attack "Megaladon" Compromises 5.5K+ GitHub Repos
-- Awesome Neuroscience
+- Slumber a TUI HTTP Client
+- Ask HN: Did Messages get removed from Google Takeout?
+- Deno 2.8
+- Reflections on Building Forum 軟體
+- US tech firms share Dutch regulator officials' names with Senate
+- CISA tries to contain data leak
 - Using Kagi Search with Low Vision
-- Show HN: ShadowCat – file transfer through QR Codes in a Browser
-- Experience: We found a baby on the subway – now he's our 26-year-old son
-- Antigravity 2.0 Tops the OpenSCAD Architectural 3D 大型語言模型 Benchmark
-- Ordinary WiFi can now identify people with near perfect accuracy
+- Yeunjoo Choi from Igalia on Chromium
 - An OpenAI 模型 has disproved a central conjecture in discrete geometry
-- The death of the brick and mortar toy store
-- Blood Pumping Mechanism of the Hoof (2020)
+- 什麼是 the history of the ERROR_ARENA_TRASHED error 代碼?
+- Show HN: ShadowCat – file transfer through QR Codes in a Browser
+- Staged publishing and 新 install-time controls for npm
+- Clickup Reduced Headcount by 22%
+- Collabora and Flipper: Opening Up the RK3576
+- Antigravity 2.0 Tops the OpenSCAD Architectural 3D 大型語言模型 Benchmark
 
 
 ---
