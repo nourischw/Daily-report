@@ -4,189 +4,196 @@
 
 ---
 
-### 1. [Meta推出獨立的臉書社團程式Forum](https://www.ithome.com.tw/news/176075)
+### 1. [從IT驅動到AI驅動，南山人壽以Hybrid Workspace重塑數位辦公新常態](https://www.ithome.com.tw/news/176105)
+
+當數位轉型進入深水區，企業競爭力已不再只是導入多少新技術，而是能否真正改變員工的工作方式、知識流動與決策效率。對許多企業而言，辦公室依舊是一個固定場域；但對南山人壽來說，「辦公室」正演變為融合實體空間、數位平臺與人工智慧的工作生態系。
+南山人壽此次展示的「Hybrid Workspace（混合式工作空間）」策略，不只是內部數位化專案，而是橫跨工作環境、組織文化、流程治理與AI應用的全面重構。從員工走進辦公區域開始，到行動辦公、主管簽核，再到AI輔助知識查詢與專業判斷，數位能力正逐步融入日常工作的每一個環節。
+
+- 📰 **iThome 科技**
+
+### 2. [PHP開發框架Laravel的語言套件遭挾持，駭客植入竊資軟體](https://www.ithome.com.tw/news/176082)
+
+5月22日資安公司Aikido發現，PHP開發框架Laravel的第三方語言套件專案Laravel Lang，其GitHub儲存庫遭到入侵，攻擊者針對三個套件，分別是laravel-lang/lang、laravel-lang/attributes、laravel-lang/http-statuses，發布指向帶有惡意程式碼版本的標籤，並在這些程式碼注入可竊取憑證的程式碼，並藉由composer元件的自動載入功能執行。
+
+- 📰 **iThome 科技**
+
+### 3. [CIS發布Benchmark安全設定基準更新，涵蓋PostgreSQL、Kubernetes與SQL 伺服器](https://www.ithome.com.tw/news/176104)
+
+非營利的資安組織網際網路安全中心（Center for Internet 安全，CIS），近日發布CIS Benchmarks更新，新增多項針對雲端、容器與作業系統環境的安全設定基準，涵蓋PostgreSQL、Kubernetes、SQL 伺服器、AWS、微軟Office 365等平臺，協助企業進行系統安全強化（Hardening），降低設定錯誤的風險。
+
+- 📰 **iThome 科技**
+
+### 4. [關係圖譜技術讓南山人壽的保單聯絡資訊比對，從數小時壓縮至一分鐘內](https://www.ithome.com.tw/news/176102)
+
+在金融監理機關的規範要求下，保險公司對於保單聯絡資訊的集中比對一直是風險管控的重要環節；然而，傳統的資料比對方式依賴大量資料表格的逐一掃描，效率低落且耗時費力。
+南山人壽於本次數位創新發表會中揭示了「防弊哨兵」專案，以關係圖譜技術為核心，將原本需要數小時才能完成的聯絡資訊比對作業，大幅壓縮至一分鐘以內，同時透過視覺化介面讓異常模式一目了然。
+監理規範背景與資料比對的傳統困境
+南山人壽說明，在金融保險業的監理框架中，保戶聯絡資訊的高度集中──例如多張保單共用同一地址，或保戶與業務員、理財專員登記相同聯絡資訊──這些都可能是潛在舞弊行為的訊號。
+
+- 📰 **iThome 科技**
+
+### 5. [南山人壽打造「業務員智能對練」系統，AI扮演客戶讓銷售訓練隨時發生](https://www.ithome.com.tw/news/176100)
+
+保險業的業務訓練向來高度仰賴人際傳承，資深業務員的經驗難以被系統化複製，新進人員的養成也因此受到時間、地點與主管個人風格的多重限制。
+南山人壽在日前的數位創新成果發表會中，��出自主研發的「業務員智能對練」系統，以AI技術打破這道訓練瓶頸，讓每一位業務員都能在任何時間、以任何頻率，與高擬真度的AI虛擬客戶反覆演練銷售情境。
+
+- 📰 **iThome 科技**
+
+### 6. [南山人壽攜手臺北醫學大學，推出「腦力陪跑員」數位認知評估工具](https://www.ithome.com.tw/news/176098)
+
+在超高齡社會浪潮席捲臺灣之際，南山人壽於最新一場數位創新成果發表會中，正式揭示旗下由數位生態中心研發的「腦力陪跑員」平臺。這項兼具科技深度與人文溫度的創新工具，以早期認知提醒為核心，透過遊戲化問卷與AI判讀，協助大眾在問題惡化之前，提早察覺自身認知狀態的變化。
+總經理親自站臺，以保險人視角點出工具的真實意義
+由於失智人口逐漸增加，已成為社會必須關注的焦點，南山人壽總經理范文偉表示，該公司與臺北醫學大學合作推出「腦力陪跑員」的專案，就是透過AI生成的方式，評估使用者在認知功能上的狀態。
+
+- 📰 **iThome 科技**
+
+### 7. [【資安日報】5月25日，GitHub內部儲存庫的程式碼外流，確認遭供應鏈攻擊事故波及](https://www.ithome.com.tw/news/176094)
+
+駭客團體TeamPCP兜售GitHub近4千個儲存庫資料，底價為5萬美元
+駭客團體TeamPCP近日聲稱竊得GitHub近4千個內部儲存庫的程式碼，資安新聞網站Bleeping Computer報導指出，該駭客組織以5萬美元底價公開競標，並聲稱只會有一位買家得標，一旦買賣成立，他們就會提供資料並銷毀手上的備份。若無買家出價競標，將直接公布這批檔案。對此，GitHub表示他們著手調查此事，後續公布結果指出，起因是有員工不慎安裝惡意延伸套件，導致這些內部儲存庫遭入侵。
+
+- 📰 **iThome 科技**
+
+### 8. [VS 代碼 1.121內建Mermaid圖表與本機HTML預覽，強化AI代理終端機行為](https://www.ithome.com.tw/news/176063)
+
+微軟發布VS 代碼 1.121，這次更新加入Mermaid圖表預覽與本機HTML檔案預覽，���改善AI代理使用終端機時的顯示、資源清理與安全處理方式。新版也繼續強化Agents Window預覽版，加入遠端代理功能，讓使用者可透過SSH或開發通道（Dev Tunnels）連到自己可存取的遠端機器，監看與控制AI代理工作階段。
+
+- 📰 **iThome 科技**
+
+### 9. [【AI Coding實戰】AI開始寫程式後，工程師下一步是什麼？LINE臺灣：不只寫規格，更要懂得帶AI做事](https://www.ithome.com.tw/news/175833)
+
+一開始，LINE臺灣工程師們並非用AI來開發正式產品，而先來解決一些上班時的小麻煩。
+比如，有人寫了一個小工具，請AI幫忙操作公司販賣機；也有人用AI自動搜尋會議室空檔、幫忙搶會議室；還有人把一些重複性的內部流程，自動化成小程式，省去每天手動處理的麻煩。
+這些原本只是工程師之間的自發性小專案，卻讓LINE臺灣企業解決方案事業部技術總監林建辰慢慢發現一件事：團隊裡幾乎每個人，都開始用AI解決工作問題。他笑說：「既然大家都在用，不如我們就找一些公司裡的小型專案來試試，看有沒有辦法用AI幫我們做出產品。」
+
+- 📰 **iThome 科技**
+
+### 10. [法國監管機構調查：資料中心耗電3年暴增38%，大型AI資料中心成能源與碳排新壓力](https://www.ithome.com.tw/news/176092)
+
+法國電子通訊與郵政監管局（Arcep）近日公布第五版數位永續調查報告，持續追蹤法國ICT產業的能源消耗與環境影響。該報告指出，儘管資料中心設備能效持續改善，但整體能源需求仍快速成長，過去3年間資料中心用電量累計增加38%。
+報告指出，2024年新增啟用的資料中心數量雖然有限，但整體運算能力仍持續大幅提升，反映新建設施規模不斷擴大。若以電力容量觀察，2023年啟用的新資料中心平均容量已達9MW，遠高於既有資料中心平均3MW的規模，而2024年新投入營運的資料中心平均容量更進一步提高至20MW。
+
+- 📰 **iThome 科技**
+
+### 11. [Ubiquiti修補UniFi OS平臺三項滿分重大漏洞，未更新可能���致執行任意指令與洩露敏感資訊](https://www.ithome.com.tw/news/176091)
+
+主打中小企業與個人專業用戶的網通設備商Ubiquiti，近日發布資安公告，修補旗下UniFi OS管理平臺的重大漏洞，包含3項CVSS嚴重性評分10.0滿分的漏洞，可能導致攻擊者執行任意指令、存取系統底層敏感資訊等問題。
+
+- 📰 **iThome 科技**
+
+### 12. [CIS推出支援AI與HPC的強化映像檔，協助企業在AWS部署安全雲端環境](https://www.ithome.com.tw/news/176089)
+
+企業導入AI工作負載時，對於所採用的雲端基礎架構，不僅須注意是否能充分支援GPU執行個體與分散式運算，也要關切是否能銜接模型訓練、推論與生產環境部署流程，同時維持一致的安全組態。
+非營利資安組織網際網路安全中心（CIS）指出，許多組織準備的AI執行環境所採用的組態標準不一，甚至等系統部署後才回頭補強安全措施，不僅增加風險，也讓安全與營運團隊更難維持一致的防護狀態。
+
+- 📰 **iThome 科技**
+
+### 13. [Underminr濫用共享CDN架構，讓惡意連線偽裝成可信網域流量](https://www.ithome.com.tw/news/176088)
+
+資安業者ADAMnetworks上周揭露了一個藏匿在內容傳遞網路（Content Delivery 網絡，CDN）基礎架構中的安全漏洞Underminr，宣稱駭客可利用該漏洞繞過安全偵測，估計影響全球約8,800萬個網域。
+
+- 📰 **iThome 科技**
+
+### 14. [Gemini 3.5刪除近3萬行程式碼，修改設定，導致用戶系統斷線半小時](https://www.ithome.com.tw/news/176087)
+
+Google上周發表最新版AI模型系列Gemini 3.5，主打開發代理人。不過開發人員卻自曝慘遭Gemini 3.5刪除將近3萬行程式碼、新增錯誤配置及擅自修改設定，導致營運系統斷線超過半小時。而且Gemini還虛構復原網站的記錄。
+
+- 📰 **iThome 科技**
+
+### 15. [macOS版Gemini App全球上線，即將增加Gemini Spark、AI語音聽寫](https://www.ithome.com.tw/news/176086)
+
+Google繼4月發表macOS版Gemini App後，上周五公佈將在今年夏天將最新AI功能包括Gemini Spark及更強的語音辨識功能部署給macOS用戶。
+
+- 📰 **iThome 科技**
+
+### 16. [Splunk修補多項高風險漏洞，未更新可能導致資料外洩與拒絕服務攻擊](https://www.ithome.com.tw/news/176084)
+
+資安與日誌分析平臺業者Splunk近日發布一系列公告， 修補3項自家平臺與應用套件的安全漏洞，以及多項涉及第三方元件的應用套件漏洞。
+
+- 📰 **iThome 科技**
+
+### 17. [秘魯國家級緊急預警系統遭駭，破口是供應商帳號遭入侵](https://www.ithome.com.tw/news/176081)
+
+國家級緊急預警系統是政府傳遞警報的工具，若被不肖分子駭入並用於散布社會恐慌，將帶來動盪。近日秘魯的「��急早期預警訊息系統」（SISMATE）便發生嚴重資安事故，因供應商帳號遭未經授權存取，導致大量民眾收到虛假預警，引發國際對關鍵CI供應鏈安全的高度關注。
+秘魯交通與通訊部（MTC）於5月20日晚間發布聲明，指出當日晚間7時至8時之間，有攻擊者透過系統供應商Consorcio Everbridge的帳號非法存取SISMATE系統，發送虛假地震、海嘯警報，並夾帶與緊急應變無關的內容。
+
+- 📰 **iThome 科技**
+
+### 18. [舊款SonicWall SSL-VPN設備多因素驗證漏洞未補全，被駭客破解植入後門](https://www.ithome.com.tw/news/176079)
+
+資安業者發現知名防火牆業者SonicWall數年前產品多因素驗證（multi-factor authentication，MFA）漏洞，在舊款機種發生修補不完整情形，而讓駭客得以在SonicWall SSL-VPN裝置上植入後門及勒索軟體工具。
+
+- 📰 **iThome 科技**
+
+### 19. [美加聯手逮捕KimWolf殭屍網路23歲管理者](https://www.ithome.com.tw/news/176078)
+
+美國司法部上周宣布，加拿大警方已於5月20日在渥太華逮捕涉嫌管理KimWolf殭屍網路的23歲男子Jacob Butler。Butler已遭美方刑事指控，被控協助及教唆他人入侵電腦。
+
+- 📰 **iThome 科技**
+
+### 20. [Anthropic公布Project Glasswing實施一個月成果，Claude Mythos已找出超過三萬個資安漏洞](https://www.ithome.com.tw/news/176076)
+
+Anthropic在4月7日發表先進AI模型Claude Mythos Preview，並標榜該模型已自主從作業系統、瀏覽器及開源軟體當中，找出數千個零時差漏洞。對此，該公司決定啟動全球資安防禦計畫Project Glasswing，提供近50個合作夥伴使用Mythos，以加快找出漏洞的速度。在Project Glasswing執行一個月後，Anthropic公布成效。
+
+- 📰 **iThome 科技**
+
+### 21. [cPanel外掛程式LiteSpeed存在滿分漏洞，已有駭客用於以root執行指令碼](https://www.ithome.com.tw/news/176077)
+
+4月底網站主機管理平臺廠商cPanel修補重大漏洞CVE-2026-41940，後續傳出多起漏洞利用活動，如今用於網路主機管理系統的外掛程式也被發現存在嚴重漏洞，而且已出現實際攻擊。
+
+- 📰 **iThome 科技**
+
+### 22. [Meta推出獨立的臉書社團程式Forum](https://www.ithome.com.tw/news/176075)
 
 Meta上周悄悄地在蘋果App Store上發布了新的Forum程式，宣稱這是個圍繞著臉書社團而打造的空間，讓使用者可以更深入地進行討論，獲得真實的答案，同時參與使用者所在乎的社群。外界認為Forum衝著Reddit而來，Reddit上周五（5/22）股價下滑5.58%，以141.67美元作收。
 
 - 📰 **iThome 科技**
 
-### 2. [CIS專家看Mythos AI風險：漏洞發掘加速考驗企業資安基本功](https://www.ithome.com.tw/news/176074)
+### 23. [CIS專家看Mythos AI風險：漏洞發掘加速考驗企業資安基本功](https://www.ithome.com.tw/news/176074)
 
-Claude Mythos、GPT-5.5-Cyber等先進AI模型陸續投入資安研究場景後，外界開始關注AI是否會加快漏洞發掘與通報速度，進而增加企業資安防禦與修補管理壓力。美國非營利資安組織網際網路安全中心（Center for Internet 安全，CIS）近日發布文章，分析這類技術對企業防禦工作可能帶來的影響。
+Claude Mythos、GPT-5.5-Cyber等先進AI模型陸續投入資安研究場��後，外界開始關注AI是否會加快漏洞發掘與通報速度，進而增加企業資安防禦與修補管理壓力。美國非營利資安組織網際網路安全中心（Center for Internet 安全，CIS）近日發布文章，分析這類技術對企業防禦工作可能帶來的影響。
 
 - 📰 **iThome 科技**
 
-### 3. [CISA警示Drupal的SQL注入漏洞已被用於實際攻擊](https://www.ithome.com.tw/news/176073)
+### 24. [CISA警示Drupal的SQL注入漏洞已被用於實際攻擊](https://www.ithome.com.tw/news/176073)
 
 上週內容管理系統Drupal開發團隊修補SQL注入漏洞CVE-2026-9082，根據Drupal本身的風險評估結果為20分（滿分25分），被評為最危險的超重大等級（Highly Critical），顯示其威脅程度極高，兩天後美國網路安全暨基礎設施安全局（CISA）掌握遭到利用的跡象，將其加入已遭利用漏洞清單（K
 
 - 📰 **iThome 科技**
 
-### 4. [TeamPCP滲透資料圖形化程式庫AntV，影響逾600個套件](https://www.ithome.com.tw/news/176072)
+### 25. [TeamPCP滲透資料圖形化程式庫AntV，影響逾600個套件](https://www.ithome.com.tw/news/176072)
 
 多家資安公司Aikido、Endor Labs、
 
 - 📰 **iThome 科技**
 
-### 5. [駭客團體TeamPCP兜售GitHub近4千個儲存庫資料，底價為5萬美元](https://www.ithome.com.tw/news/176070)
+### 26. [駭客團體TeamPCP兜售GitHub近4千個儲存庫資料，底價為5萬美元](https://www.ithome.com.tw/news/176070)
 
-根據資安新聞網站Bleeping Computer報導，駭客團體TeamPCP近日聲稱竊得GitHub近4千個內部儲存庫的程式碼，並以5萬美元底價公開競標，並聲稱只會有一位買家得標，一旦買賣��立，他們就會提供資料並銷毀手上的備份。若無買家出價競標，將直接公布這批檔案。
-
-- 📰 **iThome 科技**
-
-### 6. [為AI與量子運算做好準備，全面強化資安治理已成當務之急](https://www.ithome.com.tw/news/176071)
-
-【2026臺灣資安大會直擊】生成式AI的快速發展與普及，固然帶來眾多創新的機會，卻也重新定義當代資安防護的範疇，而在先進AI模型陸續問世的此刻，雖然大幅提升發現與修補漏洞的能力，更是對資安造成前所未有的衝擊，緊接在後的下一波技術趨勢變革，還有量子運算即將崛起，該如何繼續確保資安，也成為整個IT領域的重要議題，Palo Alto Networks日本暨亞太地區政策與政府事務副總裁Nicole Quinn認為，攻擊是可以預防的，資安問題是能夠解決的，關鍵在於能否充分運用AI進行防禦， 我們必須掌握三大策略：提升事件偵測與遏制的速度、降低基於身分與AI代理而導致的風險暴露，以及建立涵蓋整個網路環境的
+根據資安新聞網站Bleeping Computer報導，駭客團體TeamPCP近日聲稱竊得GitHub近4千個內部儲存庫的程式碼，並以5萬美元底價公開競標，並聲稱只會有一位買家得標，一旦買賣成立，他們就會提供資料並銷毀手上的備份。若無買家出價競標，將直接公布這批檔案。
 
 - 📰 **iThome 科技**
 
-### 7. [針對內部儲存庫遭駭事故，GitHub證實為受到Nx Console的供應鏈攻擊波及](https://www.ithome.com.tw/news/176069)
+### 27. [為AI與量子運算做好準備，全面強化資安治理已成當務之急](https://www.ithome.com.tw/news/176071)
+
+【2026臺灣資安大會直擊】生成式AI的快速發展與普及，固然帶來眾多創新的機會，卻也重新定義當代資安防護的範疇，而在先進AI模型陸續問世的此刻，雖然大幅提升發現與修補漏洞的能力，更是對資安造成前所未有的衝擊，緊��在後的下一波技術趨勢變革，還有量子運算即將崛起，該如何繼續確保資安，也成為整個IT領域的重要議題，Palo Alto Networks日本暨亞太地區政策與政府事務副總裁Nicole Quinn認為，攻擊是可以預防的，資安問題是能夠解決的，關鍵在於能否充分運用AI進行防禦， 我們必須掌握三大策略：提升事件偵測與遏制的速度、降低基於身分與AI代理而導致的風險暴露，以及建立涵蓋整個網路環境
+
+- 📰 **iThome 科技**
+
+### 28. [針對內部儲存庫遭駭事故，GitHub證實為受到Nx Console的供應鏈攻擊波及](https://www.ithome.com.tw/news/176069)
 
 5月20日GitHub於社群網站X透露近3,800個內部儲存庫遭駭，事故發生的源頭，是一名員工不慎安裝有問題的Visual Studio 代碼（VS 代碼）延伸套件，所以引發事故。由於駭客團體TeamPCP對TanStack發動攻擊之後，有許多開發團隊遭受波及，很容易讓人聯想這起事故也與TanStack事故有關，如今這樣的推測成真。
 
 - 📰 **iThome 科技**
 
-### 8. [Nx Console的VS 代碼延伸套件被植入竊資軟體](https://www.ithome.com.tw/news/176068)
+### 29. [Nx Console的VS 代碼延伸套件被植入竊資軟體](https://www.ithome.com.tw/news/176068)
 
 5月18日Nx Console的Visual Studio 代碼（VS 代碼）延伸套件nrwl.angular-console傳出遭遇供應鏈攻擊，駭客在VS 代碼延伸套件市集上架有問題的v18.95.0。揭露此事的資安公司StepSecurity指出，一旦開發者不慎安裝，他們只要開啟VS 代碼的任意工作區，此延伸套件就會從特定GitHub儲存庫的提交內容取得經混淆處理的惡意酬載，檔案大小為498 KB。
 
 - 📰 **iThome 科技**
 
-### 9. [CISA宣布提供研究人員通報漏洞已遭利用的管道](https://www.ithome.com.tw/news/176065)
+### 30. [CISA宣布提供研究人員通報漏洞已遭利用的管道](https://www.ithome.com.tw/news/176065)
 
-5月21日美國網路安全暨基礎設施安全局（CISA）發布公告，表示為了讓研究人員、供應商，以及產業合作夥伴能更容易通報遭到利用的漏洞，他們推出已遭利用漏洞列表（KEV）的漏洞提報表單（Nomination Form）系統，期望這種新的通報機制能增加CISA快速識別、驗證、共享KEV相關的重要威脅情資。
-
-- 📰 **iThome 科技**
-
-### 10. [立委質疑Google等商用衛星地圖曝露我國軍事基地影像引發國安疑慮，數發部將與平臺業者協商改善](https://www.ithome.com.tw/news/176064)
-
-Google Map等商用地圖服務使用便利，但卻潛藏國安上的危機。立委林俊憲今天(5/22)召開記者會���質疑高精度商用衛星影像已成為現代戰爭與情報蒐集的重要工具，國內的重要軍事設施，例如佳山基地、樂山雷達站及臺南基地等，至今仍可透過Google Maps、Google Earth及其他公開地圖平臺清楚辨識，甚至遭中國社群媒體大量轉載、標註與分析。他呼籲政府儘速建立管理機制，要求業者遮蔽軍事敏感設施，補上國安漏洞。
-林俊憲指出，問題不僅在於衛星影像揭露基地位置，更嚴重的是平臺提供歷史影像功能，可透過時間序列分析觀察基地擴建、設施更新及戰備變化情況，已涉及高度敏感的軍事情報蒐集。
-
-- 📰 **iThome 科技**
-
-### 11. [【資安週報】0518~0522，近期Windows零時差漏洞連環揭露，資安公司警告已能串成攻擊鏈](https://www.ithome.com.tw/news/176056)
-
-近期微軟Windows多項零時差漏洞接連曝光，從BlueHammer、RedSun、UnDefend到YellowKey與GreenPlasma，因其能被串聯成完整攻擊鏈，已引發資安業者強烈示警，成為本星期持續關注的重點。此外，駭客組織鎖定思科Catalyst SD-WAN零時差漏洞CVE-2026-20182發動攻擊，同樣備受各界關注。
-在防禦端，資料領域底層的PQC導入動向成焦點。NVM Express聯盟預計2026年完成規格更新，擴充儲存傳輸協定支援的加密演算法；WD則考量儲存設備生命週期長達五年以上，因此已開始針對硬碟韌體與開機程序導入後量子密碼學，從核心層級建構防禦韌性。
-
-- 📰 **iThome 科技**
-
-### 12. [衛福部揭FHIR Box醫療作業系統，目標2027年底完成全臺醫院病歷互通](https://www.ithome.com.tw/news/176062)
-
-衛福部5月20日在國科會第21次委員會議會後記者會中，揭露一套名為FHIR Box的醫療資料交換作業系統，要解決國內醫院資訊系統（HIS）長年碎片化的痛點，進而推動全國病歷互通、醫療資料標準化，以及AI應用基礎建設。
-衛福部資訊處已在2025年底完成長庚、馬偕和中山附醫3大醫學中心的FHIR跨院病歷互通示範；下一階段，也就是今年底前，將推動全臺醫學中心部署FHIR Box，實現跨院病歷互通，2027年底再進一步擴大至全臺區域與地區醫院。
-
-- 📰 **iThome 科技**
-
-### 13. [Discord全面啟用預設全程加密功能，語音與視訊通話都受專屬DAVE加密協定保護](https://www.ithome.com.tw/news/176061)
-
-社群通訊平臺Discord日前宣布， 平臺上的所有語音與視訊通話服務，正式預設啟用全程加密（End-to-End Encryption，E2EE），涵蓋私訊（Direct Messages，DM）、群組通話（Group Call）、語音頻道（Voice Channel）與Go Live串流功能。
-
-- 📰 **iThome 科技**
-
-### 14. [1Password整合OpenAI Codex，讓AI代理使用憑證但又不取得秘密值](https://www.ithome.com.tw/news/176055)
-
-1Password宣布與OpenAI Codex整合，供Codex在協助開發者執行程式開發任務時，可透過1Password授權使用必要憑證，但不直接取得密碼、金鑰等秘密值，降低AI程式開發代理操作資料庫、API與部署流程後，將憑證寫進程式碼、檔案或輸入給AI的指令而外洩的風險。
-
-- 📰 **iThome 科技**
-
-### 15. [【資安日報】5月22日，微軟修補防毒軟體零時差漏洞](https://www.ithome.com.tw/news/176053)
-
-微軟修補兩個已遭利用的Microsoft Defender零時差漏洞
-
-- 📰 **iThome 科技**
-
-### 16. [研究人員揭露存在9年的Linux本機權限提升漏洞CVE-2026-46333](https://www.ithome.com.tw/news/176047)
-
-資安公司Qualys揭露權限提升漏洞CVE-2026-46333，此問題存在於Linux核心的ptrace路徑，可將權限提升至root，或導致洩露憑證，CVSS風險評為7.1分，Linux核心開發團隊已於5月14日完成修補。
-
-- 📰 **iThome 科技**
-
-### 17. [Linux作業系統存在權限提升漏洞PinTheft，攻擊者可在Arch Linux取得root權限](https://www.ithome.com.tw/news/176044)
-
-本週V12資安團隊於GitHub公布新的Linux核心本機權��提升（LPE）漏洞PinTheft，Linux核心開發團隊收到他們的通報後已完成修補，目前沒有登記CVE編號。
-
-- 📰 **iThome 科技**
-
-### 18. [駭客濫用微軟IE時代舊工具MSHTA發動無檔案攻擊](https://www.ithome.com.tw/news/176052)
-
-資安廠商Bitdefender本週發布研究報告指出，一個內建在Windows系統、原本用於執行HTML應用程式的舊版工具MSHTA，正持續遭到駭客濫用，以散布惡意程式。
-
-- 📰 **iThome 科技**
-
-### 19. [Google傳出不慎洩露Chrome尚未修補的資安漏洞](https://www.ithome.com.tw/news/176051)
-
-Google於5月20日公布Chromium專案的程式碼庫當中，傳出意外公開未修補漏洞的概念驗證程式碼（PoC），恐導致Chrome、Edge、Brave、Vivaldi、Arc等瀏覽器的眾多用戶曝險。
-此概念驗證程式碼濫用了瀏覽器Fetch API，其用途是讓瀏覽器能在背景下載影片和其他大型檔案。攻擊者可以利用此漏���建立連線，監控瀏覽器的使用情況，甚至將受害電腦作為代理伺服器，藉此存取網站和發動拒絕服務攻擊。
-
-- 📰 **iThome 科技**
-
-### 20. [Spotify推出AI音訊生成工具Studio，挑戰Google NotebookLM](https://www.ithome.com.tw/news/176050)
-
-串流音樂平臺Spotify本週公布Studio桌機版應用程式，可讓使用者將自己工作及生活上的信件、行程或筆記等資訊以AI生成podcast等音訊檔，類似Google NotebookLM。
-Studio本質上是把Spotify、AI助理、Podcast生成器整合成單一的音訊生成及資料整合平臺。根據Spotify表示，Studio讓用戶以自然語言下指令，整合其公、私資訊，像是新聞網站、電子郵件、行事曆、文件、筆記、音樂目錄等，以AI產生個人化聲音簡報。
-
-- 📰 **iThome 科技**
-
-### 21. [Anthropic悄悄修補已存在近半年的Claude 代碼沙箱漏洞，未公開揭露引發研究人員批評](https://www.ithome.com.tw/news/176045)
-
-資安研究人員Aonan Guan近日發布報告，揭露Anthropic旗下AI輔助程式開發工具Claude 代碼，其網路沙箱（網絡 Sandbox）機制存在漏洞，可能導致原始碼與憑證洩漏，Anthropic雖已在
-
-- 📰 **iThome 科技**
-
-### 22. [因應軟體供應鏈攻擊，NPM新增套件暫存發布機制，降低惡意版本散布風險](https://www.ithome.com.tw/news/176043)
-
-2025年下半NPM生態系發生Shai-Hulud 2.0供應鏈攻擊後，GitHub公告將強化NPM套件發布流程安全性，其中一項措施是套件暫存發布（staged publishing）。這項機制讓維護者可在套件正式公開前，先檢查暫存套件的內容，再決定是否核准發布。
-
-- 📰 **iThome 科技**
-
-### 23. [Flipper公布Flipper One計畫，要打造最開放ARM電腦](https://www.ithome.com.tw/news/176042)
-
-Flipper Devices週四（5/21）公布新專案Flipper One，目標是打造全球最開放、文件最完整的ARM電腦，完整支援Linux主線核心（Mainline Linux Kernel）。同時強調這並非知名掌上型工具Flipper Zero的後繼產品，而是一個全新的開放Linux平臺。
-
-- 📰 **iThome 科技**
-
-### 24. [微軟新版Edge for Business加入代理式上網](https://www.ithome.com.tw/news/176041)
-
-微軟本週公佈新版商務版Edge（Edge for Business），新增以Copilot為基礎的代理式上網功能，以及跨分頁和YouTube影片的重點摘要功能推向手機版瀏覽器。
-
-- 📰 **iThome 科技**
-
-### 25. [外界擔憂Mythos恐助長大規模網路攻擊，部分資安專家認為風險被高估](https://www.ithome.com.tw/news/176040)
-
-Anthropic於4月公布Claude Mythos Preview後，外界開始關注這類先進AI模型若被用於攻擊情境，是否可能加速漏洞發現與利用，進而使政府系統、金融服務等關鍵基礎設施面臨更大的防禦壓力。這項疑慮也引起多國政府與金融���理機關關注。
-然而，有部分資安專家認為，外界擔心Mythos將大幅推升駭客攻擊能力的看法，可能被高估。
-
-- 📰 **iThome 科技**
-
-### 26. [Google發布Chrome 148更新，修補16個資安漏洞](https://www.ithome.com.tw/news/176039)
-
-Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至148.0.7778.178與148.0.7778.179，Linux版本更新至148.0.7778.178，此次改版一共修補16個安全性問題，分別是兩個重大漏洞 、9個高風險漏洞，以及5個中度風險漏洞。
-
-- 📰 **iThome 科技**
-
-### 27. [CISA將趨勢科技端點防護系統Apex One路徑遍歷漏洞列入KEV](https://www.ithome.com.tw/news/176038)
-
-趨勢科技於5月21日修補端點防護平臺Apex One多項資安漏洞，並指出中度風險的路徑遍歷漏洞CVE-2026-34926已遭到利用，同一天美國網路安全暨基礎設施安全局（CISA）將其列入已遭利用的漏洞名冊（KEV），���求聯邦機構於6月4日以前完成修補。
-
-- 📰 **iThome 科技**
-
-### 28. [趨勢科技修補端點防護系統Apex One已遭利用的路徑遍歷漏洞](https://www.ithome.com.tw/news/176037)
-
-5月21日趨勢科技發布資安公告指出，端點防護平臺Apex One、Apex One as a Service、Vision One Endpoint 安全 - Standard Endpoint Protection（SEP）存在一系列的資安漏洞，其中一個漏洞出現遭到利用的跡象。
-
-- 📰 **iThome 科技**
-
-### 29. [GraphWorm惡意程式濫用微軟OneDrive作為C2通道，利用雲端服務隱藏攻擊流量](https://www.ithome.com.tw/news/176028)
-
-資安業者ESET近日發布報告指出，與中國有關的駭客組織Webworm，透過新型惡意程式GraphWorm向歐洲政府機構發動攻擊，這款惡意程式利用微軟Graph API存取雲端檔案共享與儲存服務OneDrive空間，作為命令與控制（C2）通道，藉由受信任的雲端服務隱藏惡意流量，提高���測難度。
-
-- 📰 **iThome 科技**
-
-### 30. [執法機關瓦解犯罪VPN服務First VPN，FBI稱至少25個勒索軟體組織曾用於偵察與入侵](https://www.ithome.com.tw/news/176036)
-
-多國執法機關宣布查緝並關閉First VPN，這項VPN服務長期活躍於俄語網路犯罪論壇。歐洲刑警組織（Europol）指出，近年該組織參與支援的重大網路犯罪調查中，幾乎都曾出現First VPN的蹤跡；犯罪分子藉此掩飾身分並隱匿攻擊基礎架構，從事勒索軟體攻擊、大規模詐欺、資料竊取與其他重大犯罪活動。
+5月21日美國網路安全暨基礎設施安全局（CISA）發布公告，表示為了讓研究人員、供應商，以及產業合作夥伴能更容易通報遭到利用的漏洞，他們推出已遭利用漏洞列表（KEV）的漏洞提報表單（Nomination Form）系統，期望這種新的通報機制能增���CISA快速識別、驗證、共享KEV相關的重要威脅情資。
 
 - 📰 **iThome 科技**
 
@@ -194,6 +201,11 @@ Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至1
 
 ### 更多 AI 新聞 (70則)
 
+- A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid (**Wired**)
+- 30% Off Canon Promo Codes | May 2026 (**Wired**)
+- HP Discount Codes: 60% Off May 2026 (**Wired**)
+- Design Within Reach Promo Codes: 30% Off | 2026 (**Wired**)
+- Shark Promo Codes for This May (**Wired**)
 - Memorial Day Tech Deals: Sony, Anker, Beats (2026) (**Wired**)
 - 最佳 Memorial Day Mattress Deals: Helix, Saatva (2026) (**Wired**)
 - Topo Designs Rover Trail Pack Is the 最佳 Backpack I’ve Ever Used (**Wired**)
@@ -213,11 +225,11 @@ Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至1
 - 最佳 Memorial Day Deals: Garmin, Birdfy, Branch (2026) (**Wired**)
 - A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal (**Wired**)
 - All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer (**Wired**)
-- Loop Earplugs Discount Codes: 40% Off (**Wired**)
-- Hoka Coupon Codes: 30% Off | May 2026 (**Wired**)
 - Lowe’s Promo Codes and Deals: Up to $300 Off Appliances (**Wired**)
 - Ulta Promo Codes: Up to 50% Off in May (**Wired**)
 - Valvoline Coupons &amp; Promo Codes for May 2026 (**Wired**)
+- Loop Earplugs Discount Codes: 40% Off (**Wired**)
+- Hoka Coupon Codes: 30% Off | May 2026 (**Wired**)
 - Squarespace Promo Codes: 20% Off in May 2026 (**Wired**)
 - Newegg Promo 代碼: 10% Off in May 2026 (**Wired**)
 - T-行動 Promo Codes: 25% Off | May (**Wired**)
@@ -234,16 +246,11 @@ Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至1
 - Finally, a Great Free Radio App for Windows (**Wired**)
 - The Gulf’s AI Boom Has an Undersea Cable Problem (**Wired**)
 - Nike Promo Codes and Discounts: 30% for May 2026 (**Wired**)
-- Chewy Promo Codes: $20 Off May 2026 (**Wired**)
 - Google Workspace Promo Codes: 14% Off for May (**Wired**)
+- Chewy Promo Codes: $20 Off May 2026 (**Wired**)
 - Peacock Promo Codes: 40% Off May 2026 (**Wired**)
 - 30% Off Samsung Promo 代碼 | May 2026 (**Wired**)
 - AT&amp;T Promo Codes: $50 Off This May 2026 (**Wired**)
-- Dyson Promo Codes: 25% Off in May 2026 (**Wired**)
-- Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis? (**Wired**)
-- What to Do in LA if You’re Here for Business (2025) (**Wired**)
-- ‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says (**Wired**)
-- Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
