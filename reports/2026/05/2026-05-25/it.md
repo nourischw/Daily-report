@@ -4,206 +4,206 @@
 
 ---
 
-### 1. [Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
+### 1. [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 
-- ⭐ 281 分｜💬 227 留言｜👤 elorant
+- ⭐ 983 分｜💬 427 留言｜👤 theletterf
 
-### 2. [2026 HIPAA 安全 Rule 更新](https://medcurity.com/hipaa-security-rule-2026-update/)
+### 2. [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
 
-- ⭐ 23 分｜💬 2 留言｜👤 mooreds
+- ⭐ 60 分｜💬 9 留言｜👤 Cider9986
 
-### 3. [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+### 3. [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
 
-- ⭐ 379 分｜💬 141 留言｜👤 theletterf
+- ⭐ 101 分｜💬 44 留言｜👤 rbanffy
 
-### 4. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+### 4. [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
 
-- ⭐ 19 分｜💬 0 留言｜👤 jruohonen
+- ⭐ 103 分｜💬 28 留言｜👤 xngbuilds
 
-### 5. [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
+### 5. [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
 
-- ⭐ 10 分｜💬 0 留言｜👤 xngbuilds
+Hey HN! We’re Gary and Ian, and we’re building Chert (https:&#x2F;&#x2F;www.trychert.com&#x2F;), an API for businesses to send, receive, and automate iMessage conversations at scale. Check out our dem
 
-### 6. [Hive (YC S14) is 招聘 sr back-end developers (CA/US 遠端 OK)](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481)
+- ⭐ 36 分｜💬 126 留言｜👤 garygao
 
-- ⭐ 1 分｜💬 0 留言｜👤 patman_h
+### 6. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 
-### 7. [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+- ⭐ 205 分｜💬 51 留言｜👤 jruohonen
 
-- ⭐ 110 分｜💬 39 留言｜👤 benwerd
+### 7. [The bootstrapper's EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
 
-### 8. [Leave Me Behind](http://androidessence.com/leave-me-behind/)
+- ⭐ 18 分｜💬 0 留言｜👤 sparkling
 
-- ⭐ 137 分｜💬 94 留言｜👤 mooreds
+### 8. [Weave (YC W25) is 招聘 ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
+
+- ⭐ 1 分｜💬 0 留言｜👤 adchurch
 
 ### 9. [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/)
 
-- ⭐ 58 分｜💬 15 留言｜👤 rbanffy
+- ⭐ 110 分｜💬 37 留言｜👤 rbanffy
 
-### 10. [Your Old Devices Depend on Dying Sensors. The Silicon Labs Incident Proves It](https://www.cambridge.org/engage/coe/article-details/6a054b304770e67d92e8c7a2)
+### 10. [CPPL: A Circuit Prompt 程式設計 Language](https://arxiv.org/abs/2605.17892)
 
-- ⭐ 14 分｜💬 2 留言｜👤 openrockets
+- ⭐ 11 分｜💬 0 留言｜👤 chrsw
 
-### 11. [Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/)
+### 11. [Alaska's oil revival sparks a 新 energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)
 
-- ⭐ 212 分｜💬 104 留言｜👤 kelseyfrog
+- ⭐ 16 分｜💬 8 留言｜👤 Brajeshwar
 
-### 12. [Show HN: Audiomass – a free, open-source multitrack audio editor for the 網頁](https://audiomass.co/?multitrack=1)
+### 12. [Gnutella: A Protocol Outliving the World That Created It](https://rickcarlino.com/notes/p2p/gnutella-explanation.html)
 
-- ⭐ 433 分｜💬 92 留言｜👤 pantelisk
+- ⭐ 135 分｜💬 49 留言｜👤 rickcarlino
 
-### 13. [The physicists who convinced Fermilab to send Brazil's emails](https://buttondown.com/blog/brazil-fermilab-email)
+### 13. [Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/)
 
-- ⭐ 16 分｜💬 4 留言｜👤 maguay
+- ⭐ 280 分｜💬 132 留言｜👤 kelseyfrog
 
-### 14. [AI errno(2) values](https://www.netmeister.org/blog/ai-errno.html)
+### 14. [Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)](https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback)
 
-- ⭐ 53 分｜💬 12 留言｜👤 zdw
+- ⭐ 134 分｜💬 108 留言｜👤 cdrnsf
 
-### 15. [DeepSeek reasonix, DeepSeek native coding 代理 with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+### 15. [Show HN: Audiomass – a free, open-source multitrack audio editor for the 網頁](https://audiomass.co/?multitrack=1)
+
+- ⭐ 476 分｜💬 106 留言｜👤 pantelisk
+
+### 16. [He Lost It at the Movies](https://www.theideasletter.org/essay/he-lost-it-at-the-movies/)
+
+- ⭐ 22 分｜💬 11 留言｜👤 tintinnabula
+
+### 17. [DeepSeek reasonix, DeepSeek native coding 代理 with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
 
 Related ongoing thread:DeepSeek makes the V4 Pro price discount permanent - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663 - May 2026 (384 comments)
 
-- ⭐ 617 分｜💬 255 留言｜👤 Alifatisk
+- ⭐ 663 分｜💬 266 留言｜👤 Alifatisk
 
-### 16. [Show HN: Geomatic – a command-driven geometry studio enabled with autodiff](https://www.tinyvolt.com/geomatic)
+### 18. [The analog computer museum's online library](https://www.analogmuseum.org/english/library.html)
+
+- ⭐ 15 分｜💬 0 留言｜👤 nill0
+
+### 19. [The physicists who convinced Fermilab to send Brazil's emails](https://buttondown.com/blog/brazil-fermilab-email)
+
+- ⭐ 40 分｜💬 15 留言｜👤 maguay
+
+### 20. [Everyone Against Us (2023)](https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/)
+
+- ⭐ 3 分｜💬 1 留言｜👤 NaOH
+
+### 21. [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
+
+- ⭐ 415 分｜💬 401 留言｜👤 jabits
+
+### 22. [Bytecode VMs in surprising places (2024)](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+
+- ⭐ 112 分｜💬 37 留言｜👤 azhenley
+
+### 23. [AI errno(2) values](https://www.netmeister.org/blog/ai-errno.html)
+
+- ⭐ 93 分｜💬 18 留言｜👤 zdw
+
+### 24. [Show HN: Geomatic – A command-driven geometry studio enabled with autodiff](https://www.tinyvolt.com/geomatic)
 
 All commands have the format `output = \func inputs` or just `\function inputs`. Points and scalars are built on the fly. Eg `\line a b` to an empty canvas creates points `a` and `b`, and joins them w
 
-- ⭐ 38 分｜💬 9 留言｜👤 nivter
+- ⭐ 55 分｜💬 13 留言｜👤 nivter
 
-### 17. [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
+### 25. [White Rabbit – sub-nanosecond synchronization for large distributed systems](https://ohwr.org/projects/white-rabbit/)
 
-- ⭐ 362 分｜💬 351 留言｜👤 jabits
+- ⭐ 169 分｜💬 38 留言｜👤 michaelsbradley
 
-### 18. [Pope Leo: opaque AI run by few firms risks "新 Forms of Dehumanization"](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
+### 26. [Notes about reading messages with the Python email packages](https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes)
 
-- ⭐ 21 分｜💬 2 留言｜👤 embedding-shape
+- ⭐ 46 分｜💬 4 留言｜👤 ankitg12
 
-### 19. [Bytecode VMs in surprising places (2024)](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+### 27. [2026 HIPAA 安全 Rule 更新](https://medcurity.com/hipaa-security-rule-2026-update/)
 
-- ⭐ 73 分｜💬 24 留言｜👤 azhenley
+- ⭐ 79 分｜💬 70 留言｜👤 mooreds
 
-### 20. [Microsoft pulls plug on plans for 244-acre data center in Caledonia](https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback)
+### 28. [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
 
-- ⭐ 12 分｜💬 2 留言｜👤 cdrnsf
+- ⭐ 635 分｜💬 98 留言｜👤 dougdude3339
 
-### 21. [White Rabbit – sub-nanosecond synchronization for large distributed systems](https://ohwr.org/projects/white-rabbit/)
+### 29. [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
 
-- ⭐ 140 分｜💬 30 留言｜👤 michaelsbradley
+- ⭐ 217 分｜💬 109 留言｜👤 littlexsparkee
 
-### 22. [Notes about reading messages with the Python email packages](https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes)
+### 30. [Bug 1950764: Work Around Crash on Intel Raptor Lake CPU](https://phabricator.services.mozilla.com/D301917)
 
-- ⭐ 35 分｜💬 1 留言｜👤 ankitg12
-
-### 23. [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
-
-- ⭐ 587 分｜💬 96 留言｜👤 dougdude3339
-
-### 24. [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
-
-- ⭐ 235 分｜💬 107 留言｜👤 vinhnx
-
-### 25. [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-
-- ⭐ 197 分｜💬 99 留言｜👤 littlexsparkee
-
-### 26. [Bug 1950764: Work Around Crash on Intel Raptor Lake CPU](https://phabricator.services.mozilla.com/D301917)
-
-- ⭐ 131 分｜💬 43 留言｜👤 luu
-
-### 27. [Rising seas will swallow 新 Orleans. People need to start relocating now](https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation)
-
-- ⭐ 64 分｜💬 61 留言｜👤 breve
-
-### 28. [Microsoft open-sources “the earliest DOS source 代碼 discovered to date”](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
-
-https:&#x2F;&#x2F;opensource.Microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...
-
-- ⭐ 488 分｜💬 178 留言｜👤 DamnInteresting
-
-### 29. [I love my Bluetooth keyboard](https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/)
-
-- ⭐ 124 分｜💬 124 留言｜👤 evakhoury
-
-### 30. [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
-
-- ⭐ 155 分｜💬 150 留言｜👤 ikesau
+- ⭐ 158 分｜💬 52 留言｜👤 luu
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Jira Is Turing-Complete
+- Introducing USB4STREAM Protocol for Linux – Opening Up Some Nifty Uses for USB4
+- Gray whale mortality along Pacific Northwest are at an increasing pace
+- Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing
 - Building Pi with Pi
-- Constraint Decay: The Fragility of 大型語言模型 Agents in Back End 代碼 Generation
-- you_can::turn_off_the_borrow_checker
-- Scammers are abusing an internal Microsoft account to send spam links
+- Defeating Git Rigour Fatigue with Jujutsu
+- I love my Bluetooth keyboard
+- Search engines alternatives now that Google isn't Google anymore
 - Childhood Computing
-- Memory has grown to nearly two-thirds of AI chip component costs
 - Greg Brockman interview [video]
+- Mastering Dyalog APL
+- Memory has grown to nearly two-thirds of AI chip component costs
 - C constructs that still don't work in C++
 - Using HTTP/2 Cleartext for a 伺服器 in Go 1.24
-- Mastering Dyalog APL
-- Scientists solve 200-year-old puzzle of how tobacco plants make nicotine
 - 為什麼 is Vivado 2026.1 dropping Linux support for free tier?
+- Constraint Decay: The Fragility of 大型語言模型 Agents in Back End 代碼 Generation
+- Scientists solve 200-year-old puzzle of how tobacco plants make nicotine
 - 構建 Adafruit projects right from Firefox
+- Blind Waymo Users Revel in the Joy of Riding Alone
 - Selling SaaS in Germany
 - Perceptual Image Codec: What Matters in Practical Learned Image Compression
-- Time to talk about my writerdeck
+- Green card seekers must leave U.S. to apply, Trump administration says
+- you_can::turn_off_the_borrow_checker
+- The C64 Dead 測試 Font
+- Leave Me Behind
 - Noroboto: Lying Fonts and Mitigation in Rust
 - Getting an old Computer online with Android Ethernet tethering
-- The C64 Dead 測試 Font
-- Green card seekers must leave U.S. to apply, Trump administration says
-- The Eternal Sloptember
 - Alexander Grothendieck Revolutionized 20th-Century Mathematics
-- Poverty Changes Your Mind-Set (2018)
+- Microsoft open-sources “the earliest DOS source 代碼 discovered to date”
 - Silk: Open-source cooperative fiber scheduler
-- Don't know where your data is from? Bayesian modeling for unknown coordinates
-- Swap tables, flash-friendly swap, swap_ops, and more
-- Book Review: On the Calculation of Volume
-- I keep bouncing off the Scheme language
 - Spanish court declines to fine NordVPN over LaLiga piracy blocking order
-- CBP Directive 3340-049B: Border Search of Electronic Devices
-- Ruby for Good
+- Swap tables, flash-friendly swap, swap_ops, and more
+- I manage teams without a single call
+- The Eternal Sloptember
+- Don't know where your data is from? Bayesian modeling for unknown coordinates
+- Rising seas will swallow 新 Orleans. People need to start relocating now
+- Book Review: On the Calculation of Volume
 - Sales and Dungeons: Thermal printer TTRPG utility
+- I keep bouncing off the Scheme language
 - Hengefinder: Finding when the sun aligns with your street
-- Curly braces: An evolution of Unix and C
-- LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years
-- My I3-Emacs Integration
-- Usborne 1980s Computer Books
 - DeepSeek makes the V4 Pro price discount permanent
+- Scammers are abusing an internal Microsoft account to send spam links
+- Ruby for Good
+- My I3-Emacs Integration
+- CBP Directive 3340-049B: Border Search of Electronic Devices
+- Curly braces: An evolution of Unix and C
 - Converting an Integer to a Decimal String in Under Two Nanoseconds
-- 1k-year-old dingo bones show that it was injured, cared for, and ritually buried
+- The Cost of Safetyism
 - Reverse engineering circuitry in a Spacelab computer from 1980
+- My minimal, memory-safe Go rsync steers clear of vulnerabilities
+- Usborne 1980s Computer Books
+- I built a scanner that found 41 live AWS keys in 900 Terraform state files
+- SpaceX 推出 Starship v3 rocket
 - Judson's Last Ride
 - Don't Roll Your Own
-- SpaceX 推出 Starship v3 rocket
+- 1k-year-old dingo bones show that it was injured, cared for, and ritually buried
 - On The <dl> (2021)
 - Project Glasswing: An Initial 更新
-- Wake up! 16b
 - A scoping review of bicycling interventions’ impacts on well-being
-- Artificial egg hatched 26 healthy chickens
 - 為什麼 Japanese companies do so many different things
+- Trump admin policy shutting US disease researchers of WHO virus response talks
+- Time to talk about my writerdeck
+- LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years
 - The Art of Money Getting
-- .NET (OK, C#) finally gets union types
-- Ask HN: 為什麼 do we snore? And what to do about it?
+- Wake up! 16b
+- I'm the CEO of Goldman Sachs. The AI 工作 Apocalypse Is Overblown
 - Improving C# Memory Safety
-- GPT Guesses Between 1 and 100
-- My two-part desk setup (2025)
-- Key, in sight – A guide, of sorts, to keyboard customization
-- The quadratic sandwich
+- .NET (OK, C#) finally gets union types
+- Artificial egg hatched 26 healthy chickens
 - You can no longer Google the word 'disregard'
-- 新 map reveals lost roads of the Roman Empire
-- Kindle loyalists scramble as Amazon turns page on old e-readers
-- Shipping a laptop to a refugee camp in Uganda
-- West Coast Cities Turn to Vacancy Taxes to Grapple with Housing Crisis
-- Highest Random Weight in Elixir
-- Amazon 網頁 Services – Four Years and Out
-- Schlitz Is Gone, but First It's Getting One Last Hurrah
-- Microsoft starts canceling Claude 代碼 licenses
-- A 1955 Los Alamos computer experiment changed our understanding of chaos
-- 為什麼 Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)
-- Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite
 
 
 ---
