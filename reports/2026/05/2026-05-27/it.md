@@ -4,204 +4,208 @@
 
 ---
 
-### 1. [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
+### 1. [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/)
 
-- ⭐ 235 分｜💬 92 留言｜👤 nooks
+- ⭐ 77 分｜💬 21 留言｜👤 prismatic
 
 ### 2. [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
 
-- ⭐ 75 分｜💬 33 留言｜👤 tjek
+- ⭐ 214 分｜💬 108 留言｜👤 tjek
 
-### 3. [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
+### 3. [What Gets Kept](https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind)
 
-- ⭐ 110 分｜💬 92 留言｜👤 cratermoon
+- ⭐ 27 分｜💬 12 留言｜👤 lermontov
 
-### 4. [Stripe is friendly to "friendly fraud"](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/)
+### 4. [That Methyl Methacrylate Tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
 
-- ⭐ 101 分｜💬 35 留言｜👤 gingerlime
+- ⭐ 327 分｜💬 126 留言｜👤 nooks
 
-### 5. [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/)
+### 5. [BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass](https://badhost.org/)
 
-- ⭐ 260 分｜💬 55 留言｜👤 zdw
+https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;milli...
 
-### 6. [I Bypassed Adobe and Microsoft to 構建 a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/)
+- ⭐ 43 分｜💬 13 留言｜👤 ylk
 
-- ⭐ 172 分｜💬 43 留言｜👤 dustin1114
+### 6. [Cate v1.0 is out: The Infinite canvas workspace for developers](https://github.com/0-AI-UG/cate)
 
-### 7. [Xiaomi MiMo-v2.5 price drops 99% – AI pricing war](https://platform.xiaomimimo.com/docs/en-US/welcome)
+- ⭐ 47 分｜💬 25 留言｜👤 BlueBerry2001
 
-- ⭐ 31 分｜💬 17 留言｜👤 mariopt
+### 7. [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/)
 
-### 8. [Scientists say they've reversed brain aging with a simple nasal spray](https://www.sciencedaily.com/releases/2026/05/260526022018.htm)
+- ⭐ 352 分｜💬 71 留言｜👤 zdw
 
-- ⭐ 25 分｜💬 8 留言｜👤 bookmtn
+### 8. [The worst 工作 interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
 
-### 9. [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
+- ⭐ 286 分｜💬 243 留言｜👤 oliverio
 
-- ⭐ 53 分｜💬 20 留言｜👤 cafkafk
+### 9. [I built a Git-tracked book production pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/)
 
-### 10. [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
+- ⭐ 236 分｜💬 62 留言｜👤 dustin1114
 
-- ⭐ 318 分｜💬 169 留言｜👤 cdrnsf
+### 10. [TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation](https://tsduck.io/)
 
-### 11. [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/)
+- ⭐ 30 分｜💬 1 留言｜👤 phantomathkg
 
-- ⭐ 793 分｜💬 364 留言｜👤 thm
+### 11. [A history of obituaries in American newspapers](https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/)
 
-### 12. [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind)
+- ⭐ 20 分｜💬 0 留言｜👤 NaOH
 
-- ⭐ 129 分｜💬 34 留言｜👤 samuell
+### 12. [Show HN: Posthorn, self-hosted mail without the mail 伺服器](https://github.com/craigmccaskill/posthorn)
 
-### 13. [Dropbox CEO Drew Houston to step down](https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html)
+Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your
 
-https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s...
+- ⭐ 25 分｜💬 22 留言｜👤 craigmccaskill
 
-- ⭐ 301 分｜💬 333 留言｜👤 aghuang
+### 13. [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
 
-### 14. [C array types are weird](https://anselmschueler.com/blogposts/2025-c-pointers/)
+- ⭐ 103 分｜💬 27 留言｜👤 cafkafk
 
-- ⭐ 59 分｜💬 31 留言｜👤 signa11
+### 14. [Unicode 18.0.0 Beta](https://www.unicode.org/versions/Unicode18.0.0/)
 
-### 15. [Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95](https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/)
+- ⭐ 14 分｜💬 5 留言｜👤 birdculture
 
-- ⭐ 47 分｜💬 8 留言｜👤 boarsofcanada
+### 15. [Claude 代碼 as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs](https://arps18.github.io/posts/claude-code-mastery/)
 
-### 16. [The OSS Sabotage Manual Became Corporate 最佳 Practice](https://www.alephic.com/sabotage)
+- ⭐ 46 分｜💬 10 留言｜👤 arps18
 
-- ⭐ 13 分｜💬 6 留言｜👤 cyb0rg0
-
-### 17. [The Steinwinter Supercargo](https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today)
-
-- ⭐ 46 分｜💬 13 留言｜👤 itronitron
-
-### 18. [From Rust to Ruby](https://xlii.space/eng/from-rust-to-ruby/)
-
-- ⭐ 22 分｜💬 5 留言｜👤 xlii
-
-### 19. [Liverpool and Manchester Railway](https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway)
-
-- ⭐ 14 分｜💬 3 留言｜👤 daverol
-
-### 20. [Launch HN: Minicor (YC P26) – Windows desktop automations at scale](https://www.minicor.com/)
+### 16. [Launch HN: Minicor (YC P26) – Windows desktop automations at scale](https://www.minicor.com/)
 
 Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly 構建 scalable desktop RPAs. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2
 
-- ⭐ 75 分｜💬 47 留言｜👤 fchishtie
+- ⭐ 88 分｜💬 54 留言｜👤 fchishtie
 
-### 21. [Use boring languages with LLMs](https://jry.io/writing/use-boring-languages-with-llms/)
+### 17. [NVIDIA Vera CPU Benchmarks: Olympus Cores Delivering Great Performance](https://www.phoronix.com/review/nvidia-vera-benchmarks)
 
-- ⭐ 179 分｜💬 143 留言｜👤 evakhoury
+- ⭐ 17 分｜💬 3 留言｜👤 naves
 
-### 22. [What I've Learned (So Far) Building Online Mini Games with Elixir and Swift](https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html)
+### 18. [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/)
 
-- ⭐ 7 分｜💬 6 留言｜👤 calflegal
+- ⭐ 917 分｜💬 424 留言｜👤 thm
 
-### 23. [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/)
+### 19. [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind)
 
-- ⭐ 296 分｜💬 650 留言｜👤 ggcr
+- ⭐ 155 分｜💬 43 留言｜👤 samuell
 
-### 24. [C64 Basic: Game Map Overhead “Camera View”](https://retrogamecoders.com/overhead-camera-view/)
+### 20. [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
 
-- ⭐ 78 分｜💬 11 留言｜👤 ibobev
+- ⭐ 50 分｜💬 3 留言｜👤 croottree
 
-### 25. [Sage Care (YC S24) Is 招聘 軟體 Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
+### 21. [C array types are weird](https://anselmschueler.com/blogposts/2025-c-pointers/)
 
-- ⭐ 1 分｜💬 0 留言｜👤 ian-gillis
+- ⭐ 83 分｜💬 86 留言｜👤 signa11
 
-### 26. [AI tools are only as good as your judgment](https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html)
+### 22. [IBM Confidential: 系統/360 File Organization [video]](https://www.youtube.com/watch?v=zokKqP0plrM)
 
-- ⭐ 44 分｜💬 20 留言｜👤 talvardi7
+- ⭐ 42 分｜💬 13 留言｜👤 DaiPlusPlus
 
-### 27. [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
+### 23. [Dropbox CEO Drew Houston to step down](https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html)
 
-- ⭐ 94 分｜💬 19 留言｜👤 crescit_eundo
+https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s...
 
-### 28. [Outsourcing plus local AI will soon become more economical vs. frontier labs](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
+- ⭐ 347 分｜💬 369 留言｜👤 aghuang
 
-- ⭐ 252 分｜💬 277 留言｜👤 GodelNumbering
+### 24. [What I've Learned (So Far) Building Online Mini Games with Elixir and Swift](https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html)
 
-### 29. [What color is your function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- ⭐ 48 分｜💬 21 留言｜👤 calflegal
 
-- ⭐ 95 分｜💬 118 留言｜👤 tosh
+### 25. [Seeking a Language in Mathematics 1523-1571](https://tyndale.org/journals/reformj01/bmarsden.html)
 
-### 30. [Opaque Types in Python](https://blog.glyph.im/2026/05/opaque-types-in-python.html)
+- ⭐ 3 分｜💬 1 留言｜👤 jruohonen
 
-- ⭐ 113 分｜💬 53 留言｜👤 lumpa
+### 26. [The Steinwinter Supercargo](https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today)
+
+- ⭐ 68 分｜💬 19 留言｜👤 itronitron
+
+### 27. [The Forgotten Art of the LAN Party (2023)](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/)
+
+- ⭐ 126 分｜💬 47 留言｜👤 susam
+
+### 28. [What color is your function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+
+- ⭐ 122 分｜💬 155 留言｜👤 tosh
+
+### 29. [The Structural Barriers to AI Lawyers](https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers)
+
+- ⭐ 45 分｜💬 55 留言｜👤 benbreen
+
+### 30. [Outsourcing plus local AI will soon become more economical vs. frontier labs](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
+
+- ⭐ 283 分｜💬 302 留言｜👤 GodelNumbering
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Rapel – chunked resumable downloads in unstable networks
-- Netherlands blocks US takeover of vital digital supplier
+- The real cost of owning a home
+- Sonny Rollins, jazz saxophonist, has died
+- C64 Basic: Game Map Overhead “Camera View”
+- Opaque Types in Python
+- Sage Care (YC S24) Is 招聘 軟體 Engineers
+- Splinter Cell veteran says realistic modern lighting has screwed up stealth game
+- Are we self-sovereign PKI yet?
+- Erin Brockovich made a map to track data centers around the country
+- The Ballad of TIGIT
+- Using AI to write better 代碼 more slowly
+- Stripe is friendly to “friendly fraud”
 - Phantasy Star IV – 1993 開發者 Interviews
 - The user is visibly frustrated
-- Using AI to write better 代碼 more slowly
-- RescueRadar – UK Emergency Services Flight Tracking Since 2013
-- Are we self-sovereign PKI yet?
+- Netherlands blocks US takeover of vital digital supplier
+- Liverpool and Manchester Railway
 - How do you 構建 a semiconductor company on something that's free?
+- Big tech's anti-labor playbook has come for Wikipedia
 - DeepSWE: A contamination-free benchmark for long-horizon coding agents
-- Don't put aria-label on generic elements like divs
-- Is "colorectal cancer" rising in "young people"?
-- Stack Overflow’s forum is dead but the company’s still kicking
-- A sleep-like consolidation mechanism for LLMs
-- Don't Subscribe So Casually
+- The just-say-no 工程師 was a ZIRP phenomenon
+- The 最佳 Engineers Write Less 代碼
 - Taking a walk may lead to more creativity than sitting, study finds (2014)
-- Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC
-- The worst 工作 interview I ever had
-- Uber president says AI spending is getting 'harder to justify'
-- ALPR Mission Creep: School Residency, Background Checks, and Noise Complaints
-- DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD
-- Dials
+- Don't put aria-label on generic elements like divs
 - Magnifica Humanitas
-- Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team
-- Bay Area mom out thousands after scammers use AI to mimic daughter's voice
-- Performance of Rust Language [pdf]
+- Power bills more than 250 per cent higher near data centres
+- Don't Subscribe So Casually
+- Is "colorectal cancer" rising in "young people"?
+- Use boring languages with LLMs
+- A sleep-like consolidation mechanism for LLMs
+- Stack Overflow’s forum is dead but the company’s still kicking
+- Where does next-token prediction leave us?
+- DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD
 - Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml
-- Earthion: A 新 Mega Drive-Style Shoot-Em-Up
-- Uber, Lyft drivers in Massachusetts form first US ride-share union
-- Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%
-- Sinclair-O-Matic
-- University of California IT employees form biggest tech worker union in the US
-- How Shamir's Secret Sharing Works
+- Uber president says AI spending is getting 'harder to justify'
 - Show HN: A website that tracks every stock trade Congress makes
+- Show HN: Rapel – chunked resumable downloads in unstable networks
+- Performance of Rust Language [pdf]
+- Earthion: A 新 Mega Drive-Style Shoot-Em-Up
 - What we lost when we stopped letting kids leave the front yard
+- Clanker: A Word for the Machine
+- How Shamir's Secret Sharing Works
+- Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team
 - Ferrari Luce
-- Grok 構建
+- RescueRadar – UK Emergency Services Flight Tracking Since 2013
+- Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC
+- From Rust to Ruby
 - Motorola phones have started hijacking the Amazon app to insert affiliate codes
-- AltTab is introducing a Pro version and staying 開源
-- Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms
+- Prompt Politeness Affects 大型語言模型 Accuracy (2025)
 - Dehydration's role in learning and memory
-- Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal
-- Ferrari shares fall after launch of first EV as Jony Ive design proves divisive
 - A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft
-- Extending MySQL with VillageSQL
-- Squares in Squares
-- 為什麼 is Europe the fastest warming continent?
 - Jensen–Shannon Divergence
-- Stop Advertising in Your Commits
-- Show HN: OpenBrief – Local-first video downloader/summarizer
+- Squares in Squares
 - IBM Spins Off the First Pure-Play Quantum Chip Foundry
-- Show HN: Cross-代理 messaging and shared memory over the local filesystem
-- Stockholm poised to become leading European geospatial intel player
-- Nobody cracks open a 程式設計 book anymore
-- Iran president ends Internet blackout, orders access to be restored
-- Exit IP VPN servers mitigation rollout
+- Dials
+- Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms
+- AltTab is introducing a Pro version and staying 開源
+- Bay Area mom out thousands after scammers use AI to mimic daughter's voice
+- Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%
+- Uber, Lyft drivers in Massachusetts form first US ride-share union
 - Toshifumi Suzuki, founder of Seven-Eleven Japan, has died
+- Exit IP VPN servers mitigation rollout
+- Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal
+- Nobody cracks open a 程式設計 book anymore
+- Show HN: OpenBrief – Local-first video downloader/summarizer
 - 軟體 Engineering Won't Be Over
-- A Luxury Survivalist Community Is Tearing Itself Apart
-- Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us
-- Micropatching Brings the Abandoned Equation Editor Back to Life (2018)
+- Ferrari shares fall after launch of first EV as Jony Ive design proves divisive
+- Steve Jobs in Exile: NeXT and the Making of a Comeback [video]
+- Stop Advertising in Your Commits
 - 為什麼 the smart home bubble popped
-- Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it
-- There are now more ETFs than stocks in the US
-- MiniMax teased M3 Sparse Attention: 9.7x prefilling, 15.6x decoding at 1M
-- Everyone Against Us (2023)
-- California moves to exempt Linux from its age-verification law after backlash
-- What it takes to transpose a matrix
-- Hacker News front page as a site
-- Launch HN: Chert (YC P26) – Twilio for iMessage
-- Norway's 2 petabytes of Huawei flash storage and 大型語言模型 訓練
+- A fundamental principle of aeronautical engineering has been overturned
+- Grok 構建
 
 
 ---
