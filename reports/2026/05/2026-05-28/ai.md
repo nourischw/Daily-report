@@ -200,6 +200,9 @@ JavaScript執行環境Deno團隊發布Deno 2.8，這次更新重點放在強化N
 
 ### 更多 AI 新聞 (70則)
 
+- The $6 Billion Chinese Startup Trying to 構建 Hands for Every Robot (**Wired**)
+- Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook (**Wired**)
+- The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are (**Wired**)
 - Here Comes Ojai, Waymo’s 新 Chinese-Made Robotaxi (**Wired**)
 - Oura’s 新 Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach (**Wired**)
 - Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic (**Wired**)
@@ -247,9 +250,6 @@ JavaScript執行環境Deno團隊發布Deno 2.8，這次更新重點放在強化N
 - Hostinger Promo 代碼: 79% Off for June 2026 (**Wired**)
 - Uplift Promo Codes: $570 Off (**Wired**)
 - Pope Leo Schooled the Tech Bros on Tolkien (**Wired**)
-- 為什麼 the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation (**Wired**)
-- The 最佳 Movies to Stream This Month (May 2026) (**Wired**)
-- What Pope Leo XIV’s First Encyclical Says About the Power of AI (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
