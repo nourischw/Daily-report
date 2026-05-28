@@ -4,202 +4,202 @@
 
 ---
 
-### 1. [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+### 1. [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
+
+- ⭐ 361 分｜💬 248 留言｜👤 kostaj
+
+### 2. [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 
 https:&#x2F;&#x2F;variety.com&#x2F;2026&#x2F;digital&#x2F;news&#x2F;youtube-AI-video-label...
 
-- ⭐ 867 分｜💬 533 留言｜👤 nopg
+- ⭐ 1122 分｜💬 670 留言｜👤 nopg
 
-### 2. [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
+### 3. [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730)
 
-- ⭐ 68 分｜💬 24 留言｜👤 kunalsin9h
+- ⭐ 34 分｜💬 8 留言｜👤 zdw
 
-### 3. [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
+### 4. [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o)
 
-- ⭐ 122 分｜💬 41 留言｜👤 valzevul
+- ⭐ 60 分｜💬 27 留言｜👤 jjp
 
-### 4. [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+### 5. [Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions)
 
-- ⭐ 197 分｜💬 78 留言｜👤 stagas
+- ⭐ 179 分｜💬 188 留言｜👤 brandonb
 
-### 5. [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
+### 6. [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)
 
-- ⭐ 865 分｜💬 990 留言｜👤 simonw
+- ⭐ 268 分｜💬 115 留言｜👤 teleforce
 
-### 6. [AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?](https://almartis.xyz/gpu-free-datacenter.html)
+### 7. [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
 
-- ⭐ 30 分｜💬 20 留言｜👤 AlassaneSakande
+- ⭐ 1008 分｜💬 1114 留言｜👤 simonw
 
-### 7. [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
+### 8. [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
 
-- ⭐ 366 分｜💬 142 留言｜👤 speckx
+- ⭐ 319 分｜💬 140 留言｜👤 stagas
 
-### 8. [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
+### 9. [Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin](https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/)
 
-- ⭐ 282 分｜💬 287 留言｜👤 iamacyborg
+- ⭐ 41 分｜💬 19 留言｜👤 theanonymousone
 
-### 9. [I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
+### 10. [Creusot helps you prove your Rust 代碼 is correct](https://github.com/creusot-rs/creusot/tree/master)
 
-- ⭐ 199 分｜💬 71 留言｜👤 Panda_
+- ⭐ 14 分｜💬 0 留言｜👤 fanf2
 
-### 10. [The Green Side of the Lua](https://arxiv.org/abs/2601.16670)
+### 11. [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
 
-- ⭐ 50 分｜💬 35 留言｜👤 radiator
+- ⭐ 435 分｜💬 172 留言｜👤 speckx
 
-### 11. [The Ask](https://randsinrepose.com/archives/the-ask/)
+### 12. [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
 
-- ⭐ 72 分｜💬 44 留言｜👤 digitallogic
+- ⭐ 362 分｜💬 357 留言｜👤 iamacyborg
 
-### 12. [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
+### 13. [I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
 
-- ⭐ 161 分｜💬 20 留言｜👤 homarp
+- ⭐ 281 分｜💬 110 留言｜👤 Panda_
 
-### 13. [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+### 14. [Libwce: The entropy layer of a wavelet codec, on its own](https://yogthos.net/posts/2026-05-24-libwce.html)
 
-- ⭐ 862 分｜💬 407 留言｜👤 HelloUsername
+- ⭐ 23 分｜💬 0 留言｜👤 yogthos
 
-### 14. [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
+### 15. [Rapira (Рапира) – Soviet 程式設計 language interpreter](https://github.com/begoon/rapira)
 
-- ⭐ 327 分｜💬 216 留言｜👤 cwwc
+- ⭐ 76 分｜💬 46 留言｜👤 begoon
 
-### 15. [A 新 Typst Template for Pandoc (2025)](https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/)
+### 16. [More Whimsical OEIS Sequences](https://www.jeremykun.com/shortform/2026-05-22-1528/)
 
-- ⭐ 75 分｜💬 13 留言｜👤 ankitg12
+- ⭐ 35 分｜💬 7 留言｜👤 surprisetalk
 
-### 16. [RamAIn (YC W26) Is 招聘](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
+### 17. [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
+
+- ⭐ 133 分｜💬 38 留言｜👤 kunalsin9h
+
+### 18. [The Ask](https://randsinrepose.com/archives/the-ask/)
+
+- ⭐ 113 分｜💬 67 留言｜👤 digitallogic
+
+### 19. [Boston and Bermuda](https://askthepilot.com/boston-and-bermuda/)
+
+- ⭐ 3 分｜💬 0 留言｜👤 dangle1
+
+### 20. [Seeing Around Corners Using Smartphone-Grade Lidar](https://spectrum.ieee.org/smartphone-grade-lidar)
+
+- ⭐ 44 分｜💬 10 留言｜👤 marc__1
+
+### 21. [RamAIn (YC W26) Is 招聘](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
 
 - ⭐ 1 分｜💬 0 留言｜👤 svee
 
-### 17. [Warm up your MacBook (2019)](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
+### 22. [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
 
-- ⭐ 80 分｜💬 77 留言｜👤 kristianp
+- ⭐ 209 分｜💬 31 留言｜👤 homarp
 
-### 18. [Biff is a command line datetime Swiss army knife](https://github.com/BurntSushi/biff)
+### 23. [Show HN: Continue? Y/N: A 60-second game about AI 代理 permission fatigue](https://llmgame.scalex.dev)
 
-- ⭐ 22 分｜💬 8 留言｜👤 burntsushi
+- ⭐ 7 分｜💬 10 留言｜👤 Wirbelwind
 
-### 19. [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
+### 24. [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
-- ⭐ 301 分｜💬 195 留言｜👤 maxnoe
+- ⭐ 986 分｜💬 475 留言｜👤 HelloUsername
 
-### 20. [Go: Support for Generic Methods](https://github.com/golang/go/issues/77273)
+### 25. [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
 
-- ⭐ 248 分｜💬 207 留言｜👤 f311a
+- ⭐ 227 分｜💬 117 留言｜👤 valzevul
 
-### 21. [Investigating how prompt politeness affects 大型語言模型 accuracy (2025)](https://arxiv.org/abs/2510.04950)
+### 26. [Investigating how prompt politeness affects 大型語言模型 accuracy (2025)](https://arxiv.org/abs/2510.04950)
 
-- ⭐ 72 分｜💬 72 留言｜👤 KnuthIsGod
+- ⭐ 113 分｜💬 137 留言｜👤 KnuthIsGod
 
-### 22. [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
+### 27. [Biff is a command line datetime Swiss army knife](https://github.com/BurntSushi/biff)
 
-- ⭐ 172 分｜💬 106 留言｜👤 pseudolus
+- ⭐ 86 分｜💬 48 留言｜👤 burntsushi
 
-### 23. [Rapira (Рапира) – Soviet 程式設計 language interpreter](https://github.com/begoon/rapira)
+### 28. [Warm up your MacBook (2019)](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
 
-- ⭐ 7 分｜💬 4 留言｜👤 begoon
+- ⭐ 115 分｜💬 109 留言｜👤 kristianp
 
-### 24. [Can we have the day off?](https://mlsu.io/posts/day-off/)
+### 29. [Go: Support for Generic Methods](https://github.com/golang/go/issues/77273)
 
-- ⭐ 1046 分｜💬 617 留言｜👤 mlsu
+- ⭐ 276 分｜💬 235 留言｜👤 f311a
 
-### 25. [Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us](https://retrogamecoders.com/zero-lines-maze/)
+### 30. [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
 
-- ⭐ 43 分｜💬 15 留言｜👤 ibobev
-
-### 26. [Seeing Around Corners Using Smartphone-Grade Lidar](https://spectrum.ieee.org/smartphone-grade-lidar)
-
-- ⭐ 4 分｜💬 0 留言｜👤 marc__1
-
-### 27. [Stress disrupts hippocampal integration of overlapping events, memory 推論](https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08)
-
-- ⭐ 122 分｜💬 20 留言｜👤 gmays
-
-### 28. [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
-
-- ⭐ 255 分｜💬 80 留言｜👤 nicoloren
-
-### 29. [My 新 obsession: A horse-racing board game of pure luck](https://alexanderbjoy.com/horse-race-board-game/)
-
-- ⭐ 77 分｜💬 52 留言｜👤 surprisetalk
-
-### 30. [Interleaved Deltas](https://mmapped.blog/posts/51-interleaved-deltas)
-
-- ⭐ 63 分｜💬 1 留言｜👤 surprisetalk
+- ⭐ 324 分｜💬 205 留言｜👤 maxnoe
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Canada to order military plane fleet from Sweden in shift from US suppliers
-- Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS
+- Stress disrupts hippocampal integration of overlapping events, memory 推論
+- A 新 Typst Template for Pandoc (2025)
+- Google employee charged with $1M Polymarket insider trading bet on search term
+- Mini Micro Fantasy Computer
+- Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us
+- My 新 obsession: A horse-racing board game of pure luck
 - All of human cooking compressed into 2 megabytes
+- Dispatches from the possibly last days of human relevance
+- Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS
+- Canada to order military plane fleet from Sweden in shift from US suppliers
+- FBI Arrests CIA Official with $40M in Gold Bars in His Home
+- Iran's Internet is partially restored, Cloudflare Radar data shows
+- Can we have the day off?
 - Last.fm is now independent
-- Private equity bought America's essential services
 - Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)
-- Human Bottlenecks
+- Private equity bought America's essential services
+- Websites have a 新 way to spy on visitors: analyzing their SSD activity
 - 什麼是 a Direct Attach Copper (DAC) Cable? (2021)
+- Interleaved Deltas
 - Tech CEOs are apparently suffering from AI psychosis
-- Hetzner Price Adjustment
-- On Labubu and the Hyperreal
-- Show HN: Open-Source AI Racing Harness
-- Freediving, Embodiment and Humanity
-- Multi-代理 大型語言模型 系統 for Automated Vulnerability Discovery and Reproduction
-- StumbleTV: Chat Roulette but for Exposed Webcams
+- Human Bottlenecks
 - Raft Consensus with a Minority of Nodes
-- Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) 網頁/iOS
-- The Melancholy of Slaying Monsters
+- On Labubu and the Hyperreal
+- Freediving, Embodiment and Humanity
+- Commission fines Temu €200M for breaching the Digital Services Act
+- AI sticker shock hits corporate America
 - Claude 代碼 as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs
-- Seven Ways to Avoid Losing Your 工作 to AI
-- MIT president: 為什麼 so many optimistic scientists are losing heart
+- The Melancholy of Slaying Monsters
+- Show HN: Open-Source AI Racing Harness
+- Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) 網頁/iOS
+- Multi-代理 大型語言模型 系統 for Automated Vulnerability Discovery and Reproduction
+- A 新 York cemetery was hiding 5.5M bees underground
 - Ripgrep AI Policy
-- I am not a black belt
-- Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and 為什麼 Zig Isn't 1.0 [video]
+- I cut my AI API costs 99% by switching from Claude to DeepSeek
+- Spotify CEO defends AI music, wants you to stop calling it 'slop'
+- The GitHub Actions Language: Usage, Evolution, and Workflow Reliability
 - Show HN: I made an emergency page for my family
-- Fully in-browser container builds
-- We are Poles, so, of course, we print in Latin
+- StumbleTV: Chat Roulette but for Exposed Webcams
 - Safescript – A Language for AI Era
-- 為什麼 Ctrl+V won't paste images in Claude 代碼 on WSL, with a fix
-- I'm Tired of Talking to AI
 - BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass
-- 訓練 our own AI models
-- Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon
-- XLIDE: VBA without excel
+- Hetzner Price Adjustment
+- We are Poles, so, of course, we print in Latin
+- Fully in-browser container builds
 - Launch HN: Minicor (YC P26) – Windows desktop automations at scale
-- Cloudflare Flagship
-- tsz: high performance TypeScript checker, emitter, and language service in Rust
-- A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi
-- How the ZX80 Works (2019)
-- What It Takes to Preserve Floppy Disks
-- Rust Will Save Linux from AI, Says Greg Kroah-Hartman
-- Dimensions of Geiger-Muller tube holder on GGreg20_V3 Geiger counter PCB (2025)
-- Theseus: Translating Win32 to WASM
+- I am not a black belt
+- I'm Tired of Talking to AI
+- The Green Side of the Lua
+- Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon
 - Using AI to write better 代碼 more slowly
+- XLIDE: VBA without excel
+- 訓練 our own AI models
+- Cloudflare Flagship
+- Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and 為什麼 Zig Isn't 1.0 [video]
 - The worst 工作 interview I ever had
 - C array types are weird
-- Unicode 18.0.0 Beta
-- Websites have a 新 way to spy on visitors: analyzing their SSD activity
+- tsz: high performance TypeScript checker, emitter, and language service in Rust
 - A portentous reunion
-- Show HN: Teleport-env – <500ms stateful rollbacks for AI agents via CRIU
-- Phloto for My Photo Flow
+- Theseus: Translating Win32 to WASM
 - That Methyl Methacrylate Tank
-- Google 工程師 charged with using inside information to win $1.2M on Polymarket
-- Getting Claude to extract data from a 1997 football 經理 game
+- Unicode 18.0.0 Beta
+- MIT president: 為什麼 so many optimistic scientists are losing heart
 - Outsourcing plus local AI will soon become more economical vs. frontier labs
-- TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation
-- The user is visibly frustrated
-- The 最佳 Engineers Write Less 代碼
-- Dropbox CEO Drew Houston to step down
+- How the ZX80 Works (2019)
+- Seven Ways to Avoid Losing Your 工作 to AI
+- A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi
 - Magnifica Humanitas
-- Corporations can vote in some Delaware elections, judge says
-- The Steinwinter Supercargo
-- Show HN: Posthorn, self-hosted mail gateway
-- Opaque Types in Python
-- C64 Basic: Game Map Overhead “Camera View”
-- The real cost of owning a home
-- What I've Learned (So Far) Building Online Mini Games with Elixir and Swift
-- What Gets Kept
-- IBM Confidential: 系統/360 File Organization [video]
-- A few interesting modern pixel fonts
+- The user is visibly frustrated
+- TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation
+- CNN sues Perplexity over 'verbatim' copycat articles
+- Dropbox CEO Drew Houston to step down
 
 
 ---
