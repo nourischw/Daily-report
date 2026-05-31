@@ -4,206 +4,206 @@
 
 ---
 
-### 1. [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
+### 1. [The Website Specification](https://specification.website/)
 
-- ⭐ 414 分｜💬 129 留言｜👤 antipurist
+- ⭐ 83 分｜💬 22 留言｜👤 k1m
 
 ### 2. [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
 
-- ⭐ 308 分｜💬 190 留言｜👤 aaronbrethorst
+- ⭐ 550 分｜💬 320 留言｜👤 aaronbrethorst
 
-### 3. [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert)
+### 3. [A Gentle 介紹 Lattice-Based Cryptography [pdf]](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf)
 
-- ⭐ 229 分｜💬 64 留言｜👤 Hawzen
+- ⭐ 74 分｜💬 2 留言｜👤 jayhoon
 
-### 4. [Shantell Sans](https://shantellsans.com/process)
+### 4. [Shantell Sans (2023)](https://shantellsans.com/process)
 
-- ⭐ 89 分｜💬 10 留言｜👤 aleda145
+- ⭐ 221 分｜💬 20 留言｜👤 aleda145
 
-### 5. [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises)
+### 5. [Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal](https://github.com/marekkowalczyk/breathe-cli)
+
+I built a terminal app that paces slow breathing at 6 breaths per minute for vagal tone 訓練. It&#x27;s a single Python file, stdlib only, no dependencies — just run breathe and follow the bar.I&#
+
+- ⭐ 12 分｜💬 1 留言｜👤 marekkowalczyk
+
+### 6. [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
+
+- ⭐ 26 分｜💬 0 留言｜👤 fdb
+
+### 7. [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
+
+- ⭐ 30 分｜💬 2 留言｜👤 TMWNN
+
+### 8. [Associative learning turns DEET from aversive to appetitive in Aedes aegypti](https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from)
+
+- ⭐ 29 分｜💬 11 留言｜👤 croes
+
+### 9. [Telli (YC F24) is 招聘 in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
+
+- ⭐ 1 分｜💬 0 留言｜👤 sebselassie
+
+### 10. [A pictorial 介紹 differential geometry (2017)](https://arxiv.org/abs/1709.08492)
+
+- ⭐ 23 分｜💬 0 留言｜👤 ricudis
+
+### 11. [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert)
+
+https:&#x2F;&#x2F;shell.hawzen.me&#x2F;
+
+- ⭐ 311 分｜💬 79 留言｜👤 Hawzen
+
+### 12. [One year of Roto, a compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
+
+- ⭐ 15 分｜💬 0 留言｜👤 Hasnep
+
+### 13. [The AV2 Video Standard Has 發布 (Final v1.0 Specification)](https://av2.aomedia.org)
+
+- ⭐ 179 分｜💬 63 留言｜👤 ksec
+
+### 14. [Microsoft Office 2019 and 2021 for Mac view-only conversion](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
+
+- ⭐ 823 分｜💬 292 留言｜👤 antipurist
+
+### 15. [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises)
 
 https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;889234&#x2F;downdetector-ookla-spee..., https:&#x2F;&#x2F;archive.ph&#x2F;FR8NDhttps:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026
 
-- ⭐ 245 分｜💬 126 留言｜👤 Garbage
+- ⭐ 277 分｜💬 143 留言｜👤 Garbage
 
-### 6. [Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html)
+### 16. [Racket v9.2](https://blog.racket-lang.org/2026/05/racket-v9-2.html)
 
-- ⭐ 23 分｜💬 1 留言｜👤 spdegabrielle
+- ⭐ 104 分｜💬 14 留言｜👤 spdegabrielle
 
-### 7. [wolfSSL releases a 新 product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
+### 17. [Mechanical Pencil: An illustrated celebration of the engineering around us](https://mechanical-pencil.com/)
 
-- ⭐ 68 分｜💬 13 留言｜👤 aidangarske
+- ⭐ 63 分｜💬 7 留言｜👤 Muhammad523
 
-### 8. [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
+### 18. [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
 
-- ⭐ 76 分｜💬 37 留言｜👤 tylerdane
+- ⭐ 102 分｜💬 24 留言｜👤 sohkamyung
 
-### 9. [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
+### 19. [Please Do Not Vibe Fuck Up This 軟體](https://github.com/RsyncProject/rsync/issues/929)
 
-- ⭐ 54 分｜💬 9 留言｜👤 sohkamyung
+- ⭐ 153 分｜💬 54 留言｜👤 justdotJS
 
-### 10. [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
+### 20. [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync)
 
-- ⭐ 176 分｜💬 50 留言｜👤 kristoff_it
+- ⭐ 387 分｜💬 151 留言｜👤 sph
 
-### 11. [Voxel Space (2017)](https://s-macke.github.io/VoxelSpace/)
+### 21. [Voxel Space (2017)](https://s-macke.github.io/VoxelSpace/)
 
-- ⭐ 252 分｜💬 56 留言｜👤 davikr
+- ⭐ 281 分｜💬 58 留言｜👤 davikr
 
-### 12. [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
+### 22. [wolfSSL releases a 新 product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
 
-- ⭐ 61 分｜💬 31 留言｜👤 jerrythegerbil
+- ⭐ 89 分｜💬 17 留言｜👤 aidangarske
 
-### 13. [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
+### 23. [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
 
-- ⭐ 365 分｜💬 181 留言｜👤 freeCandy
+- ⭐ 200 分｜💬 67 留言｜👤 kristoff_it
 
-### 14. [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync)
+### 24. [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
 
-- ⭐ 325 分｜💬 141 留言｜👤 sph
+- ⭐ 100 分｜💬 44 留言｜👤 tylerdane
 
-### 15. [Dusklight – GC Twilight Princess Decompiled](https://twilitrealm.dev/)
+### 25. [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
 
-- ⭐ 70 分｜💬 7 留言｜👤 shepherdjerred
+- ⭐ 93 分｜💬 41 留言｜👤 jerrythegerbil
 
-### 16. [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
+### 26. [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
 
-- ⭐ 80 分｜💬 13 留言｜👤 poppypetalmask
+- ⭐ 413 分｜💬 198 留言｜👤 freeCandy
 
-### 17. [Design Engineering Magazine](https://interfaces.dev/)
+### 27. [Pandoc Templates](https://pandoc-templates.org/)
 
-- ⭐ 61 分｜💬 6 留言｜👤 hnhsh
+- ⭐ 391 分｜💬 50 留言｜👤 ankitg12
 
-### 18. [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
+### 28. [Show HN: Komi-learn – continuous memory and self-improvement for coding agents](https://github.com/kurikomi-labs/komi-learn)
 
-- ⭐ 89 分｜💬 16 留言｜👤 pwg
+- ⭐ 12 分｜💬 1 留言｜👤 rainxchzed
 
-### 19. [The AV2 Video Standard Has 發布 (Final v1.0 Specification)](https://av2.aomedia.org)
+### 29. [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
 
-- ⭐ 25 分｜💬 0 留言｜👤 ksec
+- ⭐ 117 分｜💬 22 留言｜👤 poppypetalmask
 
-### 20. [Gustav Klimt and Egon Schiele in Conversation (2018)](https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/)
+### 30. [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
 
-- ⭐ 18 分｜💬 3 留言｜👤 rballpug
-
-### 21. [Pandoc Templates](https://pandoc-templates.org/)
-
-- ⭐ 366 分｜💬 48 留言｜👤 ankitg12
-
-### 22. [90% of the T Distribution](https://entropicthoughts.com/ninety-percent-of-the-t-distribution)
-
-- ⭐ 27 分｜💬 7 留言｜👤 ibobev
-
-### 23. [Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM](https://arxiv.org/abs/2605.29135)
-
-- ⭐ 23 分｜💬 3 留言｜👤 dryarzeg
-
-### 24. [Zig: 構建 系統 Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
-
-- ⭐ 321 分｜💬 210 留言｜👤 tosh
-
-### 25. [Tsplat – Run Gaussian splatting in your terminal](https://github.com/darshanmakwana412/tsplat)
-
-- ⭐ 30 分｜💬 8 留言｜👤 martianvoid
-
-### 26. [Show HN: Open Envelope – an open schema for defining AI 代理 teams](https://openenvelope.org/docs/schema/)
-
-Built an open JSON Schema for defining AI 代理 teams.Multi-代理 systems are becoming a real deployment pattern — not single assistants, but teams with roles, handoffs, and human checkpoints. But the
-
-- ⭐ 29 分｜💬 2 留言｜👤 ashconway
-
-### 27. [Navier-Stokes fluid simulation explained with Godot game engine](https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot)
-
-- ⭐ 188 分｜💬 24 留言｜👤 myzek
-
-### 28. [C++ CLI for folder encryption with AES-256-GCM and USB-based key loading](https://news.ycombinator.com/item?id=48304365)
-
-I built a Linux CLI tool that encrypts and decrypts folders using AES-256-GCM. It also hides file and folder names and stores the mapping in an encrypted file.Repo: https:&#x2F;&#x2F;github.com&#x2F;s
-
-- ⭐ 9 分｜💬 3 留言｜👤 nextma
-
-### 29. [Werner Herzog in conversation with Paul Cronin (2014)](https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/)
-
-- ⭐ 75 分｜💬 24 留言｜👤 Michelangelo11
-
-### 30. [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism)
-
-- ⭐ 190 分｜💬 208 留言｜👤 1vuio0pswjnm7
+- ⭐ 113 分｜💬 18 留言｜👤 pwg
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Zig: 構建 系統 Reworked
+- Dusklight – GC Twilight Princess Decompiled
+- Gustav Klimt and Egon Schiele in Conversation (2018)
+- 90% of the T Distribution
+- Leo's first encyclical attacks technological messianism
+- Navier-Stokes fluid simulation explained with Godot game engine
+- Design Engineering Magazine
+- Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM
+- Evolving FSQ 開源 Places (2025)
+- Werner Herzog in conversation with Paul Cronin (2014)
 - It takes two neurons to ride a bicycle (2004)
 - IXI's autofocusing lenses are almost ready to replace multifocal glasses
-- A disappearing Service Processor (2025)
+- Show HN: Open Envelope – an open schema for defining AI 代理 teams
 - What are locusts and what happened to them?
 - WH proposes rules giving political appointees final approval on research grants
+- 86Box v6.0
+- An Elephant Who Demonstrated That Her Species Might Be Self-Aware, Dies at 55
 - Show HN: Helios – what plug-in solar could generate for any address in Britain
 - AI 工作 grief: A psychological crisis hitting tech workers
+- Tsplat – Run Gaussian splatting in your terminal
+- A disappearing Service Processor (2025)
+- UA flight – 'turn Bluetooth off or we're turning around'
 - Stateless Actors
-- AI grifters are creating fake Black people to sell Shein junk
-- Shakespeare’s World – I thought this would be simple but
-- EY Canada published a cybersecurity report and most citations were hallucinated
-- Meta is reportedly developing an AI pendant
-- Hormuz crisis side effect: a sharp rise in container shipping rates
-- 1M Ancient Greek fragments soon to be translated with the help of AI
+- SQLite is all you need for durable workflows
 - Macsurf, "modern" 網頁 browser for macOS 9
 - Searching for Birds
-- We are constantly broadcasting emotional data
-- The Journal of Hendrick Hamel (1668)
-- Testing the WWI concrete ships and WWII concrete barges
-- Shift will clean homes for free to train future robots
-- Two abandoned Soviet space shuttles left in the Kazakh steppe (2017)
-- Memory decline after menopause linked to loss of estrogen production in brain
-- SQLite is all you need for durable workflows
-- Starbucks Abandons Borked AI Inventory Tool That Couldn't Count
+- EY Canada published a cybersecurity report and most citations were hallucinated
 - The Kaiser and a "Mediocre Man" Theory of History
-- Robotaxis Are Spreading Across the U.S.–and So Is the Backlash
 - Algebraic Effects for the Rest of Us
-- Show HN: Tiny-vLLM – high performance 大型語言模型 推論 engine in C++ and CUDA
-- Exotic prime numbers could be hiding inside black holes
-- Show HN: Open-source private home 安全 camera 系統 (end-to-end encryption)
-- Ask HN: 什麼是 the State of App Development in 2026?
-- What It Takes to Preserve Floppy Disks
 - Claude Opus 4.8
-- Floor and Ceil versus Denormals on CPU and GPU
-- UA flight – 'turn Bluetooth off or we're turning around'
-- Corporate America Is Starting to Ration AI as Cost Skyrockets
-- On Rendering Diffs
-- Tony Gilroy, Andor creator doesn't want his work to become 訓練 data
-- 768GB Intel Optane DIMMs to run 1T-parameter 大型語言模型 with single GPU at 4tps
+- We are constantly broadcasting emotional data
+- Dell Confirms XPS Laptop with NVIDIA N1X at Computex
+- Shakespeare’s World – I thought this would be simple but
+- Show HN: Tiny-vLLM – high performance 大型語言模型 推論 engine in C++ and CUDA
+- Testing the WWI concrete ships and WWII concrete barges
+- Hormuz crisis side effect: a sharp rise in container shipping rates
+- Show HN: Open-source private home 安全 camera 系統 (end-to-end encryption)
 - Bricks and Minifigs Stole a Man's $200k Lego Collection
+- 1M Ancient Greek fragments soon to be translated with the help of AI
+- Memory decline after menopause linked to loss of estrogen production in brain
 - Dynamic Workflows in Claude 代碼
-- Cedana (YC S23) Is 招聘
-- High Density Living, 2000 Years Ago: Inside the Roman Apartment Building
-- A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits (2025)
+- What It Takes to Preserve Floppy Disks
 - Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM
-- Naphtha shortages in Japan
-- Notes from the Mistral AI Now Summit
-- GTA 6 Developers Unionize
+- On Rendering Diffs
+- AI grifters are creating fake Black people to sell Shein junk
+- High Density Living, 2000 Years Ago: Inside the Roman Apartment Building
 - We should be more tired than the 模型
-- Zerostack v1.3.4 發布 – Lightweight Unix-like coding 代理
-- Let's talk about EU Sovereignty (2025)
-- Congress moves to integrate US and Israeli militaries
-- Real-time 大型語言模型 推論 on Standard GPUs: 3k tokens/s per request
+- GTA 6 Developers Unionize
+- Notes from the Mistral AI Now Summit
 - Let's compile Quake like it's 1997
-- Saffron
+- Real-time 大型語言模型 推論 on Standard GPUs: 3k tokens/s per request
+- Corporate America Is Starting to Ration AI as Cost Skyrockets
+- Floor and Ceil versus Denormals on CPU and GPU
+- Naphtha shortages in Japan
+- If Windows were designed today, would the Registry exist? [video]
 - Show HN: TV Explorer. Adding advanced UI to free online TV
-- OpenRCT2 v0.5.1 "Swamp Castle" 發布 Last version to support Windows 7
-- 什麼是 a Dickover?
-- The Last Technical Interview
-- A 新 register allocator for ZJIT
-- The timing of the impending crude crisis
-- CAPTCHAs can still detect AI agents
-- MCP is dead?
+- Ask HN: 什麼是 the State of App Development in 2026?
 - Social Animus
-- Expertise in the age of AI
-- I am against GenAI and everything it stands for
-- Snowboard Kids 2 is 100% Decompiled
-- It's hard to justify buying a Framework 12
-- Print with dozens of colors: Our 新 open-source ColorMix for PrusaSlicer
+- The Last Technical Interview
+- CAPTCHAs can still detect AI agents
+- 什麼是 a Dickover?
+- Starbucks Abandons Borked AI Inventory Tool That Couldn't Count
 - Someone used my 開源 project to phish people
+- Expertise in the age of AI
+- It's hard to justify buying a Framework 12
+- MCP is dead?
+- OpenRCT2 v0.5.1 "Swamp Castle" 發布 Last version to support Windows 7
+- The dead economy theory
+- A 新 register allocator for ZJIT
+- Print with dozens of colors: Our 新 open-source ColorMix for PrusaSlicer
 
 
 ---
