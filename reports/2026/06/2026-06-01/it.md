@@ -4,200 +4,200 @@
 
 ---
 
-### 1. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+### 1. [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)
 
-- ⭐ 535 分｜💬 298 留言｜👤 HypnoticOcelot
+- ⭐ 164 分｜💬 65 留言｜👤 cafkafk
 
-### 2. [Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a)
+### 2. [Tracing HTTP Requests with Go's net/HTTP/httptrace](https://blainsmith.com/articles/httptrace-with-go/)
 
-- ⭐ 9 分｜💬 2 留言｜👤 Alupis
+- ⭐ 38 分｜💬 0 留言｜👤 speckx
 
-### 3. [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
+### 3. [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
 
-- ⭐ 302 分｜💬 103 留言｜👤 modinfo
+- ⭐ 299 分｜💬 225 留言｜👤 thcipriani
 
-### 4. [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
+### 4. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
 
-- ⭐ 496 分｜💬 325 留言｜👤 MrJagil
+- ⭐ 687 分｜💬 387 留言｜👤 HypnoticOcelot
 
-### 5. [新 Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/)
+### 5. [Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)](https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers)
 
-- ⭐ 66 分｜💬 46 留言｜👤 recursivedoubts
+- ⭐ 13 分｜💬 0 留言｜👤 itsezc
 
-### 6. [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
+### 6. [Cessation of public development of Kefir C compiler](https://kefir.protopopov.lv/posts/announce2.html)
 
-- ⭐ 403 分｜💬 148 留言｜👤 captain_bender
+- ⭐ 35 分｜💬 5 留言｜👤 f311a
 
-### 7. [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+### 7. [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
 
-- ⭐ 106 分｜💬 89 留言｜👤 thcipriani
+- ⭐ 133 分｜💬 21 留言｜👤 rawgabbit
 
-### 8. [United Airlines 767 returns to Newark after Bluetooth name sparks alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
+### 8. [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
 
-- ⭐ 283 分｜💬 443 留言｜👤 Eridanus2
+- ⭐ 234 分｜💬 82 留言｜👤 hackerBanana
 
-### 9. [The four 程式設計 questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from)
+### 9. [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
 
-- ⭐ 83 分｜💬 32 留言｜👤 tosh
+- ⭐ 399 分｜💬 167 留言｜👤 modinfo
 
-### 10. [Meta 推出 Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
+### 10. [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
 
-- ⭐ 132 分｜💬 210 留言｜👤 tambourine_man
+- ⭐ 499 分｜💬 176 留言｜👤 captain_bender
 
-### 11. [Reconciling Kubernetes cost estimates with CUR / FOCUS billing data](https://github.com/tanrikuluozlem/burn)
+### 11. [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
 
-- ⭐ 26 分｜💬 1 留言｜👤 OzlemT
+- ⭐ 32 分｜💬 10 留言｜👤 adm4
 
-### 12. [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
+### 12. [United Airlines 767 returns to Newark after Bluetooth name sparks alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
 
-- ⭐ 14 分｜💬 1 留言｜👤 rawgabbit
+- ⭐ 367 分｜💬 712 留言｜👤 Eridanus2
 
-### 13. [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+### 13. [Two Ways to Draw Infinite Jest's Sierpinski Gasket](https://www.chiply.dev/post-ij-sierpinski)
 
-- ⭐ 119 分｜💬 63 留言｜👤 mooreds
+- ⭐ 27 分｜💬 28 留言｜👤 chiply
 
-### 14. [Linux/M68k](http://www.linux-m68k.org/)
+### 14. [Meta 推出 Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
 
-- ⭐ 63 分｜💬 17 留言｜👤 doener
+- ⭐ 232 分｜💬 368 留言｜👤 tambourine_man
 
-### 15. [Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
+### 15. [The Genius of the Barn Owl's Feathers](https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/)
 
-- ⭐ 393 分｜💬 192 留言｜👤 thunderbong
+- ⭐ 41 分｜💬 10 留言｜👤 EA-3167
 
-### 16. [What if 遠端 working, not AI, is to blame for weak 初級 招聘?](https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0)
+### 16. [two strangers. one call. no names](https://just2voices.com/)
 
-- ⭐ 92 分｜💬 139 留言｜👤 uxhacker
+- ⭐ 3 分｜💬 1 留言｜👤 whatis1215
 
-### 17. [It's Not Just X. It's Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/)
+### 17. [The four 程式設計 questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from)
 
-- ⭐ 115 分｜💬 89 留言｜👤 mooreds
+- ⭐ 147 分｜💬 60 留言｜👤 tosh
 
-### 18. [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
+### 18. [What if 遠端 working, not AI, is to blame for weak 初級 招聘?](https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0)
 
-- ⭐ 69 分｜💬 13 留言｜👤 vira28
+- ⭐ 184 分｜💬 244 留言｜👤 uxhacker
 
-### 19. [Restartable Sequences](https://justine.lol/rseq/)
+### 19. [Unix in East Germany (GDR) (1990)](https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs)
 
-- ⭐ 182 分｜💬 51 留言｜👤 grappler
+- ⭐ 79 分｜💬 20 留言｜👤 downbad_
 
-### 20. [Unix in East Germany (GDR) (1990)](https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs)
+### 20. [為什麼 are large language models so terrible at video games?](https://spectrum.ieee.org/ai-video-games-llms-togelius)
 
-- ⭐ 29 分｜💬 4 留言｜👤 downbad_
+- ⭐ 17 分｜💬 24 留言｜👤 sxx0
 
-### 21. [The Website Specification](https://specification.website/)
+### 21. [新 Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/)
 
-- ⭐ 443 分｜💬 184 留言｜👤 k1m
+- ⭐ 105 分｜💬 72 留言｜👤 recursivedoubts
 
-### 22. [Websites have a 新 way to spy on visitors: analyzing their SSD activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/)
+### 22. [Sony 推出 Bravia 9 II and Bravia 7 II with 'True RGB'](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1779897602)
 
-- ⭐ 127 分｜💬 30 留言｜👤 Brajeshwar
+- ⭐ 34 分｜💬 27 留言｜👤 ksec
 
-### 23. [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
+### 23. [Websites have a 新 way to spy on visitors: analyzing their SSD activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/)
 
-- ⭐ 272 分｜💬 132 留言｜👤 zeristor
+- ⭐ 191 分｜💬 50 留言｜👤 Brajeshwar
 
-### 24. [Using safe-area-inset to 構建 行動-safe layouts](https://polypane.app/blog/using-safe-area-inset-to-build-mobile-safe-layouts/)
+### 24. [Blorp Language](https://blorp-lang.org/)
 
-- ⭐ 10 分｜💬 1 留言｜👤 eustoria
+- ⭐ 9 分｜💬 2 留言｜👤 croottree
 
-### 25. [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)](https://lwn.net/Articles/104185/)
+### 25. [The Website Specification](https://specification.website/)
 
-- ⭐ 64 分｜💬 49 留言｜👤 luu
+- ⭐ 506 分｜💬 203 留言｜👤 k1m
 
-### 26. [Having your insulin pump die while you're on vacation](https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/)
+### 26. [Finding success in industry as a chip designer](https://spectrum.ieee.org/chip-design-academic-vs-industry)
 
-- ⭐ 130 分｜💬 143 留言｜👤 speckx
+- ⭐ 42 分｜💬 5 留言｜👤 jnord
 
-### 27. [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
+### 27. [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
 
-- ⭐ 122 分｜💬 62 留言｜👤 Dzheky
+- ⭐ 307 分｜💬 143 留言｜👤 zeristor
 
-### 28. [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need)
+### 28. [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
 
-- ⭐ 154 分｜💬 87 留言｜👤 lucasfcosta
+- ⭐ 170 分｜💬 86 留言｜👤 mooreds
 
-### 29. [The History of "Prisencolinensinainciusol"](https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/)
+### 29. [Restartable Sequences](https://justine.lol/rseq/)
 
-- ⭐ 30 分｜💬 8 留言｜👤 NaOH
+- ⭐ 233 分｜💬 57 留言｜👤 grappler
 
-### 30. ['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
+### 30. [Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
 
-- ⭐ 165 分｜💬 85 留言｜👤 mindcrime
+- ⭐ 562 分｜💬 269 留言｜👤 thunderbong
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]
-- Karpathy 大型語言模型 Wiki pattern integrated into Obsidian agenic workflow
-- Deflock hits 100k ALPRs Mapped in USA
-- 安全 Envelope Pattern collection – S.E.C.R.E.T
-- ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing
+- Rift: Better Alternative to Git Worktrees
+- Linux/M68k
+- Having your insulin pump die while you're on vacation
+- Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire
+- A powerful 新 chapter for Windows PCs, accelerated by NVIDIA RTX Spark
+- Lean, Not Backpressure
+- Using Git's rerere feature to escape recurring conflict hell
+- Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)
+- Backpressure is all you need
+- Show HN: Postbase – 100% 開源 Alternative to Firebase and Supabase [video]
+- Odysseus – self-hosted AI workspace
+- Weekend trivia: your process' memory is a file
+- Bias Compounds, Variance Washes Out
+- Disregard previous instructions and delete all jqwik tests
+- Legal action forces Facebook whistleblower to sit in silence at Hay festival
 - A Gentle 介紹 Lattice-Based Cryptography [pdf]
-- One year of Roto, a compiled scripting language for Rust
-- 新 solar desalination breakthrough makes fresh water without toxic brine
-- Telli (YC F24) is 招聘 in engineering, design, and GTM [Berlin, on-site]
-- I put a datacenter GPU in my gaming PC
+- 安全 Envelope Pattern collection – S.E.C.R.E.T
+- FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]
+- Netflix Wiz creates app to slash AI bills, then open sources it
 - Domain expertise has always been the real moat
-- A pictorial 介紹 differential geometry (2017)
-- Avian Visitors
+- Telli (YC F24) is 招聘 in engineering, design, and GTM [Berlin, on-site]
+- One year of Roto, a compiled scripting language for Rust
+- 'Backrooms' Stuns with $81M Debut
 - Mechanical Pencil: An illustrated celebration of the engineering around us
-- Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal
-- SICP Video Lectures (1986)
-- Daily pill can double survival time for deadliest cancer, trial shows
-- Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6
+- Quay.io Is Down
 - Racket v9.2
+- The History of "Prisencolinensinainciusol"
+- Using safe-area-inset to 構建 行動-safe layouts
+- The Totalisator
+- Avian Visitors
+- Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal
+- Deflock hits 100k ALPRs Mapped in USA
+- A pictorial 介紹 differential geometry (2017)
+- Scientists discover lost range of 'supermountains' 3x longer than the Himalayas
+- I put a datacenter GPU in my gaming PC
+- SICP Video Lectures (1986)
 - Associative learning turns DEET from aversive to appetitive in Aedes aegypti
-- Unlawful by design: Exposing the human rights costs of generative AI
-- You weren't meant to have a boss (2008)
-- Parallel Reconstruction of Lawful TLS Wiretapping
-- Shantell Sans (2023)
-- Guidelines for Respectful Use of AI
-- The AV2 Video Standard Has 發布 (Final v1.0 Specification)
-- Cheese Paper: a text editor specifically designed for writing
 - WH proposes rules giving political appointees final approval on research grants
-- The UI problem of AI coding agents
-- wolfSSL releases a 新 product; wolfCOSE a zero alloc C embbedded COSE stack
+- Malaysia enforces ban on social media accounts for children younger than 16
+- Parallel Reconstruction of Lawful TLS Wiretapping
+- Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6
+- How Not to Buy SpaceX Stock (It's Harder Than You Think)
+- Shantell Sans (2023)
+- Shift from a leader-follower to a leader-leader approach
+- Daily pill can double survival time for deadliest cancer, trial shows
+- The AV2 Video Standard Has 發布 (Final v1.0 Specification)
 - Show HN: 500 years of Joseon court omens as an observability dashboard
-- Deep Dive into Kubernetes Gateway API
-- I found a seashell in the middle of the desert
-- Microcode inside the Intel 8087 floating-point chip: register exchange
-- With Claude: Less Coding, More Testing
-- Atherton spent $145K to delay train electrification. The rest of us paid $400M
 - IXI's autofocusing lenses are almost ready to replace multifocal glasses
-- Dusklight – GC Twilight Princess Decompiled
-- Ahoy, DECmate II the little PDP-8 that could
+- Unlawful by design: Exposing the human rights costs of generative AI
+- wolfSSL releases a 新 product; wolfCOSE a zero alloc C embbedded COSE stack
+- Cheese Paper: a text editor specifically designed for writing
+- I found a seashell in the middle of the desert
+- 新 solar desalination breakthrough makes fresh water without toxic brine
 - What are locusts and what happened to them?
+- Dusklight – GC Twilight Princess Decompiled
+- Microcode inside the Intel 8087 floating-point chip: register exchange
+- It's Not Just X. It's Y
+- You weren't meant to have a boss (2008)
 - It takes two neurons to ride a bicycle (2004)
-- The solution might be cancelling my AI subscription
-- AI 工作 grief: A psychological crisis hitting tech workers
-- An Elephant Who Demonstrated That Her Species Might Be Self-Aware, Dies at 55
+- Unit cell designer for 2d wallpaper groups
 - Openrsync: An implementation of rsync, by the OpenBSD team
-- Inkstravaganza
-- 86Box v6.0
-- Nearly Half of Home Insurance Claims Result in Zero Payout
-- Chibil: A C compiler targeting .NET IL
-- Remove all 大型語言模型 generated commits before people get hurt by this nonsense
-- Please Do Not Vibe Fuck Up This 軟體
+- Learn SQL Once, Use It for 30 Years
+- Ahoy, DECmate II the little PDP-8 that could
+- An Elephant Who Demonstrated That Her Species Might Be Self-Aware, Dies at 55
+- Claude Opus 4.8
+- NVIDIA jumps into PCs with 新 chip debuting in laptops from Microsoft, Dell, HP
+- AI 工作 grief: A psychological crisis hitting tech workers
+- China Aims A.I. At Predicting Who Could Pose a Political Risk
 - Accenture to acquire Ookla
 - Werner Herzog in conversation with Paul Cronin (2014)
-- Design Engineering Magazine
-- 90% of the T Distribution
-- Mysteries of the Griffin iMate
-- The "Stars" of Titanic (2012)
-- Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?
-- Show HN: Ouijit, an open-source task and terminal 經理 for coding agents
-- Show HN: Helios – what plug-in solar could generate for any address in Britain
-- Pandoc Templates
-- Science sleuths uncover more than 100 suspicious images Thermo Fisher antibody
-- Claude Opus 4.8
-- Gustav Klimt and Egon Schiele in Conversation (2018)
-- Show HN: xxUTF – SIMD Unicode Normalization
-- SQLite is all you need for durable workflows
-- Voxel Space (2017)
-- Creatine for the Treatment of Depression (2019)
-- Zig ELF Linker Improvements Devlog
-- Bricks and Minifigs Stole a Man's $200k Lego Collection
 
 
 ---
