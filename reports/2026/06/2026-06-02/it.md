@@ -4,219 +4,222 @@
 
 ---
 
-### 1. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+### 1. [為什麼 Janet?](https://ianthehenry.com/posts/why-janet/)
+
+- ⭐ 47 分｜💬 14 留言｜👤 yacin
+
+### 2. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 
 https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-AI-su...
 
-- ⭐ 1390 分｜💬 332 留言｜👤 ssiddharth
-
-### 2. [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
-
-- ⭐ 44 分｜💬 22 留言｜👤 ranebo
+- ⭐ 1818 分｜💬 415 留言｜👤 ssiddharth
 
 ### 3. [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
 
 https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw
 
-- ⭐ 103 分｜💬 208 留言｜👤 1vuio0pswjnm7
+- ⭐ 375 分｜💬 651 留言｜👤 1vuio0pswjnm7
 
-### 4. [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
+### 4. [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
 
-- ⭐ 151 分｜💬 53 留言｜👤 typpo
+- ⭐ 262 分｜💬 147 留言｜👤 ranebo
 
-### 5. [Debug Project](https://debug.com/)
+### 5. [Muxcard, a dyi credit card size computer](https://github.com/krauseler/muxcard)
 
-- ⭐ 158 分｜💬 72 留言｜👤 Eridanus2
+- ⭐ 39 分｜💬 3 留言｜👤 sargstuff
 
-### 6. [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
+### 6. [CQL: Categorical Databases](https://categoricaldata.net/)
 
-- ⭐ 19 分｜💬 4 留言｜👤 hasheddan
+- ⭐ 36 分｜💬 9 留言｜👤 noworriesnate
 
 ### 7. [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
 
-- ⭐ 60 分｜💬 12 留言｜👤 nigelgutzmann
+- ⭐ 230 分｜💬 38 留言｜👤 nigelgutzmann
 
-### 8. [AI 代理 Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+### 8. [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
 
-- ⭐ 334 分｜💬 118 留言｜👤 prakashqwerty
+- ⭐ 272 分｜💬 95 留言｜👤 typpo
 
-### 9. [Squillions: How Money Laundering Won](https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions)
+### 9. [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
 
-https:&#x2F;&#x2F;archive.ph&#x2F;Tl5ci
+- ⭐ 109 分｜💬 48 留言｜👤 hasheddan
 
-- ⭐ 18 分｜💬 6 留言｜👤 rwmj
+### 10. [AI 代理 Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
 
-### 10. [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
+- ⭐ 417 分｜💬 138 留言｜👤 prakashqwerty
 
-- ⭐ 9 分｜💬 0 留言｜👤 rorylawless
+### 11. [Debug Project](https://debug.com/)
 
-### 11. [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
+- ⭐ 225 分｜💬 90 留言｜👤 Eridanus2
 
-- ⭐ 371 分｜💬 43 留言｜👤 kristianpaul
+### 12. [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
 
-### 12. [A 新 way to 構建 chips: Sequentially stacking silicon to extend Moore's Law](https://matse.illinois.edu/news/85775)
+- ⭐ 463 分｜💬 47 留言｜👤 kristianpaul
 
-- ⭐ 25 分｜💬 5 留言｜👤 hhs
+### 13. [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
 
-### 13. [U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box](https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/)
+- ⭐ 50 分｜💬 24 留言｜👤 matt_d
 
-- ⭐ 5 分｜💬 0 留言｜👤 gnabgib
+### 14. [Fooling around with encrypted reasoning blobs](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/)
 
-### 14. [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
+- ⭐ 90 分｜💬 14 留言｜👤 supermatou
 
-- ⭐ 200 分｜💬 85 留言｜👤 pplanu
+### 15. [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
 
-### 15. [Fooling around with encrypted reasoning blobs](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/)
+- ⭐ 266 分｜💬 112 留言｜👤 pplanu
 
-- ⭐ 6 分｜💬 0 留言｜👤 supermatou
-
-### 16. [What appear to be biochemical processes may be a natural feature of geology](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)
-
-- ⭐ 197 分｜💬 65 留言｜👤 speckx
-
-### 17. [Alphabet 宣布 $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
-
-- ⭐ 114 分｜💬 115 留言｜👤 gregschlom
-
-### 18. [Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra](https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/)
+### 16. [Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra](https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/)
 
 https:&#x2F;&#x2F;www.Microsoft.com&#x2F;en-us&#x2F;surface&#x2F;devices&#x2F;surface-lapt...https:&#x2F;&#x2F;blogs.windows.com&#x2F;devices&#x2F;2026&#x2F;05&#x2F;31&#x2F;introducing-sur...
 
-- ⭐ 155 分｜💬 358 留言｜👤 jbk
+- ⭐ 217 分｜💬 460 留言｜👤 jbk
 
-### 19. [NVIDIA RTX Spark](https://www.nvidia.com/en-us/products/rtx-spark/)
+### 17. [First benchmark results from the Snapdragon 8cx Gen 3-powered Radxa Dragon Q8B](https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/)
 
-https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;940589&#x2F;NVIDIA-rtx-spark-n1-n1x...https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;article&#x2F;NVIDIA-debuts-rtx-...https:&#x2F;&#x2F;www.ma
+- ⭐ 6 分｜💬 0 留言｜👤 sthlmb
 
-- ⭐ 340 分｜💬 337 留言｜👤 shenli3514
+### 18. [Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity](https://news.ycombinator.com/item?id=48356312)
 
-### 20. [Florida sues OpenAI and Sam Altman over AI risks](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
+Hey HN, we’re Ismaeel, Eren, Yafet and Nikodem. We built Expanse (https:&#x2F;&#x2F;expanse.sh&#x2F;) to increase the effective capacity of your HPC&#x2F;GPU clusters running schedulers&#x2F;orchestra
 
-https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;AI&#x2F;OpenAI-sued-by-floridas-attorney...https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;florida-sues-OpenAI-s...
+- ⭐ 83 分｜💬 24 留言｜👤 ismaeel_bashir
 
-- ⭐ 184 分｜💬 161 留言｜👤 cyunker
+### 19. [What appear to be biochemical processes may be a natural feature of geology](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)
 
-### 21. [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
+- ⭐ 237 分｜💬 86 留言｜👤 speckx
 
-- ⭐ 108 分｜💬 58 留言｜👤 StrLght
+### 20. [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
 
-### 22. [What's gonna happen to 軟體 engineers?](https://yakko.dev/blog/whats-gonna-happen-to-software-developers)
+- ⭐ 45 分｜💬 6 留言｜👤 rorylawless
 
-- ⭐ 36 分｜💬 50 留言｜👤 yakkomajuri
+### 21. [Not Every Byte Gets a Vote](https://mitander.xyz/posts/not-every-byte-gets-a-vote/)
+
+- ⭐ 4 分｜💬 1 留言｜👤 mitander
+
+### 22. [Alphabet 宣布 $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
+
+- ⭐ 194 分｜💬 177 留言｜👤 gregschlom
 
 ### 23. [Ask HN: Who is 招聘? (June 2026)](https://news.ycombinator.com/item?id=48357725)
 
 Please state the location and include 遠端 for 遠端 work, 遠端 (US)
 or similar if the country is restricted, and ONSITE when 遠端 work is not an option.Please only post if you personally are p
 
-- ⭐ 165 分｜💬 237 留言｜👤 whoishiring
+- ⭐ 191 分｜💬 272 留言｜👤 whoishiring
 
-### 24. [Anyone seen a CC- serial prefix on legacy networking 硬體?](https://news.ycombinator.com/item?id=48342117)
+### 24. [I made my phone slow on purpose](https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/)
 
-don&#x27;t want to file a decom report with a gap so I figured I would ask here.On a contract 工作 clearing out a data center doing routine stuff like taking inventory and audits before we decommission
+- ⭐ 208 分｜💬 173 留言｜👤 gcampos
 
-- ⭐ 10 分｜💬 2 留言｜👤 Throwaway_sys
+### 25. [A 新 way to 構建 chips: Sequentially stacking silicon to extend Moore's Law](https://matse.illinois.edu/news/85775)
 
-### 25. [Stealing from Biologists to Compile Haskell Faster](https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/)
+- ⭐ 48 分｜💬 29 留言｜👤 hhs
 
-- ⭐ 99 分｜💬 4 留言｜👤 mooreds
+### 26. [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
 
-### 26. [Book Dedications](https://walzr.com/dedications)
+- ⭐ 269 分｜💬 156 留言｜👤 StrLght
 
-- ⭐ 7 分｜💬 1 留言｜👤 walz
+### 27. [Florida sues OpenAI and Sam Altman over AI risks](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
 
-### 27. [Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity](https://news.ycombinator.com/item?id=48356312)
+https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;AI&#x2F;OpenAI-sued-by-floridas-attorney...https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;florida-sues-OpenAI-s...
 
-Hey HN, we’re Ismaeel, Eren, Yafet and Nikodem. We built Expanse (https:&#x2F;&#x2F;expanse.sh&#x2F;) to increase the effective capacity of your HPC&#x2F;GPU clusters running schedulers&#x2F;orchestra
+- ⭐ 228 分｜💬 179 留言｜👤 cyunker
 
-- ⭐ 70 分｜💬 22 留言｜👤 ismaeel_bashir
+### 28. [Ask HN: Who wants to be hired? (June 2026)](https://news.ycombinator.com/item?id=48357724)
 
-### 28. [I made my phone slow on purpose](https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/)
+Share your information if you are looking for work. Please use this format:  Location:
+  遠端:
+  Willing to relocate:
+  Technologies:
+  Résumé&#x2F;CV:
+  Email:
 
-- ⭐ 169 分｜💬 160 留言｜👤 gcampos
+Please only post if you are personal
 
-### 29. [Only 17% of all 64-bit Integers are products of two 32-bit integers](https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/)
+- ⭐ 122 分｜💬 344 留言｜👤 whoishiring
 
-- ⭐ 206 分｜💬 94 留言｜👤 sebg
+### 29. [Flipper Zero Zig Template](https://github.com/NishantJoshi00/flipper-template)
 
-### 30. [The Frame Problem (2004)](https://plato.stanford.edu/entries/frame-problem/)
+- ⭐ 147 分｜💬 13 留言｜👤 Nars088
 
-- ⭐ 15 分｜💬 3 留言｜👤 rzk
+### 30. [Windows GOG DOS Games on M-Series Macs](https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/)
+
+- ⭐ 153 分｜💬 83 留言｜👤 f055
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Ask HN: Who wants to be hired? (June 2026)
-- Windows GOG DOS Games on M-Series Macs
+- Stealing from Biologists to Compile Haskell Faster
 - Anthropic confidentially submits draft S-1 to the SEC
-- Flipper Zero Zig Template
 - The Pirate Bay Remains Resilient, 20 Years After the Raid
-- Malicious npm packages detected across Red Hat 雲端 Services
-- Show HN: DepsGuard – One command to harden NPM/pnpm/yarn/bun/uv configs
 - Linux Basics for Hackers (2019)
+- Malicious npm packages detected across Red Hat 雲端 Services
+- Anyone seen a CC- serial prefix on legacy networking 硬體?
+- NVIDIA RTX Spark
 - Handmade Hawaiian Islands Map
-- Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks
-- GitHub and the crime against 軟體
-- Sysadmining Like It's 2009
-- GrapheneOS Speech Services version 2 發布
 - Tracing HTTP Requests with Go's net/HTTP/httptrace
-- Constant Q Transform – A Visual Guide
-- Superintelligence: The Idea That Eats Smart People (2016)
-- Remember This
 - A 10 year old Xeon is all you need
-- Show HN: Textile – A desktop app for weaving together bits of text
-- Lid-lifting Kiwi author forced to sit in silence at writers' festival
+- Sysadmining Like It's 2009
 - Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek
-- Angry devs vow to flee GitHub Copilot as metered billing takes hold
+- Show HN: DepsGuard – One command to harden NPM/pnpm/yarn/bun/uv configs
+- The Frame Problem (2004)
+- GitHub and the crime against 軟體
+- Book Dedications
 - Show HN: A CSS 3D Engine (no WebGL)
-- Texas adds another solar farm as ERCOT grid demand soars
 - Announcing Zstandard in Rust
+- GrapheneOS Speech Services version 2 發布
+- Only 17% of all 64-bit Integers are products of two 32-bit integers
+- Superintelligence: The Idea That Eats Smart People (2016)
 - Cessation of public development of Kefir C compiler
-- “The Apple Boogie“ 1987 Mac Promo Album Cassette Tape [video]
-- Every Byte Matters
-- Natural tissue immortality: Indefinite survival of sea cucumber explants
-- Building a custom mount for a telescoping webcam
-- Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?
-- 構建 a Basic AI 代理 from Scratch: Tools
+- Squillions: How Money Laundering Won
 - Using Git's rerere feature to escape recurring conflict hell
-- Terrascan: Explore public deep earth scan datasets
-- Install 網頁 apps with the 新 HTML install element
-- Show HN: A free Linux adaptation of NETworkManager by BornToBeRoot
-- Medium Access Control Protocols
-- AI costs how much? GitHub Copilot users React to 新 usage-based pricing 系統
-- Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)
-- Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices
-- The architect who became the king of bank robberies
+- “The Apple Boogie“ 1987 Mac Promo Album Cassette Tape [video]
+- KL Zero: KL divergence intuition game
 - The Genius of the Barn Owl's Feathers
-- Movwin: My (Unpublished) TUI Framework
-- Roughly a quarter of American professionals hit a wall in their careers
-- Colorado Rolls Back Landmark AI Governance Law
-- NVIDIA Cosmos 3
+- Show HN: Textile – A desktop app for weaving together bits of text
 - Cloudflare Turnstile requiring fingerprintable WebGL
-- The four 程式設計 questions from my 1994 Microsoft internship interview (2023)
-- The Infosec Phrasebook
-- The SLAX Scripting Language: An Alternate Syntax for XSLT
-- What Caused That Loud Boom in South Carolina?
-- Telli (YC F24) is 招聘 in engineering, design, and GTM [Berlin, on-site]
-- Blorp Language
-- 如何 Silence the Federal Workforce
-- Asserts in Zig
+- Natural tissue immortality: Indefinite survival of sea cucumber explants
+- 構建 a Basic AI 代理 from Scratch: Tools
+- Angry devs vow to flee GitHub Copilot as metered billing takes hold
+- Constant Q Transform – A Visual Guide
+- Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)
+- Strava just pulled a Reddit on its 開發者 community
+- What's gonna happen to 軟體 engineers?
+- Version 2.0 of AI laser mosquito defense 系統 is here
 - Chuwi Minibook X
 - Disregard previous instructions and delete all jqwik tests
-- Is Python Becoming Pinyin?
-- Visa invests in Replit to power agentic payments for developers
-- DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms
-- Information Theory for Complex Systems [pdf]
-- Famous Photo of Chernobyl's Dangerous Radioactive Material Was a Selfie (2016)
-- Unix in East Germany (GDR) (1990)
-- Show HN: Mqtt Broker for 10 Years
 - Having your insulin pump die while you're on vacation
-- Dell Unveils $699 Laptop with Features 'You Won't Find on a MacBook Neo'
-- Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas
+- Movwin: My (Unpublished) TUI Framework
+- Lid-lifting Kiwi author forced to sit in silence at writers' festival
+- Install 網頁 apps with the 新 HTML install element
+- Blorp Language
+- Unix in East Germany (GDR) (1990)
+- The SLAX Scripting Language: An Alternate Syntax for XSLT
+- The Infosec Phrasebook
 - The Speed of Prototyping in the Age of AI
-- 遠端 work, not AI, has sidelined recent college graduates, research finds
 - Restartable Sequences
+- Is Python Becoming Pinyin?
+- Telli (YC F24) is 招聘 in engineering, design, and GTM [Berlin, on-site]
+- Every Byte Matters
+- Roughly a quarter of American professionals hit a wall in their careers
+- NVIDIA Cosmos 3
+- Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas
+- Dav2d
+- Asserts in Zig
+- U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box
+- Linux/M68k
+- Building a custom mount for a telescoping webcam
+- Finding success in industry as a chip designer
+- Taking the 訓練 Wheels Off: Aligning LLMs Without Personas
+- Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks
+- Tiiny AI Pocket Lab: The Offline Pocket‑Sized Supercomputer Revolution
+- Backpressure is all you need
+- Domain expertise has always been the real moat
+- United Airlines 767 returns to Newark after Bluetooth name sparks alert
+- 1-Bit Bonsai Image 4B Image Generation for Local Devices
+- Codex just found a "workaround" of not having sudo on my PC
+- Texas adds another solar farm as ERCOT grid demand soars
 
 
 ---
