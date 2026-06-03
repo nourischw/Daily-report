@@ -4,206 +4,204 @@
 
 ---
 
-### 1. [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
+### 1. [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 
-- ⭐ 132 分｜💬 61 留言｜👤 pentagrama
+- ⭐ 239 分｜💬 66 留言｜👤 cloud8421
 
-### 2. [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
+### 2. [Gemma 4 12B: A unified, encoder-free multimodal 模型](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 
-- ⭐ 435 分｜💬 75 留言｜👤 xx_ns
+- ⭐ 513 分｜💬 186 留言｜👤 rvz
 
-### 3. [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
+### 3. [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/)
 
-- ⭐ 49 分｜💬 14 留言｜👤 SGran
+- ⭐ 309 分｜💬 80 留言｜👤 Tomte
 
-### 4. [Meta workers can opt out of being tracked at work up to 30 min](https://www.bbc.com/news/articles/c93x0k194yno)
+### 4. [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
 
-- ⭐ 375 分｜💬 335 留言｜👤 reconnecting
+- ⭐ 305 分｜💬 142 留言｜👤 pentagrama
 
-### 5. [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
+### 5. [Gooey: A GPU-accelerated UI framework for Zig](https://github.com/duanebester/gooey)
 
-- ⭐ 167 分｜💬 77 留言｜👤 ingve
+- ⭐ 92 分｜💬 18 留言｜👤 ksec
 
-### 6. [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
+### 6. [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
 
-- ⭐ 148 分｜💬 25 留言｜👤 gregsadetsky
+- ⭐ 202 分｜💬 103 留言｜👤 volemo
 
-### 7. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
+### 7. [Stop Killing Games](https://jxself.org/stop-killing-games.shtml)
 
-- ⭐ 580 分｜💬 85 留言｜👤 ammar2
+- ⭐ 83 分｜💬 80 留言｜👤 amcclure
 
-### 8. [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
+### 8. [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
 
-- ⭐ 180 分｜💬 26 留言｜👤 nathell
+- ⭐ 576 分｜💬 95 留言｜👤 xx_ns
 
-### 9. [Are You Enjoying Our Linguine? (2025)](https://www.thedial.world/articles/news/american-tourists-rome)
+### 9. [Uber's $1,500/month AI limit is a useful signal for AI tool pricing](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
 
-- ⭐ 10 分｜💬 0 留言｜👤 NaOH
+- ⭐ 211 分｜💬 265 留言｜👤 pdyc
 
-### 10. [Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)](https://dl.acm.org/doi/pdf/10.1145/1995966.1996008)
+### 10. [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
 
-- ⭐ 76 分｜💬 18 留言｜👤 aragonite
+- ⭐ 169 分｜💬 94 留言｜👤 SGran
 
-### 11. [I built a ceiling projection mapping of the planes flying over my house](https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/)
+### 11. [Launch HN: Hyper (YC P26) – Company brain to power agentic development](https://news.ycombinator.com/item?id=48387095)
 
-- ⭐ 127 分｜💬 18 留言｜👤 frereubu
+Hey HN, we’re Shalin &amp; Kanyes, 最佳 friends who&#x27;ve been hacking together for 10+yrs, and now founders of Hyper (https:&#x2F;&#x2F;heyhyper.AI&#x2F;). Hyper is a shared “company brain” that pl
 
-### 12. [I Found a Bug in Apple's Fsck_hfs](https://medium.com/@kivancgunalp/i-found-a-bug-in-apples-fsck-hfs-here-s-how-i-tracked-it-down-edc782ce5cf9)
+- ⭐ 34 分｜💬 30 留言｜👤 shalinshah
 
-- ⭐ 12 分｜💬 2 留言｜👤 zdw
+### 12. [Embryos shape their limbs: a key discovery of "genetic brakes"](https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes)
 
-### 13. [What I've learned about the trombone](http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/)
+- ⭐ 29 分｜💬 0 留言｜👤 gmays
 
-- ⭐ 50 分｜💬 37 留言｜👤 bookofjoe
+### 13. [Angular v22](https://blog.angular.dev/announcing-angular-v22-c52bb83a4664)
 
-### 14. [Show HN: I reverse-engineered the world maps of 測試 Drive III (1990 DOS game)](https://github.com/s-macke/Test-Drive-3-Maps)
+- ⭐ 67 分｜💬 31 留言｜👤 Klaster_1
 
-- ⭐ 175 分｜💬 50 留言｜👤 s-macke
+### 14. [Skyvern (YC S23) Is 招聘 Open-Source Loving DevRel Engineers](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai)
 
-### 15. [Piramidal (YC W24) – 軟體 Engineers – NYC Onsite](https://news.ycombinator.com/item?id=48382853)
+- ⭐ 1 分｜💬 0 留言｜👤 suchintan
 
-We&#x27;re looking for 資深 軟體 engineers - 前端, 後端, and infra - who are excited about solving difficult problems at the boundary of Foundational AI and Neuroscience. Our core 後端
+### 15. [MacBook Neo Is So Popular That Apple Doubled Production](https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/)
 
-- ⭐ 1 分｜💬 0 留言｜👤 dsacellarius
+- ⭐ 215 分｜💬 209 留言｜👤 tosh
 
-### 16. [Use your NVIDIA GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+### 16. [Rootshell: A 新 E2EE email service hosted in Iceland](https://rootshell.is)
 
-- ⭐ 411 分｜💬 107 留言｜👤 tanelpoder
+- ⭐ 19 分｜💬 9 留言｜👤 sc0rt
 
-### 17. [MAI-代碼-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
+### 17. [Show HN: Mnemo – local-first AI memory layer for any 大型語言模型 (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
 
-https:&#x2F;&#x2F;Microsoft.AI&#x2F;models&#x2F;mai-代碼-1-flash&#x2F;https:&#x2F;&#x2F;Microsoft.AI&#x2F;pdf&#x2F;MAI-代碼-1-Flash-模型-Card.PDFLaunching seven 新 MAI models: https:&#x2F;&#x2F;micr
+- ⭐ 4 分｜💬 0 留言｜👤 zaydmulani
 
-- ⭐ 513 分｜💬 242 留言｜👤 EvanZhouDev
+### 18. [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/)
 
-### 18. [Leiden Declaration on 人工智慧 and Mathematics](https://leidendeclaration.ai/)
+- ⭐ 9 分｜💬 2 留言｜👤 oceanwaves
 
-- ⭐ 92 分｜💬 45 留言｜👤 zvr
+### 19. [Meta workers can opt out of being tracked at work up to 30 min](https://www.bbc.com/news/articles/c93x0k194yno)
 
-### 19. [Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)](https://yalereview.org/article/thomas-mann-goethe)
+- ⭐ 593 分｜💬 552 留言｜👤 reconnecting
 
-- ⭐ 15 分｜💬 1 留言｜👤 curio_Pol_curio
+### 20. [Fluid Simulation for Dummies (2006)](https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html)
 
-### 20. [Shopify Is Down](https://www.shopifystatus.com)
+- ⭐ 47 分｜💬 10 留言｜👤 sebg
 
-- ⭐ 63 分｜💬 42 留言｜👤 harrouet
+### 21. [人工智慧 is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/)
 
-### 21. [32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260603173839&#x2F;https:&#x2F;&#x2F;www.theat...https:&#x2F;&#x2F;archive.is&#x2F;bcpZl
 
-- ⭐ 187 分｜💬 202 留言｜👤 papersail
+- ⭐ 87 分｜💬 82 留言｜👤 lordleft
 
-### 22. [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
+### 22. [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
 
-- ⭐ 141 分｜💬 45 留言｜👤 ray__
+- ⭐ 213 分｜💬 102 留言｜👤 ingve
 
-### 23. [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+### 23. [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
 
-https:&#x2F;&#x2F;law.stanford.edu&#x2F;wp-content&#x2F;uploads&#x2F;2026&#x2F;06&#x2F;salinas_...
+- ⭐ 214 分｜💬 43 留言｜👤 gregsadetsky
 
-- ⭐ 364 分｜💬 307 留言｜👤 berlianta
+### 24. [Mathematicians issue warning as AI rapidly gains ground](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
 
-### 24. [DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors](https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot)
+- ⭐ 109 分｜💬 140 留言｜👤 pseudolus
 
-- ⭐ 63 分｜💬 17 留言｜👤 sohkamyung
+### 25. [新 Texas Instruments 5532 chips are not the 5532s we’ve used for decades](https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707/)
 
-### 25. [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+- ⭐ 41 分｜💬 18 留言｜👤 SpikedCola
 
-- ⭐ 109 分｜💬 33 留言｜👤 shscs911
+### 26. [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
 
-### 26. [Show HN: Tired of duct-taping access control into 代理 prompts. Here's the fix](https://github.com/yaodub/cast)
+- ⭐ 6 分｜💬 0 留言｜👤 gmays
 
-- ⭐ 11 分｜💬 14 留言｜👤 zwigglers
+### 27. [GoPro warned it may not survive](https://thenextweb.com/news/gopro-going-concern-ai-memory-crisis-default)
 
-### 27. [Pluto.jl 1.0 release – reactive notebook for Julia](https://discourse.julialang.org/t/pluto-1-0-release/137296)
+- ⭐ 33 分｜💬 20 留言｜👤 mmh0000
 
-- ⭐ 198 分｜💬 31 留言｜👤 fons-p
+### 28. [What I've learned about the trombone](http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/)
 
-### 28. [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
+- ⭐ 69 分｜💬 62 留言｜👤 bookofjoe
 
-- ⭐ 97 分｜💬 4 留言｜👤 gregsadetsky
+### 29. [Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/)
 
-### 29. [Roku LT Operating 系統 開源 distribution](https://blog.roku.com/developer/roku-lt-os)
+- ⭐ 13 分｜💬 1 留言｜👤 wassimans
 
-- ⭐ 109 分｜💬 50 留言｜👤 dpmdpm
+### 30. [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
 
-### 30. [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/)
-
-- ⭐ 294 分｜💬 153 留言｜👤 speckx
+- ⭐ 222 分｜💬 31 留言｜👤 nathell
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Bot vs human traffic
+- Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx
+- 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building
+- Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)
+- Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)
+- How turkey hacked the hair-transplant industry
+- Use your NVIDIA GPU's VRAM as swap space on Linux
+- Show HN: I reverse-engineered the world maps of 測試 Drive III (1990 DOS game)
+- A blueprint for democratic governance of frontier AI
+- Sixteen Kids and a Hit Man (2024)
+- A Visual Guide to Gemma 4 12B
+- I built a ceiling projection mapping of the planes flying over my house
+- U of T researchers demonstrate AI worm could target any online device
+- REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
+- The Public Should Own Half of the Big A.I. Companies
+- 1-Click GitHub Token Stealing via a VSCode Bug
+- Shopify outage [resolved]
+- Show HN: Rscrypto, pure-Rust crypto with industry leading public benches
+- Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image 模型
+- The Unreasonable Redundancy of Nature's Protein Folds
+- AI outperforms law professors in Stanford Law study
+- Leiden Declaration on 人工智慧 and Mathematics
+- SpaceX's IPO is a disaster waiting to happen for your pension fund
+- Is it possible to send a message in Morse 代碼 by un-following someone on x.com?
+- Pluto.jl 1.0 release – reactive notebook for Julia
+- Roku LT Operating 系統 開源 distribution
+- After Tailoring My Resume, I Landed 3 工作 Offers in 3 Weeks
+- DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors
+- I believe a whole generation of developers miss how 開源 used to work
+- Tuta has joined Euro-Office and will now contribute to its codebase
+- Capstone – multi-platform, multi-architecture disassembly framework
 - How we index images for RAG
-- Man out of Time: The travels and ecstasies of a Russian aesthete
-- Writing Portable ARM64 Assembly (2023)
+- Git and S3 as the memory layer for agents
+- Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)
 - HP re-releases classic computer science calculator: The HP-16C
-- Gmail thinks I'm stupid, so I left
 - Preparing for KDE Plasma's Last X11-Supported Release
-- Open Repair Data Standard
 - OpenFOV – Webcam head tracking for iRacing
-- Words of Type
-- CT scans of BYD car parts
+- My thoughts after using Clojure for about a month
+- MAI-代碼-1-Flash
+- Open Repair Data Standard
+- 為什麼 Kernel-Level eBPF Is Replacing User-Space Agents for 安全 Observability
+- Rebuilding Postgres Metrics on Self-Hosted VictoriaMetrics with Zero Downtime
+- The Fantastically Strange Origin of Most Coal on Earth (2016)
+- Google's water stewardship commitments for local communities
+- Show HN: Solving complex optimization problems with Google OR-Tools in browser
+- Tesla retroactively added 'supervised' to FSD contracts owners signed years ago
 - Fidonet: Technology, Use, Tools, and History (1993)
-- Trump signs downsized AI order after weeks of reversals
-- Recovering Eric Graham's 1987 Amiga Juggler raytracer source 代碼
-- German startup advancing compressor-free electrocaloric heat pump technology
-- Multicore suppport for DOS is real – partly
+- Writing Portable ARM64 Assembly (2023)
+- Ceres' Surface Is Much More Complex Than Previously Thought
+- Words of Type
+- Show HN: Tired of duct-taping access control into 代理 prompts. Here's the fix
 - Muxcard, a DIY credit card size computer
+- Trump signs downsized AI order after weeks of reversals
 - Stop Ruining It
-- 4K years ago, Mohenjo-daro grew more equal over time
-- Encephalitis
-- Economists Are Obsessed with "工作 Creation." How about Less Work? (2017)
+- Zcash Executes Emergency Fork After Critical Orchard Vulnerability Discovery
+- Recovering Eric Graham's 1987 Amiga Juggler raytracer source 代碼
 - The newest Instagram “exploit” is the goofiest I've seen
-- Project Sunrise Nears Reality as Qantas' Airbus A350-1000ULR Makes Maiden Flight
+- CT scans of BYD car parts
+- Multicore suppport for DOS is real – partly
+- Gmail thinks I'm stupid, so I left
 - Squillions: How money laundering won
 - Show HN: Eyeball
+- 4K years ago, Mohenjo-daro grew more equal over time
+- Microsoft doubles down on controversial quantum computing claims
 - Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.AI
-- Show HN: Live breath detection and biofeedback from a phone microphone
+- F-15E pilot downed over Iran had been shot down a month prior
 - QBE – Compiler 後端 – 1.3
-- The advertising cartel coming to your 網頁 browser
-- Show HN: Phive, a Gomoku-like game to play with friends or solo
-- Bringing Up DeepSeek-V4-Flash on AMD MI300X
-- Age verification for social media, the beginning of the end for a free internet?
-- CSS-Native Parallax Effect
-- Loading Sega Games Off a Vinyl Record [video]
-- Goldman Sachs CEO says markets in 'greed' mode as AI companies seek billions
-- Nine Ways to Do Inheritance in Rust, a Language Without Inheritance
-- Tesla retroactively added 'supervised' to FSD contracts owners signed years ago
-- 為什麼 Janet? (2023)
-- Launch HN: Rudus (YC P26) – AI for concrete contractors
-- GitHub Copilot App
-- Love systemd timers
-- The Ladder Paradox
-- Can the stockmarket swallow Anthropic, SpaceX and OpenAI?
-- Jonathan Franzen on Talent, Theatre, and His Next Novel
-- Running 'Doom' on E. coli cells slowly
-- CQL: Categorical Databases
-- A walking tour of surveillance infrastructure in Seattle (2020)
-- Reviving Teletext for Ham Radio
-- What appear to be biochemical processes may be a natural feature of geology
-- Show HN: RePlaya – self-hosted browser session replay with live tailing
-- Japan declines to join movement to ban youth from social media
-- Codex Discovered a Hidden HTTP/2 Bomb
-- MP3s from Google Drive in Music 助手 on Home 助手
-- Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity
-- BQN: 什麼是 a Primitive?
-- Expanding Project Glasswing
-- Strace-ui, Bonsai_term, and the TUI renaissance
-- MAI-Thinking-1
-- Rsync and outrage
-- How long will it take to rebuild Blue Origin's launch pad?
-- macOS needs its grid back
-- Ask HN: Who is 招聘? (June 2026)
-- Gleam v1.17.0
-- Fooling around with encrypted reasoning blobs
-- Turkey Hacked the Hair Transplant Industry
-- Agentic Mfw
-- 為什麼 Custom Attributes in .NET Give Me Nightmares
-- I made my phone slow on purpose
-- Three Ways to Get Paid (2018)
-- Show HN: Paseo – Beautiful open-source coding 代理 interface
-- Apple rejected my dictation app for using the accessibility API
+- German startup advancing compressor-free electrocaloric heat pump technology
+- Show HN: Live breath detection and biofeedback from a phone microphone
+- Uber cuts 23% of people division as 新 president takes over
 
 
 ---
