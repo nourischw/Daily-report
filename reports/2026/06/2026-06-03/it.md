@@ -4,208 +4,206 @@
 
 ---
 
-### 1. [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
+### 1. [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
 
-- ⭐ 52 分｜💬 12 留言｜👤 nathell
+- ⭐ 132 分｜💬 61 留言｜👤 pentagrama
 
-### 2. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
+### 2. [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
 
-- ⭐ 431 分｜💬 64 留言｜👤 ammar2
+- ⭐ 435 分｜💬 75 留言｜👤 xx_ns
 
-### 3. [Show HN: I reverse-engineered the world maps of 測試 Drive III (1990 DOS game)](https://github.com/s-macke/Test-Drive-3-Maps)
+### 3. [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
 
-- ⭐ 109 分｜💬 30 留言｜👤 s-macke
+- ⭐ 49 分｜💬 14 留言｜👤 SGran
 
-### 4. [Use your NVIDIA GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+### 4. [Meta workers can opt out of being tracked at work up to 30 min](https://www.bbc.com/news/articles/c93x0k194yno)
 
-- ⭐ 326 分｜💬 88 留言｜👤 tanelpoder
+- ⭐ 375 分｜💬 335 留言｜👤 reconnecting
 
-### 5. [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+### 5. [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
 
-https:&#x2F;&#x2F;law.stanford.edu&#x2F;wp-content&#x2F;uploads&#x2F;2026&#x2F;06&#x2F;salinas_...
+- ⭐ 167 分｜💬 77 留言｜👤 ingve
 
-- ⭐ 261 分｜💬 203 留言｜👤 berlianta
+### 6. [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
 
-### 6. [MAI-代碼-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
+- ⭐ 148 分｜💬 25 留言｜👤 gregsadetsky
+
+### 7. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
+
+- ⭐ 580 分｜💬 85 留言｜👤 ammar2
+
+### 8. [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
+
+- ⭐ 180 分｜💬 26 留言｜👤 nathell
+
+### 9. [Are You Enjoying Our Linguine? (2025)](https://www.thedial.world/articles/news/american-tourists-rome)
+
+- ⭐ 10 分｜💬 0 留言｜👤 NaOH
+
+### 10. [Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)](https://dl.acm.org/doi/pdf/10.1145/1995966.1996008)
+
+- ⭐ 76 分｜💬 18 留言｜👤 aragonite
+
+### 11. [I built a ceiling projection mapping of the planes flying over my house](https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/)
+
+- ⭐ 127 分｜💬 18 留言｜👤 frereubu
+
+### 12. [I Found a Bug in Apple's Fsck_hfs](https://medium.com/@kivancgunalp/i-found-a-bug-in-apples-fsck-hfs-here-s-how-i-tracked-it-down-edc782ce5cf9)
+
+- ⭐ 12 分｜💬 2 留言｜👤 zdw
+
+### 13. [What I've learned about the trombone](http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/)
+
+- ⭐ 50 分｜💬 37 留言｜👤 bookofjoe
+
+### 14. [Show HN: I reverse-engineered the world maps of 測試 Drive III (1990 DOS game)](https://github.com/s-macke/Test-Drive-3-Maps)
+
+- ⭐ 175 分｜💬 50 留言｜👤 s-macke
+
+### 15. [Piramidal (YC W24) – 軟體 Engineers – NYC Onsite](https://news.ycombinator.com/item?id=48382853)
+
+We&#x27;re looking for 資深 軟體 engineers - 前端, 後端, and infra - who are excited about solving difficult problems at the boundary of Foundational AI and Neuroscience. Our core 後端
+
+- ⭐ 1 分｜💬 0 留言｜👤 dsacellarius
+
+### 16. [Use your NVIDIA GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+
+- ⭐ 411 分｜💬 107 留言｜👤 tanelpoder
+
+### 17. [MAI-代碼-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
 
 https:&#x2F;&#x2F;Microsoft.AI&#x2F;models&#x2F;mai-代碼-1-flash&#x2F;https:&#x2F;&#x2F;Microsoft.AI&#x2F;pdf&#x2F;MAI-代碼-1-Flash-模型-Card.PDFLaunching seven 新 MAI models: https:&#x2F;&#x2F;micr
 
-- ⭐ 477 分｜💬 212 留言｜👤 EvanZhouDev
+- ⭐ 513 分｜💬 242 留言｜👤 EvanZhouDev
 
-### 7. [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
+### 18. [Leiden Declaration on 人工智慧 and Mathematics](https://leidendeclaration.ai/)
 
-- ⭐ 99 分｜💬 28 留言｜👤 ray__
+- ⭐ 92 分｜💬 45 留言｜👤 zvr
 
-### 8. [It is an amazing time for programmers](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers)
+### 19. [Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)](https://yalereview.org/article/thomas-mann-goethe)
 
-- ⭐ 68 分｜💬 36 留言｜👤 jlundberg
+- ⭐ 15 分｜💬 1 留言｜👤 curio_Pol_curio
 
-### 9. [Microsoft Doubles Down on Controversial Quantum Computing Claims](https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans)
+### 20. [Shopify Is Down](https://www.shopifystatus.com)
 
-- ⭐ 32 分｜💬 37 留言｜👤 igortru
+- ⭐ 63 分｜💬 42 留言｜👤 harrouet
 
-### 10. [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+### 21. [32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 
-- ⭐ 391 分｜💬 236 留言｜👤 viasfo
+- ⭐ 187 分｜💬 202 留言｜👤 papersail
 
-### 11. [Writing Portable ARM64 Assembly (2023)](https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html)
+### 22. [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
 
-- ⭐ 23 分｜💬 5 留言｜👤 luu
+- ⭐ 141 分｜💬 45 留言｜👤 ray__
 
-### 12. [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/)
+### 23. [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
 
-- ⭐ 224 分｜💬 112 留言｜👤 speckx
+https:&#x2F;&#x2F;law.stanford.edu&#x2F;wp-content&#x2F;uploads&#x2F;2026&#x2F;06&#x2F;salinas_...
 
-### 13. [Pluto.jl 1.0 release – reactive notebook for Julia](https://discourse.julialang.org/t/pluto-1-0-release/137296)
+- ⭐ 364 分｜💬 307 留言｜👤 berlianta
 
-- ⭐ 138 分｜💬 15 留言｜👤 fons-p
+### 24. [DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors](https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot)
 
-### 14. [DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors](https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot)
+- ⭐ 63 分｜💬 17 留言｜👤 sohkamyung
 
-- ⭐ 17 分｜💬 7 留言｜👤 sohkamyung
+### 25. [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
 
-### 15. [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+- ⭐ 109 分｜💬 33 留言｜👤 shscs911
 
-- ⭐ 44 分｜💬 11 留言｜👤 shscs911
+### 26. [Show HN: Tired of duct-taping access control into 代理 prompts. Here's the fix](https://github.com/yaodub/cast)
 
-### 16. [Roku LT Operating 系統 開源 distribution](https://blog.roku.com/developer/roku-lt-os)
+- ⭐ 11 分｜💬 14 留言｜👤 zwigglers
 
-- ⭐ 77 分｜💬 24 留言｜👤 dpmdpm
+### 27. [Pluto.jl 1.0 release – reactive notebook for Julia](https://discourse.julialang.org/t/pluto-1-0-release/137296)
 
-### 17. [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
+- ⭐ 198 分｜💬 31 留言｜👤 fons-p
 
-- ⭐ 58 分｜💬 1 留言｜👤 gregsadetsky
+### 28. [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
 
-### 18. [Words of Type](https://wiki.wordsoftype.com/)
+- ⭐ 97 分｜💬 4 留言｜👤 gregsadetsky
 
-- ⭐ 70 分｜💬 12 留言｜👤 tobr
+### 29. [Roku LT Operating 系統 開源 distribution](https://blog.roku.com/developer/roku-lt-os)
 
-### 19. [HP re-releases classic computer science calculator: The HP-16C](https://hpcalcs.com/product/hp-16c-collectors-edition/)
+- ⭐ 109 分｜💬 50 留言｜👤 dpmdpm
 
-- ⭐ 177 分｜💬 107 留言｜👤 dm319
+### 30. [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/)
 
-### 20. [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)
-
-- ⭐ 979 分｜💬 647 留言｜👤 speckx
-
-### 21. [Jonathan Franzen on Talent, Theatre, and His Next Novel](https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26)
-
-- ⭐ 5 分｜💬 0 留言｜👤 samclemens
-
-### 22. [How we index images for RAG](https://www.kapa.ai/blog/how-we-index-images-for-rag)
-
-- ⭐ 141 分｜💬 20 留言｜👤 mooreds
-
-### 23. [Recovering Eric Graham's 1987 Amiga Juggler raytracer source 代碼](https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/)
-
-- ⭐ 10 分｜💬 2 留言｜👤 mariuz
-
-### 24. [Open Repair Data Standard](https://openrepair.org/open-data/open-standard/)
-
-- ⭐ 134 分｜💬 9 留言｜👤 cassepipe
-
-### 25. [Show HN: Phive, a Gomoku-like game to play with friends or solo](https://phive.app)
-
-In 2025, my family and I had a long streak of playing a Gomoku &#x2F; Go Bang &#x2F; five-in-a-row based game called OK Play. I built a 網頁 version so that we could play any time we wanted (i.e. on ou
-
-- ⭐ 10 分｜💬 7 留言｜👤 0xCA1EB
-
-### 26. [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/)
-
-- ⭐ 101 分｜💬 46 留言｜👤 marojejian
-
-### 27. [OpenFOV – Webcam head tracking for iRacing](https://www.openfov.com/)
-
-- ⭐ 127 分｜💬 61 留言｜👤 mwit2023
-
-### 28. [Trump signs downsized AI order after weeks of reversals](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
-
-https:&#x2F;&#x2F;www.whitehouse.gov&#x2F;presidential-actions&#x2F;2026&#x2F;06&#x2F;prom...https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;02&#x2F;technology&#x2F;trump-executiv...
-
-- ⭐ 214 分｜💬 157 留言｜👤 _alternator_
-
-### 29. [Preparing for KDE Plasma's Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
-
-- ⭐ 193 分｜💬 241 留言｜👤 jandeboevrie
-
-### 30. [Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)
-
-- ⭐ 170 分｜💬 69 留言｜👤 BruceEel
+- ⭐ 294 分｜💬 153 留言｜👤 speckx
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- How we index images for RAG
+- Man out of Time: The travels and ecstasies of a Russian aesthete
+- Writing Portable ARM64 Assembly (2023)
+- HP re-releases classic computer science calculator: The HP-16C
+- Gmail thinks I'm stupid, so I left
+- Preparing for KDE Plasma's Last X11-Supported Release
+- Open Repair Data Standard
+- OpenFOV – Webcam head tracking for iRacing
+- Words of Type
+- CT scans of BYD car parts
+- Fidonet: Technology, Use, Tools, and History (1993)
+- Trump signs downsized AI order after weeks of reversals
+- Recovering Eric Graham's 1987 Amiga Juggler raytracer source 代碼
+- German startup advancing compressor-free electrocaloric heat pump technology
 - Multicore suppport for DOS is real – partly
-- Show HN: Live breath detection and biofeedback from a phone microphone
-- Stop Ruining It
 - Muxcard, a DIY credit card size computer
-- Japan declines to join movement to ban youth from social media
-- SaySynth: A Brief History of Speaking Machines
-- Bringing Up DeepSeek-V4-Flash on AMD MI300X
-- QBE – Compiler 後端 – 1.3
-- Loading Sega Games Off a Vinyl Record [video]
-- The advertising cartel coming to your 網頁 browser
-- Great Question (YC W21) Is 招聘 Applied AI Interns
-- Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.AI
-- Show HN: Eyeball
-- Squillions: How money laundering won
+- Stop Ruining It
+- 4K years ago, Mohenjo-daro grew more equal over time
+- Encephalitis
+- Economists Are Obsessed with "工作 Creation." How about Less Work? (2017)
 - The newest Instagram “exploit” is the goofiest I've seen
-- GitHub Copilot App
-- CSS-Native Parallax Effect
-- A walking tour of surveillance infrastructure in Seattle (2020)
-- 構建 2026: WSL improvements and the 新 Containers CLI and APIs
+- Project Sunrise Nears Reality as Qantas' Airbus A350-1000ULR Makes Maiden Flight
+- Squillions: How money laundering won
+- Show HN: Eyeball
+- Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.AI
+- Show HN: Live breath detection and biofeedback from a phone microphone
+- QBE – Compiler 後端 – 1.3
+- The advertising cartel coming to your 網頁 browser
+- Show HN: Phive, a Gomoku-like game to play with friends or solo
+- Bringing Up DeepSeek-V4-Flash on AMD MI300X
 - Age verification for social media, the beginning of the end for a free internet?
-- Launch HN: Rudus (YC P26) – AI for concrete contractors
-- MP3s from Google Drive in Music 助手 on Home 助手
+- CSS-Native Parallax Effect
+- Loading Sega Games Off a Vinyl Record [video]
+- Goldman Sachs CEO says markets in 'greed' mode as AI companies seek billions
+- Nine Ways to Do Inheritance in Rust, a Language Without Inheritance
+- Tesla retroactively added 'supervised' to FSD contracts owners signed years ago
 - 為什麼 Janet? (2023)
-- Rsync and outrage
-- Gleam v1.17.0
-- Show HN: RePlaya – self-hosted browser session replay with live tailing
+- Launch HN: Rudus (YC P26) – AI for concrete contractors
+- GitHub Copilot App
 - Love systemd timers
-- Agentic Mfw
-- BQN: 什麼是 a Primitive?
-- Reviving Teletext for Ham Radio
-- Codex Discovered a Hidden HTTP/2 Bomb
-- Publishers in UK can opt out of Google AI search results
+- The Ladder Paradox
 - Can the stockmarket swallow Anthropic, SpaceX and OpenAI?
-- MAI-Thinking-1
+- Jonathan Franzen on Talent, Theatre, and His Next Novel
+- Running 'Doom' on E. coli cells slowly
 - CQL: Categorical Databases
-- Expanding Project Glasswing
-- More than 6 out of 10 people turn to AI for psychological support
-- Ad Infini­Tum
-- Americans Are Leaving the U.S. in Record Numbers
-- Missing worker at Los Alamos National Laboratory found dead in 遠端 forest
+- A walking tour of surveillance infrastructure in Seattle (2020)
+- Reviving Teletext for Ham Radio
 - What appear to be biochemical processes may be a natural feature of geology
+- Show HN: RePlaya – self-hosted browser session replay with live tailing
+- Japan declines to join movement to ban youth from social media
+- Codex Discovered a Hidden HTTP/2 Bomb
+- MP3s from Google Drive in Music 助手 on Home 助手
 - Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity
-- Now AI agents need what RSS does
-- Three Ways to Get Paid (2018)
+- BQN: 什麼是 a Primitive?
+- Expanding Project Glasswing
 - Strace-ui, Bonsai_term, and the TUI renaissance
-- 為什麼 Custom Attributes in .NET Give Me Nightmares
-- Microsoft's 新 quantum computer chip has a fundamental problem
+- MAI-Thinking-1
+- Rsync and outrage
+- How long will it take to rebuild Blue Origin's launch pad?
 - macOS needs its grid back
-- Apple rejected my dictation app for using the accessibility API
-- End of Civilization News
-- Fooling around with encrypted reasoning blobs
-- WinUtils: Shell-powered CLI tools for Windows 95
-- Made a Tool to Streams Changes from Microsoft SQL 伺服器 to Apache Kafka
 - Ask HN: Who is 招聘? (June 2026)
-- Texas Adds Another Solar Farm as Ercot Grid Demand Soars
-- How is Groq raising more money?
-- Rethinking search as 代碼 generation
-- Review of the MoErgo Glove80 Keyboard (2024)
+- Gleam v1.17.0
+- Fooling around with encrypted reasoning blobs
+- Turkey Hacked the Hair Transplant Industry
+- Agentic Mfw
+- 為什麼 Custom Attributes in .NET Give Me Nightmares
 - I made my phone slow on purpose
-- Patterns of Structure and Argument: a guide to mathematical thinking(2017) [pdf]
-- Pyro Caml Continuous Profiler for OCaml
-- Coreutils for Windows
-- The Bluesky firehose if everyone was messaging you
-- Back to the Metal
-- Are blue zones real? Answering that question is harder then ever
+- Three Ways to Get Paid (2018)
 - Show HN: Paseo – Beautiful open-source coding 代理 interface
-- Clothing, not air conditioning, should be 1st layer of response to extreme heat
-- CLI tool that packages data science projects for 大型語言模型 context windows
-- Chipotlai Max
-- Show HN: 構建 Your Own AI 代理 CLI in 150 Lines
+- Apple rejected my dictation app for using the accessibility API
 
 
 ---
