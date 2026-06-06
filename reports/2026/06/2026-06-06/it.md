@@ -4,204 +4,206 @@
 
 ---
 
-### 1. [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
+### 1. [Zeroserve: A zero-config 網頁 伺服器 you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
 
-- ⭐ 469 分｜💬 140 留言｜👤 0xkato
+- ⭐ 88 分｜💬 19 留言｜👤 losfair
 
-### 2. [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+### 2. [NVIDIA is proposing a beast of a CPU 系統 for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
 
-- ⭐ 722 分｜💬 233 留言｜👤 maltalex
+- ⭐ 122 分｜💬 266 留言｜👤 tosh
 
-### 3. [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+### 3. [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
 
-- ⭐ 193 分｜💬 66 留言｜👤 transistor-man
+- ⭐ 52 分｜💬 4 留言｜👤 MilnerRoute
 
-### 4. [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+### 4. [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
 
-- ⭐ 76 分｜💬 77 留言｜👤 ramanan
+- ⭐ 31 分｜💬 7 留言｜👤 bryanrasmussen
 
-### 5. [Pre-Modern Armies for Worldbuilders, Part I: 為什麼 They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
+### 5. [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
 
-- ⭐ 106 分｜💬 35 留言｜👤 gostsamo
+- ⭐ 90 分｜💬 39 留言｜👤 root-parent
 
-### 6. [新 method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/)
+### 6. [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/)
 
-- ⭐ 413 分｜💬 173 留言｜👤 speckx
+- ⭐ 176 分｜💬 54 留言｜👤 tripplyons
 
-### 7. [Mbodi AI (YC P25) Is 招聘 Founding 機器學習 工程師 (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
+### 7. [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
+
+- ⭐ 721 分｜💬 198 留言｜👤 0xkato
+
+### 8. [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+
+- ⭐ 279 分｜💬 414 留言｜👤 ramanan
+
+### 9. [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
+
+- ⭐ 185 分｜💬 174 留言｜👤 jwilk
+
+### 10. [Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk](https://uonr.github.io/poincake/)
+
+Hi!This is an infinite canvas note-taking tool where notes are laid out in a non-Euclidean, hyperbolic geometric space. As you drag and navigate through the view, you’ll experience a unique fluid dist
+
+- ⭐ 33 分｜💬 6 留言｜👤 uonr
+
+### 11. [Running Python 代碼 in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
+
+- ⭐ 42 分｜💬 16 留言｜👤 theanonymousone
+
+### 12. [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
+
+- ⭐ 95 分｜💬 31 留言｜👤 nmstoker
+
+### 13. [WoofWare.PawPrint, a Deterministic .NET Runtime](https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/)
+
+- ⭐ 8 分｜💬 1 留言｜👤 Smaug123
+
+### 14. [Building Rust Procedural Macros from the Grounds Up](https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html)
+
+- ⭐ 57 分｜💬 13 留言｜👤 Sagi21805
+
+### 15. [The 新 bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)
+
+- ⭐ 55 分｜💬 39 留言｜👤 RickJWagner
+
+### 16. [Summer of '85: DOSBOS is rejected by ANALOG Computing](https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by)
+
+- ⭐ 21 分｜💬 5 留言｜👤 ibobev
+
+### 17. [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+
+- ⭐ 1167 分｜💬 415 留言｜👤 maltalex
+
+### 18. [Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]](https://www.youtube.com/watch?v=rJ2gQ5Md60U)
+
+- ⭐ 30 分｜💬 2 留言｜👤 NaOH
+
+### 19. [Mbodi AI (YC P25) Is 招聘 Founding 機器學習 工程師 (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
 
 - ⭐ 1 分｜💬 0 留言｜👤 chitianhao
 
-### 8. [The 新 bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)
+### 20. [Splash Is a Colour Format](https://www.todepond.com/lab/splash/)
 
-- ⭐ 4 分｜💬 3 留言｜👤 RickJWagner
+- ⭐ 22 分｜💬 18 留言｜👤 tobr
 
-### 9. [Social Cache Busting](https://www.autodidacts.io/social-cache-busting/)
+### 21. [Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](https://arxiv.org/abs/2605.00414)
 
-- ⭐ 66 分｜💬 14 留言｜👤 surprisetalk
+- ⭐ 22 分｜💬 3 留言｜👤 rsn243
 
-### 10. [Ask HN: What was your "oh shit" moment with GenAI?](https://news.ycombinator.com/item?id=48406174)
+### 22. [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
+
+- ⭐ 74 分｜💬 26 留言｜👤 kbumsik
+
+### 23. [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+
+- ⭐ 220 分｜💬 83 留言｜👤 transistor-man
+
+### 24. [新 method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/)
+
+- ⭐ 469 分｜💬 199 留言｜👤 speckx
+
+### 25. [Ask HN: What was your "oh shit" moment with GenAI?](https://news.ycombinator.com/item?id=48406174)
 
 Most of us were amused when DALL-E and its peers went mainstream, and we were quick to point out the obvious flaws.Then ChatGPT hit the scene and again, many of us dismissed it as a parlor trick that 
 
-- ⭐ 387 分｜💬 714 留言｜👤 andrehacker
+- ⭐ 478 分｜💬 859 留言｜👤 andrehacker
 
-### 11. [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
+### 26. [Ask HN: 為什麼 is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
 
-- ⭐ 408 分｜💬 252 留言｜👤 janpot
+Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN 最佳 RSS feed without seeing a post about how AI “writes bad 代碼,” “引進 bugs,” “creates tech
 
-### 12. [pg_durable: Microsoft open sources in-資料庫 durable execution](https://github.com/microsoft/pg_durable)
+- ⭐ 252 分｜💬 446 留言｜👤 Ekami
 
-- ⭐ 418 分｜💬 93 留言｜👤 coffeemug
+### 27. [Pre-Modern Armies for Worldbuilders, Part I: 為什麼 They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
 
-### 13. [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
+- ⭐ 154 分｜💬 44 留言｜👤 gostsamo
 
-- ⭐ 449 分｜💬 455 留言｜👤 logicprog
+### 28. [Social Cache Busting](https://www.autodidacts.io/social-cache-busting/)
 
-### 14. [HISE – Toolkit for building VST plugins](https://hise.dev)
+- ⭐ 113 分｜💬 43 留言｜👤 surprisetalk
 
-- ⭐ 9 分｜💬 1 留言｜👤 hyperific
+### 29. [pg_durable: Microsoft open sources in-資料庫 durable execution](https://github.com/microsoft/pg_durable)
 
-### 15. [Gemma 4 QAT models: Optimizing compression for 行動 and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)
+- ⭐ 454 分｜💬 104 留言｜👤 coffeemug
 
-- ⭐ 364 分｜💬 110 留言｜👤 theanonymousone
+### 30. [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
-### 16. [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
-
-- ⭐ 89 分｜💬 21 留言｜👤 nikcub
-
-### 17. [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
-
-- ⭐ 544 分｜💬 220 留言｜👤 riddley
-
-### 18. [Do women’s mate preferences change across the ovulatory cycle? (2014) [pdf]](https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf)
-
-- ⭐ 30 分｜💬 23 留言｜👤 rzk
-
-### 19. [Introduction – Rust for Python Programmers](https://microsoft.github.io/RustTraining/python-book/)
-
-- ⭐ 23 分｜💬 8 留言｜👤 linhns
-
-### 20. [Zig Zen 更新](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)
-
-- ⭐ 100 分｜💬 35 留言｜👤 tosh
-
-### 21. [The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)
-
-- ⭐ 113 分｜💬 36 留言｜👤 paulmooreparks
-
-### 22. [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/)
-
-- ⭐ 5 分｜💬 2 留言｜👤 tripplyons
-
-### 23. [Azure Linux Desktop](https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/)
-
-- ⭐ 25 分｜💬 10 留言｜👤 haydenbarnes
-
-### 24. [Mathematician solves origami donut efficiency challenge with fewest folds](https://phys.org/news/2026-06-mathematician-origami-donut-efficiency-fewest.html)
-
-- ⭐ 3 分｜💬 1 留言｜👤 pseudolus
-
-### 25. [Ten Years of Franz](https://meetfranz.com/blog/ten-years-of-franz)
-
-- ⭐ 45 分｜💬 25 留言｜👤 tosh
-
-### 26. [My 代理 Skill for 測試-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
-
-- ⭐ 199 分｜💬 85 留言｜👤 laxmena
-
-### 27. [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
-
-- ⭐ 71 分｜💬 31 留言｜👤 berlianta
-
-### 28. [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
-
-https:&#x2F;&#x2F;gds.blog.gov.uk&#x2F;2026&#x2F;06&#x2F;02&#x2F;building-for-the-future-m...https:&#x2F;&#x2F;www.adyen.com&#x2F;press-and-media&#x2F;adyen-payments-gov-uk
-
-- ⭐ 496 分｜💬 190 留言｜👤 toomuchtodo
-
-### 29. [Nine Ways to Do Inheritance in Rust, a Language Without Inheritance](https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215)
-
-- ⭐ 62 分｜💬 13 留言｜👤 pjmlp
-
-### 30. [Conventional Commits encourages focus on the wrong things](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
-
-- ⭐ 330 分｜💬 237 留言｜👤 jsve
+- ⭐ 13 分｜💬 1 留言｜👤 speckx
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Tracing a powerful GNSS interference source over Europe
-- Three of our worst VC stories
-- Ask HN: 為什麼 is the HN crowd so anti-AI?
-- Raytracing Geometries in 3D Rendering
 - The perils of UUID primary keys in SQLite
+- Astronauts told to return to ISS after sheltering over air leak repairs
+- Show HN: Soft Body Jiggle Physics
+- US House lawmakers release draft bill to prohibit state AI rules
+- Gemma 4 QAT models: Optimizing compression for 行動 and laptop efficiency
+- Mouseless – keyboard-driven control of macOS/Linux/Windows
+- First Commodore PET sold, June 5, 1977
+- We have decided to make our service FREE. (Bloomberg Terminal for Everyone)
+- Gov.uk has replaced Stripe with Dutch provider Adyen
+- The back cover of C++: The Language raises questions not answered by front cover
+- My 代理 Skill for 測試-Driven Development
+- The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy
+- Communities of Not
+- Ten Years of Franz
+- Conventional Commits encourages focus on the wrong things
+- AI Can't Care
 - The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography
+- Three of our worst VC stories
 - India's surprise baby bust
-- Transformers are inherently succinct
-- C++: The Documentary
+- Nine Ways to Do Inheritance in Rust, a Language Without Inheritance
+- South Korean forums will need to scan every images with AI censorship tools
+- Azure Linux Desktop
 - Cooldown Support for Ruby Bundler
 - Meta Keeps Delaying the Release of Its 新 AI 模型 to Developers
+- I Love Lisp
+- Transformers are inherently succinct
 - I tested every IP KVM in my Homelab
-- South Korean forums will need to scan every images with AI censorship tools
-- GrapheneOS user reported to authorities for using GrapheneOS
+- Lockdown Mode
+- HISE – Toolkit for building VST plugins
 - Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed
-- Launch HN: General Instinct (YC P26) – Frontier models on edge devices
-- No Let, No Rec, No Problem: A Gentler 介紹 the Y and Z Combinators
-- "Maybe later" was a feature
+- Zig Zen 更新
 - Redis 8.8: 新 array data structure, rate limiter, performance improvements
-- Europe's largest Copper Age tomb: children's bones show ancient health crisis
 - Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my 大型語言模型 tokens
 - Changing how we develop Ladybird
-- Entanglement Builds Space-Time. Now "Magic" Gives It Gravity
+- Launch HN: General Instinct (YC P26) – Frontier models on edge devices
 - Azure Linux 4.0 is Microsoft's first general-purpose Linux
-- Nordstjernen 1.0
-- Show HN: ABC Classic 100 Rankings visualised
-- Aging and Eye Problems
-- Inside FAISS: Billion-Scale Similarity Search
+- Entanglement Builds Space-Time. Now "Magic" Gives It Gravity
+- Raytracing Geometries in 3D Rendering
+- "Maybe later" was a feature
 - Fine-tuning an 大型語言模型 to write docs like it's 1995
+- Nordstjernen 1.0
 - ESP32 Bit Pirate, a 硬體 Hacking Tool with WebCLI That Speaks Every Protocol
-- I led the U.S. CDC response to the 2014 Ebola epidemic
-- Exact UNORM8 to Float
+- Introduction – Rust for Python Programmers
+- No Let, No Rec, No Problem: A Gentler 介紹 the Y and Z Combinators
+- Europe's largest Copper Age tomb: children's bones show ancient health crisis
+- Did Claude increase bugs in rsync?
 - Lee Kuan Yew's Singapore Story (2023)
-- Mantine-datatable (and others) compromised – owner account suspended
-- Open 代碼 Review – An AI-powered 代碼 review CLI tool
+- Inside FAISS: Billion-Scale Similarity Search
+- Police remove biabetes researcher, other experts from medical conference
 - Meta's ships facial recognition on smart glasses
-- Leap in DNA synthesis slashes time to 構建 新 genetic sequences
+- Open 代碼 Review – An AI-powered 代碼 review CLI tool
+- Some concerns about Ladybird's (Browser) bylaws
 - Do transformers need three projections? Systematic study of QKV variants
-- Texas is America Inc's 新 centre of gravity
+- Show HN: ABC Classic 100 Rankings visualised
+- Tracing a powerful GNSS interference source over Europe
+- Leap in DNA synthesis slashes time to 構建 新 genetic sequences
+- Protein name confusion created antibody mix-up affecting papers
+- Mantine-datatable (and others) compromised – owner account suspended
+- The mayor of Shelbyville, IN says only 'shitty houses' oppose data center
 - Dutch gov't will only allow European company to operate DigiD platform
-- P/E Tells You the Price. Reality Gap Tells You the Delusion
-- Getting silly with C, part and((int*)1)[-1]
-- databow: a Rust CLI to query any 資料庫 with an ADBC driver
-- SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P
-- The IsUpMap lets you check the status of over 100 major sites at once
-- Running Python 代碼 in a sandbox with MicroPython and WASM
 - They’re made out of weights
-- Warren's Abstract Machine: A 教學 Reconstruction
-- Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)
-- VoidZero Is Joining Cloudflare
-- Samurai City
-- When AI Builds Itself: Our progress toward recursive self-improvement
-- Anthropic's open-source framework for AI-powered vulnerability discovery
-- IPv6 zones in URLs are a mistake
-- Watching a Z80 from an RP2350
-- Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes
-- Show HN: On-device transcriber that's 97% accurate at identifying speakers
-- KVarN: Native vLLM 後端 for KV-cache quantization by Huawei
-- Delacroix's Entry of the Crusaders into Constantinople Restored
-- Do the Hardest Thing
-- Meta enables ADB on deprecated Portal devices [video]
-- The Causes of Long Covid
-- Go Experiments Explained
-- Learn SQL Once, Use It for 30 Years
-- Hacker News, Sans AI
-- I'm skeptical about efforts to revolutionize schooling
-- At the Autograph Show
-- Gemma 4 12B: A unified, encoder-free multimodal 模型
-- Ask HN: 什麼是 your (AI) dev tech stack / workflow?
-- Linear Cosine Palettes(2025)
+- SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P
+- P/E Tells You the Price. Reality Gap Tells You the Delusion
+- databow: a Rust CLI to query any 資料庫 with an ADBC driver
+- Mathematician solves origami donut efficiency challenge with fewest folds
+- C++: The Documentary
+- The IsUpMap lets you check the status of over 100 major sites at once
+- US states prepare lawsuit to block Paramount's $110B Warner Bros deal
+- The Apple Ad That Broke Microsoft [video]
+- Texas is America Inc's 新 centre of gravity
 
 
 ---
