@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [LLMs are eroding my 軟體 engineering 職業 and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
+### 1. [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
 
-- ⭐ 106 分｜💬 54 留言｜👤 poisonfountain
+- ⭐ 34 分｜💬 4 留言｜👤 elpocko
 
-### 2. [The 29th International Obfuscated C 代碼 Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
+### 2. [Leiden Declaration on 人工智慧 and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)
 
-- ⭐ 245 分｜💬 58 留言｜👤 matt_d
+- ⭐ 12 分｜💬 1 留言｜👤 _____k
 
-### 3. [Yon – a topos-oriented language with a content-addressed lattice heap](https://yon-lang.org/)
+### 3. [Cloning a Sennheiser BA2015 battery pack](https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/)
 
-Hello everyone. In the last two years I spent, as a dev, part of my free time
-stretching the limits of my knowledge. Not being a mathematician myself, I
-discovered that formalizing concepts in mathema
+- ⭐ 66 分｜💬 13 留言｜👤 zdw
 
-- ⭐ 12 分｜💬 1 留言｜👤 amenn
+### 4. [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer)
 
-### 4. [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/)
+- ⭐ 18 分｜💬 8 留言｜👤 maxloh
 
-- ⭐ 67 分｜💬 34 留言｜👤 supermatou
+### 5. [什麼是 the purpose of the lost+found folder in Linux and Unix? (2014)](https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix)
 
-### 5. [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)
+- ⭐ 34 分｜💬 19 留言｜👤 tosh
 
-- ⭐ 4 分｜💬 2 留言｜👤 predkambrij
+### 6. [The 29th International Obfuscated C 代碼 Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
 
-### 6. [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/)
+- ⭐ 324 分｜💬 76 留言｜👤 matt_d
 
-- ⭐ 84 分｜💬 12 留言｜👤 kkm
+### 7. [You'll never guess who made the first wireless telephone](https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/)
 
-### 7. [My 軟體 North Star](https://kristoff.it/blog/north-star/)
+- ⭐ 8 分｜💬 0 留言｜👤 surprisetalk
 
-- ⭐ 126 分｜💬 67 留言｜👤 kristoff_it
+### 8. [Show HN: Lathe – Use LLMs to learn a 新 domain, not skip past it](https://github.com/devenjarvis/lathe)
 
-### 8. [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
+Hey HN!Lathe is an experiment in using LLMs to teach me something 新, instead of doing the work for me. It generates a hands-on, source-backed 教學 for any technical topic you want to learn. Then
 
-- ⭐ 209 分｜💬 96 留言｜👤 babuskov
+- ⭐ 144 分｜💬 31 留言｜👤 devenjarvis
 
-### 9. [9 Mothers (YC P26) Is 招聘](https://9mothers.com/careers)
+### 9. [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)
 
-- ⭐ 1 分｜💬 0 留言｜👤 ukd1
+- ⭐ 332 分｜💬 178 留言｜👤 predkambrij
 
-### 10. [The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)](https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/)
+### 10. [Proliferate (YC S25) is 招聘 to building 開源 Codex](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 
-- ⭐ 22 分｜💬 3 留言｜👤 ChrisGammell
+- ⭐ 1 分｜💬 0 留言｜👤 pablo24602
 
-### 11. [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
+### 11. [Backrest – a 網頁 UI and orchestrator for restic backup](https://github.com/garethgeorge/backrest)
 
-- ⭐ 112 分｜💬 50 留言｜👤 gscott
+- ⭐ 33 分｜💬 2 留言｜👤 flexagoon
 
-### 12. [Public Domain Image Archive](https://pdimagearchive.org/)
+### 12. [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt)
 
-- ⭐ 159 分｜💬 23 留言｜👤 davidbarker
+- ⭐ 5 分｜💬 6 留言｜👤 aself101
 
-### 13. [Tokenomics: Quantifying Where Tokens Are Used in Agentic 軟體 Engineering](https://arxiv.org/abs/2601.14470)
+### 13. [Podman 6: machine usability improvements (2025)](https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/)
 
-- ⭐ 125 分｜💬 55 留言｜👤 Anon84
+- ⭐ 64 分｜💬 5 留言｜👤 daesorin
 
-### 14. [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
+### 14. [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122)
 
-- ⭐ 365 分｜💬 105 留言｜👤 gregsadetsky
+- ⭐ 168 分｜💬 75 留言｜👤 supermatou
 
-### 15. [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
+### 15. [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/)
 
-- ⭐ 184 分｜💬 104 留言｜👤 BerislavLopac
+- ⭐ 117 分｜💬 58 留言｜👤 supermatou
 
 ### 16. [Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/)
 
-- ⭐ 7 分｜💬 9 留言｜👤 le_chuck
+- ⭐ 61 分｜💬 24 留言｜👤 le_chuck
 
-### 17. [Symbolica 2.0: Programmable Symbols for Python and Rust](https://symbolica.io/posts/symbolica_2_0_release/)
+### 17. [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
 
-- ⭐ 102 分｜💬 9 留言｜👤 mmastrac
+- ⭐ 13 分｜💬 0 留言｜👤 curmudgeon22
 
-### 18. [Harness engineering: Leveraging Codex in an 代理-first world](https://openai.com/index/harness-engineering/)
+### 18. [The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)](https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/)
 
-- ⭐ 236 分｜💬 154 留言｜👤 pramodbiligiri
+- ⭐ 54 分｜💬 5 留言｜👤 ChrisGammell
 
-### 19. [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
+### 19. [Public Domain Image Archive](https://pdimagearchive.org/)
 
-- ⭐ 98 分｜💬 53 留言｜👤 zeech
+- ⭐ 221 分｜💬 31 留言｜👤 davidbarker
 
-### 20. [Biohub releases a world 模型 of protein biology](https://biohub.org/news/world-model-of-protein-biology/)
+### 20. [My 軟體 North Star](https://kristoff.it/blog/north-star/)
 
-- ⭐ 101 分｜💬 16 留言｜👤 gmays
+- ⭐ 184 分｜💬 112 留言｜👤 kristoff_it
 
-### 21. [How Long Does It Take for a QQuickItem to Become Visible?](https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/)
+### 21. [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/)
 
-- ⭐ 4 分｜💬 0 留言｜👤 jandeboevrie
+- ⭐ 126 分｜💬 21 留言｜👤 kkm
 
-### 22. [Efficient and 訓練-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
+### 22. [There's no escaping it: an exploration of ANSI codes](https://blog.safia.rocks/2025/12/22/ansi-codes/)
 
-- ⭐ 16 分｜💬 0 留言｜👤 yorwba
+- ⭐ 19 分｜💬 5 留言｜👤 ankitg12
 
-### 23. [Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved](https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06)
+### 23. [sqlite: A CGo-free port of SQLite/SQLite3](https://gitlab.com/cznic/sqlite)
 
-- ⭐ 98 分｜💬 27 留言｜👤 crescit_eundo
+- ⭐ 18 分｜💬 3 留言｜👤 tosh
 
-### 24. [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
+### 24. [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
 
-- ⭐ 318 分｜💬 301 留言｜👤 jwilk
+- ⭐ 246 分｜💬 123 留言｜👤 babuskov
 
-### 25. [NVIDIA is proposing a beast of a CPU 系統 for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
+### 25. [Tokenomics: Quantifying Where Tokens Are Used in Agentic 軟體 Engineering](https://arxiv.org/abs/2601.14470)
 
-- ⭐ 301 分｜💬 494 留言｜👤 tosh
+- ⭐ 156 分｜💬 65 留言｜👤 Anon84
 
-### 26. [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
+### 26. [Symbolica 2.0: Programmable Symbols for Python and Rust](https://symbolica.io/posts/symbolica_2_0_release/)
 
-- ⭐ 270 分｜💬 859 留言｜👤 toephu2
+- ⭐ 134 分｜💬 11 留言｜👤 mmastrac
 
-### 27. [Arithmetic Without Numbers – How LLMs Do Math](https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html)
+### 27. [LLMs are eroding my 軟體 engineering 職業 and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
 
-- ⭐ 48 分｜💬 13 留言｜👤 old_sound
+- ⭐ 655 分｜💬 611 留言｜👤 poisonfountain
 
-### 28. [Zeroserve: A zero-config 網頁 伺服器 you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
+### 28. [How Long Does It Take for a QQuickItem to Become Visible?](https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/)
 
-- ⭐ 247 分｜💬 57 留言｜👤 losfair
+- ⭐ 29 分｜💬 1 留言｜👤 jandeboevrie
 
-### 29. [Games Between Programs: The Ruliology of Competition](https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/)
+### 29. [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
 
-- ⭐ 16 分｜💬 1 留言｜👤 surprisetalk
+- ⭐ 149 分｜💬 69 留言｜👤 gscott
 
-### 30. [Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)
+### 30. [The gamers taking on the industry to stop it switching off games](https://www.bbc.com/news/articles/c8e8e7g0r82o)
 
-- ⭐ 10 分｜💬 1 留言｜👤 JumpCrisscross
+- ⭐ 63 分｜💬 64 留言｜👤 Brajeshwar
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot
-- Sem: 新 primitive for 代碼 understanding – not LSPs, but entities on 熱門 of Git
-- I design with Claude more than Figma now
+- How Liminalism Became the Defining Aesthetic of Our Time
+- Efficient and 訓練-Free Single-Image Diffusion Models
+- Warren's Abstract Machine: A 教學 Reconstruction
+- Biohub releases a world 模型 of protein biology
+- Arithmetic Without Numbers – How LLMs Do Math
+- Google just made you a search quality rater. You won't get paid
+- Moving beyond fork() + exec()
+- "Terrorists?": The Suffragette Arson and Bombing Campaign – Egham Museum
+- Harness engineering: Leveraging Codex in an 代理-first world
 - Ask HN: What was your "oh shit" moment with GenAI?
-- Show HN: Free animated icon library for Vue
+- Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved
+- The User Doesn't Care – But you should
+- Sem: 新 primitive for 代碼 understanding – not LSPs, but entities on 熱門 of Git
+- Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot
+- Vim Classic 8.3 發布
+- gonum
+- Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
+- Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began
+- Partitions over Permutations
+- The J 程式設計 Language (2014)
 - Motorola effectively bricked its entire line of WiFi routers without explanation
-- Automated QA and Testing with AI
-- Pokemon Emerald Ported to WebAssembly (100k FPS)
-- Show HN: Oproxy – inspect and modify 網絡 traffic from the browser
-- Firefox confirms working on own adblocker [video]
+- Show HN: Free animated icon library for Vue
 - Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk
-- Enforcing the First as in BGP AS_PATHs
-- You Can Run
+- Automated QA and Testing with AI
+- Games Between Programs: The Ruliology of Competition
 - The 新 bibliomaniacs
+- Scientists ejected from diabetes conference for distributing journal reprints
+- You Can Run
+- I design with Claude more than Figma now
 - Benchmarks in Leipzig
-- Unicode Fonts and Tools for X11
-- Your 401K Is Their Exit Strategy
+- Show HN: Oproxy – inspect and modify 網絡 traffic from the browser
+- The OnlyFans Economy of American AI
+- Google to pay SpaceX $920M a month for compute capacity at xAI data centers
 - The perils of UUID primary keys in SQLite
 - How LLMs work
+- Unicode Fonts and Tools for X11
+- NVIDIA is proposing a beast of a CPU 系統 for Windows PCs
+- Ask HN: How are thinking efforts implemented?
 - Running Python 代碼 in a sandbox with MicroPython and WASM
-- Vim Classic 8.3 發布
-- HateArena – A free and 開源 arena shooter
-- Home alone: 遠端 work, isolation, and mental health
+- Firefox confirms working on own adblocker [video]
+- Zeroserve: A zero-config 網頁 伺服器 you can script with eBPF
 - Social Cache Busting
-- PaceVer (an alternative to SemVer, for 行動 apps)
-- Pentagon raised threat of Israeli spying on U.S. to highest level, sources say
-- Corrupting a ZFS File on Purpose
-- I am giving up on VM Gaming
-- Trees to Flows and Back: Unifying Decision Trees and Diffusion Models
+- 7 Ways 新 Engineers Can Flourish in the Age of AI
 - My 代理 Skill for 測試-Driven Development
 - Gov.uk has replaced Stripe with Dutch provider Adyen
-- Qualcomm Linux
-- An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World
+- HateArena – A free and 開源 arena shooter
+- Yon – a topos-oriented language with a content-addressed lattice heap
 - South Korean forums will need to scan every images with AI censorship tools
-- Summer of '85: DOSBOS is rejected by ANALOG Computing
-- Context Sculpting
+- Home alone: 遠端 work, isolation, and mental health
+- Trees to Flows and Back: Unifying Decision Trees and Diffusion Models
+- Enforcing the First as in BGP AS_PATHs
+- Corrupting a ZFS File on Purpose
+- Qualcomm Linux
+- Customers Are Giving Billions to Scammers. Tellers Are Intervening
 - India's surprise baby bust
-- 為什麼 Aren't We Measuring How AI Affects Humans?
-- The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography
-- Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]
+- I am giving up on VM Gaming
+- The ROI of AI coding looks different when you are a bootstrapped founder
 - 新 method turns ocean water into drinking water, without waste
-- Static Devirtualization of Themida
-- Programmers Aren't People
+- The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography
+- Pentagon raised threat of Israeli spying on U.S. to highest level, sources say
 - Three of our worst VC stories
-- Floppy Disk patent was granted today in 1972 – when 80KB took up 8 inches
-- Computex 2026: Are We Heading for the Agentic PC Era Yet?
-- Law Professors Prefer AI over Peer Answers
+- Pokemon Emerald Ported to WebAssembly (100k FPS)
+- Summer of '85: DOSBOS is rejected by ANALOG Computing
 - Cooldown Support for Ruby Bundler
-- The back cover of C++: The Language raises questions not answered by front cover
-- 如何 make firecracker faster to start Chromium in < 20ms
-- Ask HN: 為什麼 is the HN crowd so anti-AI?
+- The Grad Student Who Broke Microplastics Research
 - Azure Linux 4.0 is Microsoft's first general-purpose Linux
-- S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic
-- Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed
-- Changing how we develop Ladybird
-- The circus freaks of 開源
-- I tested every IP KVM in my Homelab
-- The intracies of modern camera lens repair (2024)
-- pg_durable: Microsoft open sources in-資料庫 durable execution
-- Redis 8.8: 新 array data structure, rate limiter, performance improvements
-- Python JIT project was asked to pause development
-- Entanglement Builds Space-Time. Now "Magic" Gives It Gravity
-- First Commodore PET sold, June 5, 1977
-- Show HN: Keybench – Scriptable, extensible performance tool for key value stores
-- Astronauts told to return to ISS after sheltering over air leak repairs
-- Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my 大型語言模型 tokens
-- Mouseless – keyboard-driven control of macOS/Linux/Windows
-- Ten Years of Franz
-- Transformers are inherently succinct
-- Meta's ships facial recognition on smart glasses
+- 新 York lawmakers pass one-year ban on 新 data centers
+- The back cover of C++: The Language raises questions not answered by front cover
+- Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]
+- Law Professors Prefer AI over Peer Answers
 
 
 ---
