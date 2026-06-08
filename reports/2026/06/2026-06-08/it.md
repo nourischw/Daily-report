@@ -4,206 +4,208 @@
 
 ---
 
-### 1. [The Cypherpunk Library](https://www.cypherpunkbooks.com)
+### 1. [Show HN: Performative-UI – a React component library of design tropes](https://vorpus.github.io/performativeUI/)
 
-- ⭐ 63 分｜💬 6 留言｜👤 yu3zhou4
+hope you enjoy
 
-### 2. [OneDrive data now has an expiry date](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)
+- ⭐ 131 分｜💬 24 留言｜👤 lizhang
 
-- ⭐ 45 分｜💬 39 留言｜👤 taubek
+### 2. [Zig by Example](https://github.com/boringcollege/zig-by-example)
 
-### 3. [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+- ⭐ 133 分｜💬 55 留言｜👤 dariubs
 
-- ⭐ 318 分｜💬 143 留言｜👤 igmn
+### 3. [Launch HN: Intuned (YC S22) – 構建 and run reliable browser automations as 代碼](https://intunedhq.com)
 
-### 4. [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+Hey HN, we&#x27;re Faisal and Ahmad from Intuned (https:&#x2F;&#x2F;intunedhq.com). We’re building a platform for building, deploying, and maintaining browser automations.Customers primarily use the I
 
-- ⭐ 152 分｜💬 57 留言｜👤 882542F3884314B
+- ⭐ 56 分｜💬 14 留言｜👤 fkilaiwi
 
-### 5. [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
+### 4. [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
 
-- ⭐ 206 分｜💬 109 留言｜👤 vthommeret
+- ⭐ 216 分｜💬 177 留言｜👤 1vuio0pswjnm7
 
-### 6. [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
+### 5. [The Cypherpunk Library](https://www.cypherpunkbooks.com)
 
-- ⭐ 637 分｜💬 277 留言｜👤 gavinray
+- ⭐ 215 分｜💬 71 留言｜👤 yu3zhou4
 
-### 7. [The Smallest Brain You Can 構建: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
+### 6. [Are you expected to run five Python type-checkers now?](https://pyrefly.org/blog/too-many-type-checkers/)
 
-- ⭐ 200 分｜💬 29 留言｜👤 DevarshRanpara
+- ⭐ 55 分｜💬 36 留言｜👤 ocamoss
 
-### 8. [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
+### 7. [How much of Thermo Fisher's antibody data has been manipulated?](https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/)
 
-- ⭐ 66 分｜💬 16 留言｜👤 nicwilson
+- ⭐ 240 分｜💬 54 留言｜👤 mhrmsn
 
-### 9. [A Family Project](https://bittersoutherner.com/feature/2022/a-family-project)
+### 8. [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
 
-- ⭐ 4 分｜💬 0 留言｜👤 surprisetalk
+- ⭐ 26 分｜💬 16 留言｜👤 emschwartz
 
-### 10. [Playing with Vision Embeddings](https://prestonbjensen.com/posts/playing-with-vision-embeddings)
+### 9. [Zig Structs of Arrays (2024)](https://andreashohmann.com/zig-struct-of-arrays/)
 
-- ⭐ 56 分｜💬 5 留言｜👤 prestoj
+- ⭐ 78 分｜💬 18 留言｜👤 Tomte
 
-### 11. [Do agents.md files help coding agents?](https://twitter.com/rasbt/status/2063649136323252397)
+### 10. [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
 
-https:&#x2F;&#x2F;xcancel.com&#x2F;rasbt&#x2F;status&#x2F;2063649136323252397https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.11988
+- ⭐ 595 分｜💬 298 留言｜👤 igmn
 
-- ⭐ 37 分｜💬 22 留言｜👤 smushback
+### 11. [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
 
-### 12. [DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision)
+- ⭐ 248 分｜💬 97 留言｜👤 882542F3884314B
 
-- ⭐ 275 分｜💬 123 留言｜👤 yogthos
+### 12. [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
 
-### 13. [Algorithmic Monocultures in 招聘](https://algorithmichiring.github.io/)
+- ⭐ 788 分｜💬 358 留言｜👤 gavinray
 
-- ⭐ 98 分｜💬 40 留言｜👤 drchiu
+### 13. [Spherical Voronoi Diagram](https://www.jasondavies.com/maps/voronoi/)
 
-### 14. [新 drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
+- ⭐ 85 分｜💬 22 留言｜👤 marysminefnuf
 
-- ⭐ 177 分｜💬 29 留言｜👤 gmays
+### 14. [Config Files That Run 代碼: Supply Chain 安全 Blindspot](https://safedep.io/config-files-that-run-code/)
 
-### 15. [Giant Floating Victorian Drydock](https://mastermariners.org.au/stories-from-the-past/6481-the-world-s-largest-floating-dry-dock-was-towed-across-the-atlantic-to-bermuda-in-1869)
+- ⭐ 46 分｜💬 8 留言｜👤 signa11
 
-- ⭐ 22 分｜💬 10 留言｜👤 dtj1123
+### 15. [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
 
-### 16. [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/)
+- ⭐ 249 分｜💬 155 留言｜👤 vthommeret
 
-- ⭐ 229 分｜💬 135 留言｜👤 herbertl
+### 16. [The Smallest Brain You Can 構建: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
 
-### 17. [Tiny hackable CUDA language 模型 implementation](https://github.com/markusheimerl/gpt)
+- ⭐ 266 分｜💬 57 留言｜👤 DevarshRanpara
 
-- ⭐ 30 分｜💬 2 留言｜👤 markusheimerl
+### 17. [A Family Project (2022)](https://bittersoutherner.com/feature/2022/a-family-project)
 
-### 18. [The EU 開源 Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)
+- ⭐ 65 分｜💬 4 留言｜👤 surprisetalk
 
-- ⭐ 35 分｜💬 6 留言｜👤 vrganj
+### 18. [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
 
-### 19. [Spherical Voronoi Diagram](https://www.jasondavies.com/maps/voronoi/)
+- ⭐ 110 分｜💬 30 留言｜👤 nicwilson
 
-- ⭐ 14 分｜💬 5 留言｜👤 marysminefnuf
+### 19. [Italy's Bending Spoons, Owner of AOL and Vimeo, Files for Nasdaq IPO](https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/)
 
-### 20. [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/)
+- ⭐ 11 分｜💬 0 留言｜👤 mmarian
+
+### 20. [Playing with Vision Embeddings](https://prestonbjensen.com/posts/playing-with-vision-embeddings)
+
+- ⭐ 116 分｜💬 9 留言｜👤 prestoj
+
+### 21. [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/)
+
+- ⭐ 277 分｜💬 175 留言｜👤 herbertl
+
+### 22. [新 drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
+
+- ⭐ 240 分｜💬 42 留言｜👤 gmays
+
+### 23. [Tiny hackable CUDA language 模型 implementation](https://github.com/markusheimerl/gpt)
+
+- ⭐ 58 分｜💬 10 留言｜👤 markusheimerl
+
+### 24. [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/)
 
 After 25 years of making other people&#x27;s pancake recipes - always yearning for more tang, more fluff, and more predictability - I decided to derive the pancake recipe from the chemistry.You mark c
 
-- ⭐ 239 分｜💬 92 留言｜👤 bkazez
+- ⭐ 294 分｜💬 117 留言｜👤 bkazez
 
-### 21. [A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W](https://github.com/melastmohican/rust-rpico2-embassy-examples)
+### 25. [NVIDIA partners with LG robotics to 構建 humanoid robots in South Korea](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)
 
-- ⭐ 118 分｜💬 14 留言｜👤 melastmohican
+- ⭐ 43 分｜💬 41 留言｜👤 spwa4
 
-### 22. [How much of Thermo Fisher's antibody data has been manipulated?](https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/)
+### 26. [I replaced Spotify with a homemade FM radio station](https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/)
 
-- ⭐ 8 分｜💬 1 留言｜👤 mhrmsn
+- ⭐ 3 分｜💬 1 留言｜👤 dredmorbius
 
-### 23. [Age verification tech could put children at greater risk, says think tank](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank)
+### 27. [Age verification tech could put children at greater risk, says think tank](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank)
 
-- ⭐ 24 分｜💬 3 留言｜👤 robtherobber
+- ⭐ 164 分｜💬 128 留言｜👤 robtherobber
 
-### 24. [什麼是 the purpose of the lost+found folder in Linux and Unix? (2014)](https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix)
+### 28. [A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W](https://github.com/melastmohican/rust-rpico2-embassy-examples)
 
-- ⭐ 196 分｜💬 70 留言｜👤 tosh
+- ⭐ 152 分｜💬 29 留言｜👤 melastmohican
 
-### 25. [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+### 29. [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
 
-- ⭐ 414 分｜💬 190 留言｜👤 howToTestFE
+- ⭐ 3 分｜💬 1 留言｜👤 mooreds
 
-### 26. [Show HN: Lathe – Use LLMs to learn a 新 domain, not skip past it](https://github.com/devenjarvis/lathe)
+### 30. [Show HN: Lathe – Use LLMs to learn a 新 domain, not skip past it](https://github.com/devenjarvis/lathe)
 
 Hey HN!Lathe is an experiment in using LLMs to teach me something 新, instead of doing the work for me. It generates a hands-on, source-backed 教學 for any technical topic you want to learn. Then
 
-- ⭐ 318 分｜💬 55 留言｜👤 devenjarvis
-
-### 27. [The 29th International Obfuscated C 代碼 Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
-
-- ⭐ 395 分｜💬 89 留言｜👤 matt_d
-
-### 28. [A discovery about GCC's unidirectional rotation algorithm](https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378)
-
-- ⭐ 24 分｜💬 10 留言｜👤 soheilpro
-
-### 29. [Trusted Computing Frequently Asked Questions (2003)](https://www.cl.cam.ac.uk/archive/rja14/tcpa-faq-1.0.html)
-
-- ⭐ 12 分｜💬 0 留言｜👤 userbinator
-
-### 30. [Man-Computer Symbiosis J. C. R. Licklider (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
-
-- ⭐ 36 分｜💬 3 留言｜👤 rballpug
+- ⭐ 360 分｜💬 65 留言｜👤 devenjarvis
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- LLMs are eroding my 軟體 engineering 職業 and I don't know what to do
-- Texas grid flags risks as data centers, crypto sites fail voltage tests
+- The 29th International Obfuscated C 代碼 Contest (IOCCC) 2025 Winners
+- 什麼是 the purpose of the lost+found folder in Linux and Unix? (2014)
+- Amber Tree: A Middle Ground Between Rowan Red and Green Trees
+- A modular impact diverting mechanism for football helmets [pdf]
+- Algorithmic Monocultures in 招聘
+- How's Linear so fast? A technical breakdown
 - Splash Is a Colour Format
-- Cloning a Sennheiser BA2015 battery pack
-- An Ohio Valley 100k-watt FM signal is severed in broad daylight
-- Powering up a module from the IBM 604: an electronic calculator from 1948
+- LLMs are eroding my 軟體 engineering 職業 and I don't know what to do
+- A discovery about GCC's unidirectional rotation algorithm
 - Proliferate (YC S25) is 招聘 to building 開源 Codex
-- 1worldflag: A blue dot on a transparent background
-- Do we fear the serializable isolation level more than we fear subtle bugs (2024)
-- My automated doubt development process
+- An Ohio Valley 100k-watt FM signal is severed in broad daylight
+- DeepSeek V4 Pro beats GPT-5.5 Pro on precision
+- Cloning a Sennheiser BA2015 battery pack
+- Powering up a module from the IBM 604: an electronic calculator from 1948
 - I design with Claude more than Figma now
-- 7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible
-- Anthropic, please ship an official Claude Desktop for Linux
-- Podman 6: machine usability improvements (2025)
-- Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas
-- Backrest – a 網頁 UI and orchestrator for restic backup
+- Trusted Computing Frequently Asked Questions (2003)
+- Man-Computer Symbiosis J. C. R. Licklider (1960)
+- My automated doubt development process
 - Ask HN: What was your "oh shit" moment with GenAI?
-- Win16 Memory Management
-- Firefox Merges Support for Vulkan Video Decoding
-- A visual 介紹 kernel functions
+- 1worldflag: A blue dot on a transparent background
+- Texas grid flags risks as data centers, crypto sites fail voltage tests
+- Podman 6: machine usability improvements (2025)
+- Get-a-Waymo: How a burglar used a robotaxi to flee the scene
+- Doing Nothing at Work
+- Anthropic, please ship an official Claude Desktop for Linux
+- Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas
 - Symbolica 2.0: Programmable Symbols for Python and Rust
-- Back end is full of hidden workflows
-- Speculative KV coding: losslessly compressing KV cache by up to ~4×
+- Backrest – a 網頁 UI and orchestrator for restic backup
+- Win16 Memory Management
+- OneDrive data now has an expiry date
+- Spanish traders set the standard for GnuCash 資料庫 design
+- Giant Floating Victorian Drydock
+- 7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible
+- A visual 介紹 kernel functions
 - How Liminalism Became the Defining Aesthetic of Our Time
-- Technical details of the attack described by Markoff in NYT
+- Speculative KV coding: losslessly compressing KV cache by up to ~4×
 - Field of clones: How horse replicas came to dominate polo
+- Do we fear the serializable isolation level more than we fear subtle bugs (2024)
 - Tokenomics: Quantifying Where Tokens Are Used in Agentic 軟體 Engineering
-- SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students
-- Major P2P issues in Israel and possibly other Middle East countries
-- sqlite: A CGo-free port of SQLite/SQLite3
-- Show HN: NoSuggest – Watch YouTube without the recommendation algorithm
-- KNN early termination in Manticore Search
-- My 軟體 North Star
 - Motorola effectively bricked its entire line of WiFi routers without explanation
-- Arithmetic Without Numbers – How LLMs Do Math
-- The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)
-- The gamers taking on the industry to stop it switching off games
+- Major P2P issues in Israel and possibly other Middle East countries
+- Firefox Merges Support for Vulkan Video Decoding
 - Show HN: Nightwatch, The open-source, read-only AI SRE
+- Arithmetic Without Numbers – How LLMs Do Math
 - Boron Buckyballs: B80 cages in the lab
 - Harness engineering: Leveraging Codex in an 代理-first world
-- Tech sell-off widens as South Korea index plunges
+- UK PM tells Apple and Google to ban nude images on children's phones
+- The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)
+- The gamers taking on the industry to stop it switching off games
+- Technical details of the attack described by Markoff in NYT
 - Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers
+- The EU 開源 Strategy
+- My 軟體 North Star
+- sqlite: A CGo-free port of SQLite/SQLite3
 - There's no escaping it: an exploration of ANSI codes
-- Wow, if it's this easy in 1998, I bet it'll be even easier in 2026
-- 為什麼 isn't the U.S. better at soccer?
-- Warren's Abstract Machine: A 教學 Reconstruction
-- How Long Does It Take for a QQuickItem to Become Visible?
 - Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
-- Jeff Bezos Is Funding a Wild Hunt for the Brain's 'Core Algorithm'
-- Public Domain Image Archive
-- Efficient and 訓練-Free Single-Image Diffusion Models
-- Vim Classic 8.3 發布
 - Google to pay SpaceX $920M a month for compute capacity at xAI data centers
+- KNN early termination in Manticore Search
+- Warren's Abstract Machine: A 教學 Reconstruction
+- History of CentOS
+- Public Domain Image Archive
 - The perils of UUID primary keys in SQLite
+- How Long Does It Take for a QQuickItem to Become Visible?
+- 為什麼 isn't the U.S. better at soccer?
 - Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk
+- Vim Classic 8.3 發布
 - How LLMs work
+- Efficient and 訓練-Free Single-Image Diffusion Models
+- Replies to comments on my "LLMs are eroding my 職業" post
 - The 新 bibliomaniacs
-- Show HN: OpenPayphone – open-source guts for a 1996 coin payphone (Pi and SIP)
-- "The Law Doesn't Apply to Me": 為什麼 Sovereign Citizen Arguments Always Fail
-- You Can Run
-- gonum
-- Show HN: Free animated icon library for Vue
-- "Terrorists?": The Suffragette Arson and Bombing Campaign – Egham Museum
-- Benchmarks in Leipzig
-- South Korean forums will need to scan every images with AI censorship tools
-- Social Cache Busting
-- My 代理 Skill for 測試-Driven Development
-- Gov.uk has replaced Stripe with Dutch provider Adyen
-- Moving beyond fork() + exec()
-- NVIDIA is proposing a beast of a CPU 系統 for Windows PCs
 
 
 ---
