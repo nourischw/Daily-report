@@ -4,205 +4,213 @@
 
 ---
 
-### 1. [Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)
+### 1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 
-- ⭐ 90 分｜💬 15 留言｜👤 ortr
+系統 Card [pdf]: https:&#x2F;&#x2F;www-cdn.Anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...
 
-### 2. [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
+- ⭐ 1087 分｜💬 905 留言｜👤 Philpax
 
-- ⭐ 272 分｜💬 38 留言｜👤 sklopec
+### 2. [GPT-2: Too Dangerous To Release (2019)](https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/)
 
-### 3. [GentleOS – Classic operating 系統 with a lovely retro GUI](https://github.com/luke8086/gentleos32)
+- ⭐ 39 分｜💬 4 留言｜👤 AbuAssar
 
-- ⭐ 255 分｜💬 54 留言｜👤 tekkertje
+### 3. [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 
-### 4. [The better the autopilot the worse the pilot](https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/)
+- ⭐ 613 分｜💬 102 留言｜👤 sklopec
 
-- ⭐ 43 分｜💬 32 留言｜👤 julienreszka
+### 4. [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
 
-### 5. [WWDC 2026: Apple is Folding](https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/)
+- ⭐ 96 分｜💬 14 留言｜👤 wglb
 
-- ⭐ 36 分｜💬 17 留言｜👤 brandonb
+### 5. [Microsoft's 開源 tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 
-### 6. [Microsoft's 開源 tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+- ⭐ 486 分｜💬 169 留言｜👤 raffael_de
 
-- ⭐ 340 分｜💬 135 留言｜👤 raffael_de
+### 6. [Ultrafast 機器學習 on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
 
-### 7. [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
+- ⭐ 9 分｜💬 0 留言｜👤 ag2718
 
-- ⭐ 164 分｜💬 95 留言｜👤 BrunoBernardino
+### 7. [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
 
-### 8. [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
+- ⭐ 70 分｜💬 59 留言｜👤 swolpers
 
-- ⭐ 410 分｜💬 64 留言｜👤 ternaus
+### 8. [Apple decided not to roll out Siri in EU after denied request for exemption](https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/)
 
-### 9. [Forever Young: how one molecule can lock plants in a youthful state (2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
+- ⭐ 258 分｜💬 422 留言｜👤 flanged
 
-- ⭐ 83 分｜💬 39 留言｜👤 bryanrasmussen
+### 9. [The LD_DEBUG environment variable (2012)](https://bnikolic.co.uk/blog/linux-ld-debug.html)
 
-### 10. [Show HN: Gravity – interactive solar-系統 simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/)
+- ⭐ 24 分｜💬 1 留言｜👤 tanelpoder
+
+### 10. [Biff.core: 系統 composition for Clojure 網頁 apps](https://biffweb.com/p/core/)
+
+- ⭐ 50 分｜💬 15 留言｜👤 jacobobryant
+
+### 11. [Launch HN: Transload (YC P26) – Measuring freight items with CCTV](https://news.ycombinator.com/item?id=48463273)
+
+Hi HN — we’re Julius, Jago, and Nils, and we’re building transload (transload.io).transload helps LTL trucking companies measure freight dimensions using the 安全 cameras already installed in thei
+
+- ⭐ 23 分｜💬 5 留言｜👤 nils_spatial
+
+### 12. [FCC wants to kill burner phones by forcing telecoms to get all customers' IDs](https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/)
+
+- ⭐ 281 分｜💬 182 留言｜👤 berlianta
+
+### 13. [How we run untrusted customer 代碼 at scale](https://nango.dev/blog/how-nango-runs-untrusted-customer-code-at-scale/)
+
+- ⭐ 5 分｜💬 0 留言｜👤 rguldener
+
+### 14. [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
+
+- ⭐ 601 分｜💬 108 留言｜👤 ternaus
+
+### 15. [測試-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
+
+- ⭐ 5 分｜💬 0 留言｜👤 ltratt
+
+### 16. [Flat Datacenter Networks at Scale at Amazon](https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/)
+
+- ⭐ 8 分｜💬 0 留言｜👤 tanelpoder
+
+### 17. [Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)
+
+- ⭐ 190 分｜💬 145 留言｜👤 piskov
+
+### 18. [Is Grep All You Need? How 代理 Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184)
+
+- ⭐ 86 分｜💬 41 留言｜👤 Anon84
+
+### 19. [Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call](https://cost.dev/)
+
+We launched Infracost on HN five years ago (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=26064588) where our CLI generated cost estimates for infra-as-代碼, e.g. &quot;this Terraform PR adds $4
+
+- ⭐ 39 分｜💬 22 留言｜👤 akh
+
+### 20. [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
+
+- ⭐ 38 分｜💬 2 留言｜👤 speckx
+
+### 21. [Can LLMs Beat Classical Hyperparameter Optimization Algorithms?](https://arxiv.org/abs/2603.24647)
+
+- ⭐ 73 分｜💬 12 留言｜👤 galsapir
+
+### 22. [Emerge 職業 (YC S22) Is 招聘 a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
+
+- ⭐ 1 分｜💬 0 留言｜👤 gabesaruhashi
+
+### 23. [The iPhone's Last Stand?](https://stratechery.com/2026/the-iphones-last-stand/)
+
+- ⭐ 136 分｜💬 176 留言｜👤 swolpers
+
+### 24. [Show HN: Gravity – interactive solar-系統 simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/)
 
 Just for fun and self education, I&#x27;ve built this over a weekend to teach myself 為什麼 orbits exist, not just show planets going around. Something that was never clearly explain to me in school. 
 It
 
-- ⭐ 35 分｜💬 13 留言｜👤 qunabu
+- ⭐ 108 分｜💬 24 留言｜👤 qunabu
 
-### 11. [Emerge 職業 (YC S22) Is 招聘 a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
+### 25. [Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs](https://github.com/luke8086/gentleos32)
 
-- ⭐ 1 分｜💬 0 留言｜👤 gabesaruhashi
+Hello HN,I&#x27;ve been working on a simple OS for tinkering and running bare metal apps on vintage PCs.Since I couldn&#x27;t quite decide whether to target pure 16-bit, or slightly more capable 32-bi
 
-### 12. [An 介紹 functional analysis for science and engineering](https://arxiv.org/abs/1904.02539)
+- ⭐ 59 分｜💬 82 留言｜👤 luke8086
 
-- ⭐ 59 分｜💬 5 留言｜👤 Anon84
+### 26. [Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
 
-### 13. [The iPhone's Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)
+- ⭐ 7 分｜💬 4 留言｜👤 speckx
 
-- ⭐ 73 分｜💬 113 留言｜👤 swolpers
+### 27. [Show HN: Learn from 30 historical figures, 開源, nonprofit, self-hosted](https://github.com/chipmates/agoracosmica)
 
-### 14. [Apple reveals 新 AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
+Hello HN, I am the founder of Agora Cosmica.This started about three years ago. On a walk I asked a chatbot to interpret the cave dream from Cormac McCarthy&#x27;s book &quot;The Road&quot; as C.G. Ju
 
-- ⭐ 664 分｜💬 515 留言｜👤 unclefuzzy
+- ⭐ 24 分｜💬 11 留言｜👤 micstradev
 
-### 15. [Thi.ng – open-source building blocks for computational design and art](https://thi.ng)
+### 28. [Unified Controllable and Faithful Text-to-CAD Generation with LLMs](https://arxiv.org/abs/2604.19773)
 
-- ⭐ 106 分｜💬 18 留言｜👤 nmstoker
+- ⭐ 47 分｜💬 13 留言｜👤 PaulHoule
 
-### 16. [工作: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
+### 29. [Forever Young: how one molecule can lock plants in a youthful state (2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
 
-- ⭐ 182 分｜💬 153 留言｜👤 mooreds
+- ⭐ 110 分｜💬 64 留言｜👤 bryanrasmussen
 
-### 17. [Show HN: Performative-UI – A React component library of design tropes](https://vorpus.github.io/performativeUI/)
+### 30. [Using Optical Aberrations to Distinguish Real Astronomical Transients](https://arxiv.org/abs/2606.08319)
 
-hope you enjoy
-
-- ⭐ 1066 分｜💬 193 留言｜👤 lizhang
-
-### 18. [Corrupting a ZFS File on Purpose](https://oshogbo.com/blog/90/)
-
-- ⭐ 43 分｜💬 7 留言｜👤 zdw
-
-### 19. [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/)
-
-- ⭐ 618 分｜💬 485 留言｜👤 martinald
-
-### 20. [Adopting the Parallel DWARF linker in dsymutil](https://jonasdevlieghere.com/post/dsymutil-parallel-linker/)
-
-- ⭐ 7 分｜💬 1 留言｜👤 JDevlieghere
-
-### 21. [Siri AI](https://www.apple.com/apple-intelligence/)
-
-- ⭐ 628 分｜💬 620 留言｜👤 0xedb
-
-### 22. [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
-
-- ⭐ 30 分｜💬 5 留言｜👤 giuliomagnifico
-
-### 23. [EU-banned pesticides found in rice, tea and spices](https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices)
-
-- ⭐ 471 分｜💬 255 留言｜👤 john-titor
-
-### 24. [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/)
-
-- ⭐ 40 分｜💬 74 留言｜👤 movd128
-
-### 25. [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
-
-- ⭐ 116 分｜💬 42 留言｜👤 walterbell
-
-### 26. [H2JVM – A Haskell Library for Writing JVM Bytecode](https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182)
-
-- ⭐ 33 分｜💬 8 留言｜👤 rowbin
-
-### 27. [MiMo-v2.5-Pro-UltraSpeed: 1T 模型 with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
-
-- ⭐ 596 分｜💬 443 留言｜👤 gainsurier
-
-### 28. [Old'aVista – The most powerful guide to the old Internet](https://oldavista.com/)
-
-- ⭐ 134 分｜💬 28 留言｜👤 abnercoimbre
-
-### 29. [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)
-
-- ⭐ 332 分｜💬 96 留言｜👤 hmokiguess
-
-### 30. [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints)
-
-- ⭐ 199 分｜💬 35 留言｜👤 jjgreen
+- ⭐ 29 分｜💬 2 留言｜👤 solarist
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Gitdot – A better GitHub. Open-source, written in Rust
-- Ask HN: What are tools you have made for yourself since the advent of AI?
+- Devs know AI 代碼 is riddled with holes, but ship it anyway
+- Thi.ng – open-source building blocks for computational design and art
+- Cleaning up after AI rockstar developers
+- An 介紹 functional analysis for science and engineering
+- The Effective Sample Size
+- 工作: Head of Stonehenge
+- Corrupting a ZFS File on Purpose
+- Painting the Internet: A Different Kind of Warhol Worm [pdf]
+- 'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack
+- Rayforce
+- Adopting the Parallel DWARF linker in dsymutil
+- Porting the ThinkPad X61 to Coreboot
+- The beauty and simplicity of the good old C-style void* in C++
+- Eagle Computer: The rise and fall of an early PC clone
+- Amazon employees ask Seattle to put the brakes on 新 data centers
+- Old'aVista – The most powerful guide to the old Internet
+- Ask HN: Are you still using your Vision Pro?
+- H2JVM – A Haskell Library for Writing JVM Bytecode
+- Apple reveals 新 AI architecture built around Google Gemini models
+- Where is the AI jobs crisis?
+- Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case
 - Ask HN: 為什麼 hasn't there been a real competitor to Ticketmaster yet?
-- Apple made a request to the EC to be exempted from interop obligations under DMA
-- US publishers tell Common Crawl to stop scraping and delete archive
-- FrontierCode
-- 為什麼 are cells small?
-- Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]
-- AI is slowing down
-- Meta account recovery allowed unauthenticated access to full account PII
-- How much do amd64 microarchitecture levels help in Go?
+- Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free
+- YouTuber Punishes Himself by Writing a First Person Shooter in COBOL
+- I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit
+- xAI is looking more like a datacentre REIT than a frontier lab
+- Show HN: Performative-UI – A React component library of design tropes
+- Show HN: Open-source version of Anthropic's internal analytics engine
+- AI profitability is mathematically impossible
+- Siri AI
+- EU-banned pesticides found in rice, tea and spices
+- Anthropic Kept Every Promise It Could Afford
+- Solar Energy Saves Europeans $135M a Day
+- Anti-social: It's fads, not friends, which now dominate social media feeds
 - Apple bets cheaper AI will woo small developers
 - I'm building a parallel internet, and it's called The Thinnernet
-- Anti-social: It's fads, not friends, which now dominate social media feeds
 - Launch HN: Intuned (YC S22) – 構建 and run reliable browser automations as 代碼
-- Passing DBs through continuations
+- MiMo-v2.5-Pro-UltraSpeed: 1T 模型 with 1000 tokens per second
+- Brexit Ten Years On: The Economy
+- TRPL: A copylet license that treats API usage as derivate works
+- How much do amd64 microarchitecture levels help in Go?
+- Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'
+- Even light drinking raises risk of cancer, heart disease, and early death
+- Apple Core AI Framework
 - OCaml Onboarding: 介紹 the Dune 構建 系統
-- CRDTs merge concurrent edits. 為什麼 not concurrent creation?
+- Social 安全 funds could run short by 2032, program's Trustees warn
+- SAT-Physical Thermodynamic Framework: treating constraints as a thermal 系統
+- Passing DBs through continuations
+- macOS 27 Beta Breaks the Ability to Boot Asahi Linux
 - Are you expected to run five Python type-checkers now?
 - Replies to comments on my "LLMs are eroding my 職業" post
-- Confidential submission of draft S-1 to the SEC
+- Looking Forward to Postgres 19: Query Hints
+- Apple made a request to the EC to be exempted from interop obligations under DMA
+- Data Center Boom Exposes GOP Faultlines over Local Control
+- Show HN: Gitdot – A better GitHub. Open-source, written in Rust
+- He Profits Off Raw Milk That's Making People Sick
+- BofA Warns Investors Should Take Profits Now in US Equities
+- Ask HN: What are tools you have made for yourself since the advent of AI?
+- US publishers tell Common Crawl to stop scraping and delete archive
+- The better the autopilot the worse the pilot
+- Two vendors run 91% of the secure email gateway market for US public companies
+- Datacenter boom keeps dirty coal plants alive in the US
 - Massachusetts bans sale of precise location data in 新 privacy rights bill
 - Thunderbird Littering My Home
+- CRDTs merge concurrent edits. 為什麼 not concurrent creation?
 - Apple Watch for Your Kids
-- Stop the Apple Music app from launching
-- Zig Structs of Arrays (2024)
-- Life is too short for a slow terminal
-- Fooling Go's X.509 Certificate Verification
-- Games Between Programs: The Ruliology of Competition
-- Federal judge blocks H1B visa $100K fee
-- Switzerland wil have a referendum to cap population at 10M
-- Dopamine Fracking
-- Doing something that’s never been done before (2025)
+- Confidential submission of draft S-1 to the SEC
 - Splash Is a Colour Format
-- 1worldflag: A blue dot on a transparent background
-- Spanish traders set the standard for GnuCash 資料庫 design
-- Building from zero after addiction, prison, and a felony
-- How much of Thermo Fisher's antibody data has been manipulated?
-- Apple WWDC 2026
-- 120k Lines of Rust: Inside the Nosdesk 後端
-- OneDrive data now has an expiry date
-- Zig by Example
-- The Cypherpunk Library
-- Using XDG-Compliant Config Files (2024)
-- Playing with Vision Embeddings
-- Show HN: Command Center, the AI coding env for people who care about quality
-- Algorithmic Monocultures in 招聘
-- Richard Scolyer Has Died
-- Facebook is paying people overseas promoting Alberta separatism
-- An Ohio Valley 100k-watt FM signal is severed in broad daylight
-- Italy's Bending Spoons, owner of AOL and Vimeo, files for Nasdaq IPO
-- Show HN: Mach – A compiled systems language looking for contributions
-- Asus GB300 NVL72 測試 Lab Tour
-- The Grate Cheese Robbery
-- Config Files That Run 代碼: Supply Chain 安全 Blindspot
-- 新 drug 'functionally cures' many hepatitis B virus infections
-- Full Reverse Engineering of the TI-84 Plus Operating 系統
-- GitHub Is Down
-- 1k Data Breaches Later, the Disclosure Lag Is Worse
-- I design with Claude more than Figma now
-- Ukraine Is Not Losing. Russia Is Not Winning
-- How's Linear so fast? A technical breakdown
-- Tiny hackable CUDA language 模型 implementation
-- A Survey of Inlining Heuristics
-- A Family Project (2022)
-- NVIDIA's AI PC push banks on unproven demand beyond niche users
-- 為什麼 are so many young people getting cancer?
-- US Military Personnel in Israel Found Secret Spyware on Their Phones
-- 為什麼 cheap online shopping is about to change for Irish consumers
-- Cloning a Sennheiser BA2015 battery pack
+- WWDC 2026: Apple is Folding
+- Zig Structs of Arrays (2024)
 
 
 ---

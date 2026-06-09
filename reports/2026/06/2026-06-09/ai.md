@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [臺灣FHIR聯測松開跑，瞄準4大主題涵蓋TW Core、癌藥事審、SMART App到跨國��歷交換](https://www.ithome.com.tw/news/176495)
+### 1. [臺灣FHIR聯測松開跑，瞄準4大主題涵蓋TW Core、癌藥事審、SMART App到跨國病歷交換](https://www.ithome.com.tw/news/176495)
 
 為驗證醫療資訊系統的實際互通能力，臺灣FHIR聯測松（TW Connectathon 2026）昨日（6/8）登場，共吸引47家機構、52支團隊參與，包括14家醫療機構、6家學研法人單位及27家業者。今年聯測主題涵蓋TW Core FHIR能力驗證、癌症用藥事前審查、SMART on FHIR應用程式授權機制，以及國際病人摘要（IPS）等4大賽道，從FHIR格式驗證，進一步邁向跨國資料交換驗證。接下來，聯測要強化特定領域應用，如電子處方箋、次世代基因定序。
 
@@ -39,7 +39,7 @@ Broadcom近日發布資安公告，修補VMware 雲端 Foundation Operations（V
 
 ### 6. [Google更新NotebookLM，新增代理式研究與多格式輸出](https://www.ithome.com.tw/news/176474)
 
-Google升級AI筆記本NotebookLM，將原本以資料整理與來源問答為主的工具，擴充為可協助研究、分析與產出檔案的代理式研究。新版NotebookLM改用Gemini 3.5，並在Antigravity上運作，替每個筆記本配置安全雲端運算環境，使系統可在使用者的研究脈絡中撰寫及執行程式碼，用於資料處理、分析與複雜文件理解。
+Google升級AI筆記本NotebookLM，將原本以資料整理與來源問答為主的工具，擴充為可協助研究、分析與產出檔案的代理式研究。新版NotebookLM改用Gemini 3.5，��在Antigravity上運作，替每個筆記本配置安全雲端運算環境，使系統可在使用者的研究脈絡中撰寫及執行程式碼，用於資料處理、分析與複雜文件理解。
 
 - 📰 **iThome 科技**
 
@@ -74,7 +74,7 @@ Check Point修補防火牆設備VPN的資安漏洞，其中一個已遭利用
 
 - 📰 **iThome 科技**
 
-### 12. [Ubiquiti UniFi管理平臺軟體存在重大漏洞���，可讓攻擊者免帳密取得root權限](https://www.ithome.com.tw/news/176466)
+### 12. [Ubiquiti UniFi管理平臺軟體存在重大漏洞鏈，可讓攻擊者免帳密取得root權限](https://www.ithome.com.tw/news/176466)
 
 資安業者Bishop Fox揭露，網通設備業者Ubiquiti的UniFi管理平臺軟體UniFi OS 伺服器存在一組重大漏洞鏈，攻擊者只要能連到管理介面，可能不需帳號密碼就能繞過驗證對系統下達指令，最終取得root權限。研究人員已在UniFi OS 伺服器 5.0.6測試環境驗證完整攻擊鏈，並確認5.0.8已修補相關問題。
 
@@ -135,7 +135,7 @@ Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至1
 
 - 📰 **iThome 科技**
 
-### 22. [微軟修補Edge三��漏洞，涵蓋遠端程式碼執行與偽冒風險](https://www.ithome.com.tw/news/176453)
+### 22. [微軟修補Edge三項漏洞，涵蓋遠端程式���執行與偽冒風險](https://www.ithome.com.tw/news/176453)
 
 微軟於5月15日發布Microsoft Edge 148.0.3967.70版安全更新，修補3項漏洞，涵蓋安全功能繞過、偽冒與遠端程式碼執行。這3項漏洞皆由臺灣資安公司戴夫寇爾（DEVCORE）首席資安研究員Orange Tsai發現，透過TrendAI的Zero Day Initiative協助通報。
 
@@ -149,7 +149,7 @@ Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至1
 
 ### 24. [相依管理工具Bundler加入冷卻期機制，供Ruby專案避開剛發布的高風險套件版本](https://www.ithome.com.tw/news/176447)
 
-Ruby社群套件庫RubyGems專案相依管理工具Bundler 4.0.13新增套件冷卻期機制，讓Ruby專案在安裝或更新相依套件時，可以暫時避開剛發布，尚未經過觀察的新版本。開發團隊可自行設定等待天數，Bundler在選擇套件版本時，會略過發布時間未達門檻的版本，改用已經公開一段時間的可用版本。
+Ruby社群套件庫RubyGems��案相依管理工具Bundler 4.0.13新增套件冷卻期機制，讓Ruby專案在安裝或更新相依套件時，可以暫時避開剛發布，尚未經過觀察的新版本。開發團隊可自行設定等待天數，Bundler在選擇套件版本時，會略過發布時間未達門檻的版本，改用已經公開一段時間的可用版本。
 
 - 📰 **iThome 科技**
 
@@ -161,7 +161,7 @@ Ruby社群套件庫RubyGems專案相依管理工具Bundler 4.0.13新增套件冷
 
 ### 26. [OpenAI啟動上市準備程序，秘密提交S-1文件](https://www.ithome.com.tw/news/176450)
 
-繼Anthropic上周秘密提交S-1草案之後，OpenAI週一（6/8）宣布，已向美國證券交易委員會（SEC）秘密提交S-1上市申請草案，為未來首次公開募股（IPO）預作準備。不過OpenAI強調，目前尚未決定上市時程，且部分公司發展計畫以私人公司身分推動可能更為容易，因此IPO仍存在許多變數。
+繼Anthropic上周秘密提交S-1草案之後，OpenAI週一（6/8）宣布，已向美國證券交易委員會（SEC）秘密提交S-1上市申請草案，為未���首次公開募股（IPO）預作準備。不過OpenAI強調，目前尚未決定上市時程，且部分公司發展計畫以私人公司身分推動可能更為容易，因此IPO仍存在許多變數。
 
 - 📰 **iThome 科技**
 
@@ -173,7 +173,7 @@ Ruby社群套件庫RubyGems專案相依管理工具Bundler 4.0.13新增套件冷
 
 ### 28. [公開AI代理技能市集掃描機制難擋惡意技能，OpenClaw、Cisco與Vercel相關檢測皆遭繞過](https://www.ithome.com.tw/news/176440)
 
-資安廠商Trail of Bits測試公開AI代理技能市集與相關安全掃描工具後，發現多個惡意技能套件可通過檢測，其測試範圍涵蓋OpenClaw的ClawHub技能市集、思科（Cisco）開源的skill-scanner工具，以及Vercel旗下skills.sh市集整合的Gen 代理 Trust Hub、Socket與Snyk掃描���務。
+資安廠商Trail of Bits測試公開AI代理技能市集與相關安全掃描工具後，發現多個惡意技能套件可通過檢測，其測試範圍涵蓋OpenClaw的ClawHub技能市集、思科（Cisco）開源的skill-scanner工具，以及Vercel旗下skills.sh市集整合的Gen 代理 Trust Hub、Socket與Snyk掃描服務。
 
 - 📰 **iThome 科技**
 
@@ -185,7 +185,7 @@ Ruby社群套件庫RubyGems專案相依管理工具Bundler 4.0.13新增套件冷
 
 ### 30. [資安院與微軟建立國家級合作關係，公私協力資安框架邁入新紀元](https://www.ithome.com.tw/news/176445)
 
-國家資通安全研究院（資安院）與臺灣微軟於今日（6月8日）正式簽署合作備忘錄（MOU），由資安院院長林盈達與微軟全球公共事務北亞區負責人Marcus Bartley Johns代表雙方簽署，並由數位發展部次長楊佳玲共同見證。國安會諮詢委員李育杰、資安院董事長李德財及資安署署長蔡福隆亦親自出席儀��。
+國家資通安全研究院（資安院）與臺灣微軟於今日（6月8日）正式簽署合作備忘錄（MOU），由資安院院長林盈達與微軟全球公共事務北亞區負責人Marcus Bartley Johns代表雙方簽署，並由數位發展部次長楊佳玲共同見證。國安會諮詢委員李育杰、資安院董事長李德財及資安署署長蔡福隆亦親自出席儀式。
 這份備忘錄涵蓋資安威脅情資共享、AI賦能資安防禦、關鍵基礎設施韌性強化，以及零信任架構落地等四大核心面向，標誌著臺灣資安治理體系在國際公私協力層面跨出里程碑式的一步。
 
 - 📰 **iThome 科技**
@@ -194,6 +194,9 @@ Ruby社群套件庫RubyGems專案相依管理工具Bundler 4.0.13新增套件冷
 
 ### 更多 AI 新聞 (70則)
 
+- MacOS 27 Golden Gate: 熱門 新 Features (**Wired**)
+- The 熱門 新 Features in Apple’s iOS 27 and iPadOS 27 (**Wired**)
+- Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You (**Wired**)
 - Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss (**Wired**)
 - Rivian R2 2026: Specs, Price, Availability (**Wired**)
 - The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026) (**Wired**)
@@ -207,6 +210,7 @@ Ruby社群套件庫RubyGems專案相依管理工具Bundler 4.0.13新增套件冷
 - HelloFresh Promo Codes: 55% Off for June 2026 (**Wired**)
 - OnePlus Promo Codes: 30% Off June 2026 (**Wired**)
 - Noom Promo Codes: 50% Off 最佳 Deals &amp; Free Trials for June 2026 (**Wired**)
+- We-Vibe Discount Codes and Deals: Up to 60% Off (**Wired**)
 - Womanizer Coupons: Save 15% in June (**Wired**)
 - Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for June (**Wired**)
 - eBay Coupons: 20% Off in June 2026 (**Wired**)
@@ -240,10 +244,6 @@ Ruby社群套件庫RubyGems專案相依管理工具Bundler 4.0.13新增套件冷
 - Crypto-Funded Chinese Peptide Labs Are Booming (**Wired**)
 - Velotric Nomad 2 Fat Tire Ebike, Tested and Reviewed (2026) (**Wired**)
 - 如何 Share a Link to a Particular Phrase (**Wired**)
-- 30 最佳 Father’s Day Gifts for Dads (2026) (**Wired**)
-- The Moons of Uranus May Hold the Key to Finding Missing Planets (**Wired**)
-- ‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally (**Wired**)
-- 最佳 Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
