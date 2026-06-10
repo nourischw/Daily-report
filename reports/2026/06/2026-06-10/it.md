@@ -4,208 +4,208 @@
 
 ---
 
-### 1. [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
+### 1. [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
 
-- ⭐ 257 分｜💬 103 留言｜👤 edent
+- ⭐ 204 分｜💬 121 留言｜👤 tonyrice
 
-### 2. [PgDog is funded and coming to a 資料庫 near you](https://pgdog.dev/blog/our-funding-announcement)
+### 2. [Anthropic's 模型 Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
 
-- ⭐ 50 分｜💬 28 留言｜👤 levkk
+- ⭐ 83 分｜💬 19 留言｜👤 sammycdubs
 
-### 3. [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
+### 3. [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
 
-- ⭐ 314 分｜💬 178 留言｜👤 raffael_de
+- ⭐ 89 分｜💬 7 留言｜👤 pseudolus
 
-### 4. [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
+### 4. [I'm Eric Ries, author of "The Lean Startup" and 新 book "Incorruptible" – AMA](https://news.ycombinator.com/item?id=48477135)
 
-- ⭐ 76 分｜💬 27 留言｜👤 momentmaker
+Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_.It&#x27;s been fifteen years since I wrote The Lean Startup, and in that time I&#x27;ve seen some things. In b
 
-### 5. [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
+- ⭐ 372 分｜💬 310 留言｜👤 eries
 
-- ⭐ 997 分｜💬 347 留言｜👤 timsneath
+### 5. [PgDog is funded and coming to a 資料庫 near you](https://pgdog.dev/blog/our-funding-announcement)
 
-### 6. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+- ⭐ 294 分｜💬 153 留言｜👤 levkk
 
-系統 Card [pdf]: https:&#x2F;&#x2F;www-cdn.Anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...
+### 6. [L'Affaire Siloxane](https://mceglowski.substack.com/p/laffaire-siloxane)
 
-- ⭐ 2426 分｜💬 1919 留言｜👤 Philpax
+- ⭐ 57 分｜💬 10 留言｜👤 idlewords
 
-### 7. [Buy a train, bridge or tracks from the Swiss Railway](https://sbbresale.ch/)
+### 7. [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
 
-- ⭐ 84 分｜💬 45 留言｜👤 kisamoto
+- ⭐ 51 分｜💬 34 留言｜👤 gnabgib
 
-### 8. [I Hate (Most) Keyboard 'Fn' Keys](https://danq.me/2026/06/09/fn-keys/)
+### 8. [ΠFS](https://github.com/philipl/pifs)
 
-- ⭐ 117 分｜💬 97 留言｜👤 speckx
+- ⭐ 27 分｜💬 4 留言｜👤 helterskelter
 
-### 9. [Who Runs Your Rust Future? Hands-On Intro to Async Rust](https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/)
+### 9. [GitHub Authentication issues related to API requests](https://www.githubstatus.com/incidents/fcj3088jg1wx)
 
-- ⭐ 32 分｜💬 1 留言｜👤 febin
+- ⭐ 126 分｜💬 23 留言｜👤 Multicomp
 
-### 10. [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
+### 10. [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 
-&gt; For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a 
+- ⭐ 865 分｜💬 392 留言｜👤 edent
 
-- ⭐ 264 分｜💬 167 留言｜👤 TomAnthony
+### 11. [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
 
-### 11. [A €0.01 bank transfer could compromise a banking AI 代理](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
+- ⭐ 462 分｜💬 283 留言｜👤 raffael_de
 
-- ⭐ 10 分｜💬 1 留言｜👤 tvissers
+### 12. [為什麼 SpaceX 2040 Revenue FCST $4.3T in highly unlikely](https://www.matteast.io/spacex-escape-velocity.html)
 
-### 12. [Reviving Papers with 代碼](https://paperswithcode.co/)
+- ⭐ 130 分｜💬 117 留言｜👤 meast
 
-- ⭐ 119 分｜💬 24 留言｜👤 nielz_r
+### 13. [GeoLibre 1.0](https://geolibre.app/)
 
-### 13. [Hacking for Defense Stanford 2026 – Lessons Learned Presentations](https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/)
+- ⭐ 36 分｜💬 3 留言｜👤 jonbaer
 
-- ⭐ 55 分｜💬 26 留言｜👤 sblank
+### 14. [Show HN: Extend UI – open-source UI kit for modern document apps](https://www.extend.ai/ui)
 
-### 14. [Show HN: macOS menu bar gauges for your Claude 代碼 quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
+We&#x27;re open-sourcing 14 components &amp; examples today for PDF, DOCX, and XLSX viewers, plus bounding box citations, file upload, e-signature, and more. It&#x27;s MIT licensed and fully customiza
 
-- ⭐ 39 分｜💬 27 留言｜👤 grzracz
+- ⭐ 49 分｜💬 10 留言｜👤 kbyatnal
 
-### 15. [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+### 15. [Show HN: HelixDB – A graph 資料庫 built on object storage](https://github.com/HelixDB/helix-db/tree/main)
 
-- ⭐ 437 分｜💬 176 留言｜👤 plasma
+Hey HN, it’s been just over a year since we launched HelixDB (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43975423), a project a friend and I started in college. It’s an OLTP graph 資料庫 bu
 
-### 16. [Britain Became as Poor as Mississippi](https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/)
+- ⭐ 46 分｜💬 25 留言｜👤 GeorgeCurtis
 
-- ⭐ 44 分｜💬 44 留言｜👤 SanjayMehta
+### 16. [Apache Burr: 構建 reliable AI agents and applications](https://burr.apache.org/)
 
-### 17. [Magnetoelectric antennas could transform how underwater robots talk](https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/)
+- ⭐ 125 分｜💬 75 留言｜👤 anhldbk
 
-- ⭐ 50 分｜💬 19 留言｜👤 breve
+### 17. [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
 
-### 18. [ICE denies having a protester 資料庫. A letter to Congress sheds more light](https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs)
+- ⭐ 155 分｜💬 56 留言｜👤 momentmaker
 
-- ⭐ 84 分｜💬 19 留言｜👤 Jimmc414
+### 18. [A €0.01 bank transfer could compromise a banking AI 代理](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
 
-### 19. ['They take you out of life, out of time': a journey into Spain's cave paintings](https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira)
+- ⭐ 131 分｜💬 105 留言｜👤 tvissers
 
-- ⭐ 8 分｜💬 0 留言｜👤 NaOH
+### 19. [Who's the Smartest Corvid?](https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/)
 
-### 20. [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+- ⭐ 37 分｜💬 25 留言｜👤 NaOH
 
-- ⭐ 803 分｜💬 443 留言｜👤 ahlCVA
+### 20. [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
 
-### 21. [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
+- ⭐ 198 分｜💬 43 留言｜👤 meetpateltech
 
-https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=K5LAFEjTlBA
+### 21. [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
 
-- ⭐ 174 分｜💬 87 留言｜👤 yimby
+- ⭐ 76 分｜💬 77 留言｜👤 yjp20
 
-### 22. [Notes on DeepSeek](https://twitter.com/NikoMcCarty/status/2064686557400100884)
+### 22. [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
 
-- ⭐ 30 分｜💬 12 留言｜👤 vinhnx
+- ⭐ 6 分｜💬 0 留言｜👤 cwal37
 
-### 23. [RIP 軟體 hackathons. Long live the 硬體 hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
+### 23. [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
 
-- ⭐ 235 分｜💬 113 留言｜👤 ozcap
+- ⭐ 32 分｜💬 2 留言｜👤 maxloh
 
-### 24. [Surprise, pay $1000](https://forestwalk.ai/blog/surprise-blacksmith-costs/)
+### 24. [Buy a train, bridge or tracks from the Swiss Railway](https://sbbresale.ch/)
 
-- ⭐ 276 分｜💬 121 留言｜👤 apike
+- ⭐ 153 分｜💬 81 留言｜👤 kisamoto
 
-### 25. [Ultrafast 機器學習 on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
+### 25. [The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
 
-https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgup...
+https:&#x2F;&#x2F;gwern.net&#x2F;doc&#x2F;economics&#x2F;automation&#x2F;1989-david.pdf
 
-- ⭐ 261 分｜💬 39 留言｜👤 ag2718
+- ⭐ 20 分｜💬 3 留言｜👤 simonpure
 
-### 26. [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
+### 26. ['They take you out of life, out of time': a journey into Spain's cave paintings](https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira)
 
-- ⭐ 333 分｜💬 293 留言｜👤 swolpers
+- ⭐ 51 分｜💬 24 留言｜👤 NaOH
 
-### 27. [I thought I knew how electrolysis worked [video]](https://www.youtube.com/watch?v=eq7fR9ISuCw)
+### 27. [Who Runs Your Rust Future? Hands-On Intro to Async Rust](https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/)
 
-- ⭐ 81 分｜💬 9 留言｜👤 tambourine_man
+- ⭐ 82 分｜💬 16 留言｜👤 febin
 
-### 28. [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film)
+### 28. [The iPad was on Tailscale: a WebRTC debugging story](https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/)
 
-- ⭐ 137 分｜💬 27 留言｜👤 1659447091
+- ⭐ 49 分｜💬 24 留言｜👤 syllogistic
 
-### 29. [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
+### 29. [The Last Evolution, by John W Campbell Jr. (1932)](https://www.gutenberg.org/files/27462/27462-h/27462-h.htm)
 
-- ⭐ 798 分｜💬 143 留言｜👤 ternaus
+- ⭐ 21 分｜💬 1 留言｜👤 cf100clunk
 
-### 30. [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/)
+### 30. [Reviving Papers with 代碼](https://paperswithcode.co/)
 
-- ⭐ 164 分｜💬 20 留言｜👤 zdw
+- ⭐ 177 分｜💬 43 留言｜👤 nielz_r
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- If Claude Fable stops helping you, you'll never know
-- Lies we tell ourselves about email addresses
-- Port React Compiler to Rust
-- CEOs who think AI replaces their employees are just bad CEOs
-- Vibe coding my way to a healthy family: Introducing Gamow Labs
-- Premature optimization is fun sometimes
-- Grit: Rewriting Git in Rust with agents
-- Making Graphics Like it's 1993
-- 測試-case reducers are underappreciated debugging tools
+- macOS Container Machines
+- The Case for Free Online Books (2014)
+- Claude Fable 5
+- AWS Bedrock to require sharing data with Anthropic for Mythos and future models
+- Ask HN: Are most corporate SWE jobs performative?
+- Smudging the game disc to make speedrunning 'SpongeBob' faster
+- Babel-USB: USB drive with every file
+- Anatomy of a high-performance EP kernel
+- RIP 軟體 hackathons. Long live the 硬體 hackathon
+- Surprise, pay $1000
+- German ruling declares Google liable for false answers in AI Overviews
+- Apple Made a Sports App That Does Almost Nothing. It's Incredible
+- Rich Sutton on AI creativity and discovery
+- Chrome is looking to permanently drop MV2 extension
+- A 35B MoE on a 16 GB GPU, without the offload tax
+- Magnetoelectric antennas could transform how underwater robots talk
+- Hacking for Defense Stanford 2026 – Lessons Learned Presentations
+- Speed Is a Signal: When Faster Replies Increase 招聘 Likelihood
+- OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision
+- How do you design a $30k electric pickup? Inside Ford's skunkworks
+- Spoiling Linux Kernel with "sanctioned" 代碼
+- I thought I knew how electrolysis worked [video]
+- BYD to install 5-minute EV chargers across Europe
+- I Hate (Most) Keyboard 'Fn' Keys
+- The oldest surviving animated feature film at 100
+- Show HN: macOS menu bar gauges for your Claude 代碼 quota
 - Emerge 職業 (YC S22) Is 招聘 a Founding Growth Marketer
+- More Molly Guards
+- Notes on DeepSeek
+- If Claude Fable stops helping you, you'll never know
+- US Consumer Price Index up 4.2%
+- Oh Good, Screwworms Are Back
+- Stackoverflow for Agents
+- CEOs who think AI replaces their employees are just bad CEOs
+- Upcoming breaking changes for npm v12
+- Show HN: Ustps (UDP Speedy Transmission Protocol Secure) and USSH
+- Lies we tell ourselves about email addresses
+- Making Graphics Like it's 1993
 - A giant star may have destroyed itself in one of the rarest explosions
+- Grit: Rewriting Git in Rust with agents
+- 測試-case reducers are underappreciated debugging tools
 - WWDC 2026: Apple is Folding
-- Launch HN: Transload (YC P26) – Measuring freight items with CCTV
+- Postgres by Example
+- Linux latency measurements and compositor tuning [KWin Wayland]
+- U.S. kids no longer reading for pleasure
+- Solar power electricity surpasses coal for the first time in U.S.
 - Show HN: Gravity – Interactive solar-系統 simulator, from Newton to Einstein
+- What it feels like to work with Mythos
+- In a U.S. First, Solar Supplied More Power Than Coal Last Month
+- Premature optimization is fun sometimes
+- Launch HN: Transload (YC P26) – Measuring freight items with CCTV
+- Ultrafast 機器學習 on FPGAs via Kolmogorov-Arnold Networks
+- 為什麼 LLMs still lack taste
+- Show HN: NBSDgames – 21 新, improved, original text games for Unix, DOS, Plan9
 - Is Grep All You Need? How 代理 Harnesses Reshape Agentic Search
-- iOS 27 features we didn't see onstage
-- Computer Lessons
-- Exif Smuggling (2025)
-- FCC wants to kill burner phones by forcing telecoms to get all customers' IDs
+- Three Proposals for HTML
 - Microsoft's 開源 tools were hacked to steal passwords of AI developers
+- Vibe coding my way to a healthy family: Introducing Gamow Labs
+- FCC wants to kill burner phones by forcing telecoms to get all customers' IDs
 - Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs
 - The iPhone's Last Stand?
-- Value Numbering
-- The LD_DEBUG environment variable (2012)
-- Apple decided not to roll out Siri in EU after denied request for exemption
+- iOS 27 features we didn't see onstage
+- Exif Smuggling (2025)
+- Cops Keep Getting Arrested for Using Flock to Stalk People
 - Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]
-- Show HN: Resonate – Low-latency, high-resolution spectral analysis
+- The LD_DEBUG environment variable (2012)
 - Forever Young: how one molecule can lock plants in a youthful state (2025)
 - Thi.ng – open-source building blocks for computational design and art
-- Biff.core: 系統 composition for Clojure 網頁 apps
-- 工作: Head of Stonehenge
-- Flat Datacenter Networks at Scale at Amazon
-- LinkedIn wants to own B2B creator discovery with 新 creator marketplace
-- The Evolution of 'More Like This'
-- Can LLMs Beat Classical Hyperparameter Optimization Algorithms?
-- Cleaning up after AI rockstar developers
-- Apple reveals 新 AI architecture built around Google Gemini models
-- Ask HN: 為什麼 hasn't there been a real competitor to Ticketmaster yet?
-- Show HN: Nucleus – A 安全-hardened, Nix-native container runtime
-- Porting the ThinkPad X61 to Coreboot
-- Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow
-- Old'aVista – The most powerful guide to the old Internet
-- AI Companies Investing Billions in Residential Proxy
-- It's death
-- Blaise v0.10.0: Native Back End, Threads and Incremental Compilation
-- An 介紹 functional analysis for science and engineering
-- Show HN: Performative-UI – A React component library of design tropes
-- Corrupting a ZFS File on Purpose
-- xAI is looking more like a datacentre REIT than a frontier lab
-- Stolen Lego, Mormons and corrupt Cops – a recap of all the major facts
-- Ask HN: Are you still using a Vision Pro?
-- Experience using AI 軟體 to prove Euler sum results [pdf]
-- Anti-social: It's fads, not friends, which now dominate social media feeds
-- EU-banned pesticides found in rice, tea and spices
-- Siri AI
-- SoftBank Attempt to Get $6B OpenAI Margin Loan Stalls
-- Launch HN: Intuned (YC S22) – 構建 and run reliable browser automations as 代碼
-- Where is the AI jobs crisis?
-- The beauty and simplicity of the good old C-style void* in C++
-- Eagle Computer: The rise and fall of an early PC clone
-- Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call
-- Splash Is a Colour Format
-- Robots are about to overtake armed soldiers as the deciders of war
-- Unified Controllable and Faithful Text-to-CAD Generation with LLMs
-- MiMo-v2.5-Pro-UltraSpeed: 1T 模型 with 1000 tokens per second
-- I'm building a parallel internet, and it's called The Thinnernet
-- Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs
-- Apple bets cheaper AI will woo small developers
-- Replies to comments on my "LLMs are eroding my 職業" post
-- Using Optical Aberrations to Distinguish Real Astronomical Transients
+- Apple decided not to roll out Siri in EU after denied request for exemption
+- Value Numbering
 
 
 ---
