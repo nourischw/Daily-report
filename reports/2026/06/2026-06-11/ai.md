@@ -124,7 +124,7 @@ Fortinet本週發布安全更新，修補其FortiSandbox雲端及本地部署三
 
 ### 20. [微軟修補已遭利用的Exchange 伺服器零時差漏洞](https://www.ithome.com.tw/news/176530)
 
-5月14日微軟揭露Exchange 伺服器重大漏洞CVE-2026-42897，並指出已遭到利用，6月9日微軟���新公告內容，呼籲用戶儘速安裝Exchange的2026年6月安全更新來防範漏洞。
+5月14日微軟揭露Exchange 伺服器重大漏洞CVE-2026-42897，並指出已遭到利用，6月9日微軟更新公告內容，呼籲用戶儘速安裝Exchange的2026年6月安全更新來防範漏洞。
 
 - 📰 **iThome 科技**
 
@@ -137,7 +137,7 @@ PeopleSoft是甲骨文旗下提供人力資源(HR)、財務管理、供應鏈與
 
 ### 22. [Adobe發布6月例行更新，呼籲用戶優先修補ColdFusion與Campaign Classic](https://www.ithome.com.tw/news/176528)
 
-6月9日Adobe發布本月例行更新，為旗下11款應用系統提供修補程式，總共修補123個資安漏洞。值得留意的是，該公司將企業行銷自動化與客戶關係管理（CRM）平臺Campaign Classic、��頁應用程式開發平臺ColdFusion的修補優先順序列為第一級，呼籲用戶必須特別優先處理。
+6月9日Adobe發布本月例行更新，為旗下11款應用系統提供修補程式，總共修補123個資安漏洞。值得留意的是，該公司將企業行銷自動化與客戶關係管理（CRM）平臺Campaign Classic、網頁應用程式開發平臺ColdFusion的修補優先順序列為第一級，呼籲用戶必須特別優先處理。
 
 - 📰 **iThome 科技**
 
@@ -161,15 +161,15 @@ Google 雲端旗下資安團隊Mandiant與GTIG（Google Threat Intelligence Grou
 
 ### 26. [環境部預告減碳與氣候調適補助辦法，可補助企業導入節能、CCUS、低碳製程，但碳盤查與自主減量計畫不在補助範圍](https://www.ithome.com.tw/news/176523)
 
-環境部今天（6/10）預告《��室氣體減量技術及氣候變遷調適補助辦法》草案，未來將透過「溫室氣體管理基金」提供補助，加速企業投入減碳技術及氣候變遷調適工作。這也是國內首次徵收碳費後，將碳費回饋企業減碳投資的重要配套措施之一。
+環境部今天（6/10）預告《溫室氣體減量技術及氣候變遷調適補助辦法》草案，未來將透過「溫室氣體管理基金」提供補助，加速企業投入減碳技術及氣候變遷調適工作。這也是國內首次徵收碳費後，將碳費回饋企業減碳投資的重要配套措施之一。
 根據草案內容，補助對象包括事業、各級學校、公立研究機構及財團法人學術研究機構等，未來將依環境部公告的補助計畫及申請程序提出申請。
 
 - 📰 **iThome 科技**
 
 ### 27. [PwC：企業減碳進入績效與韌性時代，AI資料中心用電與供應鏈碳排成新挑戰](https://www.ithome.com.tw/news/176522)
 
-PwC發布《2026年減碳報告》(PwC&#039;s Third Annual State of Decarbonization Report)指出，企業減碳已從過去著重目標宣示，轉向財務紀律、營運韌性與商業價值的整合管理。隨著AI資料中心推升能源需求、供應鏈風險升高，以及範疇三排放治理難度增加，企業正將能源管理、供應鏈透明化、產品設計與AI應用視為下一階段永續轉型的核心策略。
-隨著全球企業面臨能源價格波動、供應鏈不確定性及地���政治風險，減碳已不再只是ESG或法遵議題，而逐漸成為企業營運與財務管理的重要課題。報告指出，企業減碳正從設定長期目標的階段，轉向檢視投資效益、執行能力與營運韌性的
+PwC發布《2026年減碳報告》(PwC&#039;s Third Annual State of Decarbonization Report)指出，企業減碳已從過去著重目標宣示，轉向財務紀律、營運韌性與商業價值的��合管理。隨著AI資料中心推升能源需求、供應鏈風險升高，以及範疇三排放治理難度增加，企業正將能源管理、供應鏈透明化、產品設計與AI應用視為下一階段永續轉型的核心策略。
+隨著全球企業面臨能源價格波動、供應鏈不確定性及地緣政治風險，減碳已不再只是ESG或法遵議題，而逐漸成為企業營運與財務管理的重要課題。報告指出，企業減碳正從設定長期目標的階段，轉向檢視投資效益、執行能力與營運韌性的實
 
 - 📰 **iThome 科技**
 
@@ -195,6 +195,9 @@ Anthropic發表Claude Fable 5，為所有用戶提供Mythos等級的能力
 
 ### 更多 AI 新聞 (70則)
 
+- Grok Is Still Hosting Sexualized Deepfakes of Famous Women (**Wired**)
+- Is It a Super El Niño Year? It Could Turn the World’s Weather Upside Down (**Wired**)
+- Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts (**Wired**)
 - 最佳 Smart Chess Boards (2026): Chessnut, Millennium (**Wired**)
 - Signal Alums Reveal ‘Encrypted Spaces,’ a 系統 for Making Private Collaboration Apps (**Wired**)
 - The 最佳 E-Readers of 2026: Kobo, Kindle (**Wired**)
@@ -205,8 +208,8 @@ Anthropic發表Claude Fable 5，為所有用戶提供Mythos等級的能力
 - Welcome to the Waymo World Cup (**Wired**)
 - Trump’s Border Crackdown Is Wreaking Havoc on the World Cup (**Wired**)
 - Cameras, Sensors, and 3D Body Scans: All the Tech Helping Eliminate Blown Calls (**Wired**)
-- How Mexican World Cup Stadiums Achieved FIFA’s Environmental Certifications (**Wired**)
 - 如何 Watch the 2026 World Cup (**Wired**)
+- How Mexican World Cup Stadiums Achieved FIFA’s Environmental Certifications (**Wired**)
 - People Living Near xAI’s Dirty Data Centers Are Furious About the SpaceX IPO (**Wired**)
 - I Was Scammed Buying GLP-1s Online. I’m Not Alone (**Wired**)
 - Peacock Promo Codes: 40% Off June 2026 (**Wired**)
@@ -215,12 +218,12 @@ Anthropic發表Claude Fable 5，為所有用戶提供Mythos等級的能力
 - 50% Off DoorDash Promo 代碼 | June 2026 (**Wired**)
 - Dell Coupon Codes: 20% Off for June 2026 (**Wired**)
 - Chewy Promo Codes: $20 Off June 2026 (**Wired**)
-- 30% VistaPrint Coupon &amp; Promo Codes | June 2026 (**Wired**)
-- Newegg Promo 代碼: 10% Off in June 2026 (**Wired**)
-- AT&amp;T Promo Codes: $50 Off This June 2026 (**Wired**)
 - Squarespace Promo Codes: 20% Off in June 2026 (**Wired**)
 - 30% Off Samsung Promo 代碼 | June 2026 (**Wired**)
 - Dyson Promo Codes: 25% Off in June 2026 (**Wired**)
+- 30% VistaPrint Coupon &amp; Promo Codes | June 2026 (**Wired**)
+- Newegg Promo 代碼: 10% Off in June 2026 (**Wired**)
+- AT&amp;T Promo Codes: $50 Off This June 2026 (**Wired**)
 - Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude (**Wired**)
 - CISA Tells US Agencies to Fix 安全 Bugs in as Little as 3 Days Thanks to AI Threats (**Wired**)
 - Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick (**Wired**)
@@ -233,18 +236,15 @@ Anthropic發表Claude Fable 5，為所有用戶提供Mythos等級的能力
 - What’s the 最佳 Kindle of 2026? (So Far) (**Wired**)
 - 最佳 iPad Accessories (2026): Keyboards, Cases, Styli (**Wired**)
 - 最佳 Laptops For College Students (2026): MacBooks and Beyond (**Wired**)
-- Soccer Fans, You’re Being Watched (**Wired**)
-- The World Cup’s Trionda Ball Challenges Traditional Aerodynamics (**Wired**)
-- 人工智慧 Sneaks Into the World Cup Thanks to Google Gemini (**Wired**)
 - Mapping Every Flock License Plate Reader Near US World Cup Stadiums (**Wired**)
 - This World Cup, You Can Watch the Game From a Ref’s Point of View (**Wired**)
-- Amnesty International Warns That World Cup Fans Face Potential Human Rights Violations (**Wired**)
+- Soccer Fans, You’re Being Watched (**Wired**)
+- 人工智慧 Sneaks Into the World Cup Thanks to Google Gemini (**Wired**)
+- The World Cup’s Trionda Ball Challenges Traditional Aerodynamics (**Wired**)
 - The Other Major Soccer Event of 2026? The Shake-Up in the World of Video Games (**Wired**)
+- Amnesty International Warns That World Cup Fans Face Potential Human Rights Violations (**Wired**)
 - Naturepedic Promo Codes: Get 20% Off Plus Free Pillows (**Wired**)
 - Corsair Discount 代碼: Up to 50% Off for June 2026 (**Wired**)
-- 最佳 Buy Discount Codes: Up to 60% Off (**Wired**)
-- Lenovo Coupon Codes and Deals in June 2026 (**Wired**)
-- Ulta Promo Codes: Up to 50% Off in June 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
