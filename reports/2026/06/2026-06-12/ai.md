@@ -4,191 +4,196 @@
 
 ---
 
-### 1. [ServiceNow公布安全事件初步調查，稱資料查詢活動可能來自研究人員](https://www.ithome.com.tw/news/176559)
+### 1. [環境部推全新的循環標誌，預計7月開放申請，今年還將納入政府綠色採���](https://www.ithome.com.tw/news/176580)
+
+環境部即將推動全新的「循環標誌」在今天(6/12)舉辦的循環商品展中正式亮相，適逢立法院於6月剛三讀通過「資源循環推動法」形成政策連動。相較於既有環保標章多涵蓋空氣、水資源與能源管理等廣泛環境指標，新的「循環標誌」則聚焦產品本身的循環設計條件，包括單一或天然材料使用、易拆解設計以及再生材料導入等，核心目標在於提升資源循環利用效率並減少廢棄物產生。
+環境部資源循環署長賴瑩瑩表示，循環標誌的核心不只是產品識別工具，也希望從設計端引導減廢與資源再利用，提升產品在生命週期中的循環效率，並降低廢棄物產生。
+
+- 📰 **iThome 科技**
+
+### 2. [企業需要AI即戰力，但新鮮人只會用AI改履歷](https://www.ithome.com.tw/news/176579)
+
+上週落幕的Computex以「AI Together」為主題，輝達（NVIDIA）執行長黃仁勳更在演講中宣示「AI is now useful」，意味著AI已從技術展示正式走向產業應用階段，不會使用AI的人，將被「會使用AI的人」所取代。
+資策會副執行長兼數位轉型研究所院長林玉凡表示，在這樣的時代背景下，「我們到底是被AI打敗，還是要擁抱它？」她點出關鍵：未來最有競爭力的人才，不只會用AI，更要能將AI轉化為產業價值，而這正是臺灣職場當前最稀缺的能力。
+「市場不是沒有人才，而是缺少企業看得懂、用得上的AI能力表現。」資策會教研所主任劉錦芳坦言，人才供給端與需求端之間，缺乏的不是意願，而是一套可
+
+- 📰 **iThome 科技**
+
+### 3. [Splunk 6月安全更新修補一項讓攻擊者清空檔案的重大漏洞](https://www.ithome.com.tw/news/176577)
+
+思科旗下Splunk本星期發布安全更新，修補12項漏洞，包括一項允許未經驗證的攻擊者建立或清空檔案的重大漏洞。
+本月Splunk修補了1項重大漏洞為CVE-2026-20253，影響Splunk Enterprise 與Splunk 雲端 Platform的部分版本。該漏洞出在這些軟體的PostgreSQL sidecar服務端點缺乏驗證控制，可讓任何連網的攻擊者，未經驗證就能透過PostgreSQL sidecar服務在系統上建立或清空任意檔案。本漏洞風險值達到9.8。
+
+- 📰 **iThome 科技**
+
+### 4. [【資安日報】6月12日，Oracle PeopleSoft零時差漏洞被用於大規模攻擊](https://www.ithome.com.tw/news/176576)
+
+Oracle針對PeopleSoft重大漏洞提出警告
+
+- 📰 **iThome 科技**
+
+### 5. [GitLab修補12個漏洞，最高風險可能導致帳號接管](https://www.ithome.com.tw/news/176575)
+
+GitLab周三（6/10）發布安全更新，釋出GitLab社群版（GitLab Community Edition，CE）與企業版（GitLab Enterprise Edition，EE）的19.0.2、18.11.5及18.10.8，以修補12個安全漏洞，其中最嚴重的兩項漏洞CVSS風險評分皆達8.7分，可能導致帳號遭接管或在受害者瀏覽器中執行惡意程式碼。
+
+- 📰 **iThome 科技**
+
+### 6. [衛福部揭5,050筆臺灣專用LOINC對照表，打造全國共通醫學檢驗語言、為醫療AI鋪路](https://www.ithome.com.tw/news/176573)
+
+為解決不同醫院檢驗資料格式不一、資訊難以交換的問題，衛福部在2025年啟動全國醫學檢驗資料標準化工程，歷經數十家醫院、154位專家共同參與，完成5,050筆臺灣版LOINC對照表，健保核價檢驗項目涵蓋率近99%，衛福部也在本月10日揭露成果。
+衛福部資訊處處長李建璋表示，這項工程是把臺灣醫院平常使用的健保檢驗碼，對應到國際通用的醫學檢驗標準LOINC。但，LOINC資料庫收錄超過10萬筆代碼，同一項檢驗還可能因檢體來源、檢驗方法或檢測目的不同，而對應不同代碼。過去若由各家醫院自行比對，不但耗時，代碼也可能不一致。現在，衛福部已完成對照表，醫院接下來可直接引用，不必從頭建立自己的LOINC對照機
+
+- 📰 **iThome 科技**
+
+### 7. [Ivanti甫修補的滿分重大漏洞已出現實際攻擊](https://www.ithome.com.tw/news/176572)
+
+6月9日資安公司Ivanti發布公告，針對保護企業後端系統與遠端行動裝置之間流量的安全閘道設備Ivanti Sentry發布更新，修補兩項CVSS評分達到10分與9.9分的重大漏洞CVE-2026-10520與CVE-2026-10523，值得留意的是，滿分漏洞CVE-2026-10520已被用於實際攻擊。
+
+- 📰 **iThome 科技**
+
+### 8. [越南駭客OceanLotus發動供應鏈攻擊，鎖定投資人散布SpectralViper後門](https://www.ithome.com.tw/news/176570)
+
+資安業者ESET周四（6/11）揭露，越南駭客組織OceanLotus（APT32）自2025年10月至2026年3月，入侵越南投資軟體FireAnt Metakit更新伺服器，透過偽造軟體更新向股票投資人散布SpectralViper後門程式。
+
+- 📰 **iThome 科技**
+
+### 9. [LiteLLM高風險已知漏洞可與另一個漏洞串連，形成CVSS風險10分的漏洞利用鏈](https://www.ithome.com.tw/news/176569)
+
+6月8日美國網路安全與基礎設施安全局（CISA）表示已��握漏洞被積極利用的證據，將LiteLLM高風險漏洞CVE-2026-42271加入已遭利用漏洞列表（KEV），要求聯邦機構於6月22日前完成修補，究竟駭客如何利用漏洞，CISA並未說明。然而在此之前，有資安公司警告，若是攻擊者串連另一個已知漏洞，將能變成威力極為強大的武器。
+
+- 📰 **iThome 科技**
+
+### 10. [Palo Alto發布6月安全更新修補11項漏洞](https://www.ithome.com.tw/news/176568)
+
+網路資安業者Palo Alto Networks本週發佈六月份安全更新，修補11項漏洞，其中包含2項高風險安全更新，廠商呼籲管理員儘速更新到最新版本。
+
+- 📰 **iThome 科技**
+
+### 11. [Coupang個資外洩案波及3,755萬人，遭韓國重罰逾6,246億韓元](https://www.ithome.com.tw/news/176567)
+
+針對電商平臺酷澎（Coupang）於2025年11月揭露的大規模個資外洩事故，韓國個資保護委員會（Personal Information Protection Commission，PIPC）於6月11日公告，對酷澎處以6,246億8,100萬韓元（約4.09億美元）罰鍰。
+
+- 📰 **iThome 科技**
+
+### 12. [研究人員揭露BitLocker零時差漏洞GreatXML](https://www.ithome.com.tw/news/176566)
+
+研究人員Chaotic Eclipse（Nightmare-Eclipse）於微軟發布6月例行更新（Patch Tuesday）當天，公布Microsoft Defender零時差漏洞RoguePlanet。
+
+- 📰 **iThome 科技**
+
+### 13. [施耐德電機修補多項高風險漏洞，影響EcoStruxure與PowerLogic等產品](https://www.ithome.com.tw/news/176565)
+
+工業自動化與能源管理業者施耐德電機（Schneider Electric）於6月9日發布3份安全公告，揭露資料中心監控軟體EcoStruxure IT Data Center Expert、遠端終端裝置與控制器EasyLogic T150／Saitel DP RTU，以及電力保護與控制平臺PowerLogic P7的多項漏洞，並針對受影響產品提供已修補的版本。
+
+- 📰 **iThome 科技**
+
+### 14. [OpenAI收購Ona，打造企業AI代理人雲端執行環境](https://www.ithome.com.tw/news/176564)
+
+OpenAI周四（6/11）宣布收購AI代理人雲端執行平臺Ona，將其安全雲端執行與協調技術整合至Codex生態系，讓AI代理人可在安全、持久且由客戶控制的雲端環境中長時間執行任務。此一收購案仍待監管機關核准，雙方並未揭露交易金額。
+
+- 📰 **iThome 科技**
+
+### 15. [英國諾丁漢大學資料外洩，可能影響45萬學生](https://www.ithome.com.tw/news/176563)
+
+在勒索軟體ShinyHunters宣稱竊取資料後，英國諾丁漢大學（University of Nottingham）昨日（6/11）證實發生網路攻擊事件，造成大量學生資訊外流。
+諾丁漢大學為知名學府，根據全球學校評等網站，該校排名為英國前20大，全球前一百大。
+
+- 📰 **iThome 科技**
+
+### 16. [【臺灣資安大會直擊】當Physical AI走進現實，一張傳單就可讓機器人出拳攻擊](https://www.ithome.com.tw/news/176562)
+
+當資安威脅從數位世界脫殼而出，轉化為具有物理動量的攻擊力時，我們正面臨一個前所未有的轉折點。專精車用資安與機器人資安的VicOne執行長鄭奕立指出，過去數位世界的入侵，最壞的結果或許是系統重灌、資料外洩；但在Physical AI（物理AI）的世界裡，機器人的手腳可能會直接傷害人類，而那絕對不是按下一個「還原鍵」就能解決的問題。
+針對機器人資安VicOne成立專屬研究實驗室Lab R7，就是為了在世界還在討論機器人落地的可能時，先行著手拆解並防禦其潛在的脆弱性。例如日前在臺灣資安大會CyberSec 2026現場，VicOne Lab R7研究人員就針對機器狗實測Demo，展示讓全場屏息的攻擊
+
+- 📰 **iThome 科技**
+
+### 17. [微軟Secure Boot舊版憑證2026年陸續到期，紅帽提醒RHEL用戶更新韌體信任資料庫](https://www.ithome.com.tw/news/176561)
+
+開源軟體與企業Linux業者紅帽（Red Hat）6月10日提醒，微軟安全開機（Secure Boot）機制使用的多張2011年版簽章憑證，將於2026年陸續到期，企業應確認UEFI（Unified Extensible Firmware Interface）韌體中的Secure Boot資料庫（db）是否已納入2023年版憑證，以確保
+
+- 📰 **iThome 科技**
+
+### 18. [ServiceNow公布安全事件初步調查，稱資料查詢活動可能來自研究人員](https://www.ithome.com.tw/news/176559)
 
 企業雲端工作流程平臺業者ServiceNow於6月上旬傳出安全事件，先前有網友在Reddit轉貼的ServiceNow客戶支援公告指出，未經身分驗證的使用者疑似可在特定情況下透過API端點，查詢部分客戶執行個體的資料，6月5日ServiceNow表示，已對代管客戶執行個體套用安全更新。
 
 - 📰 **iThome 科技**
 
-### 2. [貝佐斯AI新創Prometheus募資120億美元，瞄準工程與製造AI](https://www.ithome.com.tw/news/176557)
+### 19. [Oracle PeopleSoft零時差漏洞遭駭客組織ShinyHunters積極利用](https://www.ithome.com.tw/news/176558)
+
+Oracle於6月10日警告企業應用系統平臺PeopleSoft PeopleTools存在重大漏洞CVE-2026-35273，呼籲用戶應立刻採取行動緩解風險，雖然沒有說明漏洞是否已遭到利用，然而時間點與ShinyHunter聲稱的攻擊行動相當接近，很容易讓人聯想這些駭客利用的零時差漏洞，就是CVE-2026-35273，如今有資安研究團隊證實此事。
+
+- 📰 **iThome 科技**
+
+### 20. [貝佐斯AI新創Prometheus募資120億美元，瞄準工程與製造AI](https://www.ithome.com.tw/news/176557)
 
 由亞馬遜（Amazon）創辦人貝佐斯（Jeff Bezos）共同創立的AI新創Prometheus週四（6/11）宣布完成120億美元B輪融資，公司估值達410億美元。參與投資者包括摩根大通（JPMorgan Chase）、貝萊德（BlackRock）、高盛（Goldman Sachs）、DST Global、Arch Venture Partners及貝佐斯本人。
 
 - 📰 **iThome 科技**
 
-### 3. [【臺灣資安大會直擊】當數位信任躍升企業戰略���心，國際電腦稽核協會推動以DTEF框架落實韌性與企業治理](https://www.ithome.com.tw/news/176548)
+### 21. [Oracle針對PeopleSoft重大漏洞提出警告](https://www.ithome.com.tw/news/176556)
 
-隨著數位科技深度滲透社會，數位信任已成為企業維繫營運與競爭力的重要條件。國際電腦稽核協會（ISACA）臺灣分會副會長陳政龍在2026臺灣資安大會，針對管理階層如何促進數位信任進行深度剖析，並介紹ISACA近年推動的「數位信任生態系框架」（Digital Trust Ecosystem Framework，DTEF），帶領產業重新思考數位信任架構下的治理思維。
+6月10日Oracle發布資安公告，可用於人力資源管理、財務與供應鏈管理、校務系統、客戶關係管理等領域的企業應用系統平臺PeopleSoft PeopleTools，存在重大等級的資安漏洞CVE-2026-35273，未經身分驗證的攻擊者可遠端利用，一旦成功，就有機會導致遠端程式碼執行。該漏洞影響8.61與8.62版PeopleSoft Enterprise PeopleTools，PeopleSoft Enterprise Applications用戶也可能受影響。
+
+- 📰 **iThome 科技**
+
+### 22. [【臺灣資安大會直擊】當數位信任躍升企業戰略核心，國際電腦稽核協會推動以DTEF框架落實韌性與企業治理](https://www.ithome.com.tw/news/176548)
+
+隨著數位科技深度滲透社會，數位信任已成為企業維繫營運與競爭力的重要條件。國際電腦稽核協會（ISACA）臺灣分會副會長陳政龍在2026臺灣資安大會，針對管理階層如何促進數位信任進行深度剖析，並介紹ISACA近年推動的「數位信任生態系框架」（Digital Trust Ecosystem Framework，DTEF），帶領產業重新思考數��信任架構下的治理思維。
 促進數位信任，管理階層可優先掌握五大原則
 數位信任已成當代社會的基石，陳政龍強調，在未來的企業營運中，使用者的信任將成為最重要的核心資產。對於企業董事會與管理高層而言，這將是不容輕忽的核心課題。
 
 - 📰 **iThome 科技**
 
-### 4. [從ATM到自駕車，ISACA點出為何數位信任企業治理熱門焦點](https://www.ithome.com.tw/news/176552)
+### 23. [從ATM到自駕車，ISACA點出為何數位信任企業治理熱門焦點](https://www.ithome.com.tw/news/176552)
 
 數位信任（Digital Trust）已不再僅是資安防護的附屬品，而是企業維繫營運與品牌價值的核心資產。在2026臺灣資安大會中，ISACA臺灣分會副會長陳政龍特別強調，數位信任的熱度之所以持續攀升，是因為它直接關乎提供者與消費者在數位生態系統中的互動品質。
-陳政龍首先引用全球知名信任議題專家Rachel Botsman的觀點，指出「信任是對未知建立一種有信心的關係」。他舉例，1967年首臺自動櫃員機（ATM）的問世，解決了非營業時間的提款需求，使大眾對銀行的信任成功轉化為對機器自動化邏輯的信賴；時至今日則有無人自駕車的發展，使用者從最初的疑慮，到觀察機器自動轉彎避障後的放鬆，體現人類對數位科
+陳政龍首先引用全球知名信任議題專家Rachel Botsman的觀點，指出「信任是對未知建立一種有信心的關係」。他舉例，1967年首臺自動櫃員機（ATM）的問世，解決了非營業時間的提款需求，使大眾對銀行的信任成功轉化為對機器自動化邏輯的信賴；時至今日則有無人自���車的發展，使用者從最初的疑慮，到觀察機器自動轉彎避障後的放鬆，體現人類對數
 
 - 📰 **iThome 科技**
 
-### 5. [Waymo推出訂閱會員服務Waymo Premier](https://www.ithome.com.tw/news/176555)
+### 24. [Waymo推出訂閱會員服務Waymo Premier](https://www.ithome.com.tw/news/176555)
 
 自駕計程車業者Waymo周四（6/11）發表全新訂閱會員方案Waymo Premier，鎖定經常使用Waymo自駕叫車服務的重度用戶。目前Premier採邀請制，會員每月支付29.99美元後，即可享有優先派車、搭車回饋、搶先體驗新城市服務及免費取消行程等專屬權益。
 
 - 📰 **iThome 科技**
 
-### 6. [Apple釋出Mac專用容器工具Container 1.0，強化長駐型Linux環境管理](https://www.ithome.com.tw/news/176551)
+### 25. [Apple釋出Mac專用容器工具Container 1.0，強化長駐型Linux環境管理](https://www.ithome.com.tw/news/176551)
 
-Apple釋出Mac用容器工具Container 1.0，該命令列工具以Swift撰寫，可在搭載Apple Silicon晶片的Mac上建立與執行Linux容器。新版加入可保留狀態的Linux環境管理功能，讓開發者能在Mac上保留較固定的容器執行環境，並改善設定、輸出格式與檔案傳輸等日常操作。
+Apple釋出Mac用容器工具Container 1.0，該命令列工具以Swift撰寫，可在搭載Apple Silicon晶片的Mac上建立與執行Linux容器。新版加入可保留狀態的Linux環境管理功能，讓開���者能在Mac上保留較固定的容器執行環境，並改善設定、輸出格式與檔案傳輸等日常操作。
 
 - 📰 **iThome 科技**
 
-### 7. [Google發布Chrome 149更新，修補近30個弱點](https://www.ithome.com.tw/news/176554)
+### 26. [Google發布Chrome 149更新，修補近30個弱點](https://www.ithome.com.tw/news/176554)
 
 6月11日Google發布電腦版與Android版Chrome 149更新，總共修補28個資安弱點，其中有5個為重大等級，用戶應儘速升級至149.0.7827.114或149.0.7827.115版修
 
 - 📰 **iThome 科技**
 
-### 8. [Proxmox Virtual Environment發布9.2版，修補5項近期備受關注的Linux核心漏洞](https://www.ithome.com.tw/news/176553)
+### 27. [Proxmox Virtual Environment發布9.2版，修補5項近期備受關注的Linux核心漏洞](https://www.ithome.com.tw/news/176553)
 
 開源虛擬化平臺Proxmox Virtual Environment（Proxmox VE）近期推出9.2版，除了導入動態負載平衡等新功能之外，也整合Linux修補程式，一口氣修補5項近期受到關注的Linux核心漏洞，包括Copy Fail、Dirty Frag、Fragnesia、PinTheft與ssh-keysign-pwn等問題。
 
 - 📰 **iThome 科技**
 
-### 9. [對抗AI用電飆升，歐盟有意為資料中心設立能源效率門檻](https://www.ithome.com.tw/news/176550)
+### 28. [對抗AI用電飆升，歐盟有意為資料中心設立能源效率門檻](https://www.ithome.com.tw/news/176550)
 
 隨著生成式AI與雲端服務快速擴張，資料中心過去被視為「數位基礎設施」，但是隨著資料中心耗用資源的增加，已逐漸升級為歐盟能源與氣候政策的關注的焦點。
 根據路透社報導，歐盟執委會近日提出新一輪的政策草案，有意為資料中心建立最低能源效率標準，並同步推動「永續標籤制度」，要求業者揭露用電效率、水資源使用與再生能源占比等指標，以提升透明度並降低環境衝擊。
 
 - 📰 **iThome 科技**
 
-### 10. [NCC發布新聞AI應用指引，要求全程標示AI內容並建立人工查核機制](https://www.ithome.com.tw/news/176549)
+### 29. [NCC發布新聞AI應用指引，要求全程標示AI內容並建立人工查核機制](https://www.ithome.com.tw/news/176549)
 
-隨著生成式AI快速進入新聞製播流程，NCC近期發布「廣電媒體製播新聞應用AI指引」，要求廣電媒體在導入AI技術時，必須建立人工查證機制、全程揭露AI生成內容，並避免在重大公共事務報導中使用高度擬真的AI影音，以維護新聞公信力與閱聽眾信任。
+隨著生成式AI快速進入新聞製播流程，NCC近期發布「廣電媒體製播新聞應用AI指引」，要求廣電媒體在導入AI技術時，必須建立人工查證機制、全程揭露AI���成內容，並避免在重大公共事務報導中使用高度擬真的AI影音，以維護新聞公信力與閱聽眾信任。
 該指引是基於今年1月上路的《人工智慧基本法》第16條第2項規定，各目的事業主管機關應視人工智慧應用風險管理需要，協助產業訂定指引及行為規範，NCC依此擬訂指引，屬於行政指導，供廣電產業自律規範的參考基準。
-NCC表示，隨著AI技術逐漸被用於新聞採訪、影像生成、內容編輯與播報流程，媒體運用AI提高製播效率的同時，容易衍生內容真實性、偏見與資訊可信度等挑戰，因此
+NCC表示，隨著AI技術逐漸被用於新聞採訪、影像生成、內容編輯與播報流程，媒體運用AI提高製播效率的同時，容易衍生內容真實性、偏見與資訊可信度等挑戰，
 
 - 📰 **iThome 科技**
 
-### 11. [AI代理同樣存在遭社交工程欺騙風險，研究人員揭露OpenClaw AI代理可遭釣魚郵件誘騙洩漏敏感資料](https://www.ithome.com.tw/news/176547)
+### 30. [AI代理同樣存在遭社交工程欺騙風險，研究人員揭露OpenClaw AI代理可遭釣魚郵件誘騙洩漏敏感資料](https://www.ithome.com.tw/news/176547)
 
 以AI代理輔助甚至取代真人員工，是當前企業AI應用的熱門話題，由此也延伸出資安方面的議題——AI代理是否會像真人員工一樣遭到社交工程欺騙？資安廠商Varonis旗下威脅研究團隊近日發布報告，揭露針對開源AI代理平臺OpenClaw進行的安全測試研究，結果發現，即使為AI代理設定明確的安全政策，攻擊者仍可透過社交工程手法，誘騙AI代理洩漏敏感資訊。
-
-- 📰 **iThome 科技**
-
-### 12. [Anthropic調整Mythos級模型資料留存政策，提示詞與輸出將保留30天](https://www.ithome.com.tw/news/176545)
-
-Anthropic調整包括Claude Mythos 5與Claude Fable 5模型的資料留存政策，基於其信任與安全目的，保留使用者提交給這類模型的提示詞與模型輸出30天。該政策已於2026年6月9日起生效，主要影響原本採用��資料留存（Zero Data Retention，ZDR）的企業與雲端服務客戶；其他模型與未採用ZDR的使用情境，則維持既有條款。
-
-- 📰 **iThome 科技**
-
-### 13. [華納音樂買下Sureel，強化AI時代音樂版權追蹤](https://www.ithome.com.tw/news/176544)
-
-華納音樂集團（Warner Music Group，WMG）周三（6/10）宣布收購AI版權追蹤新創Sureel，藉由Sureel的AI DNA技術追蹤歌曲及藝人聲音、肖像等內容如何被用於AI模型訓練及生成內容，強化AI時代的音樂版權管理、權利歸屬與收益分配能力。
-
-- 📰 **iThome 科技**
-
-### 14. [【資安日報】6月11日，Exchange Online傳出可被用於欺騙的資安漏洞](https://www.ithome.com.tw/news/176543)
-
-研究人員揭露Exchange Online資安漏洞Ghost-Sender，攻擊者能偽造任意電子郵件地址
-
-- 📰 **iThome 科技**
-
-### 15. [Arista EOS網路作業系統存在已遭利用漏洞，原廠選擇緩解措施而不發布修補程式](https://www.ithome.com.tw/news/176542)
-
-美國網路安全與基礎設施安全局（CISA）在6月9日提出警告，將Arista EOS網路作業系統（Extensible Operating 系統）的CVE-2026-7473漏洞，列入已遭利用的漏洞名單（KEV），要求聯邦機構於6月23日前修復。
-
-- 📰 **iThome 科技**
-
-### 16. [俄羅斯駭客利用WinRAR已知漏洞對烏克蘭發動攻擊](https://www.ithome.com.tw/news/176541)
-
-去年7月，軟體開發業者Rarlab修補WinRAR路徑遍歷漏洞CVE-2025-8088，由於WinRAR並未提供自動更新機制，許多用戶並未手動升級新版而暴險，迄今已有多個俄羅斯與中國國家級駭客加入漏洞利用行列，如今有資安公司警告，有兩個俄羅斯駭客將其用於攻擊烏克蘭政府機軍事單位。
-
-- 📰 **iThome 科技**
-
-### 17. [加拿大提出《Safe Social Media Act》，擬禁止16歲以下使用社交媒體](https://www.ithome.com.tw/news/176540)
-
-加拿大政府周三（6/10）提出《安全社交媒體法》（Safe Social Media Act），擬禁止16歲以下青少年使用社交媒體，並首度將AI聊天機器人納入同一套數位安全監管框架。
-
-- 📰 **iThome 科技**
-
-### 18. [OpenAI、Visa合作共推AI代理人安全支付技術](https://www.ithome.com.tw/news/176539)
-
-國際支付卡組織Visa宣布與OpenAI合作，將把其支付網路及安全、身分驗證技術整合到OpenAI ChatGPT使用體驗中，以實現消費者及企業AI代理式支付的安全及流暢性。雙方也計畫將支付安全機制整合到開發或業務流程中。
-這項合作讓開發人員或店家得以接受由AI代理人啟動的Visa支付。而Visa將提供底層全球支付網路、支付憑證記號化（tokenization）、授權、代理人識別及風險管理基礎架構以確保交易安全性。
-
-- 📰 **iThome 科技**
-
-### 19. [OpenSSL修補高風險漏洞，研究人員在AI協助下發現可導致遠端程式碼執行問題](https://www.ithome.com.tw/news/176538)
-
-OpenSSL專案日前發布資安公告，修補18項漏洞，值得注意的是，其中1項高風險漏洞CVE-2026-45447，是研究人員在Anthropic的Claude AI協助下發現，顯示AI已成為漏洞研究與程式碼分析的重要工具，此外，Anthropic公司人員也參與另外7項漏洞的發現與通報。
-
-- 📰 **iThome 科技**
-
-### 20. [Linux核心再傳nftables本機權限提升漏洞CVE-2026-23111，攻擊者可升級為root並突破容器](https://www.ithome.com.tw/news/176537)
-
-最近一個多月有許多資安團隊公布Linux核心本機權限提升（LPE）類型的資安漏洞，由於大部分漏洞影響多個常見的Linux發行版而影響廣泛，受到外界高度關注。最近有資安公司揭露一年前找到的弱點，並公布相關細節。
-
-- 📰 **iThome 科技**
-
-### 21. [美國CISA改漏洞管理規則，最高風險漏洞3天內須修補](https://www.ithome.com.tw/news/176536)
-
-美國網路安全暨基礎設施安全局（CISA）週三（6/10）發布新版《強制營運指令》（BOD）26-04，要求聯邦文職機關改採風險導向漏洞管理制度；未來最高風險漏洞必須在3天內完成修補、停用或移除，較以往動輒數週的修補期限大幅縮短，以因應AI加速漏洞攻擊所帶來的新威脅。
-
-- 📰 **iThome 科技**
-
-### 22. [研究人員揭露Exchange Online資安漏洞Ghost-Sender，攻擊者能偽造任意電子郵件地址](https://www.ithome.com.tw/news/176535)
-
-6月9日資安公司InfoGuard針對Exchange Online用戶提出警告，他們發現名為Ghost-Sender的資安漏洞，Exchange Online或採用混合模式部署的Exchange郵件系統，只要搭配第三方的郵件伺服器防護措施或垃圾信過濾機制，而使得Exchange Online與外部的MX紀錄整合，攻擊者就有機會對目標租戶發動欺騙攻��，以任意的寄件人的名義，發送信件給任何收件者，將其用於網釣活動，例如：寄送假帳單到其他企業組織，或是冒充公司的執行長進行詐欺行為等。
-
-- 📰 **iThome 科技**
-
-### 23. [ServiceNow安全缺陷遭濫用，攻擊者查詢部分客戶執行個體資料](https://www.ithome.com.tw/news/176534)
-
-企業雲端工作流程平臺業者ServiceNow傳出安全事件。Bleeping Computer於6月9日報導，ServiceNow已通知受影響客戶，攻擊者濫用一項安全漏洞，可讓未經身分驗證的使用者在特定情況下，取得超出範圍的ServiceNow執行個體存取權限，並透過組態不良的API端點，查詢部分客戶執行個體的資料表。
-
-- 📰 **iThome 科技**
-
-### 24. [西門子6月工控安全公告揭露影響多款產品的OpenSSL重大漏洞](https://www.ithome.com.tw/news/176533)
-
-工控系統業者西門子（Siemens）於6月9日發布安全公告，說明OpenSSL重大風險漏洞CVE-2025-15467對多款產品的影響，並已針對部分產品提供修補版本。此漏洞CVSS v3.1風險分數為9.8分，屬重大（Critical）風險等級。
-
-- 📰 **iThome 科技**
-
-### 25. [Fortinet修補沙箱系統指令注入漏洞](https://www.ithome.com.tw/news/176532)
-
-Fortinet本週發布安全更新，修補其FortiSandbox雲端及本地部署三個版本的重大指令注入漏洞。在5月，該公司也針對FortiSandbox系列修補遠端程式碼執行（RCE）漏洞。
-
-- 📰 **iThome 科技**
-
-### 26. [Ivanti修補安全閘道Sentry重大漏洞，可讓攻擊者以root權限執行程式碼](https://www.ithome.com.tw/news/176531)
-
-企業軟體與資安設備業者Ivanti於6月9日發布安全公告，修補Ivanti Sentry兩項重大（Critical）風險等級漏洞，分別為CVE-2026-10520與CVE-2026-10523。Ivanti Sentry前身為MobileIron Sentry，是用於保護企業後端系統與遠端行動裝置之間流��的安全閘道設備。
-
-- 📰 **iThome 科技**
-
-### 27. [微軟修補已遭利用的Exchange 伺服器零時差漏洞](https://www.ithome.com.tw/news/176530)
-
-5月14日微軟揭露Exchange 伺服器重大漏洞CVE-2026-42897，並指出已遭到利用，6月9日微軟更新公告內容，呼籲用戶儘速安裝Exchange的2026年6月安全更新來防範漏洞。
-
-- 📰 **iThome 科技**
-
-### 28. [ShinyHunters宣稱駭入上百家Oracle PeopleSoft伺服器](https://www.ithome.com.tw/news/176529)
-
-媒體報導，勒索軟體駭客組織ShinyHunters近日利用漏洞，駭入Oracle PeopleSoft上百家組織伺服器，包括至少一家英國知名大學。
-PeopleSoft是甲骨文旗下提供人力資源(HR)、財務管理、供應鏈與客戶關係管理的軟體套件，其客戶涵括知名企業、學校、金融及製造業。
-
-- 📰 **iThome 科技**
-
-### 29. [Adobe發布6月例行更新，呼籲用戶優先修補ColdFusion與Campaign Classic](https://www.ithome.com.tw/news/176528)
-
-6月9日Adobe發布本月例行更新，為旗下11款應用系統提供修補程式，總共修補123個資安漏洞。值得留意的是，該公司將企業行銷自動化與客戶關係管理（CRM）平臺Campaign Classic、網頁應用程式開發平臺ColdFusion的修補優先順序列為第一級，呼籲用戶必須特別優先處理。
-
-- 📰 **iThome 科技**
-
-### 30. [CISA警告Chrome與思科SD-WAN零時差漏洞被用於攻擊活動](https://www.ithome.com.tw/news/176527)
-
-6月9日美國網路安全與基礎設施安全局（CISA）提出警告，他們掌握3個資安漏洞遭到積極利用的證據，將其列入已遭利用的漏洞名單（KEV），要求聯邦機構於6月23日完成修補。
 
 - 📰 **iThome 科技**
 
@@ -196,6 +201,19 @@ PeopleSoft是甲骨文旗下提供人力資源(HR)、財務管理、供應鏈與
 
 ### 更多 AI 新聞 (70則)
 
+- You Probably Won’t Get Rich Off the SpaceX IPO (**Wired**)
+- SpaceX IPO Puts Elon Musk’s ‘Extreme’ Ownership to the 測試 (**Wired**)
+- Paramount+ Coupon Codes and Deals for June 2026 (**Wired**)
+- B&amp;H Photo Promo Codes and Deals This June (**Wired**)
+- Hoka Coupon Codes: 30% Off in June 2026 (**Wired**)
+- 20% Off Sephora Promo 代碼 | June 2026 (**Wired**)
+- LG Promo Codes and Coupons for June 2026 (**Wired**)
+- Columbia Promo Codes: 15% Off | June 2026 (**Wired**)
+- 30% Off Canon Promo Codes | June 2026 (**Wired**)
+- 20% Off Brooks Promo 代碼 | June 2026 (**Wired**)
+- T-行動 Promo Codes: 25% Off | June 2026 (**Wired**)
+- Herman Miller Promo Codes: 40% Off June (**Wired**)
+- Altra Running Promo Codes June 2026 (**Wired**)
 - Apple’s Camera Chief Thinks AI Can Give You Superpowers (**Wired**)
 - 為什麼 You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine (**Wired**)
 - ‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service (**Wired**)
@@ -208,12 +226,12 @@ PeopleSoft是甲骨文旗下提供人力資源(HR)、財務管理、供應鏈與
 - Signal Alums Reveal ‘Encrypted Spaces,’ a 系統 for Making Private Collaboration Apps (**Wired**)
 - The 最佳 E-Readers of 2026: Kobo, Kindle (**Wired**)
 - 最佳 Portable Monitors (2026): Add a Second Screen I've Tested (**Wired**)
-- YouTube Appears to Be Making Money Off of Sanctioned Iranians’ Accounts (**Wired**)
 - Americans Are Trading Billions of Dollars on Polymarket’s Banned Offshore Platform (**Wired**)
+- YouTube Appears to Be Making Money Off of Sanctioned Iranians’ Accounts (**Wired**)
 - Fiido Air Carbon Fiber Electric Bike Review: A Light, Quiet Ebike (**Wired**)
 - Welcome to the Waymo World Cup (**Wired**)
-- Trump’s Border Crackdown Is Wreaking Havoc on the World Cup (**Wired**)
 - Cameras, Sensors, and 3D Body Scans: All the Tech Helping Eliminate Blown Calls (**Wired**)
+- Trump’s Border Crackdown Is Wreaking Havoc on the World Cup (**Wired**)
 - 如何 Watch the 2026 World Cup (**Wired**)
 - How Mexican World Cup Stadiums Achieved FIFA’s Environmental Certifications (**Wired**)
 - People Living Near xAI’s Dirty Data Centers Are Furious About the SpaceX IPO (**Wired**)
@@ -233,19 +251,6 @@ PeopleSoft是甲骨文旗下提供人力資源(HR)、財務管理、供應鏈與
 - Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude (**Wired**)
 - CISA Tells US Agencies to Fix 安全 Bugs in as Little as 3 Days Thanks to AI Threats (**Wired**)
 - Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick (**Wired**)
-- A Meta Employee Who Just Lost Their 工作 Was Detained by Immigration Agents (**Wired**)
-- The 最佳 USB-C Cables (2026): for Smartphones, Tablets, and Laptops (**Wired**)
-- Donald Trump Is Ready for Fight Night. So Are Donors (**Wired**)
-- Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US (**Wired**)
-- China Opens World’s First Wind-Powered Underwater Data Center (**Wired**)
-- Digital Notebook Throwdown (2026): Kindle Scribe, ReMarkable Paper Pure (**Wired**)
-- What’s the 最佳 Kindle of 2026? (So Far) (**Wired**)
-- 最佳 iPad Accessories (2026): Keyboards, Cases, Styli (**Wired**)
-- 最佳 Laptops For College Students (2026): MacBooks and Beyond (**Wired**)
-- Mapping Every Flock License Plate Reader Near US World Cup Stadiums (**Wired**)
-- This World Cup, You Can Watch the Game From a Ref’s Point of View (**Wired**)
-- Soccer Fans, You’re Being Watched (**Wired**)
-- 人工智慧 Sneaks Into the World Cup Thanks to Google Gemini (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
