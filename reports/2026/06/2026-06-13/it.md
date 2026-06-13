@@ -4,204 +4,209 @@
 
 ---
 
-### 1. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+### 1. [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 
-- ⭐ 920 分｜💬 558 留言｜👤 Dylan1312
+- ⭐ 97 分｜💬 22 留言｜👤 martey
 
-### 2. [開源 AI Must Win](https://opensourceaimustwin.com/?share=v2)
+### 2. [Shepherd's Dog: A Game by the Most Dangerous AI 模型](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 
-- ⭐ 47 分｜💬 12 留言｜👤 vednig
+- ⭐ 67 分｜💬 55 留言｜👤 vnglst
 
-### 3. [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+### 3. [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
 
-- ⭐ 236 分｜💬 61 留言｜👤 bestouff
+- ⭐ 420 分｜💬 110 留言｜👤 bestouff
 
-### 4. [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)
+### 4. [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 
-- ⭐ 47 分｜💬 5 留言｜👤 jesse_dot_id
+https:&#x2F;&#x2F;x.com&#x2F;ClaudeDevs&#x2F;status&#x2F;2065597942602531163
+
+- ⭐ 2146 分｜💬 1557 留言｜👤 Dylan1312
 
 ### 5. [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 
-- ⭐ 715 分｜💬 180 留言｜👤 gmays
+- ⭐ 808 分｜💬 189 留言｜👤 gmays
 
-### 6. [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
+### 6. [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
 
-- ⭐ 118 分｜💬 52 留言｜👤 redbell
+- ⭐ 207 分｜💬 182 留言｜👤 theahura
 
-### 7. [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
+### 7. [開源 AI must win](https://opensourceaimustwin.com/?share=v2)
 
-- ⭐ 151 分｜💬 66 留言｜👤 DASD
+- ⭐ 844 分｜💬 260 留言｜👤 vednig
 
-### 8. [如何 setup a local coding 代理 on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
+### 8. [Israeli firm BlackCore suspected of meddling in 新 York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
 
-- ⭐ 281 分｜💬 72 留言｜👤 kkm
+- ⭐ 58 分｜💬 12 留言｜👤 pera
 
-### 9. [Show HN: Putt.day a daily mini golf game](https://putt.day/)
+### 9. [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 
-- ⭐ 82 分｜💬 55 留言｜👤 ellg
+- ⭐ 192 分｜💬 117 留言｜👤 redbell
 
-### 10. [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
+### 10. [Show HN: Putt.day a daily mini golf game](https://putt.day/)
 
-https:&#x2F;&#x2F;socket.dev&#x2F;blog&#x2F;mini-shai-hulud-miasma-and-hades-wor...
+- ⭐ 157 分｜💬 71 留言｜👤 ellg
 
-- ⭐ 319 分｜💬 191 留言｜👤 marc__1
+### 11. [如何 setup a local coding 代理 on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
 
-### 11. [H.R. 6028 would fundamentally change the U.S. Copyright Office](https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul)
+- ⭐ 358 分｜💬 91 留言｜👤 kkm
 
-- ⭐ 137 分｜💬 40 留言｜👤 Cider9986
+### 12. [The computer science degree isn’t dead](https://spectrum.ieee.org/computer-science-degree-isnt-dead)
 
-### 12. [Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/)
+- ⭐ 77 分｜💬 59 留言｜👤 jnord
 
-- ⭐ 203 分｜💬 73 留言｜👤 iweczek
+### 13. [On CPU Physics and CPU Cycles](https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730)
 
-### 13. [Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](https://tectonic-typesetting.github.io/en-US/)
+- ⭐ 35 分｜💬 6 留言｜👤 signa11
 
-- ⭐ 7 分｜💬 1 留言｜👤 maxloh
+### 14. [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
 
-### 14. [/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds](https://github.com/DanMcInerney/architect-loop)
+- ⭐ 193 分｜💬 86 留言｜👤 DASD
 
-- ⭐ 52 分｜💬 27 留言｜👤 DanMcInerney
-
-### 15. [As a result of a US Government directive, we are suspending access to Fable 5](https://twitter.com/ClaudeDevs/status/2065597942602531163)
-
-- ⭐ 46 分｜💬 9 留言｜👤 plonkus
-
-### 16. [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
-
-- ⭐ 209 分｜💬 47 留言｜👤 sschueller
-
-### 17. [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)
-
-- ⭐ 166 分｜💬 111 留言｜👤 FergusArgyll
-
-### 18. [DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26)
-
-- ⭐ 23 分｜💬 17 留言｜👤 bookofjoe
-
-### 19. [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix)
-
-- ⭐ 71 分｜💬 5 留言｜👤 worik
-
-### 20. ["Don't You Just Upload It to ChatGPT?"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
-
-- ⭐ 328 分｜💬 273 留言｜👤 speckx
-
-### 21. [Where Did Earth Get Its Oceans? Maybe It Made Them Itself](https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/)
-
-- ⭐ 113 分｜💬 60 留言｜👤 ibobev
-
-### 22. [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](https://bitboard.work/)
+### 15. [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](https://bitboard.work/)
 
 We’re Connor and Ambar from BitBoard (https:&#x2F;&#x2F;bitboard.work). BitBoard is an agentic analytics workspace. We give you the infrastructure and visualization layer to analyze data with AI.Today
 
-- ⭐ 35 分｜💬 19 留言｜👤 arcb
+- ⭐ 43 分｜💬 21 留言｜👤 arcb
 
-### 23. [介紹 UEFI HTTP(s) Boot with QEMU/OVMF](https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/)
+### 16. [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
 
-- ⭐ 80 分｜💬 26 留言｜👤 jtlebigot
+https:&#x2F;&#x2F;socket.dev&#x2F;blog&#x2F;mini-shai-hulud-miasma-and-hades-wor...
 
-### 24. [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
+- ⭐ 378 分｜💬 217 留言｜👤 marc__1
 
-- ⭐ 1508 分｜💬 463 留言｜👤 jjfoooo4
+### 17. [H.R. 6028 would fundamentally change the U.S. Copyright Office](https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul)
 
-### 25. [SkillSpector](https://github.com/NVIDIA/SkillSpector)
+- ⭐ 208 分｜💬 64 留言｜👤 Cider9986
 
-- ⭐ 17 分｜💬 3 留言｜👤 taubek
+### 18. [Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering](https://github.com/entGriff/ezra)
 
-### 26. [A key remapping daemon for Linux](https://github.com/rvaiya/keyd)
+Setting up Kafka or such enterprise oriented 軟體 with their clusters or dedicated servers is heavy and bothering enough that most small 
+teams or indie hackers skip it entirely and making comprom
 
-- ⭐ 12 分｜💬 8 留言｜👤 joooscha
+- ⭐ 28 分｜💬 5 留言｜👤 ent1c3d
 
-### 27. [Adaptive PDFs](https://sgaud.com/texts/pdf)
+### 19. [Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/)
 
-- ⭐ 123 分｜💬 66 留言｜👤 SarthakGaud
+- ⭐ 252 分｜💬 79 留言｜👤 iweczek
 
-### 28. [Most Beautiful Will Ever Made (1936)](https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43)
+### 20. [Using the Epson Perfection V39 II Scanner on Ubuntu](https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/)
 
-- ⭐ 48 分｜💬 12 留言｜👤 cf100clunk
+- ⭐ 8 分｜💬 1 留言｜👤 joaopalmeiro
 
-### 29. [Hazel (YC W24) Is 招聘 a 全端 工程師](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
+### 21. [Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](https://tectonic-typesetting.github.io/en-US/)
 
-- ⭐ 1 分｜💬 0 留言｜👤 augustschen
+- ⭐ 50 分｜💬 14 留言｜👤 maxloh
 
-### 30. [Maxproof](https://arxiv.org/abs/2606.13473)
+### 22. [Automating Myself Out of Development](https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development)
 
-- ⭐ 128 分｜💬 12 留言｜👤 ilreb
+- ⭐ 15 分｜💬 8 留言｜👤 nisabek
+
+### 23. [The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)](https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758)
+
+- ⭐ 6 分｜💬 1 留言｜👤 ofalkaed
+
+### 24. [The Future of wasi-gfx and wasi:webgpu](https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/)
+
+- ⭐ 21 分｜💬 5 留言｜👤 mendyberger
+
+### 25. [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)
+
+- ⭐ 191 分｜💬 119 留言｜👤 FergusArgyll
+
+### 26. [Show HN: Skill for your 代理 to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill)
+
+- ⭐ 3 分｜💬 1 留言｜👤 v_ignatyev
+
+### 27. [A key remapping daemon for Linux](https://github.com/rvaiya/keyd)
+
+- ⭐ 49 分｜💬 21 留言｜👤 joooscha
+
+### 28. [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
+
+- ⭐ 325 分｜💬 67 留言｜👤 sschueller
+
+### 29. [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
+
+- ⭐ 1587 分｜💬 474 留言｜👤 jjfoooo4
+
+### 30. [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
+
+- ⭐ 14 分｜💬 23 留言｜👤 alurm
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Turn your name into a tree in an infinite procedural shanshui landscape
-- There Is Life Before Main in Rust
-- Reddit RSS feeds recent rate limiting and solution
-- The forgotten Scots who gave Kafka his voice
+- SkillSpector
+- 介紹 UEFI HTTP(s) Boot with QEMU/OVMF
+- Adaptive PDFs
+- "Don't You Just Upload It to ChatGPT?"
+- Maxproof
+- Most Beautiful Will Ever Made (1936)
 - Nobody ever gets credit for fixing problems that never happened (2001) [pdf]
-- Show HN: StackScope – I crawled over 40k indie 推出 to see what they ship
-- Encrypted Spaces: An architecture for collaborative applications
-- WASI 0.3
+- Where Did Earth Get Its Oceans? Maybe It Made Them Itself
+- Hazel (YC W24) Is 招聘 a 全端 工程師
 - Vinyl succumbs to Loudness War: more than just collateral damage (2025)
-- I Am Not a Reverse Centaur
-- Solid-state batteries are now powering EVs in the real world
-- Kimi K2.7-代碼: open-source coding 模型 with better token efficiency
-- Enhance RAW image processing with Core Image [video]
-- AI 代理 bankrupted their operator while trying to scan DN42
-- A dumpster arrived behind my university's library
-- No-One Is Going to Buy Your Videogame
+- TycoonLE: A Jax reinforcement learning environment for long-horizon planning
+- There Is Life Before Main in Rust
+- Encrypted Spaces: An architecture for collaborative applications
 - Show HN: Homebrew 6.0.0
-- Making a vintage 大型語言模型 from scratch
-- Looking Forward to Postgres 19: It's About Time
+- Show HN: StackScope – I crawled over 40k indie 推出 to see what they ship
+- AI 代理 bankrupted their operator while trying to scan DN42
+- Show HN: Turn your name into a tree in an infinite procedural shanshui landscape
 - How Terry Tao became an evangelist for AI in math
-- Removing 'um' from a recording is harder than it sounds
-- A Call to Action: Stop the FCC's KYC Regime
 - Doing nothing at work
-- You can power on a Mac remotely
+- Removing 'um' from a recording is harder than it sounds
+- Kimi K2.7-代碼: open-source coding 模型 with better token efficiency
+- WASI 0.3
+- Sam Bankman-Fried loses fraud conviction appeal
+- /architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds
+- Making a vintage 大型語言模型 from scratch
+- The forgotten Scots who gave Kafka his voice
+- A dumpster arrived behind my university's library
+- Reddit RSS feeds recent rate limiting and solution
+- Show HN: Lead Qualifier – Get leads qualified in minutes
+- I think they are lying to you [video]
 - Claude Fable is relentlessly proactive
-- Show HN: Script to bulk delete Claude chats from the 網頁 UI
 - Apple didn't revolutionize power supplies; 新 transistors did (2012)
+- A Call to Action: Stop the FCC's KYC Regime
+- Enhance RAW image processing with Core Image [video]
 - A greyscale iPhone setup that works in everyday life
-- AUR packages compromised with Infostealer and Rootkit
-- How we made hit video game Prince of Persia
-- Show HN: FablePool – pool money behind a prompt, and Fable builds it in public
-- /e/OS 4.0 is here
-- Ryanair dark UX patterns summer 2026 refresher
-- EV demand up 50% in France and Germany since Iran war
-- A jacket that harvests drinking water from the air
-- Report on an Unidentified Space Station – J.G. Ballard (1982)
-- Anthropic apologizes for invisible Claude Fable guardrails
+- Even "illegible" Mythos reasoning traces seem pretty legible
 - Ask HN: How are thinking efforts implemented?
+- Looking Forward to Postgres 19: It's About Time
+- Show HN: FablePool – pool money behind a prompt, and Fable builds it in public
+- I Am Not a Reverse Centaur
+- How we made hit video game Prince of Persia
+- Anthropic apologizes for invisible Claude Fable guardrails
+- Dave Eggers doesn't need a smartphone, the internet or your Flock camera
 - MiMo 代碼 is now 發布 and open-source
+- AUR packages compromised with Infostealer and Rootkit
 - Discovery of Cold War-era rare Eastern Bloc computers in a German hangar
-- Euro-Office, open standards, and native ODF
+- A jacket that harvests drinking water from the air
+- Solid-state batteries are now powering EVs in the real world
+- /e/OS 4.0 is here
+- Show HN: Script to bulk delete Claude chats from the 網頁 UI
 - Pokémon Go Scans Trained the Navigation Tech for Military Drones
-- Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails
-- WikiLambda the Ultimate
-- Tailwind and slop apps
-- How Comics Are Made
 - CSS: Unavoidable Bad Parts
-- The World Has Moved On
-- Show HN: Boo – Screen-style terminal multiplexer built on libghostty
 - A 新 era for 軟體 testing
-- I Think They [Anthropic] Are Lying to You [video]
-- Petition to Withdraw Canada's Bill C-22
-- A real-ephemeris 3D universe explorer in the browser
-- Appeals court upholds FTX co-founder Sam Bankman-Fried's fraud conviction
-- macOS 27 Beta breaks the ability to boot Asahi Linux
-- Claude Fable 5: mid-tier results on coding tasks
-- Reading for pleasure is sharply down among schoolkids, report shows
-- My Struggles Talking to an Old Piece of Junk (Fanuc 0M)
-- Lines of 代碼 got a better publicist
-- Solar generates more energy in US than coal for first time
-- Mmorpg World of ClaudeCraft, vibe coded with Fable 5
-- Ear 訓練 Practice
+- Report on an Unidentified Space Station – J.G. Ballard (1982)
 - Claude Fable 5
-- 軟體 is made between commits
-- 新 privacy frontier: Europe eyes crackdown on smart glasses
-- The Future of Email
+- Petition to Withdraw Canada's Bill C-22
+- Ryanair dark UX patterns summer 2026 refresher
+- Tailwind and slop apps
+- macOS 27 Beta breaks the ability to boot Asahi Linux
+- WikiLambda the Ultimate
+- Show HN: Boo – Screen-style terminal multiplexer built on libghostty
+- Claude Fable 5: mid-tier results on coding tasks
+- OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision
+- Reading for pleasure is sharply down among schoolkids, report shows
+- Lines of 代碼 got a better publicist
 - OpenAI mulls slashing prices as it competes with Anthropic for users
-- 開發者 gets Half-Life running at 30 FPS on a Nokia N95
-- Indiana Pi Bill
-- Emacs appearances in pop culture
+- Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails
+- 網頁 Browsers on Video Game Consoles
+- Solar generates more energy in US than coal for first time
+- Ear 訓練 Practice
 
 
 ---
