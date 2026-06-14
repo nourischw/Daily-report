@@ -4,208 +4,208 @@
 
 ---
 
-### 1. [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+### 1. [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
 
-- ⭐ 47 分｜💬 18 留言｜👤 subset
+- ⭐ 87 分｜💬 27 留言｜👤 tamnd
 
-### 2. [Firewood Splitting Simulator](https://screen.toys/firewood/)
+### 2. [Rio de Janeiro's "homegrown" 大型語言模型 appears to be a merge of an existing 模型](https://github.com/nex-agi/Nex-N2/issues/4)
 
-- ⭐ 75 分｜💬 19 留言｜👤 memalign
+- ⭐ 162 分｜💬 89 留言｜👤 unrvl22
 
-### 3. [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
+### 3. [Firewood Splitting Simulator](https://screen.toys/firewood/)
 
-- ⭐ 258 分｜💬 49 留言｜👤 robhati
+- ⭐ 413 分｜💬 139 留言｜👤 memalign
 
-### 4. [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
+### 4. [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779)
+
+What are you working on? Any 新 ideas that you&#x27;re thinking about?
+
+- ⭐ 62 分｜💬 232 留言｜👤 david927
+
+### 5. [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+
+- ⭐ 177 分｜💬 100 留言｜👤 subset
+
+### 6. [Caddy compatibility for zeroserve: 3x throughput and 70% lower latency](https://su3.io/posts/zeroserve-caddy-compat)
+
+- ⭐ 98 分｜💬 29 留言｜👤 losfair
+
+### 7. [Perlisisms](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+
+- ⭐ 59 分｜💬 26 留言｜👤 tosh
+
+### 8. [Formal Methods and the Future of 程式設計](https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1)
+
+- ⭐ 97 分｜💬 28 留言｜👤 eatonphil
+
+### 9. [USB Power Delivery: Plugging into the Benefits](https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits)
+
+- ⭐ 14 分｜💬 12 留言｜👤 mooreds
+
+### 10. [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
+
+- ⭐ 175 分｜💬 25 留言｜👤 tacoda
+
+### 11. [Not mine, but it's a website where you can use a segment display](https://aresluna.org/segmented-type/)
+
+- ⭐ 11 分｜💬 0 留言｜👤 unexpectedVCR
+
+### 12. [No, everyone is not using AI for everything](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
+
+- ⭐ 304 分｜💬 311 留言｜👤 yegg
+
+### 13. [FarOutCompany](https://faroutcompany.com/)
+
+- ⭐ 69 分｜💬 9 留言｜👤 bookofjoe
+
+### 14. [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
+
+- ⭐ 77 分｜💬 36 留言｜👤 hollylawly
+
+### 15. [Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU](https://github.com/alebal123bal/khadas_yolov8n_multithread)
+
+- ⭐ 41 分｜💬 7 留言｜👤 alebal123bal
+
+### 16. [I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029)
+
+TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search
+
+- ⭐ 129 分｜💬 30 留言｜👤 iliashad
+
+### 17. [Global density and biomass of arbuscular mycorrhizal fungal networks](https://www.science.org/doi/10.1126/science.adu4373)
+
+- ⭐ 31 分｜💬 2 留言｜👤 zdw
+
+### 18. [Linux 7.1](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u)
+
+- ⭐ 113 分｜💬 18 留言｜👤 berlianta
+
+### 19. [Show HN: 3D print Z reinforcement via injected loops](https://mgunlogson.github.io/magma/)
+
+Commodity FDM print strength is limited by poor Z-axis layer bonding. Parts crack along Z under stress. MAGMA tries to fix this in 軟體 that works on any FDM 3D printer.It&#x27;s a fork of OrcaSli
+
+- ⭐ 29 分｜💬 9 留言｜👤 mgunlogson
+
+### 20. [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
+
+- ⭐ 31 分｜💬 1 留言｜👤 fkozlowski
+
+### 21. [Rio de Janeiro's city government 模型 Rio3.5 beats Qwen3.7 in recent benchmarks](https://twitter.com/zenmagnets/status/2065796012820848699)
+
+- ⭐ 120 分｜💬 30 留言｜👤 lucasfcosta
+
+### 22. [Quivers: A year of linear algebra by drawing arrows](https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html)
+
+- ⭐ 20 分｜💬 3 留言｜👤 ibobev
+
+### 23. [如何 Earn a Billion Dollars](https://paulgraham.com/earn.html)
+
+- ⭐ 287 分｜💬 801 留言｜👤 kingstoned
+
+### 24. [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)
+
+- ⭐ 55 分｜💬 15 留言｜👤 msephton
+
+### 25. [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
+
+- ⭐ 316 分｜💬 63 留言｜👤 robhati
+
+### 26. [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
 
 Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753 - May 2023 (43 comments)
 
-- ⭐ 328 分｜💬 71 留言｜👤 librick
+- ⭐ 369 分｜💬 89 留言｜👤 librick
 
-### 5. [Windows 1.0 and the WinAPI, 40 Years Later](https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918)
+### 27. [A 'cold blob' in the Atlantic could be a sign of AMOC shutdown](https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation)
 
-- ⭐ 30 分｜💬 18 留言｜👤 jhack
+- ⭐ 136 分｜💬 177 留言｜👤 tambourine_man
 
-### 6. [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
+### 28. [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
 
-https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn
+- ⭐ 153 分｜💬 140 留言｜👤 FabCH
 
-- ⭐ 669 分｜💬 393 留言｜👤 aloknnikhil
+### 29. [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
 
-### 7. [500-year-old monasteries outperform at digital transformation (U. of Zurich)](https://phys.org/news/2026-05-historic-monasteries-digital-countries.html)
+- ⭐ 93 分｜💬 14 留言｜👤 Brajeshwar
 
-- ⭐ 53 分｜💬 33 留言｜👤 indynz
+### 30. [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/)
 
-### 8. [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)
-
-- ⭐ 6 分｜💬 1 留言｜👤 msephton
-
-### 9. [如何 Earn a Billion Dollars](https://paulgraham.com/earn.html)
-
-- ⭐ 61 分｜💬 121 留言｜👤 kingstoned
-
-### 10. [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
-
-- ⭐ 850 分｜💬 536 留言｜👤 nl
-
-### 11. [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
-
-- ⭐ 784 分｜💬 256 留言｜👤 ravenical
-
-### 12. [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
-
-- ⭐ 166 分｜💬 115 留言｜👤 computersuck
-
-### 13. [新 pancreatic cancer drug might open the door to much longer survival times](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
-
-https:&#x2F;&#x2F;clinicaltrials.gov&#x2F;study&#x2F;NCT06625320https:&#x2F;&#x2F;archive.ph&#x2F;d4mT2
-
-- ⭐ 400 分｜💬 139 留言｜👤 andsoitis
-
-### 14. [Tribblix: The retro Illumos distribution](http://tribblix.org/)
-
-- ⭐ 56 分｜💬 20 留言｜👤 naturalmovement
-
-### 15. [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
-
-- ⭐ 117 分｜💬 50 留言｜👤 peter_d_sherman
-
-### 16. [Pac-Man, but you're the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
-
-- ⭐ 141 分｜💬 61 留言｜👤 mindracer
-
-### 17. [Building a serial and VGA "everything console"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
-
-- ⭐ 45 分｜💬 5 留言｜👤 classichasclass
-
-### 18. [Codex for 開源](https://openai.com/form/codex-for-oss/)
-
-- ⭐ 250 分｜💬 110 留言｜👤 EvgeniyZh
-
-### 19. [Python 3.14 garbage collection rigamarole](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html)
-
-- ⭐ 65 分｜💬 49 留言｜👤 eatonphil
-
-### 20. [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/)
-
-- ⭐ 148 分｜💬 35 留言｜👤 agriyakhetarpal
-
-### 21. [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
-
-- ⭐ 305 分｜💬 161 留言｜👤 vikas-sharma
-
-### 22. [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
-
-- ⭐ 57 分｜💬 57 留言｜👤 gmays
-
-### 23. [Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
-
-- ⭐ 152 分｜💬 41 留言｜👤 ksec
-
-### 24. [LaserWriter seeds](https://inventingthefuture.ghost.io/laserwriter-seeds/)
-
-- ⭐ 33 分｜💬 2 留言｜👤 frizlab
-
-### 25. [GameBoy Workboy](https://tcrf.net/Workboy)
-
-- ⭐ 200 分｜💬 72 留言｜👤 tosh
-
-### 26. [Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink)
-
-https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;AI&#x2F;Amazon-ceos-talks-with-u-s-offic...
-
-- ⭐ 735 分｜💬 545 留言｜👤 ls612
-
-### 27. [Beagle: Git, URIs and all the dirty words](https://replicated.wiki/blog/uris.html)
-
-- ⭐ 22 分｜💬 8 留言｜👤 gritzko
-
-### 28. [RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8](https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/)
-
-- ⭐ 266 分｜💬 93 留言｜👤 iMil
-
-### 29. [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
-
-- ⭐ 104 分｜💬 24 留言｜👤 rasz
-
-### 30. [The experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/)
-
-- ⭐ 259 分｜💬 69 留言｜👤 bookofjoe
+- ⭐ 24 分｜💬 0 留言｜👤 HotGarbage
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Extinction-Level Capitalism
+- Oracle is changing free tier limits. 更新 by the 15th to avoid charges
+- Dangerous hormone-disrupting chemicals found in US breast milk samples
+- FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language
+- Don't trust large context windows
+- Tribblix: The retro Illumos distribution
+- Pac-Man, but you're the ghost
+- GLM 5.2 Is Out
+- Swiss voters reject proposal to cap Population at 10M
+- Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI
+- Historic co-determination helps monasteries navigate digital change
+- Can't Stop the Signal. Poison It
+- Python 3.14 garbage collection rigamarole
+- Conversations with a six-year-old on functional 程式設計 (2018)
+- Every Frame Perfect
+- Noise infusion banned from statistical products published by Census Bureau
+- GameBoy Workboy
+- Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models
+- Building a serial and VGA "everything console"
+- Phoenix LiveView 1.2
+- Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch
 - Appreciating Exif
-- ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real 硬體
-- Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder
-- The adder at the heart of Intel's 8087 floating-point chip
+- Making Claude a Chemist
 - Israeli firm BlackCore suspected of meddling in 新 York and Scotland votes
+- Beagle: Git, URIs and all the dirty words
+- The adder at the heart of Intel's 8087 floating-point chip
+- 新 pancreatic cancer drug might open the door to much longer survival times
+- LaserWriter seeds
+- Arch Linux AUR Hit by Another Wave of Now More Sophisticated Malware Attack
 - Police officer investigated for using AI to 'create evidence' in multiple cases
+- ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real 硬體
+- A clear fishing wire is tied around the island of Manhattan
+- Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder
+- 30 years of OpenBSD development, visualized
 - Orthodox C++ (2016)
 - AI OSS tool repo goes archived over night after raising $7.3M Seed
-- 軟體 Architecture Guide (2019)
-- Apt Encounters of the Third Kind (2021)
-- Human Routers of Machine Words
+- Starmer to announce social media curfew and chatbot ban for teenagers
 - Show HN: I am building a map of people who lived in the Roman Empire
-- Ancient genome duplications laid the foundations of complex brains
-- Show HN: Paca – Lightweight Jira alternative for human-AI collaboration
-- Reinventing Control Theory One Feature at a Time: The Fallacy of Agentic Loops
 - The state of building user interfaces in Rust
 - Automating myself out of development
-- Show HN: Bastion – isolated Linux VMs for background coding agents
-- AI coding at home without going broke
+- Show HN: Paca – Lightweight Jira alternative for human-AI collaboration
 - CRISPR tech selectively shreds cancer cells, including "undruggable" cancers
-- Half-Life able to run on ReactOS
-- The Difference Between Rest and Idleness
-- Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)
-- The Neat Little Vehicles That Run a Cemetery
+- UK set to announce social media ban for under-16s
+- Codex for 開源
 - Electric motors with no rare earths
-- The Defeat of Nuclear Deterrence
-- Weave: Merging based on language structure and not lines
 - If you are asking for human attention, demonstrate human effort
-- (Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]
+- AI coding at home without going broke
+- Swiss voters rejected 10M population cap proposal
+- Ancient genome duplications laid the foundations of complex brains
+- Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)
+- The Difference Between Rest and Idleness
+- A low-carbon computing platform from your retired phones
 - Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents
+- Apt Encounters of the Third Kind (2021)
+- 軟體 Architecture Guide (2019)
+- The Story of PHP. Documentary Teaser [video]
+- Amazon says its datacenters used about 2.5B gallons of water last year
 - A whale necropolis has been found
-- 4 things to know about the 新 sunscreen ingredient the FDA approved
-- Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages
-- C47/R47 Calculators
-- An Interview with Intel's Kira Boyko: Xeon 6's Product Director
-- Leaving Mozilla
-- Naismith's Rule
-- The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)
-- Sealed Super Mario Bros Sells for $3M Setting 新 Record for a Video Game
-- Trophic memory, deer, and a unique scientific object (2024)
-- Statement on US government directive to suspend access to Fable 5 and Mythos 5
-- There is a shadow hanging over this Fable thing
-- A dumpster arrived behind my university's library
-- The redistribution of housing wealth caused by rent control (2023) [pdf]
-- Show HN: I run a vision 模型 on every screenshot, locally, on a 4GB GPU
-- 如何 setup a local coding 代理 on macOS
-- State Attorneys General Are Investigating OpenAI
-- Does MSG Make Food Taste Better? [video]
-- Doing nothing at work
+- RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8
 - Hazel (YC W24) Is 招聘 a 全端 工程師
-- Tectonic: A modernized, complete, self-contained TeX/LaTeX engine
-- Nobody ever gets credit for fixing problems that never happened (2001) [pdf]
-- Malware developers added nuclear and biological weapons text to to their spyware
-- Quadratic funding democratizes allocation by rewarding projects w/ broad support
-- The computer science degree isn’t dead
-- Show HN: 2 Weeks of Hallucinate – The Photo Gallery
-- Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering
-- Show HN: Putt.day a daily mini golf game
-- Show HN: Homebrew 6.0.0
-- How Terry Tao became an evangelist for AI in math
-- Vincent's parents 'never say he's good enough' so he turned to a couple online
-- Shepherd's Dog: A Game by Fable
-- Vinyl succumbs to Loudness War: more than just collateral damage (2025)
-- Palantir loses legal challenge against Swiss investigative magazine
-- 開源 AI must win
-- What happens to an economy when it's too hot to work?
-- 介紹 UEFI HTTP(s) Boot with QEMU/OVMF
-- H.R. 6028 would fundamentally change the U.S. Copyright Office
-- The American World Cup Introduced Ad Breaks–and Everyone Hates It
-- Ask HN: How are thinking efforts implemented?
+- Half-Life able to run on ReactOS
+- Human Routers of Machine Words
+- Reinventing Control Theory One Feature at a Time: The Fallacy of Agentic Loops
+- Show HN: Bastion – isolated Linux VMs for background coding agents
+- Windows 1.0 and the WinAPI, 40 Years Later
+- The experience of rendering Arabic typography and its technical debt
+- The Neat Little Vehicles That Run a Cemetery
+- Weave: Merging based on language structure and not lines
+- Leaving Mozilla
+- Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages
 
 
 ---
