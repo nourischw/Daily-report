@@ -4,204 +4,206 @@
 
 ---
 
-### 1. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+### 1. [U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874)
 
-- ⭐ 263 分｜💬 141 留言｜👤 jfb
+- ⭐ 252 分｜💬 100 留言｜👤 ResearchAtPlay
 
-### 2. [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
+### 2. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
 
-- ⭐ 445 分｜💬 80 留言｜👤 razin
+- ⭐ 753 分｜💬 343 留言｜👤 jfb
 
-### 3. [Fable ban was never about a jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
+### 3. [Nobody clicks your share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
 
-- ⭐ 81 分｜💬 25 留言｜👤 amarant
+- ⭐ 41 分｜💬 10 留言｜👤 speckx
 
-### 4. [Subquadratic – Introducing SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
+### 4. [Apple is about to make Hide My Email useless](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/)
 
-- ⭐ 44 分｜💬 19 留言｜👤 EDM115
+- ⭐ 139 分｜💬 54 留言｜👤 SXX
 
-### 5. [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
+### 5. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
 
-- ⭐ 185 分｜💬 60 留言｜👤 rdmuser
+- ⭐ 677 分｜💬 1088 留言｜👤 itsmarcelg
 
-### 6. [Google Chrome's Next 更新 Will Mark the End of Popular Ad Blockers](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers)
+### 6. [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of)
 
-- ⭐ 101 分｜💬 78 留言｜👤 arnejenssen
+- ⭐ 113 分｜💬 37 留言｜👤 pseudolus
 
-### 7. [I admire Fabrice Bellard. He is almost certainly a better overall programmer](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
+### 7. [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
+
+- ⭐ 152 分｜💬 86 留言｜👤 mrshu
+
+### 8. [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
+
+- ⭐ 568 分｜💬 107 留言｜👤 razin
+
+### 9. [GPT‑NL: a sovereign language 模型 for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
+
+- ⭐ 76 分｜💬 56 留言｜👤 root-parent
+
+### 10. [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
+
+- ⭐ 151 分｜💬 42 留言｜👤 parksb
+
+### 11. [Claude: Elevated errors across many models](https://status.claude.com/incidents/xmhsglsz3h3w)
+
+- ⭐ 163 分｜💬 142 留言｜👤 forks
+
+### 12. [Frood, an Alpine Initramfs NAS](https://words.filippo.io/frood/)
+
+- ⭐ 7 分｜💬 0 留言｜👤 ethanpil
+
+### 13. [Apple's weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work)
+
+- ⭐ 372 分｜💬 115 留言｜👤 neilfrndes
+
+### 14. [ASM SHADER TOY – It's shader toy but you 代碼 in asm](https://wegfawefgawefg.github.io/asm-shader-toy/)
+
+- ⭐ 9 分｜💬 1 留言｜👤 wegfawefgawefg
+
+### 15. [I admire Fabrice Bellard. He is almost certainly a better overall programmer](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
 
 https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226
 
-- ⭐ 670 分｜💬 327 留言｜👤 apitman
+- ⭐ 814 分｜💬 381 留言｜👤 apitman
 
-### 8. [A backdoor in a LinkedIn 工作 offer](https://roman.pt/posts/linkedin-backdoor/)
+### 16. [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
 
-- ⭐ 1466 分｜💬 275 留言｜👤 lwhsiao
+- ⭐ 239 分｜💬 78 留言｜👤 rdmuser
 
-### 9. [The time the x86 emulator team found 代碼 so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+### 17. [Databricks 推出 LTAP: A Unified OLAP/OLTP Data Architecture](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical)
 
-- ⭐ 428 分｜💬 136 留言｜👤 paulmooreparks
+- ⭐ 10 分｜💬 1 留言｜👤 thehaikuza
 
-### 10. [An interview with an Apple emoji designer](https://shadycharacters.co.uk/2026/06/ollie-wagner/)
+### 18. [Making ast.walk 220x Faster](https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/)
 
-- ⭐ 53 分｜💬 26 留言｜👤 nate
+- ⭐ 61 分｜💬 13 留言｜👤 palashawas
 
-### 11. [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields)
+### 19. [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
 
-- ⭐ 113 分｜💬 20 留言｜👤 0x000xca0xfe
+- ⭐ 106 分｜💬 68 留言｜👤 dzonga
 
-### 12. [4× RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn't Behave](https://sabareesh.com/posts/blackwell-waterblock/)
+### 20. [Formal Methods and the Future of 程式設計](https://blog.janestreet.com/formal-methods-at-jane-street-index/)
 
-- ⭐ 35 分｜💬 35 留言｜👤 sabareesh
+- ⭐ 44 分｜💬 1 留言｜👤 nextos
 
-### 13. [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
+### 21. [SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
 
-- ⭐ 13 分｜💬 0 留言｜👤 parksb
+- ⭐ 88 分｜💬 42 留言｜👤 EDM115
 
-### 14. [Unicorn – The Ultimate CPU Emulator](https://www.unicorn-engine.org/)
+### 22. [Qwen-Robot Suite: A Foundation 模型 Suite for Physical World Intelligence](https://qwen.ai/blog?id=qwen-robotsuite)
 
-- ⭐ 42 分｜💬 11 留言｜👤 tosh
+- ⭐ 81 分｜💬 13 留言｜👤 ilreb
 
-### 15. [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
+### 23. [An interview with an Apple emoji designer](https://shadycharacters.co.uk/2026/06/ollie-wagner/)
 
-- ⭐ 28 分｜💬 23 留言｜👤 speckx
+- ⭐ 83 分｜💬 42 留言｜👤 nate
 
-### 16. [Feds freaked over Fable 5 after simple 'fix this 代碼' prompt, not jailbreak](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)
+### 24. ['Ghost jobs' could soon be illegal in 新 York](https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york)
 
-- ⭐ 416 分｜💬 232 留言｜👤 _tk_
+- ⭐ 109 分｜💬 54 留言｜👤 toomuchtodo
 
-### 17. [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+### 25. [Specs Augmented Reality Glasses](https://newsroom.snap.com/introducing-specs-augmented-reality-glasses)
 
-- ⭐ 523 分｜💬 313 留言｜👤 sohkamyung
+- ⭐ 41 分｜💬 25 留言｜👤 haberdasher
 
-### 18. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
+### 26. [Show HN: Sabela – A Reactive Notebook for Haskell](https://sabela.datahaskell.com/)
 
-- ⭐ 953 分｜💬 169 留言｜👤 tinywind
+Sabela is a reactive notebook for Haskell. The name is the Ndebele word for &quot;to respond.&quot; Cells respond to each other on change. Initially it was meant as a tool for working with data but it
 
-### 19. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
+- ⭐ 12 分｜💬 0 留言｜👤 mchav
 
-- ⭐ 276 分｜💬 226 留言｜👤 itsmarcelg
+### 27. [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields)
 
-### 20. [The history of butterfly swimming](https://www.swimming.org/sport/history-of-butterfly/)
+- ⭐ 147 分｜💬 22 留言｜👤 0x000xca0xfe
 
-- ⭐ 14 分｜💬 14 留言｜👤 mooreds
+### 28. [Unicorn – The Ultimate CPU Emulator](https://www.unicorn-engine.org/)
 
-### 21. [Understanding the rationale behind a rule when trying to circumvent it](https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415)
+- ⭐ 83 分｜💬 25 留言｜👤 tosh
 
-- ⭐ 84 分｜💬 27 留言｜👤 tosh
-
-### 22. [GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz](https://twitter.com/fguzmanai/status/2065832668172845209)
-
-- ⭐ 7 分｜💬 1 留言｜👤 laxmena
-
-### 23. [Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org](https://trinket.strivemath.org/)
-
-- ⭐ 88 分｜💬 11 留言｜👤 apulkit6
-
-### 24. [Google Chrome 更新 will close the door on ad blockers](https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/)
-
-- ⭐ 174 分｜💬 108 留言｜👤 speckx
-
-### 25. [I Fired Google](https://www.theartofdoingstuff.com/i-fired-google/)
-
-- ⭐ 106 分｜💬 94 留言｜👤 speckx
-
-### 26. [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
-
-- ⭐ 287 分｜💬 156 留言｜👤 speckx
-
-### 27. [Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
-
-- ⭐ 110 分｜💬 39 留言｜👤 Cider9986
-
-### 28. ['Wow, it really worked ': 70s TV show causing worldwide panic today](https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later)
-
-- ⭐ 65 分｜💬 39 留言｜👤 defrost
-
-### 29. [CJEU: Social networks are the 'publishers' of algorithmically-altered feeds](https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l)
-
-- ⭐ 15 分｜💬 3 留言｜👤 handelaar
-
-### 30. [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/)
+### 29. [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/)
 
 Hey all, I made this. The archive started with my 2015 BA thesis on Amiga ASCII art when I was curious about the history of ASCII art but found very little on text art that came before it. The histori
 
-- ⭐ 119 分｜💬 16 留言｜👤 california-og
+- ⭐ 140 分｜💬 24 留言｜👤 california-og
+
+### 30. [AI is potentially a Dunning-Kruger effect amplifier](https://twitter.com/i/status/2066825204207091926)
+
+- ⭐ 11 分｜💬 0 留言｜👤 binyu
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Cooling at the Speed of Light
+- Show HN: VoiceDraw – Talk 系統 design out loud, the diagrams draw themselves
+- Show HN: Pen and paper resource development game with an emergent world
 - I hacked into the worst e-bike and fixed it [video]
-- Peopleless economy? Not technically impossible
+- The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat
+- Leviathan Waking – On Anthropic/USG, and a 新 era in AI governance
+- Feds freaked over Fable 5 after 'fix this 代碼', not jailbreak, say researchers
+- The 網頁 We Know Is Going to Disappear
+- A backdoor in a LinkedIn 工作 offer
+- Making espresso with ultrasound
+- 為什麼 is Meta destroying its engineering organization?
+- Show HN: Azure DevOps TUI Management Style
+- After AI Takes Everything
+- Understanding the rationale behind a rule when trying to circumvent it
+- The time the x86 emulator team found 代碼 so bad they fixed it during emulation
+- Users cry foul after AMD stripped memory crypto from its consumer CPUs
+- I Love the Computer
+- The octopus architecture for AI agents
+- Nearly a million passports and photo IDs were unprotected on the public internet
+- Show HN: Ctx, save tokens by loading only the relevant tools
+- KDE Plasma 6.7 發布
+- Keep the News in the Wayback Machine
+- Flip TABLE: storing arbitrary data in iNaturalist
+- GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz
+- 為什麼 does a museum want to cancel its own Charles Dickens exhibition?
+- Reservations are open for XREAL AURA
 - Iroh 1.0
-- My Homelab AI Dev Platform
-- Qwen-Robot Suite: A Foundation 模型 Suite for Physical World Intelligence
+- Peopleless economy? Not technically impossible
+- Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org
+- The history of butterfly swimming
 - 為什麼 I email complete strangers
 - Ask HN: Has anyone replaced Claude/GPT with a local 模型 for daily coding?
-- What 工作 interviews taught me about Kubernetes
-- Humanity isn't ready for the coming intelligence explosion
-- Copper transport drug restores memory and clears toxic Alzheimer's proteins
-- Cohere's First 模型 for Developers
-- Apple's weird anti-nausea dots cured my car sickness
-- Swish – Jupyter-like computational notebook for SWI-Prolog
-- SpaceX Set to Overtake Amazon in Value as It Soars for Third Day
-- Commodore 宣布 Linux-based flip phone with 'no social media, no browser'
-- Game Engine White Papers: Commander Keen
-- How TimescaleDB compresses time-series data
-- What every coder should know about gamma (2016)
-- Claude Corps
-- Launch HN: Drafted (YC P26) – Models for residential architecture
-- Dalus (YC W25) Is 招聘 a 資深 軟體 工程師 in Germany
-- AskHN:How do you handle skill atrophy from using coding agents?
-- Show HN: Fata – Spaced repetition to fight skill rot from AI coding
-- Show HN: Veterinarian turned founder, AI lawn diagnosis
-- Making glass-to-metal seals for home­made vacuum tubes
 - SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO
-- Hans Schulz – The father of the VEF Minox lens?
-- US battery manufacturing output continues to break records
-- Boot Naked Linux
-- Hetzner Price Adjustment
-- Europe Wants Digital Sovereignty. 2,165 Polish Organisations Show the Gap
-- How memory safety CVEs differ between Rust and C/C++
+- What 工作 interviews taught me about Kubernetes
+- 10Gb/s Ethernet: switching to a Broadcom SFP+ module
+- Dalus (YC W25) Is 招聘 a 資深 軟體 工程師 in Germany
+- Lexar Wants to Offload Local AI Models to SSD Amid the RAMpocalypse
+- Banned book library in a wi-fi smart light bulb
+- TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
+- Humanity isn't ready for the coming intelligence explosion
+- Google Chrome 更新 will close the door on ad blockers
+- DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap
+- Cohere's First 模型 for Developers
+- How TimescaleDB compresses time-series data
+- Game Engine White Papers: Commander Keen
+- Claude Corps
+- What every coder should know about gamma (2016)
+- Canada Is Building a Surveillance State
+- 'Wow, it really worked ': 70s TV show causing worldwide panic today
+- Show HN: Fata – Spaced repetition to fight skill rot from AI coding
+- Launch HN: Drafted (YC P26) – Models for residential architecture
+- Swish – Jupyter-like computational notebook for SWI-Prolog
+- Making glass-to-metal seals for home­made vacuum tubes
+- Show HN: Veterinarian turned founder, AI lawn diagnosis
 - Openrouter Fusion API
+- Hetzner Price Adjustment
+- How we run Firecracker VMs inside EC2 and start browsers in <1s
+- Boot Naked Linux
+- US battery manufacturing output continues to break records
+- How memory safety CVEs differ between Rust and C/C++
+- A 1969 camera operators' strike created Upstairs Downstairs multiverse
+- Apparently the Real Reason Anthropic's Models Are Offline: A Six-Year-Old Grudge
+- Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins
+- British Colombia, Time Zones, and Postgres
+- A technical guide to building your own learning loop
 - Factoring "short-sleeve" RSA keys with polynomials
 - The 90-year-old idea behind JEPA models: Canonical Correlation Analysis
-- Adobe Alternatives: list of alternatives for Adobe 軟體
-- Show HN: SharkClean MCP
-- Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins
-- An O(x)Caml book that runs
+- Commodore 宣布 Linux-based flip phone with 'no social media, no browser'
+- My Homelab AI Dev Platform
 - Improvement in advanced Alzheimer’s disease following high-dose psilocybin
-- Fox to buy Roku
-- Commodore Releases Flip Phone
-- Dutch children are unusually happy and healthy. Because of this walking ritual?
-- Paul Graham Is Strawmanning the Left's Argument Against Billionaires
-- Your ePub Is fine
-- Vibe coding can 構建 your pipeline. It can't explain it six months later
-- Show HN: machine0 – Persistent NixOS VMs You Control from the CLI
-- Reviews have become expensive, rewrites have become cheap
-- Honeypot Design
-- Can Europe train a frontier AI 模型 on the compute it owns?
-- A Joy That Is Being Lost
-- Amazon 宣布 Multibillion-Dollar Data Center in Missouri
-- Ported my C game to WASM, here's every bug that I hit
-- KDE Plasma 6.7 發布
-- Salesforce to Acquire Fin (formerly Intercom) for $3.6B
-- The White House Is Ratcheting Up Its War Against Anthropic
-- Typst 0.15.0
-- CrankGPT
-- OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B
-- When Did White-Collar Work Start to Look So Bleak?
-- Micro Radar: a tiny open-source flight radar for your desk
-- Celebrating seven years of the Fairphone 3
-- Apple Foundation Models
-- France's spy agency replaces Palantir with local rival
-- What happened to nerds?
-- Firewood Splitting Simulator
-- LLMs Will Replace 8-Track Duplication Engineers
-- There Is(Ǝ) – Such That (∋)
-- Conquering Recursion (2019)
-- SpaceX to buy Cursor for $60B (WSJ)
 
 
 ---
