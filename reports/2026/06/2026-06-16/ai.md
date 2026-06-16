@@ -4,186 +4,186 @@
 
 ---
 
-### 1. [網路釣魚即服務平臺SniperDz遭瓦解，主要開發者與管理員在阿爾及利亞落網](https://www.ithome.com.tw/news/176641)
+### 1. [新加坡啟用新AI超級電腦Aspire 2B，搭載逾1,500顆H200打造115PF總算力](https://www.ithome.com.tw/news/176667)
+
+新加坡國家超級電腦中心（NSCC）近期宣布新一代國家級超級電腦Aspire 2B正式投入運作，主打AI運算與大型模型訓練能力，其整體效能約為前一代系統提升數倍。
+Aspire 2B採用超過1,500顆的NVIDIA H200 GPU，其峰值總運算力可達約115 PF，將投入當地的人工智慧、氣候模擬與科學研究等國家級應用。
+Aspire 2B在設計上明顯從過去以科學模擬為主的高效能運算（HPC），轉向以AI為核心的混合工作負載架構，包括大型語言模型（大型語言模型）訓練與推論、氣候與環境模擬、量子運算與跨領域科學研究、政府與研究機構AI應用。
+
+- 📰 **iThome 科技**
+
+### 2. [冒充官員鎖定CEO！波蘭政府警告大型企業當心社交工程威脅](https://www.ithome.com.tw/news/176662)
+
+波蘭數位事務部於6月12日發布警訊，引述該國網路安全全權代表揭露的調查指出，近期出現偽冒當地政府官員的社交工程活動。駭客試圖藉此與大型企業執行長取得聯繫，最終目的可能在於竊取敏感資料、植入惡意軟體或詐取資金。
+
+- 📰 **iThome 科技**
+
+### 3. [1Password推執行時憑證派發機制，減少工作負載長期持有權杖](https://www.ithome.com.tw/news/176664)
+
+1Password發表1Password Credential Broker私有測試版，把憑證管理從人員使用情境延伸到機器工作負載。該服務首波支援GitHub Actions，讓自動建置、測試與部署流程在執行時，依照身分與政策取得所需憑證，減少長期權杖留在環境變數、設定檔或自動化流程中的情況。1Password預告，今年稍晚Credential Broker將延伸到AI代理憑證管理。
+
+- 📰 **iThome 科技**
+
+### 4. [Jenkins修補重大遠端執行程式碼漏洞，攻擊者已開始利用漏洞試圖入侵企業CI/CD環境](https://www.ithome.com.tw/news/176663)
+
+資安業者Defused Cyber於6月15日警告，開源自動化CI/CD平臺Jenkins的遠端執行程式碼漏洞CVE-2026-53435，已遭攻擊者實際利用，可能影響企業CI/CD建置流程的安全性���用戶應儘速升級至已修補的2.568版與LTS 2.555.3版。
+
+- 📰 **iThome 科技**
+
+### 5. [Apple以Swift改寫TrueType微調直譯器，降低記憶體安全風險且較C語言版快13%](https://www.ithome.com.tw/news/176661)
+
+Apple公開一項以Swift改寫TrueType字型微調直譯器的實務案例，並釋出相關原始碼作為參考實作。Apple資安團隊說明，該改寫實作已在2025年秋季版Apple平臺採用，目標是降低字型解析過程中的記憶體安全風險，維持與原C版本一致的字型顯示結果。官方說明，該實作是已用於生產環境的程式碼，開源目的是供外界參考的實作範例，並非一個持續維護的專案。
+
+- 📰 **iThome 科技**
+
+### 6. [美國政府要求Anthropic停止對外國用戶提供Claude Fable 5，原因是傳出有人能成功越獄](https://www.ithome.com.tw/news/176653)
+
+上週Anthropic正式發表Claude Fable 5與Mythos 5，並在短短3天表示因���國政府禁令被迫宣布停用，研判當局得知能夠對Fable 5進行越獄的方法而祭出禁令，強調政府掌握的應該是狹義且非通用的越獄手段，並認為這是誤會。有科技新聞網站指出，傳出至少有兩組研究團隊已能成功越獄。
+
+- 📰 **iThome 科技**
+
+### 7. [【資安日報】6月16日，上百名資安專家連署反對Claude Fable禁令](https://www.ithome.com.tw/news/176657)
+
+上百名資安專家連署反對Anthropic Claude Fable與Mythos禁令
+
+- 📰 **iThome 科技**
+
+### 8. [UpdraftPlus WordPress外掛程式漏洞攻擊活動升溫，Wordfence單日攔截逾7萬次攻擊嘗試](https://www.ithome.com.tw/news/176660)
+
+資安業者Wordfence近日警告，6月10日揭露的WordPress網站備份外掛程式UpdraftPlus漏洞CVE-2026-10795，已出現明顯的攻擊活動升溫跡象。
+
+- 📰 **iThome 科技**
+
+### 9. [MagicAd廣告木馬藏身小米、三星官方商店App](https://www.ithome.com.tw/news/176659)
+
+資安業者Doctor 網頁近日揭露Android廣告木馬Android.MagicAd.1，發現其藏身於超過50款遊戲及工具程式中，並透過小米GetApps與三星Galaxy Store等官方應用商店散布。
+
+- 📰 **iThome 科技**
+
+### 10. [2026年CVE數量恐破6.6萬個，FIRST國際資安應變組織提四項應對建議](https://www.ithome.com.tw/news/176652)
+
+每年CVE數量創新高已非新鮮事，但增幅更是各界觀察的重點。FIRST國際資安應變組織於6月15日舉行第38屆年會，同時發布「2026年年中漏洞預測報告」，當中指出今年登記在案的CVE漏洞數量將呈現史無前例的激增。根據FIRST最新公布資料顯示，2026年1至4月的實際披露量已較原先預估多出約6,420個漏洞，比例高出46.3%，這使得全年總量從2月份預估的59,427個，現在上修至約66,000個。
+
+- 📰 **iThome 科技**
+
+### 11. [Awesome Motive旗下外掛遭供應鏈攻擊，120萬個WordPress網站受影響](https://www.ithome.com.tw/news/176656)
+
+資安業者Sansec上周六（6/13）揭露，Awesome Motive旗下OptinMonster、TrustPulse及PushEngage的JavaScript檔案遭駭客植入惡意程式，導致使用相關外掛的WordPress網站面臨後門植入風險，影響規模超過120萬個網站。
+
+- 📰 **iThome 科技**
+
+### 12. [Salesforce買下AI客服平臺Fin](https://www.ithome.com.tw/news/176655)
+
+Salesforce周一（6/15）宣布，將以約36億美元收購AI客服平臺Fin，以強化旗下Agentforce代理人產品布局。
+
+- 📰 **iThome 科技**
+
+### 13. [300萬個WordPress網站暴露於UpdraftPlus外掛程式漏洞風險，可能造成未經驗證的攻擊者以管理員身分控制網站](https://www.ithome.com.tw/news/176654)
+
+資安業者Wordfence於6月10日揭露，安裝數量超過300萬臺系統的WordPress網站備份外掛程式UpdraftPlus，存在繞過身分驗證漏洞CVE-2026-10795，CVSS嚴重性評分達8.1分，可能導致未經驗證的攻擊者以管理員身分控制網站，UpdraftPlus已於免費版的1.26.5版，與Premium付費版的2.26.5版完成修
+
+- 📰 **iThome 科技**
+
+### 14. [90天完成AI治理起手式，Check Point資安長教你用5個步驟搞定](https://www.ithome.com.tw/news/176644)
+
+隨著企業導入AI速度越來越快，開始將更多工作搭配或交由AI處理，責任歸屬的認定可能出現混亂，換言之，一旦發生意外狀況，可能大家並不清楚相關責任該由誰承擔，因為這牽涉到企業AI治理的缺失，Check Point亞太及日本區資安長 Jayant Dave最近來臺介紹一套能快速理解與實施的框架，這是他參考NIST與ISO兩大標準組織的相關框架，以及雲端控制指標（AI 模型大多部署於雲端環境），用商業語言加以簡化而成，區分為5個步驟、3個實施階段，而且能在90天完成。
+
+- 📰 **iThome 科技**
+
+### 15. [中國駭客組織UNC6508鎖定美國醫療與國防研究機構竊取機密](https://www.ithome.com.tw/news/176648)
+
+Google威脅情報團隊（GTIG）揭露由新興中國駭客組織UNC6508發起的大規模網路間諜行動，鎖定北美學術、醫療與軍事研究社群的機構，在長達逾一年的潛伏期間，攻擊者入侵對外開放的網路應用程式、部署客製化惡意軟體、滲透進敏感內部系統，並濫用企業管理工具進行隱密的資料外洩。GTIG與Mandiant Consulting聯手。摧毀惡意基礎設施，並通知受害機構及提供協助。
+
+- 📰 **iThome 科技**
+
+### 16. [Palo Alto Networks警告VPN高風險漏洞遭積極利用](https://www.ithome.com.tw/news/176647)
+
+Palo Alto Networks日前發出安全公告，警告PAN-OS漏洞CVE-2026-0257在先前出現少量利用嘗試後，如今已遭攻擊者積極利用。Palo Alto安全監控中心Unit 42觀測到一個身分未明的攻擊組織濫用該漏洞，以存取其VPN系統GlobalProtect。
+
+- 📰 **iThome 科技**
+
+### 17. [OpenRouter推出Fusion，以多模型協作提升AI研究能力](https://www.ithome.com.tw/news/176646)
+
+AI模型路由平臺OpenRouter上周四（6/12）推出Fusion功能，可同時呼叫多個AI模型回答同一問題，再由另一模型整合成最終答案，並宣稱Fusion可在深度研究任務中產生比單一模型更完整的答案。
+
+- 📰 **iThome 科技**
+
+### 18. [LiteSpeed修補cPanel外掛程式已遭利用的權限提升重大漏洞，若未更新可能導致攻擊者取得底層共享主機Root權限](https://www.ithome.com.tw/news/176645)
+
+美國網路安全與基礎設施安全局（CISA）於6月15日公告，將網站伺服器平臺LiteSpeed的cPanel外掛程式漏洞CVE-2026-54420，加入已遭利用的漏洞列表（KEV），限期聯邦機構完成修補。
+
+- 📰 **iThome 科技**
+
+### 19. [伊朗駭客Handala傳出入侵加州水務公司，洩露GPS基礎設施憑證、客戶個資](https://www.ithome.com.tw/news/176643)
+
+美伊戰爭持續進行，伊朗駭客也傳出試圖對美國的關鍵基礎設施下手，藉此進行報復。
+
+- 📰 **iThome 科技**
+
+### 20. [HPE推VM Essentials新方案，鎖定評估更換虛擬化平臺的企業客戶](https://www.ithome.com.tw/news/176642)
+
+在本週舉行的年度用戶大會期間，HPE宣布新的虛擬化平臺遷移方案，鎖定正在評估更換既有虛擬化平臺的企業客戶。
+
+- 📰 **iThome 科技**
+
+### 21. [ENISA歐盟網路演習邁入第八屆，2026聚焦鐵路與海運領域](https://www.ithome.com.tw/news/176636)
+
+歐盟網路安全局（ENISA）於6月10日至11日展開兩年一度的大型網路安全演習「Cyber Europe 2026」。此次演習為第八屆，核心目標為實測歐洲各國面對大規模跨境網路攻擊的集體應變能力、協作機制，以及關鍵基礎設施的復原韌性。
+
+- 📰 **iThome 科技**
+
+### 22. [Threads大規模誤封事件突顯社群平臺年齡驗證挑戰，Meta坦承技術錯誤急修復](https://www.ithome.com.tw/news/176640)
+
+Meta旗下社群平臺Threads與Instagram在周日到周一之間無預警爆發大規模帳號停權事件，許多臺灣使用者突然收到系統通知，指帳號因「未滿13歲」而遭到停用，造成用戶的不便。受影響對象橫跨政治人物、媒體機構、網紅與一般用戶，包括多位具有高知名度的公眾人物帳號一度無法正常使用。Meta事後坦承，這起事件是因年齡判定機制的技術錯誤，導致部分帳號被誤判為未滿13歲，正著手修復系統，目前一部分用戶的帳號已恢復。
+這次事件之所以受到高度關注，不只是因為影響範圍廣泛，更因為遭停權的帳號多為已公開經營多年的媒體或公眾人物帳號，使外界質疑平臺自動化審查與身分驗證機制的可靠性。
+
+- 📰 **iThome 科技**
+
+### 23. [網路釣魚即服務平臺SniperDz遭瓦解，主要開發者與管理員在阿爾及利亞落網](https://www.ithome.com.tw/news/176641)
 
 資安調查與威脅情報業者Group-IB於6月11日揭露，他們協助國際刑警組織（INTERPOL）與阿爾及利亞警方，瓦解運作近10年的網路釣魚即服務（PhaaS）平臺SniperDz。
 
 - 📰 **iThome 科技**
 
-### 2. [資安專家聯署反對Anthropic Claude Fable/Mythos禁令](https://www.ithome.com.tw/news/176639)
+### 24. [資安專家連署反對Anthropic Claude Fable/Mythos禁令](https://www.ithome.com.tw/news/176639)
 
-在美國政府下達禁止外國人使用Anthropic Claude Fable/Mythos模型的命令後，上百名資安專家昨（6/15）日聯署發表公開信，說明AI對資安的重要性，要求政府官員解除禁令。
-
-- 📰 **iThome 科技**
-
-### 3. [英國也要禁止16歲以下使用社交媒體，盼讓孩子重拾童年](https://www.ithome.com.tw/news/176638)
-
-英國政府周一（6/15）宣布，將禁止16歲以下兒童使用社交媒體，並針對直播、陌生人聯繫及AI戀愛聊天機器人等功能祭出額外限制。政府表示，此舉獲得9���家長支持，預計於今年底前提交國會審議，最快2027年春季上路，希望減少兒童沉迷網路的時間，讓孩子找回童年。
+在美國政府下達禁止外國人使用Anthropic Claude Fable/Mythos模型的命令後，上百名資安專家昨（6/15）日連署發表公開信，說明AI對資安的重要性，要求政府官員解除禁令。
 
 - 📰 **iThome 科技**
 
-### 4. [CISA將思科SD-WAN系統任意檔案寫入漏洞加入KEV](https://www.ithome.com.tw/news/176635)
+### 25. [英國也要禁止16歲以下使用社��媒體，盼讓孩子重拾童年](https://www.ithome.com.tw/news/176638)
+
+英國政府周一（6/15）宣布，將禁止16歲以下兒童使用社交媒體，並針對直播、陌生人聯繫及AI戀愛聊天機器人等功能祭出額外限制。政府表示，此舉獲得9成家長支持，預計於今年底前提交國會審議，最快2027年春季上路，希望減少兒童沉迷網路的時間，讓孩子找回童年。
+
+- 📰 **iThome 科技**
+
+### 26. [CISA將思科SD-WAN系統任意檔案寫入漏洞加入KEV](https://www.ithome.com.tw/news/176635)
 
 思科於6月15日揭露Catalyst SD-WAN 經理（原SD-WAN vManage）任意檔案寫入漏洞CVE-2026-20262，同一天美國網路安全與基礎設施安全局（CISA）表示，他們已掌握漏洞遭到積極利用的證據，將其加入已遭利用的漏洞列表（KEV），要求聯邦機構&amp;lt;
 
 - 📰 **iThome 科技**
 
-### 5. [Linux基金會成立由Databricks貢獻的OpenSharing專案，推動AI資產與資料交換標準化](https://www.ithome.com.tw/news/176634)
+### 27. [Linux基金會成立由Databricks貢獻的OpenSharing專���，推動AI資產與資料交換標準化](https://www.ithome.com.tw/news/176634)
 
 Linux基金會（The Linux Foundation）於6月10日宣布成立OpenSharing Project，這項專案源自資料與AI平臺業者Databricks的貢獻，是一個強調開放與廠商中立（vendor-neutral）的交換協定，用於建立跨雲端、跨資料平臺的共通交換規範，讓企業能安全分享資料、AI模型與代理技能（代理 Skills）等資產。
 
 - 📰 **iThome 科技**
 
-### 6. [AWS推出FinOps 代理公開預覽版，協助企業追查雲端成本異常](https://www.ithome.com.tw/news/176633)
+### 28. [AWS推出FinOps 代理公開預覽版，協助企業追查雲端成本異常](https://www.ithome.com.tw/news/176633)
 
 雲端服務業者AWS於6月9日宣布推出雲端成本管理工具AWS FinOps 代理公開預覽版，定位為代理式AI解決方案，可協助企業追查雲端成本異常、找出可能原因，並讓工程師透過自然語言查詢AWS成本與用量資料。
 
 - 📰 **iThome 科技**
 
-### 7. [思科修補SD-WAN系統已遭利用的漏洞](https://www.ithome.com.tw/news/176632)
+### 29. [思科修補SD-WAN系統已遭利用的漏洞](https://www.ithome.com.tw/news/176632)
 
-6月15日思科發布資安公告，指出旗下的Catalyst SD-WAN 經理（原SD-WAN vManage）存在任意檔案寫入漏洞CVE-2026-20262，通過身分驗證的攻擊者可遠端在檔案系統建立新的檔案，甚至能覆寫已經存在��任何檔案，CVSS風險評為6.5分，影響內部建置、雲端，以及政府機關專用版本。值得留意的是，思科已掌握漏洞遭到少量利用，再加上沒有其他緩解措施，呼籲用戶儘速套用新版軟體因應。
+6月15日思科發布資安公告，指出旗下的Catalyst SD-WAN 經理（原SD-WAN vManage）存在任意檔案寫入漏洞CVE-2026-20262，通過身分驗證的攻擊者可遠端在檔案系統建立新的檔案，甚至能覆寫已經存在的任何檔案，CVSS風險評為6.5分，影響內部建置、雲端，以及政府機關專用版本。值得留意的是，思科已掌握漏洞遭到少量利用，再加上沒有其他緩解措施，呼籲用戶儘速套用新版軟體因應。
 
 - 📰 **iThome 科技**
 
-### 8. [系統介面WASI 0.3改用元件模型非同步機制，改善Wasm跨元件呼叫與串流處理](https://www.ithome.com.tw/news/176615)
+### 30. [系統介面WASI 0.3改用元件模型非同步機制，改善Wasm跨元件呼叫與串流處理](https://www.ithome.com.tw/news/176615)
 
 WASI（WebAssembly 系統 Interface）小組通過WASI 0.3.0，這一版正式讓WASI改用WebAssembly元件模型的非同步原語，規格也進入穩定狀態。該版本讓WebAssembly元件在瀏覽器外執行時，不只可以存取系統資源，也能用更一致的方式處理網路、串流資料與跨元件呼叫。
-
-- 📰 **iThome 科技**
-
-### 9. [NightSpire勒索軟體濫用合法管理工具發動攻擊，已入侵包括臺灣在內33個國家](https://www.ithome.com.tw/news/176627)
-
-勒索軟體NightSpire自2025年初被發現以來，短短幾個月內就入侵包括臺灣在內的33個國家，已有至少64家組織與企業受害，涵蓋醫療、政府、金融、製造與IT服務等行業。資安業者Picus近日分析這款勒索軟體的攻擊手法，指出NightSpire的特色是結合多種合法工具，使惡意行為能融入正常系統活動中，從而達到迴避偵測與竊取資料的目的。
-
-- 📰 **iThome 科技**
-
-### 10. [資安署開辦「資安專家會客室」，中小企業可免費申請預約](https://www.ithome.com.tw/news/176613)
-
-面對嚴峻的全球網路威脅，多國政府均意識到全面防護的重要性。在推動關鍵基礎設施與上市櫃公司的資安強化之餘，協助中小企業的資安防護力，也成為各國政策推動的戰略核心。數位發展部資通安全署（簡稱資安署）近年祭出多項針對中小企業的資安輔導措施，如今更於6月11日起進一步開辦「資安專家會客室」服務，期盼持續增加協助管道，有意加強防範卻無處著手的企業人員，可藉此與資安領域專家進行免費的一對一諮商。
-
-- 📰 **iThome 科技**
-
-### 11. [瘋世足除了防範假門票，也要防範假FIFA與贊助商徵才的網釣活動](https://www.ithome.com.tw/news/176605)
-
-2026年世界盃足球賽（FIFA World Cup）開打，針對賽事的網路釣魚威脅也隨之升溫。
-
-- 📰 **iThome 科技**
-
-### 12. [資安不再是IT部門的事，供應鏈韌性與AI治理成企業存續的核心命題](https://www.ithome.com.tw/news/176614)
-
-當全球貿易戰方酣、地緣政治衝突持續重塑供應鏈版圖，有一個問題正悄悄從資訊部門的技術備忘錄，爬升到董事會的戰略議程首位：企業的網路安全能力，究竟是不是決定能否進入國際市場的門檻條件？
-資誠智能風險管理諮詢公司董事長暨資誠企業管理顧問公司執行董事張晉瑞，在臺灣投資人關係協會主辦的「2026年企業全方位治理——韌性驅動力」董監事進修課程，以「網路安全與數位信任：供應鏈韌性與AI治理之戰略突圍」為題��向臺灣各產業的董事與監察人發出警示。
-張晉瑞直言，在多重危機交錯的今天，網路安全早已不再隸屬資訊部門的防護範疇，而是直接決定企業能否維持供應鏈韌性、落實AI治理的核心樞紐。
-
-- 📰 **iThome 科技**
-
-### 13. [GitHub改善Copilot程式碼審查，組織可統一控管Runner與內容排除設定](https://www.ithome.com.tw/news/176610)
-
-GitHub更新Copilot程式碼審查（代碼 review）功能，新增組織層級Runner控管、Copilot內容排除支援，並移除儲存庫自訂指示檔的字元限制。該更新讓組織管理員可更集中管理AI程式碼審查的執行環境，以及Copilot審查時可使用的儲存庫內容，也讓開發團隊能提供更完整的審查規範。
-
-- 📰 **iThome 科技**
-
-### 14. [CISA將Ivanti Sentry滿分漏洞列為已知遭利用，Ivanti稱攻擊嘗試僅見於蜜罐環境](https://www.ithome.com.tw/news/176612)
-
-美國網路安全���基礎設施安全局（CISA）於6月11日宣布，將影響Ivanti Sentry安全閘道設備的CVE-2026-10520，納入已知遭利用漏洞（KEV）清單。Ivanti針對他們早先說明尚未掌握有客戶遭攻擊者濫用這兩項漏洞的情況，後續提出補充解釋。該公司認為，CISA將其納入KEV清單的依據，在於蜜罐環境出現攻擊嘗試。
-
-- 📰 **iThome 科技**
-
-### 15. [【資安日報】6月15日，美國政府禁止外國人士使用Claude Fable](https://www.ithome.com.tw/news/176604)
-
-美政府要求封鎖他國用戶存取Claude Fable與Mythos，Anthropic全面暫停提供
-
-- 📰 **iThome 科技**
-
-### 16. [152個Chrome動態桌布擴充套件暗藏用戶行為追蹤功能，累計安裝量逾10萬次](https://www.ithome.com.tw/news/176609)
-
-資安業者Socket近日揭露暗藏追蹤功能的Chrome擴充套件家族，這些套件雖然聲明不會收集用戶資料，實際上卻在後臺收集用戶瀏覽行為，並將這些資訊提供給第三方廣告業者。
-
-- 📰 **iThome 科技**
-
-### 17. [美國司法部放行派拉蒙以1,100億美元收購WBD](https://www.ithome.com.tw/news/176608)
-
-美國司法部反壟斷部門上周五（6/12）宣布完成對派拉蒙（Paramount）收購華納兄弟探索（Warner Bros. Discovery，WBD）案的調查，認定這筆價值1,100億美元的交易不太可能損害市場競爭或消費者利益，因此決定結束調查並放行交易。
-
-- 📰 **iThome 科技**
-
-### 18. [Google控告濫用Gemini的中國詐騙集團Outsider Enterprise](https://www.ithome.com.tw/news/176606)
-
-Google周五（6/12）向紐約南區聯邦地方法院提告，指控中國網路犯罪集團Outsider Enterprise透過AI工具與釣魚工具包建立大規模詐騙基礎設施，並以詐騙簡訊竊取受害者帳號、密碼與信用卡資料。
-
-- 📰 **iThome 科技**
-
-### 19. [中國駭客組織Velvet Ant滲透關鍵基礎設施，潛伏隔離網路環境近十年](https://www.ithome.com.tw/news/176603)
-
-資安公司Sygnia在兩年前揭露中國駭客組織Velvet Ant的網路間諜活動，這些駭客曾利用F5 BIG-IP負載平衡設備建立持續存取管道，也有利用思科網路設備作業系統零時差漏洞CVE-2024-20399滲透受害組織的記錄，然而該公司發現，這些駭客也染指隔離網路環境，潛伏近十年才被發現。
-
-- 📰 **iThome 科技**
-
-### 20. [澳洲第二大製糖業者Mackay Sugar遭網路攻擊，兩糖廠營運停擺並迫使農戶暫停收割](https://www.ithome.com.tw/news/176600)
-
-澳洲第二大製糖公司Mackay Sugar近日遭遇嚴重資安事故，導致昆士蘭麥凱地區的兩座糖廠營運中斷。由於該公司生產的粗糖經常外銷至亞太多個國家的精煉廠，這起事件不僅突顯農工業供應鏈面臨網路威脅時的脆弱，後續是否影響國際市場與產業鏈，亦值得持續關注。
-
-- 📰 **iThome 科技**
-
-### 21. [遠端管理工具SimpleHelp修補重大身分驗證繞過漏洞，未更新可能導致攻擊者取得管理權限](https://www.ithome.com.tw/news/176601)
-
-遠端管理工具平臺SimpleHelp近日發布更新，修補重大身分驗證繞過漏洞CVE-2026-48558，CVSS嚴重性評分達滿分10.0，未經驗證的遠端攻擊者可利用漏洞偽造身分資訊，建立技術人員（Technician）帳號，甚至繞過多因素驗證（MFA），受影響版本包括5.5.15與更早版本，以及6.0系列預覽版本，用戶應儘速更新至已修補的5.5.16與6.0 RC2版。
-
-- 📰 **iThome 科技**
-
-### 22. [MITRE ATT&amp;amp;CK第19版刪除防禦規避戰略，拆分為隱匿與防禦削弱](https://www.ithome.com.tw/news/176594)
-
-資安界廣泛採用的攻擊手法框架MITRE ATT&amp;amp;CK，如今已更新至第19版（目前最新為19.1版）。本次新版調整有一項重大變化，是將Enterprise ATT&amp;amp;CK中的防禦規避（Defense Evasion）的戰術，進一步拆分成隱匿（Stealth）與防禦削弱（Defense Impairment）。因此，更新的Enterprise ATT&amp;amp;CK，將從原有14個戰術（Tactics）擴展為15個。
-
-- 📰 **iThome 科技**
-
-### 23. [美政府要求封鎖他國用戶存取Claude Fable與Mythos，Anthropic全面暫停提供](https://www.ithome.com.tw/news/176598)
-
-美國政府上周以國安為由，要求Anthropic封鎖其他國家用戶存取其威力最大的Claude Fable及Mythos模型。Anthropic表示，將全面暫停提供全球用戶作為回應。該公司也發聲明反對美國政府的作法。
-
-- 📰 **iThome 科技**
-
-### 24. [phpBB修補重大身分驗證繞過漏洞，攻擊者可冒充任意論壇用戶](https://www.ithome.com.tw/news/176597)
-
-開源論壇軟體phpBB近日發布更新，修補重大身分驗證繞過漏洞，攻擊者可利用這個漏洞登入包括管理者在內的任意帳號， 受影響版本涵蓋3.3.16以前的所有3.x版本，以及4.0.0-a2以前的4.x測試版本，其中3.x版已於3.3.17版修補完成，但4.x版尚未修補。
-
-- 📰 **iThome 科技**
-
-### 25. [供應鏈安全框架SLSA解析Mini Shai-Hulud事件，驗證NPM套件安全不能只看簽章](https://www.ithome.com.tw/news/176596)
-
-軟體供應鏈安全框架SLSA（Supply-chain Levels for 軟體 Artifacts）專案於5月15日發布文章，針對Mini Shai-Hulud NPM供應鏈攻擊，說明SLSA能協助驗證什麼，以及它無法單獨解決哪些問題。
-
-- 📰 **iThome 科技**
-
-### 26. [Anthropic發布原始碼漏洞掃描參考實作，示範以Claude驗證與修補漏洞](https://www.ithome.com.tw/news/176595)
-
-AI模型業者Anthropic發布程式原始碼安全實務指南，說明企業與開放原始碼的軟體專案如何運用Claude建立威脅模型、找出漏洞，並進一步驗證、分級處理與修補，同時提供開放原始碼參考實���defending-代碼-reference-
-
-- 📰 **iThome 科技**
-
-### 27. [AI開發平臺Langflow路徑遍歷漏洞已被用於實際攻擊](https://www.ithome.com.tw/news/176593)
-
-近日資安公司VulnCheck於職場社群網站LinkedIn提出警告，他們於6月8日發現有人嘗試利用CVE-2026-5027的跡象，此為大型語言模型開發工具Langflow的路徑遍歷漏洞，攻擊者有機會用來遠端執行任意程式碼，該公司看到有人在蜜罐陷阱試圖利用漏洞，並成功進行路徑遍歷，寫入看起來像是測試用的檔案。
-
-- 📰 **iThome 科技**
-
-### 28. [Arch Linux AUR爆供應鏈攻擊，孤兒套件遭接手散布惡意程式](https://www.ithome.com.tw/news/176592)
-
-在眾多Linux發行版本占有一席之地的Arch Linux，其社群套件庫AUR（Arch User Repository）傳出供應鏈攻擊事件。軟體供應鏈安全業者Sonatype於6月11日揭露，攻擊者鎖定存放在AUR的無人維護套件，在接手合法���件後修改PKGBUILD或安裝指令，使使用者在建置或安裝套件時，透過NPM下載惡意套件atomic-lockfile，進而執行Linux惡意酬載。
-
-- 📰 **iThome 科技**
-
-### 29. [九州電力送配電遺失備份裝置，1,090萬用戶資料面臨外洩風險](https://www.ithome.com.tw/news/176591)
-
-日本九州電力旗下九州電力送配電於周日（6/8）公告，用來備份部分系統資料的外接儲存裝置不見了，內含最多1,090萬用電帳戶的資料，包括姓名、供電地址、用電量及電話號碼等，但未含銀行帳戶及信用卡資訊。
-九州電力為日本九州地區主要電力公司，原本同時經營發電、售電與送配電業務。因日本電力系統改革要求發電/售電與送配電業務法的分離，九州電力於2020年4月將送配電部門分拆為全資子公司九州電力送配電，負責九州地區電網、輸配電及相關用電資料管理。
-
-- 📰 **iThome 科技**
-
-### 30. [CISA將Oracle PeopleSoft零���差漏洞列入KEV](https://www.ithome.com.tw/news/176590)
-
-上週Oracle警告企業應用系統平臺PeopleSoft PeopleTools存在重大漏洞CVE-2026-35273，呼籲用戶應立刻採取行動緩解風險，Mandiant與Google威脅情報團隊（GTIG）指出，駭客組織ShinyHunters（UNC6240）在Oracle發布公告之前就積極利用，如今美國政府也證實漏洞被用於實際攻擊的現象。
 
 - 📰 **iThome 科技**
 
@@ -191,6 +191,30 @@ AI模型業者Anthropic發布程式原始碼安全實務指南，說明企業與
 
 ### 更多 AI 新聞 (70則)
 
+- Amazfit Cheetah 2 Ultra Smartwatch Review (2026): Solid Off-Road Performer (**Wired**)
+- Streamer IShowSpeed Is Gen Z’s ESPN (**Wired**)
+- ‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI (**Wired**)
+- The Commodore Callback 8020 Is a Digital Detox Phone That Isn’t Dumb (**Wired**)
+- Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For (**Wired**)
+- Google Workspace Promo Codes: 14% Off for June (**Wired**)
+- NZXT Discount Codes: 50% Off in June 2026 (**Wired**)
+- Birdfy Discount Codes: 15% Off Sitewide (**Wired**)
+- Hungryroot Coupon Codes: 30% Off This June (**Wired**)
+- Medicube Coupon 代碼: 40% Off for June 2026 (**Wired**)
+- Booking.com Promo Codes: 20% Off | June 2026 (**Wired**)
+- Sportsman's Warehouse Promo 代碼: Save in June 2026 (**Wired**)
+- Foreo Discount Codes and Deals: Up to 50% Off (**Wired**)
+- Govee Discount Codes and Deals: 30% Off (**Wired**)
+- Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans (**Wired**)
+- Shed Rain Coupon: 15% Off (**Wired**)
+- Petlibro Offers: 60% Off in June (**Wired**)
+- Sealy Promo Codes: $100 Off (**Wired**)
+- Home Chef Promo Codes for June 2026 (**Wired**)
+- HostGator Coupon Codes: 76% Off Hosting in June 2026 (**Wired**)
+- Purple Promo Codes and Deals: Up to 30% Off (**Wired**)
+- 熱門 Dermstore Coupons: 25% Off for June 2026 (**Wired**)
+- TopResume Packages: Everything You Need to Get Hired (**Wired**)
+- DOJ Lawyers Argue xAI Is ‘Vital’ for National 安全 in NAACP Lawsuit (**Wired**)
 - Anthropic Is Still at Odds With the White House Over Claude Fable 5 (**Wired**)
 - Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’ (**Wired**)
 - The 15 最佳 Fans to Buy Before It Gets Hot Again (2026) (**Wired**)
@@ -217,30 +241,6 @@ AI模型業者Anthropic發布程式原始碼安全實務指南，說明企業與
 - A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews (**Wired**)
 - Here’s How AI Agents Can Protect EV Chargers (**Wired**)
 - Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order (**Wired**)
-- Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon (**Wired**)
-- ‘Tell Him He’s a Piece of Shit’: Meta’s 新 AI Unit Is a Total Mess (**Wired**)
-- Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere (**Wired**)
-- Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards (**Wired**)
-- Elon Musk Is the World’s First Trillionaire (**Wired**)
-- China Didn’t Make Americans Hate Data Centers (**Wired**)
-- Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture (**Wired**)
-- A White Supremacist Youth Group Helped Orchestrate the Belfast Riots (**Wired**)
-- 6 最佳 Digital Notebooks (2026): ReMarkable, Kobo, Kindle (**Wired**)
-- 4 最佳 Floodlight 安全 Cameras (2026) After Thorough Testing (**Wired**)
-- Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike (**Wired**)
-- Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg’s 新 Movie (**Wired**)
-- Sheeran Loopers Looper X Review: Create Your One-Person Tour (**Wired**)
-- Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men (**Wired**)
-- The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup (**Wired**)
-- You Probably Won’t Get Rich Off the SpaceX IPO (**Wired**)
-- SpaceX IPO Puts Elon Musk’s ‘Extreme’ Ownership to the 測試 (**Wired**)
-- Paramount+ Coupon Codes and Deals for June 2026 (**Wired**)
-- B&amp;H Photo Promo Codes and Deals This June (**Wired**)
-- Hoka Coupon Codes: 30% Off in June 2026 (**Wired**)
-- 20% Off Sephora Promo 代碼 | June 2026 (**Wired**)
-- LG Promo Codes and Coupons for June 2026 (**Wired**)
-- 30% Off Canon Promo Codes | June 2026 (**Wired**)
-- 20% Off Brooks Promo 代碼 | June 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
