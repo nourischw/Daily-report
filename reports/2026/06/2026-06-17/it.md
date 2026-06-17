@@ -4,206 +4,208 @@
 
 ---
 
-### 1. [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
+### 1. [Epic Games 宣布 Lore version control 系統](https://lore.org/)
 
-- ⭐ 266 分｜💬 112 留言｜👤 lutr
+- ⭐ 708 分｜💬 397 留言｜👤 regnerba
 
-### 2. [Epic Games 宣布 Lore version control 系統](https://lore.org/)
+### 2. [The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)
 
-- ⭐ 65 分｜💬 33 留言｜👤 regnerba
+Readable: https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;AI&#x2F;Anthropic-mythos-safety-nicholas...
 
-### 3. [GLM-5.2 is the 新 leading open weights 模型 on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
+- ⭐ 38 分｜💬 25 留言｜👤 Brajeshwar
 
-- ⭐ 444 分｜💬 240 留言｜👤 himata4113
+### 3. [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM)
 
-### 4. [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
+Hey HN! I&#x27;m Zach from Adam (https:&#x2F;&#x2F;adam.新&#x2F;). We&#x27;re building AI agents for mechanical CAD 軟體. We’ve built the company on two fundamental beliefs:- AI will be the prima
 
-- ⭐ 456 分｜💬 242 留言｜👤 thm
+- ⭐ 93 分｜💬 44 留言｜👤 zachdive
 
-### 5. [RFC 10008: The 新 HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
+### 4. [GLM-5.2 is the 新 leading open weights 模型 on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
 
-- ⭐ 143 分｜💬 72 留言｜👤 schappim
+- ⭐ 665 分｜💬 341 留言｜👤 himata4113
 
-### 6. [為什麼 stdx is not on crates.io](https://kerkour.com/stdx-cratesio)
+### 5. [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra)
 
-- ⭐ 8 分｜💬 1 留言｜👤 Keyb0ardWarri0r
+- ⭐ 100 分｜💬 51 留言｜👤 gregpr07
 
-### 7. [MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C](https://github.com/rxi/microui)
+### 6. [RFC 10008: The 新 HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
 
-- ⭐ 59 分｜💬 22 留言｜👤 peter_d_sherman
+- ⭐ 262 分｜💬 121 留言｜👤 schappim
 
-### 8. [Show HN: High-Res 神經網絡 Cellular Automata](https://cells2pixels.github.io/)
+### 7. [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
 
-神經網絡 CAs 模型 self-organizing pattern formation.Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a 神經網絡 Field.Try 3 demos: grow a pattern from a 
+- ⭐ 942 分｜💬 481 留言｜👤 thm
 
-- ⭐ 132 分｜💬 31 留言｜👤 esychology
+### 8. [US holds off blacklisting DeepSeek, more than 100 firms deemed 安全 risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
 
-### 9. [Hacker News but for Independent Blogs](https://bubbles.town/)
+- ⭐ 173 分｜💬 155 留言｜👤 giuliomagnifico
 
-- ⭐ 293 分｜💬 89 留言｜👤 headalgorithm
+### 9. [U.S. science is in chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
 
-### 10. [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
+- ⭐ 403 分｜💬 461 留言｜👤 presspot
 
-- ⭐ 33 分｜💬 4 留言｜👤 BerislavLopac
+### 10. [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
 
-### 11. [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
+- ⭐ 47 分｜💬 27 留言｜👤 speckx
 
-- ⭐ 906 分｜💬 475 留言｜👤 Cider9986
+### 11. [Want your images back? That'll be $5](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
 
-### 12. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+- ⭐ 537 分｜💬 228 留言｜👤 lutr
 
-- ⭐ 1446 分｜💬 554 留言｜👤 jfb
+### 12. [Trellis AI (YC W24)  招聘 a product lead to 構建 agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
 
-### 13. [Image Compression](https://www.makingsoftware.com/chapters/image-compression)
+- ⭐ 1 分｜💬 0 留言｜👤 macklinkachorn
 
-- ⭐ 41 分｜💬 5 留言｜👤 vinhnx
+### 13. [為什麼 thinking out loud with someone beats thinking alone](https://www.thesignalist.io/s/the-dialogue-dividend/)
 
-### 14. [Abandoned and Little-Known Airfields](https://airfields-freeman.com/)
+- ⭐ 98 分｜💬 35 留言｜👤 kodesko
 
-- ⭐ 79 分｜💬 14 留言｜👤 wizardforhire
+### 14. [MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C](https://github.com/rxi/microui)
+
+- ⭐ 140 分｜💬 42 留言｜👤 peter_d_sherman
 
 ### 15. [Show HN: Inkwash, a watercolor sketching app and explanation](https://johnowhitaker.github.io/inkwash/about)
 
 I&#x27;ve made a drawing app based on my physical sketching practice, using fluid sim and some shader tricks to mimic watercolor-style ink washes. 最佳 used on iPad or with a drawing tablet. The linke
 
-- ⭐ 26 分｜💬 9 留言｜👤 Yenrabbit
+- ⭐ 114 分｜💬 18 留言｜👤 Yenrabbit
 
-### 16. [Show HN: Capacitor Alarm Clock](https://github.com/ArcaEge/capacitor-alarm-clock)
+### 16. [TREX: An AI 代碼 reviewer that runs your 代碼](https://www.greptile.com/blog/trex-code-execution)
 
-I made an alarm clock that blows up capacitors to wake you up.There are more details on the Github repo but it&#x27;s made from an esp32-c3 as the microcontroller, with 3 capacitor slots. There are re
+- ⭐ 33 分｜💬 5 留言｜👤 dakshgupta
 
-- ⭐ 89 分｜💬 26 留言｜👤 arcaege
+### 17. [The Capitoline Wolf](https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/)
 
-### 17. [GLM 5.2 Performance Benchmarks](https://artificialanalysis.ai/models/glm-5-2)
+- ⭐ 9 分｜💬 0 留言｜👤 jruohonen
 
-- ⭐ 88 分｜💬 28 留言｜👤 theanonymousone
+### 18. [Hacker News but for independent blogs](https://bubbles.town/)
 
-### 18. [Map Clustering Is Not My Favorite](https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html)
+- ⭐ 454 分｜💬 158 留言｜👤 headalgorithm
 
-- ⭐ 79 分｜💬 30 留言｜👤 gregsadetsky
+### 19. [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
 
-### 19. [The Rise and (Potential) Fall of Letterboxd](https://www.statsignificant.com/p/the-rise-and-potential-fall-of-letterboxd)
+- ⭐ 26 分｜💬 12 留言｜👤 ilreb
 
-- ⭐ 6 分｜💬 0 留言｜👤 speckx
+### 20. [Kirkland Roundabouts](https://kirklandroundabouts.com)
 
-### 20. [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
+- ⭐ 114 分｜💬 87 留言｜👤 DenisM
 
-- ⭐ 315 分｜💬 78 留言｜👤 denysvitali
+### 21. [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
-### 21. [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
+- ⭐ 254 分｜💬 119 留言｜👤 BerislavLopac
 
-- ⭐ 497 分｜💬 214 留言｜👤 mrshu
+### 22. [Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK](https://starscope.live/feed)
 
-### 22. [Subterranean fungi networks more than 100 quadrillion km in length](https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study)
+- ⭐ 5 分｜💬 1 留言｜👤 xenophin
 
-- ⭐ 126 分｜💬 33 留言｜👤 tosh
+### 23. [Image Compression](https://www.makingsoftware.com/chapters/image-compression)
 
-### 23. [From Chesterton's fence to Chesterton's gap](https://stephantul.github.io/blog/unfence/)
+- ⭐ 111 分｜💬 14 留言｜👤 vinhnx
 
-- ⭐ 49 分｜💬 38 留言｜👤 stephantul
+### 24. [為什麼 do commercial spaces sit vacant? (2025)](https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant)
 
-### 24. [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of)
+- ⭐ 74 分｜💬 108 留言｜👤 Redoubts
 
-- ⭐ 502 分｜💬 218 留言｜👤 pseudolus
+### 25. [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3)
 
-### 25. [Has AI already killed self-help nonfiction books?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
+- ⭐ 318 分｜💬 219 留言｜👤 microtonal
 
-- ⭐ 368 分｜💬 416 留言｜👤 imakwana
+### 26. [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)
 
-### 26. [Wolfram Language and Mathematica version 15](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
+- ⭐ 176 分｜💬 138 留言｜👤 e2e4
 
-- ⭐ 198 分｜💬 105 留言｜👤 alok-g
+### 27. [Seventeen Camels and Where They Can Take You](https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/)
 
-### 27. [GPT‑NL: a sovereign language 模型 for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
+- ⭐ 17 分｜💬 7 留言｜👤 ibobev
 
-- ⭐ 239 分｜💬 272 留言｜👤 root-parent
+### 28. [Abandoned and Little-Known Airfields](https://airfields-freeman.com/)
 
-### 28. [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
+- ⭐ 133 分｜💬 38 留言｜👤 wizardforhire
 
-- ⭐ 451 分｜💬 264 留言｜👤 dzonga
+### 29. [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
 
-### 29. [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](https://brevio.pro)
+- ⭐ 118 分｜💬 113 留言｜👤 bookofjoe
 
-- ⭐ 35 分｜💬 10 留言｜👤 ruimbarreira
+### 30. [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)
 
-### 30. [Semiclassical Gravity Efficiently Solves NP-Complete Problems](https://arxiv.org/abs/2606.14806)
+Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts.Been waiting to share this for wh
 
-- ⭐ 59 分｜💬 22 留言｜👤 ascarshen
+- ⭐ 135 分｜💬 80 留言｜👤 brownrout
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- SpaceX to buy Cursor for $60B
-- The founder's playbook: Building an AI-native startup
-- Making 'food out of thin air' (2024)
+- Show HN: Deconvolution – a Rust image deconvolution and restoration crate
+- Show HN: High-Res 神經網絡 Cellular Automata
+- GLM 5.2 Performance Benchmarks
+- Windows 11 25H2 – I'm so happy to not be using this
+- Map Clustering Is Not My Favorite
+- Show HN: Capacitor Alarm Clock
+- Language Courses in the Public Domain
+- The Rise and (Potential) Fall of Letterboxd
+- Humiliating IIS servers for fun and jail time
+- Subterranean fungi networks more than 100 quadrillion km in length
+- Running local models is good now
+- GrapheneOS has been ported to Android 17
+- Bringing down my ZSH load times from ~3.1s to ~230ms
 - Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)
-- But yak shaving is fun (2019)
-- A brief tour of the PDP-11, the most influential minicomputer of all time (2022)
-- ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker
+- From Chesterton's fence to Chesterton's gap
+- Wolfram Language and Mathematica version 15
+- Open-source React UI and D-pad focus engine for Meta Ray-Ban Display
+- Agentic coding deserves more than a chat box bolted onto VS 代碼
+- SpaceX to buy Cursor for $60B
+- Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload
+- Semiclassical Gravity Efficiently Solves NP-Complete Problems
+- Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society
+- DeepSeek v4 Pro 1.6T 模型 post-trained by Huawei on 1000 Ascend 910C chips
+- Making 'food out of thin air' (2024)
+- UK's Social Media Ban: The Monumental Pretext for Total Digital Surveillance
+- Capital Factory CEO Joshua Baer killed in plane crash near Laredo, TX
 - Qwen-Robot Suite: A Foundation 模型 Suite for Physical World Intelligence
+- A brief tour of the PDP-11, the most influential minicomputer of all time (2022)
 - 10Gb/s Ethernet: switching to a Broadcom SFP+ module
-- Stop Killing Games fails to secure EU law despite 1.3M signatures
-- Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust
-- Mastodon 4.6 – Collections, profiles, and other improvements
-- A Nipkow Disk Mechanical TV Simulator
+- TIL: You can make HTTP requests without curl using Bash /dev/TCP
+- AI will lead to labor shortages, Bezos says in optimistic talk
 - Mechanical Watch (2022)
-- Lattice Triangles Are Rare
-- What I think about when I think about thinking
-- Apple's weird anti-nausea dots cured my car sickness
+- Calvin and Hobbes and the price of integrity
+- Has AI already killed self-help nonfiction books?
 - A backdoor in a LinkedIn 工作 offer
-- Is Meta destroying its engineering organization?
+- Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust
 - I hacked into the worst e-bike and fixed it [video]
+- Apple's weird anti-nausea dots cured my car sickness
+- A Nipkow Disk Mechanical TV Simulator
+- 為什麼 stdx is not on crates.io
+- GPT‑NL: a sovereign language 模型 for the Netherlands
 - I admire Fabrice Bellard. He is almost certainly a better overall programmer
-- As the 工作 Market Stutters, Simulated Work Is Surging
-- The Amphibious Villagers of Indonesia
-- Frood, an Alpine Initramfs NAS (2024)
+- Is Meta destroying its engineering organization?
+- Stop Using JWTs
+- Stop Killing Games fails to secure EU law despite 1.3M signatures
+- ChatGPT Is Down
+- Findaforager.com – The 資料庫 to Find a Forager Near You
 - The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat
-- All about the IBM 1130 Computing 系統
-- Unicorn – The Ultimate CPU Emulator
-- SubQ 1.1 Small
-- NetNewsWire Status
-- Apple is about to make Hide My Email useless
-- An interview with an Apple emoji designer
+- Al Arabiya English obtains 14-point draft of US-Iran Memorandum of Understanding
+- The Ordinary Life, and How a Good Life Might Look Boring
+- Multiple JetBrains IDE plugins caught stealing AI keys
+- Lattice Triangles Are Rare
 - Iroh 1.0
-- Chameleon Ultra: a flashdrive sized NFC toolkit
-- Minecraft: Java Edition 26.2, the first version with Vulkan 1.2
-- Making espresso with ultrasound
+- Frood, an Alpine Initramfs NAS (2024)
+- Unicorn – The Ultimate CPU Emulator
+- Poland Invests $11M in ElevenLabs to 構建 AI Tech Hub
+- Meta head of product for 'AI for work' transformation is leaving company
+- SubQ 1.1 Small
+- The Amphibious Villagers of Indonesia
 - Ask HN: Has anyone replaced Claude/GPT with a local 模型 for daily coding?
-- Making ast.walk 220x Faster
-- KDE Plasma 6.7 發布
+- Minecraft: Java Edition 26.2, the first version with Vulkan 1.2
+- But yak shaving is fun (2019)
+- Pentagon says Grok has been used to launch missiles at Iran
+- Ask HN: Are other people seeing a spike in IT problems with businesses?
+- Making espresso with ultrasound
+- An interview with an Apple emoji designer
+- All about the IBM 1130 Computing 系統
 - The time the x86 emulator team found 代碼 so bad they fixed it during emulation
-- Feds freaked over Fable 5 after 'fix this 代碼', not jailbreak, say researchers
-- Show HN: VoiceDraw – Talk 系統 design out loud, the diagrams draw themselves
-- Understanding the rationale behind a rule when trying to circumvent it
-- Correlated randomness in Slay the Spire 2
-- TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
-- Dalus (YC W25) Is 招聘 a 資深 軟體 工程師 in Germany
-- NLnet 宣布 funding for 67 more open-source projects
-- Keep the News in the Wayback Machine
-- 'Ghost jobs' could soon be illegal in 新 York
-- Show HN: Sabela – A Reactive Notebook for Haskell
-- Humanity isn't ready for the coming intelligence explosion
-- U.S. Science Is in Chaos
-- Game Engine White Papers: Commander Keen
-- How TimescaleDB compresses time-series data
-- W.H. Auden and James Schuyler in life and literature
-- Claude Corps
-- Banned book library in a wi-fi smart light bulb
-- GitHub Models is no longer available to 新 customers
-- Cohere's First 模型 for Developers
-- 2026-06-16 Robinhood Layoff Translation
-- What every coder should know about gamma (2016)
-- GLM-5.2: Built for Long-Horizon Tasks
-- Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art
-- Show HN: Fata – Spaced repetition to fight skill rot from AI coding
-- Openrouter Fusion API
-- Getting Creative with Perlin Noise Fields
-- Leak Exposes Members of Peter Thiel's Secretive 'Dialog' Society
-- US awards $500M to SandboxAQ, taking minority stake
-- Launch HN: Drafted (YC P26) – Models for residential architecture
-- Show HN: Pen and paper resource development game with an emergent world
-- Making glass-to-metal seals for home­made vacuum tubes
+- Chameleon Ultra: a flashdrive sized NFC toolkit
+- Making ast.walk 220x Faster
 
 
 ---
