@@ -4,59 +4,183 @@
 
 ---
 
-### 1. [AMD收購MEXT，強化資料中心記憶體最佳化技術](https://www.ithome.com.tw/news/176676)
+### 1. [巴西外送龍頭iFood個資外洩，業者證實120萬用戶受影響](https://www.ithome.com.tw/news/176700)
+
+外送服務普及已成常態，由於平臺掌握龐大民眾個資，一旦遭駭往往引發嚴重社會影響。近期巴西發生這類涉及民生服務的資安事件，當地龍頭業者iFood在6月4日傳出遭駭消息，該公司後續在6月10日發布資料外洩公告公開說明此事，指出其資料庫曾於2025年12月遭非法存取，導致約120萬名用戶的姓名、CPF號碼（巴西身分證號）、電話及地址外洩。
+
+- 📰 **iThome 科技**
+
+### 2. [環境部、金管會聯手協調企業永續揭露規範，範疇三免強制確信並將建立本土碳排係數](https://www.ithome.com.tw/news/176706)
+
+為減輕企業在永續揭露與碳盤查上的遵循負擔，環境部與金管會近期完成跨部會協商，環境部宣布將調和溫室氣體盤查規範、共同建置範疇三碳排放係數資料庫，並研擬企業反漂綠指引。
+這項措施為呼應歐盟近期透過永續綜合套案（EU Omnibus I）放寬與簡化企業永續揭露要求的趨勢，並希望降低企業重複盤查與查驗成本，協助企業更務實推動淨零轉型。
+在企業棘手的範疇三���Scope 3）排放揭露方面，環境部也與金管會進一步釋出彈性。
+
+- 📰 **iThome 科技**
+
+### 3. [【資安日報】6月17日，歐洲理事會驚傳遭ShinyHunters入侵](https://www.ithome.com.tw/news/176698)
+
+歐洲理事會傳資料外洩，駭客組織ShinyHunters聲稱竊得43萬份資料
+
+- 📰 **iThome 科技**
+
+### 4. [Google發布Chrome 149穩定版更新，修補33項安全問題](https://www.ithome.com.tw/news/176703)
+
+Google發布Chrome桌面版瀏覽器新版本，將Windows與Mac平臺穩定版更新至149.0.7827.155與149.0.7827.156，Linux版本更新至149.0.7827.155，此次改版共納入33項資安漏洞的修補。
+
+- 📰 **iThome 科技**
+
+### 5. [Snap發表要價2,195美元的AR眼鏡Specs](https://www.ithome.com.tw/news/176701)
+
+Snap周二（6/16）於Augmented World Expo（AWE）2026正式發表擴增實境（AR）眼鏡Specs，售價2,195美元，即日起開放預購，預計今年秋季於美國、英國及法國出貨。
+Snap成立於2011年，以主打照片與訊息限時消失的社交通訊服務Snapchat起家。除了軟體服務外，Snap近年也持續投入硬體布局，先後推出多代的Spectacles智慧眼鏡，並曾於2022年推出自拍空拍機Pixy，Specs則是該公司最新一代AR眼鏡產品。
+
+- 📰 **iThome 科技**
+
+### 6. [Google Vertex AI SDK模型上傳流程漏洞，恐遭攻擊者跨租戶執行任意程式碼](https://www.ithome.com.tw/news/176695)
+
+Palo Alto Networks旗下資安研究團隊Unit 42揭露Google 雲端 Vertex AI SDK for Python一項已修補漏洞，攻擊者可能在未取得受害者Google 雲端專案權限的情況下，利用模型上傳流程的暫存儲存設計缺陷，替換使用者原本要部署的機器學習模型，並在模型上線後執行任意程式碼。
+
+- 📰 **iThome 科技**
+
+### 7. [德國多家醫院病患資料外洩，起因於醫療帳務委外服務商Unimed遭駭，突顯第三方供應鏈攻擊風險](https://www.ithome.com.tw/news/176679)
+
+日前馬偕醫院外流舊資料遭兜售的消息引發國內關注，而近期德國更是發生大規模病患資料外洩事件，起因於醫療帳務委外服務商Unimed遭駭，導致多家大型醫院受波及。這起事件再次突顯第三方供應鏈攻擊帶來的危害。
+
+- 📰 **iThome 科技**
+
+### 8. [Fortinet沙箱平臺3個已知漏洞傳出遭到嘗試利用](https://www.ithome.com.tw/news/176694)
+
+上週資安公司Fortinet修補重大等級的作業系統指令注入漏洞CVE-2026-25089，此漏洞存在於沙箱系統FortiSandbox，源於網頁介面的start vnc功能在處理輸入的JSON指令時，未進行適當的特殊字元過濾及處理，CVSS風險評為9.1分，如今傳出有人嘗試用於攻擊的現象。
+
+- 📰 **iThome 科技**
+
+### 9. [微軟執行長Satya Nadella示警，企業過度依賴AI模型恐削弱差異化](https://www.ithome.com.tw/news/176693)
+
+隨著企業加速導入生成式AI，少數大型模型是否會集中吸納企業知識與產業價值，正成為企業科技市場的新一輪討論焦點。微軟執行長Satya Nadella在X貼文中指出，AI時代的重點不應只放在前沿模型（frontier 模型）本身，而是要建立能讓企業與產業持續累積價值的前沿生態系。這並非否定前沿模型的重要性，而是強調企業若只把AI視為外部供應商提供的通用能力，可能無法保有自身知識、流程與組織經驗所形成的差異化優勢。
+
+- 📰 **iThome 科技**
+
+### 10. [德國BSI核發首張5G核心網路組件NESAS安全證書，Mavenir率先通過驗證](https://www.ithome.com.tw/news/176685)
+
+德國聯邦資訊安全局（BSI）於6月15日宣布，核發首張針對5G核心網路組件的BSI NESAS網路設備安全保障計畫認證，此舉標誌著德國在確保5G行動通訊基礎設施安全方面邁入全新里程��。
+
+- 📰 **iThome 科技**
+
+### 11. [Anthropic暫緩Claude 代理 SDK新計費，訂閱用戶暫維持既有上限](https://www.ithome.com.tw/news/176683)
+
+Anthropic暫緩對Claude 代理 SDK導入新的按詞元（Token）用量計費安排，根據外媒Ars Technica報導，Anthropic已通知用戶，原訂自6月15日起實施的Claude 代理 SDK新計費暫不生效。
+
+- 📰 **iThome 科技**
+
+### 12. [Android 17正式登上Pixel裝置，強化多工與Gemini AI體驗](https://www.ithome.com.tw/news/176692)
+
+Google周二（6/16）正式推出Android 17。新版Android新增多工處理、安全防護及創作者工具，而Pixel Drop則進一步導入Gemini影片編輯、音樂生成及即時翻譯等AI功能，強化Pixel裝置的AI體驗。
+
+- 📰 **iThome 科技**
+
+### 13. [FIFA平臺後��漏洞能讓駭客免費播放世界盃賽事、置換影像、修改比分](https://www.ithome.com.tw/news/176691)
+
+一名研究人員發現國際足球協會（FIFA）後端平臺API漏洞，使其得以劫持足球世界盃轉播攝影機及賽事影像，或是變更賽事比分等紀錄。FIFA在接獲通報後已修補漏洞。
+名為BobDaHacker的研究人員指出，漏洞出在FIFA後臺的身分與授權機制設計錯誤，使未經授權的人員得以登入內部系統，存取賽事串流影像管理介面。
+
+- 📰 **iThome 科技**
+
+### 14. [惡意瀏覽器擴充套件竊取AI對話內容再現新案例，近9萬名用戶受影響](https://www.ithome.com.tw/news/176689)
+
+當使用者與生成式AI的互動，逐漸成為生活與工作流程不可或缺的一部分，AI對話內容也成為攻擊者覬覦的資料來源。上週我們報導過，資安公司G Data揭露部分Chrome擴充套件會監控與收集使用者與AI的對話，近日資安研究專案MalExt Sentry又揭露另一起類似案例，偽裝為廣告攔截工具的惡意瀏覽器擴充套件，會攔截與收集使用者與生成式AI服務的互動內容。
+
+- 📰 **iThome 科技**
+
+### 15. [中國駭客Earth Lusca打造惡意軟體SprySOCKS變種，於政府機關從事攻擊活動](https://www.ithome.com.tw/news/176684)
+
+一般而言，Windows作業系統是駭客主要的攻擊目標，他們會專門為該平臺打造惡意程式，後續為擴大攻擊範圍，再移植、開發Linux與macOS平臺版本，不過最近有駭客組織反其道而行，製作Linux惡意程式的Windows變種，來從事攻擊活動。
+
+- 📰 **iThome 科技**
+
+### 16. [AWS推出PQC就緒度掃描工具，檢視TLS端點抗量子準備狀態](https://www.ithome.com.tw/news/176682)
+
+為了因應量子運算即將造成大規模既有加密機制保護力不足的危機，IT產業近期密切關注後量子密碼學（Post-Quantum Cryptography，PQC）的導入與遷移議題，公有雲業者AWS在上個月宣布推出後量子密碼學就緒度掃描工具PQC Readiness Scanner，這是以AWS Config合規套件建置的解決方案。
+
+- 📰 **iThome 科技**
+
+### 17. [勒索軟體Anubis攻擊亞得里亞海港務局，索討千萬美元贖金](https://www.ithome.com.tw/news/176681)
+
+今年1月，義大利亞得里亞海港務局證實遭遇勒索軟體Anubis攻擊，當時該機關表示事故發生在去年12月，約有2%資料外流。近日有資安公司公布調查結果，指出駭客疑似針對員工從事網釣而得逞。
+
+- 📰 **iThome 科技**
+
+### 18. [都柏林大學將主導歐盟6G安全專案，開發6G原生網路威脅情資平臺](https://www.ithome.com.tw/news/176678)
+
+愛爾蘭都柏林大學（University College Dublin，UCD）在6月11日宣布，將主導歐盟Horizon Europe架構下、智慧網路與服務聯合事業（Smart Networks and Services Joint Undertaking，SNS JU）支持的SHIELD-6G專案，總經費達800萬歐元。這項專案將集結19個國際合作夥伴，目標是開發面向6G網路的AI驅��威脅情資平臺。
+
+- 📰 **iThome 科技**
+
+### 19. [Google發布ChromeOS長期支援版更新，修補17項記憶體相關重大漏洞](https://www.ithome.com.tw/news/176680)
+
+ChromeOS作業系統長期支援版LTS-144的更新版144.0.7559.255於6月13日上線，並修補40項漏洞，當中分別有17項漏洞被評為有重大風險，22項有高風險，1項有中度風險。
+
+- 📰 **iThome 科技**
+
+### 20. [開源資安平臺Wazuh修補重大漏洞，攻擊者可竄改警示並刪除日誌](https://www.ithome.com.tw/news/176677)
+
+開源XDR與SIEM平臺Wazuh修補Wazuh 經理一項重大（Critical）風險漏洞，影響wazuh-經理 5.0.0-beta1與後續推出的5.x版本，CVSS分數達滿分10.0分；Wazuh 4.x分支則不受影響。
+
+- 📰 **iThome 科技**
+
+### 21. [AMD收購MEXT，強化資料中心記憶體最佳化技術](https://www.ithome.com.tw/news/176676)
 
 晶片大廠AMD宣布收購記憶體最佳化技術業者MEXT，並規畫將其AI驅動預測式記憶體（AI-Powered Predictive Memory）技術整合至AMD資料中心產品組合。雙方未公布交易金額。
 
 
 - 📰 **iThome 科技**
 
-### 2. [SpaceX以600億美元收購AI程式設計新創Cursor](https://www.ithome.com.tw/news/176675)
+### 22. [SpaceX以600億美元收購AI程式設計新創Cursor](https://www.ithome.com.tw/news/176675)
 
 SpaceX周二（6/16）宣布，將以價值600億美元的全股票交易收購AI程式設計工具Cursor母公司Anysphere。根據SpaceX提交給美國證券交易委員會（SEC）的文件，雙方已簽署合併協議，SpaceX將透過全資子公司X67 Inc.進行合併；交易完成後，Cursor將成為SpaceX的全資子公司，預計於今年第3季完成。
 
 - 📰 **iThome 科技**
 
-### 3. [駭客宣稱駭入任天堂竊走員工及公司資訊，勒索200萬美元](https://www.ithome.com.tw/news/176673)
+### 23. [駭客宣稱駭入任天堂竊走員工及公司資訊，勒索200萬美元](https://www.ithome.com.tw/news/176673)
 
-媒體報導，日本電玩大廠任天堂（Nintendo）���似遭駭，被竊走至少包括員工電子郵件、績效等公司資料，並且被勒索200萬美元。
+媒體報導，日本電玩大廠任天堂（Nintendo）疑似遭駭，被竊走至少包括員工電子郵件、績效等公司資料，並且被勒索200萬美元。
 
 - 📰 **iThome 科技**
 
-### 4. [駭客組織ShinyHunters鎖定教育科技公司Infinite Campus，竊取13.7萬名師生個資](https://www.ithome.com.tw/news/176672)
+### 24. [駭客組織ShinyHunters鎖定教育科技公司Infinite Campus，竊取13.7萬名師生個資](https://www.ithome.com.tw/news/176672)
 
 今年3月，勒索軟體駭客ShinyHunters聲稱入侵教育科技公司Infinite Campus，從該公司使用的Salesforce平臺竊得1.2 GB的檔案，由於該公司為美國逾3,200個學區提供學生資訊系統，範圍涵蓋46個州、握有約有1,100萬名學生個資，使得這起事故在美國受到關注。但究竟有多少學生受到影響，最近出現新的發展。
 
 - 📰 **iThome 科技**
 
-### 5. [歐洲理事會傳資料外洩，駭客組織ShinyHunters聲稱竊得43萬份資料](https://www.ithome.com.tw/news/176671)
+### 25. [歐洲理事會傳資料外洩，駭客組織ShinyHunters聲稱竊得43萬份資料](https://www.ithome.com.tw/news/176671)
 
-駭客組織ShinyHunters本周宣稱駭入歐洲理事會（Council of Europe）內部系統，竊走歐洲多國人員薪資等42.9萬���檔案。
+駭客組織ShinyHunters本周宣稱駭入歐洲理��會（Council of Europe）內部系統，竊走歐洲多國人員薪資等42.9萬份檔案。
 歐洲理事會是具有國際法地位的國際組織，其宗旨為維護歐洲的人權、民主和法治，目前有46個歐洲國家參與。
-本周ShinyHunters在其資料公開網站貼文宣稱成功竊得歐洲理事會的訊息。這群駭客說他們得手了多個歐洲理事會分部的人事及薪資檔案，包括上萬名員工2011到2026年間的薪資條約40.9萬份、內部人事檔案3,700多份、1.4萬份履歷表等檔案。
+本周ShinyHunters在其資料公開網站貼文宣稱成功竊得歐洲理事會的訊息。這群駭客說他們得手了多個歐洲理事會分部的人事及薪資檔案，包括上萬名員工2011到2026年間的薪資單約40.9萬份、內部人事檔案3,700多份、1.4萬份履歷表等檔案。
 
 - 📰 **iThome 科技**
 
-### 6. [CVE漏洞數量大增，FIRST進一步說明致災風險並未隨總量而增加的理由](https://www.ithome.com.tw/news/176666)
+### 26. [CVE漏洞數量大增，FIRST進一步說明致災風險並未隨總量而增加的理由](https://www.ithome.com.tw/news/176666)
 
 FIRST國際資安應變組織發布2026年中漏洞預測報告，不僅將全年CVE漏洞預估數量上修至6.6萬個，同時提出一項重要觀察，並以「降雨與洪水」為喻指出：雖然漏洞總量（降雨）持續攀升，但真正被積極利用或具備高度威脅的漏洞（洪水），其增長速度並未同步上升。
-若僅觀察漏洞總數，上述預測結果似乎令人擔憂。但根據FIRST預測團隊的分析，若進一步套用「漏洞可利用性的分析層」（Exploitability Overlay）進行過濾，會發現實際狀況比想像的情境更受到一定程度的控制。
+若僅觀察漏洞總數，上述預測結果似乎令人擔憂。但根據FIRST預測團隊的分析，��進一步套用「漏洞可利用性的分析層」（Exploitability Overlay）進行過濾，會發現實際狀況比想像的情境更受到一定程度的控制。
 
 - 📰 **iThome 科技**
 
-### 7. [美國警告Joomla外掛JCE的滿分重大漏洞已被用於實際攻擊活動](https://www.ithome.com.tw/news/176670)
+### 27. [美國警告Joomla外掛JCE的滿分重大漏洞已被用於實際攻擊活動](https://www.ithome.com.tw/news/176670)
 
 6月16日美國網路安全與基礎設施安全局（CISA）提出警告，由軟體廠商Widget Factory開發的Joomla外掛程式Joomla Content Editor（JCE），存在重大漏洞CVE-2026-48907，CISA已掌握積極利用該弱點的攻擊跡象，因此，他們將其列入已遭利用的漏洞名單（KEV），並要求聯邦機構
 
 - 📰 **iThome 科技**
 
-### 8. [Google 雲端推資料代理新工具，讓自然語言分析深入資料庫與資料湖](https://www.ithome.com.tw/news/176669)
+### 28. [Google 雲端推資料代理新工具，讓自然語言分析深入資料庫與資料湖](https://www.ithome.com.tw/news/176669)
 
-Google 雲端擴大資料代理與自然語言分析工具，將相關能力帶進BigQuery、資料湖、雲端資料庫與BI平臺Looker，並新增多款面向資料工程、資料科學、資料庫維運和商業分析的��理工具，讓企業使用者不必撰寫查詢語法，能直接用自然語言向資料平臺提問，並在權限控管下取得分析結果。
+Google 雲端擴大資料代理與自然語言分析工具，將相關能力帶進BigQuery、資料湖、雲端資料庫與BI平臺Looker，並新增多款面向資料工程、資料科學、資料庫維運和商業分析的代理工具，讓企業使用者不必撰寫查詢語法，能直接用自然語言向資料平臺提問，並在權限控管下取得分析結果。
 
 - 📰 **iThome 科技**
 
-### 9. [新加坡啟用新AI超級電腦Aspire 2B，搭載逾1,500顆H200打造115PF總算力](https://www.ithome.com.tw/news/176667)
+### 29. [新加坡啟用新AI超級電腦Aspire 2B，搭載逾1,500顆H200打造115PF總算力](https://www.ithome.com.tw/news/176667)
 
 新加坡國家超級電腦中心（NSCC）近期宣布新一代國家級超級電腦Aspire 2B正式投入運作，主打AI運算與大型模型訓練能力，其整體效能約為前一代系統提升數倍。
 Aspire 2B採用超過1,500顆的NVIDIA H200 GPU，其峰值總運算力可達約115 PF，將投入當地的人工智慧、氣候模擬與科學研究等國家級應用。
@@ -64,130 +188,9 @@ Aspire 2B在設計上明顯從過去以科學模擬為主的高效能運算（HP
 
 - 📰 **iThome 科技**
 
-### 10. [冒充官員鎖定CEO！波蘭政府警告大型企業當心社交工程威脅](https://www.ithome.com.tw/news/176662)
+### 30. [冒充官員鎖定CEO！波蘭政府警告大型企業當心社交工程威脅](https://www.ithome.com.tw/news/176662)
 
 波蘭數位事務部於6月12日發布警訊，引述該國網路安全全權代表揭露的調查指出，近期出現偽冒當地政府官員的社交工程活動。駭客試圖藉此與大型企業執行長取得聯繫，最終目的可能在於竊取敏感資料、植入惡意軟體或詐取資金。
-
-- 📰 **iThome 科技**
-
-### 11. [1Password推執行時憑證派發機制，減少工作負載長期持有權杖](https://www.ithome.com.tw/news/176664)
-
-1Password發表1Password Credential Broker私有測試版，把憑證管理從人員使用情境延伸到機器工作負載。該服務首波支援GitHub Actions，讓自動建置、測試與部署流程在執行時，依照身分與政策取得所需憑證，減少長期權杖留在環境變數、設定檔或自動化流程中的情況。1Password預告，今年稍晚Credential Broker將延伸到AI代理憑證管理。
-
-- 📰 **iThome 科技**
-
-### 12. [Jenkins修補重大遠端執行程式碼漏洞，攻擊者已開始利用漏洞試圖入侵企業CI/CD環境](https://www.ithome.com.tw/news/176663)
-
-資安業者Defused Cyber於6月15日警告，開源自動化CI/CD平臺Jenkins的遠端執行程式碼漏洞CVE-2026-53435，已遭攻擊者實際利用，可能影響企業CI/CD建置流程的安全性，用戶應儘速升級至已修補的2.568版與LTS 2.555.3版。
-
-- 📰 **iThome 科技**
-
-### 13. [Apple以Swift改寫TrueType微調直譯器，降低記憶體安全風險且較C語言版快13%](https://www.ithome.com.tw/news/176661)
-
-Apple公開一項以Swift改寫TrueType字型微調直譯器的實務案例，並釋出相關原始碼作為參考實作。Apple資安團隊說明，該改寫實作已在2025年秋季版Apple平臺採用，目標是降低字型解析過程中的記憶體安全風險，維持與原C版本一致的字型顯示結果。官方說明，該實作是已用於生產環境的程式碼，開源目的是供外界參考的實作範例，並非一個持續維護的專案。
-
-- 📰 **iThome 科技**
-
-### 14. [美國政府要求Anthropic停止對外國用戶提供Claude Fable 5，原因是傳出有人能成功越獄](https://www.ithome.com.tw/news/176653)
-
-上週Anthropic正式發表Claude Fable 5與Mythos 5，不料3天後突然因美國政府禁令被迫宣布停用，該公司研判當局可能是因為得知存在對Fable 5進行越獄的方法而祭出禁令，他們表示，政府掌握的應該是狹義且非通用的越獄手段，並認為這是誤會。然而，有科技新聞網站指出，傳出至少有兩組研究團隊已能成功越獄。
-
-- 📰 **iThome 科技**
-
-### 15. [【資安日報】6月16日，上百名資安專家連署反對Claude Fable禁令](https://www.ithome.com.tw/news/176657)
-
-上百名資安專家連署反對Anthropic Claude Fable與Mythos禁令
-
-- 📰 **iThome 科技**
-
-### 16. [UpdraftPlus WordPress外掛程式漏洞攻擊活動升溫，Wordfence單日攔截逾7萬次攻擊嘗試](https://www.ithome.com.tw/news/176660)
-
-資安業者Wordfence近日警告，6月10日揭露的WordPress網站備份外掛程式UpdraftPlus漏洞CVE-2026-10795，已出現明顯的攻擊活動升溫跡象。
-
-- 📰 **iThome 科技**
-
-### 17. [MagicAd廣告木馬藏身小米、三星官方商店App](https://www.ithome.com.tw/news/176659)
-
-資安業者Doctor 網頁近日揭露Android廣告木馬Android.MagicAd.1，發現其藏身於超過50款遊戲及工具程式中，並透過小米GetApps與三星Galaxy Store等官方應用商店散布。
-
-- 📰 **iThome 科技**
-
-### 18. [2026年CVE數量恐破6.6萬個，FIRST國際資安應變組織提四項應對建議](https://www.ithome.com.tw/news/176652)
-
-每年CVE數量創新高已非新鮮事，但增幅更是各界觀察的重點。FIRST國際資安應變組織於6月15日舉行第38屆年會，同時發布「2026年年中漏洞預測報告」，當中指出今年登記在案的CVE漏洞數量將呈現史無前例的激增。根據FIRST最新公布資料顯示，2026年1至4月的實際披露量已較原先預估多出約6,420個漏洞，比例高出46.3%，這使得全年總量從2月份預估的59,427個，現在上修至約66,000個。
-
-- 📰 **iThome 科技**
-
-### 19. [Awesome Motive旗下外掛遭供應鏈攻擊，120萬個WordPress網站受影響](https://www.ithome.com.tw/news/176656)
-
-資安業者Sansec上周六（6/13）揭露，Awesome Motive旗下OptinMonster、TrustPulse及PushEngage的JavaScript檔案遭駭客植入惡意程式，導致使用相關外掛的WordPress網站面臨後門植入風險，影響規模超過120萬個網站。
-
-- 📰 **iThome 科技**
-
-### 20. [Salesforce買下AI客服平臺Fin](https://www.ithome.com.tw/news/176655)
-
-Salesforce周一（6/15）宣布，將以約36億美元收購AI客服平臺Fin，以強化旗下Agentforce代理人產品布局。
-
-- 📰 **iThome 科技**
-
-### 21. [300萬個WordPress網站暴露於UpdraftPlus外掛程式漏洞風險，可能造成未經驗證的攻擊者以管理員身分控制網站](https://www.ithome.com.tw/news/176654)
-
-資安業者Wordfence於6月10日揭露，安裝數量超過300萬臺系統的WordPress網站備份外掛程式UpdraftPlus，存在繞過身分驗證漏洞CVE-2026-10795，CVSS嚴重性評分達8.1分，可能導致未經驗證的攻擊者以管理員身分控制網站，UpdraftPlus已於免費版的1.26.5版，與Premium付費版的2.26.5版完成修
-
-- 📰 **iThome 科技**
-
-### 22. [90天完成AI治理起手式，Check Point資安長教你用5個步驟搞定](https://www.ithome.com.tw/news/176644)
-
-隨著企業導入AI速度越來越快，開始將更多工作搭配或交由AI處理，責任歸屬的認定可能出現混亂，換言之，一旦發生意外狀況，可能大家並不清楚相關責任該由誰承擔，因為這牽涉到企業AI治理的缺失，Check Point亞太及日本區資安長 Jayant Dave最近來臺介紹一套能快速理解與實施的框架，這是他參考NIST與ISO兩大標準組織的相關框架，以及雲端控制指標（AI 模型大多部署於雲端環境），用商業語言加以簡化而成，區分為5個步驟、3個實施階段，而且能在90天完成。
-
-- 📰 **iThome 科技**
-
-### 23. [中國駭客組織UNC6508鎖定美國醫療與國防研究機構竊取機密](https://www.ithome.com.tw/news/176648)
-
-Google威脅情報團隊（GTIG）揭露由新興中國駭客組織UNC6508發起的大規模網路間諜行動，鎖定北美學術、醫療與軍事研究社群的機構，在長達逾一年的潛伏期間，攻擊者入侵對外開放的網路應用程式、部署客製化惡意軟體、滲透進敏感內部系統，並濫用企業管理工具進行隱密的資料外洩。GTIG與Mandiant Consulting聯手。摧毀惡意基礎設施，並通知受害機構及提供協助。
-
-- 📰 **iThome 科技**
-
-### 24. [Palo Alto Networks警告VPN高風險漏洞遭積極利用](https://www.ithome.com.tw/news/176647)
-
-Palo Alto Networks日前發出安全公告，警告PAN-OS漏洞CVE-2026-0257在先前出現少量利用嘗試後，如今已遭攻擊者積極利用。Palo Alto安全監控中心Unit 42觀測到一個身分未明的攻擊組織濫用該漏洞，以存取其VPN系統GlobalProtect。
-
-- 📰 **iThome 科技**
-
-### 25. [OpenRouter推出Fusion，以多模型協作提升AI研究能力](https://www.ithome.com.tw/news/176646)
-
-AI模型路由平臺OpenRouter上周四（6/12）推出Fusion功能，可同時呼叫多個AI模型回答同一問題，再由另一模型整合成最終答案，並宣稱Fusion可在深度研究任務中產生比單一模型更完整的答案。
-
-- 📰 **iThome 科技**
-
-### 26. [LiteSpeed修補cPanel外掛程���已遭利用的權限提升重大漏洞，若未更新可能導致攻擊者取得底層共享主機Root權限](https://www.ithome.com.tw/news/176645)
-
-美國網路安全與基礎設施安全局（CISA）於6月15日公告，將網站伺服器平臺LiteSpeed的cPanel外掛程式漏洞CVE-2026-54420，加入已遭利用的漏洞列表（KEV），限期聯邦機構完成修補。
-
-- 📰 **iThome 科技**
-
-### 27. [伊朗駭客Handala傳出入侵加州水務公司，洩露GPS基礎設施憑證、客戶個資](https://www.ithome.com.tw/news/176643)
-
-美伊戰爭持續進行，伊朗駭客也傳出試圖對美國的關鍵基礎設施下手，藉此進行報復。
-
-- 📰 **iThome 科技**
-
-### 28. [HPE推VM Essentials新方案，鎖定評估更換虛擬化平臺的企業客戶](https://www.ithome.com.tw/news/176642)
-
-在本週舉行的年度用戶大會期間，HPE宣布新的虛擬化平臺遷移方案，鎖定正在評���更換既有虛擬化平臺的企業客戶。
-
-- 📰 **iThome 科技**
-
-### 29. [ENISA歐盟網路演習邁入第八屆，2026聚焦鐵路與海運領域](https://www.ithome.com.tw/news/176636)
-
-歐盟網路安全局（ENISA）於6月10日至11日展開兩年一度的大型網路安全演習「Cyber Europe 2026」。此次演習為第八屆，核心目標為實測歐洲各國面對大規模跨境網路攻擊的集體應變能力、協作機制，以及關鍵基礎設施的復原韌性。
-
-- 📰 **iThome 科技**
-
-### 30. [Threads大規模誤封事件突顯社群平臺年齡驗證挑戰，Meta坦承技術錯誤急修復](https://www.ithome.com.tw/news/176640)
-
-Meta旗下社群平臺Threads與Instagram在周日到周一之間無預警爆發大規模帳號停權事件，許多臺灣使用者突然收到系統通知，指帳號因「未滿13歲」而遭到停用，造成用戶的不便。受影響對象橫跨政治人物、媒體機構、網紅與一般用���，包括多位具有高知名度的公眾人物帳號一度無法正常使用。Meta事後坦承，這起事件是因年齡判定機制的技術錯誤，導致部分帳號被誤判為未滿13歲，正著手修復系統，目前一部分用戶的帳號已恢復。
-這次事件之所以受到高度關注，不只是因為影響範圍廣泛，更因為遭停權的帳號多為已公開經營多年的媒體或公眾人物帳號，使外界質疑平臺自動化審查與身分驗證機制的可靠性。
 
 - 📰 **iThome 科技**
 
@@ -195,6 +198,22 @@ Meta旗下社群平臺Threads與Instagram在周日到周一之間無預警爆發
 
 ### 更多 AI 新聞 (70則)
 
+- For Iran’s Athletes, There Is No Separating Sports From Politics (**Wired**)
+- Interactive. Violent. Gross. Inside Fishtank, the Unhinged Future of Reality TV (**Wired**)
+- AirDoctor Coupon Codes: 40% Off | June 2026 (**Wired**)
+- Norton Coupon Codes: Up to 58% Off (**Wired**)
+- Bose Promo 代碼: 40% Off for June 2026 (**Wired**)
+- HBO Max Promo 代碼: 50% Off | June 2026 (**Wired**)
+- 最佳 Hotels.com Coupon Codes for June 2026 (**Wired**)
+- Valvoline Coupons and Promo Codes for June 2026 (**Wired**)
+- The Motley Fool Promo 代碼: $200 Off on Stock Advisor June 2026 (**Wired**)
+- Tempo Promo Codes: Get up to 60% Off Healthy Meals (**Wired**)
+- 30% Off Tempur-Pedic Promo Codes | June 2026 (**Wired**)
+- iRobot Promo 代碼: 15% Off (**Wired**)
+- Barkbox Promo Codes and Discounts: Up to 50% Off (**Wired**)
+- Stearns and Foster Promo Codes: $300 Off in June 2026 (**Wired**)
+- Verizon Promo Codes: $200 Verizon Gift Cards | June 2026 (**Wired**)
+- Coleman Promo Codes and Deals: Up to 75% Off in June (**Wired**)
 - 最佳 Handheld Fans and Wearable Fans (2026) (**Wired**)
 - Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society (**Wired**)
 - 為什麼 the Reflecting Pool Is Full of Algae After Trump's Renovation (**Wired**)
@@ -227,22 +246,6 @@ Meta旗下社群平臺Threads與Instagram在周日到周一之間無預警爆發
 - Google Workspace Promo Codes: 14% Off for June (**Wired**)
 - NZXT Discount Codes: 50% Off in June 2026 (**Wired**)
 - Birdfy Discount Codes: 15% Off Sitewide (**Wired**)
-- Hungryroot Coupon Codes: 30% Off This June (**Wired**)
-- Medicube Coupon 代碼: 40% Off for June 2026 (**Wired**)
-- Booking.com Promo Codes: 20% Off | June 2026 (**Wired**)
-- Sportsman's Warehouse Promo 代碼: Save in June 2026 (**Wired**)
-- Foreo Discount Codes and Deals: Up to 50% Off (**Wired**)
-- Govee Discount Codes and Deals: 30% Off (**Wired**)
-- Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans (**Wired**)
-- Shed Rain Coupon: 15% Off (**Wired**)
-- Petlibro Offers: 60% Off in June (**Wired**)
-- Sealy Promo Codes: $100 Off (**Wired**)
-- Home Chef Promo Codes for June 2026 (**Wired**)
-- HostGator Coupon Codes: 76% Off Hosting in June 2026 (**Wired**)
-- Purple Promo Codes and Deals: Up to 30% Off (**Wired**)
-- 熱門 Dermstore Coupons: 25% Off for June 2026 (**Wired**)
-- TopResume Packages: Everything You Need to Get Hired (**Wired**)
-- DOJ Lawyers Argue xAI Is ‘Vital’ for National 安全 in NAACP Lawsuit (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
@@ -264,7 +267,7 @@ Meta旗下社群平臺Threads與Instagram在周日到周一之間無預警爆發
 - Most Frequently Asked Questions About  Email Marketing (**TechCrunch**)
 - 7 Free Websites Every Content Creator Needs to Know (**TechCrunch**)
 - 熱門 9 Free AI Tools That Make Your Life Easier (**TechCrunch**)
-- Exclusive eBook: How AI is becoming the next military advisor (**MIT 科技評論**)
+- Entrepreneurs in Nairobi make the case for going solar (**MIT 科技評論**)
 
 
 ---
