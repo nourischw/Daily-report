@@ -4,202 +4,204 @@
 
 ---
 
-### 1. [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+### 1. [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 
-- ⭐ 335 分｜💬 177 留言｜👤 philonoist
+- ⭐ 173 分｜💬 105 留言｜👤 danabramov
 
-### 2. [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
+### 2. [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
 
-- ⭐ 8 分｜💬 4 留言｜👤 abnry
+- ⭐ 285 分｜💬 133 留言｜👤 ck2
 
-### 3. [DuckDB Internals: 為什麼 Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
+### 3. [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
 
-- ⭐ 291 分｜💬 85 留言｜👤 marklit
+- ⭐ 221 分｜💬 91 留言｜👤 Kosturdistan
 
-### 4. [Zen and the Art of 機器學習 Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
+### 4. [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 
-- ⭐ 137 分｜💬 47 留言｜👤 jxmorris12
+- ⭐ 481 分｜💬 277 留言｜👤 philonoist
 
-### 5. [To study how chips work, MIT researchers built their own operating 系統](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+### 5. [A 新 bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
 
-- ⭐ 264 分｜💬 37 留言｜👤 speckx
+- ⭐ 98 分｜💬 45 留言｜👤 hn_acker
 
-### 6. [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
+### 6. [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 
-- ⭐ 6 分｜💬 1 留言｜👤 kioku
+- ⭐ 186 分｜💬 65 留言｜👤 birdculture
 
-### 7. [Ten years of ClickHouse in 開源](https://clickhouse.com/blog/open-source-10)
+### 7. [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929)
 
-- ⭐ 144 分｜💬 46 留言｜👤 saisrirampur
+- ⭐ 34 分｜💬 27 留言｜👤 zeristor
 
-### 8. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+### 8. [This 1976 University Experiment Spun Up the U.S. Wind Industry](https://spectrum.ieee.org/william-heronemus-wind-energy)
 
-- ⭐ 870 分｜💬 229 留言｜👤 theorchid
+- ⭐ 26 分｜💬 1 留言｜👤 pseudolus
 
-### 9. ["No Feigning Surprise"](https://wizardzines.com/comics/surprise/)
+### 9. [DuckDB Internals: 為什麼 Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
 
-- ⭐ 31 分｜💬 18 留言｜👤 evakhoury
+- ⭐ 379 分｜💬 122 留言｜👤 marklit
 
-### 10. [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+### 10. [Is AI ruining our skills? Early results are in – and they're not good](https://www.nature.com/articles/d41586-026-01947-1)
 
-- ⭐ 115 分｜💬 64 留言｜👤 ingve
+- ⭐ 118 分｜💬 114 留言｜👤 Michelangelo11
 
-### 11. [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
+### 11. [Telescope Ranchers](https://kottke.org/26/06/telescope-ranchers)
 
-- ⭐ 138 分｜💬 51 留言｜👤 mcanouil
+- ⭐ 53 分｜💬 21 留言｜👤 bookofjoe
 
-### 12. [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
+### 12. [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
 
-- ⭐ 28 分｜💬 37 留言｜👤 isaacfrond
+- ⭐ 43 分｜💬 11 留言｜👤 kioku
 
-### 13. [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
+### 13. [Ten years of ClickHouse in 開源](https://clickhouse.com/blog/open-source-10)
 
-- ⭐ 217 分｜💬 392 留言｜👤 herbertl
+- ⭐ 230 分｜💬 66 留言｜👤 saisrirampur
 
-### 14. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+### 14. [Zen and the Art of 機器學習 Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
 
-- ⭐ 222 分｜💬 79 留言｜👤 niyikiza
+- ⭐ 202 分｜💬 69 留言｜👤 jxmorris12
 
-### 15. [Akse3D – open-source 3D modelling anyone can master](https://akse3d-en.skaperiet.no)
+### 15. [To study how chips work, MIT researchers built their own operating 系統](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
 
-- ⭐ 69 分｜💬 15 留言｜👤 joachimhs
+- ⭐ 319 分｜💬 49 留言｜👤 speckx
 
-### 16. [SMTP Relay with 網頁 Dashboard](https://github.com/toinbox/simplerelay)
+### 16. [Show HN: Metiq: a real time 3D globe for 100 public datasets](https://metiq.space)
 
-- ⭐ 31 分｜💬 3 留言｜👤 toinbox
+The concept for metiq.space came after playing Global Magnates with friends and realizing how fragmented live global data is. ships, aircraft, satellites, ports, weather, hazards, infrastructure, cybe
 
-### 17. [Show HN: Modeloop – From visual algorithms to microcontroller C 代碼](https://www.modeloop.app/)
+- ⭐ 36 分｜💬 9 留言｜👤 rakeda
 
-- ⭐ 10 分｜💬 12 留言｜👤 lucamark
+### 17. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
 
-### 18. [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
+- ⭐ 910 分｜💬 239 留言｜👤 theorchid
 
-- ⭐ 131 分｜💬 107 留言｜👤 ddrmaxgt37
+### 18. [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
 
-### 19. [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
+- ⭐ 189 分｜💬 70 留言｜👤 mcanouil
 
-- ⭐ 375 分｜💬 311 留言｜👤 ksec
+### 19. [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
 
-### 20. [CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
+- ⭐ 327 分｜💬 586 留言｜👤 herbertl
 
-- ⭐ 399 分｜💬 56 留言｜👤 ibobev
+### 20. [Show HN: Modeloop – From visual algorithms to microcontroller C 代碼](https://www.modeloop.app/)
 
-### 21. [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
+- ⭐ 33 分｜💬 22 留言｜👤 lucamark
 
-- ⭐ 111 分｜💬 40 留言｜👤 lumpa
+### 21. [Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages](https://github.com/Amal-David/pagecast)
 
-### 22. [.gitignore Isn't the only way to ignore files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
+I built this because I kept generating HTML&#x2F;Markdown reports from Claude 代碼&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes th
 
-- ⭐ 472 分｜💬 146 留言｜👤 FergusArgyll
+- ⭐ 13 分｜💬 3 留言｜👤 amaldavid
 
-### 23. [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
+### 22. [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
 
-- ⭐ 69 分｜💬 34 留言｜👤 geox
+- ⭐ 22 分｜💬 13 留言｜👤 Bender
 
-### 24. [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
+### 23. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
 
-- ⭐ 150 分｜💬 132 留言｜👤 Wilsoniumite
+- ⭐ 248 分｜💬 97 留言｜👤 niyikiza
 
-### 25. [Hospitals and universities repurposing drugs at lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
+### 24. [Reinventing the Renaissance](https://drb.ie/article/reinventing-the-renaissance/)
 
-- ⭐ 320 分｜💬 148 留言｜👤 giuliomagnifico
+- ⭐ 29 分｜💬 8 留言｜👤 Petiver
 
-### 26. [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
+### 25. [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
 
-- ⭐ 63 分｜💬 49 留言｜👤 surprisetalk
+- ⭐ 164 分｜💬 129 留言｜👤 ddrmaxgt37
 
-### 27. [If your product is Great, it doesn't need to be Good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
+### 26. [Akse3D – open-source 3D modelling anyone can master](https://akse3d-en.skaperiet.no)
 
-- ⭐ 114 分｜💬 82 留言｜👤 skogstokig
+- ⭐ 119 分｜💬 34 留言｜👤 joachimhs
 
-### 28. [W Social, public institutions and the theater of European digital sovereignty](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
+### 27. [.gitignore Isn't the only way to ignore files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
 
-- ⭐ 233 分｜💬 145 留言｜👤 nemoniac
+- ⭐ 538 分｜💬 161 留言｜👤 FergusArgyll
 
-### 29. [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
+### 28. [CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 
-- ⭐ 315 分｜💬 73 留言｜👤 Vinnl
+- ⭐ 418 分｜💬 59 留言｜👤 ibobev
 
-### 30. [Show HN: Talos – Open-source WASM interpreter for Lean](https://github.com/cajal-technologies/talos)
+### 29. [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
 
-At Cajal (YC W26) we’re excited to share Talos (https:&#x2F;&#x2F;github.com&#x2F;cajal-technologies&#x2F;talos), an 開源 framework for formal verification of WebAssembly modules in Lean.AI is 
+- ⭐ 395 分｜💬 334 留言｜👤 ksec
 
-- ⭐ 69 分｜💬 15 留言｜👤 mfornet
+### 30. [Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free)
+
+- ⭐ 17 分｜💬 2 留言｜👤 hn_acker
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Cell-based architecture for resilient payment systems
+- Hospitals and universities repurposing drugs at lower cost
+- If your product is Great, it doesn't need to be Good (2010)
+- W Social, public institutions and the theater of European digital sovereignty
+- John Jumper leaves Google to join Anthropic
 - Flexport (YC W14) Is 招聘 in Indonesia, India, and Thailand
-- Show HN: Are You in the Weights?
+- Modos Color Monitor Pushes E-Paper Displays Further
+- Show HN: Talos – Open-source WASM interpreter for Lean
+- Datasette Apps: Host custom HTML applications inside Datasette
+- Cell-based architecture for resilient payment systems
+- Norway greenlights first full-scale ship tunnel
 - The Korean telecom giant at the center of Anthropic's Mythos controversy
-- Launch HN: TesterArmy (YC P26) – Agents that 測試 網頁 and 行動 apps
 - How Alberta Eradicated Rats
-- Ice water drowning survival of young patient (2025)
+- Launch HN: TesterArmy (YC P26) – Agents that 測試 網頁 and 行動 apps
 - Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts
-- Building a robotics research setup that lives next to my desk
+- Show HN: Are You in the Weights?
+- So You Want to Define a Well-Known URI
 - Midjourney Medical
-- I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M
+- Show HN: Music from every single country on Earth, generated in Esperanto
+- Building a robotics research setup that lives next to my desk
 - Noam Shazeer Joins OpenAI
+- SMTP Relay with 網頁 Dashboard
+- Ice water drowning survival of young patient (2025)
 - Zork name origin got an 更新 on Wikipedia
-- EU to soon classify AWS and Azure as gatekeepers under DSA
 - The Token Compression Illusion: 為什麼 I'm Skeptical of RTK
 - Agentic Resource Discovery Specification
-- UCCL-EP: DeepEP-style expert parallelism on any NIC, no GPU-initiated comms
-- The average SpaceX buyer post-IPO is almost under water after two-day slide
-- US court rules Ohio can restrict children's use of social media
-- Migrating from GNU Stow to Chezmoi
 - Microsoft 新 Outlook takes 10 seconds to do what Outlook Classic does instantly
-- Tired of Performing Masculinity
-- Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs
-- Emacs 31 is around the corner: The changes I'm daily driving
-- Many Let's Encrypt renewals had errors today
-- The founder of Craigslist has given away half a billion dollars
-- Swiss parliament lifts ban on 新 nuclear power plants
+- Migrating from GNU Stow to Chezmoi
+- I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M
 - Lore – 開源 version control 系統 designed for scalability
-- I need your clothes, your boots, and your motorcycle
+- Emacs 31 is around the corner: The changes I'm daily driving
+- Anthropic "pauses" token-based billing for its Claude 代理 SDK
 - I hate compilers
-- Horizons JPL Solar 系統 Data Demo and NASA DSN Updates: Datastar, Common Lisp
+- Lift Challenge
+- Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs
+- I need your clothes, your boots, and your motorcycle
+- EU to soon classify AWS and Azure as gatekeepers under DSA
+- The founder of Craigslist has given away half a billion dollars
+- US court rules Ohio can restrict children's use of social media
+- How Madrid built its metro cheaply (2024)
 - We built a persistent 代理 memory layer on Elasticsearch with 0.89 recall
 - Emacs, how it all started for me
-- The Harajuku Moment (2024)
-- A website that lists websites to submit your website to
-- How Madrid built its metro cheaply (2024)
-- DeepSeek 引進 Vision
 - Launch HN: Adam (YC W25) – Open-Source AI CAD
-- Apple A12 and A13 Chips: 新 Unpatchable Exploit
+- Swiss parliament lifts ban on 新 nuclear power plants
+- A website that lists websites to submit your website to
+- The Harajuku Moment (2024)
+- DeepSeek 引進 Vision
 - Local Qwen isn't a worse Opus, it's a different tool
+- The average SpaceX buyer post-IPO is almost under water after two-day slide
+- The Future of the Con Is Here, It's Just Not Evenly Distributed
+- The room the economy can't see
 - Vinyl Cache and Varnish Cache
-- The Raku Foundation is born
+- Many Let's Encrypt renewals had errors today
 - Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?
-- Wiki Spy
-- Dutch Railways offers unlimited off-peak train travel nationwide for €49/month
-- Renting vs. Buying – A case study for Bangalore
-- TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants
+- "No Feigning Surprise"
+- Horizons JPL Solar 系統 Data Demo and NASA DSN Updates: Datastar, Common Lisp
+- Running local models is good now
 - Taxonomy of the Occlupanida (parasitoids on bread bag tags)
 - GLM-5.2 is the 新 leading open weights 模型 on Artificial Analysis
-- Fable Converted Pylint to Rust
-- Running local models is good now
-- AMD silently removes memory encryption from consumer Ryzen CPUs
-- Sogen – High-performance Windows and Linux userspace emulator
-- Setting Up a 新 Windows Laptop in 2026
+- UCCL-EP: DeepEP-style expert parallelism on any NIC, no GPU-initiated comms
+- Wiki Spy
+- 為什麼 Do So Many Everyday Systems Feel Harder to Use Now?
 - US holds off blacklisting DeepSeek, more than 100 firms deemed 安全 risks
-- Ask HN: Is anyone using the A2A protocol?
-- Notes from tired Egyptian whose 工作 is explaining that humans built the pyramids
-- What was nice about the UI of Windows 2000
+- TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants
+- AMD silently removes memory encryption from consumer Ryzen CPUs
+- Dutch Railways offers unlimited off-peak train travel nationwide for €49/month
+- Mary Somerville: The Woman for Whom the Word "Scientist" Was Coined (2016)
 - Image Compression
-- Show HN: An 8-bit live gamecast for baseball
-- Show HN: Crawlie – Free open-source SEO audit tool for humans and agents
 - The founder's playbook: Building an AI-native startup
-- 更新 on Ocean Observatories Initiative
-- 為什麼 do commercial spaces sit vacant? (2025)
-- Amazon employees say they're facing termination for backing data center limits
-- Migrate from OpenClaw
-- GrapheneOS has been ported to Android 17
-- SpaceX to buy Cursor for $60B
-- The forge we deserve
-- Show HN: We built an 8-bit CPU as 2nd year EE students
+- Show HN: An 8-bit live gamecast for baseball
+- Apple A12 and A13 Chips: 新 Unpatchable Exploit
 
 
 ---
