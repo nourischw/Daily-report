@@ -4,214 +4,212 @@
 
 ---
 
-### 1. [To study how chips work, MIT researchers built their own operating 系統](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+### 1. [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 
-- ⭐ 46 分｜💬 4 留言｜👤 speckx
+- ⭐ 128 分｜💬 59 留言｜👤 philonoist
 
-### 2. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+### 2. [DuckDB Internals: 為什麼 Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
 
-- ⭐ 125 分｜💬 56 留言｜👤 niyikiza
+- ⭐ 181 分｜💬 59 留言｜👤 marklit
 
-### 3. [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
+### 3. [Ten years of ClickHouse in 開源](https://clickhouse.com/blog/open-source-10)
 
-- ⭐ 50 分｜💬 34 留言｜👤 ddrmaxgt37
+- ⭐ 31 分｜💬 6 留言｜👤 saisrirampur
 
-### 4. [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
+### 4. [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 
-- ⭐ 37 分｜💬 9 留言｜👤 lumpa
+- ⭐ 69 分｜💬 31 留言｜👤 ingve
 
-### 5. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+### 5. [To study how chips work, MIT researchers built their own operating 系統](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
 
-- ⭐ 694 分｜💬 161 留言｜👤 theorchid
+- ⭐ 187 分｜💬 25 留言｜👤 speckx
 
-### 6. [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
+### 6. [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
+
+- ⭐ 91 分｜💬 23 留言｜👤 mcanouil
+
+### 7. [Zen and the Art of 機器學習 Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
+
+- ⭐ 54 分｜💬 13 留言｜👤 jxmorris12
+
+### 8. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+
+- ⭐ 798 分｜💬 209 留言｜👤 theorchid
+
+### 9. [Fable Converted Pylint to Rust](https://pypi.org/project/prylint/)
+
+- ⭐ 43 分｜💬 34 留言｜👤 adamraudonis
+
+### 10. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+
+- ⭐ 198 分｜💬 66 留言｜👤 niyikiza
+
+### 11. [The Raku Foundation is born](https://raku.foundation)
+
+- ⭐ 27 分｜💬 10 留言｜👤 librasteve
+
+### 12. [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
+
+- ⭐ 101 分｜💬 83 留言｜👤 ddrmaxgt37
+
+### 13. [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
+
+- ⭐ 342 分｜💬 294 留言｜👤 ksec
+
+### 14. [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
+
+- ⭐ 100 分｜💬 191 留言｜👤 herbertl
+
+### 15. [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
+
+- ⭐ 80 分｜💬 28 留言｜👤 lumpa
+
+### 16. [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
 
 Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is 
 
-- ⭐ 16 分｜💬 0 留言｜👤 mplappert
+- ⭐ 82 分｜💬 27 留言｜👤 mplappert
 
-### 7. [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
+### 17. [CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 
-- ⭐ 96 分｜💬 37 留言｜👤 birdculture
+- ⭐ 374 分｜💬 51 留言｜👤 ibobev
 
-### 8. [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
+### 18. [.gitignore Isn't the only way to ignore files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
 
-- ⭐ 276 分｜💬 249 留言｜👤 ksec
+- ⭐ 422 分｜💬 131 留言｜👤 FergusArgyll
 
-### 9. [CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
-
-- ⭐ 324 分｜💬 47 留言｜👤 ibobev
-
-### 10. [Zork name origin got an 更新 on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
-
-- ⭐ 65 分｜💬 10 留言｜👤 dpola
-
-### 11. [Flexport (YC W14) Is 招聘 in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
-
-- ⭐ 1 分｜💬 0 留言｜👤 thedogeye
-
-### 12. [Hospitals and universities repurposing drugs at lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
-
-- ⭐ 290 分｜💬 126 留言｜👤 giuliomagnifico
-
-### 13. [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
-
-https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260618212028&#x2F;https:&#x2F;&#x2F;www.thatp...https:&#x2F;&#x2F;archive.ph&#x2F;I4zjA
-
-- ⭐ 261 分｜💬 111 留言｜👤 speckx
-
-### 14. [Show HN: Are You in the Weights?](https://www.intheweights.com/)
-
-With more traffic moving off-網頁 and into LLMs, I got curious about what traces we leave &quot;in the weights&quot;. My design partner and I built a site in the past few weeks that checks recognition 
-
-- ⭐ 218 分｜💬 131 留言｜👤 turtlesoup
-
-### 15. [Launch HN: TesterArmy (YC P26) – Agents that 測試 網頁 and 行動 apps](https://tester.army)
-
-Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (https:&#x2F;&#x2F;tester.army). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in p
-
-- ⭐ 108 分｜💬 47 留言｜👤 okwasniewski
-
-### 16. [.gitignore Isn't the only way to ignore files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
-
-- ⭐ 306 分｜💬 105 留言｜👤 FergusArgyll
-
-### 17. [Swiss parliament lifts ban on 新 nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html)
-
-- ⭐ 714 分｜💬 594 留言｜👤 leonidasrup
-
-### 18. [The Token Compression Illusion: 為什麼 I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
-
-- ⭐ 83 分｜💬 90 留言｜👤 lackoftactics
-
-### 19. [W Social, public institutions and the theater of European digital sovereignty](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
-
-- ⭐ 179 分｜💬 119 留言｜👤 nemoniac
-
-### 20. [Noam Shazeer Joins OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)
-
-https:&#x2F;&#x2F;xcancel.com&#x2F;NoamShazeer&#x2F;status&#x2F;2067400851438932297https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;googles-Gemini-co-lead-no...
-
-- ⭐ 299 分｜💬 291 留言｜👤 lukasgross
-
-### 21. [If your product is Great, it doesn't need to be Good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
-
-- ⭐ 36 分｜💬 29 留言｜👤 skogstokig
-
-### 22. [Horizons JPL Solar 系統 Data Demo and NASA DSN Updates: Datastar, Common Lisp](https://horizons.lambda-combine.net/)
-
-- ⭐ 34 分｜💬 0 留言｜👤 adityaathalye
-
-### 23. [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
-
-- ⭐ 235 分｜💬 67 留言｜👤 Vinnl
-
-### 24. [How Alberta Eradicated Rats](https://worksinprogress.co/issue/albertas-war-on-rats/)
-
-- ⭐ 144 分｜💬 106 留言｜👤 tzury
-
-### 25. [Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts](https://gerrymandle.cc/)
-
-- ⭐ 145 分｜💬 65 留言｜👤 realmofthemad
-
-### 26. [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
-
-- ⭐ 109 分｜💬 105 留言｜👤 speckx
-
-### 27. [Agentic Resource Discovery Specification](https://agenticresourcediscovery.org/introduction/)
-
-https:&#x2F;&#x2F;developers.googleblog.com&#x2F;en&#x2F;announcing-the-agentic-...
-
-- ⭐ 55 分｜💬 15 留言｜👤 damick
-
-### 28. [Show HN: Talos – Open-source WASM interpreter for Lean](https://github.com/cajal-technologies/talos)
+### 19. [Show HN: Talos – Open-source WASM interpreter for Lean](https://github.com/cajal-technologies/talos)
 
 At Cajal (YC W26) we’re excited to share Talos (https:&#x2F;&#x2F;github.com&#x2F;cajal-technologies&#x2F;talos), an 開源 framework for formal verification of WebAssembly modules in Lean.AI is 
 
-- ⭐ 16 分｜💬 2 留言｜👤 mfornet
+- ⭐ 53 分｜💬 7 留言｜👤 mfornet
 
-### 29. [更新 on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative)
+### 20. [Ice water drowning survival of young patient (2025)](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
 
-- ⭐ 111 分｜💬 20 留言｜👤 andsoitis
+- ⭐ 148 分｜💬 99 留言｜👤 js2
 
-### 30. [Automating my 工作 away](https://austinhenley.com/blog/automatingmyjob.html)
+### 21. [Hospitals and universities repurposing drugs at lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
 
-- ⭐ 23 分｜💬 15 留言｜👤 azhenley
+- ⭐ 309 分｜💬 142 留言｜👤 giuliomagnifico
+
+### 22. [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
+
+- ⭐ 124 分｜💬 51 留言｜👤 birdculture
+
+### 23. [Flexport (YC W14) Is 招聘 in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
+
+- ⭐ 1 分｜💬 0 留言｜👤 thedogeye
+
+### 24. [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
+
+https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260618212028&#x2F;https:&#x2F;&#x2F;www.thatp...https:&#x2F;&#x2F;archive.ph&#x2F;I4zjA
+
+- ⭐ 392 分｜💬 231 留言｜👤 speckx
+
+### 25. [The Korean telecom giant at the center of Anthropic's Mythos controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)
+
+https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260618100028&#x2F;https:&#x2F;&#x2F;www.wired...
+
+- ⭐ 114 分｜💬 99 留言｜👤 dstala
+
+### 26. [If your product is Great, it doesn't need to be Good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
+
+- ⭐ 86 分｜💬 54 留言｜👤 skogstokig
+
+### 27. [W Social, public institutions and the theater of European digital sovereignty](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
+
+- ⭐ 212 分｜💬 137 留言｜👤 nemoniac
+
+### 28. [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
+
+- ⭐ 282 分｜💬 68 留言｜👤 Vinnl
+
+### 29. [Show HN: Are You in the Weights?](https://www.intheweights.com/)
+
+With more traffic moving off-網頁 and into LLMs, I got curious about what traces we leave &quot;in the weights&quot;. My design partner and I built a site in the past few weeks that checks recognition 
+
+- ⭐ 347 分｜💬 198 留言｜👤 turtlesoup
+
+### 30. [Launch HN: TesterArmy (YC P26) – Agents that 測試 網頁 and 行動 apps](https://tester.army)
+
+Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (https:&#x2F;&#x2F;tester.army). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in p
+
+- ⭐ 120 分｜💬 55 留言｜👤 okwasniewski
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Emacs 31 is around the corner: The changes I'm daily driving
-- The founder of Craigslist has given away half a billion dollars
-- The Korean telecom giant at the center of Anthropic's Mythos controversy
-- NOLA 'Nacular: One man's crusade to preserve 新 Orleans's vernacular signage
-- Microsoft 新 Outlook takes 10 seconds to do what Outlook Classic does instantly
+- Akse3D – open-source 3D modelling anyone can master
+- How Alberta Eradicated Rats
+- Many Let's Encrypt renewals had errors today
+- Zork name origin got an 更新 on Wikipedia
+- Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts
+- Noam Shazeer Joins OpenAI
+- Agentic Resource Discovery Specification
+- The Token Compression Illusion: 為什麼 I'm Skeptical of RTK
+- Horizons JPL Solar 系統 Data Demo and NASA DSN Updates: Datastar, Common Lisp
 - Midjourney Medical
-- A website that lists websites to submit your website to
-- Dutch Railways offers unlimited off-peak train travel nationwide for €49/month
-- Ask HN: Is anyone using the A2A protocol?
-- I need your clothes, your boots, and your motorcycle
-- We built a persistent 代理 memory layer on Elasticsearch with 0.89 recall
+- DARPA Heavy Life Challenge
+- Renting vs. Buying – A case study for Bangalore
+- Emacs 31 is around the corner: The changes I'm daily driving
+- Migrating from GNU Stow to Chezmoi
+- Swiss parliament lifts ban on 新 nuclear power plants
+- Microsoft 新 Outlook takes 10 seconds to do what Outlook Classic does instantly
+- The founder of Craigslist has given away half a billion dollars
+- EU to soon classify AWS and Azure as gatekeepers under DSA
+- The Harajuku Moment (2024)
+- Apple A12 and A13 Chips: 新 Unpatchable Exploit
 - Emacs, how it all started for me
-- Setting Up a 新 Windows Laptop in 2026
+- A website that lists websites to submit your website to
+- I need your clothes, your boots, and your motorcycle
+- Ask HN: Is anyone using the A2A protocol?
+- We built a persistent 代理 memory layer on Elasticsearch with 0.89 recall
 - I hate compilers
-- TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants
-- CBC to stop airing NHL games after 74 years, end of free hockey on Canadian TV
-- Notes from tired Egyptian whose 工作 is explaining that humans built the pyramids
-- Vinyl Cache and Varnish Cache
-- Wiki Spy
-- DeepSeek 引進 Vision
 - Lore – 開源 version control 系統 designed for scalability
+- How Madrid built its metro cheaply (2024)
+- DeepSeek 引進 Vision
+- Vinyl Cache and Varnish Cache
+- Dutch Railways offers unlimited off-peak train travel nationwide for €49/month
 - Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?
 - Local Qwen isn't a worse Opus, it's a different tool
-- What was nice about the UI of Windows 2000
-- How Madrid built its metro cheaply (2024)
-- Flip TABLE: storing arbitrary data in iNaturalist
-- Unity vs. Floating Point
-- Migrate from OpenClaw
-- AMD silently removes memory encryption from consumer Ryzen CPUs
 - Launch HN: Adam (YC W25) – Open-Source AI CAD
-- The 工作 Market Is Thawing
 - Show HN: Crawlie – Free open-source SEO audit tool for humans and agents
-- Sogen – High-performance Windows and Linux userspace emulator
+- 更新 on Ocean Observatories Initiative
+- TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants
+- Wiki Spy
+- Notes from tired Egyptian whose 工作 is explaining that humans built the pyramids
+- Setting Up a 新 Windows Laptop in 2026
+- AMD silently removes memory encryption from consumer Ryzen CPUs
 - Taxonomy of the Occlupanida (parasitoids on bread bag tags)
-- Amazon investigating engineers who criticized AI data center expansion
-- Image Toolbox (T8RIN)
-- The AirPods Effect
-- NASA picks Eric Schmidt's rocket company for Mars mission, sets up race w SpaceX
-- US holds off blacklisting DeepSeek, more than 100 firms deemed 安全 risks
+- Unity vs. Floating Point
+- Sogen – High-performance Windows and Linux userspace emulator
+- What was nice about the UI of Windows 2000
+- Amazon employees say they're facing termination for backing data center limits
 - GLM-5.2 is the 新 leading open weights 模型 on Artificial Analysis
-- Show HN: An 8-bit live gamecast for baseball
-- The forge we deserve
-- Image Compression
-- Ask HN: What tools are you using for AI-assisted 代碼 review?
+- US holds off blacklisting DeepSeek, more than 100 firms deemed 安全 risks
 - Running local models is good now
-- 為什麼 Weibo's tiny VibeThinker-3B has the AI world arguing over benchmarks again
-- The Harajuku Moment (2024)
-- Stop making swap partitions–use swap files instead
+- Migrate from OpenClaw
+- Show HN: An 8-bit live gamecast for baseball
+- Image Compression
 - The founder's playbook: Building an AI-native startup
-- 為什麼 Meta Suddenly Loves the Kids Online Safety Act
-- Show HN: We built an 8-bit CPU as 2nd year EE students
-- Smashed Toilet Phone 網頁 伺服器
+- The forge we deserve
 - 為什麼 do commercial spaces sit vacant? (2025)
+- Image Toolbox (T8RIN)
 - GrapheneOS has been ported to Android 17
+- Show HN: We built an 8-bit CPU as 2nd year EE students
+- SpaceX to buy Cursor for $60B
+- CBC to stop airing NHL games after 74 years, end of free hockey on Canadian TV
+- Ask HN: What tools are you using for AI-assisted 代碼 review?
+- The feedback loops behind Kubernetes
+- Smashed Toilet Phone 網頁 伺服器
+- Subterranean fungi networks more than 100 quadrillion km in length
 - Tesco moving 40k 伺服器 workloads off VMware amid Broadcom's abusive conduct
-- Nim Conf 2026 (Online, Sat June 20)
+- Want your images back? That'll be $5
+- Stop making swap partitions–use swap files instead
 - About ASCII art and Jgs font (2023)
 - Biological evolution and information acquisition
-- SpaceX to buy Cursor for $60B
-- Want your images back? That'll be $5
-- The 2-Year Apartment Rule
-- Subterranean fungi networks more than 100 quadrillion km in length
-- AI Compute Extensions (ACE) Specification
-- Medical AI scores high on exams but stumbles on real patient care
-- How we run Firecracker VMs inside EC2 and start browsers in less than 1s
-- The feedback loops behind Kubernetes
-- RFC 10008: The 新 HTTP Query Method
-- The Australian Government to Require SMS/MMS Sender ID Registraion
-- Abandoned and Little-Known Airfields
-- TypeScript 7.0 RC
+- Amazon investigating engineers who criticized AI data center expansion
 
 
 ---
