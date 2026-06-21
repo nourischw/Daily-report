@@ -192,6 +192,11 @@ Broadcom旗下Symantec與Carbon Black團隊近日揭露，勒索軟體組織Drag
 
 ### 更多 AI 新聞 (70則)
 
+- Wooting 60HE v2: Peak Keyboard Perfection (**Wired**)
+- The 最佳 NAS Devices for Your Home After Months of Testing (**Wired**)
+- 28 Tips to Take Your ChatGPT Prompts to the Next Level (**Wired**)
+- If You’re Searching for a 新 Skillet, Consider Stainless Steel (**Wired**)
+- Buying a Used iPhone Makes More Sense Than Ever (**Wired**)
 - A Critical Deadline Is Approaching for Windows and Linux 安全 (**Wired**)
 - Home Batteries: How They're Installed and How Much They Cost (**Wired**)
 - I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026) (**Wired**)
@@ -237,11 +242,6 @@ Broadcom旗下Symantec與Carbon Black團隊近日揭露，勒索軟體組織Drag
 - Amazon’s Fire Tablets, Tested, So You Don’t Have To (2026) (**Wired**)
 - 13 最佳 Essential Oil Diffusers 2026: Tested and Reviewed (**Wired**)
 - 如何 Watch the Knicks Parade on NYC Traffic Surveillance Cameras (**Wired**)
-- Halo Stops Bedtime Scrolling so You Can Go the F to Sleep (**Wired**)
-- Locked Out of the World Cup: A Year Marked by Barriers, Borders, and Broken Access (**Wired**)
-- The Sperm-Maxxing Bros Are Actually Onto Something (**Wired**)
-- The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed (**Wired**)
-- 50% Off DoorDash Promo 代碼 | June 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
