@@ -4,208 +4,204 @@
 
 ---
 
-### 1. [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+### 1. [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
 
-- ⭐ 117 分｜💬 53 留言｜👤 sohkamyung
+- ⭐ 60 分｜💬 35 留言｜👤 barqawiz
 
-### 2. [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+### 2. [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
 
-- ⭐ 63 分｜💬 20 留言｜👤 Sibexico
+- ⭐ 29 分｜💬 6 留言｜👤 sph
 
-### 3. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
+### 3. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
 
-https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare_release&#x2F;https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare&#x2F;
+- ⭐ 192 分｜💬 101 留言｜👤 toilet
 
-- ⭐ 82 分｜💬 27 留言｜👤 cauenapier
+### 4. [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
 
-### 4. ['We had to get out of the way': The backlash over delivery robots](https://www.bbc.com/news/articles/c0rygp005wjo)
-
-- ⭐ 38 分｜💬 33 留言｜👤 higginsniggins
+- ⭐ 73 分｜💬 9 留言｜👤 luu
 
 ### 5. [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 
-- ⭐ 83 分｜💬 20 留言｜👤 Cider9986
+- ⭐ 279 分｜💬 102 留言｜👤 Cider9986
 
-### 6. [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
+### 6. [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
 
-- ⭐ 70 分｜💬 9 留言｜👤 croes
+- ⭐ 229 分｜💬 119 留言｜👤 sohkamyung
 
-### 7. [15-minute at-home Lyme disease tick 測試](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/)
+### 7. [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
 
-- ⭐ 48 分｜💬 13 留言｜👤 bookofjoe
+- ⭐ 159 分｜💬 37 留言｜👤 Sibexico
 
-### 8. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
+### 8. [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
 
-- ⭐ 11 分｜💬 3 留言｜👤 toilet
+- ⭐ 201 分｜💬 48 留言｜👤 croes
 
-### 9. [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
+### 9. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
 
-- ⭐ 236 分｜💬 64 留言｜👤 zdw
+https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare_release&#x2F;https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare&#x2F;
 
-### 10. [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
+- ⭐ 175 分｜💬 85 留言｜👤 cauenapier
 
-- ⭐ 94 分｜💬 71 留言｜👤 zdw
+### 10. [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
 
-### 11. [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
+- ⭐ 100 分｜💬 20 留言｜👤 sarangk90
 
-- ⭐ 173 分｜💬 30 留言｜👤 zdw
+### 11. [15-minute at-home Lyme disease tick 測試](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/)
 
-### 12. [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
+- ⭐ 113 分｜💬 57 留言｜👤 bookofjoe
 
-- ⭐ 33 分｜💬 11 留言｜👤 stopachka
+### 12. [Running MicroVMs in Proxmox VE, the Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
 
-### 13. [DOS Game "F-15 Strike Eagle II" reversing project needs DOS 測試 pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
+- ⭐ 32 分｜💬 1 留言｜👤 zdw
 
-- ⭐ 212 分｜💬 59 留言｜👤 LowLevelMahn
+### 13. [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
 
-### 14. [When I reject AI 代碼 even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+- ⭐ 189 分｜💬 122 留言｜👤 colinprince
 
-- ⭐ 38 分｜💬 14 留言｜👤 vnbrs
+### 14. [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
 
-### 15. [CSSQuake](https://cssquake.com/)
+- ⭐ 261 分｜💬 79 留言｜👤 zdw
 
-- ⭐ 468 分｜💬 101 留言｜👤 msalsas
+### 15. [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/)
 
-### 16. [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
+- ⭐ 32 分｜💬 24 留言｜👤 ingve
 
-- ⭐ 62 分｜💬 17 留言｜👤 birdculture
+### 16. [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
 
-### 17. [Semiconductor Lifeline Keeps Fighter Jets in the Air](https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems)
+- ⭐ 203 分｜💬 39 留言｜👤 zdw
 
-- ⭐ 43 分｜💬 12 留言｜👤 rbanffy
+### 17. [DOS Game "F-15 Strike Eagle II" reversing project needs DOS 測試 pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
 
-### 18. [Whole cross-sectional human ultrasound tomography](https://www.nature.com/articles/s41551-026-01660-4)
+- ⭐ 252 分｜💬 65 留言｜👤 LowLevelMahn
 
-- ⭐ 31 分｜💬 4 留言｜👤 lnyan
+### 18. [Guide to the TD4 4-bit DIY CPU](https://www.philipzucker.com/td4-4bit-cpu/)
 
-### 19. [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
+- ⭐ 32 分｜💬 3 留言｜👤 andrewstuart
 
-- ⭐ 83 分｜💬 22 留言｜👤 saisrirampur
+### 19. [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
 
-### 20. [Moving Beyond Fork() + Exec()](https://lwn.net/Articles/1076018/)
+- ⭐ 132 分｜💬 93 留言｜👤 zdw
 
-- ⭐ 7 分｜💬 1 留言｜👤 signa11
+### 20. [Proportional-Integral-Derivative Controllers](https://en.wikipedia.org/wiki/PID_controller)
 
-### 21. [NOLA 'Nacular: One man's crusade to preserve 新 Orleans's vernacular signage](https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/)
+- ⭐ 27 分｜💬 10 留言｜👤 dhorthy
 
-- ⭐ 20 分｜💬 2 留言｜👤 NaOH
+### 21. [When I reject AI 代碼 even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
-### 22. [Show HN: Make PDFs look scanned (CLI or in the browser via WASM)](https://github.com/overflowy/make-look-scanned)
+- ⭐ 177 分｜💬 98 留言｜👤 vnbrs
 
-I made this because the online &quot;make my PDF look scanned&quot; tools want you to upload your file to their servers, which feels sketchy at 最佳. Also, I wasn&#x27;t happy with the output they pro
+### 22. [Whole cross-sectional human ultrasound tomography](https://www.nature.com/articles/s41551-026-01660-4)
 
-- ⭐ 95 分｜💬 47 留言｜👤 overflowy
+- ⭐ 73 分｜💬 13 留言｜👤 lnyan
 
-### 23. [Linux eliminates the strncpy API after six years of work, 360 patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
+### 23. [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+
+- ⭐ 105 分｜💬 55 留言｜👤 surprisetalk
+
+### 24. [Linux eliminates the strncpy API after six years of work, 360 patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
 
 https:&#x2F;&#x2F;git.kernel.org&#x2F;pub&#x2F;scm&#x2F;Linux&#x2F;kernel&#x2F;git&#x2F;torvalds&#x2F;lin...
 
-- ⭐ 106 分｜💬 80 留言｜👤 simonpure
+- ⭐ 201 分｜💬 175 留言｜👤 simonpure
 
-### 24. [推論 cost at scale with napkin math](https://injuly.in/blog/napkin-inference-cost/index.html)
+### 25. [The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah)
 
-- ⭐ 63 分｜💬 14 留言｜👤 gmays
+- ⭐ 21 分｜💬 1 留言｜👤 asdefghyk
 
-### 25. [Show HN: StartupWiki – A Free Alternative to Crunchbase](https://startupwiki.tech/)
+### 26. [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 
-I&#x27;ve been building StartupWiki, a free startup 資料庫 designed to make it easier to discover and research companies.The original motivation was frustration with how difficult it can be to find 
+- ⭐ 95 分｜💬 28 留言｜👤 birdculture
 
-- ⭐ 163 分｜💬 55 留言｜👤 shpran
+### 27. [Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87](https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html)
 
-### 26. [Temporary Cloudflare accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)
+- ⭐ 5 分｜💬 1 留言｜👤 benbreen
 
-- ⭐ 178 分｜💬 97 留言｜👤 farhadhf
+### 28. [Temporary Cloudflare accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)
 
-### 27. [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
+- ⭐ 206 分｜💬 110 留言｜👤 farhadhf
 
-- ⭐ 325 分｜💬 138 留言｜👤 ridesisapis
+### 29. [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
 
-### 28. [The rise of South Korea’s weapons business](https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559)
+- ⭐ 5 分｜💬 0 留言｜👤 jandeboevrie
 
-- ⭐ 119 分｜💬 44 留言｜👤 JumpCrisscross
+### 30. [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
 
-### 29. [White House delays US voting-machine vulnerability report](https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/)
-
-- ⭐ 48 分｜💬 27 留言｜👤 logickkk1
-
-### 30. [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249)
-
-- ⭐ 117 分｜💬 221 留言｜👤 gr4vityWall
+- ⭐ 58 分｜💬 21 留言｜👤 stopachka
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Supermarket giant Tesco sues VMware for breach of contract (2025)
-- Pre-2022 Books
-- Show HN: We post-trained a 模型 that pen tests instead of refusing
-- Show HN: My Windows XP portfolio with working Game Boy and iPod
-- 為什麼 has the pointe shoe been so resistant to change?
-- Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions
+- Armstrong Effect
+- Public Service Announcement: Don't Say You Use AI for Writing
+- Show HN: StartupWiki – A Free Alternative to Crunchbase
+- PostgresBench: A Reproducible Benchmark for Postgres Services
+- Bun has an open PR adding shared-memory threads to JavaScriptCore
+- The rise of South Korea’s weapons business
+- Show HN: Make PDFs look scanned (CLI or in the browser via WASM)
+- The Wholesale Plagiarism of Obscure Sorrows
+- Semiconductor Lifeline Keeps Fighter Jets in the Air
 - GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2
+- 推論 cost at scale with napkin math
+- CSSQuake
+- NOLA 'Nacular: One man's crusade to preserve 新 Orleans's vernacular signage
 - Show HN: Microcrad – Micrograd Reimplemented in C
+- Show HN: We post-trained a 模型 that pen tests instead of refusing
 - Millimeter wave technology drills 100 meters into granite
-- The ability to regrow body parts is dormant in mammals, not lost
-- A Love Story
-- Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios
-- AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS 更新 in July
+- 為什麼 has the pointe shoe been so resistant to change?
 - Pondering routing more of my traffic via nodes outside the UK
-- Now You Don't: When Espionage Meets Magic
-- Coding a Brick Tower [video]
-- Show HN: Ember, a native iOS Hacker News reader I built around accessibility
+- Show HN: My Windows XP portfolio with working Game Boy and iPod
 - Bootimus – A Self-Contained PXE and HTTP Boot 伺服器
-- 網頁 Browsers on PDAS
-- Windows 11 新 Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs
-- How the Fifth Lateran Council Unlocked Financial Theory
+- Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios
 - Think of the children: 如何 force real ID for all internet traffic (2023)
-- Systemd 261 發布 with systemd-sysinstall, IMDSD, and storagectl
+- The ability to regrow body parts is dormant in mammals, not lost
+- Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions
 - LLMs Are Complicated Now
-- Dirty Little Zine – a tool for making an 8 page printable Zine
-- 'Buy less' campaigns don't work
-- Mencius (2016)
-- I can haz smoller NixOS ISOs?
+- Show HN: Ember, a native iOS Hacker News reader I built around accessibility
+- Windows 11 新 Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs
+- AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS 更新 in July
+- Polymarket Paid Dozens to Post Videos of Themselves 'Winning' with Fake Bets
+- 網頁 Browsers on PDAS
+- Now You Don't: When Espionage Meets Magic
+- How the Fifth Lateran Council Unlocked Financial Theory
+- Pre-2022 Books
 - The discovery that changed how scientists think about memory
-- From PGP to Mythos: a brief history of export controls that didn't stop anyone
-- Google Can't Math Parsecs
-- Human Judgment as a Specification
-- Show HN: Domphy – plain-object UI for tool apps, AI-correctable output
-- The Cold War's Accidental Whale Observatory
+- Early life adversity leaves a lasting molecular imprint across the body
+- SUV buyers undeterred by warnings of risk to pedestrians
+- Show HN: Agentic coding workflows built on Git worktrees and task evidence
 - Where to Find the Colors Your Screen Can't Show You
-- Seeing the world in radio waves with the QuadRF
-- Computed goto for efficient dispatch tables (2012)
-- Ubisoft co-founder Claude Guillemot has died in a plane crash
 - Surprising economics of load-balanced systems
-- A 1969 camera operators' strike created Upstairs Downstairs multiverse
 - Hyundai buys Boston Dynamics
+- Human Judgment as a Specification
+- Coding a Brick Tower [video]
+- The Cold War's Accidental Whale Observatory
+- A 1969 camera operators' strike created Upstairs Downstairs multiverse
+- From PGP to Mythos: a brief history of export controls that didn't stop anyone
+- Computed goto for efficient dispatch tables (2012)
+- Mencius (2016)
+- 'Buy less' campaigns don't work
+- Show HN: TLA+ Process Studio
+- Dirty Little Zine – a tool for making an 8 page printable Zine
 - I Stored a Website in a Favicon
-- How Does One Brain Speak Two Languages?
-- They Looked Like They Were Getting Rich on Polymarket–But None of It Was Real
-- Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf
-- Cargo-Geiger
+- Ubisoft co-founder Claude Guillemot has died in a plane crash
+- White House delays US voting-machine vulnerability report
 - Can you see three trees?
-- Race Against Time to Save Brixton Market from Private Equity
+- Show HN: Domphy – plain-object UI for tool apps, AI-correctable output
 - A Perceptron in Age of Empires II
 - AURpocalypse now: a look at the recent AUR attacks
-- Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times
 - Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died
+- Greece unveils restored Parthenon facade unseen in full for 2 centuries
 - There are no instances in ATProto
+- Show HN: Talos – Open-source WASM interpreter for Lean
 - Egyptian Fractions (2006)
-- The frontier is open-source today
-- US Scientist John Jumper to Leave Google DeepMind for Anthropic
-- How it feels to practice for IOAI in Iran
+- Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf
+- Systemd 261 發布 with systemd-sysinstall, IMDSD, and storagectl
+- Telescope Ranchers
 - Flexport (YC W14) Is 招聘 in Indonesia, India, and Thailand
 - Norway imposes near ban on AI in elementary school
-- Adobe adds its AI 助手 to Premiere, Illustrator, and InDesign
-- Telescope Ranchers
-- Show HN: Talos – Open-source WASM interpreter for Lean
-- On Some Quotes from G.H. Hardy
 - Court Records Should Be Free
-- VPN ban 更新 for UK households as government looks at 'age-gate'
-- Soccer Arcade Games Through the Years
-- Lithuanian startup 推出 open-source 網絡 to detect Shahed-type drones
+- Race Against Time to Save Brixton Market from Private Equity
 - Show HN: Metiq: a real time 3D globe for 100 public datasets
-- Data Compression Explained (2012)
-- 新 (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive
 
 
 ---
