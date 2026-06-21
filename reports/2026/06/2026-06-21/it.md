@@ -4,202 +4,210 @@
 
 ---
 
-### 1. [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
+### 1. [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
-- ⭐ 90 分｜💬 30 留言｜👤 mosiuerbarso
+- ⭐ 264 分｜💬 180 留言｜👤 rafaepta
 
-### 2. [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
+### 2. [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
 
-- ⭐ 62 分｜💬 33 留言｜👤 Hbruz0
+- ⭐ 331 分｜💬 185 留言｜👤 mosiuerbarso
 
-### 3. [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
+### 3. [(如何 Write a (Lisp) Interpreter (In Python)) (2010)](https://norvig.com/lispy.html)
 
-- ⭐ 17 分｜💬 5 留言｜👤 theanonymousone
+- ⭐ 93 分｜💬 34 留言｜👤 tosh
 
-### 4. [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
+### 4. [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
 
-- ⭐ 86 分｜💬 8 留言｜👤 sph
+https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_...
 
-### 5. [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
+- ⭐ 237 分｜💬 207 留言｜👤 bathory
 
-- ⭐ 224 分｜💬 229 留言｜👤 barqawiz
+### 5. [The Minimum Viable Unit of Saleable 軟體](https://brandur.org/minimum-viable-unit)
 
-### 6. [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
+- ⭐ 48 分｜💬 17 留言｜👤 brandur
 
-- ⭐ 369 分｜💬 153 留言｜👤 Cider9986
+### 6. [Occupancy Math on the AMD MI355X: A From-First-Principles Guide](https://indianspeedster.github.io/blog/occupancy-math-mi355x/)
 
-### 7. [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
+- ⭐ 25 分｜💬 0 留言｜👤 skidrow
 
-- ⭐ 78 分｜💬 44 留言｜👤 jandeboevrie
+### 7. [The Commodore Callback 8020 smart flip phone](https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb)
 
-### 8. [Running MicroVMs in Proxmox VE, the Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
+- ⭐ 91 分｜💬 66 留言｜👤 Audiophilip
 
-- ⭐ 119 分｜💬 9 留言｜👤 zdw
+### 8. [An Embedded Linux on a Single Floppy](https://github.com/w84death/floppinux)
 
-### 9. [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+- ⭐ 14 分｜💬 10 留言｜👤 modinfo
 
-- ⭐ 268 分｜💬 152 留言｜👤 sohkamyung
+### 9. [15-minute at-home Lyme disease tick 測試](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/)
 
-### 10. [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
+https:&#x2F;&#x2F;archive.ph&#x2F;cNwmN
 
-- ⭐ 95 分｜💬 18 留言｜👤 luu
+- ⭐ 195 分｜💬 137 留言｜👤 bookofjoe
 
-### 11. [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
+### 10. [Wildcard (YC W25) is 招聘 an applied ML 工程師](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
 
-- ⭐ 260 分｜💬 73 留言｜👤 croes
+- ⭐ 1 分｜💬 0 留言｜👤 kaushikmahorker
 
-### 12. [Two Qwen3 models on one DGX Spark: the residency math](https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark)
+### 11. [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 
-- ⭐ 13 分｜💬 5 留言｜👤 devashish86
+- ⭐ 471 分｜💬 191 留言｜👤 Cider9986
 
-### 13. [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+### 12. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
 
-- ⭐ 196 分｜💬 50 留言｜👤 Sibexico
+- ⭐ 310 分｜💬 244 留言｜👤 toilet
 
-### 14. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
+### 13. [Burnout is real for 開源 maintainers](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers)
 
-- ⭐ 255 分｜💬 188 留言｜👤 toilet
+- ⭐ 73 分｜💬 28 留言｜👤 theanonymousone
 
-### 15. [A tale of two path separators](https://alexwlchan.net/2021/slashes/)
+### 14. [系統 call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I](https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result)
 
-- ⭐ 34 分｜💬 8 留言｜👤 dbaupp
+- ⭐ 23 分｜💬 12 留言｜👤 matt_d
 
-### 16. [Cosmodial Sky Atlas](https://frankforce.com/cosmodial-sky-atlas/)
+### 15. [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
 
-- ⭐ 10 分｜💬 4 留言｜👤 surprisetalk
+- ⭐ 124 分｜💬 10 留言｜👤 sph
 
-### 17. [15-minute at-home Lyme disease tick 測試](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/)
-
-- ⭐ 149 分｜💬 104 留言｜👤 bookofjoe
-
-### 18. [Rare medieval bookmark exceeds expectations at auction](https://www.thehistoryblog.com/archives/76314)
-
-- ⭐ 18 分｜💬 5 留言｜👤 speckx
-
-### 19. [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
-
-- ⭐ 269 分｜💬 92 留言｜👤 zdw
-
-### 20. [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
-
-- ⭐ 90 分｜💬 73 留言｜👤 bathory
-
-### 21. [DOS Game "F-15 Strike Eagle II" reversing project needs DOS 測試 pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
-
-- ⭐ 265 分｜💬 68 留言｜👤 LowLevelMahn
-
-### 22. [Proportional-Integral-Derivative Controllers](https://en.wikipedia.org/wiki/PID_controller)
-
-- ⭐ 49 分｜💬 25 留言｜👤 dhorthy
-
-### 23. [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
-
-- ⭐ 154 分｜💬 113 留言｜👤 zdw
-
-### 24. [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
-
-- ⭐ 212 分｜💬 48 留言｜👤 zdw
-
-### 25. [Guide to the TD4 4-bit DIY CPU](https://www.philipzucker.com/td4-4bit-cpu/)
-
-- ⭐ 51 分｜💬 5 留言｜👤 andrewstuart
-
-### 26. [Whole cross-sectional human ultrasound tomography](https://www.nature.com/articles/s41551-026-01660-4)
-
-- ⭐ 90 分｜💬 16 留言｜👤 lnyan
-
-### 27. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
+### 16. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
 
 https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare_release&#x2F;https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare&#x2F;
 
-- ⭐ 209 分｜💬 116 留言｜👤 cauenapier
+- ⭐ 224 分｜💬 130 留言｜👤 cauenapier
 
-### 28. [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
+### 17. [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
 
-- ⭐ 115 分｜💬 35 留言｜👤 birdculture
+- ⭐ 89 分｜💬 58 留言｜👤 choult
 
-### 29. [Temporary Cloudflare accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)
+### 18. [Running MicroVMs in Proxmox VE, the Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
 
-- ⭐ 226 分｜💬 120 留言｜👤 farhadhf
+- ⭐ 180 分｜💬 25 留言｜👤 zdw
 
-### 30. [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
+### 19. [Show HN: Pulse – Dashboard for Claude 代碼, approve tool calls from your phone](https://github.com/nikitadoudikov/claude-pulse)
 
-- ⭐ 120 分｜💬 30 留言｜👤 sarangk90
+Hi everyone, 
+I&#x27;m a student from Flanders and I like to use Claude 代碼 for my purposes, ideas and also just for fun and also make solutions for problems in our world!)
+So that&#x27;s 為什麼 I built
+
+- ⭐ 16 分｜💬 7 留言｜👤 nikitadvd
+
+### 20. [Two Qwen3 models on one DGX Spark: the residency math](https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark)
+
+- ⭐ 73 分｜💬 34 留言｜👤 devashish86
+
+### 21. [The early 招聘 funnel is now breaking on both ends](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)
+
+- ⭐ 64 分｜💬 99 留言｜👤 ChrisArchitect
+
+### 22. [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
+
+- ⭐ 340 分｜💬 97 留言｜👤 croes
+
+### 23. [Ocient 資料庫 Sandbox](https://ociforge.com)
+
+- ⭐ 5 分｜💬 1 留言｜👤 boutcher
+
+### 24. [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/)
+
+- ⭐ 67 分｜💬 56 留言｜👤 ingve
+
+### 25. [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+
+- ⭐ 314 分｜💬 183 留言｜👤 sohkamyung
+
+### 26. [The brain was not designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
+
+- ⭐ 303 分｜💬 263 留言｜👤 colinprince
+
+### 27. [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
+
+- ⭐ 120 分｜💬 81 留言｜👤 jandeboevrie
+
+### 28. [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+
+- ⭐ 233 分｜💬 56 留言｜👤 Sibexico
+
+### 29. [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
+
+- ⭐ 118 分｜💬 21 留言｜👤 luu
+
+### 30. [The 100k whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+
+- ⭐ 146 分｜💬 88 留言｜👤 surprisetalk
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- The case against geometric algebra (2024)
+- A tale of two path separators
+- Health insurance claim denial rates range from 13% to 35% by insurer
+- DOS Game "F-15 Strike Eagle II" reversing project needs DOS 測試 pilots
+- Unauthorized alert sent to cell phones across Brazil
+- UHF X11: X11 Built for VisionOS and Apple Vision Pro
+- SMPTE Makes Its Standards Freely Accessible
+- Building reliable agentic AI systems
+- Whole cross-sectional human ultrasound tomography
+- Google Hits 50% IPv6
+- Rare medieval bookmark exceeds expectations at auction
+- Alice is impatient
+- Who owns your ATProto identity?
+- Guide to the TD4 4-bit DIY CPU
+- NSA director: 'Mythos "broke into almost all of our classified systems in hours"
 - Linux eliminates the strncpy API after six years of work, 360 patches
-- 100 Greatest Bird Names of All Time
-- Project Fetch: Phase Two
-- Show HN: StartupWiki – A Free Alternative to Crunchbase
-- Safe SIMD in Rust, Even on the Inside – By Sergey "Shnatsel" Davidoff
+- Don’t use AI to write things that you present as your own work
 - GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2
-- PostgresBench: A Reproducible Benchmark for Postgres Services
-- Show HN: Make PDFs look scanned (CLI or in the browser via WASM)
+- Polymarket reportedly paid people to post fake videos of themselves placing bets
+- Show HN: StartupWiki – A Free Alternative to Crunchbase
 - Bun has an open PR adding shared-memory threads to JavaScriptCore
+- PostgresBench: A Reproducible Benchmark for Postgres Services
+- Project Fetch: Phase Two
+- Show HN: Make PDFs look scanned (CLI or in the browser via WASM)
 - The rise of South Korea’s weapons business
-- Armstrong Effect
-- I was wrong about the Midjourney ultra-sound scanner
-- The Wholesale Plagiarism of Obscure Sorrows
-- The Lost Story of Alan Turing's "Delilah" Project (2025)
-- Printing Gaussian Splats
-- Semiconductor Lifeline Keeps Fighter Jets in the Air
+- Venture Debt for Deep Tech: Financing the Future
 - CSSQuake
+- Proportional-Integral-Derivative (PID) controllers
+- The Wholesale Plagiarism of Obscure Sorrows
 - 推論 cost at scale with napkin math
-- NOLA 'Nacular: One man's crusade to preserve 新 Orleans's vernacular signage
-- The deskilling of 網頁 dev is damaging our health
-- CTOs Agree: Cognitive Debt Is the 新 Technical Debt
+- Armstrong Effect
+- Semiconductor Lifeline Keeps Fighter Jets in the Air
+- The Lost Story of Alan Turing's "Delilah" Project (2025)
 - Millimeter wave technology drills 100 meters into granite
-- Show HN: Microcrad – Micrograd Reimplemented in C
-- Show HN: We post-trained a 模型 that pen tests instead of refusing
-- 為什麼 has the pointe shoe been so resistant to change?
-- Your brain was never designed for this much bad news
 - Think of the children: 如何 force real ID for all internet traffic (2023)
-- Bootimus – A Self-Contained PXE and HTTP Boot 伺服器
+- NOLA 'Nacular: One man's crusade to preserve 新 Orleans's vernacular signage
+- 100 Greatest Bird Names of All Time
+- Show HN: Microcrad – Micrograd Reimplemented in C
 - LLMs Are Complicated Now
-- When I reject AI 代碼 even if it works
+- Show HN: We post-trained a 模型 that pen tests instead of refusing
+- Bootimus – A Self-Contained PXE and HTTP Boot 伺服器
+- 為什麼 has the pointe shoe been so resistant to change?
+- Temporary Cloudflare accounts for AI agents
+- Billionaire Tax Officially Heads to Nov. 3 Ballot
+- Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios
 - Pondering routing more of my traffic via nodes outside the UK
 - Show HN: My Windows XP portfolio with working Game Boy and iPod
-- Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios
-- Firecracker-like microVMs for Proxmox VE
-- The ability to regrow body parts is dormant in mammals, not lost
-- Now You Don't: When Espionage Meets Magic
 - Windows 11 新 Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs
-- The 100k Whys of AI
-- Bab: A hash function for content-addressable storage
-- Foreign-Born Entrepreneurs Drive America's Unicorn Boom
-- Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions
 - The discovery that changed how scientists think about memory
-- 網頁 Browsers on PDAS
-- AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS 更新 in July
-- How the Fifth Lateran Council Unlocked Financial Theory
 - Hyundai buys Boston Dynamics
+- Bab: A hash function for content-addressable storage
+- The ability to regrow body parts is dormant in mammals, not lost
+- Safe SIMD in Rust, Even on the Inside – By Sergey "Shnatsel" Davidoff
 - Surprising economics of load-balanced systems
-- Sword Swallowing and Its Side Effects
+- Now You Don't: When Espionage Meets Magic
+- 網頁 Browsers on PDAS
+- How the Fifth Lateran Council Unlocked Financial Theory
+- AI Under Trump's Control: Can France Still Avoid Digital Dependence?
 - Where to Find the Colors Your Screen Can't Show You
-- The "I don't know, Claude wrote this" pandemic
-- Pre-2022 Books
-- Polymarket Paid Dozens to Post Videos of Themselves 'Winning' with Fake Bets
-- Human Judgment as a Specification
+- AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS 更新 in July
 - A 1969 camera operators' strike created Upstairs Downstairs multiverse
-- The Cold War's Accidental Whale Observatory
-- Dirty Little Zine – a tool for making an 8 page printable Zine
-- Show HN: Ember, a native iOS Hacker News reader I built around accessibility
-- Computed goto for efficient dispatch tables (2012)
-- From PGP to Mythos: a brief history of export controls that didn't stop anyone
-- Can you see three trees?
-- A Perceptron in Age of Empires II
+- Human Judgment as a Specification
+- Rich Programmer Food (2007)
 - Show HN: Talos – Open-source WASM interpreter for Lean
-- Flexport (YC W14) Is 招聘 in Indonesia, India, and Thailand
-- Mencius (2016)
-- Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died
+- The Cold War's Accidental Whale Observatory
+- A Perceptron in Age of Empires II
+- Can you see three trees?
+- Computed goto for efficient dispatch tables (2012)
 - There are no instances in ATProto
-- AURpocalypse now: a look at the recent AUR attacks
-- I Stored a Website in a Favicon
-- Egyptian Fractions (2006)
-- Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf
+- Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died
 
 
 ---
