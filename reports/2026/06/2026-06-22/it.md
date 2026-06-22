@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [Apertus – Open Foundation 模型 for Sovereign AI](https://apertvs.ai/)
+### 1. [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 
-- ⭐ 230 分｜💬 81 留言｜👤 T-A
+- ⭐ 488 分｜💬 190 留言｜👤 GeneralMaximus
 
-### 2. [Did my old 工作 only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+### 2. [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 
-- ⭐ 268 分｜💬 118 留言｜👤 advisedwang
+- ⭐ 293 分｜💬 65 留言｜👤 gregsadetsky
 
-### 3. [Sakana Fugu](https://sakana.ai/fugu/)
+### 3. [Did my old 工作 only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
 
-- ⭐ 22 分｜💬 2 留言｜👤 Finbarr
+- ⭐ 606 分｜💬 266 留言｜👤 advisedwang
 
-### 4. [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
+### 4. [Apertus – Open Foundation 模型 for Sovereign AI](https://apertvs.ai/)
 
-- ⭐ 132 分｜💬 20 留言｜👤 E-Reverance
+- ⭐ 419 分｜💬 140 留言｜👤 T-A
 
-### 5. [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
+### 5. [Munich 1991: The Roots of the Current AI Boom](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
 
-- ⭐ 23 分｜💬 6 留言｜👤 arexxbifs
+- ⭐ 92 分｜💬 34 留言｜👤 tosh
 
-### 6. [There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html)
+### 6. [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
 
-- ⭐ 72 分｜💬 30 留言｜👤 amarble
+- ⭐ 33 分｜💬 3 留言｜👤 monkeydust
 
-### 7. [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
+### 7. [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 
-- ⭐ 23 分｜💬 0 留言｜👤 pizlonator
+- ⭐ 126 分｜💬 74 留言｜👤 vantareed
 
-### 8. [JSON-LD explained for personal websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
+### 8. [Writing Postcards with a 3D Printer](https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/)
 
-- ⭐ 175 分｜💬 49 留言｜👤 ethanhawksley
+- ⭐ 14 分｜💬 5 留言｜👤 typesafeJ
 
-### 9. [Petition against Meta's employee 訓練 data collection for ML models](https://mcipetition.com/)
+### 9. [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
 
-- ⭐ 55 分｜💬 38 留言｜👤 reasonableklout
+- ⭐ 169 分｜💬 149 留言｜👤 ritzaco
 
-### 10. [I Play Video Games with Spinal Muscular Atrophy](https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/)
+### 10. [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 
-- ⭐ 38 分｜💬 7 留言｜👤 dannyobrien
+- ⭐ 117 分｜💬 26 留言｜👤 pizlonator
 
-### 11. [PowerFox Browser](https://powerfox.jazzzny.me/)
+### 11. [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
 
-- ⭐ 83 分｜💬 29 留言｜👤 thisislife2
+- ⭐ 240 分｜💬 50 留言｜👤 E-Reverance
 
-### 12. [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
+### 12. [There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html)
+
+- ⭐ 251 分｜💬 214 留言｜👤 amarble
+
+### 13. [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
 
 https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_...
 
-- ⭐ 598 分｜💬 532 留言｜👤 bathory
+- ⭐ 780 分｜💬 650 留言｜👤 bathory
 
-### 13. [Good results fine tuning a local 大型語言模型 like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
+### 14. [Good results fine tuning a local 大型語言模型 like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
 
-- ⭐ 30 分｜💬 4 留言｜👤 dev-experiments
+- ⭐ 152 分｜💬 30 留言｜👤 dev-experiments
 
-### 14. [My 1992 view of the problems of computer 程式設計 in 1992](https://blog.plover.com/prog/fortran-i.html)
+### 15. [Lisp in the Rust Type 系統](https://github.com/playX18/lisp-in-types/)
 
-- ⭐ 24 分｜💬 2 留言｜👤 pavel_lishin
+- ⭐ 79 分｜💬 1 留言｜👤 quasigloam
 
-### 15. [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
+### 16. [Sakana Fugu](https://sakana.ai/fugu/)
 
-- ⭐ 442 分｜💬 263 留言｜👤 mosiuerbarso
+- ⭐ 136 分｜💬 81 留言｜👤 Finbarr
 
-### 16. [From Combinatorial Mess to Linear Elegance: Architecting a Conversion Engine](https://blog.minimal.app/conversion-engine/)
+### 17. [UTFS: A Tar-Like File 系統 for Embedded Systems (2025)](https://clisystems.com/article-UTFS-intro/)
 
-- ⭐ 14 分｜💬 2 留言｜👤 arthurofbabylon
+- ⭐ 3 分｜💬 0 留言｜👤 zdw
 
-### 17. [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+### 18. [JSON-LD explained for personal websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
 
-- ⭐ 431 分｜💬 300 留言｜👤 rafaepta
+- ⭐ 226 分｜💬 69 留言｜👤 ethanhawksley
 
-### 18. [HPV jabs cut risk of dying from cervical cancer before 30 to almost zero](https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds)
+### 19. [Efficient C++ 程式設計 for Modern C++ CPUs, Chapter 4/part 2](https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736)
 
-- ⭐ 175 分｜💬 100 留言｜👤 toomuchtodo
+- ⭐ 66 分｜💬 13 留言｜👤 birdculture
 
-### 19. [The minimum viable unit of saleable 軟體](https://brandur.org/minimum-viable-unit)
+### 20. [Japanese verb conjugation the simple hard way](https://underreacted.leaflet.pub/3mmevu6woys27)
 
-- ⭐ 135 分｜💬 52 留言｜👤 brandur
+- ⭐ 110 分｜💬 162 留言｜👤 valzevul
 
-### 20. [Show HN: Recall – fully-local project memory for Claude 代碼](https://github.com/raiyanyahya/recall)
+### 21. [How I play video games with spinal muscular atrophy](https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/)
 
-- ⭐ 79 分｜💬 59 留言｜👤 mateenah
+- ⭐ 120 分｜💬 17 留言｜👤 dannyobrien
 
-### 21. [Rent collections are down in 新 York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
+### 22. [Show HN: Teach your kids perfect pitch](https://github.com/paytonjjones/bsharp)
 
-- ⭐ 38 分｜💬 58 留言｜👤 JumpCrisscross
+- ⭐ 152 分｜💬 95 留言｜👤 paytonjjones
 
-### 22. [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
+### 23. [My 1992 view of the problems of computer 程式設計 in 1992](https://blog.plover.com/prog/fortran-i.html)
 
-- ⭐ 120 分｜💬 58 留言｜👤 worik
+- ⭐ 27 分｜💬 6 留言｜👤 speckx
 
-### 23. [Minecraft: Java Edition 26.2, the first version with Vulkan 1.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2)
+### 24. [Minecraft: Java Edition 26.2, the first version with Vulkan 1.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2)
 
-- ⭐ 68 分｜💬 16 留言｜👤 ObviouslyFlamer
+- ⭐ 161 分｜💬 62 留言｜👤 ObviouslyFlamer
 
-### 24. [I was wrong about the Midjourney ultra-sound scanner](https://twitter.com/MattZirwas/status/2068365802491834541)
+### 25. [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
 
-https:&#x2F;&#x2F;xcancel.com&#x2F;MattZirwas&#x2F;status&#x2F;2068365802491834541
+- ⭐ 63 分｜💬 21 留言｜👤 arexxbifs
 
-- ⭐ 59 分｜💬 39 留言｜👤 MrBuddyCasino
+### 26. [PowerFox Browser](https://powerfox.jazzzny.me/)
 
-### 25. [Wildcard (YC W25) is 招聘 an applied ML 工程師](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
+- ⭐ 141 分｜💬 40 留言｜👤 thisislife2
 
-- ⭐ 1 分｜💬 0 留言｜👤 kaushikmahorker
+### 27. [Luis Alvarez's Journey from Hiroshima to the Death of the Dinosaurs](https://www.lrb.co.uk/the-paper/v48/n11/steven-shapin/barrel-of-greenbacks)
 
-### 26. [Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf](https://the-criterion-closet.vercel.app)
+- ⭐ 12 分｜💬 1 留言｜👤 mitchbob
 
-- ⭐ 53 分｜💬 13 留言｜👤 olievans
+### 28. [Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf](https://the-criterion-closet.vercel.app)
 
-### 27. [(如何 Write a (Lisp) Interpreter (In Python)) (2010)](https://norvig.com/lispy.html)
+- ⭐ 124 分｜💬 34 留言｜👤 olievans
 
-- ⭐ 166 分｜💬 55 留言｜👤 tosh
+### 29. [Rent collections are down in 新 York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
 
-### 28. [An Embedded Linux on a Single Floppy](https://github.com/w84death/floppinux)
+- ⭐ 93 分｜💬 371 留言｜👤 JumpCrisscross
 
-- ⭐ 64 分｜💬 31 留言｜👤 modinfo
+### 30. [The minimum viable unit of saleable 軟體](https://brandur.org/minimum-viable-unit)
 
-### 29. [Show HN: Teach your kids perfect pitch](https://github.com/paytonjjones/bsharp)
-
-- ⭐ 68 分｜💬 44 留言｜👤 paytonjjones
-
-### 30. [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
-
-- ⭐ 118 分｜💬 62 留言｜👤 skogstokig
+- ⭐ 179 分｜💬 64 留言｜👤 brandur
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs
+- Prefer duplication over the wrong abstraction (2016)
+- LLMs do not merely reflect the bias of their 訓練, they police it
+- (如何 Write a (Lisp) Interpreter (In Python)) (2010)
+- Britain's prime minister to step down, Burnham puts himself forward as successor
+- Show HN: Recall – Local project memory for Claude 代碼
+- FDA advisors unanimously vote to approve Moderna's mRNA after agency drama
+- Wildcard (YC W25) is 招聘 an applied ML 工程師
+- An Embedded Linux on a Single Floppy
 - You're probably using 代理 Skills wrong
-- The Doom Justifies the Valuation
-- Tell HN: Happy Fathers Day
-- Show HN: CleverCrow: give tokens to your favorite projects
-- The case against geometric algebra (2024)
-- Occupancy Math on the AMD MI355X: A From-First-Principles Guide
+- Beyond All Reason (Free Total Annihilation Inspired RTS)
+- Architecting a Conversion Engine in Swift
 - Proportional-Integral-Derivative (PID) controllers
-- The Commodore Callback 8020 smart flip phone
-- Google Hits 50% IPv6
+- Ask for no, don't ask for yes (2022)
+- The case against geometric algebra (2024)
+- Data centers become the face of AI backlash
 - Excessive nil pointer checks in Go
-- The brain was not designed for this much bad news
-- Djevops: Self-Host Django Easily
-- Tech Workers Are Fighting Against Silicon Valley's AI Push
-- 新 Super Pac Aims to Rally Tech Workers to Help Limit A.I
-- Show HN: Pulse – Dashboard for Claude 代碼, approve tool calls from your phone
-- Show HN: HN Game Stories – mini-documentary of games that hit the front page
-- Show HN: StartupsBR – A map of Brazilian startups
-- Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?
-- Cocktail Optimization, an Integer 程式設計 Problem
-- 系統 call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I
-- The 100k whys of AI
-- Two Qwen3 models on one DGX Spark: the residency math
-- Windows UI evolution: Clicking an unassociated file
-- NSA director: 'Mythos "broke into almost all of our classified systems in hours"
-- Zigzag Decoding with AVX-512
+- Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs
+- Google Hits 50% IPv6
+- Danish privacy activist Lars Andersen raided by police
 - I Canceled My French Tutor and Built an 大型語言模型 Tool That Does It Better
-- Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use
-- 15-minute at-home Lyme disease tick 測試
-- Graphene experts are trying to close reproducibility gap in 2D materials
-- Loupe – A iOS app that raises awareness about what native apps can see
-- Developers don't understand CORS (2019)
-- Don’t use AI to write things that you present as your own work
-- Ask HN: Are you being "529 Overloaded" by Anthropic too?
-- Building reliable agentic AI systems
-- Burnout is real for 開源 maintainers
-- A 3D voxel game engine written in APL
-- A tale of two path separators
+- Tell HN: Happy Fathers Day
+- Show HN: Crespo – Tree-sitter AST blueprints instead of raw 代碼 for LLMs
+- The brain was not designed for this much bad news
+- The Commodore Callback 8020 smart flip phone
+- My 1992 view of the problems of computer 程式設計 in 1992
+- Occupancy Math on the AMD MI355X: A From-First-Principles Guide
+- The Doom Justifies the Valuation
+- The 100k whys of AI
+- Show HN: CleverCrow: give tokens to your favorite projects
+- NSA director: 'Mythos "broke into almost all of our classified systems in hours"
+- Shape Suffixes – Good Coding Style
+- I was wrong about the Midjourney ultra-sound scanner
+- SC law legalizes pinball for youth, ending decades-old prohibition
+- Windows UI evolution: Clicking an unassociated file
+- Zigzag Decoding with AVX-512
 - GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2
-- I Still Live in the Terminal
-- Simple hard way to conjugate Japanese verbs
+- Two Qwen3 models on one DGX Spark: the residency math
+- Show HN: Pulse – Dashboard for Claude 代碼, approve tool calls from your phone
+- Don’t use AI to write things that you present as your own work
+- 15-minute at-home Lyme disease tick 測試
+- Loupe – A iOS app that raises awareness about what native apps can see
+- Djevops: Self-Host Django Easily
+- Developers don't understand CORS (2019)
+- Building reliable agentic AI systems
+- Cocktail Optimization, an Integer 程式設計 Problem
+- Human-in-the-Loop Is Not the Same as Judgment-in-the-Loop
+- Show HN: StartupsBR – A map of Brazilian startups
 - Show HN: TownSquare, a tiny presence layer for websites
 - Whole cross-sectional human ultrasound tomography
-- Running MicroVMs in Proxmox VE, the Easy Way
-- Slow breathing modulates brain function and risk behavior
-- Securing the Future of AI Agents
+- Accenture's crash shows the consultancy racket is finished
 - Alice is impatient
-- The early 招聘 funnel is now breaking on both ends
-- Energy 安全, Not Climate Goals, Is Now Driving the Clean Power Boom
+- Ask HN: Do you have an unusual income source
+- Slow breathing modulates brain function and risk behavior
+- Staggering amounts of fentanyl hit streets as the DEA watched and took no action
+- QUIC is more than a replacement for TCP
+- Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use
+- A 3D voxel game engine written in APL
+- A tale of two path separators
 - Linux eliminates the strncpy API after six years of work, 360 patches
-- Who owns your ATProto identity?
-- Renting a sewing machine from the library
-- Ocient 資料庫 Sandbox
-- The notebooks Marie Curie filled with her research are still dangerous to touch
 - Show HN: StartupWiki – A Free Alternative to Crunchbase
-- Guide to the TD4 4-bit DIY CPU
-- Epoll vs. io_uring in Linux
-- Read More Fiction
-- Show HN: DebugBrief – turn debugging sessions into reports, no AI
-- Performance Improvements in Libffi
-- Bun has an open PR adding shared-memory threads to JavaScriptCore
-- Rare medieval bookmark exceeds expectations at auction
+- Japan to raise visa fees for foreign nationals
+- Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?
+- 系統 call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I
+- Running MicroVMs in Proxmox VE, the Easy Way
+- Renting a sewing machine from the library
+- Canadian government spent $46.8M on a secret Palantir contract
 - Show HN: Make PDFs look scanned (CLI or in the browser via WASM)
-- I make good money. 為什麼 do I still feel like this?
-- The rise of South Korea’s weapons business
-- PostgresBench: A Reproducible Benchmark for Postgres Services
-- CSSQuake
-- Show HN: Souso – plan your week, fill your AH/Jumbo basket (MEGATHON Amsterdam)
-- Project Fetch: Phase Two
-- Daily_stock_analysis: 大型語言模型-powered multi-market stock analysis 系統
+- Tech Workers Are Fighting Against Silicon Valley's AI Push
+- Bun has an open PR adding shared-memory threads to JavaScriptCore
+- Epoll vs. io_uring in Linux
 
 
 ---
