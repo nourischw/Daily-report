@@ -4,208 +4,206 @@
 
 ---
 
-### 1. [The 新 HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
+### 1. [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
 
-- ⭐ 80 分｜💬 40 留言｜👤 CommonGuy
+- ⭐ 176 分｜💬 51 留言｜👤 ingve
 
-### 2. [Steam Machine 推出 today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+### 2. [Elevated error rate across multiple models](https://status.claude.com/incidents/jbhf20wjmzrf)
+
+- ⭐ 30 分｜💬 10 留言｜👤 rob
+
+### 3. [Steam Machine 推出 today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 
 https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachinehttps:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...https:&#x2F;&#x2F;www.youtube.com&
 
-- ⭐ 1574 分｜💬 1368 留言｜👤 theschwa
+- ⭐ 1761 分｜💬 1499 留言｜👤 theschwa
 
-### 3. [AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+### 4. [MSG Made Dossier on Activists Who Opposed Facial Recognition](https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/)
 
-- ⭐ 27 分｜💬 14 留言｜👤 kensai
+- ⭐ 41 分｜💬 0 留言｜👤 cdrnsf
 
-### 4. [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
+### 5. [Plotnine](https://plotnine.org/)
 
-- ⭐ 154 分｜💬 91 留言｜👤 mindingnever
+- ⭐ 140 分｜💬 38 留言｜👤 tosh
 
-### 5. [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2)
+### 6. [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
 
-- ⭐ 283 分｜💬 213 留言｜👤 Vaslo
+- ⭐ 225 分｜💬 152 留言｜👤 mindingnever
 
-### 6. [GLM-5.2 – 如何 Run Locally](https://unsloth.ai/docs/models/glm-5.2)
+### 7. [GLM-5.2 – 如何 Run Locally](https://unsloth.ai/docs/models/glm-5.2)
 
-- ⭐ 379 分｜💬 167 留言｜👤 TechTechTech
+- ⭐ 486 分｜💬 225 留言｜👤 TechTechTech
 
-### 7. [VibeThinker: 3B param 模型 that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+### 8. [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/)
 
-- ⭐ 183 分｜💬 72 留言｜👤 timhigins
+- ⭐ 210 分｜💬 223 留言｜👤 ibobev
 
-### 8. [Plotnine](https://plotnine.org/)
+### 9. [Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)
 
-- ⭐ 23 分｜💬 11 留言｜👤 tosh
+- ⭐ 27 分｜💬 6 留言｜👤 hn_acker
 
-### 9. [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
+### 10. [VibeThinker: 3B param 模型 that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
 
-- ⭐ 147 分｜💬 56 留言｜👤 j03b
+- ⭐ 280 分｜💬 137 留言｜👤 timhigins
 
-### 10. [An 介紹 YOLO26](https://blog.roboflow.com/yolo26/)
+### 11. [Epidurals are a miracle technology](https://worksinprogress.co/issue/the-wonder-of-epidurals/)
 
-- ⭐ 69 分｜💬 23 留言｜👤 teleforce
+- ⭐ 44 分｜💬 23 留言｜👤 karakoram
 
-### 11. [Improvements to Std:Format in C++26](https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/)
+### 12. [The Traditional Vi](https://ex-vi.sourceforge.net/)
 
-- ⭐ 17 分｜💬 6 留言｜👤 jandeboevrie
+- ⭐ 41 分｜💬 26 留言｜👤 exvi
 
-### 12. [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
+### 13. [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
 
-- ⭐ 296 分｜💬 109 留言｜👤 aleda145
+- ⭐ 217 分｜💬 84 留言｜👤 j03b
 
-### 13. [OpenAI DayBreak – GPT-5.5-Cyber](https://openai.com/index/daybreak-securing-the-world/)
+### 14. [Show HN: 神經網絡 Particle Automata](https://selforg-npa.github.io/)
 
-- ⭐ 88 分｜💬 46 留言｜👤 AaronO
+神經網絡 CAs 模型 self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a sim
 
-### 14. [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
+- ⭐ 49 分｜💬 12 留言｜👤 esychology
 
-- ⭐ 176 分｜💬 47 留言｜👤 iamnothere
+### 15. [Show HN: Shumai – open-source Frame.io alternative for creative work](https://github.com/shumaiOne/shumai)
 
-### 15. [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
+Shumai is an 開源 platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspa
 
-- ⭐ 39 分｜💬 5 留言｜👤 teleforce
+- ⭐ 24 分｜💬 0 留言｜👤 Yiling-J
 
-### 16. [Moebius: 0.2B image inpainting 模型 with 10B-level performance](https://hustvl.github.io/Moebius/)
+### 16. [You already have a Git 伺服器](https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html)
 
-- ⭐ 289 分｜💬 69 留言｜👤 DSemba
+- ⭐ 22 分｜💬 11 留言｜👤 sheelagay
 
-### 17. [Package Managers need global hooks](https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/)
+### 17. [Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
 
-- ⭐ 23 分｜💬 33 留言｜👤 evakhoury
+- ⭐ 118 分｜💬 30 留言｜👤 speckx
 
-### 18. [8086 Segmented Memory was a good idea](https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/)
+### 18. [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)
 
-- ⭐ 7 分｜💬 4 留言｜👤 billpg
+- ⭐ 118 分｜💬 104 留言｜👤 ingve
 
-### 19. [Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html)
+### 19. [Apple is going to raise device prices, but when?](https://daringfireball.net/linked/2026/06/22/apple-device-prices-when)
 
-- ⭐ 10 分｜💬 0 留言｜👤 owulveryck
+- ⭐ 54 分｜💬 41 留言｜👤 tosh
 
-### 20. [Gemini models increasingly stucking in thinking loop](https://news.ycombinator.com/item?id=48642229)
+### 20. [8086 Segmented Memory was a good idea](https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/)
 
-Using Google Antigravity and Google AI Studio, I have noticed that Gemini models, which includes 3.1 Pro and 3.5 Flash, are increasingly stucking in thinking loops. It has become much more common. So 
+- ⭐ 44 分｜💬 80 留言｜👤 billpg
 
-- ⭐ 3 分｜💬 4 留言｜👤 StizzurpXDD
+### 21. [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
 
-### 21. [Show HN: Oak – Git alternative designed for agents](https://oak.space/oak/oak)
+- ⭐ 334 分｜💬 130 留言｜👤 aleda145
 
-Oak is a version control 系統 I&#x27;ve been working on designed for agents (https:&#x2F;&#x2F;oak.space). It improves the speed and context your agents need when working on serious projects. With v
+### 22. [Researchers used math to crack Wordle](https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle)
 
-- ⭐ 185 分｜💬 162 留言｜👤 zdgeier
+- ⭐ 7 分｜💬 1 留言｜👤 hhs
 
-### 22. [Cyberdecks, going analog, and convivial technology](https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/)
+### 23. [OpenAI DayBreak – GPT-5.5-Cyber](https://openai.com/index/daybreak-securing-the-world/)
 
-- ⭐ 104 分｜💬 56 留言｜👤 akkartik
+- ⭐ 153 分｜💬 119 留言｜👤 AaronO
 
-### 23. [Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509)
+### 24. [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
 
-- ⭐ 472 分｜💬 320 留言｜👤 geox
+- ⭐ 203 分｜💬 52 留言｜👤 iamnothere
 
-### 24. [Show HN: A pure ARM64 Assembly 網頁 伺服器, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
+### 25. [An 介紹 YOLO26](https://blog.roboflow.com/yolo26/)
 
-This is ymawky, a now-dynamic 網頁 伺服器 written entirely in ARM64 Assembly. I&#x27;ve previously posted about ymawky here: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48080587In the past mont
+- ⭐ 88 分｜💬 31 留言｜👤 teleforce
 
-- ⭐ 18 分｜💬 5 留言｜👤 imtomt
+### 26. [Moebius: 0.2B image inpainting 模型 with 10B-level performance](https://hustvl.github.io/Moebius/)
 
-### 25. [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
+- ⭐ 306 分｜💬 77 留言｜👤 DSemba
 
-- ⭐ 68 分｜💬 11 留言｜👤 zdw
+### 27. [The 新 HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
 
-### 26. [Flock-Powered Police Chiefs Stalking Women Shows 為什麼 Warrants Are Needed](https://ipvm.com/reports/police-chiefs-track)
+- ⭐ 188 分｜💬 133 留言｜👤 CommonGuy
 
-- ⭐ 513 分｜💬 221 留言｜👤 jhonovich
-
-### 27. [Kyber (YC W23) Is 招聘 a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+### 28. [Kyber (YC W23) Is 招聘 a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 
 - ⭐ 1 分｜💬 0 留言｜👤 asontha
 
-### 28. [Show HN: Got sick of ads, so I made my own logic puzzle site](https://puzzlelair.com/)
+### 29. [Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html)
 
-- ⭐ 195 分｜💬 116 留言｜👤 HaxleRose
+- ⭐ 35 分｜💬 22 留言｜👤 owulveryck
 
-### 29. [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
+### 30. [Oracle shed about 20k roles globally in the last year](https://www.bbc.com/news/articles/c4gy0x0j5deo)
 
-- ⭐ 530 分｜💬 122 留言｜👤 gregsadetsky
-
-### 30. [Canyon HUD helmet for road riding](https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/)
-
-- ⭐ 95 分｜💬 111 留言｜👤 zh3
+- ⭐ 83 分｜💬 88 留言｜👤 Lyngbakr
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- How Lume Works: The Retrieval Primitives
+- Show HN: A pure ARM64 Assembly 網頁 伺服器, now on Linux with CGI for no reason
+- Show HN: Oak – Git alternative designed for agents
+- CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp
+- Improvements to Std:Format in C++26
+- Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040
 - Matrix and Quaternion FAQ
-- Deno Desktop
-- Chevron signs 20-year power agreement with Microsoft for West Texas data center
-- 1,700 free online courses from 熱門 universities
-- Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages
-- Japanese symbols that speak without words
-- Pledging another $400k to the Zig 軟體 foundation
-- DisplayMate
-- Prompt Injection as Role Confusion
-- 工作 應用 asked for my SAT scores
-- Die analysis of the 8087 math coprocessor's fast bit shifter (2020)
+- Mistral OCR 4
+- Windows NT for GameCube/Wii
+- Cyberdecks, going analog, and convivial technology
+- Help I accidentally a wigglegram
+- Package Managers need global hooks
+- Show HN: Got sick of ads, so I made my own logic puzzle site
+- Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models
 - Is it time for a 新 Embedded Linux 構建 系統?
-- EU Member States (and Google) suddenly want to keep cookie banners
-- Finding the 最佳 Dog Treat with Statistics
-- British Columbia, Time Zones, and Postgres
-- Meta Invests $900M in CRED, Taps Founder to Head WhatsApp
-- Death by a Thousand Comments
-- GLM-5.2 is the step change for open agents
-- ytr: YouTube Radio for Emacs
-- The text in Claude 代碼’s “Extended Thinking” output
+- Prompt Injection as Role Confusion
+- Deno Desktop
+- Flock-Powered Police Chiefs Stalking Women Shows 為什麼 Warrants Are Needed
+- Polymarket has flooded social media with deceptive videos by paid creators
+- Canyon HUD helmet for road riding
+- Chevron signs 20-year power agreement with Microsoft for West Texas data center
+- Pledging another $400k to the Zig 軟體 foundation
+- Die analysis of the 8087 math coprocessor's fast bit shifter (2020)
+- DisplayMate
 - Show HN: CleverCrow: give tokens to your favorite projects
-- Nintendo Wii U games running from a 1980's Bernoulli disk [video]
 - Munich 1991: The Roots of the Current AI Boom
-- Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times
+- How Lume Works: The Retrieval Primitives
+- Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages
+- The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"
+- The text in Claude 代碼’s “Extended Thinking” output
+- 工作 應用 asked for my SAT scores
+- Finding the 最佳 Dog Treat with Statistics
+- ytr: YouTube Radio for Emacs
 - Codex logging bug may write TBs to local SSDs
-- How sad should I be about ChatGPT? (2022)
+- British Columbia, Time Zones, and Postgres
+- Japanese symbols that speak without words
+- Nintendo Wii U games running from a 1980's Bernoulli disk [video]
+- 1,700 free online courses from 熱門 universities
 - window.showDirectoryPicker opens up a whole 新 world
-- Linux and Secure Boot certificate expiration (2025)
-- PivCo-Huffman “merge” operations
-- Alan Greenspan has died
+- Openresearch: GLM 5.2 for Autoresearch
 - GLM 5.2 vs. Opus
-- Self-Harness: Harnesses That Improve Themselves
 - Sakana Fugu
-- Memory crisis is getting so bad that even retro RAM prices are going to the Moon
+- Scaling Akvorado BMP RIB with Sharding
+- Alan Greenspan has died
+- Linux and Secure Boot certificate expiration (2025)
 - Investors get real-time view of UK bond market activity for the first time
-- Wolves are reconquering Europe. Can people learn to live with them?
-- Did my old 工作 only exist because of fraud?
-- Apertus – Open Foundation 模型 for Sovereign AI
+- I built an AI memory engine in 10 days, then needed a project to prove it works
+- GLM-5.2 is the step change for open agents
+- Death by a Thousand Comments
+- PivCo-Huffman “merge” operations
+- Self-Harness: Harnesses That Improve Themselves
 - Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf
+- Apertus – Open Foundation 模型 for Sovereign AI
+- Memory crisis is getting so bad that even retro RAM prices are going to the Moon
 - How I play video games with spinal muscular atrophy
-- Meta pauses AI 訓練 program tracking employee keystrokes after internal leak
-- UUID: NewV7() always generates a UUID with 7000 on browsers (Golang)
 - The minimum viable unit of saleable 軟體
+- Did my old 工作 only exist because of fraud?
 - There is minimal downside to switching to open models
-- QSOE: QNX-inspired OS with dual-kernel architecture
+- AI Built a Nuke and Still Lost
+- UUID: NewV7() always generates a UUID with 7000 on browsers (Golang)
 - Prefer duplication over the wrong abstraction (2016)
-- How do flocking birds and schools of fish move?
+- Wolves are reconquering Europe. Can people learn to live with them?
 - Rent collections are down in 新 York
-- 為什麼 Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers
-- Lisp in the Rust Type 系統
+- QSOE: QNX-inspired OS with dual-kernel architecture
+- EU Member States (and Google) suddenly want to keep cookie banners
 - Japanese verb conjugation the simple hard way
-- Efficient C++ 程式設計 for Modern 64-bit CPUs: Chapter 4/part 2
+- Wikipedia cofounder Larry Sanger blocked from editing Wikipedia
+- Lisp in the Rust Type 系統
 - Show HN: Recall – Local project memory for Claude 代碼
-- Danish privacy activist Lars Andersen raided by police
-- Rlwrap your CLI tools, dammit
-- A zero-install static site hosting service for hackers
-- AWS Lambda MicroVMs for isolated execution of user and AI-generated 代碼
-- Show HN: Selector Forge – browser extension for AI-generated resilient selectors
-- (如何 Write a (Lisp) Interpreter (In Python)) (2010)
-- Daybreak: Tools for securing every organization in the world
-- Nearly half of LG smart TV apps contain residential proxy SDKs
-- Maria Isabel Sánchez Vegara on Her 100th "Little People, Big Dreams" Book
-- Granularity comes at a cost
-- Rive, Fast and reliable background jobs in Go
-- Mexican government unveils a prototype for a 新 homegrown, ultra-affordable EV
-- Show HN: HN Game Stories – mini-documentary of games that hit the front page
-- Identity verification on Claude
-- Definium's LSD-based depression pill delivers strong late-stage results
-- Proportional-Integral-Derivative (PID) controllers
+- Efficient C++ 程式設計 for Modern 64-bit CPUs: Chapter 4/part 2
+- 為什麼 Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers
 
 
 ---
