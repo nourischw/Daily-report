@@ -4,206 +4,212 @@
 
 ---
 
-### 1. [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
+### 1. [Jerry's Map](http://www.jerrysmap.com/the-map)
 
-- ⭐ 176 分｜💬 51 留言｜👤 ingve
+https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin...
 
-### 2. [Elevated error rate across multiple models](https://status.claude.com/incidents/jbhf20wjmzrf)
+- ⭐ 89 分｜💬 9 留言｜👤 turtleyacht
 
-- ⭐ 30 分｜💬 10 留言｜👤 rob
+### 2. [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
 
-### 3. [Steam Machine 推出 today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+- ⭐ 78 分｜💬 23 留言｜👤 JDevlieghere
 
-https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachinehttps:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...https:&#x2F;&#x2F;www.youtube.com&
+### 3. [F3](https://github.com/future-file-format/f3)
 
-- ⭐ 1761 分｜💬 1499 留言｜👤 theschwa
+- ⭐ 463 分｜💬 116 留言｜👤 tosh
 
-### 4. [MSG Made Dossier on Activists Who Opposed Facial Recognition](https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/)
+### 4. [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
 
-- ⭐ 41 分｜💬 0 留言｜👤 cdrnsf
+Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually 代碼 up their figures 
 
-### 5. [Plotnine](https://plotnine.org/)
+- ⭐ 262 分｜💬 55 留言｜👤 DominikPeters
 
-- ⭐ 140 分｜💬 38 留言｜👤 tosh
+### 5. [Unlimited OCR: One-shot long-horizon parsing](https://github.com/baidu/Unlimited-OCR)
 
-### 6. [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
+- ⭐ 376 分｜💬 91 留言｜👤 ingve
 
-- ⭐ 225 分｜💬 152 留言｜👤 mindingnever
+### 6. [The worthlessness of Vitamin D is mildly exaggerated](https://dynomight.net/vitamin-d/)
 
-### 7. [GLM-5.2 – 如何 Run Locally](https://unsloth.ai/docs/models/glm-5.2)
+- ⭐ 53 分｜💬 22 留言｜👤 surprisetalk
 
-- ⭐ 486 分｜💬 225 留言｜👤 TechTechTech
+### 7. [San Diego photologs from the 1970s](https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/)
 
-### 8. [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/)
+- ⭐ 107 分｜💬 24 留言｜👤 jonathanmkeegan
 
-- ⭐ 210 分｜💬 223 留言｜👤 ibobev
+### 8. [Five monitors on a Commodore 128 [video]](https://www.youtube.com/watch?v=ul5hC3PY1Yg)
 
-### 9. [Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)
+- ⭐ 70 分｜💬 13 留言｜👤 EvanAnderson
 
-- ⭐ 27 分｜💬 6 留言｜👤 hn_acker
+### 9. [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)
 
-### 10. [VibeThinker: 3B param 模型 that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+- ⭐ 82 分｜💬 7 留言｜👤 ilreb
 
-- ⭐ 280 分｜💬 137 留言｜👤 timhigins
+### 10. [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)
 
-### 11. [Epidurals are a miracle technology](https://worksinprogress.co/issue/the-wonder-of-epidurals/)
+- ⭐ 223 分｜💬 176 留言｜👤 ingve
 
-- ⭐ 44 分｜💬 23 留言｜👤 karakoram
+### 11. [Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm](https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/)
 
-### 12. [The Traditional Vi](https://ex-vi.sourceforge.net/)
+https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Field-effect_transistor
 
-- ⭐ 41 分｜💬 26 留言｜👤 exvi
+- ⭐ 52 分｜💬 20 留言｜👤 its_ajseven
 
-### 13. [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
+### 12. [The deadly rise of giant trucks and SUVs](https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html)
 
-- ⭐ 217 分｜💬 84 留言｜👤 j03b
+Unlocked: https:&#x2F;&#x2F;www.nytimes.com&#x2F;interactive&#x2F;2026&#x2F;06&#x2F;21&#x2F;us&#x2F;trucks-suv...Related: ttps:&#x2F;&#x2F;www.thedrive.com&#x2F;news&#x2F;75-more-pedestrians-have-been
 
-### 14. [Show HN: 神經網絡 Particle Automata](https://selforg-npa.github.io/)
+- ⭐ 150 分｜💬 315 留言｜👤 xnx
 
-神經網絡 CAs 模型 self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a sim
+### 13. [Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)
 
-- ⭐ 49 分｜💬 12 留言｜👤 esychology
+- ⭐ 146 分｜💬 74 留言｜👤 adocomplete
 
-### 15. [Show HN: Shumai – open-source Frame.io alternative for creative work](https://github.com/shumaiOne/shumai)
+### 14. [FUTO Swipe – A 新 swipe typing 模型](https://swipe.futo.tech/)
 
-Shumai is an 開源 platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspa
+- ⭐ 10 分｜💬 0 留言｜👤 futohq
 
-- ⭐ 24 分｜💬 0 留言｜👤 Yiling-J
+### 15. [Performance Improvements in Libffi](https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/)
 
-### 16. [You already have a Git 伺服器](https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html)
+- ⭐ 24 分｜💬 6 留言｜👤 atgreen
 
-- ⭐ 22 分｜💬 11 留言｜👤 sheelagay
+### 16. [Plotnine](https://plotnine.org/)
 
-### 17. [Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
+- ⭐ 232 分｜💬 68 留言｜👤 tosh
 
-- ⭐ 118 分｜💬 30 留言｜👤 speckx
+### 17. [Mistral OCR 4](https://mistral.ai/news/ocr-4/)
 
-### 18. [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)
+- ⭐ 348 分｜💬 90 留言｜👤 meetpateltech
 
-- ⭐ 118 分｜💬 104 留言｜👤 ingve
+### 18. [Solving Wordle using information theory](https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle)
 
-### 19. [Apple is going to raise device prices, but when?](https://daringfireball.net/linked/2026/06/22/apple-device-prices-when)
+https:&#x2F;&#x2F;orb.binghamton.edu&#x2F;nejcs&#x2F;vol8&#x2F;iss1&#x2F;6&#x2F;
 
-- ⭐ 54 分｜💬 41 留言｜👤 tosh
+- ⭐ 37 分｜💬 46 留言｜👤 hhs
 
-### 20. [8086 Segmented Memory was a good idea](https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/)
+### 19. [Elevated error rate across multiple models](https://status.claude.com/incidents/jbhf20wjmzrf)
 
-- ⭐ 44 分｜💬 80 留言｜👤 billpg
+- ⭐ 183 分｜💬 236 留言｜👤 rob
 
-### 21. [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
+### 20. [MSG Made Dossier on Activists Who Opposed Facial Recognition](https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/)
 
-- ⭐ 334 分｜💬 130 留言｜👤 aleda145
+- ⭐ 245 分｜💬 68 留言｜👤 cdrnsf
 
-### 22. [Researchers used math to crack Wordle](https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle)
+### 21. [Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM](https://github.com/ilbertt/bun-sqlgen)
 
-- ⭐ 7 分｜💬 1 留言｜👤 hhs
+- ⭐ 48 分｜💬 23 留言｜👤 ilbert
 
-### 23. [OpenAI DayBreak – GPT-5.5-Cyber](https://openai.com/index/daybreak-securing-the-world/)
+### 22. [Fired by Google for creating the Google workspace CLI](https://twitter.com/JPoehnelt/status/2069482265953087602)
 
-- ⭐ 153 分｜💬 119 留言｜👤 AaronO
+https:&#x2F;&#x2F;xcancel.com&#x2F;JPoehnelt&#x2F;status&#x2F;2069482265953087602
 
-### 24. [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
+- ⭐ 111 分｜💬 58 留言｜👤 justinwp
 
-- ⭐ 203 分｜💬 52 留言｜👤 iamnothere
+### 23. [The Low-Tech AI of Elden Ring](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
 
-### 25. [An 介紹 YOLO26](https://blog.roboflow.com/yolo26/)
+- ⭐ 63 分｜💬 37 留言｜👤 g0xA52A2A
 
-- ⭐ 88 分｜💬 31 留言｜👤 teleforce
+### 24. [Modal Auto Endpoints: Optimized 推論 you own](https://modal.com/blog/introducing-auto-endpoints)
 
-### 26. [Moebius: 0.2B image inpainting 模型 with 10B-level performance](https://hustvl.github.io/Moebius/)
+- ⭐ 11 分｜💬 0 留言｜👤 handfuloflight
 
-- ⭐ 306 分｜💬 77 留言｜👤 DSemba
+### 25. [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
 
-### 27. [The 新 HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
+- ⭐ 290 分｜💬 206 留言｜👤 mindingnever
 
-- ⭐ 188 分｜💬 133 留言｜👤 CommonGuy
+### 26. [Finding the 最佳 dog treat with statistics](https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html)
 
-### 28. [Kyber (YC W23) Is 招聘 a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+- ⭐ 117 分｜💬 53 留言｜👤 wespiser_2018
 
-- ⭐ 1 分｜💬 0 留言｜👤 asontha
+### 27. [Lossless GIF recompression via exhaustive search](https://blog.arusekk.pl/posts/lossless-gif-recompression/)
 
-### 29. [Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html)
+- ⭐ 48 分｜💬 12 留言｜👤 ZacnyLos
 
-- ⭐ 35 分｜💬 22 留言｜👤 owulveryck
+### 28. [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
 
-### 30. [Oracle shed about 20k roles globally in the last year](https://www.bbc.com/news/articles/c4gy0x0j5deo)
+- ⭐ 32 分｜💬 17 留言｜👤 DandyLyons
 
-- ⭐ 83 分｜💬 88 留言｜👤 Lyngbakr
+### 29. [The End of 代碼 Review: Coding Agents Supersede Human Inspection](https://arxiv.org/abs/2606.13175)
+
+- ⭐ 14 分｜💬 11 留言｜👤 cribwi
+
+### 30. [VibeThinker: 3B param 模型 that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+
+- ⭐ 355 分｜💬 183 留言｜👤 timhigins
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: A pure ARM64 Assembly 網頁 伺服器, now on Linux with CGI for no reason
-- Show HN: Oak – Git alternative designed for agents
-- CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp
-- Improvements to Std:Format in C++26
-- Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040
-- Matrix and Quaternion FAQ
-- Mistral OCR 4
-- Windows NT for GameCube/Wii
-- Cyberdecks, going analog, and convivial technology
+- What we call "age verification" is actually mass surveillance
+- Steam Machine 推出 today
+- 開源 for IBM Z and LinuxONE
+- 80386 Early Start Memory Access
+- Crypto in 2026: Oh, This Is the Bad Place
+- In praise of memcached
+- Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times
+- Show HN: 神經網絡 Particle Automata
+- Show HN: Shumai – open-source Frame.io alternative for creative work
+- Rethinking Modularity in Ruby Applications
+- Israel targeted Gaza children resulting in genocide, UN inquiry says
+- Kyber (YC W23) Is 招聘 a Head of Engineering
+- The Traditional Vi (2007)
+- OpenAI DayBreak – GPT-5.5-Cyber
+- Pact: Anonymous Credentials for the 網頁
+- Millions in UK could claim share of £3B after Apple case given green light
+- 8086 Segmented Memory was a good idea
+- The truth about being a 經理
+- GLM-5.2 – 如何 Run Locally
+- Optocam Zero: a Pi Zero based digital camera made using off the shelf components
+- Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards
+- AI's Affordability Crisis
+- An 介紹 YOLO26
+- A Man Was Gifted His Dream Car by the Notorious Hacker He Put in Prison
+- Exposing the 'brute force' of AI that is 'trying to make humans redundant'
+- Performance of WebAssembly Runtimes in 2026
 - Help I accidentally a wigglegram
-- Package Managers need global hooks
+- Wikipedia cofounder Larry Sanger blocked from editing Wikipedia
+- 為什麼 Windows 95 Was Tech's Last True Revolution
+- Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040
+- Backblaze 宣布 Five-Year Multi-Exabyte Agreement with CoreWeave
+- British Columbia, Time Zones, and Postgres
+- The 新 HTTP QUERY method explained
 - Show HN: Got sick of ads, so I made my own logic puzzle site
-- Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models
-- Is it time for a 新 Embedded Linux 構建 系統?
-- Prompt Injection as Role Confusion
 - Deno Desktop
+- Show HN: A pure ARM64 Assembly 網頁 伺服器, now on Linux with CGI for no reason
+- CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp
+- LastPass confirms data breach in Klue supply chain attack
+- Package Managers need global hooks
+- Matrix and Quaternion FAQ
+- Who Does What? Team Topologies for the Agentic Platform
+- Prompt Injection as Role Confusion
+- Improvements to Std:Format in C++26
+- Cyberdecks, going analog, and convivial technology
 - Flock-Powered Police Chiefs Stalking Women Shows 為什麼 Warrants Are Needed
+- SpaceX 推出 $25B notes offering, source says
+- Chevron signs 20-year power agreement with Microsoft for West Texas data center
+- Is it time for a 新 Embedded Linux 構建 系統?
+- Windows NT for GameCube/Wii
 - Polymarket has flooded social media with deceptive videos by paid creators
 - Canyon HUD helmet for road riding
-- Chevron signs 20-year power agreement with Microsoft for West Texas data center
-- Pledging another $400k to the Zig 軟體 foundation
+- My Mathematical Regression
 - Die analysis of the 8087 math coprocessor's fast bit shifter (2020)
-- DisplayMate
+- Pledging another $400k to the Zig 軟體 foundation
 - Show HN: CleverCrow: give tokens to your favorite projects
+- Apple is going to raise device prices, but when?
+- Ask HN: Anthropic banned me from using Claude 代碼 and I don't know what to do
 - Munich 1991: The Roots of the Current AI Boom
-- How Lume Works: The Retrieval Primitives
-- Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages
-- The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"
-- The text in Claude 代碼’s “Extended Thinking” output
-- 工作 應用 asked for my SAT scores
-- Finding the 最佳 Dog Treat with Statistics
-- ytr: YouTube Radio for Emacs
+- DisplayMate
 - Codex logging bug may write TBs to local SSDs
-- British Columbia, Time Zones, and Postgres
-- Japanese symbols that speak without words
-- Nintendo Wii U games running from a 1980's Bernoulli disk [video]
-- 1,700 free online courses from 熱門 universities
-- window.showDirectoryPicker opens up a whole 新 world
-- Openresearch: GLM 5.2 for Autoresearch
-- GLM 5.2 vs. Opus
+- Epidurals are a miracle technology
+- The text in Claude 代碼’s “Extended Thinking” output
+- Moebius: 0.2B image inpainting 模型 with 10B-level performance
+- ytr: YouTube Radio for Emacs
+- 工作 應用 asked for my SAT scores
 - Sakana Fugu
-- Scaling Akvorado BMP RIB with Sharding
-- Alan Greenspan has died
-- Linux and Secure Boot certificate expiration (2025)
-- Investors get real-time view of UK bond market activity for the first time
-- I built an AI memory engine in 10 days, then needed a project to prove it works
-- GLM-5.2 is the step change for open agents
-- Death by a Thousand Comments
-- PivCo-Huffman “merge” operations
-- Self-Harness: Harnesses That Improve Themselves
-- Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf
-- Apertus – Open Foundation 模型 for Sovereign AI
-- Memory crisis is getting so bad that even retro RAM prices are going to the Moon
-- How I play video games with spinal muscular atrophy
-- The minimum viable unit of saleable 軟體
-- Did my old 工作 only exist because of fraud?
-- There is minimal downside to switching to open models
-- AI Built a Nuke and Still Lost
-- UUID: NewV7() always generates a UUID with 7000 on browsers (Golang)
-- Prefer duplication over the wrong abstraction (2016)
-- Wolves are reconquering Europe. Can people learn to live with them?
-- Rent collections are down in 新 York
-- QSOE: QNX-inspired OS with dual-kernel architecture
-- EU Member States (and Google) suddenly want to keep cookie banners
-- Japanese verb conjugation the simple hard way
-- Wikipedia cofounder Larry Sanger blocked from editing Wikipedia
-- Lisp in the Rust Type 系統
-- Show HN: Recall – Local project memory for Claude 代碼
-- Efficient C++ 程式設計 for Modern 64-bit CPUs: Chapter 4/part 2
-- 為什麼 Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers
+- I am a person who will look at the Steam Machine and cry
+- Nintendo Wii U games running from a 1980's Bernoulli disk [video]
+- Japanese symbols that speak without words
+- GLM 5.2 vs. Opus
 
 
 ---
