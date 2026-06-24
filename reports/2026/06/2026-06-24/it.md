@@ -4,202 +4,214 @@
 
 ---
 
-### 1. [We're making Bunny DNS free: because a faster internet won't 構建 itself](https://bunny.net/blog/were-making-bunny-dns-free/)
+### 1. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 
-- ⭐ 446 分｜💬 153 留言｜👤 dabinat
+Announcement: https:&#x2F;&#x2F;OpenAI.com&#x2F;index&#x2F;OpenAI-broadcom-jalapeno-推論-...https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;OpenAI-broadcom-jalapeno-first-cus...https:&#x2F;&#x2F;ww
 
-### 2. [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)
+- ⭐ 186 分｜💬 160 留言｜👤 jamdesk
 
-- ⭐ 77 分｜💬 4 留言｜👤 mattnewton
+### 2. [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)
 
-### 3. [Minimus container images are now free](https://images.minimus.io/)
+- ⭐ 260 分｜💬 37 留言｜👤 doener
 
-- ⭐ 55 分｜💬 29 留言｜👤 dimastopel
+### 3. [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/)
 
-### 4. [Too many R packages: CRAN is inundated with submissions](https://rworks.dev/posts/too-many-R-packages/)
+- ⭐ 717 分｜💬 231 留言｜👤 dabinat
 
-- ⭐ 49 分｜💬 33 留言｜👤 ionychal
+### 4. [There are a few things that I look back on as my mistakes in the early days](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
 
-### 5. [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
+https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2069799283369345247
 
-- ⭐ 15 分｜💬 4 留言｜👤 bewal416
+- ⭐ 378 分｜💬 188 留言｜👤 shadowtree
 
-### 6. [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)
+### 5. [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw)
 
-- ⭐ 204 分｜💬 239 留言｜👤 earcar
+- ⭐ 81 分｜💬 57 留言｜👤 dakshgupta
 
-### 7. [Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://haystack.deepset.ai/)
+### 6. [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
 
-- ⭐ 22 分｜💬 7 留言｜👤 doener
+- ⭐ 74 分｜💬 28 留言｜👤 swolpers
 
-### 8. [Statistics that live in your SQL](https://kolistat.com/blog/the-stats-duck-v0-6-0/)
+### 7. [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
 
-- ⭐ 76 分｜💬 12 留言｜👤 caerbannogwhite
+- ⭐ 10 分｜💬 0 留言｜👤 Audiophilip
 
-### 9. [A Practical Guide to SSH Tunnels: Local and 遠端 Port Forwarding](https://labs.iximiuz.com/tutorials/ssh-tunnels)
+### 8. [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
 
-- ⭐ 27 分｜💬 9 留言｜👤 signa11
+- ⭐ 53 分｜💬 11 留言｜👤 xena
 
-### 10. [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
+### 9. [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
 
-- ⭐ 337 分｜💬 191 留言｜👤 goranmoomin
+- ⭐ 152 分｜💬 95 留言｜👤 bewal416
 
-### 11. [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
+### 10. [Krea 2: SOTA open-weights 12B image 模型](https://www.krea.ai/blog/krea-2-technical-report)
 
-- ⭐ 193 分｜💬 88 留言｜👤 byb
+- ⭐ 236 分｜💬 32 留言｜👤 mattnewton
 
-### 12. [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
+### 11. [Running Windows Games on a Hobby OS with Wine](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
 
-- ⭐ 498 分｜💬 80 留言｜👤 saikatsg
+- ⭐ 67 分｜💬 20 留言｜👤 avaliosdev
 
-### 13. [Jerry's Map](http://www.jerrysmap.com/the-map)
+### 12. [NSA lost access to Mythos amid Anthropic dispute](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html)
 
-https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin...
+Unlocked: https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;23&#x2F;us&#x2F;politics&#x2F;nsa-lost-acce...
 
-- ⭐ 535 分｜💬 56 留言｜👤 turtleyacht
+- ⭐ 135 分｜💬 88 留言｜👤 thm
 
-### 14. [Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
+### 13. [為什麼 big AI labs are 招聘 so many philosophers](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
 
-- ⭐ 102 分｜💬 96 留言｜👤 1vuio0pswjnm7
+https:&#x2F;&#x2F;archive.is&#x2F;T1FJG
 
-### 15. [François Englert (1932 – 2026)](https://home.cern/francois-englert-1932-2026/)
+- ⭐ 17 分｜💬 6 留言｜👤 Brajeshwar
 
-- ⭐ 24 分｜💬 3 留言｜👤 toomuchtodo
+### 14. [Show HN: Monolisa v3 – a typeface for developers and creatives](https://www.monolisa.dev/)
 
-### 16. [FUTO Swipe – A 新 swipe typing 模型](https://swipe.futo.tech/)
+Originally we (Andrey, Marcus, Juho) built MonoLisa in 2020 as we realised there&#x27;s room for a better monospaced typeface for developers. The key insight was to make the glyphs slightly wider to m
 
-- ⭐ 616 分｜💬 221 留言｜👤 futohq
+- ⭐ 118 分｜💬 36 留言｜👤 bebraw
 
-### 17. ["Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf)
+### 15. [A Practical Guide to SSH Tunnels: Local and 遠端 Port Forwarding](https://labs.iximiuz.com/tutorials/ssh-tunnels)
 
-- ⭐ 153 分｜💬 64 留言｜👤 retroplasma
+- ⭐ 192 分｜💬 44 留言｜👤 signa11
 
-### 18. [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
+### 16. [Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis](https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/)
 
-- ⭐ 151 分｜💬 44 留言｜👤 ilreb
+- ⭐ 66 分｜💬 25 留言｜👤 surprisetalk
 
-### 19. [Texas man sentenced to 30 years for transporting pamphlets](https://freedom.press/issues/texas-man-sentenced-to-30-years-for-transporting-pamphlets/)
+### 17. [Journalism is rearranging the deckchairs. It needs to reinvent itself](https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/)
 
-- ⭐ 37 分｜💬 23 留言｜👤 kevinwang
+- ⭐ 29 分｜💬 36 留言｜👤 benwerd
 
-### 20. [Ashby (YC W19) Is 招聘 EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)
+### 18. [為什麼 eval startups fail (2025)](https://thomasliao.com/eval-startups)
+
+- ⭐ 73 分｜💬 48 留言｜👤 jxmorris12
+
+### 19. [Show HN: peerd – AI 代理 harness that runs entirely in your browser](https://github.com/NotASithLord/peerd)
+
+Hey HN. http:&#x2F;&#x2F;peerd.AI is an AI 代理 harness that lives entirely in your browser as a 網頁 extension. You don’t have to install a separate “AI browser”. You don’t have to bolt on or run som
+
+- ⭐ 37 分｜💬 15 留言｜👤 NotASithLord
+
+### 20. [Too many R packages: CRAN is inundated with submissions](https://rworks.dev/posts/too-many-R-packages/)
+
+- ⭐ 82 分｜💬 65 留言｜👤 ionychal
+
+### 21. [For Most of the World, Open-Source AI Is the Only Way Forward](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
+
+- ⭐ 139 分｜💬 94 留言｜👤 CrankyBear
+
+### 22. [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
+
+- ⭐ 80 分｜💬 60 留言｜👤 felixdoerp
+
+### 23. [Boffin claims Microsoft's "quantum leap" is invalid due to "basic Python errors"](https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489)
+
+- ⭐ 116 分｜💬 43 留言｜👤 connorboyle
+
+### 24. [Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB](https://pure-effect.org)
+
+Hi HN,I think it&#x27;s safe to say that the majority of developers don&#x27;t give a second thought to writing 代碼 with I&#x2F;O tangled in business logic. It&#x27;s all too common to see 代碼 like:
+
+- ⭐ 46 分｜💬 10 留言｜👤 tie-in
+
+### 25. [Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://haystack.deepset.ai/)
+
+- ⭐ 77 分｜💬 20 留言｜👤 doener
+
+### 26. [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
+
+- ⭐ 238 分｜💬 114 留言｜👤 byb
+
+### 27. [Ashby (YC W19) Is 招聘 EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)
 
 - ⭐ 1 分｜💬 0 留言｜👤 abhikp
 
-### 21. [Slate EV truck starts at $24,950](https://www.slate.auto/en)
+### 28. [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)
 
-- ⭐ 106 分｜💬 121 留言｜👤 cobri
+- ⭐ 511 分｜💬 613 留言｜👤 earcar
 
-### 22. [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338)
+### 29. [Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)](https://www.dijkstrascry.com/inventory)
 
-- ⭐ 341 分｜💬 39 留言｜👤 ilnmtlbnm
+- ⭐ 32 分｜💬 9 留言｜👤 rramadass
 
-### 23. [Vector Graphics in Lil](http://beyondloom.com/blog/vectorgraphics.html)
+### 30. [Statistics that live in your SQL](https://kolistat.com/blog/the-stats-duck-v0-6-0/)
 
-- ⭐ 32 分｜💬 2 留言｜👤 RodgerTheGreat
-
-### 24. [Cointegration and Long-Horizon Forecasting (2025)](https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting)
-
-- ⭐ 6 分｜💬 0 留言｜👤 bryanrasmussen
-
-### 25. [A deadly fungus that can infect cats and people is spreading](https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading)
-
-- ⭐ 112 分｜💬 80 留言｜👤 sohkamyung
-
-### 26. [Rhombus Language 1.0](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
-
-- ⭐ 204 分｜💬 69 留言｜👤 Decabytes
-
-### 27. [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
-
-- ⭐ 6 分｜💬 1 留言｜👤 gsky
-
-### 28. [The worthlessness of Vitamin D is mildly exaggerated](https://dynomight.net/vitamin-d/)
-
-- ⭐ 343 分｜💬 252 留言｜👤 surprisetalk
-
-### 29. [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
-
-- ⭐ 218 分｜💬 75 留言｜👤 JDevlieghere
-
-### 30. [Remaking BBC 測試 cards to teach you video processing](https://www.youtube.com/watch?v=U_6HxPkrgcg)
-
-- ⭐ 62 分｜💬 3 留言｜👤 unleaded
+- ⭐ 117 分｜💬 16 留言｜👤 caerbannogwhite
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX
-- Usbliter8: an A12/A13 SecureROM Exploit
-- Millimeter wave technology drills 100 meters into granite
-- Dirty Little Zine – a tool for making an 8 page printable Zine
-- A man was gifted his dream car by Kevin Mitnick, who he helped put in prison
-- The Teensy Executable Revisited
-- Fired by Google for creating the Google workspace CLI
-- F* file 系統 – file search that reads SSD directly bypassing OS kernel
-- 為什麼 eval startups fail (2025)
-- Show HN: An ASCII 3D Rendering Engine
+- Systems optimization should be part of CI/CD
 - Qualcomm to Acquire Modular
-- Five monitors on a Commodore 128 [video]
-- Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm
-- Qualcomm Is Acquiring Modular
-- The deadly rise of giant trucks and SUVs
+- François Englert (1932 – 2026)
+- CAPTCHAs have failed for 20 years
+- Exploiting vulnerabilities in Johnson and Johnson 網頁 apps
+- Qwen-AgentWorld: Language World Models for General Agents
+- Windage – free browser remake of Scorched Earth
+- I rewrote PostHog's SQL parser, 70x faster, while barely looking at the 代碼
+- Minimus container images are now free
+- Reducing tick density along recreational trails in Ottawa, Canada
+- Welcome to Gentoo is Rice, the Volume goes to 11 here
+- Ask HN: How much coding should beginners learn in the AI era?
+- Millimeter wave technology drills 100 meters into granite
+- NVIDIA's 45°C cooling design cuts data center water use to near zero
+- Quebec town recognizes trees as living beings with rights
+- Usbliter8: an A12/A13 SecureROM Exploit
+- In memory of the man who put red and green squiggles under words
+- Microsoft uses AI to link two malware operations in racketeering suit
+- Medical diagnosis AIs can be tricked into telling whose data trained them
+- Dirty Little Zine – a tool for making an 8 page printable Zine
+- Remaking BBC 測試 cards to teach you video processing
+- Vulnerability reports are not special anymore
+- Jerry's Map
+- FUTO Swipe – A 新 swipe typing 模型
+- A man was gifted his dream car by Kevin Mitnick, who he helped put in prison
+- Home Broadband Is 5G's Surprise Killer App
+- Vector Graphics in Lil
+- Ex-Meta CTO Says It's a Great Time to 構建 a Hard Tech Company
+- Fired by Google for creating the Google workspace CLI
+- Retracted: Paper claiming immunochemotherapy more effective in morning
+- Qualcomm to Acquire Modular
+- F* file 系統 – file search that reads SSD directly bypassing OS kernel
 - Steam Machine 推出 today
-- European Commission's Metsola Overrides MEPs to Force Through Chat Control
-- Meta Pauses Employee-Tracking Program Following Internal Data Leak
-- Show HN: Graphical SQL Builder and Debugger
-- Downed US pilot reported seeing Iranian drones swarm in 'jellyfish' formation
-- DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers
+- The Teensy Executable Revisited
+- Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm
+- Cointegration and Long-Horizon Forecasting (2025)
+- Show HN: An ASCII 3D Rendering Engine
+- The deadly rise of giant trucks and SUVs
+- Is AI 'one big bubble'? Behind the tech sell-off
+- A deadly fungus that can infect cats and people is spreading
 - Finding the 最佳 dog treat with statistics
-- QSOE: QNX-inspired OS with dual-kernel architecture
-- The Coming Loop
-- Lithp.py (~2008)
-- Apple is going to raise device prices, but when?
-- Inventing the Future, One Lisp Machine at a Time
 - Signs you're a dangerous terrorist: using Signal, moving zines
+- Printing Gaussian Splats
+- The Coming Loop
+- Inventing the Future, One Lisp Machine at a Time
+- Apple is going to raise device prices, but when?
+- QSOE: QNX-inspired OS with dual-kernel architecture
+- Swift Package Index joins Apple
 - Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild
+- The worthlessness of Vitamin D is mildly exaggerated
+- Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX
 - AI's Affordability Crisis
-- Show HN: Monolisa v3 – a typeface for developers and creatives
-- Show HN: RLM-based local debugger for AI 代理 traces
+- White House app auto-downloads to government phones, can't be uninstalled
+- Lithp.py (~2008)
+- DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers
+- Show HN: Graphical SQL Builder and Debugger
+- Qualcomm Is Acquiring Modular
+- Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times
+- Meta Pauses Employee-Tracking Program Following Internal Data Leak
+- Unlimited OCR: One-shot long-horizon parsing
+- Algorithmic Monocultures in 招聘
+- Help I accidentally a wigglegram
+- Mistral OCR 4
+- Flock CEO: "They're Gonna Enforce Immigration No Matter What Flock Does"
+- San Diego photologs from the 1970s
+- Orion 1.1 for macOS is out, with containers
 - Show HN: FastUbu – An Ultrafast Video Archive
-- RRB-Trees: Efficient Immutable Vectors
 - Don't verify email addresses by sending spam to them
 - ATProto Permissioned Data Proposal Draft
-- Unlimited OCR: One-shot long-horizon parsing
-- San Diego photologs from the 1970s
-- Mistral OCR 4
-- Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times
-- Orion 1.1 for macOS is out, with containers
-- I can haz smoller NixOS ISOs?
-- Algorithmic Monocultures in 招聘
-- Performance improvements in libffi
-- Madison Square Garden compiled a list of activists against facial recognition
-- The Low-Tech AI of Elden Ring
-- I am a person who will look at the Steam Machine and cry
-- Trains halted across Germany because of communication 系統 problem
-- Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards
-- Show HN: Y – A malleable coding-代理 desktop app built with Electron
-- Help I accidentally a wigglegram
-- OpenAI DayBreak – GPT-5.5-Cyber
-- Epidurals are a miracle technology
-- GLM-5.2 – 如何 Run Locally
-- Show HN: The Cascade Graph – An interactive map of AI and energy constraints
-- F3
-- Claude Tag
-- Hunting Million-Digit Primes from My Loft
-- Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM
-- With Starfall, SpaceX eyes an edge in global cargo delivery from orbit
-- Plotnine
-- NSA Lost Access to Powerful A.I. 模型 Amid Anthropic Dispute
-- Deno Desktop
-- How long before we stop reading the 代碼?
-- 2004 Huygens probe to Saturn's Titan: Still our only outer solar 系統 lander
-- Elevated error rate across multiple models
-- A Man Was Gifted His Dream Car by the Notorious Hacker He Put in Prison
-- US AI stock sell-off shakes markets from Wall Street to Asia
-- Show HN: 神經網絡 Particle Automata
-- LaTeX.wasm: LaTeX Engines in Browsers
+- Deep dive into iroh: Replacement for WireGuard or P2P layer for your 應用
 
 
 ---
