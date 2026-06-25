@@ -4,210 +4,216 @@
 
 ---
 
-### 1. [You can't unit 測試 for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)
+### 1. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 
-- ⭐ 65 分｜💬 17 留言｜👤 kalli
+Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa
 
-### 2. [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+- ⭐ 449 分｜💬 109 留言｜👤 verditelabs
 
-- ⭐ 424 分｜💬 170 留言｜👤 panza
+### 2. [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
 
-### 3. [Anthropic says Alibaba illicitly extracted Claude AI 模型 capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+- ⭐ 143 分｜💬 84 留言｜👤 porridgeraisin
 
-- ⭐ 577 分｜💬 934 留言｜👤 htrp
+### 3. [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
 
-### 4. [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)
+- ⭐ 111 分｜💬 48 留言｜👤 darthcloud
+
+### 4. [Zig's 新 bitCast semantics and LLVM back end improvements](https://ziglang.org/devlog/2026/#2026-06-25)
+
+- ⭐ 163 分｜💬 55 留言｜👤 kouosi
+
+### 5. [OS9Map](https://yllan.org/software/OS9Map/)
+
+- ⭐ 106 分｜💬 15 留言｜👤 LaSombra
+
+### 6. [Apple raises prices of MacBooks, iPads](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/)
+
+https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;Apple-price-increases-mac-ipa...
+
+- ⭐ 422 分｜💬 633 留言｜👤 virgildotcodes
+
+### 7. [Show HN: Chess-Inspired Roguelike](https://princechazz.com)
+
+- ⭐ 78 分｜💬 28 留言｜👤 cowboy_henk
+
+### 8. [You can't unit 測試 for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)
+
+- ⭐ 205 分｜💬 85 留言｜👤 kalli
+
+### 9. [Show HN: OpenKnowledge – 開源 AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
+
+Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.AI&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor
+
+- ⭐ 32 分｜💬 8 留言｜👤 engomez
+
+### 10. [I built a GPU back end for Emacs](https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/)
+
+- ⭐ 121 分｜💬 60 留言｜👤 andros
+
+### 11. [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+
+- ⭐ 594 分｜💬 237 留言｜👤 panza
+
+### 12. [Besimple AI (YC P25) Is 招聘](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
+
+- ⭐ 1 分｜💬 0 留言｜👤 yzhong94
+
+### 13. [Early adversity leaves lasting molecular imprint across the body: primate study](https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html)
+
+https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aea4922
+
+- ⭐ 45 分｜💬 12 留言｜👤 gmays
+
+### 14. [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com)
+
+- ⭐ 510 分｜💬 132 留言｜👤 ytkimirti
+
+### 15. [The annotated PyTorch 訓練 loop](https://idlemachines.co.uk/essays/pytorch-training-loop)
+
+- ⭐ 14 分｜💬 2 留言｜👤 smaddrellmander
+
+### 16. [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
+
+- ⭐ 161 分｜💬 117 留言｜👤 bundie
+
+### 17. [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale)
+
+- ⭐ 70 分｜💬 10 留言｜👤 brightbeige
+
+### 18. [Advanced Nintendo Entertainment 系統 (ANES) – NES Modded to Use 2 PPUs](https://github.com/decrazyo/anes)
+
+- ⭐ 51 分｜💬 15 留言｜👤 zdw
+
+### 19. [Tw-fade: pure CSS scroll-driven edge masking](https://pete.design/tw-fade)
+
+- ⭐ 62 分｜💬 23 留言｜👤 petekp
+
+### 20. [How physicists track and trap the elusive neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/)
+
+- ⭐ 38 分｜💬 8 留言｜👤 ibobev
+
+### 21. [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)
 
 Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds the
 
-- ⭐ 12 分｜💬 1 留言｜👤 alder
+- ⭐ 64 分｜💬 27 留言｜👤 alder
 
-### 5. [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
+### 22. [The disappearance of Japan's animators](https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators)
 
-- ⭐ 179 分｜💬 82 留言｜👤 mooreds
+https:&#x2F;&#x2F;archive.ph&#x2F;aPMAr
 
-### 6. [The Disappearance of Japan's Animators](https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators)
+- ⭐ 92 分｜💬 74 留言｜👤 andsoitis
 
-- ⭐ 13 分｜💬 1 留言｜👤 andsoitis
+### 23. [OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
 
-### 7. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- ⭐ 335 分｜💬 143 留言｜👤 terryds
 
-Announcement: https:&#x2F;&#x2F;OpenAI.com&#x2F;index&#x2F;OpenAI-broadcom-jalapeno-推論-...https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;OpenAI-broadcom-jalapeno-first-cus...https:&#x2F;&#x2F;ww
+### 24. [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
 
-- ⭐ 752 分｜💬 431 留言｜👤 jamdesk
+- ⭐ 420 分｜💬 184 留言｜👤 mooreds
 
-### 8. [Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?](https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309)
+### 25. [Political bias in AI: Where the AI models stand](https://trakkr.ai/bias)
 
-- ⭐ 21 分｜💬 2 留言｜👤 rbanffy
+- ⭐ 58 分｜💬 125 留言｜👤 mektrik
 
-### 9. [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
+### 26. [如何 get your first customers [video]](https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers)
 
-- ⭐ 251 分｜💬 106 留言｜👤 terryds
+- ⭐ 56 分｜💬 17 留言｜👤 aurenvale
 
-### 10. [Bohemia Interactive: Cold War Assault Remastered Source 代碼 on GitHub](https://github.com/BohemiaInteractive/CWR)
+### 27. [Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs](https://minipcs.zip)
 
-- ⭐ 138 分｜💬 27 留言｜👤 dewey
+The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Definitely a labor of love as I have a number of Mini PC
 
-### 11. [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
+- ⭐ 76 分｜💬 28 留言｜👤 yathern
 
-- ⭐ 329 分｜💬 102 留言｜👤 Curiositry
+### 28. [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 
-### 12. [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
+- ⭐ 421 分｜💬 123 留言｜👤 Curiositry
 
-- ⭐ 141 分｜💬 146 留言｜👤 chobeat
+### 29. [Mixing Visual and Textual 代碼](https://arxiv.org/abs/2603.15855)
 
-### 13. [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
+PDF: https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2603.15855
 
-- ⭐ 190 分｜💬 107 留言｜👤 phreddypharkus
+- ⭐ 68 分｜💬 42 留言｜👤 doppioandante
 
-### 14. [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
+### 30. [The unbearable cheapness of open weight models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
 
-- ⭐ 102 分｜💬 50 留言｜👤 rndsignals
-
-### 15. [45°C cooling design cuts data center water use to near zero](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/)
-
-- ⭐ 400 分｜💬 314 留言｜👤 nitin_flanker
-
-### 16. [Countries are competing to see which can carry out mass surveillance the 最佳](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)
-
-- ⭐ 166 分｜💬 44 留言｜👤 Cider9986
-
-### 17. [GLM-5.2 is a step change for open agents](https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open)
-
-- ⭐ 292 分｜💬 178 留言｜👤 vantareed
-
-### 18. [Show HN: Secs-man, a secrets 經理 you can (not) rely on](https://github.com/Fran314/secrets-manager-rs)
-
-This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the 軟體 disappeared from the face of Earth to
-
-- ⭐ 6 分｜💬 0 留言｜👤 Fran314
-
-### 19. [Apple 宣布 significant price increases for MacBooks, iPads, more](https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/)
-
-- ⭐ 140 分｜💬 132 留言｜👤 virgildotcodes
-
-### 20. [Words, Words, Words](https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith)
-
-- ⭐ 22 分｜💬 8 留言｜👤 benbreen
-
-### 21. [Lies, Damn Lies and 資料庫 Benchmarks](https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/)
-
-- ⭐ 33 分｜💬 12 留言｜👤 eigenBasis
-
-### 22. [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
-
-- ⭐ 165 分｜💬 22 留言｜👤 exploraz
-
-### 23. [Show HN: StartupsBR – A map of Brazilian startups](https://www.startupsbr.com/sao-paulo)
-
-I couldn&#x27;t find a simple way to explore the Brazilian startup ecosystem geographically, as I can in other places like the Bay Area or London, so I built one.The map currently includes hundreds of
-
-- ⭐ 38 分｜💬 19 留言｜👤 leonagano
-
-### 24. [Dostoyevsky isn't difficult](https://www.autodidacts.io/dostoyevsky-isnt-difficult/)
-
-- ⭐ 181 分｜💬 223 留言｜👤 surprisetalk
-
-### 25. [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)
-
-- ⭐ 413 分｜💬 70 留言｜👤 doener
-
-### 26. [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/)
-
-https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;新...https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modularhttps:&#x2F;&#x2F;x.com&#x2F;clattne
-
-- ⭐ 215 分｜💬 80 留言｜👤 timmyd
-
-### 27. [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw)
-
-- ⭐ 245 分｜💬 143 留言｜👤 dakshgupta
-
-### 28. [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
-
-- ⭐ 286 分｜💬 166 留言｜👤 felixdoerp
-
-### 29. [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
-
-- ⭐ 232 分｜💬 151 留言｜👤 swolpers
-
-### 30. [Markdy: Like Mermaid Diagrams, but for Motion](https://markdy.com)
-
-- ⭐ 102 分｜💬 61 留言｜👤 surprisetalk
+- ⭐ 119 分｜💬 109 留言｜👤 ddxv
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Nimic – Pure Python as a systems language with AOT compilation
-- Matt's Script Archive: The Scripts That Reshaped the 網頁
-- A Solution to A.I.'S Growing Power Demand: Homes
-- Mixing Visual and Textual 代碼
-- A Practical Guide to SSH Tunnels: Local and 遠端 Port Forwarding
-- Show HN: Write SaaS apps where users control where their data is stored
-- Show HN: Nub – A Bun-like all-in-one toolkit for Node.js
-- Krea 2: SOTA open-weights 12B image 模型
-- The Unbearable Cheapness of Open Weight Models
-- We’re making Bunny DNS free
+- Show HN: Bible as RAG 資料庫
+- SoftBank 2026 AGM [pdf]
+- Supreme Court Gives Pesticide Corporations Immunity from Cancer Lawsuits
+- Show HN: Persona.js – a vanilla-JS 代理 UI library with native WebMCP (MIT)
+- LuaJIT 3.0 proposed syntax extensions
+- Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?
+- European Commission lines up Amazon and Microsoft for 雲端 gatekeeper status
+- Medical students are using popular research tool to pump out misleading studies
+- Deno 2.9
+- Anthropic says Alibaba illicitly extracted Claude AI 模型 capabilities
+- Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors
+- Bohemia Interactive: Cold War Assault Remastered Source 代碼 on GitHub
+- Markdy: Like Mermaid Diagrams, but for Motion
 - Zombie unicorns are haunting Silicon Valley
-- Apple just Increased Prices: here’s what’s changed
+- Dostoyevsky isn't difficult
+- Show HN: Secs-man, a secrets 經理 you can (not) rely on
+- Quit Your 工作 (2022)
+- OpenAI unveils its first custom chip, built by Broadcom
+- Qualcomm to Acquire Modular
+- Show HN: StartupsBR – A map of Brazilian startups
+- Older tech workers are tapping out early
+- Lianda and the Long March
+- Linux Cache Aware Scheduling Extended for Better Performance: 360% in MySQL
+- Lies, Damn Lies and 資料庫 Benchmarks
+- 為什麼 Dark Sky Lighting?
+- Matt's Script Archive: The Scripts That Reshaped the 網頁
+- The AI Data-Center Boom Is Sparking a Third Wave of Inflation
+- Ask HN: Where is our profession (programmer) going?
+- Words, Words, Words
+- 45°C cooling design cuts data center water use to near zero
+- Tell HN: OpenAI has started putting ads on paid programs
+- Updated Xbox Console Prices
+- Show HN: Nimic – Pure Python as a systems language with AOT compilation
+- We’re making Bunny DNS free
+- Dolphin Emulator Progress Release 2606
+- Show HN: Write SaaS apps where users control where their data is stored
+- GLM-5.2 is a step change for open agents
+- Federal agents track down woman, demand she remove Instagram post about ICE
 - I can haz smoller NixOS ISOs?
-- Aisle Discovers 6 新 CVEs in Curl, Including the Oldest Issue Ever Reported
-- There are a few things that I look back on as my mistakes in the early days
-- Crawling BitTorrent DHTs for Fun and Profit [pdf]
 - Stealing Is a Skill
-- 15 sorting algorithms in 6 minutes (2013) [video]
+- The A.I.-Design Aesthetic That's Taking over the Internet
+- There are a few things that I look back on as my mistakes in the early days
 - Show HN: Monolisa v3 – a typeface for developers and creatives
-- Ashby (YC W19) Is 招聘 EMEA Engineers Who Can Design
-- Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?
+- Crawling BitTorrent DHTs for Fun and Profit [pdf]
+- As banks close accounts, experts point to immigration crackdown
+- RubyLLM: A Ruby framework for all major AI providers
 - 為什麼 eval startups fail (2025)
-- Elastic lays off 7% of employees
-- Show HN: Wordit – Change One Letter, Keep the Chain Going
-- Pull request limits are cutting down the noise
-- Zero-Downtime Deployments with Docker Compose – No Kubernetes Required
-- Shall We Play a Coordination Game?
-- Running Windows Games on a Hobby OS with Wine
-- Exploiting vulnerabilities in Johnson and Johnson 網頁 apps
+- Whistleblower Sarah Wynn-Williams sues Meta over attempts to 'silence' her
+- Countries are competing to see which can carry out mass surveillance the 最佳
+- Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line
 - Ending respiratory infections
-- Too many R packages: CRAN is inundated with submissions
 - "Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds
-- OpenStreetMap running on an ESP32 with TypeScript and Canvas [video]
-- Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis
-- How the Fifth Lateran Council unlocked financial theory
+- Zero-Downtime Deployments with Docker Compose – No Kubernetes Required
+- PR spam today looks like email spam in the early 2000s
+- 15 sorting algorithms in 6 minutes (2013) [video]
+- Pull request limits are cutting down the noise
+- Elastic lays off 7% of employees
+- The Xteink X4 E-Ink Reader
+- Running Windows Games on a Hobby OS with Wine
+- Show HN: Wordit – Change One Letter, Keep the Chain Going
+- Exploiting vulnerabilities in Johnson and Johnson 網頁 apps
+- Complete text of carbonised Herculaneum scroll unlocked for first time
 - Minimus container images are now free
-- Show HN: LookAway, a Mac break reminder that knows when not to interrupt
-- Pondering routing more of my traffic via nodes outside the UK
-- 為什麼 Does Everyone Hate AI?
-- Writers and Drugs
-- I rewrote PostHog's SQL parser, 70x faster, while barely looking at the 代碼
-- The 資料庫 that refused to die: How Postgres survived its own creators
+- Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis
+- Too many R packages: CRAN is inundated with submissions
+- Oracle Opens MySQL Governance
+- Computer use in Gemini 3.5 Flash
 - Qwen-AgentWorld: Language World Models for General Agents
-- "Hey Nico, you didn't vibe 代碼 it, you stole Papermark's 開源 代碼"
-- GitHub shouldn't be a dependency for publishing Rust on crates.io
-- Slate EV truck starts at $24,950
-- Big AI labs are 招聘 philosophers
-- Millimeter wave technology drills 100 meters into granite
-- NSA lost access to Mythos amid Anthropic dispute
-- Self-Harness: Harnesses That Improve Themselves
-- Tech billionaires hire Democratic dealmakers in push to 構建 a Bay Area city
-- Spatially distributed complex organic matter detected in Mars crater
-- Statistics that live in your SQL
-- Steam Machine 推出 today
-- I taught a bucket to speak Git
-- Show HN: peerd – AI 代理 harness that runs entirely in your browser
-- In memory of the man who put red and green squiggles under words
-- Exploring the internal representations of Pangram 3.3.2
-- Optimizing [sqlx:測試] rebuild time
-- SoftBank Shareholders 更新 [pdf]
-- For most of the world, open-source AI is the only way forward
-- GTA 6 will cost $80
-- Usbliter8: an A12/A13 SecureROM Exploit
-- Dirty Little Zine – a tool for making an 8 page printable Zine
-- DRAM Price Fixing Scandal
-- Jerry's Map
-- François Englert (1932 – 2026)
-- It's Only When You Look Back
-- FUTO Swipe – A 新 swipe typing 模型
-- Journalism is rearranging the deckchairs. It needs to reinvent itself
+- How the Fifth Lateran Council unlocked financial theory
+- Pondering routing more of my traffic via nodes outside the UK
 
 
 ---
