@@ -4,212 +4,212 @@
 
 ---
 
-### 1. [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
+### 1. [DSpark: Speculative decoding accelerates 大型語言模型 推論 [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 
-- ⭐ 122 分｜💬 15 留言｜👤 untilted
+- ⭐ 480 分｜💬 162 留言｜👤 aurenvale
 
-### 2. [Previewing GPT‑5.6 Sol: a next-generation 模型](https://openai.com/index/previewing-gpt-5-6-sol/)
+### 2. [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
+
+- ⭐ 141 分｜💬 40 留言｜👤 signa11
+
+### 3. [OpenRA](https://www.openra.net/)
+
+- ⭐ 34 分｜💬 11 留言｜👤 tosh
+
+### 4. [If you can't hold it, you don't own it](https://dervis.de/physical/)
+
+- ⭐ 42 分｜💬 12 留言｜👤 cemdervis
+
+### 5. [Beer CSS – 構建 material design in record time](https://www.beercss.com)
+
+- ⭐ 63 分｜💬 20 留言｜👤 Seb-C
+
+### 6. [Previewing GPT‑5.6 Sol: a next-generation 模型](https://openai.com/index/previewing-gpt-5-6-sol/)
 
 系統 card: https:&#x2F;&#x2F;deploymentsafety.OpenAI.com&#x2F;GPT-5-6-preview
 
-- ⭐ 979 分｜💬 606 留言｜👤 minimaxir
+- ⭐ 1035 分｜💬 658 留言｜👤 minimaxir
 
-### 3. [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
+### 7. [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
 
-- ⭐ 9 分｜💬 36 留言｜👤 edward
+https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74yn7v7k4qo
 
-### 4. [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
+- ⭐ 72 分｜💬 78 留言｜👤 edward
 
-- ⭐ 75 分｜💬 31 留言｜👤 droidjj
+### 8. [Nox Metals (YC S25) Is 招聘 SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
 
-### 5. [為什麼 does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+- ⭐ 1 分｜💬 0 留言｜👤 zane_heng
 
-- ⭐ 224 分｜💬 103 留言｜👤 ProxyTracer
+### 9. [Linux on Older 硬體: The Complete Revival Guide](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
 
-### 6. [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+- ⭐ 93 分｜💬 50 留言｜👤 tapanjk
 
-- ⭐ 19 分｜💬 4 留言｜👤 userbinator
+### 10. [The US Army Issued Ocarinas to Soldiers in World War II](https://www.flutetunes.com/articles/my-flute-goes-to-war/)
 
-### 7. [Linux on Older 硬體: The Complete Revival Guide](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
+- ⭐ 34 分｜💬 16 留言｜👤 tomcam
 
-- ⭐ 12 分｜💬 0 留言｜👤 tapanjk
+### 11. [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
 
-### 8. [Is America Becoming a Gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
+- ⭐ 115 分｜💬 53 留言｜👤 droidjj
 
-- ⭐ 13 分｜💬 9 留言｜👤 littlexsparkee
+### 12. [為什麼 does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
 
-### 9. [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+- ⭐ 278 分｜💬 136 留言｜👤 ProxyTracer
+
+### 13. [Cultures of Making and Relating](https://blog.khinsen.net/posts/2026/06/25/cultures.html)
+
+- ⭐ 10 分｜💬 0 留言｜👤 akkartik
+
+### 14. [Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512](https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab)
+
+- ⭐ 28 分｜💬 2 留言｜👤 snikolaev
+
+### 15. [Task Failed Successfully: Saturating NIC and Disk Bandwidth](https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/)
+
+- ⭐ 3 分｜💬 1 留言｜👤 MrCroxx
+
+### 16. [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 
 https:&#x2F;&#x2F;archive.md&#x2F;ArXuFhttps:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;us-government-gives-a...
 
-- ⭐ 408 分｜💬 417 留言｜👤 bobrenjc93
+- ⭐ 481 分｜💬 613 留言｜👤 bobrenjc93
 
-### 10. [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
+### 17. [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
 
-- ⭐ 112 分｜💬 80 留言｜👤 rbanffy
+- ⭐ 344 分｜💬 190 留言｜👤 justincormack
 
-### 11. [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
+### 18. [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
 
-- ⭐ 321 分｜💬 185 留言｜👤 justincormack
+- ⭐ 154 分｜💬 126 留言｜👤 rbanffy
 
-### 12. [Fusion 程式設計 Language](https://fusion-lang.org/)
+### 19. [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 
-- ⭐ 61 分｜💬 24 留言｜👤 efrecon
+- ⭐ 194 分｜💬 35 留言｜👤 untilted
 
-### 13. [Hellishly Slow Level 13 Deflate Compression](https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/)
+### 20. [Jest/Vitest interactive course (runs in the browser)](https://howtotestfrontend.com/courses/jest-vitest-fundamentals)
 
-- ⭐ 49 分｜💬 14 留言｜👤 zX41ZdbW
+- ⭐ 18 分｜💬 8 留言｜👤 howToTestFE
 
-### 14. [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
+### 21. [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 
-Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I&#x27;ve been working 
+- ⭐ 88 分｜💬 14 留言｜👤 signa11
 
-- ⭐ 65 分｜💬 13 留言｜👤 PaybackTony
+### 22. [Fusion 程式設計 Language](https://fusion-lang.org/)
 
-### 15. [SCC Technical Assistance Program](https://nerocam.com/scc_tap.asp)
+- ⭐ 92 分｜💬 41 留言｜👤 efrecon
 
-- ⭐ 13 分｜💬 1 留言｜👤 luu
+### 23. [Hellishly Slow Level 13 Deflate Compression](https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/)
 
-### 16. [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+- ⭐ 73 分｜💬 21 留言｜👤 zX41ZdbW
+
+### 24. [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
 
 https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl
 
-- ⭐ 1005 分｜💬 1048 留言｜👤 alain94040
+- ⭐ 1078 分｜💬 1137 留言｜👤 alain94040
 
-### 17. [Show HN: DBOSify – Drop-in Temporal replacement built on Postgres](https://github.com/dbos-inc/dbosify-py)
+### 25. [International investment and local rules push prices up faster than supply](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 
-- ⭐ 58 分｜💬 8 留言｜👤 KraftyOne
+- ⭐ 103 分｜💬 36 留言｜👤 hhs
 
-### 18. [Om](https://daringfireball.net/2026/06/om)
+### 26. [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+
+- ⭐ 46 分｜💬 8 留言｜👤 userbinator
+
+### 27. [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
+
+- ⭐ 236 分｜💬 190 留言｜👤 kkm
+
+### 28. [Ultrasound imaging of the brain](https://alephneuro.com/blog/ultrasound-brain)
+
+- ⭐ 293 分｜💬 115 留言｜👤 rossant
+
+### 29. [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
+
+Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I&#x27;ve been working 
+
+- ⭐ 84 分｜💬 18 留言｜👤 PaybackTony
+
+### 30. [Om](https://daringfireball.net/2026/06/om)
 
 Related: Om Malik has died - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48678852 - June 2026 (161 comments)
 
-- ⭐ 340 分｜💬 15 留言｜👤 throw0101a
-
-### 19. [We can still stop California's 3D printer surveillance scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme)
-
-- ⭐ 379 分｜💬 125 留言｜👤 hn_acker
-
-### 20. [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
-
-- ⭐ 193 分｜💬 160 留言｜👤 kkm
-
-### 21. [Ultrasound imaging of the brain](https://alephneuro.com/blog/ultrasound-brain)
-
-- ⭐ 274 分｜💬 113 留言｜👤 rossant
-
-### 22. [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
-
-- ⭐ 89 分｜💬 15 留言｜👤 gjvc
-
-### 23. [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
-
-- ⭐ 67 分｜💬 18 留言｜👤 hhs
-
-### 24. [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
-
-- ⭐ 46 分｜💬 7 留言｜👤 signa11
-
-### 25. [Show HN: Smart 模型 routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)
-
-We built a 模型 router that plugs into coding agents (e.g. Claude 代碼, Codex, Cursor, etc.) and intelligently sends requests to the 最佳 模型 to serve them. Here&#x27;s a quick demo of running it l
-
-- ⭐ 167 分｜💬 97 留言｜👤 adchurch
-
-### 26. [什麼是 a Nomogram and 為什麼 Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me)
-
-- ⭐ 112 分｜💬 19 留言｜👤 Eridanus2
-
-### 27. [Pre-Modern Armies for Worldbuilders, Part III: Paying for It](https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/)
-
-- ⭐ 92 分｜💬 16 留言｜👤 jfoucher
-
-### 28. [Hightouch (YC S19) Is 招聘](https://hightouch.com/careers#open-positions)
-
-- ⭐ 1 分｜💬 0 留言｜👤 joshwget
-
-### 29. [Making Sense of Proof by Contradiction [pdf]](https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf)
-
-- ⭐ 36 分｜💬 16 留言｜👤 surprisetalk
-
-### 30. [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
-
-- ⭐ 41 分｜💬 5 留言｜👤 healeycodes
+- ⭐ 432 分｜💬 19 留言｜👤 throw0101a
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- A human postmortem of the 1996 AOL outage
+- We can still stop California's 3D printer surveillance scheme
+- Show HN: Smart 模型 routing directly in Claude, Codex and Cursor
+- 什麼是 a Nomogram and 為什麼 Would It Interest Me?
+- Show HN: DBOSify – Drop-in Temporal replacement built on Postgres
+- Streaming services' obnoxiously loud ads become illegal on July 1 in California
+- A C++ implementation of a fast hash map and hash set using hopscotch hashing
 - 軟體 Is Becoming Marketing
-- Evan's Jujutsu 教學
-- The "Bizarre Headgear" exhibit at the Sam Noble museum
-- PlayStation Is Deleting 551 Movies from Customers' Accounts
+- Pre-Modern Armies for Worldbuilders, Part III: Paying for It
+- SCC Technical Assistance Program
+- A Tiny Compiler for Data-Parallel Kernels
+- A human postmortem of the 1996 AOL outage
 - My Steam Machine is a 50ft HDMI cable
-- LaTeX.wasm: LaTeX Engines in Browsers
-- Modern GPU 程式設計 for MLSys
+- The "Bizarre Headgear" exhibit at the Sam Noble museum
 - An entire Herculaneum scroll has been read for the first time
-- Gossamer: a Rust-flavoured language with real goroutines and pause-free memory
+- Making Sense of Proof by Contradiction [pdf]
+- Evan's Jujutsu 教學
 - Om Malik has died
-- Show HN: Turn images into audio that can be decoded with a spectrogram
-- Show HN: Autofit2 – End-to-end pipeline for multilingual text classification
+- LaTeX.wasm: LaTeX Engines in Browsers
+- PlayStation Is Deleting 551 Movies from Customers' Accounts
+- Factorio 2.1 Experimental Release
+- Modern GPU 程式設計 for MLSys
 - Bipartite Matching Is in NC
+- Gossamer: a Rust-flavoured language with real goroutines and pause-free memory
 - Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter
-- The 開源 DOCX editor submitted to HN a few weeks ago has been deleted
-- Kamod Hooks – a Preact hooks library ported from ahooks
+- Show HN: Autofit2 – End-to-end pipeline for multilingual text classification
 - AgentKits – 60 production-ready AI 代理 blueprints with guardrails
-- Jolla Phone (October 2026)
+- Pixar's Believable People
 - OpenAI leans toward waiting until next year for IPO
-- Lippmann Photography
-- Incident CVE-2026-LGTM
-- Springer Nature has removed two studies by Max Planck
-- Slisp: Simple Lisp compiler (Linux/amd64)
+- Show HN: Turn images into audio that can be decoded with a spectrogram
+- The 開源 DOCX editor submitted to HN a few weeks ago has been deleted
 - We all depend on 開源. We will defend it together
-- Data centers trigger voter backlash
-- What happened after 2k people tried to hack my AI 助手
-- Libre Barcode Project
-- Framework's 10G Ethernet module exposes USB-C's complexity
-- 什麼是 a Lithium-ion capacitor?
 - The unbearable cheapness of open weight models
-- The National Parks Were Reportedly Told to Stay Silent on Deaths
-- Quake in 13 Kilobytes (2021)
-- Decline in IQ linked to frequent or dependent use of cannabis use in youth
+- Incident CVE-2026-LGTM
+- Jolla Phone (October 2026)
+- Kamod Hooks – a Preact hooks library ported from ahooks
+- Springer Nature has removed two studies by Max Planck
+- Ornith-1.0: A family of open-source LLMs specialized for agentic coding
+- What happened after 2k people tried to hack my AI 助手
+- Framework's 10G Ethernet module exposes USB-C's complexity
+- Perry – compiles TypeScript to native GUI and CLI apps. No runtime / Electron
+- 什麼是 a Lithium-ion capacitor?
+- Libre Barcode Project
+- Slisp: Simple Lisp compiler (Linux/amd64)
+- Lippmann Photography
+- Data centers trigger voter backlash
+- Ukraine 推出 40-day operation to push Russia to end the war
+- Political bias in AI: Where the AI models stand
+- A game where you're an OS and have to manage processes, memory and I/O events
+- The 'papers, please' era of the internet will decimate your privacy
+- Record type 推論 for dummies
+- Parallel Parentheses Matching
+- Medical students are using popular research tool to pump out misleading studies
 - 如何 Corrupt an SQLite 資料庫 File
+- The National Parks Were Reportedly Told to Stay Silent on Deaths
+- Anthropic says Alibaba illicitly extracted Claude AI 模型 capabilities
 - Webradio 伺服器 – broadcasts audio source to clients
 - FEXPRs vs. vtable: how LispE interpreter works
-- Political bias in AI: Where the AI models stand
-- The 'papers, please' era of the internet will decimate your privacy
-- A game where you're an OS and have to manage processes, memory and I/O events
-- Record type 推論 for dummies
-- Ask HN: Is "no source 代碼 was copied" still a sufficient copyright defense?
-- Parallel Parentheses Matching
-- The Nationwide Backlash Against Cameras Watching Your Car
-- OpenTag: An open-source alternative to Claude in Slack
-- The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)
-- Medical students are using popular research tool to pump out misleading studies
-- Anthropic says Alibaba illicitly extracted Claude AI 模型 capabilities
-- IBM debuts sub-1 nanometer chip technology
-- Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100
 - Mixing Visual and Textual 代碼
-- Malware Insights: macOS Phexia Campaign
-- Endive 1.0: WebAssembly on the JVM, Now a Bytecode Alliance Project
+- IBM debuts sub-1 nanometer chip technology
+- The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)
 - OpenAI unveils its first custom chip, built by Broadcom
+- NLNet Labs 大型語言模型 Policy
+- Ask HN: Is "no source 代碼 was copied" still a sufficient copyright defense?
 - GloriousEggroll's Proton has been rebased on Proton 11
-- Summary of METR's predeployment evaluation of GPT-5.6 Sol
-- Perry – compiles TypeScript to native GUI and CLI apps. No runtime / Electron
+- OpenTag: An open-source alternative to Claude in Slack
+- Germany: Hottest temperature on record 41.3C (106.3°F)
 - Advanced Nintendo Entertainment 系統 (ANES) – NES Modded to Use 2 PPUs
-- Show HN: Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB
 - Show HN: I made Google Trends for Hacker News by indexing 18 years of comments
 - Half-Life 2 in a Browser
-- Murmur: Shared communication bus for your coding agents
-- Reed-Solomon for OCR: error correction for messy printed codes
-- The annotated PyTorch 訓練 loop
-- Zombie unicorns are haunting Silicon Valley
-- Scaling Laws, Carefully
-- A US military exercise to launch a satellite on short notice
-- LastPass notifies users of yet another data breach
-- Bohemia Interactive: Cold War Assault Remastered Source 代碼 on GitHub
-- Apple raises prices of MacBooks, iPads
+- Malware Insights: macOS Phexia Campaign
 
 
 ---

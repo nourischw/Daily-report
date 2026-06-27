@@ -193,6 +193,11 @@ Uber Eats日前揭露代理購物助手Cart 助手背後的技術設計，說明
 
 ### 更多 AI 新聞 (70則)
 
+- Duer’s Wear-Everywhere Pants Are on Sale This Weekend (**Wired**)
+- Does DeleteMe Actually Get Your Info off the Internet? I Tried It (**Wired**)
+- 安全 News This Week: LastPass Users Had Their Data Stolen—Again (**Wired**)
+- The 37 最佳 Outdoor Deals From the REI 4th of July Sale (**Wired**)
+- 為什麼 Venezuela’s Second Earthquake Was So Damaging to Buildings (**Wired**)
 - The 28 最佳 Deals Under $100 Before Prime Day Ends (**Wired**)
 - 99 Last Minute Prime Day Deals: Up to 50% Off (2026) (**Wired**)
 - Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations (**Wired**)
@@ -238,11 +243,6 @@ Uber Eats日前揭露代理購物助手Cart 助手背後的技術設計，說明
 - Anthropic Thinks Its Own Success Is Key to Making AI Safe (**Wired**)
 - This Is Probably Your Last Chance to Buy a Cheap MacBook for a While (**Wired**)
 - 為什麼 Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data (**Wired**)
-- Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’ (**Wired**)
-- Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026) (**Wired**)
-- A Fatal Tesla Crash in Texas Sets Up a Legal Showdown (**Wired**)
-- The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount (**Wired**)
-- Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
