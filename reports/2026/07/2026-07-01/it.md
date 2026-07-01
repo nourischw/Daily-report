@@ -4,206 +4,206 @@
 
 ---
 
-### 1. [The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f)
+### 1. [Claude 代碼 is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 
-- ⭐ 66 分｜💬 10 留言｜👤 fortran77
+- ⭐ 1987 分｜💬 580 留言｜👤 kirushik
 
 ### 2. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 
-- ⭐ 889 分｜💬 499 留言｜👤 marinesebastian
+- ⭐ 1117 分｜💬 664 留言｜👤 marinesebastian
 
-### 3. [Claude 代碼 is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
+### 3. [ArXiv's Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/)
 
-- ⭐ 1429 分｜💬 409 留言｜👤 kirushik
+- ⭐ 106 分｜💬 37 留言｜👤 subset
 
-### 4. [Google copybara: moving 代碼 between repositories](https://github.com/google/copybara)
+### 4. [Godot will no longer accept AI-authored 代碼 contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
-- ⭐ 49 分｜💬 6 留言｜👤 reconnecting
+- ⭐ 91 分｜💬 53 留言｜👤 pjmlp
 
-### 5. [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
+### 5. [Google copybara: moving 代碼 between repositories](https://github.com/google/copybara)
 
-- ⭐ 232 分｜💬 90 留言｜👤 Pragmata
+- ⭐ 205 分｜💬 33 留言｜👤 reconnecting
 
-### 6. [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
+### 6. [Dexter (YC F24) Is 招聘 a Founding 工程師 in Berlin](https://news.ycombinator.com/item?id=48744213)
 
-- ⭐ 10 分｜💬 1 留言｜👤 onemoresoop
+Dexter is the AI-native spend intelligence platform for complex enterprises. Big enterprises spend hundreds of millions, sometimes billions, every year buying things from suppliers, but most of them h
 
-### 7. [From brain waves to words: a 新 path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+- ⭐ 1 分｜💬 0 留言｜👤 garriguv
 
-- ⭐ 109 分｜💬 58 留言｜👤 alok-g
+### 7. [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
+
+- ⭐ 105 分｜💬 62 留言｜👤 dsr12
 
 ### 8. [Claude Science](https://claude.com/product/claude-science)
 
-- ⭐ 371 分｜💬 122 留言｜👤 lebovic
+- ⭐ 485 分｜💬 146 留言｜👤 lebovic
 
-### 9. [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
+### 9. [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374)
 
-- ⭐ 308 分｜💬 120 留言｜👤 minimaxir
+- ⭐ 6 分｜💬 1 留言｜👤 mushstory
 
-### 10. [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
+### 10. [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
 
-- ⭐ 102 分｜💬 19 留言｜👤 vetronauta
+- ⭐ 672 分｜💬 387 留言｜👤 Pragmata
 
-### 11. [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car)
+### 11. [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
 
-- ⭐ 107 分｜💬 26 留言｜👤 Muhammad523
+- ⭐ 375 分｜💬 151 留言｜👤 minimaxir
 
-### 12. [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
+### 12. [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
 
-- ⭐ 33 分｜💬 3 留言｜👤 gregsadetsky
+- ⭐ 5 分｜💬 0 留言｜👤 chimpanzee
 
-### 13. [Deriving SVD without even aiming at it](https://stillthinking.net/posts/connections-in-math-svd/)
+### 13. [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
 
-- ⭐ 9 分｜💬 0 留言｜👤 pcael
+- ⭐ 218 分｜💬 68 留言｜👤 vetronauta
 
-### 14. [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
+### 14. [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car)
 
-https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;weberneteshttps:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;
+- ⭐ 187 分｜💬 37 留言｜👤 Muhammad523
 
-- ⭐ 167 分｜💬 55 留言｜👤 peterdemin
+### 15. [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)
 
-### 15. [Ante: A 新 way to blend borrow checking and reference counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
+- ⭐ 32 分｜💬 2 留言｜👤 at2005
 
-- ⭐ 49 分｜💬 14 留言｜👤 g0xA52A2A
+### 16. [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
 
-### 16. [TabFM: A zero-shot foundation 模型 for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
+- ⭐ 67 分｜💬 15 留言｜👤 onemoresoop
 
-- ⭐ 39 分｜💬 6 留言｜👤 brandonb
-
-### 17. [I built a mmWave material classification radar (2025)](https://gauthier-lechevalier.com/radar)
-
-- ⭐ 142 分｜💬 38 留言｜👤 GL26
-
-### 18. [CERN bids farewell to the LHC and enters Long Shutdown 3](https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/)
+### 17. [CERN bids farewell to the LHC and enters Long Shutdown 3](https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/)
 
 https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-...
 
-- ⭐ 119 分｜💬 32 留言｜👤 HelloUsername
+- ⭐ 226 分｜💬 65 留言｜👤 HelloUsername
 
-### 19. [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
+### 18. [How information theory saved my word game](https://motplot.app/helloworld)
 
-- ⭐ 75 分｜💬 12 留言｜👤 zdw
+- ⭐ 15 分｜💬 18 留言｜👤 jamwise
 
-### 20. [Stroustrup's Rule (2024)](https://buttondown.com/hillelwayne/archive/stroustrups-rule/)
+### 19. [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 
-- ⭐ 57 分｜💬 9 留言｜👤 bmacho
+https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;weberneteshttps:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;
 
-### 21. [Long Island's decommissioned nuclear power plant](https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/)
+- ⭐ 261 分｜💬 80 留言｜👤 peterdemin
 
-- ⭐ 75 分｜💬 11 留言｜👤 mkmk
+### 20. [From brain waves to words: a 新 path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+
+- ⭐ 157 分｜💬 82 留言｜👤 alok-g
+
+### 21. [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
+
+- ⭐ 135 分｜💬 29 留言｜👤 zdw
 
 ### 22. [Building a custom octocopter from scratch with no prior 硬體 experience](https://karolina.mgdubiel.com/drone/)
 
-- ⭐ 331 分｜💬 69 留言｜👤 noleary
+- ⭐ 367 分｜💬 78 留言｜👤 noleary
 
-### 23. [Hengefinder](https://hengefinder.com/)
+### 23. [Ante: A 新 way to blend borrow checking and reference counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
 
-- ⭐ 21 分｜💬 10 留言｜👤 bookofjoe
+- ⭐ 92 分｜💬 20 留言｜👤 g0xA52A2A
 
-### 24. [Knoppix](https://www.knopper.net/knoppix/index-en.html)
+### 24. [I built a mmWave material classification radar (2025)](https://gauthier-lechevalier.com/radar)
 
-- ⭐ 257 分｜💬 103 留言｜👤 hoangvmpc
+- ⭐ 183 分｜💬 48 留言｜👤 GL26
 
-### 25. [Show HN: My 13-year-old built an ant colony tracker](https://formicarium.es)
+### 25. [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
 
-He&#x27;s 13 years old. He wanted to track his own ant colonies — growth, feeding, humidity, and other metrics. He built the whole app himself with some help from AI tools; I just helped him 部署 it
+- ⭐ 67 分｜💬 9 留言｜👤 gregsadetsky
 
-- ⭐ 40 分｜💬 30 留言｜👤 abelgvidal
+### 26. [Pystd, similar-ish functionality with a fraction of the compile time](https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html)
 
-### 26. [Waveloop: What Fable left me](https://neynt.ca/writing/waveloop/)
+- ⭐ 25 分｜💬 23 留言｜👤 ibobev
 
-- ⭐ 98 分｜💬 39 留言｜👤 personjerry
+### 27. [Stroustrup's Rule (2024)](https://buttondown.com/hillelwayne/archive/stroustrups-rule/)
 
-### 27. [Have you restarted your computer this week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
+- ⭐ 101 分｜💬 26 留言｜👤 bmacho
 
-- ⭐ 115 分｜💬 220 留言｜👤 surprisetalk
+### 28. [Scaling Laws, Carefully](https://lilianweng.github.io/posts/2026-06-24-scaling-laws/)
 
-### 28. [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518)
+- ⭐ 62 分｜💬 16 留言｜👤 tehnub
 
-- ⭐ 170 分｜💬 54 留言｜👤 lstodd
+### 29. [Have you restarted your computer this week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
 
-### 29. [Reading the internals of Postgres: 資料庫 cluster, databases, and tables](https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables)
+- ⭐ 181 分｜💬 322 留言｜👤 surprisetalk
 
-- ⭐ 51 分｜💬 1 留言｜👤 buraksen
+### 30. [Homemade Transistor from Cadmium Sulfide Photocell (2009)](http://sparkbangbuzz.com/cds-fet/cds-fet.htm)
 
-### 30. [I built a 10 inch mini rack from aluminium extrusions](https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html)
-
-- ⭐ 71 分｜💬 31 留言｜👤 louwrentius
+- ⭐ 7 分｜💬 5 留言｜👤 thenthenthen
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- RF hacking my 雲端-controlled ceiling fan
-- Loko Scheme 0.13.0
+- Long Island's decommissioned nuclear power plant
+- Single header Parser Combinators for C
+- Knoppix
+- Reading the internals of Postgres: 資料庫 cluster, databases, and tables
+- Meta is adding rate limits and soft paywall to smart glasses
 - 1.38 Millimeter Microcontroller
-- Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)
+- Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)
+- TabFM: A zero-shot foundation 模型 for tabular data
+- Show HN: My 13-year-old built an ant colony tracker
+- Segmenting Robot Video into Actionable Subtasks
+- I built a 10 inch mini rack from aluminium extrusions
+- How employment changes when firms adopt generative AI
 - Zluda 6 release (run unmodified CUDA applications on non-NVIDIA GPUs)
-- Set up your own DoH (DNS over HTTPS) service
-- Amazon seller reveals glimpse of shadow bribery market
-- Gone but Not Forgotten: Recovering the Dead 網頁
-- A peek into Reddit's anti-spam internals
+- Hengefinder
 - 6 years and 360 patches to clean all instances of strnpy out of the Linux kernel
-- Understanding lattice risks: Many differences between marketing and reality
-- Counterexamples in type systems (2021)
-- Supreme Court upholds broad conception of birthright citizenship
-- SedonaDB 0.4: GPU-accelerated spatial joins
-- Factorio 2.1 Experimental Release
-- Mathematics: Its Content, Methods and Meaning
+- Google's 新 reCAPTCHA Wants Your Camera Access and 21 Points of Your Hand
+- A peek into Reddit's anti-spam internals
+- Set up your own DoH (DNS over HTTPS) service
+- RF hacking my 雲端-controlled ceiling fan
+- Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)
+- Waveloop: What Fable left me
+- Amazon seller reveals glimpse of shadow bribery market
 - The end of my AArch64 desktop experiment
+- America can switch off AI. Europe must switch gears before it's too late
+- Structural Correctness
+- Qwen 3.6 27B is the sweet spot for local development
 - 開源 Low Tech
+- Claude Fable 5 available globally tomorrow
+- Supreme Court upholds broad conception of birthright citizenship
+- Deriving the SVD (Single Value Decomposition) from scratch
+- Counterexamples in type systems (2021)
+- I'm building a Space Cadet Pinball Machine! [video]
+- Antares achieves criticality of Mark-0 reactor
+- Anthropic says US lifts export ban on Fable 5
+- I do not feel like a programmer anymore
+- Linux for the Sega MegaDrive
+- We pay engineers to cut our infra bill
+- Mathematics: Its Content, Methods and Meaning
+- Show HN: C++, Java and C# light-weight-logger
+- LongCat-2.0, a large-scale MoE 模型 with 1.6T total and 48B Active
+- Gone but Not Forgotten: Recovering the Dead 網頁
+- Loko Scheme 0.13.0
+- SedonaDB 0.4: GPU-accelerated spatial joins
+- .self: A 新 熱門-level domain designed to support self-hosting
+- From Julia to Rust: a differentiable tensor stack for scientific computing
+- Factorio 2.1 Experimental Release
+- Free the Icons
 - Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings
 - American Homeowners Are One Disaster Away from Losing Everything
-- A Fake Shell for Pangenomics
-- Antares achieves criticality of Mark-0 reactor
-- Morbid: Debunking Modern Longevity Science
-- I'm building a Space Cadet Pinball Machine! [video]
-- Qwen 3.6 27B is the sweet spot for local development
-- 為什麼 Jet Engines Aren't "Made in China"
-- Superpowers 6
-- Linux for the Sega MegaDrive
-- Bouvet Island
-- How p-hacking built the world's most expensive safety regime
-- LongCat-2.0, a large-scale MoE 模型 with 1.6T total and 48B Active
-- Local Reasoning for Global Properties
-- Bill C-34 Answers Child Safety with Identity Infrastructure
-- .self: A 新 熱門-level domain designed to support self-hosting
-- Anthropic Mythos & Fable 5 export restrictions lifted
-- Free the Icons
-- Panasonic's 新 residential CO₂ air-to-water heat pump:coeff of performance=6.1
 - Old Computer Challenge
+- A Fake Shell for Pangenomics
 - 如何 corrupt an SQLite 資料庫 file
-- Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]
-- All Logic, No Bite
-- I ported Kubernetes to the browser
-- Crypto firms have spent $189M so far on 2026 US election, report says
+- Understanding lattice risks: Many differences between marketing and reality
 - A native graphical shell for SSH
-- 為什麼 problem statements aren't enough
 - What happens when you run a CUDA kernel?
-- Capacitor Plague
-- Claude 代碼 Just Got 5x More Expensive
+- ESA declares private Minecraft servers 'illegal' in StopKillingGames hearing
+- An Blackhole Simulator in Browser
+- Reddit is going to force you to log in to use old Reddit
+- Tor’s Arti 2.5.0 發布: Stable Counter Galois Onion
+- Superpowers 6
 - Zig – SPIR-V 後端 Progress
-- Hackers Broke into Madison Square Garden
-- WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter
-- The labor share of income in the US is at its lowest post-war level
-- Who are the fire-tamers?
 - Sandia National Labs SA3000 8085 CPU
-- European digital ID wallets rely on safety services of Google and Apple
+- WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter
+- Morbid: Debunking Modern Longevity Science
+- 新 attack provides one more reason 為什麼 AI browsers are a bad idea
+- How p-hacking built the world's most expensive safety regime
 - Rocketlab acquires Iridium
 - Working With AI: A concrete example
 - Microsoft Needs Windows Lite
-- Don't make gates optional, make them flexible
-- Xsnow "protestware" in Debian
-- Wallace the 6 inch f/2.8 telescope, building it, and hiking with it
-- County with 37 Data Centers Asks Schools to 'Conserve Electricity'
-- Kb – Prolog Knowledge Base
-- One million passports leaked online
-- Anthropic restoring access to Claude Fable 5 and Mythos 5 from tomorrow
-- Memory Safe Context Switching
-- What can you confidently guarantee about your 軟體?
-- Ornith-1.0: Self-scaffolding LLMs for agentic coding
-- HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88
-- GLM 5.2 beats Claude in our benchmarks
+- Show HN: Free Online GIS Viewer and Format Converter
 
 
 ---
