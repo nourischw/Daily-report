@@ -4,209 +4,206 @@
 
 ---
 
-### 1. [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
+### 1. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
 
-- ⭐ 93 分｜💬 50 留言｜👤 Erenay09
+- ⭐ 272 分｜💬 132 留言｜👤 IngoBlechschmid
 
-### 2. [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+### 2. [Exapunks](https://www.zachtronics.com/exapunks/)
 
-- ⭐ 46 分｜💬 7 留言｜👤 thm
+- ⭐ 29 分｜💬 10 留言｜👤 yu3zhou4
 
-### 3. [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/)
+### 3. [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube)
 
-- ⭐ 199 分｜💬 116 留言｜👤 mritzmann
+- ⭐ 295 分｜💬 103 留言｜👤 doener
 
-### 4. [Android 開發者 Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html)
+### 4. [Android 開發者 Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html)
 
-- ⭐ 973 分｜💬 398 留言｜👤 drewfax
+- ⭐ 1441 分｜💬 594 留言｜👤 drewfax
 
-### 5. [In the age of algorithms and AI, is traditional media democracy's defence?](https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/)
+### 5. [如何 ask for help from people who don't know you](https://pradyuprasad.com/writings/how-to-ask-for-help/)
 
-- ⭐ 7 分｜💬 5 留言｜👤 jruohonen
+- ⭐ 216 分｜💬 32 留言｜👤 FigurativeVoid
 
-### 6. [An AI board that pre-registers its bets – bet #1 just graded wrong](https://github.com/danilushin/asktheboard)
+### 6. [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
 
-- ⭐ 5 分｜💬 0 留言｜👤 dilushin
+- ⭐ 100 分｜💬 18 留言｜👤 soheilpro
 
-### 7. [Hazel (YC W24) Is 招聘 for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
+### 7. [Launch HN: Manufact (YC S25) – MCP 雲端](https://manufact.com)
+
+Hi HN, we are Pietro and Luigi, cofounders of Manufact (https:&#x2F;&#x2F;manufact.com), a 雲端 for MCP apps and servers. We used to be called mcp-use, and still 構建 開源 SDKs for MCP under 
+
+- ⭐ 76 分｜💬 49 留言｜👤 pzullo
+
+### 8. [Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed](https://willpenman.com/klara/)
+
+- ⭐ 6 分｜💬 7 留言｜👤 fkozlowski
+
+### 9. [AI can't be listed as inventor on patent applications, Japan's 熱門 court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
+
+- ⭐ 275 分｜💬 147 留言｜👤 mushstory
+
+### 10. [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
+
+- ⭐ 248 分｜💬 51 留言｜👤 mgh2
+
+### 11. [German button maker searched rivers of American Midwest for valuable shells](https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/)
+
+- ⭐ 101 分｜💬 34 留言｜👤 bookofjoe
+
+### 12. [Kimi K2.7 代碼 is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+
+- ⭐ 368 分｜💬 154 留言｜👤 unliftedq
+
+### 13. [Show HN: CLI tool for detecting non-exact 代碼 duplication with embedding models](https://github.com/rafal-qa/slopo)
+
+- ⭐ 53 分｜💬 24 留言｜👤 rkochanowski
+
+### 14. [The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing](https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a)
+
+- ⭐ 310 分｜💬 135 留言｜👤 toomuchtodo
+
+### 15. [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
+
+- ⭐ 109 分｜💬 27 留言｜👤 tcp_handshaker
+
+### 16. [No 大型語言模型 代碼 in Dependencies](https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/)
+
+- ⭐ 38 分｜💬 18 留言｜👤 edward
+
+### 17. [The primary purpose of 代碼 review is to find 代碼 that will be hard to maintain](https://mathstodon.xyz/@mjd/115096720350507897)
+
+- ⭐ 262 分｜💬 141 留言｜👤 ColinWright
+
+### 18. [Hazel (YC W24) Is 招聘 for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
 
 - ⭐ 1 分｜💬 0 留言｜👤 augustschen
 
-### 8. [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
+### 19. [The fall of the theorem economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
 
-- ⭐ 19 分｜💬 4 留言｜👤 tcp_handshaker
+- ⭐ 210 分｜💬 91 留言｜👤 varjag
 
-### 9. [Kimi K2.7 代碼 is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+### 20. [Show HN: A graph paper generator that renders vector PDFs in the browser](https://freegraphpaper.net/)
 
-- ⭐ 249 分｜💬 105 留言｜👤 unliftedq
+- ⭐ 65 分｜💬 15 留言｜👤 lam_hg94
 
-### 10. [The fall of the theorem economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
+### 21. [WinPE as a stateless harness for Windows driver testing and fuzzing](https://bednars.me/blog/winpe-harness)
 
-- ⭐ 131 分｜💬 46 留言｜👤 varjag
+- ⭐ 70 分｜💬 4 留言｜👤 piotrbednarsalt
 
-### 11. [WinPE as a stateless harness for Windows driver testing and fuzzing](https://bednars.me/blog/winpe-harness)
+### 22. [Show HN: Mail Memories – A desktop app to rescue photos from Gmail](https://mailmemories.com)
 
-- ⭐ 23 分｜💬 0 留言｜👤 piotrbednarsalt
+Hey HN, I’m the creator of Mail Memories. Like many of you, I&#x27;ve had my Gmail address for more than 20 years. A few years ago, I got curious and wanted to see what photos were buried deep in my a
 
-### 12. [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+- ⭐ 89 分｜💬 36 留言｜👤 ltiger
 
-- ⭐ 450 分｜💬 309 留言｜👤 chvid
+### 23. [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
 
-### 13. [Oomwoo, an open-source robot vacuum you 構建 yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+- ⭐ 96 分｜💬 47 留言｜👤 Eikon
 
-- ⭐ 377 分｜💬 71 留言｜👤 devicelimit
+### 24. [CursorBench 3.1](https://cursor.com/evals)
 
-### 14. [Many people misunderstand the purpose of 代碼 review](https://mathstodon.xyz/@mjd/115096720350507897)
+- ⭐ 147 分｜💬 80 留言｜👤 handfuloflight
 
-- ⭐ 14 分｜💬 6 留言｜👤 ColinWright
-
-### 15. [Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](https://www.mixedbread.com/blog/asymmetric-quant)
-
-- ⭐ 64 分｜💬 14 留言｜👤 breadislove
-
-### 16. [Show HN: Claudoro, Pomodoro timer embedded in the Claude 代碼 statusline](https://github.com/emson/claudoro)
+### 25. [Show HN: Claudoro, Pomodoro timer embedded in the Claude 代碼 statusline](https://github.com/emson/claudoro)
 
 3 weeks ago I had a nasty accident and fractured my vertebrae. As I lay in bed I needed something to take my mind off it all so built &quot;Claudoro&quot;.Claudoro is a pomodoro timer built right into
 
-- ⭐ 5 分｜💬 1 留言｜👤 emson
+- ⭐ 38 分｜💬 26 留言｜👤 emson
 
-### 17. [為什麼 I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0)
+### 26. [Germany’s Infineon opens major chip plant as EU seeks tech autonomy](https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy)
 
-- ⭐ 149 分｜💬 84 留言｜👤 vrganj
+- ⭐ 166 分｜💬 48 留言｜👤 giuliomagnifico
 
-### 18. [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
+### 27. [Too many tables are bad for you](https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/)
 
-- ⭐ 384 分｜💬 249 留言｜👤 pentagrama
+- ⭐ 6 分｜💬 0 留言｜👤 0x54MUR41
 
-### 19. [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
+### 28. [資深 SWE-Bench: open-source benchmark that assesses agents as 資深 engineers](https://senior-swe-bench.snorkel.ai/)
 
-- ⭐ 190 分｜💬 157 留言｜👤 boshomi
+- ⭐ 152 分｜💬 102 留言｜👤 matt_d
 
-### 20. [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
+### 29. [How VictoriaLogs Stores Your Logs in a Columnar Layout](https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html)
 
-- ⭐ 382 分｜💬 205 留言｜👤 atan2
+- ⭐ 14 分｜💬 3 留言｜👤 eatonphil
 
-### 21. [FFmpeg 9.1's 新 AAC encoder](https://hydrogenaudio.org/index.php/topic,129691.0.html)
+### 30. [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
 
-- ⭐ 411 分｜💬 129 留言｜👤 ledoge
-
-### 22. [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
-
-- ⭐ 198 分｜💬 209 留言｜👤 consumer451
-
-### 23. [為什麼 jet engines aren't made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)
-
-- ⭐ 223 分｜💬 206 留言｜👤 paulpauper
-
-### 24. [Ask HN: Who is 招聘? (July 2026)](https://news.ycombinator.com/item?id=48747976)
-
-Please state the location and include 遠端 for 遠端 work, 遠端 (US)
-or similar if the country is restricted, and ONSITE when 遠端 work is not an option.Please only post if you personally are p
-
-- ⭐ 219 分｜💬 229 留言｜👤 whoishiring
-
-### 25. [Using Aspect-Oriented 程式設計 to Record DRL Agents' Data](https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/)
-
-- ⭐ 4 分｜💬 1 留言｜👤 luca-sctr
-
-### 26. [How do wombats poop cubes? (2021)](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
-
-- ⭐ 146 分｜💬 87 留言｜👤 bushwart
-
-### 27. [Weave Robotics 推出 Isaac 1, a $7,999 home robot with Fall 2026 deliveries](https://www.weaverobotics.com/isaac-1)
-
-https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;weave-robotics-isaac-1-home-...
-
-- ⭐ 210 分｜💬 305 留言｜👤 ryanmerket
-
-### 28. [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
-
-https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;https:&#x2F;&#x2F;www.science.org&#x2F;content&#x2F;article&#x2F;lab-created-spudcell...https:&#x2F;&#x2F;www.nytimes.com&#x2F;interactive
-
-- ⭐ 882 分｜💬 279 留言｜👤 defrost
-
-### 29. [Monetization Gateway: Charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/)
-
-- ⭐ 321 分｜💬 223 留言｜👤 soheilpro
-
-### 30. [The Underhanded C Contest](https://underhanded-c.org/)
-
-- ⭐ 111 分｜💬 12 留言｜👤 ccabraldev
+- ⭐ 201 分｜💬 123 留言｜👤 Erenay09
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Qualcomm Linux 2.0
-- Learn Vim motions with an ice-cream van
-- Show HN: Searchable directory of 22k+ products from worker-owned co-ops
-- 資深 SWE-Bench: open-source benchmark that assesses agents as 資深 engineers
-- CursorBench 3.1
-- Ask HN: Who wants to be hired? (July 2026)
-- My Favorite Keyboards
-- Germany's Infineon opens $5.7B chip plant as EU seeks tech autonomy
-- The Wisdom of Quinn the Eskimo (Apple 開發者 Technical Support 工程師)
+- My favorite keyboards
+- NSA tries to weaken mlkem standardisation
+- Bring back crappy forums
+- Immich v3.0.0 發布
+- Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction
+- The US Government Is Now a Shareholder in 26 Companies
+- What Breaks a Cell's Ribs Can Make It Stronger
+- Natural history on canvas: Brueghel knew about bird-eating noctule bats
+- 為什麼 jet engines aren't made in China
 - Winamp Skin Museum
-- Aerial Photographs (2017)
-- Chip Off The Old Block
-- NVIDIA offers startup customers chance to swap compute power for revenue share
-- The Apple Disk II Controller Card (2021)
-- Physical disc production ending in Jan 2028 for 新 games on PlayStation
-- Launch HN: Parsewise (YC P25) – Reason Across Documents with an API
+- FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11
+- Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'
+- Show HN: zkGolf, competitive optimization of formally verified circuits.
+- Lunatic: An Erlang-inspired runtime for WebAssembly
+- How do wombats poop cubes? (2021)
+- Comparing Fable and 10 other LLMs on refactoring a LangGraph god node
+- Oomwoo, an open-source robot vacuum you 構建 yourself
+- For first time, a cell built from scratch grows and divides
+- ZCode – Harness for GLM-5.2
+- Show HN: Cyclearchive.com – search vintage cycling magazines
+- Brave's latest browser release offers Containers for better and easier workflow
+- Show HN: ctx – Search the coding 代理 history already on your machine
+- Show HN: I built an open-source alternative to Claude Cowork
+- Chipify – Open-source workflow automation for analog IC design
+- The Underhanded C Contest
+- Europe's 熱門 court upholds Google's record $4.7B antitrust fine
+- Flexible Metaprogramming with Rhombus
+- Measuring Input Latency with VK_EXT_present_timing
+- Show HN: Inkwell – An RSS reader for e-ink devices
+- Learn Vim motions with an ice-cream van
+- OpenAI ‘in early talks to give 5% stake to US government’
 - Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5
-- Will tech giants ever let us opt out of AI search features?
-- How We Made IPFS Content Publishing 10x Faster
-- 1-Bit Pixel Art Emojis
-- Newly discovered spider builds spring loaded snare to catch ants
+- AI fake news complaining about how AI fake news is the death of real news
+- Physical disc production ending in Jan 2028 for 新 games on PlayStation
+- The <usermedia> HTML element
+- Launch HN: Parsewise (YC P25) – Reason Across Documents with an API
+- Zig: Package Management Moved from Compiler to 構建 系統
+- Show HN: Enola-A deterministic architecture graph for developers and AI agents
 - Claude 代碼 is steganographically marking requests
-- Puppy Pregnancy Syndrome
-- ArXiv's Next Chapter
-- Healthy but sedentary people show early decline in cellular energy production
-- Asahi Linux 7.1 Progress Report
-- Fable 5 is Back
-- Box3D, an 開源 3D physics engine
-- Hanami 3.0: In Full Bloom
-- Mortality associated with non-optimal ambient temperatures from 2000 to 2019
-- Sony Deletes 551 Movies PlayStation Owners Paid For
-- The <Usermedia> HTML Element
-- Internal Combustion Engine (2021)
-- Solid and Clean 代碼 never felt solid or clean to me
-- Ask HN: Who is quitting? (July 2026)
-- Nintendo has raised its employees base salary by 10%
-- Show HN: Salt – a systems language with Z3 theorem proving in the compiler
-- 資料庫 Traffic Control
-- Show HN: GolemUI – Declarative Form Engine
-- OpenWiki: CLI that writes and maintains 代理 documentation for your codebase
-- Flavor Graveyard
-- A complete ClickHouse OLAP engine, compiled to WebAssembly
-- Building a custom octocopter from scratch with no prior 硬體 experience
-- Apple 'Hide My Email' vulnerability reveals peoples' real email addresses
-- LibreCAD in the Browser
-- Show HN: Unobin compiles Infrastructure as 代碼 to one binary
+- Tiny-C Reference Manual Excerpt
+- Vibe Coded X11 伺服器 Written in Rust Adds Xinerama, FreeBSD Support
+- What to learn to be a graphics programmer
+- 1-Bit Pixel Art Emojis
+- The Apple Disk II Controller Card (2021)
+- How We Made IPFS Content Publishing 10x Faster
+- Chip Off The Old Block
+- FFmpeg 9.1's 新 AAC encoder
+- Qdf – a Go serializer you query the raw bytes of, smaller than protobuf
 - ChatControl 1.0 mass scanning is to be sneaked through via a 3rd vote next week
-- The first early human eggs from stem cells
-- I Left Harry's All-Night Hamburgers (2013)
-- The GNU Emacs Architecture: Unlocking the Core [pdf]
-- Claude Sonnet 5
-- Red 程式設計 Language: Static linking support
-- He sent a harsh email to ICE's 熱門 official. Federal agents tracked him down
-- Visual Basic on the PC with Windows 3.1
-- Obfuscation: Building the final boss of cryptography (Part I)
-- Creating a Personalised Bin Calendar
-- 1.38 Millimeter Microcontroller
-- Reduce GVisor Cold Starts with GPU Snapshotting
-- Generating Images with a 2025 Android
-- Building Gin: Simple over Easy
-- Ray Tracer in SQL
-- Anthropic embedded spyware in Claude 代碼 – and attempted to hide it from you
-- Avo 4 發布 – 15 months and 2000 commits later
-- I don't maintain my homelab, it maintains itself
-- Fixing a kubelet memory leak in Kubernetes 1.36
-- Show HN: Margarita - 程式設計 language for Agents using Markdown-ish syntax
-- Weak hands and blurry vision: Is your tech giving you 'phone body'?
-- Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers
-- One KW wind turbine without civil engineering
-- Ante: A 新 way to blend borrow checking and reference counting
+- Newly discovered spider builds spring loaded snare to catch ants
+- ArXiv's Next Chapter
+- Show HN: I measured the half-life of 41,301 Show HN 推出. It's 7 hours
+- Asahi Linux 7.1 Progress Report
+- 24-bit/192kHz music downloads and 為什麼 they make no sense (2012)
+- Data-Directed 程式設計 in Haskell
+- Aerial Photographs (2017)
+- Using Aspect-Oriented 程式設計 to Record DRL Agents' Data
+- Ask HN: Who is 招聘? (July 2026)
+- Portugal 推出 first open-source AI 模型, joining Europe's sovereignty push
+- Healthy but sedentary people show early decline in cellular energy production
+- 如何 deadlock a Java ExecutorService
+- Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance
+- The Wisdom of Quinn the Eskimo (Apple 開發者 Technical Support 工程師)
+- Box3D, an 開源 3D physics engine
+- Show HN: MemSignal - an experimental memory-pressure indicator for Windows
+- Fable 5 is Back
+- Sony Deletes 551 Movies PlayStation Owners Paid For
+- Building a custom octocopter from scratch with no prior 硬體 experience
+- Hanami 3.0: In Full Bloom
+- Weave Robotics 推出 Isaac 1, a $7,999 home robot with Fall 2026 deliveries
 
 
 ---
