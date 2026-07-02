@@ -4,218 +4,209 @@
 
 ---
 
-### 1. [Kimi K2.7 代碼 is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+### 1. [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
 
-- ⭐ 119 分｜💬 36 留言｜👤 unliftedq
+- ⭐ 93 分｜💬 50 留言｜👤 Erenay09
 
-### 2. [A 新 Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
+### 2. [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 
-- ⭐ 303 分｜💬 143 留言｜👤 drewfax
+- ⭐ 46 分｜💬 7 留言｜👤 thm
 
-### 3. [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+### 3. [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/)
 
-- ⭐ 382 分｜💬 286 留言｜👤 chvid
+- ⭐ 199 分｜💬 116 留言｜👤 mritzmann
 
-### 4. [Oomwoo, an open-source robot vacuum you 構建 yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+### 4. [Android 開發者 Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html)
 
-- ⭐ 267 分｜💬 50 留言｜👤 devicelimit
+- ⭐ 973 分｜💬 398 留言｜👤 drewfax
 
-### 5. [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
+### 5. [In the age of algorithms and AI, is traditional media democracy's defence?](https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/)
 
-- ⭐ 237 分｜💬 140 留言｜👤 pentagrama
+- ⭐ 7 分｜💬 5 留言｜👤 jruohonen
 
-### 6. [CursorBench 3.1](https://cursor.com/evals)
+### 6. [An AI board that pre-registers its bets – bet #1 just graded wrong](https://github.com/danilushin/asktheboard)
 
-- ⭐ 48 分｜💬 33 留言｜👤 handfuloflight
+- ⭐ 5 分｜💬 0 留言｜👤 dilushin
 
-### 7. [We Don't Have to Be This Bad at Improving Society](https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/)
+### 7. [Hazel (YC W24) Is 招聘 for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
 
-- ⭐ 4 分｜💬 0 留言｜👤 juunge
+- ⭐ 1 分｜💬 0 留言｜👤 augustschen
 
-### 8. [Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](https://www.mixedbread.com/blog/asymmetric-quant)
+### 8. [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
 
-- ⭐ 13 分｜💬 1 留言｜👤 breadislove
+- ⭐ 19 分｜💬 4 留言｜👤 tcp_handshaker
 
-### 9. [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
+### 9. [Kimi K2.7 代碼 is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
 
-- ⭐ 330 分｜💬 174 留言｜👤 atan2
+- ⭐ 249 分｜💬 105 留言｜👤 unliftedq
 
-### 10. [FFmpeg 9.1's 新 AAC encoder](https://hydrogenaudio.org/index.php/topic,129691.0.html)
+### 10. [The fall of the theorem economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
 
-- ⭐ 369 分｜💬 112 留言｜👤 ledoge
+- ⭐ 131 分｜💬 46 留言｜👤 varjag
 
-### 11. [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+### 11. [WinPE as a stateless harness for Windows driver testing and fuzzing](https://bednars.me/blog/winpe-harness)
 
-- ⭐ 149 分｜💬 139 留言｜👤 consumer451
+- ⭐ 23 分｜💬 0 留言｜👤 piotrbednarsalt
 
-### 12. [Ask HN: Who is 招聘? (July 2026)](https://news.ycombinator.com/item?id=48747976)
+### 12. [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+
+- ⭐ 450 分｜💬 309 留言｜👤 chvid
+
+### 13. [Oomwoo, an open-source robot vacuum you 構建 yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+
+- ⭐ 377 分｜💬 71 留言｜👤 devicelimit
+
+### 14. [Many people misunderstand the purpose of 代碼 review](https://mathstodon.xyz/@mjd/115096720350507897)
+
+- ⭐ 14 分｜💬 6 留言｜👤 ColinWright
+
+### 15. [Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](https://www.mixedbread.com/blog/asymmetric-quant)
+
+- ⭐ 64 分｜💬 14 留言｜👤 breadislove
+
+### 16. [Show HN: Claudoro, Pomodoro timer embedded in the Claude 代碼 statusline](https://github.com/emson/claudoro)
+
+3 weeks ago I had a nasty accident and fractured my vertebrae. As I lay in bed I needed something to take my mind off it all so built &quot;Claudoro&quot;.Claudoro is a pomodoro timer built right into
+
+- ⭐ 5 分｜💬 1 留言｜👤 emson
+
+### 17. [為什麼 I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0)
+
+- ⭐ 149 分｜💬 84 留言｜👤 vrganj
+
+### 18. [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
+
+- ⭐ 384 分｜💬 249 留言｜👤 pentagrama
+
+### 19. [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
+
+- ⭐ 190 分｜💬 157 留言｜👤 boshomi
+
+### 20. [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
+
+- ⭐ 382 分｜💬 205 留言｜👤 atan2
+
+### 21. [FFmpeg 9.1's 新 AAC encoder](https://hydrogenaudio.org/index.php/topic,129691.0.html)
+
+- ⭐ 411 分｜💬 129 留言｜👤 ledoge
+
+### 22. [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+
+- ⭐ 198 分｜💬 209 留言｜👤 consumer451
+
+### 23. [為什麼 jet engines aren't made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)
+
+- ⭐ 223 分｜💬 206 留言｜👤 paulpauper
+
+### 24. [Ask HN: Who is 招聘? (July 2026)](https://news.ycombinator.com/item?id=48747976)
 
 Please state the location and include 遠端 for 遠端 work, 遠端 (US)
 or similar if the country is restricted, and ONSITE when 遠端 work is not an option.Please only post if you personally are p
 
-- ⭐ 196 分｜💬 206 留言｜👤 whoishiring
+- ⭐ 219 分｜💬 229 留言｜👤 whoishiring
 
-### 13. [How do wombats poop cubes?](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
+### 25. [Using Aspect-Oriented 程式設計 to Record DRL Agents' Data](https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/)
 
-- ⭐ 112 分｜💬 50 留言｜👤 bushwart
+- ⭐ 4 分｜💬 1 留言｜👤 luca-sctr
 
-### 14. [Learn Vim motions with an ice-cream van](https://thisismodest.com/vimscoops/)
+### 26. [How do wombats poop cubes? (2021)](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
 
-- ⭐ 65 分｜💬 12 留言｜👤 marcusmichaels
+- ⭐ 146 分｜💬 87 留言｜👤 bushwart
 
-### 15. [The Underhanded C Contest](https://underhanded-c.org/)
-
-- ⭐ 90 分｜💬 11 留言｜👤 ccabraldev
-
-### 16. [Weave Robotics 推出 Isaac 1, a $7,999 home robot with Fall 2026 deliveries](https://www.weaverobotics.com/isaac-1)
+### 27. [Weave Robotics 推出 Isaac 1, a $7,999 home robot with Fall 2026 deliveries](https://www.weaverobotics.com/isaac-1)
 
 https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;weave-robotics-isaac-1-home-...
 
-- ⭐ 169 分｜💬 232 留言｜👤 ryanmerket
+- ⭐ 210 分｜💬 305 留言｜👤 ryanmerket
 
-### 17. [Qualcomm Linux 2.0](https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available)
-
-- ⭐ 99 分｜💬 40 留言｜👤 gilgamesh3
-
-### 18. [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
+### 28. [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
 
 https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;https:&#x2F;&#x2F;www.science.org&#x2F;content&#x2F;article&#x2F;lab-created-spudcell...https:&#x2F;&#x2F;www.nytimes.com&#x2F;interactive
 
-- ⭐ 846 分｜💬 275 留言｜👤 defrost
+- ⭐ 882 分｜💬 279 留言｜👤 defrost
 
-### 19. [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
+### 29. [Monetization Gateway: Charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/)
 
-- ⭐ 342 分｜💬 65 留言｜👤 IESAI_ski
+- ⭐ 321 分｜💬 223 留言｜👤 soheilpro
 
-### 20. [為什麼 jet engines aren't made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)
+### 30. [The Underhanded C Contest](https://underhanded-c.org/)
 
-- ⭐ 142 分｜💬 114 留言｜👤 paulpauper
-
-### 21. [Monetization Gateway: Charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/)
-
-- ⭐ 293 分｜💬 207 留言｜👤 soheilpro
-
-### 22. [Ask HN: Who wants to be hired? (July 2026)](https://news.ycombinator.com/item?id=48747975)
-
-Share your information if you are looking for work. Please use this format:  Location:
-  遠端:
-  Willing to relocate:
-  Technologies:
-  Résumé&#x2F;CV:
-  Email:
-
-Please only post if you are personal
-
-- ⭐ 126 分｜💬 313 留言｜👤 whoishiring
-
-### 23. [The Wisdom of Quinn the Eskimo (Apple 開發者 Technical Support 工程師)](https://github.com/macshome/The-Wisdom-of-Quinn)
-
-- ⭐ 16 分｜💬 8 留言｜👤 gregsadetsky
-
-### 24. [資深 SWE-Bench: open-source benchmark that assesses agents as 資深 engineers](https://senior-swe-bench.snorkel.ai/)
-
-- ⭐ 70 分｜💬 62 留言｜👤 matt_d
-
-### 25. [The Apple Disk II Controller Card (2021)](https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/)
-
-- ⭐ 80 分｜💬 20 留言｜👤 stmw
-
-### 26. [Proliferate (YC S25) Is 招聘](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer)
-
-- ⭐ 1 分｜💬 0 留言｜👤 pablo24602
-
-### 27. [Chip Off The Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
-
-- ⭐ 77 分｜💬 8 留言｜👤 paulpauper
-
-### 28. [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
-
-Hi all, it’s Greg and Max, founders of Parsewise here (https:&#x2F;&#x2F;www.parsewise.AI&#x2F;API). Parsewise transforms a bucket of unstructured data into schema compliant data, retaining lineage fo
-
-- ⭐ 51 分｜💬 50 留言｜👤 gergelycsegzi
-
-### 29. [The vibration of the pager has a sound all its own](https://www.notyouremergency.com/triage-intro)
-
-- ⭐ 17 分｜💬 7 留言｜👤 mooreds
-
-### 30. [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/)
-
-- ⭐ 165 分｜💬 54 留言｜👤 dennis-tra
+- ⭐ 111 分｜💬 12 留言｜👤 ccabraldev
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Qualcomm Linux 2.0
+- Learn Vim motions with an ice-cream van
+- Show HN: Searchable directory of 22k+ products from worker-owned co-ops
+- 資深 SWE-Bench: open-source benchmark that assesses agents as 資深 engineers
+- CursorBench 3.1
+- Ask HN: Who wants to be hired? (July 2026)
+- My Favorite Keyboards
+- Germany's Infineon opens $5.7B chip plant as EU seeks tech autonomy
+- The Wisdom of Quinn the Eskimo (Apple 開發者 Technical Support 工程師)
+- Winamp Skin Museum
+- Aerial Photographs (2017)
+- Chip Off The Old Block
+- NVIDIA offers startup customers chance to swap compute power for revenue share
+- The Apple Disk II Controller Card (2021)
 - Physical disc production ending in Jan 2028 for 新 games on PlayStation
-- Healthy but sedentary people show early decline in cellular energy production
-- 1-Bit Pixel Art Emojis
+- Launch HN: Parsewise (YC P25) – Reason Across Documents with an API
 - Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5
-- The <Usermedia> HTML Element
-- Fable 5 is Back
+- Will tech giants ever let us opt out of AI search features?
+- How We Made IPFS Content Publishing 10x Faster
+- 1-Bit Pixel Art Emojis
 - Newly discovered spider builds spring loaded snare to catch ants
-- Seattle Just Had an Earthquake
-- Asahi Linux 7.1 Progress Report
-- I Left Harry's All-Night Hamburgers (2013)
-- Hanami 3.0: In Full Bloom
 - Claude 代碼 is steganographically marking requests
-- Mortality associated with non-optimal ambient temperatures from 2000 to 2019
+- Puppy Pregnancy Syndrome
 - ArXiv's Next Chapter
+- Healthy but sedentary people show early decline in cellular energy production
+- Asahi Linux 7.1 Progress Report
+- Fable 5 is Back
 - Box3D, an 開源 3D physics engine
+- Hanami 3.0: In Full Bloom
+- Mortality associated with non-optimal ambient temperatures from 2000 to 2019
 - Sony Deletes 551 Movies PlayStation Owners Paid For
-- 資料庫 Traffic Control
-- Flavor Graveyard
-- OpenWiki: CLI that writes and maintains 代理 documentation for your codebase
-- He sent a harsh email to ICE's 熱門 official. Federal agents tracked him down
-- Show HN: Unobin compiles Infrastructure as 代碼 to one binary
-- Show HN: Salt – a systems language with Z3 theorem proving in the compiler
-- LibreCAD in the Browser
+- The <Usermedia> HTML Element
 - Internal Combustion Engine (2021)
 - Solid and Clean 代碼 never felt solid or clean to me
-- Show HN: GolemUI – Declarative Form Engine
-- A complete ClickHouse OLAP engine, compiled to WebAssembly
+- Ask HN: Who is quitting? (July 2026)
 - Nintendo has raised its employees base salary by 10%
-- EU could announce social media ban for kids in September
-- Avo 4 發布 – 15 months and 2000 commits later
-- Apple 'Hide My Email' vulnerability reveals peoples' real email addresses
-- The GNU Emacs Architecture: Unlocking the Core [pdf]
-- Global review confirms mRNA vaccines are safe, effective and full of promise 
-- Visual Basic on the PC with Windows 3.1
+- Show HN: Salt – a systems language with Z3 theorem proving in the compiler
+- 資料庫 Traffic Control
+- Show HN: GolemUI – Declarative Form Engine
+- OpenWiki: CLI that writes and maintains 代理 documentation for your codebase
+- Flavor Graveyard
+- A complete ClickHouse OLAP engine, compiled to WebAssembly
 - Building a custom octocopter from scratch with no prior 硬體 experience
-- The gauge broke: devs felt 20% faster with AI, measured 19% slower
+- Apple 'Hide My Email' vulnerability reveals peoples' real email addresses
+- LibreCAD in the Browser
+- Show HN: Unobin compiles Infrastructure as 代碼 to one binary
+- ChatControl 1.0 mass scanning is to be sneaked through via a 3rd vote next week
 - The first early human eggs from stem cells
+- I Left Harry's All-Night Hamburgers (2013)
+- The GNU Emacs Architecture: Unlocking the Core [pdf]
+- Claude Sonnet 5
 - Red 程式設計 Language: Static linking support
-- Show HN: I wrote a Rust book ending with a Redis clone
+- He sent a harsh email to ICE's 熱門 official. Federal agents tracked him down
+- Visual Basic on the PC with Windows 3.1
+- Obfuscation: Building the final boss of cryptography (Part I)
+- Creating a Personalised Bin Calendar
+- 1.38 Millimeter Microcontroller
 - Reduce GVisor Cold Starts with GPU Snapshotting
 - Generating Images with a 2025 Android
-- Fable 5 is insanely good
-- One KW wind turbine without civil engineering
-- Ray Tracer in SQL
-- Fixing a kubelet memory leak in Kubernetes 1.36
-- Obfuscation: Building the final boss of cryptography (Part I)
-- Claude Sonnet 5
 - Building Gin: Simple over Easy
-- A '新 way of thinking' boosted math proficiency in an East Palo Alto school
-- Show HN: Curvytron 2, I rewrote my browser party game, 10 years later
-- Show HN: Cyclearchive.com – search vintage cycling magazines
-- Weak hands and blurry vision: Is your tech giving you 'phone body'?
+- Ray Tracer in SQL
+- Anthropic embedded spyware in Claude 代碼 – and attempted to hide it from you
+- Avo 4 發布 – 15 months and 2000 commits later
 - I don't maintain my homelab, it maintains itself
-- Client-side load balancing at a million requests per second
+- Fixing a kubelet memory leak in Kubernetes 1.36
+- Show HN: Margarita - 程式設計 language for Agents using Markdown-ish syntax
+- Weak hands and blurry vision: Is your tech giving you 'phone body'?
 - Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers
-- Claude Fable 5 Promotional Access
-- Show HN: QR 代碼 renderer in a TrueType font
-- Meta caps internal AI token spending
-- 1.38 Millimeter Microcontroller
-- Understanding the Linux Kernel: The Scheduler
-- A retrospective of my time on the internet
-- Stop Quoting Steve Ballmer
-- Tell HN: Old Reddit now requires login
+- One KW wind turbine without civil engineering
 - Ante: A 新 way to blend borrow checking and reference counting
-- Google's 新 reCAPTCHA Wants Your Camera Access and 21 Points of Your Hand
-- Forestiere Underground Gardens
-- Show HN: Shark Tank but you pitch your idea to indie hackers
-- Matrix Orthogonalization Improves Memory in Recurrent Models
-- Most arguments are about ego, not ideas
-- From brain waves to words: a 新 path to communication without surgery
 
 
 ---
