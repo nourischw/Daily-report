@@ -4,202 +4,202 @@
 
 ---
 
-### 1. [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
+### 1. [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
 
-- ⭐ 539 分｜💬 146 留言｜👤 weli
+- ⭐ 120 分｜💬 45 留言｜👤 livestyle
 
-### 2. [PostgreSQL and the OOM Killer: 為什麼 You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
+### 2. [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories)
 
-- ⭐ 14 分｜💬 1 留言｜👤 furkansahin
+- ⭐ 86 分｜💬 30 留言｜👤 arbesman
 
-### 3. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+### 3. [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 
-- ⭐ 881 分｜💬 132 留言｜👤 toomuchtodo
+- ⭐ 95 分｜💬 2 留言｜👤 peterparker204
 
-### 4. [Zuckerberg 'Admits' Meta's Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html)
+### 4. [My dad helped 構建 North America's oat supply chain: Can it be remade?](https://ambrook.com/offrange/perspective/how-we-lost-our-oats)
 
-- ⭐ 39 分｜💬 12 留言｜👤 ExMachina73
+- ⭐ 53 分｜💬 19 留言｜👤 surprisetalk
 
-### 5. [Wordgard: The 新 in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
+### 5. [PostgreSQL and the OOM killer: 為什麼 we use strict memory overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
 
-- ⭐ 86 分｜💬 39 留言｜👤 indy
+- ⭐ 116 分｜💬 43 留言｜👤 furkansahin
 
-### 6. [Valve 開源 the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
+### 6. [Costco Is the Anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/)
 
-- ⭐ 39 分｜💬 3 留言｜👤 ahlCVA
+- ⭐ 23 分｜💬 7 留言｜👤 bookofjoe
 
-### 7. [Right to Local Intelligence](https://righttointelligence.org/)
+### 7. [Valve open-source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
 
-- ⭐ 349 分｜💬 117 留言｜👤 thoughtpeddler
+- ⭐ 398 分｜💬 68 留言｜👤 ahlCVA
 
-### 8. [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
+### 8. [Wordgard: In-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
 
-- ⭐ 412 分｜💬 550 留言｜👤 sprawl_
+- ⭐ 190 分｜💬 75 留言｜👤 indy
 
-### 9. [Please stop the AI confidence theater](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
+### 9. [Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)](https://github.com/kerlenton/mcpsnoop)
 
-- ⭐ 53 分｜💬 21 留言｜👤 skadamat
+- ⭐ 10 分｜💬 3 留言｜👤 kerlenton
 
-### 10. [Goodebye Forever Probably: 為什麼 I’m leaving 開發者 relations](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
+### 10. [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
 
-- ⭐ 5 分｜💬 1 留言｜👤 sixhobbits
+- ⭐ 54 分｜💬 27 留言｜👤 DarkContinent
 
-### 11. [How working with a blind client revealed invisible accessibility gaps](https://iinteractive.com/resources/blog/read-only)
+### 11. [最佳 Simple 系統 for Now (2025)](https://dannorth.net/blog/best-simple-system-for-now/)
 
-- ⭐ 43 分｜💬 24 留言｜👤 fortyseven
+- ⭐ 46 分｜💬 10 留言｜👤 daan-k
 
-### 12. [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+### 12. [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
 
-- ⭐ 325 分｜💬 62 留言｜👤 Philpax
+- ⭐ 1079 分｜💬 329 留言｜👤 weli
 
-### 13. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
+### 13. [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm)
 
-- ⭐ 505 分｜💬 215 留言｜👤 IngoBlechschmid
+- ⭐ 91 分｜💬 38 留言｜👤 crescit_eundo
 
-### 14. [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
+### 14. [60% Fable cost cut by converting 代碼 to images and having the 模型 OCR it](https://github.com/teamchong/pxpipe)
 
-- ⭐ 25 分｜💬 6 留言｜👤 hans_castorp
+- ⭐ 89 分｜💬 29 留言｜👤 dimitropoulos
 
-### 15. [The Safari MCP 伺服器 for 網頁 developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
+### 15. [Right to Local Intelligence](https://righttointelligence.org/)
 
-- ⭐ 143 分｜💬 38 留言｜👤 coloneltcb
+- ⭐ 460 分｜💬 163 留言｜👤 thoughtpeddler
 
-### 16. [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
+### 16. [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)
 
-- ⭐ 579 分｜💬 228 留言｜👤 soheilpro
+- ⭐ 70 分｜💬 4 留言｜👤 doppp
 
-### 17. [Alibaba to ban Claude 代碼 in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
+### 17. [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
 
-- ⭐ 203 分｜💬 151 留言｜👤 nsoonhui
+- ⭐ 525 分｜💬 657 留言｜👤 sprawl_
 
-### 18. [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+### 18. [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
 
-- ⭐ 307 分｜💬 116 留言｜👤 vinhnx
+https:&#x2F;&#x2F;www.faa.gov&#x2F;newsroom&#x2F;trumps-transportation-secretary...
 
-### 19. [Quake in 13 Kilobytes (2021)](https://js13kgames.com/games/q1k3)
+- ⭐ 114 分｜💬 130 留言｜👤 lobbly
 
-- ⭐ 75 分｜💬 7 留言｜👤 mortenjorck
+### 19. [I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type)
 
-### 20. [Immich 3.0](https://github.com/immich-app/immich/discussions/29439)
+- ⭐ 40 分｜💬 23 留言｜👤 theanonymousone
 
-- ⭐ 503 分｜💬 247 留言｜👤 hashier
+### 20. [Flexible metaprogramming with Rhombus](https://lwn.net/SubscriberLink/1079001/67840550991151ed/)
 
-### 21. [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
+- ⭐ 62 分｜💬 1 留言｜👤 spdegabrielle
 
-- ⭐ 306 分｜💬 106 留言｜👤 yu3zhou4
+### 21. [Memorizing session transcripts isn't useful](https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts)
 
-### 22. [Q&A with Micron's VP and GM of Memory](https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of)
+- ⭐ 164 分｜💬 133 留言｜👤 theahura
 
-- ⭐ 16 分｜💬 9 留言｜👤 zdw
+### 22. [Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep](https://promptowl.ai/resources/persistent-memory-ai-agents/)
 
-### 23. [The Beauty of Tautologies](https://scottsumner.substack.com/p/the-beauty-of-tautologies)
+- ⭐ 19 分｜💬 1 留言｜👤 sparkystacey
 
-- ⭐ 9 分｜💬 6 留言｜👤 surprisetalk
+### 23. [Program-as-Weights: A 程式設計 Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)
 
-### 24. [Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel](https://www.nature.com/articles/s41467-026-74235-1)
+- ⭐ 37 分｜💬 4 留言｜👤 simonpure
 
-- ⭐ 61 分｜💬 24 留言｜👤 gscott
+### 24. [America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are](https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive)
 
-### 25. [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
+- ⭐ 89 分｜💬 105 留言｜👤 momentmaker
 
-- ⭐ 9 分｜💬 1 留言｜👤 mpweiher
+### 25. [The Safari MCP 伺服器 for 網頁 developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
 
-### 26. [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
+- ⭐ 227 分｜💬 65 留言｜👤 coloneltcb
 
-- ⭐ 72 分｜💬 12 留言｜👤 snikolaev
+### 26. [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
 
-### 27. [The short leash AI coding method for beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
+- ⭐ 366 分｜💬 81 留言｜👤 Philpax
 
-- ⭐ 157 分｜💬 198 留言｜👤 Riseed
+### 27. [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
 
-### 28. [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
+- ⭐ 57 分｜💬 8 留言｜👤 hans_castorp
 
-Recent and related:Noise infusion banned from statistical products published by Census Bureau - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48517377 - June 2026 (604 comments)
+### 28. [How working with a blind client revealed invisible accessibility gaps](https://iinteractive.com/resources/blog/read-only)
 
-- ⭐ 355 分｜💬 106 留言｜👤 flowercalled
+- ⭐ 77 分｜💬 63 留言｜👤 fortyseven
 
-### 29. [FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11](https://apple.github.io/foundationdb/flow.html)
+### 29. [Instead of banning AI, I made a classroom contract with my students](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
 
-- ⭐ 82 分｜💬 23 留言｜👤 sourdecor
+- ⭐ 13 分｜💬 0 留言｜👤 digital55
 
-### 30. [A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time](https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/)
+### 30. [Quake in 13 Kilobytes (2021)](https://js13kgames.com/games/q1k3)
 
-- ⭐ 76 分｜💬 61 留言｜👤 HardwareLust
+- ⭐ 131 分｜💬 19 留言｜👤 mortenjorck
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Postgres transactions are a distributed systems superpower
-- Great Salt Lake Tracker
-- Claude-real-video － any 大型語言模型 can watch a video
-- Superpowers 6
-- This is my attempt to get Vulkan going on NetBSD
-- Android 開發者 Verification: Threat masquerading as protection
-- EFF letter to FTC on X consent order [pdf]
-- PeerTube is a free, decentralized and federated video platform
-- Hackers shoveled snow for company, were rewarded with 網絡 admin access
-- LibreCAD in the Browser
-- Lightning Memory-Mapped 資料庫 經理 (LMDB) 1.0
-- Hazel (YC W24) Is 招聘 for Our Largest Government Contract
-- Show HN: zkGolf – Competitive optimization of formally verified circuits
-- Mystery identity of 'Green Boots' climber is finally solved after DNA 測試
-- 24-bit/192kHz music downloads and 為什麼 they make no sense (2012)
-- Amazon has enough satellites to launch its Starlink competitor
-- German button maker searched rivers of American Midwest for valuable shells
-- Launch HN: Manufact (YC S25) – MCP 雲端
-- The fall of the theorem economy
-- Spain Orders Blacklist of Palantir from Public and Private Companies
-- AI Data Centers Use More Water Than Most Tech Giants Report
-- Robotic bird targets drones' biggest aerodynamic shortcoming
-- Show HN: Inkwell – An RSS reader for e-ink devices
-- Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)
-- NSA tries to weaken mlkem standardisation?
-- Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk
-- Gemini 代碼 Assist will be shut down on July 17
-- AI can't be listed as inventor on patent applications, Japan's 熱門 court rules
-- Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train
-- FBI Seizes NetNut Proxy Platform, Popa Botnet
-- 如何 ask for help from people who don't know you
-- 資深 SWE-Bench: open-source benchmark that assesses agents as 資深 engineers
-- Apricot Computers: An underrated British brand
-- JEP 539: Strict Field Initialization in the JVM moved to preview
-- Client-side load balancing at a million requests per second
-- OpenUI: Open Standard for Generative UI
-- CursorBench 3.1
-- Bring back crappy forums
-- 為什麼 jet engines aren't made in China
-- The primary purpose of 代碼 review is to find 代碼 that will be hard to maintain
-- The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing
-- Show HN: Gitstock–Transform you GitHub commit history into K-line and animations
-- Show HN: I made a tool that prevents websites from tracking you
-- M5 CardputerZero – Pocket Raspberry Pi Computer for Hackers
-- Wireless LAN SD
-- Show HN: CLI tool for detecting non-exact 代碼 duplication with embedding models
-- WinPE as a stateless harness for Windows driver testing and fuzzing
-- For first time, a cell built from scratch grows and divides
-- 為什麼 Switzerland has 25 gbit internet and America doesn't
-- My favorite keyboards
+- Reality has a surprising amount of detail (2017)
+- Show HN: ctx – Search the coding 代理 history already on your machine
+- Local Reasoning for Global Properties
+- Exapunks (2018)
+- Markets are competitive if and only if P != NP
+- Holes
+- Alibaba to ban Claude 代碼 in workplace over alleged backdoor risks, source says
+- Virginia bans sale of precise geolocation data
+- Underwater suit-wearing cyborg insect capable of diving and terra-aqua travel
+- AI saves about 3% of your hours, and almost none of it reaches the money
+- The short leash AI coding method for beating Fable
 - Show HN: Pieces – Social 網絡 for people
-- Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf]
-- Amazon's Mechanical Turk to stop accepting 新 customers
-- Kimi K2.7 代碼 is generally available in GitHub Copilot
-- Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction
-- Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5
-- A 新 Catalog of Stellar Rotation Periods for over a Million Stars
-- Smol Machines
-- How do wombats poop cubes? (2021)
-- Claude 代碼 is steganographically marking requests
-- Show HN: A graph paper generator that renders vector PDFs in the browser
-- Order a burned CD of your own public GitHub repo
-- ZCode – Harness for GLM-5.2
-- Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
-- ReactOS Implements First Windows NT6 系統 Call Toward Vista Compatibility
+- NOYB (Max Schrems) to challenge EU/US data sharing after SCOTUS ruling [pdf]
+- Using OpenTofu's Exclude Flag to Isolate Performance Bottlenecks
+- Hackers shoveled snow for company, were rewarded with 網絡 admin access
+- Postgres transactions are a distributed systems superpower
+- Q&A with Micron's VP and GM of Memory
+- An American Privacy Emergency
+- Android 開發者 Verification: Threat masquerading as protection
+- Great Salt Lake Tracker
+- Faster embeddings: how we rebuilt the ONNX path in Manticore
+- FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11
+- Superpowers 6
+- Zuckerberg 'Admits' Meta's Layoffs Were Ineffective
+- This is my attempt to get Vulkan going on NetBSD
+- Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory
+- Claude-real-video － any 大型語言模型 can watch a video
+- Hazel (YC W24) Is 招聘 for Our Largest Government Contract
+- PeerTube is a free, decentralized and federated video platform
+- AI coding is addictive. Engineers are paying the price
+- Podman v6.0.0
+- EFF letter to FTC on X consent order [pdf]
+- The Beauty of Tautologies
+- Immich 3.0
+- LibreCAD in the Browser
+- A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time
+- Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP
+- The fall of the theorem economy
+- German button maker searched rivers of American Midwest for valuable shells
+- Heuristics for lab robotics, and where its future may go
+- US residents angry datacenters 'shoved down our throats' are recalling officials
+- 24-bit/192kHz music downloads and 為什麼 they make no sense (2012)
+- Cache Merging as a Convergent Replicated State for Multi-代理 Latent Reasoning
+- Launch HN: Manufact (YC S25) – MCP 雲端
+- Spain Orders Blacklist of Palantir from Public and Private Companies
+- NSA tries to weaken mlkem standardisation?
+- Show HN: OM Core – multidimensional models without spreadsheet cell formulas
+- Show HN: zkGolf – Competitive optimization of formally verified circuits
+- How many failed startups have you launched?
+- Gemini 代碼 Assist will be shut down on July 17
+- 資深 SWE-Bench: open-source benchmark that assesses agents as 資深 engineers
+- Give Smart People the Tools to Do Smart Things
+- Token prices collapsing, regulation rising, AI's pricing power looks fragile
+- Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train
+- AI can't be listed as inventor on patent applications, Japan's 熱門 court rules
+- 如何 ask for help from people who don't know you
+- Tesla stock sinks 7% despite strong deliveries report, worst day in nearly 1y
+- Show HN: Inkwell – An RSS reader for e-ink devices
 - Gun Mistakes in Fiction Writing: Handgun Edition
-- Oomwoo, an open-source robot vacuum you 構建 yourself
-- Show HN: I measured the half-life of 41,301 Show HN 推出. It's 7 hours
-- Ask HN: Since when does Craigslist's front page have emojis?
-- Show HN: Claudoro, Pomodoro timer embedded in the Claude 代碼 statusline
+- 為什麼 jet engines aren't made in China
+- Client-side load balancing at a million requests per second
+- AI's $2.2T deficit fix is already half fake, economists say
+- Bring back crappy forums
+- CursorBench 3.1
+- JEP 539: Strict Field Initialization in the JVM moved to preview
+- How Fighter Jets Lock on (and How the Targets Know) (2014)
+- The primary purpose of 代碼 review is to find 代碼 that will be hard to maintain
+- Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk
+- FBI Seizes NetNut Proxy Platform, Popa Botnet
+- Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)
 
 
 ---
