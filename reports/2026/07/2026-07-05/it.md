@@ -4,200 +4,200 @@
 
 ---
 
-### 1. [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
+### 1. [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
 
-- ⭐ 140 分｜💬 50 留言｜👤 cybermango
+- ⭐ 106 分｜💬 32 留言｜👤 dabinat
 
 ### 2. [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
 
-- ⭐ 362 分｜💬 142 留言｜👤 asronline
+- ⭐ 551 分｜💬 224 留言｜👤 asronline
 
-### 3. [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
+### 3. [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/)
 
-- ⭐ 150 分｜💬 45 留言｜👤 maille
+- ⭐ 31 分｜💬 19 留言｜👤 ognyankulev
 
-### 4. [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
+### 4. [If you're a button, you have one 工作](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 
-- ⭐ 344 分｜💬 180 留言｜👤 Cider9986
+- ⭐ 178 分｜💬 78 留言｜👤 nozzlegear
 
-### 5. [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
+### 5. [Pandoc Lua Filters](https://pandoc.org/lua-filters.html)
 
-- ⭐ 39 分｜💬 8 留言｜👤 hhs
+- ⭐ 56 分｜💬 1 留言｜👤 ankitg12
 
-### 6. [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube)
+### 6. [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
 
-- ⭐ 489 分｜💬 273 留言｜👤 javxfps
+- ⭐ 257 分｜💬 96 留言｜👤 maille
 
-### 7. [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
+### 7. [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
 
-- ⭐ 95 分｜💬 32 留言｜👤 leemoore
+- ⭐ 19 分｜💬 2 留言｜👤 eternauta3k
 
-### 8. [Explanation of everything you can see in htop/熱門 on Linux (2019)](https://peteris.rocks/blog/htop/)
+### 8. [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
 
-- ⭐ 397 分｜💬 52 留言｜👤 theanonymousone
+- ⭐ 112 分｜💬 22 留言｜👤 hhs
 
-### 9. [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
+### 9. [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
 
-- ⭐ 275 分｜💬 128 留言｜👤 chatmasta
+- ⭐ 456 分｜💬 240 留言｜👤 Cider9986
 
-### 10. [Zig: All Package Management Functionality Moved from Compiler to 構建 系統](https://ziglang.org/devlog/2026/#2026-06-30)
+### 10. [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube)
 
-- ⭐ 140 分｜💬 27 留言｜👤 tosh
+- ⭐ 601 分｜💬 329 留言｜👤 javxfps
 
-### 11. [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
+### 11. [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
 
-- ⭐ 141 分｜💬 82 留言｜👤 jefftk
+- ⭐ 16 分｜💬 10 留言｜👤 andsoitis
 
-### 12. [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
+### 12. [Moby Dick Workout](https://www.hogbaysoftware.com/posts/moby-dick-workout/)
 
-- ⭐ 12 分｜💬 4 留言｜👤 Anon84
+- ⭐ 34 分｜💬 12 留言｜👤 helloplanets
 
-### 13. [Reflections on the Guillotine](https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine)
+### 13. [Artful Cats: Feline-Inspired Art and Artifacts](https://www.si.edu/spotlight/art-cats)
 
-- ⭐ 19 分｜💬 2 留言｜👤 halperter
+- ⭐ 37 分｜💬 4 留言｜👤 jruohonen
 
-### 14. [Meta's Un-Stable Signature](https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html)
+### 14. [Atomic Force Microscope high-speed video, stainless etching, bacteria, and more](https://www.youtube.com/watch?v=DyIQkqBXhS0)
 
-- ⭐ 14 分｜💬 0 留言｜👤 ementally
+- ⭐ 66 分｜💬 5 留言｜👤 mhb
 
-### 15. [Drone Autonomy Crash Course](https://www.cggonzalez.com/blog/index.html)
+### 15. [The Log Is the 代理](https://arxiv.org/abs/2605.21997)
 
-- ⭐ 9 分｜💬 0 留言｜👤 cgg1
+- ⭐ 34 分｜💬 6 留言｜👤 iacguy
 
-### 16. [Can you 構建 a recognizable World Map in under 500 bytes?](https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes)
+### 16. [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
 
-- ⭐ 23 分｜💬 27 留言｜👤 iweczek
+- ⭐ 52 分｜💬 12 留言｜👤 Anon84
 
-### 17. [Drone Physics](https://iahmed.me/post/drone-physics/)
+### 17. [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
 
-- ⭐ 84 分｜💬 25 留言｜👤 wrxd
+- ⭐ 165 分｜💬 54 留言｜👤 leemoore
 
-### 18. [Egg consumption inversely correlated with Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/42002260/)
+### 18. [My ASN Journey series (2024)](https://www.animmouse.com/p/my-asn-journey/)
 
-- ⭐ 32 分｜💬 9 留言｜👤 natbennett
+- ⭐ 17 分｜💬 4 留言｜👤 antonalekseev
 
-### 19. [Protocol Prying: Vulnerability Research in AirDrop and Quick Share](https://arxiv.org/abs/2606.26967)
+### 19. [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
 
-- ⭐ 13 分｜💬 1 留言｜👤 logickkk1
+- ⭐ 33 分｜💬 22 留言｜👤 apparent
 
-### 20. [Windows CE Dreamcast Community Edition (wince-dc)](https://github.com/maximqaxd/wince-dc)
+### 20. [Meta's Un-Stable Signature](https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html)
 
-- ⭐ 94 分｜💬 17 留言｜👤 msephton
+- ⭐ 78 分｜💬 6 留言｜👤 ementally
 
-### 21. [It's not me, it's the compiler](https://parsa.wtf/cast/)
+### 21. [A Summer of Solar Cooking (2023)](https://100r.ca/site/solar_cooking_experiment.html)
 
-- ⭐ 60 分｜💬 11 留言｜👤 SVI
+- ⭐ 3 分｜💬 0 留言｜👤 surprisetalk
 
-### 22. [The Vespa at 80](https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641)
+### 22. [Zig: All Package Management Functionality Moved from Compiler to 構建 系統](https://ziglang.org/devlog/2026/#2026-06-30)
 
-- ⭐ 147 分｜💬 136 留言｜👤 cf100clunk
+- ⭐ 188 分｜💬 60 留言｜👤 tosh
 
-### 23. [Fable created novel 4D splat format](https://adamraudonis.github.io/splats4D/)
+### 23. [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
 
-- ⭐ 117 分｜💬 43 留言｜👤 adamraudonis
+- ⭐ 293 分｜💬 130 留言｜👤 chatmasta
 
-### 24. [Mapping with In-Memory Layers to Reduce 大型語言模型 Overload](https://ridgetext.com/blog/mapbox-llm-composition)
+### 24. ["Beyond the limit": Satellites and mirrors in space pose threat to the night sky](https://www.eso.org/public/news/eso2607/)
 
-- ⭐ 8 分｜💬 0 留言｜👤 Buckwheat469
+- ⭐ 141 分｜💬 234 留言｜👤 Breadmaker
 
-### 25. [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
+### 25. [Width vs. Depth: Speculating on the Margin](https://blog.doubleword.ai/speculating-on-the-margin)
 
-- ⭐ 56 分｜💬 39 留言｜👤 liffik
+- ⭐ 7 分｜💬 1 留言｜👤 somnial
 
-### 26. [CloudsLinker: Move and sync files across 50 雲端 services](https://app.cloudslinker.com/login)
+### 26. [Record-breaking solo rower Kelsey Pfendler arrives in Hawaii](https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/)
 
-- ⭐ 6 分｜💬 1 留言｜👤 janandonly
+- ⭐ 44 分｜💬 5 留言｜👤 MaysonL
 
-### 27. [Curveball](https://mightyburger.net/projects/curveball/)
+### 27. [The Particle Box – Kinetic Molecular Theory Simulator](https://prepok.com/chemistry/particle-box/)
 
-- ⭐ 51 分｜💬 11 留言｜👤 toilet
+- ⭐ 11 分｜💬 1 留言｜👤 vaibhav1312
 
-### 28. [神經網絡 Render Proxies for Interactive and Differentiable Lighting](https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/)
+### 28. [The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector](https://gutsgatesguards.wordpress.com/2026/06/23/the-preemptive-draw-and-preemptive-grip-in-the-cash-in-transit-sector-part-1/)
 
-- ⭐ 51 分｜💬 8 留言｜👤 tobr
+- ⭐ 11 分｜💬 1 留言｜👤 stmw
 
-### 29. [My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress](https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/)
+### 29. [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
 
-- ⭐ 25 分｜💬 33 留言｜👤 ekinertac
+- ⭐ 32 分｜💬 36 留言｜👤 handfuloflight
 
-### 30. [Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language](https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language)
+### 30. [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html)
 
-- ⭐ 104 分｜💬 36 留言｜👤 yyyk
+- ⭐ 181 分｜💬 211 留言｜👤 ciconia
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Drone Autonomy Crash Course
+- The Vespa at 80
+- As downtown Seattle offices empty, city facing years of 'zombie' towers
+- Drone Physics
+- Backon – Python retry (zero deps, circuit breaker, async native)
+- Mysterious debris could be 'space balls'– may contain toxic rocket fuel
+- Explanation of everything you can see in htop/熱門 on Linux (2019)
+- Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)
+- Windows CE Dreamcast Community Edition (wince-dc)
+- Protocol Prying: Vulnerability Research in AirDrop and Quick Share
+- I Accidentally Started a Small Business Three Weeks Ago
+- It's not me, it's the compiler
+- University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013)
+- Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression
+- Binary Coverage the Wrong Way
+- 神經網絡 Render Proxies for Interactive and Differentiable Lighting
+- BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments
+- Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language
+- Reflections on the Guillotine (1957)
+- Mapping with In-Memory Layers to Reduce 大型語言模型 Overload
+- Curveball
 - Designing DB partitions you don't have to babysit
 - EndBASIC 0.14: Are we multimedia yet?
-- Recovering garbled Bitcoin addresses (2024)
-- The Ugly Phase
-- 新 bacterial species discovered in NASA's cleanrooms
-- Heuristics for lab robotics, and where its future may go
-- Finland's last analogue landline phones go silent after 150 years
+- 如何 Enjoy John Ashbery
+- Bugs happen: The easy way to compare solo PQ to ECC+PQ
 - $85,000 in tokens later: What I learned from scaling agentic coding at Lovable
-- Mama Look a White Dove
-- Game Boy Advance Dev: Logging to the Console
-- Australian influencer Lily Jay's tangled 網頁 of AI manipulation
-- Astrophysicists Puzzle over Webb’s 新 Universe
-- Plein Air
-- NVIDIA Has Become the Bank Behind the AI Boom
-- Night Witches – all-female Soviet aviator regiment WW2
-- The Common Lisp Cookbook – LispWorks Review
+- Recovering garbled Bitcoin addresses (2024)
 - Maybe you should learn something
-- National Institute of Standards and Technology | NIST | Official US Time
-- Returning to Zig
-- Infracost (YC W21) Is 招聘 a Marketing Lead to Shift FinOps Left
-- The Reports of Jim Carrey's Death Are a Failure Mode
-- Ask HN: 新 employeer not providing equipment
-- Shipping post-quantum cryptography to Python – The Trail of Bits Blog
-- Xylem Surfactants Introduce a 新 Element to the Cohesion-Tension Theory(2017)
-- Odin, Wikipedia and engagement farming
+- Cells, boundaries, and the emergence of biological order
+- Astrophysicists Puzzle over Webb’s 新 Universe
+- Finland's last analogue landline phones go silent after 150 years
+- The Common Lisp Cookbook – LispWorks Review
 - Costco is the anti-Amazon
-- Gone but Not Forgotten: Recovering the Dead 網頁
-- Meta data center water discharges suspended for contaminating water supply
-- Postgres data stored in Parquet on S3: LTAP architecture explained
-- Agentic coding notes from Galapagos Island
+- Night Witches – all-female Soviet aviator regiment WW2
+- The Reports of Jim Carrey's Death Are a Failure Mode
+- Infracost (YC W21) Is 招聘 a Marketing Lead to Shift FinOps Left
+- The Ugly Phase
 - Wordgard: In-browser rich-text editor from the creator of ProseMirror
-- Synthesis is harder than analysis
-- Performance per dollar is getting faster and cheaper
+- Gone but Not Forgotten: Recovering the Dead 網頁
+- Verizon is about to break our Gizmo watches
+- Show your hands honor for the power they bring you
+- FlashAttention-4: Algorithm and Kernel Pipelining Co-Design
+- Game Boy Advance Dev: Logging to the Console
+- Odin, Wikipedia and engagement farming
 - Farmer, marketer at odds over sales of white nectarines
-- Leanstral 1.5: Proof abundance for all
+- Plein Air
+- Agentic coding notes
+- Performance per dollar is getting faster and cheaper
+- GTA 2 ported to JavaScript, with WebRTC P2P multiplayer
+- National Institute of Standards and Technology | NIST | Official US Time
 - How the Biosphere 2 experiment changed our understanding of the Earth (2025)
-- CATL is building more than 200 battery swap stations every month
-- Show HN: Waypoint.nvim – A Neovim plugin for bookmarking lines of 代碼
-- OpenScience: Workbench for scientific research using custom LLMs
+- Leanstral 1.5: Proof abundance for all
+- Synthesis is harder than analysis
+- Heuristics for lab robotics, and where its future may go
+- Postgres data stored in Parquet on S3: LTAP architecture explained
+- Thundersnap 0.01: an undo button for everything
 - Half-Baked Product
-- Rob Pike – 'Concurrency Is Not Parallelism' [video] (2012)
-- Be a Hikikomori for Science
-- PostgreSQL and the OOM killer: 為什麼 we use strict memory overcommit
-- EU appears to find datacenter emissions easier to offset than lobbyists
-- Microsoft GDID telemetry includes full browsing and gaming history
-- The bottleneck might be the air in the room
 - Show HN: Bramble – Local-first password 經理
+- PostgreSQL and the OOM killer: 為什麼 we use strict memory overcommit
 - Ask HN: Is anyone experimenting with different ways of using LLMs for coding?
-- Mir Books – Books from the Soviet Era
+- OpenScience: Workbench for scientific research using custom LLMs
+- Infographic – An Infographic Generation and Rendering Framework
+- 新 bacterial species discovered in NASA's cleanrooms (2025)
 - A peek into Reddit's anti-spam internals
-- The .join() that should be a bug
-- Espionage Against the European Parliament
-- International chess federation sanctions Kramnik
-- Giant trees have no trouble pumping water to 熱門 branches: 新 research
-- What ORMs have taught me: just learn SQL (2014)
-- Damo Academy unveils an AI 代理 able to discover superconductors
-- Jamesob's guide to running SOTA LLMs locally
-- MITS - Micro Instrumentation and Telemetry Systems
-- Ship traces journey Spanish Armada sailors made in 1588
-- How working memory could give rise to consciousness
-- 2026 Unslop AI-Written Fiction Contest Results
-- Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining
-- Soatok's Informal Guide to Threat Models
-- The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]
-- FreeBSD ate my RAM
-- The Declaration of Independence
-- Instead of banning AI, I made a classroom contract with my students
-- Reverse-engineering Codemasters' BIGF archive format in Ruby
+- Exploiting 大型語言模型 代理 Supply Chains via Payload-Less Skills
 - Android 開發者 Verification: Threat masquerading as protection
-- Steam Controller Auto-Charge – pilot to magnetic charging puck using CV
+- 3D Airplane tracker on Mercator map
+- Jamesob's guide to running SOTA LLMs locally
+- Australian influencer Lily Jay's tangled 網頁 of AI manipulation
+- Shipping post-quantum cryptography to Python – The Trail of Bits Blog
 
 
 ---
