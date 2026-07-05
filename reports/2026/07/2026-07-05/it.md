@@ -4,202 +4,204 @@
 
 ---
 
-### 1. [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
+### 1. [Organic Maps](https://organicmaps.app/)
 
-- ⭐ 185 分｜💬 70 留言｜👤 dabinat
+- ⭐ 511 分｜💬 152 留言｜👤 tosh
 
-### 2. [Cannabis Users Face Substantially Higher Risk of Heart Attack](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk)
+### 2. [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
 
-- ⭐ 13 分｜💬 5 留言｜👤 RickJWagner
+- ⭐ 64 分｜💬 23 留言｜👤 gitowiec
 
-### 3. [If you're a button, you have one 工作](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
+### 3. ["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239)
 
-- ⭐ 322 分｜💬 160 留言｜👤 nozzlegear
+- ⭐ 64 分｜💬 33 留言｜👤 dijksterhuis
 
-### 4. [Claude Design 系統 Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
+### 4. [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/)
 
-- ⭐ 56 分｜💬 13 留言｜👤 handfuloflight
+- ⭐ 90 分｜💬 61 留言｜👤 popcar2
 
-### 5. [Functional 程式設計 in hica](https://www.hica.dev/docs/functional-programming/)
+### 5. [新 AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 
-- ⭐ 20 分｜💬 4 留言｜👤 cladamski79
+- ⭐ 5 分｜💬 0 留言｜👤 jonahbard
 
-### 6. [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
+### 6. [介紹 Compilers and Language Design (2021)](https://dthain.github.io/books/compiler/)
 
-- ⭐ 319 分｜💬 121 留言｜👤 maille
+- ⭐ 229 分｜💬 33 留言｜👤 AlexeyBrin
 
-### 7. [介紹 Compilers and Language Design](https://dthain.github.io/books/compiler/)
+### 7. [Outfit makes you unrecognizable to cameras](https://jmagineuniverse.blogspot.com/p/fashion-against-machine-by-olivier-july_01930961321.html)
 
-- ⭐ 7 分｜💬 0 留言｜👤 AlexeyBrin
+- ⭐ 5 分｜💬 0 留言｜👤 odilelof
 
-### 8. [Fast 軟體, the 最佳 軟體 (2019)](https://craigmod.com/essays/fast_software/)
+### 8. [Run Windows 2000 on a DEC Alpha with a 新 es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
 
-- ⭐ 61 分｜💬 28 留言｜👤 ustad
+- ⭐ 63 分｜💬 33 留言｜👤 jandeboevrie
 
-### 9. [Trust your compiler: Modern C++](https://categorica.io/blog/2026.06.29_trust_your_compiler/)
+### 9. [The Great Blogging Collapse: What Happened to 100 Successful Blogs?](https://danielstanica.com/posts/Great-Blogging-Collapse)
 
-- ⭐ 13 分｜💬 3 留言｜👤 foxhill
+- ⭐ 77 分｜💬 58 留言｜👤 thm
 
-### 10. [Pandoc Lua Filters](https://pandoc.org/lua-filters.html)
+### 10. [You Need a Webring](https://shub.club/writings/2026/july/you-need-a-webring/)
 
-- ⭐ 90 分｜💬 5 留言｜👤 ankitg12
+- ⭐ 4 分｜💬 0 留言｜👤 forthwall
 
-### 11. [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
+### 11. [Airplane Boneyards List and Map](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm)
+
+- ⭐ 61 分｜💬 12 留言｜👤 hyperific
+
+### 12. [The Future of Flipper Zero Development](https://blog.flipper.net/future-of-flipper-zero-development/)
+
+- ⭐ 3 分｜💬 1 留言｜👤 croes
+
+### 13. [If you're a button, you have one 工作](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
+
+Related: https:&#x2F;&#x2F;aresluna.org&#x2F;show-your-hands-honor&#x2F;
+
+- ⭐ 493 分｜💬 244 留言｜👤 nozzlegear
+
+### 14. [Every Postcard Tells a Story](https://observer.co.uk/style/features/article/every-postcard-tells-a-story)
+
+- ⭐ 3 分｜💬 0 留言｜👤 NaOH
+
+### 15. [為什麼 DMARC's 新 "NP" tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
+
+- ⭐ 25 分｜💬 9 留言｜👤 matteocontrini
+
+### 16. [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
+
+- ⭐ 255 分｜💬 138 留言｜👤 dabinat
+
+### 17. [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement)
+
+- ⭐ 96 分｜💬 9 留言｜👤 deely3
+
+### 18. [The GNU Emacs Architecture: Unlocking the Core [pdf]](https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf)
+
+- ⭐ 159 分｜💬 10 留言｜👤 cenazoic
+
+### 19. [OpenWiki: CLI that writes and maintains 代理 documentation for your codebase](https://github.com/langchain-ai/openwiki)
+
+- ⭐ 51 分｜💬 16 留言｜👤 handfuloflight
+
+### 20. [Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis](https://www.science.org/doi/10.1126/sciadv.aeb7219)
+
+- ⭐ 3 分｜💬 0 留言｜👤 bushwart
+
+### 21. [Rayfish, Peer-to-peer mesh VPN with no 伺服器 to trust](https://rayfish.xyz/blog/01-introducing-rayfish)
+
+- ⭐ 77 分｜💬 51 留言｜👤 captain_dfx
+
+### 22. [EU Council forces Chat Control via fast-track](https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html)
+
+- ⭐ 263 分｜💬 136 留言｜👤 stavros
+
+### 23. [Installing A/UX 1.1 like it's the 90s](https://thomasw.dev/post/aux11/)
+
+- ⭐ 5 分｜💬 0 留言｜👤 zdw
+
+### 24. [Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy](https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c)
+
+- ⭐ 14 分｜💬 11 留言｜👤 apparent
+
+### 25. [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
+
+- ⭐ 58 分｜💬 25 留言｜👤 amichail
+
+### 26. [Pandoc Lua Filters](https://pandoc.org/lua-filters.html)
+
+- ⭐ 128 分｜💬 11 留言｜👤 ankitg12
+
+### 27. [Medieval-style fortifications are back in the Sahel](https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel)
+
+- ⭐ 67 分｜💬 54 留言｜👤 andsoitis
+
+### 28. [Fast 軟體, the 最佳 軟體 (2019)](https://craigmod.com/essays/fast_software/)
+
+- ⭐ 107 分｜💬 57 留言｜👤 ustad
+
+### 29. [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
 
 KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there&#x27;s a demo project or you can bring your own. Firefox is 最佳, Chrome is good, Safari is &quot;working&quot;.We
 
-- ⭐ 5 分｜💬 1 留言｜👤 ViktorEE
+- ⭐ 75 分｜💬 30 留言｜👤 ViktorEE
 
-### 12. [Knowledge Should Not Be Gated](https://www.formaly.io/blog/knowledge-should-not-be-gated)
+### 30. [Optimizing an Algorithm That's Quadratic by Design](https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html)
 
-- ⭐ 28 分｜💬 5 留言｜👤 nezhar
-
-### 13. [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
-
-- ⭐ 155 分｜💬 34 留言｜👤 hhs
-
-### 14. [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
-
-- ⭐ 20 分｜💬 5 留言｜👤 saikatsg
-
-### 15. [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
-
-- ⭐ 36 分｜💬 4 留言｜👤 eternauta3k
-
-### 16. [Moby Dick Workout (2022)](https://www.hogbaysoftware.com/posts/moby-dick-workout/)
-
-- ⭐ 59 分｜💬 18 留言｜👤 helloplanets
-
-### 17. [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
-
-- ⭐ 601 分｜💬 256 留言｜👤 asronline
-
-### 18. [Artful Cats: Feline-Inspired Art and Artifacts](https://www.si.edu/spotlight/art-cats)
-
-- ⭐ 55 分｜💬 4 留言｜👤 jruohonen
-
-### 19. [Meta's Un-Stable Signature](https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html)
-
-- ⭐ 108 分｜💬 15 留言｜👤 ementally
-
-### 20. [The Log is the 代理](https://arxiv.org/abs/2605.21997)
-
-- ⭐ 61 分｜💬 18 留言｜👤 iacguy
-
-### 21. [Atomic Force Microscope [video]](https://www.youtube.com/watch?v=DyIQkqBXhS0)
-
-- ⭐ 87 分｜💬 9 留言｜👤 mhb
-
-### 22. [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html)
-
-- ⭐ 225 分｜💬 251 留言｜👤 ciconia
-
-### 23. [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
-
-- ⭐ 64 分｜💬 21 留言｜👤 Anon84
-
-### 24. [“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky](https://www.eso.org/public/news/eso2607/)
-
-- ⭐ 159 分｜💬 260 留言｜👤 Breadmaker
-
-### 25. [Dark mode with 網頁 standards](https://olliewilliams.xyz/blog/dark-mode/)
-
-- ⭐ 15 分｜💬 5 留言｜👤 thm
-
-### 26. [My ASN Journey series (2024)](https://www.animmouse.com/p/my-asn-journey/)
-
-- ⭐ 29 分｜💬 11 留言｜👤 antonalekseev
-
-### 27. [About the Digital Art](https://www.tricivenola.com/about-the-digital-art/)
-
-- ⭐ 16 分｜💬 3 留言｜👤 NaOH
-
-### 28. [Reducing Assumptions, Exploding Your 代碼](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
-
-- ⭐ 18 分｜💬 6 留言｜👤 mpweiher
-
-### 29. [Drone Autonomy (2021)](https://www.cggonzalez.com/blog/index.html)
-
-- ⭐ 70 分｜💬 6 留言｜👤 cgg1
-
-### 30. [The 工程師 in the Half-Space](https://yusufaytas.com/the-engineer-in-the-half-space)
-
-- ⭐ 22 分｜💬 1 留言｜👤 yusufaytas
+- ⭐ 3 分｜💬 0 留言｜👤 elasticdog
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Programmers need to start meditating
+- 網頁-based cryptography is always snake oil
+- Mark Zuckerberg tells staff that AI agents haven't progressed enough
+- Falling fertility on the left as key driver of US birth decline
+- Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
+- IBM claims first sub-1 nanometer chip technology
+- Megawatts by Microwave
+- Meta's Un-Stable Signature
+- Phosh 0.56.0
+- Moby Dick Workout (2022)
+- Jim Keller's startup is building a factory to mass-produce small chip fabs
+- The Log is the 代理
+- Cannabis users face substantially higher risk of heart attack (2025)
+- Artful Cats: Feline-Inspired Art and Artifacts
+- Atomic Force Microscope [video]
+- Cursed Gemstones – The Koh-I-Noor Diamond
+- Claude Played Me for a Fool
+- Solar rail could become common in Europe after successful trial in Switzerland
+- How Bending Spoons built a $23B tech empire from struggling brands
+- GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
+- Trust your compiler: Modern C++
+- CNN Lite
+- About the Digital Art
+- Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)
+- My ASN Journey series (2024)
+- Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid
+- Drone Autonomy (2021)
+- TabFont – guitar tabs rendered as you type
+- Record-breaking solo rower Kelsey Pfendler arrives in Hawaii
+- Functional 程式設計 in hica
 - Intuitive Quantum Electrodynamics
-- A gender-swap EarthBound for my daughter (2025)
-- The Vespa at 80
+- Home made GPU escalated quickly [video]
+- Jellyfish can heal wounds in minutes. Scientists want their secrets
+- Infracost (YC W21) Is 招聘 a Marketing Lead to Shift FinOps Left
+- Claude Design 系統 Prompt
+- ABI vs. API (2004)
+- Zero-defects 代碼: the prescient Microsoft memo from 1989
+- Dungeon KeeperFX 1.4.0 with Multiplayer 發布
+- SigMap: 97% token reduction for AI coding sessions
+- Explanation of everything you can see in htop/熱門 on Linux (2019)
+- Reducing Assumptions, Exploding Your 代碼
+- Scheme Is a Hoot
 - Google Books (or similar) all book scans – $200k bounty (2025)
 - The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector
-- Leaking YouTube creators' private videos
-- Pi square is nearly 10
-- Record-breaking solo rower Kelsey Pfendler arrives in Hawaii
-- I wanted to be Anthony Bourdain–until I met him
-- The Particle Box – Kinetic Molecular Theory Simulator
-- Drone Physics
-- Explanation of everything you can see in htop/熱門 on Linux (2019)
-- Windows CE Dreamcast Community Edition (wince-dc)
 - As downtown Seattle offices empty, city facing years of 'zombie' towers
-- 網頁-based cryptography is always snake oil
+- Leaking YouTube creators' private videos
+- Drone Physics
+- What ORMs have taught me: just learn SQL (2014)
+- Windows CE Dreamcast Community Edition (wince-dc)
+- Fixing analog audio on the $2.58 HDMI-to-VGA adapter
+- A gender-swap EarthBound for my daughter (2025)
 - Better Models: Worse Tools
-- Arrest 0.2.1, an HTTP client with data validation
+- Dark mode with 網頁 standards
+- “Beyond the limit”: Satellites and mirrors in space pose threat to the night sky
 - Zig: All Package Management Functionality Moved from Compiler to 構建 系統
 - Potential session/cache leakage between workspace instances or consumer accounts
-- BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments
-- SigMap: 97% token reduction for AI coding sessions
-- Concentration of power in AI is a risk, by Andy Konwinski
-- Width vs. Depth: Speculating on the Margin
 - Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language
-- EU Council forces Chat Control via fast-track
-- Dungeon KeeperFX 1.4.0 with Multiplayer 發布
-- 神經網絡 Render Proxies for Interactive and Differentiable Lighting
+- The Particle Box – Kinetic Molecular Theory Simulator
+- BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments
 - Protocol Prying: Vulnerability Research in AirDrop and Quick Share
-- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)
-- Infracost (YC W21) Is 招聘 a Marketing Lead to Shift FinOps Left
-- Binary Coverage the Wrong Way
-- A Summer of Solar Cooking (2023)
-- I Accidentally Started a Small Business Three Weeks Ago
+- I wanted to be Anthony Bourdain–until I met him
+- C programmers commit fresh crimes against readability
 - Designing DB partitions you don't have to babysit
-- Backon – Python retry (zero deps, circuit breaker, async native)
-- Curveball
-- Mouse: Precision Editing Tools for AI Coding Agents
-- Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression
-- GetSuperpower, an installable skill tree for coding agents
-- Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid
-- Harvey AI started with a Reddit thread. Now it's worth $11B
-- It's not me, it's the compiler
-- EndBASIC 0.14: Are we multimedia yet?
-- Maybe you should learn something
-- 熱門 Companies in the Global Hybrid Memory Cube High-Bandwidth Memory Market
-- Reflections on the Guillotine (1957)
-- Enigma M4 Breaker with GPU
-- Mapping with In-Memory Layers to Reduce 大型語言模型 Overload
 - Costco is the anti-Amazon
-- 大型語言模型's as a Different Kind of Intelligence
-- Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)
-- University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013)
-- "Stop Moralizing AirCon": How Institutions Shift Responsibility onto Individuals
-- If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy
+- It's not me, it's the compiler
 - Wordgard: In-browser rich-text editor from the creator of ProseMirror
-- Astrophysicists Puzzle over Webb’s 新 Universe
-- Mysterious debris could be 'space balls'– may contain toxic rocket fuel
-- The Common Lisp Cookbook – LispWorks Review
-- Small Change [pdf]
-- Fixing analog audio on the $2.58 HDMI-to-VGA adapter
-- Gone but Not Forgotten: Recovering the Dead 網頁
-- The Reports of Jim Carrey's Death Are a Failure Mode
-- Europe's 新 climate in seven charts
-- Recovering garbled Bitcoin addresses (2024)
-- Night Witches – all-female Soviet aviator regiment WW2
-- Farmer, marketer at odds over sales of white nectarines
-- Cells, boundaries, and the emergence of biological order
-- Finland's last analogue landline phones go silent after 150 years
-- EV Batteries Are Defying Expectations After Miles
+- Maybe you should learn something
+- Curveball
+- 神經網絡 Render Proxies for Interactive and Differentiable Lighting
+- Programmers need to start meditating
+- EndBASIC 0.14: Are we multimedia yet?
 
 
 ---
