@@ -27,11 +27,11 @@
 
 ### 4. [研究人員公開Control 網頁 Panel重大漏洞PoC程式，若未及時修補恐遭攻擊者遠端接管伺服器](https://www.ithome.com.tw/news/177113)
 
-資安業者Karma近日揭露網站主機管理平臺Control 網頁 Panel（CWP）重大漏洞CVE-2026-57517，並公開概念驗證（PoC）利用程式，0.9.8.1224以前版本均受影響。Control 網頁 Panel是Linux伺服器常用的網站與主機管理平臺，整合網站、資料庫、電子郵件及DNS等管理功能，廣泛部署於企業虛擬主機與伺服器環境。一旦前述漏洞遭到利用，攻擊者可能取得系統管理權限，進而危及整臺伺服器安全，用戶應儘速更新至已修補的0.9.8.1225以上版本。
+資安業者Karma近日揭露網站主機管理平臺Control 網頁 Panel（CWP）重大漏洞CVE-2026-57517，並公開概念驗證（PoC）利用程式，0.9.8.1224以前版本均受影響。Control 網頁 Panel是Linux伺服器常用的網站與主機管理平臺，整合網站、資料庫、電子郵件及DNS等管理功能，廣泛部署於企業虛擬主機與伺服器環境。
 
 - 📰 **iThome 科技**
 
-### 5. [Apache修補HttpComponents Core兩項高風險漏洞，未更新可能導致服務阻斷攻擊](https://www.ithome.com.tw/news/177106)
+### 5. [Apache修補HttpComponents Core兩項高風險漏洞，未更新可���導致服務阻斷攻擊](https://www.ithome.com.tw/news/177106)
 
 Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件Apache HttpComponents Core的兩項高風險漏洞，分別為CVE-2026-54428與CVE-2026-54399，影響5.4.2以前與5.5-beta1等版本。
 
@@ -52,7 +52,7 @@ Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件
 
 ### 8. [具41年歷史的荒謬C語言競賽，首度有臺灣人上榜](https://www.ithome.com.tw/news/177102)
 
-國際混淆C程式碼競賽（International Obfuscated C 代碼 Contest，IOCCC）上個月公布2025年得獎名單，23件得獎作品中包括366 bytes的電腦模擬器、會重新編譯自己的Pong遊戲，以及臺���開發者jingp49所製作的《Doctor Who》片頭動畫程式。
+國際混淆C程式碼競賽（International Obfuscated C 代碼 Contest，IOCCC）上個月公布2025年得獎名單，23件得獎作品中包括366 bytes的電腦模擬器、會重新編譯自己的Pong遊戲，以及臺灣開發者jingp49所製作的《Doctor Who》片頭動畫程式。
 
 - 📰 **iThome 科技**
 
@@ -64,7 +64,7 @@ Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件
 
 ### 10. [JetBrains修補開發環境身分管理平臺重大漏洞，未更新恐導致帳號接管與權限提升](https://www.ithome.com.tw/news/177100)
 
-軟體開發工具業者JetBrains近日發布資安公告，修補其身分與存取管理平臺JetBrains Hub的三項重大漏洞。在JetBrains的開發環境中，JetBrains Hub用於提供使用者帳號、驗證、授權及單一登入（SSO）的集中管理，可為其他JetBrains產品提供身分驗證服務，一旦遭到入侵，可能影響整個開發環境的帳號與權限管理，用戶應儘速升級至已修補的2026.1到2024.2等分支版本。
+軟體開發工具業者JetBrains近日發布資安公告，修補其身分與存取管理平臺JetBrains Hub的三項重大漏洞。在JetBrains的開發環境中，JetBrains Hub用於提供使用者帳號、驗證、授權及單一登入（SSO）的集中管理，可為其他JetBrains產品提供身分驗證服務，一旦遭到入侵，可能影響整���開發環境的帳號與權限管理，用戶應儘速升級至已修補的2026.1到2024.2等分支版本。
 
 - 📰 **iThome 科技**
 
@@ -76,7 +76,7 @@ Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件
 
 ### 12. [Google與FBI打擊NetNut常駐代理網路，涉及至少200萬臺家用連網裝置](https://www.ithome.com.tw/news/177098)
 
-繼今年1月打擊IPIDEA常駐網路（residential proxy 網絡）後，7月初Google宣布與美國聯邦調查局（FBI）、電信業者Lumen等單位合作，針對大型常駐代理網路NetNut採取行動，削弱其營運能力。
+繼今年1月打擊IPIDEA常駐網路（residential proxy 網絡）後，7月初Google宣布與美國聯邦調查局���FBI）、電信業者Lumen等單位合作，針對大型常駐代理網路NetNut採取行動，削弱其營運能力。
 
 - 📰 **iThome 科技**
 
@@ -88,7 +88,7 @@ Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件
 
 ### 14. [思科修補開源防毒軟體ClamAV長達20年的資安漏洞](https://www.ithome.com.tw/news/177096)
 
-思科針對旗下開源防毒軟體ClamAV產品線，於7月1日發布安全更新1.5.3與1.4.5版，總���修補7項高風險資安漏洞，其中最受到關注的地方，在於大部分資安漏洞從約20年前被引入，影響眾多舊版用戶。
+思科針對旗下開源防毒軟體ClamAV產品線，於7月1日發布安全更新1.5.3與1.4.5版，總共修補7項高風險資安漏洞，其中最受到關注的地方，在於大部分資安漏洞從約20年前被引入，影響眾多舊版用戶。
 
 - 📰 **iThome 科技**
 
@@ -100,7 +100,7 @@ Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件
 
 ### 16. [開源遠端桌面工具UltraVNC修補重大漏洞，未更新可能導致遠端執行程式碼攻擊](https://www.ithome.com.tw/news/177094)
 
-開源遠端桌面管理工具UltraVNC近日發布1.8.2.4版，修補UltraVNC Repeater元件兩項重大漏洞CVE-2026-7839與CVE-2026-7840。UltraVNC是Windows平臺常見的開��遠端桌面管理工具，Repeater則是負責中繼遠端桌面連線的元件，可協助位於防火牆後方的主機建立遠端桌面存取，常部署於企業對外網路，因而相關漏洞更容易為遠端攻擊者利用，1.8.2.2版以前的UltraVNC都會受到影響，用戶應儘速升級至已修補版本。
+開源遠端桌面管理工具UltraVNC近日發布1.8.2.4版，修補UltraVNC Repeater元件兩項重大漏洞CVE-2026-7839與CVE-2026-7840。UltraVNC是Windows平臺常見的開源遠端桌面管理工具，Repeater則是負責中繼遠端桌面連線的元件，可協助位於防火牆後方的主機建立遠端桌面存取，常部署於企業對���網路，因而相關漏洞更容易為遠端攻擊者利用，1.8.2.2版以前的UltraVNC都會受到影響，用戶應儘速升級至已修補版本。
 
 - 📰 **iThome 科技**
 
@@ -112,7 +112,7 @@ Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件
 
 ### 18. [資安署啟動第二屆產品資安獵捕活動，臺灣軟體產品成核心目標](https://www.ithome.com.tw/news/177092)
 
-為鼓��國內業者重視產品資安，國家資通安全研究院（資安院）自去年4月起不僅積極推動PSIRT（產品資安事件應變小組）的建置風氣，更將「臺灣產品漏洞獵捕計畫」列為發展重點，年底舉辦的「產品資安漏洞獵捕活動」首屆聚焦資通訊（ICT）硬體產品，而即將開跑的第二屆活動則迎來重大轉型
+為鼓勵國內業者重視產品資安，國家資通安全研究院（資安院）自去年4月起不僅積極推動PSIRT（產品資安事件應變小組）的建置風氣，更將「臺灣產品漏洞獵捕計畫」列為發展重點，年底舉辦的「產品資安漏洞獵捕活動」首屆聚焦資通訊（ICT）硬體產品，而即將開跑的第二屆活動則迎來重大轉型
 
 - 📰 **iThome 科技**
 
@@ -136,7 +136,7 @@ Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件
 
 ### 22. [搭配強化VM隔離的Nitro引擎，AWS Graviton5執行個體上線](https://www.ithome.com.tw/review/176974)
 
-去年12月舉行的re:Invent 2025大會，AWS發表新的自研Arm架構處理器Graviton5，並開放首批採用這款晶片的一般用途運算服務M9g的預覽版本，他們也初步揭露運算效能的表現： 相較於前代產品M8g，M9g的提升幅度達到25%，而在網站應用程式與機器學習，以及資料庫等類型的工作負載上，
+去年12月舉行的re:Invent 2025大會，AWS發表新的自研Arm架構處理器Graviton5，並開放首批採用這款晶片的一般用途運算服���M9g的預覽版本，他們也初步揭露運算效能的表現： 相較於前代產品M8g，M9g的提升幅度達到25%，而在網站應用程式與機器學習，以及資料庫等類型的工作負載上，
 
 - 📰 **iThome 科技**
 
@@ -146,7 +146,7 @@ Apache軟體基金會於7月1日發布兩份資安公告，修補Java HTTP元件
 
 - 📰 **iThome 科技**
 
-### 24. [Zero Day Clock網站示警：漏洞揭露到被利用的時間已縮短至2��時](https://www.ithome.com.tw/news/177079)
+### 24. [Zero Day Clock網站示警：漏洞揭露到被利用的時間已縮短至2小時](https://www.ithome.com.tw/news/177079)
 
 攻擊者利用漏洞的速度已達前所未有的程度，為了證明與突顯這個趨勢，近期有不少專家紛紛引用名為「Zero Day Clock」(zerodayclock.com）的網站圖表，也吸引整個資安社群的高度關注，該網站最大特色是透過即時視覺化數據，分析已知漏洞從公開揭露到首次偵測遭利用的時間變化，根據最新數據顯示，首次偵測利用的時間已經縮短至不到24小時。
 
@@ -170,9 +170,9 @@ Microsoft於7月2日揭露雲端郵件服務Exchange Online權限提升漏洞，
 
 - 📰 **iThome 科技**
 
-### 28. [FBI警告駭客組織TeamPCP鎖定軟體開發者，���對開發工具與CI/CD發動供應鏈攻擊](https://www.ithome.com.tw/news/177075)
+### 28. [FBI警告駭客組織TeamPCP鎖定軟體開發者，針對開發工具與CI/CD發動供應鏈攻擊](https://www.ithome.com.tw/news/177075)
 
-美國聯邦調查局（FBI）於7月2日發布資安警示（FLASH），提醒企業留意駭客組織TeamPCP發動的大規模軟體供應鏈攻擊。FBI指出，攻擊者透過竄改廣泛使用的開發工具與資安工具，在合法軟體套件植入惡意程式碼，進而竊取雲端存取權杖（Token）、SSH金鑰、Kubernetes Secrets等敏感資訊，並取得受害環境的持續存取權限。
+美國聯邦調查局（FBI）於7月2日發���資安警示（FLASH），提醒企業留意駭客組織TeamPCP發動的大規模軟體供應鏈攻擊。FBI指出，攻擊者透過竄改廣泛使用的開發工具與資安工具，在合法軟體套件植入惡意程式碼，進而竊取雲端存取權杖（Token）、SSH金鑰、Kubernetes Secrets等敏感資訊，並取得受害環境的持續存取權限。
 
 - 📰 **iThome 科技**
 
@@ -184,7 +184,7 @@ Palo Alto Networks子公司Koi 安全遭網路視訊暨會議平臺新創公司M
 
 ### 30. [【資安日報】7月3日，駭客利用Azure CLI發動大規模密碼噴灑攻擊](https://www.ithome.com.tw/news/177072)
 
-本日新聞焦點
+本日��聞焦點
 ● 駭客濫用Azure CLI試圖入侵Microsoft 365帳號
 ● 類似Citrix Bleed的重大漏洞已被用於實際攻擊
 
@@ -222,7 +222,7 @@ Palo Alto Networks子公司Koi 安全遭網路視訊暨會議平臺新創公司M
 - 最佳 Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa (**Wired**)
 - All Your Favorite Gadgets Are Getting Way More Expensive … Again (**Wired**)
 - 7 最佳 Phones You Can’t Buy in the US (2026) (**Wired**)
-- The FDA Ruled That ZYN Pouches Are Safer Than Cigarettes. That Doesn’t Mean They’re Safe (**Wired**)
+- The FDA Ruled That Zyn Pouches Are Safer Than Cigarettes. That Doesn’t Mean They’re Safe (**Wired**)
 - The 最佳 Ultralight Backpacking Quilts (2026): Zenbivy, REI (**Wired**)
 - When the Law Kills Your Electric Car Dealership (**Wired**)
 - The 11 最佳 TV Shows to Stream This Month (July 2026) (**Wired**)
@@ -241,8 +241,8 @@ Palo Alto Networks子公司Koi 安全遭網路視訊暨會議平臺新創公司M
 - Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech (**Wired**)
 - Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the 新 Era of Consumer Tech (**Wired**)
 - Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse (**Wired**)
-- Dell Coupon Codes: 20% Off for July 2026 (**Wired**)
 - Paramount+ Coupon Codes and Deals for July 2026 (**Wired**)
+- Dell Coupon Codes: 20% Off for July 2026 (**Wired**)
 - Booking.com Promo Codes: 20% Off | July 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
