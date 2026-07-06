@@ -4,206 +4,204 @@
 
 ---
 
-### 1. [Real-time map of Great Britain's rail 網絡](https://www.map.signalbox.io)
+### 1. [Workers Cache](https://blog.cloudflare.com/workers-cache/)
 
-- ⭐ 6 分｜💬 0 留言｜👤 scrlk
+- ⭐ 152 分｜💬 55 留言｜👤 ilreb
 
-### 2. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+### 2. [Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
+
+- ⭐ 60 分｜💬 13 留言｜👤 firephox
+
+### 3. [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
+
+- ⭐ 156 分｜💬 72 留言｜👤 wolfadex
+
+### 4. [Real-time map of Great Britain's rail 網絡](https://www.map.signalbox.io)
+
+- ⭐ 280 分｜💬 109 留言｜👤 scrlk
+
+### 5. [Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability](https://andonlabs.com/blog/fable5-vending-bench)
+
+- ⭐ 61 分｜💬 17 留言｜👤 optimalsolver
+
+### 6. [How Kalshi Infects the News](https://www.publicnotice.co/p/kalshi-cnn-cnbc)
+
+- ⭐ 32 分｜💬 11 留言｜👤 everybodyknows
+
+### 7. [Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot)
+
+- ⭐ 10 分｜💬 0 留言｜👤 digital55
+
+### 8. [Clojure 1.13 adds support for checked keys](https://clojure.org/news/2026/07/02/clojure-1-13-alpha1)
+
+- ⭐ 70 分｜💬 2 留言｜👤 FelipeCortez
+
+### 9. [Nintendo 宣布 新 product revisions in Europe with replaceable batteries](https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html)
+
+- ⭐ 113 分｜💬 61 留言｜👤 akyuu
+
+### 10. [When 2+2=5](https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/)
+
+- ⭐ 24 分｜💬 15 留言｜👤 noashavit
+
+### 11. [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+
+- ⭐ 3 分｜💬 0 留言｜👤 LabsLucas
+
+### 12. [Footage Shows Cop Stalking Woman After Surveilling Her with a LPR](https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/)
+
+- ⭐ 70 分｜💬 7 留言｜👤 Tasseographer
+
+### 13. [Do you really need separate systems when you already have Postgres?](https://postgresisenough.dev/)
+
+- ⭐ 7 分｜💬 1 留言｜👤 b-man
+
+### 14. [為什麼 low-latency Java still requires discipline?](https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline)
+
+- ⭐ 32 分｜💬 14 留言｜👤 theanonymousone
+
+### 15. [Show HN: Scan your AI agents for dangerous capabilities](https://github.com/makerchecker/MakerChecker)
+
+- ⭐ 25 分｜💬 14 留言｜👤 smashini
+
+### 16. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
 
 https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575, https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575
 
-- ⭐ 287 分｜💬 222 留言｜👤 mfiguiere
+- ⭐ 372 分｜💬 321 留言｜👤 mfiguiere
 
-### 3. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+### 17. [介紹 Genomics for Engineers](https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/)
 
-- ⭐ 306 分｜💬 80 留言｜👤 wxw
+- ⭐ 131 分｜💬 20 留言｜👤 yreg
 
-### 4. [Organic Maps](https://organicmaps.app/)
+### 18. [Lost and Found](https://walzr.com/lost-and-found)
 
-- ⭐ 992 分｜💬 302 留言｜👤 tosh
+- ⭐ 15 分｜💬 3 留言｜👤 walz
 
-### 5. [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
+### 19. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
 
-- ⭐ 29 分｜💬 16 留言｜👤 OsamaAtwi
+- ⭐ 404 分｜💬 104 留言｜👤 wxw
 
-### 6. [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/)
+### 20. [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
 
-- ⭐ 499 分｜💬 371 留言｜👤 popcar2
+- ⭐ 252 分｜💬 153 留言｜👤 dabluck
 
-### 7. [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
+### 21. [Amazon will stop accepting 新 customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
 
-- ⭐ 130 分｜💬 80 留言｜👤 dabluck
+- ⭐ 51 分｜💬 11 留言｜👤 bookofjoe
 
-### 8. [OpenPrinter](https://www.opentools.studio/)
+### 22. [Show HN: Pet Reminder – A macOS reminder app with a desktop pet](https://reminder.w3cub.com/)
 
-- ⭐ 861 分｜💬 214 留言｜👤 bouh
+- ⭐ 14 分｜💬 9 留言｜👤 terryXyz
 
-### 9. [介紹 Genomics for Engineers](https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/)
+### 23. [The Complete Homemade Juggling Beanbag Guide](https://www.joshuaclifton.com/juggle/)
 
-- ⭐ 9 分｜💬 0 留言｜👤 yreg
+- ⭐ 47 分｜💬 5 留言｜👤 mrauha
 
-### 10. [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
+### 24. [C programmers commit fresh crimes against readability](https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981)
 
-I&#x27;m making a platform for simple 開源 games you can play anywhere.Games are all just JavaScript classes and you can read the source of every game on the platform.I started working on initi
+- ⭐ 85 分｜💬 9 留言｜👤 Bender
 
-- ⭐ 182 分｜💬 43 留言｜👤 homegamesjoseph
+### 25. [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
 
-### 11. [When AI Costs More Than the 工程師](https://tomtunguz.com/ai-spend-breakeven-2029/)
+- ⭐ 30 分｜💬 8 留言｜👤 dijksterhuis
 
-- ⭐ 85 分｜💬 70 留言｜👤 kiyanwang
+### 26. [My quest to see all of Tetris](https://antithesis.com/blog/2026/tetris-quest/)
 
-### 12. [Does 代碼 cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)
+- ⭐ 53 分｜💬 12 留言｜👤 wwilson
 
-- ⭐ 125 分｜💬 68 留言｜👤 softwaredoug
+### 27. [DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat](https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat)
 
-### 13. [Behind the scenes with the Midjourney scanner [video]](https://www.youtube.com/watch?v=4nzzpUKhj1M)
+- ⭐ 7 分｜💬 0 留言｜👤 petethomas
 
-- ⭐ 24 分｜💬 4 留言｜👤 Semkas
+### 28. [X402, a static blog monetization excercise](https://shtein.me/posts/x402-poc/)
 
-### 14. [The Age of Personalized 硬體 Is Coming](https://geastack.com/blog-the-age-of-personalized-hardware-is-coming)
+- ⭐ 29 分｜💬 18 留言｜👤 morty28
 
-- ⭐ 65 分｜💬 40 留言｜👤 arbayi
+### 29. [Does 代碼 cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)
 
-### 15. [Zuckerberg says AI 代理 development going slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)
+- ⭐ 174 分｜💬 84 留言｜👤 softwaredoug
+
+### 30. [Zuckerberg says AI 代理 development going slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)
 
 https:&#x2F;&#x2F;archive.md&#x2F;Q9trL
 
-- ⭐ 230 分｜💬 397 留言｜👤 cwwc
-
-### 16. [Completing a computer science degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
-
-- ⭐ 210 分｜💬 130 留言｜👤 lexandstuff
-
-### 17. [Starring the Computer](https://www.starringthecomputer.com/computers.html)
-
-- ⭐ 230 分｜💬 51 留言｜👤 gitowiec
-
-### 18. [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
-
-- ⭐ 110 分｜💬 55 留言｜👤 martialg
-
-### 19. [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/)
-
-- ⭐ 329 分｜💬 141 留言｜👤 croes
-
-### 20. [Mr. Baby Paint and accidentally discovering a 新 cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/)
-
-- ⭐ 179 分｜💬 38 留言｜👤 jfil
-
-### 21. [新 AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
-
-- ⭐ 165 分｜💬 99 留言｜👤 jonahbard
-
-### 22. [Composite Video on the NES: 為什麼's it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
-
-- ⭐ 95 分｜💬 7 留言｜👤 zdw
-
-### 23. [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
-
-- ⭐ 64 分｜💬 45 留言｜👤 Callicles
-
-### 24. [The great blogging collapse: What happened to 100 successful blogs?](https://danielstanica.com/posts/Great-Blogging-Collapse)
-
-- ⭐ 181 分｜💬 138 留言｜👤 thm
-
-### 25. [Delta flight hit by firework while landing at Midway Airport on Fourth of July](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
-
-- ⭐ 126 分｜💬 224 留言｜👤 randycupertino
-
-### 26. [Modernizing a 25-year-old minimal C++ unit testing framework (Part 2)](https://freshsources.com/code-capsules/test-part2/)
-
-- ⭐ 16 分｜💬 1 留言｜👤 chuckallison
-
-### 27. [The Sneakerweb](https://sneakerweb.org/)
-
-- ⭐ 59 分｜💬 15 留言｜👤 GalaxyNova
-
-### 28. [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
-
-- ⭐ 91 分｜💬 12 留言｜👤 surprisetalk
-
-### 29. [Dungeon Proof Crawler: learn 如何 write proofs with RPG](https://dhilst.github.io/algae/game/index.html)
-
-- ⭐ 63 分｜💬 18 留言｜👤 SchwKatze
-
-### 30. [Run Windows 2000 on a DEC Alpha with a 新 es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
-
-- ⭐ 119 分｜💬 68 留言｜👤 jandeboevrie
+- ⭐ 311 分｜💬 560 留言｜👤 cwwc
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- NASA 推出 robot to save Swift telescope falling to Earth
+- The Private Capture of Public Genius
+- Study: ultra-black coating could reduce satellite light pollution
+- Show HN: Paint the Earth on a live, interactive globe (collaborative art.)
+- Behind the scenes with the Midjourney scanner [video]
+- Organic Maps
+- US home battery installations hit record high on rising electricity costs
+- Delta flight hit by firework while landing at Midway Airport on Fourth of July
+- It's not about physical vs. digital games, it's about ownership
+- The great blogging collapse: What happened to 100 successful blogs?
+- Composite Video on the NES: 為什麼's it so wobbly?
+- The Internet Is Drowning in Secret Ads
+- Ditching Vagrant: VMs with KVM and Virsh on Debian
+- Defeat air-gapped systems by exfiltrating data using Apple Find My 網絡
+- The Hitchhiker's Guide to Agentic AI
+- OpenPrinter
+- It's clear that Fable-class LLMs are feeling constrained by "normal" vernacular
+- Consoles continue their trend of just becoming worse PCs
+- The Sneakerweb
+- Vacuum at the Page Level
+- The Age of Personalized 硬體 Is Coming
+- Cursed circuits #5: capacitance multiplier
 - You need a webring
-- The Writers Who Wrote the Most in History
-- Show HN: Visualize 模型 Spikiness in 3D
+- Dungeon Proof Crawler: learn 如何 write proofs with RPG
+- Microsoft Fires 4800 as Xbox Division Undergoes Major Reorganization
 - Solar rail could become common in Europe after successful trial in Switzerland
+- DNSGlobe – Rust TUI to watch DNS propagate around the world
+- Modernizing a 25-year-old minimal C++ unit testing framework (Part 2)
+- Anthropic's Method to Losing Goodwill in a Few Easy Steps
+- South Korea's hottest 新 bachelors are chip workers
+- Show HN: Homegames. An open-source game platform I've been making for 8 years
+- The Writers Who Wrote the Most in History
+- Infracost (YC W21) Is 招聘 a Marketing Lead to Shift FinOps Left
+- Regression to the Mean: on LLMs and the quiet death of the 新
 - Show HN: Osint tool that finds exposed files on domains
-- Connections in Math: the two kinds of random
-- Inventor, Mother, Creator: Grace Hopper
-- Shrimple – A Simpler, Nicer Markdown
-- An Ordinary Mind on an Ordinary Day
+- Starring the Computer
+- Completing a computer science degree on Coursera
+- Old MIDI Instruments Don't Like Modern MIDI. What's to Be Done?
+- The future of Flipper Zero development
+- Ask HN: Are there good 安全 benchmarks for LLMs?
 - Installing A/UX 1.1 like it's the 90s
-- Do you hate XML? (2010)
-- Platonic Hydrocarbons
-- Vaclav Havel, the Power of the Powerless (1978)
+- Microsoft cuts 4,800 Jobs, Half from Xbox division
+- Revised Rules of Engineering Leadership
+- Show HN: Visualize 模型 Spikiness in 3D
 - Airplane Boneyards List and Map
-- Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills
-- Dependencies should be fetched directly from VCS
-- Android is almost dead – OSnews
-- Prism: An Impure Functional Language With Typed Effects
-- Papa Johns Can Predict When Your Fridge Is Empty
-- OpenWiki: CLI that writes and maintains 代理 documentation for your codebase
-- CoCom regulations and GPS receivers for balloons and cubesats
+- Mr. Baby Paint and accidentally discovering a 新 cellular automata
+- Veteran Coder, Modern Delivery: The Hunt for the Perfect Technical TPM Role
+- Inventor, Mother, Creator: Grace Hopper (2025)
+- Do you hate XML? (2010)
+- Shrimple – A Simpler, Nicer Markdown
 - Programmers need to start meditating
-- 介紹 Compilers and Language Design (2021)
-- A Forlorn Hope of Fortran Modernisation
+- What we learned when a user tried to load a 1 GB GML file in a browser
+- Microsoft joins AI-driven tech layoff wave with 4,800 工作 cuts
+- 新 AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]
 - Medieval-style fortifications are back in the Sahel
-- Sentiment analysis of Reddit threads using BERT models
-- Fast 軟體, the 最佳 軟體 (2019)
-- Pandoc Lua Filters
 - Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
+- OpenWiki: CLI that writes and maintains 代理 documentation for your codebase
+- Papa Johns Can Predict When Your Fridge Is Empty
+- Pandoc Lua Filters
+- 介紹 Compilers and Language Design (2021)
 - The GNU Emacs Architecture: Unlocking the Core [pdf]
-- Who Survives Europe's Energy Crisis?
-- EU Council forces Chat Control via fast-track
-- 為什麼 DMARC's 新 "NP" tag can fail with DNSSEC
+- An Ordinary Mind on an Ordinary Day
+- Vaclav Havel, the Power of the Powerless (1978)
 - If you're a button, you have one 工作
-- The AI Compass Quiz
-- The mask that compiles to nothing: how HotSpots JIT learned to reason about bits
+- EE Journal on the upcoming $99 dollar explorer board
+- Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills
+- Prism: An Impure Functional Language With Typed Effects
 - 網頁-based cryptography is always snake oil
-- Lean 軟體 Scaling Laws
-- We Always Leave Things Unfinished
-- Pint in England
-- Jim Keller's startup is building a factory to mass-produce small chip fabs
-- Real Linux. In a browser tab. No install. No 伺服器. No Docker
-- ByteDance and Alibaba to disable humanlike AI custom agents as 新 rules loom
-- Two nasty surprises in Home 助手's config
-- Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS
-- Moby Dick Workout (2022)
-- Megawatts by Microwave
-- Artificial Adventures
-- The Log is the 代理
-- Artful Cats: Feline-Inspired Art and Artifacts
-- Rayfish, Peer-to-peer mesh VPN with no 伺服器 to trust
-- Atomic Force Microscope [video]
-- GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
-- Zero-copy in Go: sendfile, splice, and the cost of io.Copy
-- Show HN: KiCad in the Browser
-- Egg companies made $1.22B in profit off $6 carton
-- Speech and Noise Corpora for Pitch Estimation of Human Speech
-- Understanding Postgres 19 Property Graphs
-- Shadcn/UI now defaults to Base UI instead of Radix
-- Record-breaking solo rower Kelsey Pfendler arrives in Hawaii
-- Small Penis Rule
-- Scheme Is a Hoot
-- Drone Autonomy (2021)
-- Optimizing an algorithm that's quadratic by design
-- Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)
-- Explanation of everything you can see in htop/熱門 on Linux (2019)
-- 新 Microsoft 365 pricing live, some products up by 42% due to AI
-- Autonomous flying umbrella follows and shields users from rain and sunlight
-- Latta Java
-- Cannabis users face substantially higher risk of heart attack (2025)
+- Fast 軟體, the 最佳 軟體 (2019)
+- 為什麼 DMARC's 新 "NP" tag can fail with DNSSEC
 
 
 ---
