@@ -6,200 +6,208 @@
 
 ### 1. [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
 
-- ⭐ 110 分｜💬 25 留言｜👤 kls0e
+- ⭐ 523 分｜💬 122 留言｜👤 kls0e
 
-### 2. [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
+### 2. [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
 
-- ⭐ 93 分｜💬 26 留言｜👤 surprisetalk
+- ⭐ 187 分｜💬 50 留言｜👤 gasull
 
-### 3. [Europe's company websites are mostly served by US vendors](https://ciphercue.com/blog/european-web-hosting-vendor-share-2026)
+### 3. [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/)
 
-- ⭐ 103 分｜💬 80 留言｜👤 adulion
+- ⭐ 171 分｜💬 28 留言｜👤 notmcrowley
 
-### 4. [98% Isn't Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
+### 4. [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
 
-- ⭐ 150 分｜💬 129 留言｜👤 speckx
+- ⭐ 29 分｜💬 8 留言｜👤 speckx
 
-### 5. [熱門 researchers leave USA for the Netherlands (in Dutch)](https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland)
+### 5. [A better way to tie gym shorts (or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
 
-- ⭐ 160 分｜💬 126 留言｜👤 28304283409234
+- ⭐ 362 分｜💬 138 留言｜👤 surprisetalk
 
-### 6. [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal)
+### 6. [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
 
-- ⭐ 80 分｜💬 77 留言｜👤 pax
+- ⭐ 16 分｜💬 0 留言｜👤 duha
 
-### 7. [OpenWrt One – Open 硬體 Router](https://openwrt.org/toh/openwrt/one)
+### 7. [Jim's TrueType QR 代碼 Font](https://github.com/jimparis/qr-font)
 
-- ⭐ 725 分｜💬 279 留言｜👤 peter_d_sherman
+https:&#x2F;&#x2F;qr.jim.sh&#x2F;
 
-### 8. [9 Mothers (YC P26) Is 招聘 in Austin, TX](https://9mothers.com/careers)
+- ⭐ 60 分｜💬 5 留言｜👤 arantius
+
+### 8. [Notes on 軟體 Quality](https://anthonyhobday.com/blog/20260410)
+
+- ⭐ 13 分｜💬 4 留言｜👤 speckx
+
+### 9. [Fixing analog audio on the $2.58 HDMI-to-VGA adapter](https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/)
+
+- ⭐ 28 分｜💬 10 留言｜👤 zdw
+
+### 10. [為什麼 we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler)
+
+- ⭐ 63 分｜💬 9 留言｜👤 levkk
+
+### 11. [Astro 7.0](https://astro.build/blog/astro-7/)
+
+- ⭐ 87 分｜💬 18 留言｜👤 saikatsg
+
+### 12. [A 新 runtime for k and q: l](https://lv1.sh/)
+
+- ⭐ 33 分｜💬 16 留言｜👤 skruger
+
+### 13. [Chat Control passed first round in EU Parliament](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html)
+
+- ⭐ 403 分｜💬 179 留言｜👤 miroljub
+
+### 14. [9 Mothers (YC P26) Is 招聘 in Austin, TX](https://9mothers.com/careers)
 
 - ⭐ 1 分｜💬 0 留言｜👤 ukd1
 
-### 9. [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+### 15. [MacSurf 1.68 – NetSurf on OS 9 發布](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
 
-- ⭐ 670 分｜💬 163 留言｜👤 basilikum
+- ⭐ 46 分｜💬 8 留言｜👤 mplsllc
 
-### 10. [C++ Details of Asymmetric Fences](https://nekrozqliphort.github.io/posts/membarrier/)
+### 16. [Automating AI Away](https://replicated.live/blog/away)
 
-- ⭐ 6 分｜💬 0 留言｜👤 anon_farmer
+- ⭐ 53 分｜💬 28 留言｜👤 gritzko
 
-### 11. [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+### 17. [The revenge of the philosophy majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
 
-- ⭐ 568 分｜💬 352 留言｜👤 martinald
+- ⭐ 92 分｜💬 137 留言｜👤 benbreen
 
-### 12. [如何 sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+### 18. [Show HN: Davit, a Apple Containers UI](https://davit.app)
 
-- ⭐ 303 分｜💬 111 留言｜👤 bilsbie
+Mostly vibe-coded Apple Containers front-end that I&#x27;d like to use myself. But if others want to use it, here&#x27;s the source 代碼.
 
-### 13. [The Family Keeping Watch over a 52-Year-Old Pot of Soup](https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115)
+- ⭐ 7 分｜💬 0 留言｜👤 xinit
 
-- ⭐ 17 分｜💬 7 留言｜👤 petethomas
+### 19. [Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop](https://github.com/rowboatlabs/rowboat)
 
-### 14. [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability
 
-- ⭐ 200 分｜💬 67 留言｜👤 sscaryterry
+- ⭐ 8 分｜💬 0 留言｜👤 segmenta
 
-### 15. [Historic Photos of NASA's Cavernous Wind Tunnels](https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/)
+### 20. [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
 
-- ⭐ 54 分｜💬 12 留言｜👤 ohjeez
+- ⭐ 156 分｜💬 169 留言｜👤 randycupertino
 
-### 16. [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/)
+### 21. [Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](https://github.com/bkuan001/halo-record)
 
-- ⭐ 99 分｜💬 23 留言｜👤 andsoitis
+Hi HN, I&#x27;m Brian, I spent the last few years at Vanta (YC W18), helping startups and enterprises become compliant and I recently started exploring what that might look like in a post-agentic worl
 
-### 17. [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
+- ⭐ 6 分｜💬 1 留言｜👤 brian_kuan
 
-- ⭐ 194 分｜💬 89 留言｜👤 ifh-hn
+### 22. [Microsoft fire idTech team at Id 軟體](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/)
 
-### 18. [Show HN: Fast, native Mac file 經理 (filters, fuzzy find, 9 MB, no Electron)](https://whimfiles.com)
+- ⭐ 366 分｜💬 367 留言｜👤 bauc
 
-My Downloads folder had been left unkept for a really long time and cleaning it up using Finder was quite cumbersome. So I started creating a simple app to help me filter out and delete or move the fi
+### 23. [Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]](https://cccg.ca/proceedings/2008/paper34full.pdf)
 
-- ⭐ 50 分｜💬 36 留言｜👤 whimbyte
+- ⭐ 15 分｜💬 0 留言｜👤 luu
 
-### 19. [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+### 24. [Amazon without the knockoffs](https://knockoff.shopping/)
 
-- ⭐ 556 分｜💬 342 留言｜👤 modinfo
+- ⭐ 260 分｜💬 176 留言｜👤 plurby
 
-### 20. [The Art of Computer 程式設計 by Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
+### 25. [Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](https://github.com/kklimuk/docx-cli)
 
-- ⭐ 88 分｜💬 28 留言｜👤 archargelod
+- ⭐ 12 分｜💬 6 留言｜👤 kirillklimuk
 
-### 21. [Ternlight – 7 MB embedding 模型 that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
+### 26. [為什麼 skilled workers come to Germany and then leave again](https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162)
 
-- ⭐ 278 分｜💬 60 留言｜👤 soycaporal
+- ⭐ 79 分｜💬 171 留言｜👤 theanonymousone
 
-### 22. [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
+### 27. [98% isn't much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
 
-- ⭐ 416 分｜💬 160 留言｜👤 in-silico
+- ⭐ 397 分｜💬 261 留言｜👤 speckx
 
-### 23. [In Praise of Observational Evidence](https://asteriskmag.com/issues/14/in-praise-of-observational-evidence)
+### 28. [Decrypting View State Messages](https://zeroed.tech/blog/decrypting-viewstate-messages/)
 
-- ⭐ 57 分｜💬 13 留言｜👤 fi-le
+- ⭐ 4 分｜💬 3 留言｜👤 speckx
 
-### 24. [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
+### 29. [GitHub Freno: cooperative, highly available throttler service](https://github.com/github/freno)
 
-- ⭐ 681 分｜💬 802 留言｜👤 dijksterhuis
+- ⭐ 23 分｜💬 0 留言｜👤 nateb2022
 
-### 25. [Not Dark Yet](https://agoodhardstare.substack.com/p/not-dark-yet)
+### 30. [Ask HN: Is GitHub preparing to go behind a login wall?](https://news.ycombinator.com/item?id=48821803)
 
-- ⭐ 23 分｜💬 1 留言｜👤 paulpauper
+From time to time, I check that our open-source project is still available to all users, and I&#x27;ve occasionally noticed that the stargazers (1) information returns a 404 for non-logged-in users.I 
 
-### 26. [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
-
-- ⭐ 359 分｜💬 238 留言｜👤 LabsLucas
-
-### 27. [Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T](https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html)
-
-- ⭐ 66 分｜💬 59 留言｜👤 wrxd
-
-### 28. [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context)
-
-- ⭐ 128 分｜💬 34 留言｜👤 emil_sorensen
-
-### 29. [Linux on the Atari Jaguar](https://cakehonolulu.github.io/linux-for-jaguar/)
-
-- ⭐ 170 分｜💬 57 留言｜👤 cakehonolulu
-
-### 30. [Inkfield](https://www.inkfield.studio)
-
-- ⭐ 39 分｜💬 13 留言｜👤 surprisetalk
+- ⭐ 21 分｜💬 18 留言｜👤 reconnecting
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Reducing Doom Loops with Final Token Preference Optimization
+- Show HN: PostgreSQL performance and cost across 23 EC2 instance types
+- The family keeping watch over a 52-year-old pot of soup
+- Europe's company websites are mostly served by US vendors
+- C++ Details of Asymmetric Fences
+- Mapping homes you can buy from the US government for <$100k
+- The Art of Computer 程式設計 by Donald E. Knuth
+- 軟體 Bonkers
+- Dua Lipa opens library for banned and censored books in Portugal
+- Better Auth is joining Vercel
+- Historic Photos of NASA's Cavernous Wind Tunnels
+- Dolosse – a South African invention used over the world
+- Microsoft Can Track Users via a Windows Device ID
+- Show HN: Fast, native Mac file 經理 (filters, fuzzy find, 9 MB, no Electron)
+- You shouldn't trust Trusted Publishing
+- Demystifying the Red Zone: Optimizing Leaf Functions
+- But Nothing Has Changed on Our Side
+- OpenWrt One – Open 硬體 Router
+- 新 Literalism Comes for Museums
+- CoMaps – FOSS Offline Maps
+- Authorities warn Manhattan tower could collapse after beams buckle
+- Ask HN: Where are the good search engines for mathematical formulas?
+- Court tosses Microsoft's appeal in pre-owned 軟體 licenses battle
+- Discord banned 8k users for posting benign grid images
+- Big Tech data centers driving up power bills at America's Rust Belt factories
+- PL/Ruby: Ruby as a procedural language for PostgreSQL (functions, triggers, SPI)
+- Kernel anti-cheat is an overreach
+- 如何 sequence your own DNA at home
+- In Praise of Observational Evidence
+- Small AI Models Gain Traction In places with unreliable networks
+- Treasury Has an Internal Report Warning About the Dangers of an AI Bubble
+- Inkfield
 - OpenSSH 10.4/10.4p1 發布
-- OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files
-- Dropping in on Gottfried Leibniz (2013)
+- Anthropic is launching Claude Cowork on 行動 and 網頁
+- GLM 5.2 and the coming AI margin collapse
 - Learning to 代碼 is still worthwhile
-- The Making of Claude 代碼
+- A Script for Mark Zuckerberg
+- 為什麼 does WhatsApp drain so much phone battery?
+- Canada to buy 12 hi-tech German submarines after bidding war
+- Show HN: Context Warp Drive – Deterministic context folding for AI agents
+- Verbalizable Representations Form a Global Workspace in Language Models
 - Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]
-- NSA and IETF: Fairness
-- Kani: A 模型 Checker for Rust
-- Rotman Lens
+- The Making of Claude 代碼
+- How did we make DeepSeek outperform Opus
 - A verification loop 4x'd DeepSeek's intelligence, matching Opus at 1/7 the cost
-- Reinforcement Learning with Metacognitive Feedback Elicits Uncertainty in LLMs
+- FR4 and Other PCB Material Shortages
+- Kani: A 模型 Checker for Rust
+- Prospects of DNA nanotechnology in stroke repair and regeneration
+- Rotman Lens
+- Tell HN: Who wants to be hired" posts outpace "Who's 招聘" 2 to 1
 - Clojure 1.13 adds support for checked keys
-- M/PC – A Concatenative OS
-- A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku
+- Ternlight – 7 MB embedding 模型 that runs in browser (WASM)
+- A global workspace in language models
 - 介紹 Genomics for Engineers
-- EndBASIC 0.14: Are we multimedia yet?
+- Emerging evidence links tire pollution to Alzheimer's risk
+- Resetting Xbox
+- Fable turned reMarkable into Tom Riddle's diary from Harry Potter
+- Almost all coders at Id 軟體 have been fired, following Xbox reset
+- NSA and IETF: Fairness
 - Using precision editing to study human embryo development shows master gene
+- A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku
 - Evaluation order and nontermination in query languages
+- M/PC – A Concatenative OS
+- Midtown Manhattan blocks evacuated after beams buckling at construction site
+- Pruning RAG context down to what the answer actually needs
+- EndBASIC 0.14: Are we multimedia yet?
+- Automated Moderation Is Here to Stay
+- AMD Ryzen AI Halo – $4k AI Dev Kit
 - The LLVM Compiler Infrastructure
-- Poly/ML – A Standard ML Implementation
-- Full Writeup of the Windows GDID
-- Show HN: Pulpie – Models for Cleaning the 網頁
-- As Amazon lets Mechanical Turk fade, Mercor hits a $2B gross run rate
-- Egypt Is Building a 新 Nile
-- Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability
-- Aluminum foil (2021)
-- Does 代碼 cleanliness affect coding agents? A controlled minimal-pair study
-- 1k Words: A Writing Contest
-- Organic Maps
-- Real-time map of Great Britain's rail 網絡
-- Companies hire more after AI adoption
-- The Music of Destruction
-- Road to Elm 1.0
-- Apricot Computers: An underrated British brand
-- Nintendo 宣布 新 product revisions in Europe with replaceable batteries
-- Taiganet.com, Home of the WS4000 Simulator
-- Tiny-C Reference Manual Excerpt
-- Complexity theorist Steven Rudich (1961-2024)
-- The Private Capture of Public Genius
-- Delta flight hit by firework while landing at Midway Airport on Fourth of July
-- It's not about physical vs. digital games, it's about ownership
-- The great blogging collapse: What happened to 100 successful blogs?
-- Odin 1.0 Announcement
-- GPT-5.6 Sol Ultra will be in Codex
-- Giving a domain a hill to climb: benchmarking as data activation
-- Show HN: InstantVideos.org – short documentaries in ~30 seconds
-- Hobbes – A Language and Embedded JIT Compiler
-- Not everything should cost a token: the case for deterministic AI
-- Learning another language appears to slow brain ageing by up to 13 years
-- The Complete Homemade Juggling Beanbag Guide
-- Has_not_been_viewed_much
-- Should DayQuil Be Legal?
-- Building relationships with customers through support didn't turn out as hoped
-- Composite Video on the NES: 為什麼's it so wobbly?
-- My quest to see all of Tetris
-- Show HN: Otari: your open-source 大型語言模型 control plane
-- Python 3.14 compiled to metal – no interpreter
-- 為什麼 low-latency Java still requires discipline?
-- Eternal 軟體 Initiative Based on Subleq One-Instruction-Set Computer
-- Acronym Fatigue Series Introduction: 為什麼 I'm wary of acronyms
-- Solar rail could become common in Europe after successful trial in Switzerland
-- Titan's Resources and Their Utilization
-- An independent evaluation of TabFM, Google's tabular foundation 模型
-- Woman's hip replacement disintegrates, causing metal poisoning
-- X402, a static blog monetization excercise
-- CS2 Fog Of War: 伺服器-sided anti-wallhack occlusion culling for CS2 servers
-- Amazon will stop accepting 新 customers for Mechanical Turk
-- What Emily Bender meant by "stochastic parrots"
-- Zuckerberg says AI 代理 development going slower than expected
-- OpenPrinter
+- How feminism has made me a better scientist (2018)
 
 
 ---
