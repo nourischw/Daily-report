@@ -4,208 +4,210 @@
 
 ---
 
-### 1. [Show HN: 18 Words](https://18words.com/)
+### 1. [GPT-5.6](https://openai.com/index/gpt-5-6/)
 
-- ⭐ 226 分｜💬 95 留言｜👤 pompomsheep
+https:&#x2F;&#x2F;deploymentsafety.OpenAI.com&#x2F;GPT-5-6&#x2F;GPT-5-6.pdfhttps:&#x2F;&#x2F;developers.OpenAI.com&#x2F;API&#x2F;docs&#x2F;guides&#x2F;latest-模型
 
-### 2. [Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](https://github.com/ronak-create/FableCut)
+- ⭐ 615 分｜💬 421 留言｜👤 logickkk1
 
-- ⭐ 45 分｜💬 26 留言｜👤 ronak_parmar
+### 2. [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 
-### 3. [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+- ⭐ 214 分｜💬 82 留言｜👤 Tiberium
 
-- ⭐ 1157 分｜💬 232 留言｜👤 djoldman
+### 3. [Show HN: 18 Words](https://18words.com/)
 
-### 4. [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1)
+- ⭐ 646 分｜💬 242 留言｜👤 pompomsheep
 
-- ⭐ 29 分｜💬 6 留言｜👤 ot
+### 4. [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 
-### 5. [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o)
+- ⭐ 33 分｜💬 17 留言｜👤 adamkurkiewicz
 
-- ⭐ 224 分｜💬 81 留言｜👤 theanonymousone
+### 5. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
 
-### 6. [Meta reuses old RAM in 新 servers with custom bridge chip](https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html)
+- ⭐ 672 分｜💬 338 留言｜👤 rapnie
 
-- ⭐ 175 分｜💬 82 留言｜👤 ihsw
+### 6. [Hy3](https://hy.tencent.com/research/hy3)
 
-### 7. [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
+- ⭐ 213 分｜💬 59 留言｜👤 andai
 
-- ⭐ 225 分｜💬 92 留言｜👤 Jedd
+### 7. [Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
 
-### 8. [EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose out"](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
+- ⭐ 80 分｜💬 39 留言｜👤 PotatoNinja
 
-- ⭐ 317 分｜💬 161 留言｜👤 rapnie
+### 8. [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
 
-### 9. [US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/)
+- ⭐ 133 分｜💬 10 留言｜👤 mzur
 
-- ⭐ 59 分｜💬 44 留言｜👤 rbanffy
+### 9. [Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting](https://nahla.dev/blog/waitfree_queue/)
 
-### 10. [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
+- ⭐ 70 分｜💬 9 留言｜👤 EvgeniyZh
 
-- ⭐ 7 分｜💬 0 留言｜👤 ChrisArchitect
+### 10. [Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)
 
-### 11. [TrueBiz (YC S22) – 資深 軟體 工程師 – 遠端 (US) – Full-Time](https://news.ycombinator.com/item?id=48844517)
+https:&#x2F;&#x2F;AI.Meta.com&#x2F;static-resource&#x2F;muse-spark-1-1-evaluatio... [pdf]https:&#x2F;&#x2F;開發者.Meta.com&#x2F;AI&#x2F;resources&#x2F;blog&#x2F;構建-with-muse...https:&#x2F;&#x2F;
 
-TrueBiz (YC S22) is an API that tells financial institutions whether a business is real, what it actually does, and whether it’s risky — in seconds.Today, this process is still manual: underwriters sp
+- ⭐ 240 分｜💬 143 留言｜👤 ot
 
-- ⭐ 1 分｜💬 0 留言｜👤 dannyhak
+### 11. [Wildcard (YC W25) Is 招聘 a Founding 工程師](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
 
-### 12. [How Version Control Will Evolve for the 代理 Boom](https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom)
+- ⭐ 1 分｜💬 0 留言｜👤 kaushikmahorker
 
-- ⭐ 25 分｜💬 23 留言｜👤 tapanjk
+### 12. [TLS certificates for internal services done right](https://tuxnet.dev/posts/tls-for-internal-services/)
 
-### 13. [Maxwell's Equations Were Discovered [video]](https://www.youtube.com/watch?v=-hua8RWopfw)
+- ⭐ 88 分｜💬 59 留言｜👤 mrl5
 
-- ⭐ 3 分｜💬 0 留言｜👤 surprisetalk
+### 13. [The glass backbone: 為什麼 the Army's logistics will break in the next war](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/)
 
-### 14. [Transparency efforts behind the Helium Browser](https://helium.computer/blog/transparency)
+- ⭐ 187 分｜💬 233 留言｜👤 baud147258
 
-- ⭐ 3 分｜💬 0 留言｜👤 twapi
+### 14. [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev)
 
-### 15. [Just Pay the Subscription](https://www.uncommonapps.nyc/p/just-pay-the-subscription)
+Hi Hacker News, I’m Yahia. I built Context.dev (https:&#x2F;&#x2F;www.context.dev&#x2F;) to make it really easy to integrate 網頁 data into your products and agents.Here’s a demo video: https:&#x2F;&#x
 
-- ⭐ 12 分｜💬 9 留言｜👤 dabluck
+- ⭐ 47 分｜💬 35 留言｜👤 TheYahiaBakour
 
-### 16. [Show HN: Arcaide – Explore 代碼 with multi-level call graphs](https://arcaide.foo)
+### 15. [如何 Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
 
-One of the things I do when approaching a 新 codebase is to find the entry points and start exploring down the call paths. This gives a good overview of the different components in the 代碼 and how t
+- ⭐ 13 分｜💬 0 留言｜👤 mooreds
 
-- ⭐ 12 分｜💬 3 留言｜👤 aqula
+### 16. [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
 
-### 17. [Syria's solar boom is redefining Middle East's energy 模型](https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/)
+- ⭐ 170 分｜💬 139 留言｜👤 ChrisArchitect
 
-- ⭐ 26 分｜💬 4 留言｜👤 littlexsparkee
+### 17. [Opinionated and Easy Pi.dev Configuration](https://lazypi.org/)
 
-### 18. [The Glass Backbone: 為什麼 the Army's Logistics Will Break in the Next War](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/)
+- ⭐ 68 分｜💬 44 留言｜👤 lwhsiao
 
-- ⭐ 65 分｜💬 63 留言｜👤 baud147258
+### 18. [Show HN: I mapped 8.5M research papers into an interactive atlas](https://tomesphere.com/atlas)
 
-### 19. [I Built the Only 2026 WWII Jeep](https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/)
+When I read papers, I have to jump between multiple tabs to find the dataset, 代碼, videos, peer reviews, and so on. I tried to fix this with this project.It started as a project just for papers on ar
 
-- ⭐ 112 分｜💬 40 留言｜👤 martey
+- ⭐ 33 分｜💬 6 留言｜👤 leonickson
 
-### 20. [In-browser programmable robot simulator](https://bittlex-sim.petoi.com/)
+### 19. [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
 
-- ⭐ 65 分｜💬 2 留言｜👤 lijay
+- ⭐ 27 分｜💬 14 留言｜👤 Realman78
 
-### 21. [為什麼 developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+### 20. [Show HN: Analog Watch](https://analog.watch)
 
-- ⭐ 284 分｜💬 192 留言｜👤 Gedxx
+- ⭐ 68 分｜💬 63 留言｜👤 ezekg
 
-### 22. [Lead Mines of Galena, Kansas](https://dustbowlhighway.com/kansas/lead-mines/)
+### 21. [新 open access book on history of computers and politics](https://mitpress.mit.edu/9780262053198/simpolitics/)
 
-- ⭐ 15 分｜💬 5 留言｜👤 saltdoo
+- ⭐ 45 分｜💬 4 留言｜👤 mckelveyf
 
-### 23. [Files over tools: how we built our 代理 with a virtual filesystem and bash](https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash)
+### 22. [Meta reuses old RAM in 新 servers with custom bridge chip](https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html)
 
-- ⭐ 7 分｜💬 0 留言｜👤 cjbell
+- ⭐ 252 分｜💬 170 留言｜👤 ihsw
 
-### 24. [Cargo-nextest: 3x faster than cargo 測試, per-測試 isolation, first-class CI](https://nexte.st/)
+### 23. [如何 Follow a Drummer](https://drummate.app/blog/how-to-follow-a-drummer)
 
-- ⭐ 151 分｜💬 41 留言｜👤 nateb2022
+- ⭐ 9 分｜💬 8 留言｜👤 sashyo
 
-### 25. [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)
+### 24. [AI changes the economics of 軟體 rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
 
-- ⭐ 59 分｜💬 21 留言｜👤 giuliomagnifico
+- ⭐ 75 分｜💬 83 留言｜👤 cinooo
 
-### 26. [Vacuum at the Page Level](https://boringsql.com/posts/vacuum-at-the-page-level/)
+### 25. [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
 
-- ⭐ 13 分｜💬 3 留言｜👤 radimm
+- ⭐ 269 分｜💬 122 留言｜👤 Jedd
 
-### 27. [Grok 4.5](https://x.ai/news/grok-4-5)
+### 26. [什麼是 Bending Spoons? The little-known AOL and Vimeo owner that's now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 
-https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5
+- ⭐ 49 分｜💬 74 留言｜👤 jack1689
 
-- ⭐ 723 分｜💬 1301 留言｜👤 BoumTAC
+### 27. [What's slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
 
-### 28. [Cloudflare Drop](https://www.cloudflare.com/drop/)
+- ⭐ 48 分｜💬 104 留言｜👤 droidjj
 
-- ⭐ 497 分｜💬 271 留言｜👤 coloneltcb
+### 28. [Auditory and spontaneous movement responses to music over first postnatal year](https://elifesciences.org/articles/107088)
 
-### 29. [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
+- ⭐ 16 分｜💬 2 留言｜👤 bookofjoe
 
-Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts 
+### 29. [Show HN: Devthropology – Better Insights for GitHub Repos](https://devthropology.com/demo)
 
-- ⭐ 329 分｜💬 118 留言｜👤 chenglong-hn
+Devthropology is a passion project built on 熱門 of GitHub pull data. The name is a play on 開發者 anthropology. Pull request data can be cut a lot of ways. The functionality has been built out of c
 
-### 30. [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+- ⭐ 23 分｜💬 6 留言｜👤 dpc94
 
-- ⭐ 232 分｜💬 84 留言｜👤 sk4rekr0w
+### 30. [Ways to think about token pricing](https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing)
+
+- ⭐ 26 分｜💬 9 留言｜👤 mercutio2
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Benchmarking coding agents on Databricks' multi-million line codebase
-- Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line
-- MSG 資料庫 tracked hundreds. Labels include "LGBTQIA," and low to high "risk."
-- Turning a pile of documents into a searchable useable knowledge base
-- 新 Sweden: the US's long-lost 'secret' colony
+- 如何 Write an Email
+- John Deere owners will get the right to repair equipment under FTC settlement
+- Coordination Without Consolidation: On Systems of States [pdf]
+- 為什麼 we're moving off Cloudflare Durable Objects
+- Maxwell's Equations Were Discovered [video]
+- US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers
+- Show HN: Reverse-engineering 網頁 apps into 代理 tools
+- OpenAI faked inability to search 訓練 data, hid billions of logs, NYT says
+- The government wants to scare Americans out of sharing the news
+- Show HN: LastShelf – an emergency map of your family's documents bills& contacts
+- AI content is everywhere on social media, especially LinkedIn
+- Electronic Plastic: Museum of '80s and '90s handheld and tabletop games
+- I Built the Only 2026 WWII Jeep
+- My thoughts on the Bun Rust rewrite
+- AI 2040: Plan A
+- Show HN: FableCut – A browser video editor AI agents can drive (zero deps)
+- How version control will evolve for the 代理 boom
+- DeepSeek aims to make its own AI chip
+- NASA SpaceWASM – A flight-compliant WebAssembly interpreter
+- In-browser programmable robot simulator
+- Transparency efforts behind the Helium Browser
+- Bonnie Tyler has died
+- Cargo-nextest: 3x faster than cargo 測試, per-測試 isolation, first-class CI
+- Files over tools: how we built our 代理 with a virtual filesystem and bash
+- Syria's solar boom is redefining Middle East's energy 模型
+- Vacuum at the Page Level
+- How Donkey Kong Toppled Atari
+- 為什麼 developers are ditching GitHub for Codeberg and self-hosting alternatives
+- LLMs for technical editing: The good, the bad, and the ugly
+- The internet does not want readers. It wants livestock
+- Reverse-engineering NVIDIA's CUDA-checkpoint for faster cold starts
+- Lead Mines of Galena, Kansas
+- Police arrests 5,800 suspects in global anti-fraud crackdown
+- Decoding the obfuscated bash script on a Uniqlo t-shirt
+- Grok 4.5
+- Chatto is now 開源
+- A Road to Lisp: 為什麼 Lisp
 - Unicode's transliteration rules are Turing-complete
 - Rewriting Bun in Rust
-- The internet does not want readers. It wants livestock
-- Chatto is now 開源
+- You paid me, a long-time Linux user, to use Windows 11 exclusively for a month
 - Patching MechCommander's "left arm bug" for fun and profit
-- Decoding the obfuscated bash script on a Uniqlo t-shirt
-- Data Centers Are Quietly Taking over Texas. The Pollution Could Be Catastrophic
-- TypeScript 7
-- Apache Shiro 安全 framework releases 3.0.0
-- Rust 1.97.0
+- Benchmarking coding agents on Databricks' multi-million line codebase
+- Writing a bindless GPU abstraction layer
+- The Decline of Sumptuousness in Cinema
+- Tencent/Hy3: 295B MoE 模型 rivals trillion scale SOTA
+- Many economists believe that AI will lead to more inflation. 為什麼?
 - FAANG Simulator
-- MIRA: Multiplayer Interactive World Models Trained on Rocket League
-- GPT‑Live
-- 遠端 Attestation
+- Show HN: FormGrid – Forms that can look like CLIs, pixel art, GeoCities and more
+- Apache Shiro 安全 framework releases 3.0.0
+- The Backstory of Jiki
 - OpenMandriva: Statement regarding attempted distribution sabotage
-- The Field Equation, living shader geometry folded into a breathing object
+- Too Old for Silicon Valley? Think Again. AI Is Changing the Math
 - Mistral's Robostral Navigate: a state of the art robotics navigation 模型
-- Can lucid dreaming help your mental health? What the evidence says
+- 遠端 Attestation
+- MIRA: Multiplayer Interactive World Models Trained on Rocket League
+- Meta's 'Super Sensing' Prototype Glasses Quietly Record Everything
+- Degeneracy Is a Symptom
+- Show HN: Rubber Duck
+- Show HN: Microsoft releases Flint, a visualization language for AI agents
+- Show HN: A zero-dependency auditor for decision records in AI-touched systems
+- Cloudflare Drop
 - EU now one step away from reviving private message scanning rules
-- Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]
-- My road trip with the do-gooding cactus smugglers
-- 3D Airplane tracker on Mercator map
-- Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1
-- Show HN: Follow London Trains in 3D
-- My Thoughts on the Bun Rust Rewrite
-- OpenBSD has a use-after-free allowing local privilege escalation to root
+- Farage left fighting a trash can as the UK populist's election gamble backfires
+- Separating signal from noise in coding evaluations
 - Moving to FreeBSD from Linux
-- A bug which affected only left handed users
-- I Built a Telegram Client for Pi
-- The Most Important Cheque in Economics
+- Show HN: Follow London Trains in 3D
+- OpenBSD has a use-after-free allowing local privilege escalation to root
 - TabFont – guitar tabs rendered as you type
-- SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence
-- Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid
-- Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
-- Beni Is a Cute Autonomous Camera Robot on Wheels
-- Geosql: A Claude/Codex skill for geospatial data
-- Show HN: Frugon – Find which 大型語言模型 calls a cheaper 模型 could handle (local, MIT)
-- GitLost: We Tricked GitHub's AI 代理 into Leaking Private Repos
-- NoiseLang: Where N = 5 is a Dirac delta
-- Four nuclear reactors hit a big milestone in the US
-- Ants: Who looks after the injured in a colony?
-- Apple to increase spend with Broadcom to produce billions more U.S. chips
-- The difference between "today's task" and "accretive work"
-- Home made GPU escalated quickly [video]
-- A 軟體 engineering interview question I like: computing the median
-- EVE Online's Carbon engine is now 開源: Fenris Creations explains 為什麼
-- PlayStation can delete all your digital games after 3 years of inactivity (EU)
-- Chat Control 1.0 and 2.0 Explained
-- Cloudflare Meerkat - Globally distributed consensus
-- LineageOS Statistics
-- 為什麼 we built yet another Postgres connection pooler
-- LisaFPGA: The Apple Lisa computer implemented inside an FPGA
-- StreetComplete: Fixing OpenStreetMap, one tiny quest at a time
-- Show HN: 代理 Draw: An 代理 draws while you talk, built on TLDraw
-- Poison, redzones and shadows: inside KASAN
-- Show HN: OpenScreenShot: open-source full-page screenshot and annotation tool
-- The classifiers Anthropic puts in front of Fable are too zealous
-- IEEE Rolls Out Large Language Models 訓練 Course
-- Jim's TrueType QR 代碼 Font
-- Samsung chip division's 1-year profit beat past 40 years of profits, combined
-- macOS 28 will not support encrypted HFS+ volumes
-- Show HN: Neil the Seal Game
-- The Strange Locomotion of Spirocuta
-- I think I have 大型語言模型 burnout
-- Tenda firmware (multiple versions) contains hidden authentication backdoor
+- LinkedIn and X Are Flooded with AI Spam, Browsing Data Suggests
+- Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1
 
 
 ---
