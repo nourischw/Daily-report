@@ -4,212 +4,207 @@
 
 ---
 
-### 1. [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
+### 1. [AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
-- ⭐ 25 分｜💬 8 留言｜👤 faza
+- ⭐ 52 分｜💬 16 留言｜👤 rvz
 
-### 2. [Your 代碼 is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
+### 2. [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
 
-- ⭐ 13 分｜💬 0 留言｜👤 chrka
+- ⭐ 25 分｜💬 4 留言｜👤 ingve
 
-### 3. [Einstein's relativity rules chemical bonds in heavy elements, 新 research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+### 3. [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
+
+- ⭐ 118 分｜💬 15 留言｜👤 saisrirampur
+
+### 4. [Modern Decor May Be Straining People's Brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)
+
+- ⭐ 97 分｜💬 76 留言｜👤 downwithdisease
+
+### 5. [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
+
+- ⭐ 16 分｜💬 6 留言｜👤 GavCo
+
+### 6. [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf)
+
+- ⭐ 53 分｜💬 12 留言｜👤 wolfi1
+
+### 7. [如何 Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
+
+- ⭐ 8 分｜💬 3 留言｜👤 pseudolus
+
+### 8. [NVIDIA, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
+
+- ⭐ 14 分｜💬 1 留言｜👤 adletbalzhanov
+
+### 9. [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
+
+- ⭐ 66 分｜💬 35 留言｜👤 downbad_
+
+### 10. [Sixtyfour (YC P25) Is 招聘](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
+
+- ⭐ 1 分｜💬 0 留言｜👤 HPMOR
+
+### 11. [AI Can't Recreate the Thrust Game (But It Can Help You Understand It)](https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/)
+
+- ⭐ 19 分｜💬 8 留言｜👤 msephton
+
+### 12. [Female US rower completes historic solo journey from California to Hawaii](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey)
+
+- ⭐ 80 分｜💬 26 留言｜👤 speckx
+
+### 13. [Show HN: Learn by rebuilding Redis, Git, a 資料庫 from scratch](https://shipthatcode.com)
+
+- ⭐ 40 分｜💬 17 留言｜👤 acley
+
+### 14. [Einstein's relativity rules chemical bonds in heavy elements, 新 research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 
 https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aei1285
 
-- ⭐ 296 分｜💬 115 留言｜👤 hhs
+- ⭐ 359 分｜💬 159 留言｜👤 hhs
 
-### 4. [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+### 15. [BLISS](https://en.wikipedia.org/wiki/BLISS)
 
-- ⭐ 628 分｜💬 207 留言｜👤 speckx
+- ⭐ 18 分｜💬 2 留言｜👤 tosh
 
-### 5. [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
+### 16. [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
 
-- ⭐ 32 分｜💬 16 留言｜👤 herbertl
+- ⭐ 708 分｜💬 220 留言｜👤 speckx
 
-### 6. [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
+### 17. [Amber the 程式設計 language compiled to Bash/Ksh/Zsh](https://amber-lang.com/)
 
-- ⭐ 45 分｜💬 1 留言｜👤 poupeaua
+- ⭐ 25 分｜💬 16 留言｜👤 _superposition_
 
-### 7. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+### 18. [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
+
+- ⭐ 77 分｜💬 35 留言｜👤 herbertl
+
+### 19. [Reverse centaurs are the answer to the AI paradox](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
+
+- ⭐ 28 分｜💬 5 留言｜👤 jason_s
+
+### 20. [Show HN: Orbit – AR satellite tracker, watch 15k+ objects](https://nagylukas.github.io/orbit.html)
+
+Hey HN! I made Orbit, an iOS app that allows you to see the satellites, planets, and constellations above you in AR, on a 2D map, and on a 3D globe.
+The app includes more than 15,000 objects tracked b
+
+- ⭐ 6 分｜💬 1 留言｜👤 lukas9
+
+### 21. [Show HN: Earth Game – An offline CLI for turning life goals into quests](https://github.com/skorotkiewicz/earth-game)
+
+- ⭐ 4 分｜💬 0 留言｜👤 modinfo
+
+### 22. [UPI: Anatomy of a Payment Transaction](https://timeseriesofindia.com/economy/reads/upi-architecture/)
+
+- ⭐ 7 分｜💬 0 留言｜👤 prtk25
+
+### 23. [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
+
+- ⭐ 76 分｜💬 37 留言｜👤 zetalyrae
+
+### 24. [Book: RISC-V 系統-on-Chip Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
+
+- ⭐ 73 分｜💬 29 留言｜👤 xlmnxp
+
+### 25. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
 
 https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;Apple-sues-OpenAI&#x2F;
 
-- ⭐ 1206 分｜💬 634 留言｜👤 stock_toaster
+- ⭐ 1462 分｜💬 815 留言｜👤 stock_toaster
 
-### 8. [The mask that compiles to nothing: how HotSpots JIT learned to reason about bits](https://questdb.com/blog/jvm-jit-known-bits/)
+### 26. [Earendel (Astronomical Object)](https://en.wikipedia.org/wiki/Earendel_(astronomical_object))
 
-- ⭐ 33 分｜💬 0 留言｜👤 rowbin
+- ⭐ 19 分｜💬 2 留言｜👤 brainlessdev
 
-### 9. [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
+### 27. [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
 
-- ⭐ 126 分｜💬 35 留言｜👤 surprisetalk
+- ⭐ 26 分｜💬 2 留言｜👤 achairapart
 
-### 10. [An 更新 on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
+### 28. [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
 
-- ⭐ 232 分｜💬 239 留言｜👤 chmaynard
+- ⭐ 78 分｜💬 1 留言｜👤 poupeaua
 
-### 11. [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
+### 29. [The Victorian War on Rabies](https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies)
 
-- ⭐ 216 分｜💬 708 留言｜👤 CrankyBear
+- ⭐ 15 分｜💬 15 留言｜👤 benbreen
 
-### 12. [Show HN: HTMLDrive – serve HTML files from your Google Drive](https://html-drive.com)
+### 30. [Tropical forests facing increasing risks of exposure to critical temp thresholds](https://www.pnas.org/doi/10.1073/pnas.2528622123)
 
-I found that AI tools are generating excellent HTML documents nowadays, yet there&#x27;s no easy way to show them to others. Yes, there&#x27;s GitHub pages - but I don&#x27;t know if it is user-friend
-
-- ⭐ 9 分｜💬 8 留言｜👤 debamitro
-
-### 13. [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-
-- ⭐ 137 分｜💬 46 留言｜👤 mvdtnz
-
-### 14. [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
-
-- ⭐ 478 分｜💬 217 留言｜👤 theanonymousone
-
-### 15. [AI 2040: Plan A](https://ai-2040.com/)
-
-- ⭐ 302 分｜💬 316 留言｜👤 kschaul
-
-### 16. [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)
-
-- ⭐ 385 分｜💬 266 留言｜👤 dmonay
-
-### 17. [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
-
-- ⭐ 228 分｜💬 78 留言｜👤 markus_zhang
-
-### 18. [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech)
-
-- ⭐ 69 分｜💬 14 留言｜👤 chrwn
-
-### 19. [Combustion engine 網頁-based simulator](https://combustionlab.net)
-
-- ⭐ 188 分｜💬 68 留言｜👤 mytuny
-
-### 20. [Alternate clock designs and time systems](https://serialc.github.io/altClocks/)
-
-- ⭐ 165 分｜💬 85 留言｜👤 ethanpil
-
-### 21. [After 7 years in production, Scarf has reluctantly moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
-
-- ⭐ 165 分｜💬 200 留言｜👤 aviaviavi
-
-### 22. [推論 Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
-
-- ⭐ 93 分｜💬 37 留言｜👤 theanonymousone
-
-### 23. [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
-
-https:&#x2F;&#x2F;x.com&#x2F;__eknight__&#x2F;status&#x2F;2075643450196971805, https:&#x2F;&#x2F;xcancel.com&#x2F;__eknight__&#x2F;status&#x2F;2075643450196971805Prompt: https:&#x2F;&#x2F;cdn.OpenAI.c
-
-- ⭐ 477 分｜💬 387 留言｜👤 scrlk
-
-### 24. [Snails' teeth beats spider silk as nature's strongest material (2015)](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
-
-- ⭐ 206 分｜💬 155 留言｜👤 simonebrunozzi
-
-### 25. [新 York City to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
-
-https:&#x2F;&#x2F;www.nyc.gov&#x2F;mayors-office&#x2F;news&#x2F;2026&#x2F;07&#x2F;mayor-mamdani...
-
-- ⭐ 557 分｜💬 274 留言｜👤 randycupertino
-
-### 26. [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
-
-A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and 安全 I was getting from this 大型語言模型 are similar to those I&#x27;ve gotten from models like C
-
-- ⭐ 867 分｜💬 215 留言｜👤 vforno
-
-### 27. [A love letter to flashcards](https://lesleylai.info/en/flashcards/)
-
-- ⭐ 163 分｜💬 98 留言｜👤 surprisetalk
-
-### 28. [Computation as a universal and fundamental concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
-
-- ⭐ 142 分｜💬 104 留言｜👤 simonpure
-
-### 29. [Moss (YC F25) Is 招聘](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
-
-- ⭐ 1 分｜💬 0 留言｜👤 srimalireddi
-
-### 30. [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
-
-- ⭐ 170 分｜💬 68 留言｜👤 NaOH
+- ⭐ 44 分｜💬 13 留言｜👤 littlexsparkee
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Preemption is GC for memory reordering (2019)
-- Successful companies go blind
+- An 更新 on residential proxies and the scraper situation
+- Ghost Font: A font that humans can read but AI cannot
+- Ask HN: 為什麼 isn't Google indexing information about the AT Protocol?
+- The Oral History of the Dinosaur Input Device (DID)
+- SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth
+- Show HN: Reame – a CPU 推論 伺服器 that gets faster as it runs
+- An iroh powered smart fan
+- FCC approves 測試 of space mirror to light night sky
+- The mask that compiles to nothing: how HotSpots JIT learned to reason about bits
+- Good Tools Are Invisible
+- AI 2040: Plan A
+- 為什麼 it's so difficult to produce American-made medical gloves
+- Reimplementing pf as an eBPF/XDP dataplane on Linux
+- Late Bronze Age Collapse
+- The tech of 'Terminator 2' – an oral history (2017)
+- After 7 years in production, Scarf has reluctantly moved away from Haskell
+- Silent speech with ultrasound
+- Your 代碼 is fast – if you're lucky
+- The vintage beauty of Soviet control rooms (2018)
+- Snails' teeth beats spider silk as nature's strongest material (2015)
+- Combustion engine 網頁-based simulator
+- Show HN: Getting GLM 5.2 running on my slow computer
+- Alternate clock designs and time systems
+- 推論 Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit
+- A love letter to flashcards
+- 新 York City to ban deceptive subscription practices
+- Computation as a universal and fundamental concept
+- GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]
+- Laguna XS 2.1 33B on a RTX 3090: 296 tok/s peak, 152 tok/s at 256K context
 - Show HN: 18 Words
+- The Earth Is Coated in Supernova Dust
+- War Atlas: An interactive cartography of every named war in human history
+- Successful companies go blind
+- How Container Networking Works: Building a Bridge 網絡 from Scratch
 - GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years
-- FCC Approves 測試 of Space Mirror to Light Night Sky Despite Outcry
-- Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine
-- Lost city discovered beneath Egypt's desert with ancient church
-- Documentation is still in your Mum's filing cabinet
-- Punk, or 為什麼 I don't stream anymore
-- Ask HN: Are systems ready for the first negative leap second?
-- The mathematical secrets of Barcelona's Sagrada Familia
+- Theories of Deep Learning
 - GPT-5.6
-- Show HN: Reverse-engineering 網頁 apps into 代理 tools
-- Show HN: Frugon – Find which 大型語言模型 calls a cheaper 模型 could handle (local, MIT)
+- Punk, or 為什麼 I don't stream anymore
 - EU Parliament greenlights Chat Control 1.0
-- The footgun of right-to-left decorative characters
-- The Lindy effect in 軟體
-- Almost $1B Later, the US Still Can't Make a Medical Glove
-- Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future
-- How the terrorist group Boko Haram uses frontier AI
-- Ofcom Wants American Police to Collect Its Speech Fine
+- Google deleting all recently inactive accounts without phone number
+- Preemption is GC for memory reordering (2019)
+- The mathematical secrets of Barcelona's Sagrada Familia
+- Reject Modernity, Return To 80s, Learn C
 - Microsoft latest report shows 25% emissions raised due to AI data centers
-- Show HN: Reviving my 2001 college band with AI
-- El Niño Is Wreaking Havoc on Pacific Fisheries
-- The Clouds of Hiroshima
-- Show HN: Dotenv-Diff v3.0.0
-- Train sim created by just one person is being called the 最佳 ever made
+- Show HN: Reverse-engineering 網頁 apps into 代理 tools
+- Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine
+- Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future
+- Ask HN: Are systems ready for the first negative leap second?
+- Germany's richest man takes on Big Tech
+- AI Found a Root Bug in Linux That Everyone Missed for 15 Years
+- Show HN: Frugon – Find which 大型語言模型 calls a cheaper 模型 could handle (local, MIT)
+- Lost city discovered beneath Egypt's desert with ancient church
+- Microsoft admits Windows 11 has a GDID tracker with no off switch
+- Networking and the Internet, from First Principles
+- Microgravity as neurocognitive catalyst for altered consciousness experiences
 - John Deere owners will get the right to repair equipment under FTC settlement
+- LisaFPGA: The Apple Lisa computer implemented inside an FPGA
+- Documentation is still in your Mum's filing cabinet
+- Train sim created by just one person is being called the 最佳 ever made
+- How the terrorist group Boko Haram uses frontier AI
+- The footgun of right-to-left decorative characters
 - Ditching Vagrant: VMs with KVM and Virsh on Debian
+- Show HN: Reviving my 2001 college band with AI
+- Cpp2Rust: Translates C++ to safe Rust automatically
 - The Annotated JEPA
 - In Emacs, everything looks like a service
-- Cpp2Rust: Translates C++ to safe Rust automatically
-- Companies are scrambling to curtail soaring AI costs
-- Hands-On with the AMD Ryzen AI Halo
-- China recovered its first reusable rocket and showed a 新 way to do it
-- Gary Kildall's Death Investigation
-- Show HN: Abralo – Free, easy way to run several Claude 代碼 agents in one window
-- Launch HN: Context.dev (YC S26) – API to get structured data from any website
-- Building a real-time AI tutor for 5-year-olds
+- The Clouds of Hiroshima
+- The Lindy effect in 軟體
+- Show HN: Dotenv-Diff v3.0.0
 - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
-- AI-generated videos to maximally drive a target brain region
-- EU Commission: addictive design Instagram and Facebook in breach of the DSA
-- TLS certificates for internal services done right
-- A font that humans can read but AI cannot
-- Postgres locks do not scale
-- Ryanair passenger sucked toward broken window after midair engine failure
-- Show HN: SubjectiveZero, an open-source agentic node editor for creative coding
-- Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support
-- Show HN: Runloom – Go-style coroutines for Python free-threaded
-- Prismata: Confining cross-site prompt injection in 網頁 agents
-- Parental device use and the adolescent-caregiver attachment bond
-- 為什麼 American ambulance rides are so expensive
-- Pirate Site Blocking Is Legally Impossible in Bulgaria, Supreme Court Ruled
-- Hy3
-- Interview with Mitchell Hashimoto about Ghostty and Zig
-- SimPolitics: America’s quest to solve politics with computers
-- Please don't discontinue Gemini 2.5 Flash
-- Decoding the obfuscated bash script on a Uniqlo t-shirt
-- Ask HN: How do you use Vim in the era of AI?
-- Buried Apple feature turns an iPhone into the perfect kids' dumb phone
-- Meta reuses old RAM in 新 servers with custom bridge chip
-- I Built the Only 2026 WWII Jeep
-- Zeal 8-Bit Computer
-- Opinionated and easy Pi.dev configuration
-- What's slowing down the AI buildout
-- How RCA Victor sold Sound Service to classrooms in 1939
-- The glass backbone: 為什麼 the Army's logistics will break in the next war
-- My Story of 3D Realms / Apogee Part I (2020)
-- Life with Hazard Ratios
-- AI content is everywhere on social media, especially LinkedIn
 
 
 ---
