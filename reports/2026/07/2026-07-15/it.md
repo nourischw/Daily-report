@@ -4,200 +4,205 @@
 
 ---
 
-### 1. [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
+### 1. [Murati's Thinking Machines Releases Open-Weights 975B Parameter 大型語言模型](https://thinkingmachines.ai/inkling/)
 
-- ⭐ 153 分｜💬 59 留言｜👤 bilsbie
+- ⭐ 67 分｜💬 12 留言｜👤 htrp
 
-### 2. [Prioritize mental health, and 為什麼 communication is so important](https://ramones.dev/posts/mental-health/)
+### 2. [Codex Micro](https://openai.com/supply/co-lab/work-louder/)
 
-- ⭐ 46 分｜💬 16 留言｜👤 ramon156
+- ⭐ 143 分｜💬 121 留言｜👤 davidbarker
 
-### 3. [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
+### 3. [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/)
 
-- ⭐ 615 分｜💬 149 留言｜👤 vinhnx
+- ⭐ 134 分｜💬 69 留言｜👤 neomindryan
 
-### 4. [DSLs Enable Reliable Use of LLMs](https://martinfowler.com/articles/llm-and-dsls.html)
+### 4. [Inkling: Our Open-Weights 模型](https://thinkingmachines.ai/news/introducing-inkling/)
 
-- ⭐ 53 分｜💬 24 留言｜👤 SirOibaf
+- ⭐ 41 分｜💬 7 留言｜👤 vimarsh6739
 
-### 5. [Weathergotchi – an open-source climate Tamagotchi](https://github.com/Michael-Manning/E-Paper-Climate-Logger)
+### 5. [Stripe, Advent offer to buy PayPal for more than $53B](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
 
-- ⭐ 27 分｜💬 11 留言｜👤 luanmuniz
+- ⭐ 100 分｜💬 52 留言｜👤 rvz
 
-### 6. [Telegram Serverless](https://core.telegram.org/bots/serverless)
+### 6. [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
 
-- ⭐ 44 分｜💬 29 留言｜👤 soheilpro
+- ⭐ 186 分｜💬 66 留言｜👤 theanonymousone
 
-### 7. [Show HN: For 10 World Cups, my 模型's 2 favorites had the champion every time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338)
+### 7. [Collection of Digital Clock Designs](https://clocks.dev)
 
-- ⭐ 20 分｜💬 24 留言｜👤 fabioricardo7
+- ⭐ 53 分｜💬 15 留言｜👤 levmiseri
 
-### 8. [Societal Impacts: Claude's values across models and languages](https://www.anthropic.com/research/claude-values-models-languages)
+### 8. [Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)](https://github.com/welcome-to-the-sunny-side/misa77)
 
-- ⭐ 21 分｜💬 13 留言｜👤 taubek
+I&#x27;ve spent the last few months working on this codec.It has the following characteristics:  - SOTA decompression throughput in its ratio class
+  - Decent ratios (comparable to LZ4 at high effort 
 
-### 9. [Jiga (YC W21) is 招聘 the 最佳 people to make manufacturing great again](https://jiga.io/about-us/)
+- ⭐ 73 分｜💬 24 留言｜👤 nonadhocproblem
 
-- ⭐ 1 分｜💬 0 留言｜👤 grmmph
+### 9. [I Left Google DeepMind](https://turntrout.com/why-i-left-google-deepmind)
 
-### 10. [A Trip to 90s Kansai: Exploring the XD FirstClass 網絡 BBS](https://cdrom.ca/games/2026/05/30/xd.html)
+- ⭐ 7 分｜💬 1 留言｜👤 apsec112
 
-- ⭐ 24 分｜💬 0 留言｜👤 zetamax
+### 10. [Artie (YC S23) Is 招聘 軟體 Engineers](https://jobs.ashbyhq.com/artie)
 
-### 11. [Bonsai 27B: A 27B-Class 模型 that runs on a phone](https://prismml.com/news/bonsai-27b)
+- ⭐ 1 分｜💬 0 留言｜👤 tang8330
 
-- ⭐ 645 分｜💬 227 留言｜👤 xenova
+### 11. [Launch HN: Coasty (YC S26) – An API for computer-use agents](https://coasty.ai/docs)
 
-### 12. [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
+Hey HN, we’re Nitish and Prateek, the founders of Coasty (https:&#x2F;&#x2F;coasty.AI&#x2F;computer-use). We’re building computer-use agents that can complete workflows inside legacy desktop 軟體 
 
-- ⭐ 313 分｜💬 125 留言｜👤 LookAtThatBacon
+- ⭐ 22 分｜💬 0 留言｜👤 nkov47
 
-### 13. [Latent Space as a 新 Medium](https://kevinkelly.substack.com/p/latent-space-as-a-new-medium)
+### 12. [My midlife crisis Corolla is fast, furious, and modded](https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/)
 
-- ⭐ 16 分｜💬 1 留言｜👤 thm
+- ⭐ 88 分｜💬 178 留言｜👤 gmays
 
-### 14. [Neverclick: Desktop 應用 for performing mouse actions with your keyboard](https://github.com/LazoVelko/neverclick)
+### 13. [Towards a Harness That Can Do Anything](https://eardatasci.github.io/c/ambiance/index.html)
 
-- ⭐ 31 分｜💬 33 留言｜👤 thunderbong
+- ⭐ 106 分｜💬 60 留言｜👤 evakhoury
 
-### 15. [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
+### 14. [Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 
-- ⭐ 183 分｜💬 105 留言｜👤 jervant
+- ⭐ 571 分｜💬 280 留言｜👤 bilsbie
 
-### 16. [Using Go for 行動 Apps](https://www.davidsobsessions.com/p/one-year-of-gomobile/)
+### 15. [Open-source memory for coding agents, synced over SSH](https://github.com/vshulcz/deja-vu/)
 
-- ⭐ 12 分｜💬 1 留言｜👤 theHocineSaad
+- ⭐ 58 分｜💬 15 留言｜👤 vshulcz
 
-### 17. [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
+### 16. [Editing React components that never rendered](https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered)
 
-- ⭐ 508 分｜💬 235 留言｜👤 cdrnsf
+- ⭐ 8 分｜💬 1 留言｜👤 linb
 
-### 18. [Who's running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/)
+### 17. [What designing 54 computer science cards taught me about graphic design](https://fhoehl.com/designing-algodeck)
 
-- ⭐ 56 分｜💬 7 留言｜👤 enz
+- ⭐ 21 分｜💬 7 留言｜👤 marukodo
 
-### 19. [Combinatorial Games in Lean](https://github.com/vihdzp/combinatorial-games)
+### 18. [Prioritize mental health, and 為什麼 communication is so important](https://ramones.dev/posts/mental-health/)
 
-- ⭐ 24 分｜💬 3 留言｜👤 wertyk
+- ⭐ 208 分｜💬 135 留言｜👤 ramon156
 
-### 20. [SpaceX bond worth 10% less than issue price – heading for junk bond status](https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541)
+### 19. [Unsolved Problems in MLOps](https://spawn-queue.acm.org/doi/pdf/10.1145/3762989)
 
-- ⭐ 12 分｜💬 3 留言｜👤 youngtaff
+- ⭐ 22 分｜💬 3 留言｜👤 gnyeki
 
-### 21. [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
+### 20. [The Memory Heist](https://www.ayush.digital/blog/the-memory-heist)
 
-- ⭐ 286 分｜💬 87 留言｜👤 gnabgib
+- ⭐ 49 分｜💬 3 留言｜👤 eieio
 
-### 22. [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
+### 21. [A General Goal-Conditioned Minecraft 模型](https://pantograph.com/journal/pan-1)
 
-- ⭐ 195 分｜💬 124 留言｜👤 woodruffw
+- ⭐ 24 分｜💬 9 留言｜👤 agajews
 
-### 23. [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+### 22. [OpenAI loses trademark dispute at EU court](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/)
 
-- ⭐ 409 分｜💬 191 留言｜👤 Synthetic7346
+- ⭐ 151 分｜💬 106 留言｜👤 hermanzegerman
 
-### 24. [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
+### 23. [The Three-Second Theft: 為什麼 AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
-- ⭐ 459 分｜💬 216 留言｜👤 macleginn
+- ⭐ 134 分｜💬 170 留言｜👤 dxs
 
-### 25. [如何 stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
+### 24. [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
 
-- ⭐ 566 分｜💬 581 留言｜👤 shintoist
+- ⭐ 35 分｜💬 2 留言｜👤 birdculture
 
-### 26. [Filmgrab: Films A-Z](https://film-grab.com/movies-a-z/)
+### 25. [The well-calibrated Bayesian [pdf] (1982)](https://fitelson.org/seminar/dawid.pdf)
 
-- ⭐ 5 分｜💬 4 留言｜👤 hopelessluca
+- ⭐ 39 分｜💬 14 留言｜👤 Murfalo
 
-### 27. [Microsoft has 發布 軟體 updates to plug at least 570 安全 holes](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
+### 26. [The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game](https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game)
 
-- ⭐ 161 分｜💬 101 留言｜👤 robin_reala
+- ⭐ 71 分｜💬 13 留言｜👤 bryanmikaelian
 
-### 28. [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
+### 27. [Weathergotchi – an open-source climate Tamagotchi](https://github.com/Michael-Manning/E-Paper-Climate-Logger)
 
-- ⭐ 316 分｜💬 411 留言｜👤 speckx
+- ⭐ 98 分｜💬 22 留言｜👤 luanmuniz
 
-### 29. [Andon (manufacturing)](https://en.wikipedia.org/wiki/Andon_(manufacturing))
+### 28. [FreeBSD 16 Retires the Last of Its GPL 代碼 from Its Base 系統](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free)
 
-- ⭐ 63 分｜💬 24 留言｜👤 tony
+- ⭐ 60 分｜💬 8 留言｜👤 lr0
 
-### 30. [The kids with phones are alright](https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/)
+### 29. [What Every Python 開發者 Should Know About the CPython ABI](https://labs.quansight.org/blog/python-abi-abi3t)
 
-- ⭐ 233 分｜💬 307 留言｜👤 JumpCrisscross
+- ⭐ 38 分｜💬 4 留言｜👤 matt_d
+
+### 30. [DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety](https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public)
+
+- ⭐ 70 分｜💬 137 留言｜👤 gnabgib
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- RISC-V Is Inevitable: State of the Union Keynote Argues
-- Show HN: Make senders work to get into your inbox
-- The largest available Minecraft world, totalling 15 TB
-- Show HN: 網頁 App Uses RTL-SDR to Align HDTV Antenna
+- Jurassic Park computers in excruciating detail
+- SpaceX bond worth 10% less than issue price – heading for junk bond status
+- Show HN: Painterly – Turn pictures into digital paintings without generative AI
+- The Great Automatic Grammatizator (1954) [pdf]
+- Briar Is in Maintenance Mode
+- What's the most popular number in Hacker News titles?
+- Germany maybe found a 新 source of renewable energy
+- Show HN: 18KB ls alternative in no_std rust and Libc
+- Bootstrapping GDC with DMD
+- Nat Slipstreaming v2.0 allows an attacker to remotely access any TCP/UDP service
+- Using Go for 行動 Apps
+- Richard Feynman and the Connection Machine (1989)
+- C3 0.8.2 a Modest Improvement
+- SendLang: A DSL for Email Automation
+- Latent Space as a 新 Medium
+- Telegram Serverless
+- Museum of the Human 網頁
+- A Trip to 90s Kansai: Exploring the XD FirstClass 網絡 BBS
+- Ask HN: Is it just me, or is 軟體 buggier across the board?
+- Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled
+- The age of the Universe from a large sample of the oldest Galactic stars
+- Microsoft has 發布 軟體 updates to plug at least 570 安全 holes
+- The OpenAI Bubble
+- SpaceX stock sinks below $135 IPO price for the first time
+- Who's running all those tiny RPKI servers?
+- The kids with phones are alright
+- Treating generic drugs as something special can wreck affordability
+- Bonsai 27B: A 27B-Class 模型 that runs on a phone
+- Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents
+- Microsoft Entra ID Will Retire SMS and Voice Authentication
+- CVE-2026-59208: Cross-Issuer Account Takeover in n8n
+- I tricked Claude into leaking your deepest, darkest secrets
+- Andon (manufacturing)
+- Vancouver PD website features Quick Escape button that wipes itself from history
+- Ask HN: Does it still make sense to write 代碼 by hand?
+- German Court Orders Deletion of Footage Exposing Pig Gas Chambers
 - LeMario: 訓練 a JEPA World 模型 on Super Mario Bros
-- Surprising lessons from my research scientist 工作 search
-- Mathematical texts from a Maya site in Guatemala identify an ancient astronomer
+- OnePlus to Pull Out of American and European Markets
 - The bread paradox: 為什麼 convenience always wins, and 為什麼 SaaS isn't doomed
-- Soofi: Complete 訓練 代碼 for an open-source foundation 模型
+- AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education
 - Launch HN: Agnost AI (YC S26) – Extract user feedback from 代理 conversations
-- Toronto now has the worst air quality in the world among major cities
-- Probably check on your smart appliances
-- Boss – Dependency 經理 for Delphi and Lazarus
-- The Estranged Worlds of J. G. Ballard
-- Show HN: Juggler – an open-source GUI coding 代理, by the creator of JUCE
 - Your 'app' could have been a webpage (so I fixed it for you)
-- Are we offloading too much of our thinking to AI?
-- OpenBAO: Manage, store, and distribute sensitive data
-- Midnight social media curfew, infinite scrolling limits proposed for older teens
-- Punch yourself in the face with reality
+- Boss – Dependency 經理 for Delphi and Lazarus
+- Hire for Agency
+- Combinatorial Games in Lean
+- Mathematical texts from a Maya site in Guatemala identify an ancient astronomer
+- DSLs Enable Reliable Use of LLMs
+- We compiled our TypeScript parser to WASM
+- TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access
+- Suno hacked, leak reveals scraping data
+- Probably check on your smart appliances
+- Show HN: Leet Robotics: Learn robotics and ROS2 with hands-on courses
 - Australian energy retailers must offer three hours of free daytime electricity
+- The Tower Keeps Rising
+- Surprising lessons from my research scientist 工作 search
+- Are we offloading too much of our thinking to AI?
+- The Estranged Worlds of J. G. Ballard
+- Punch yourself in the face with reality
+- Ignoring OS files (like .DS_Store) in Git inside dev containers
+- How I Turned AI to the Dark Side
+- Cursor 0day: When Full Disclosure Becomes the Only Protection Left
+- Kilo 代碼 has been acquired by Anaconda
 - European "age verification" "app" forcing everyone to use Android or iOS
-- Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel
-- Guardian Angels: 大型語言模型 Personalization for Productivity and 安全
-- Show HN: Opening lines of famous literary works
-- Demis Hassabis has a plan to harness AI safely
-- An unusual way for your DHCP 伺服器 to run out of dynamic IPs
-- Agnes Callard’s theory of the uni-context
-- The Second Life of Sanskrit
-- The Agentic Loop: Three loops in a trench coat
-- Unlocking the PSP's Dual Core Setup
-- The zero-cost fallacy: open-source 軟體 in the agentic era
-- Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK
-- Satellite Tracker – Live Map of Starlink and 30k Satellites
-- Indian scientists produce most detailed 3D atlas of the human brainstem
-- Alternative(s) to run CUDA on non-NVIDIA 硬體
-- Our Amish Language
-- How the FSF sysadmins block botnets with reaction
-- ArsDigita University: 25 Years Later
-- The Trade in Looted Antiquities Endures for One Reason: Demand
-- What's in America's 代碼
-- I also filed the corners off my MacBook
-- German startup offers solar awnings
-- What to know about 'explosive diarrhoea' parasite outbreak in US
-- Show HN: Beautiful Type Erasure with C++26 Reflection
-- Nokia’s years of 行動-phone supremacy ended in an afternoon
-- What did SFFA vs. Harvard reveal about admissions?
-- The infinite scroll may become endangered if controversial Calif. law passes
-- The Phenomenon of 'Terminal Lucidity'
-- Cyber Resilience Act
-- C++20 Improved the For-Loop Syntax
-- No Spanish reading crisis?
-- We Demand Perfect Machines yet Tolerate Human Carnage
-- Fundamentals of Wireless Communication (2005)
-- Ambient Website Background Clouds
-- Superoptimizer – A Look at the Smallest Program (1987) [pdf]
-- Ask HN: What Are You Working On? (July 2026)
-- UEFI shims undermining Secure Boot
-- StubHub, CEO hit with ‘deceptive practices’ class action over mass scalping
-- Show HN: I RL-trained an 代理 that trains models with RL (for ~$1.3k)
-- Coding agents think ahead of time
-- Accretive Editing
-- YouTrackDB is a general-use object-oriented graph 資料庫
-- A metallurgist's doubts about self-replicating probes
-- 如何 構建 a circular LCD clock
-- Just Let Me Write Digits
-- Show HN: Flashbang – DuckDuckGo bangs resolved locally with a Service Worker
-- Financing the AI boom: from cash flows to debt [pdf]
-- My Custom Life OS 軟體
-- The Economics of Recursive Self-Improvement [pdf]
+- The form asked my permission to share my health data. It wouldn't let me say no
+- Show HN: 網頁 App Uses RTL-SDR to Align HDTV Antenna
+- Making My Rust Program Space-Flight Ready
+- Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI
+- 如何 stop Claude from saying load-bearing
+- When A.I. Is a Member of the Family
+- Dependabot version updates introduce default package cooldown
 
 
 ---
