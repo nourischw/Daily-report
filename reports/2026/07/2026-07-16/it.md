@@ -4,200 +4,207 @@
 
 ---
 
-### 1. [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
+### 1. [Kimi K3 is now live](https://www.kimi.com/en)
 
-- ⭐ 192 分｜💬 104 留言｜👤 pilililo2
+- ⭐ 555 分｜💬 281 留言｜👤 vincent_s
 
-### 2. [Let's 構建 PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
+### 2. [Microsoft Comic Chat is now 開源](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 
-- ⭐ 31 分｜💬 6 留言｜👤 onatm
+- ⭐ 235 分｜💬 66 留言｜👤 jervant
 
-### 3. [SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)
+### 3. [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
 
-- ⭐ 130 分｜💬 57 留言｜👤 1vuio0pswjnm7
+- ⭐ 142 分｜💬 50 留言｜👤 ray__
 
-### 4. [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+### 4. [Detecting 大型語言模型-Generated Texts with “Classical” 機器學習](https://blog.lyc8503.net/en/post/llm-classifier/)
 
-- ⭐ 487 分｜💬 304 留言｜👤 mcgin
+- ⭐ 69 分｜💬 35 留言｜👤 uneven9434
 
-### 5. [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
+### 5. [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
 
-- ⭐ 134 分｜💬 54 留言｜👤 ohong
+- ⭐ 83 分｜💬 57 留言｜👤 xnx
 
-### 6. [Ente – Opening Our Books](https://ente.com/open/)
+### 6. [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
 
-- ⭐ 49 分｜💬 8 留言｜👤 Sherex
+- ⭐ 443 分｜💬 244 留言｜👤 pilililo2
 
-### 7. [Inkling: Our Open-Weights 模型](https://thinkingmachines.ai/news/introducing-inkling/)
+### 7. [Immersive Linear Algebra Book with Interactive Figures](https://immersivemath.com/ila/)
 
-- ⭐ 1072 分｜💬 263 留言｜👤 vimarsh6739
+- ⭐ 60 分｜💬 7 留言｜👤 srean
 
-### 8. [A Beautiful Theory Falls to Ugly Data](https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html)
+### 8. [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
 
-- ⭐ 47 分｜💬 26 留言｜👤 paulpauper
+- ⭐ 114 分｜💬 54 留言｜👤 yabones
 
-### 9. [The Act and the Outcome of Creation](https://www.ssp.sh/blog/on-creation/)
+### 9. [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
 
-- ⭐ 12 分｜💬 0 留言｜👤 zazuke
+- ⭐ 701 分｜💬 466 留言｜👤 mcgin
 
-### 10. [British Steel taken into public ownership to protect 'vital' UK supply](https://www.bbc.com/news/articles/c5y680w62wno)
+### 10. [Adaptional (YC S25) Is 招聘](https://www.ycombinator.com/companies/adaptional/jobs)
 
-- ⭐ 60 分｜💬 66 留言｜👤 clarionbell
+- ⭐ 1 分｜💬 0 留言｜👤 acesohc
 
-### 11. [The 大型語言模型 Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
+### 11. [How Our Rust-to-Zig Rewrite Is Going](https://rtfeldman.com/rust-to-zig)
 
-- ⭐ 64 分｜💬 70 留言｜👤 JeremyTheo
+- ⭐ 268 分｜💬 142 留言｜👤 jorangreef
 
-### 12. [Track your workout from the iPhone Lock Screen](https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/)
+### 12. [Launch HN: Traceforce (YC S26) – Company-wide 安全 monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
 
-- ⭐ 11 分｜💬 11 留言｜👤 badgag
+Hey HN, we’re Xia and Varun, the founders of Traceforce (https:&#x2F;&#x2F;www.traceforce.AI&#x2F;). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all
 
-### 13. [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/)
+- ⭐ 15 分｜💬 6 留言｜👤 XiaHua
 
-- ⭐ 115 分｜💬 47 留言｜👤 speckx
+### 13. [如何 Train a Gen AI Kick Drum 模型 on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 
-### 14. [1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored](https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html)
+- ⭐ 46 分｜💬 31 留言｜👤 zhinit
 
-- ⭐ 149 分｜💬 26 留言｜👤 gslin
+### 14. [Show HN: Leaves – A text-UI disk usage treemap visualizer](https://github.com/patonw/leaves)
 
-### 15. [Panel meter calculator with floating point](https://lcamtuf.substack.com/p/panel-meter-calculator-with-floating)
+GUI disk analyzers are great for figuring out what&#x27;s filling up your laptop&#x2F;desktop drive.On containers or 遠端 servers, the options are limited to purely text based
+utilities (e.g. du) or
 
-- ⭐ 10 分｜💬 0 留言｜👤 surprisetalk
+- ⭐ 29 分｜💬 8 留言｜👤 patonw
 
-### 16. [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
+### 15. [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html)
 
-- ⭐ 183 分｜💬 86 留言｜👤 treve
+- ⭐ 62 分｜💬 56 留言｜👤 root-parent
 
-### 17. [Let's 構建 a simple interpreter for APL – part 1](https://mathspp.com/blog/lsbasi-apl-part1)
+### 16. [Guide to data tools landscape for developers](https://sinja.io/blog/data-landscape-guide-for-developers)
 
-- ⭐ 16 分｜💬 0 留言｜👤 mpweiher
+- ⭐ 59 分｜💬 16 留言｜👤 OlegWock
 
-### 18. [Grok 構建 is 開源](https://github.com/xai-org/grok-build)
+### 17. [Sony deletes more movies from the accounts of people who ‘bought’ them](https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/)
 
-- ⭐ 503 分｜💬 548 留言｜👤 skp1995
+- ⭐ 416 分｜💬 261 留言｜👤 nekusar
 
-### 19. [Governments, companies, nonprofits should invest in free, 開源 AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+### 18. [Cottage Computer 程式設計 (1984)](https://www.atariarchives.org/deli/cottage_computer_programming.php)
 
-- ⭐ 239 分｜💬 83 留言｜👤 bilsbie
+- ⭐ 16 分｜💬 2 留言｜👤 lioeters
 
-### 20. [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
+### 19. [Let's 構建 PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
 
-- ⭐ 467 分｜💬 273 留言｜👤 rvz
+- ⭐ 114 分｜💬 16 留言｜👤 onatm
 
-### 21. [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
+### 20. [Ente – Opening Our Books](https://ente.com/open/)
 
-- ⭐ 308 分｜💬 140 留言｜👤 gnyeki
+- ⭐ 178 分｜💬 65 留言｜👤 Sherex
 
-### 22. [Reynard: A real Firefox 網頁 browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
+### 21. [SPCX is now Wall Street's most shorted 新 stock](https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/)
 
-- ⭐ 92 分｜💬 27 留言｜👤 AbuAssar
+- ⭐ 40 分｜💬 38 留言｜👤 lbrito
 
-### 23. [I also filed the corners off my MacBook](https://www.brt.fyi/posts/mac-book-filing/)
+### 22. [GC shape stenciling in Go generics](https://rednafi.com/go/gc-shape-stenciling/)
 
-- ⭐ 249 分｜💬 137 留言｜👤 maxbrt
+- ⭐ 33 分｜💬 6 留言｜👤 ingve
 
-### 24. [Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark)
+### 23. [Optimizing Lua string literals to save 400 bytes](https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/)
 
-- ⭐ 132 分｜💬 83 留言｜👤 chaosharmonic
+- ⭐ 4 分｜💬 0 留言｜👤 ibobev
 
-### 25. [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1)
+### 24. [代理-talk: Enabling coding agents to work together](https://github.com/xhluca/agent-talk)
 
-- ⭐ 111 分｜💬 37 留言｜👤 hisamafahri
+- ⭐ 18 分｜💬 7 留言｜👤 xhluca
 
-### 26. [Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them](https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/)
+### 25. [Show HN: A modern port of Linux to a ten-year-old QWERTY phone](https://news.ycombinator.com/item?id=48936554)
 
-- ⭐ 12 分｜💬 1 留言｜👤 nekusar
+I ported modern Linux to a ten-year-old HTC QWERTY phone as a handheld terminal.I wrote it up here: https:&#x2F;&#x2F;tmzt.github.io&#x2F;blog&#x2F;a-modern-port-of-Linux-to-a-ten-...You can see the c
 
-### 27. [Umuganda](https://en.wikipedia.org/wiki/Umuganda)
+- ⭐ 22 分｜💬 3 留言｜👤 tmzt
 
-- ⭐ 18 分｜💬 0 留言｜👤 thunderbong
+### 26. [56,000 lines of DOOM, in a language I made up](https://betlang.dev/about/)
 
-### 28. [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/)
+- ⭐ 24 分｜💬 17 留言｜👤 ghuntley
 
-- ⭐ 300 分｜💬 196 留言｜👤 neomindryan
+### 27. [Schema Harness Achieves ~99% on Arc‑AGI‑3 Public](https://schema-harness.github.io/)
 
-### 29. [High-Bandwidth Flash offers efficient storage for 模型 weights](https://spectrum.ieee.org/high-bandwidth-flash)
+- ⭐ 27 分｜💬 6 留言｜👤 jasondavies
 
-- ⭐ 62 分｜💬 23 留言｜👤 Gaishan
+### 28. [1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored](https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html)
 
-### 30. [工作 queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
+- ⭐ 217 分｜💬 43 留言｜👤 gslin
 
-- ⭐ 110 分｜💬 36 留言｜👤 ingve
+### 29. [German AI consortium releases Soofi S, an open 30B 模型 that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
+
+- ⭐ 25 分｜💬 1 留言｜👤 amai
+
+### 30. [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/)
+
+- ⭐ 183 分｜💬 86 留言｜👤 speckx
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Command Line Interface Guidelines
+- Accidental Anonymity
+- Photos of items from families in different countries with different incomes
+- Show HN: Galois connections for composable numeric casts in Rust
+- Show HN: QBasic Gorillas (Repeeled)
+- Let's 構建 a simple interpreter for APL – part 1
+- Reynard: A real Firefox 網頁 browser for iOS 13 or later
+- If you want to create a button from scratch, you must first create the universe
+- We're Building Postgres in Rust. Using the LLVM of Databases
+- Track your workout from the iPhone Lock Screen
+- The Act and the Outcome of Creation
+- World-War-Ⅱ-era telephone line still in use in Upper Tanana Valley Alaska (2021)
+- Inkling: Our Open-Weights 模型
+- Helicone allows users to write SQL directly to a shared ClickHouse
+- Yann LeCun on AMI Labs, JEPA, and the AI World of 2030
+- Panel meter calculator with floating point
+- 介紹 KizunaShelf: A shelf for everything you love
+- Show HN: Algotrek – Algorithms visualized, problem shape shifting and a tutor
+- The rate at which Earth is absorbing energy is alarming climate scientists
+- 800 Canadian wildfires burning as air quality alerts extend to US
+- My Homepage Has a Pulse
+- Google Gemini Launch Delayed as Tech Falls Short of Internal Goals
+- California authorizes its DMV to join a national ID 資料庫
+- Making 768 servers look like 1
+- Bluesky Trademarks ATProto
+- I also filed the corners off my MacBook
+- 工作 queues are deceptively tricky
+- Cosmic DE's First Seven Months
+- Show HN: Sentinel – open-source QA 代理 that reads your 代碼 before it clicks
+- ArsDigita University: Five Years Later (2006)
+- Generative AI Is an Engineering Disaster
+- High-Bandwidth Flash offers efficient storage for 模型 weights
 - Launch HN: Coasty (YC S26) – An API for computer-use agents
-- Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers
-- Physicists create first room-temperature quantum material
-- Show HN: Firefox in WebAssembly
-- 大型語言模型 Networking with MikroTik
-- Duskers, the scary command line game, is getting a sequel
+- Show HN: Wallflower – A Quiet Social Reader
+- Grok 構建 is 開源
+- The 大型語言模型 Critics Are Right. I Use LLMs Anyway
+- Governments, companies, nonprofits should invest in free, 開源 AI [pdf]
 - Collection of Digital Clock Designs
-- Artie (YC S23) Is 招聘 軟體 Engineers
-- Metal-Organic Frameworks, Chemistry's 新 Miracle Materials (2018)
+- Duskers, the scary command line game, is getting a sequel
+- 大型語言模型 Networking with MikroTik
+- Stripe and Advent have made a joint offer to acquire PayPal – sources
+- Show HN: Firefox in WebAssembly
 - Voxatron
-- Netstrings (1997)
+- SQLite should have (Rust-style) editions
 - Today I Rescued 7,234 Old GIFs
-- G# – A modern .NET language with Go, Kotlin, and Swift ergonomics
-- The Tokio/Rayon Trap and 為什麼 Async/Await Fails Concurrency
+- Metal-Organic Frameworks, Chemistry's 新 Miracle Materials (2018)
+- OneCommander: Modern File 經理 for Windows 11 and 10
 - Towards a harness that can do anything
-- The Last Picture Show: A Conversation with George Lucas
+- Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever
 - Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)
-- Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)
-- Show HN: One More Letter
-- Brainless: Shadcn components that look like Claude 代碼, Codex and Grok
-- Briar is in maintenance mode
-- Agentty – A drop-in alternative to Claude-代碼, written in C++26. 11.0 MB binary
+- AI reviewers shipped secret-exfil 代碼 because a ticket said "pre-approved"
+- Self-testing AI harness finds its own bugs
+- Umuganda
+- Financial advice I can give you is to sell your car
+- The Tokio/Rayon Trap and 為什麼 Async/Await Fails Concurrency
+- Google Earth Desktop Client to Be Retired in 2027
 - Jurassic Park computers in excruciating detail
+- 如何 publish to PyPI using GitHub Actions securely
+- Uber 宣布 Acquisition Offer for Delivery Hero at $14.8B
+- The Decline of Sumptuousness in Cinema
+- Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers
+- A Beautiful Theory Falls to Ugly Data
+- Ente's business metrics are open now
+- Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)
+- What can we learn from Bun's rapid Rust rewrite with AI?
+- Briar is in maintenance mode
 - My midlife crisis Corolla is fast, furious, and modded
-- Nul Characters in Strings in SQLite
-- Dense Arena Interning: The Engine of Compiler Performance
-- Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog
-- MITS: Rockets, Calculators, and Personal Computers
-- Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes
-- Phone maker OnePlus says it won't release 新 phones in the U.S. and Europe
-- The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game
-- Telegram Serverless
-- The Memory Heist
-- Designing APIs for Agents
-- P2P local file transfer based on WebRTC
-- 11,700 Free Photos from John Margolies' Archive of Americana Architecture
-- Prioritize mental health, and 為什麼 communication is so important
-- Americans are angry about data centers. Politicians are feeling the pressure
-- OpenAI loses trademark dispute at EU court
-- Google and Epic give up fighting – third-party Android app stores are coming
-- GSAP – A robust JavaScript animation library built for professionals
-- Open-source memory for coding agents, synced over SSH
-- Show HN: E-- – A language you dial between English and Python
-- The kids with phones are alright
-- CatchCat – Pokémon Go for Cats, IRL
-- The Three-Second Theft: 為什麼 AI Voice Fraud Outruns Every Defence
-- When A.I. is a member of the family
-- Weathergotchi – an E-Paper Climate Logger
-- Microsoft has 發布 軟體 updates to plug at least 570 安全 holes
-- Show HN: Low-latency local 大型語言模型 runner via OpenJDK Panama FFM (Java 22)
-- What Every Python 開發者 Should Know About the CPython ABI
-- Codex Micro
-- The Language of Thought Is Not Natural Language
-- Unsolved Problems in MLOps
-- Bonsai 27B: A 27B-Class 模型 that runs on a phone
-- SpaceX shares slide below IPO price for first time as blistering rally unravels
-- Mysteries of Telegram Data Centers (2022)
-- The well-calibrated Bayesian [pdf] (1982)
-- Three governments agree on something the AI industry doesn't want to hear
-- Fuse – an 開源 MCP/CLI tool to speed up Claude 代碼 on C# codebases
-- GPT‑Red: Unlocking Self-Improvement for Robustness
-- Your 'app' could have been a webpage (so I fixed it for you)
-- 為什麼 do people hate the tech industry? (2023)
-- Australian energy retailers must offer three hours of free daytime electricity
-- Cybernetic Culture Research Unit Archive
-- Book prizes don't work how you think
-- Using Go for 行動 Apps
-- OpenBSD/loongson 硬體 platform retired
-- Richard Feynman and the Connection Machine (1989)
+- Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU
+- 1Password for Claude: Give Claude access without giving up your credentials
+- Learn by Building
+- Brainless: Shadcn components that look like Claude 代碼, Codex and Grok
 
 
 ---
