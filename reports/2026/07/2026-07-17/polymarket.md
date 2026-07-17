@@ -8,35 +8,35 @@
 
 **1. [新 Rihanna Album before GTA VI?](https://polymarket.com/market/new-rhianna-album-before-gta-vi-926)
 
-- 📈 概率：51%｜成交量：493.07174899999995
+- 📈 概率：51%｜成交量：634.654893
 
 **2. [新 Playboi Carti Album before GTA VI?](https://polymarket.com/market/new-playboi-carti-album-before-gta-vi-421)
 
-- 📈 概率：51%｜成交量：46.433134
+- 📈 概率：51%｜成交量：62.453134000000006
 
 **3. [Will Jesus Christ return before GTA VI?](https://polymarket.com/market/will-jesus-christ-return-before-gta-vi-665)
 
-- 📈 概率：50%｜成交量：1.1K
+- 📈 概率：50%｜成交量：1.5K
 
 **4. [Trump out as President before GTA VI?](https://polymarket.com/market/trump-out-as-president-before-gta-vi-846)
 
-- 📈 概率：51%｜成交量：516.990979
+- 📈 概率：51%｜成交量：495.4
 
 **5. [Will China invades Taiwan before GTA VI?](https://polymarket.com/market/will-china-invades-taiwan-before-gta-vi-716-644)
 
-- 📈 概率：51%｜成交量：754.7660699999999
+- 📈 概率：51%｜成交量：464.37921400000005
 
 **6. [Will bitcoin hit $1m before GTA VI?](https://polymarket.com/market/will-bitcoin-hit-1m-before-gta-vi-872-424)
 
-- 📈 概率：50%｜成交量：5.6K
+- 📈 概率：50%｜成交量：5.3K
 
 **7. [Will Harvey Weinstein be sentenced to no prison time?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-no-prison-time)
 
-- 📈 概率：96%｜成交量：76.7
+- 📈 概率：96%｜成交量：46.7
 
 **8. [Will Harvey Weinstein be sentenced to less than 5 years in prison?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-less-than-5-years-in-prison)
 
-- 📈 概率：1%｜成交量：205.95999999999998
+- 📈 概率：1%｜成交量：27.83
 
 **9. [Will Harvey Weinstein be sentenced to between 5 and 10 years in prison?](https://polymarket.com/market/will-harvey-weinstein-be-sentenced-to-between-5-and-10-years-in-prison)
 
@@ -56,19 +56,19 @@
 
 **13. [Will Spain win the 2026 FIFA World Cup?](https://polymarket.com/market/will-spain-win-the-2026-fifa-world-cup-963)
 
-- 📈 概率：58%｜成交量：1.5M
+- 📈 概率：59%｜成交量：1.3M
 
 **14. [Will Argentina win the 2026 FIFA World Cup?](https://polymarket.com/market/will-argentina-win-the-2026-fifa-world-cup-245)
 
-- 📈 概率：42%｜成交量：2.6M
+- 📈 概率：41%｜成交量：2.9M
 
 **15. [Xi Jinping out before 2027?](https://polymarket.com/market/xi-jinping-out-before-2027)
 
-- 📈 概率：5%｜成交量：4.8K
+- 📈 概率：5%｜成交量：6.2K
 
 **16. [Will Gavin Newsom win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568)
 
-- 📈 概率：20%｜成交量：35.2K
+- 📈 概率：20%｜成交量：35.9K
 
 **17. [Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653)
 
@@ -76,7 +76,7 @@
 
 **18. [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687)
 
-- 📈 概率：5%｜成交量：2.2K
+- 📈 概率：5%｜成交量：876.874502
 
 **19. [Will Josh Shapiro win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977)
 
@@ -84,7 +84,7 @@
 
 **20. [Will Wes Moore win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-wes-moore-win-the-2028-democratic-presidential-nomination-714)
 
-- 📈 概率：1%｜成交量：735.8542850000001
+- 📈 概率：1%｜成交量：638.990878
 
 _...還有 80 個市場_
 
