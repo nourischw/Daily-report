@@ -4,206 +4,204 @@
 
 ---
 
-### 1. [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
+### 1. [LG monitors silently install 軟體 through Windows 更新 without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
 
-- ⭐ 125 分｜💬 5 留言｜👤 vitaut
+- ⭐ 253 分｜💬 122 留言｜👤 baranul
 
-### 2. [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
+### 2. [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 
-- ⭐ 73 分｜💬 32 留言｜👤 parksb
+- ⭐ 450 分｜💬 45 留言｜👤 vitaut
 
-### 3. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
+### 3. [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
+
+- ⭐ 27 分｜💬 13 留言｜👤 couAUIA
+
+### 4. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 
 URL already posted: https:&#x2F;&#x2F;health.aws.Amazon.com&#x2F;health&#x2F;statusI&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.Obvs have created an urgent
 
-- ⭐ 1142 分｜💬 683 留言｜👤 nprateem
+- ⭐ 1222 分｜💬 716 留言｜👤 nprateem
 
-### 4. [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
+### 5. [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
+
+- ⭐ 40 分｜💬 8 留言｜👤 Kudos
+
+### 6. [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
+
+- ⭐ 147 分｜💬 91 留言｜👤 parksb
+
+### 7. [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
 
 Tomorrow is the 15th anniversary of the first day of the Recurse Center (https:&#x2F;&#x2F;www.recurse.com&#x2F;)My cofounders and I did YC all the way back in the Summer of 2010, with the initial ide
 
-- ⭐ 530 分｜💬 51 留言｜👤 nicholasjbs
+- ⭐ 670 分｜💬 78 留言｜👤 nicholasjbs
 
-### 5. [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
+### 8. [Qubes OS 安全 in the Public Record](https://arxiv.org/abs/2607.14587)
 
-- ⭐ 435 分｜💬 256 留言｜👤 neversaydie
+- ⭐ 33 分｜💬 4 留言｜👤 sciences44
 
-### 6. [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
+### 9. [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
-- ⭐ 208 分｜💬 67 留言｜👤 st_goliath
+- ⭐ 79 分｜💬 89 留言｜👤 secretslol
 
-### 7. [Moonstone: Modern, cross-platform Lua runtime and package 經理 written in Zig](https://moonstone.sh/)
+### 10. [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
 
-- ⭐ 47 分｜💬 13 留言｜👤 ksymph
+- ⭐ 474 分｜💬 279 留言｜👤 neversaydie
 
-### 8. [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
+### 11. [Waldi: A quiet place to write, and to be read](https://github.com/waaldev/waldi)
 
-- ⭐ 102 分｜💬 21 留言｜👤 BadChemical
+- ⭐ 25 分｜💬 11 留言｜👤 waaldev
 
-### 9. [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
+### 12. [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 
-- ⭐ 231 分｜💬 58 留言｜👤 surprisetalk
+- ⭐ 242 分｜💬 95 留言｜👤 st_goliath
 
-### 10. [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+### 13. [In-toto: A framework to secure the integrity of 軟體 supply chains](https://in-toto.io/)
 
-- ⭐ 49 分｜💬 40 留言｜👤 herbertl
+- ⭐ 48 分｜💬 5 留言｜👤 Erenay09
 
-### 11. [Porting nanochat to a TPU: what carries over from PyTorch, and what breaks](https://github.com/tucan9389/nanochat-jax/discussions/1)
+### 14. [Responsive Design Calculator](https://www.redblobgames.com/blog/2026-07-11-responsive-design-calculator/)
 
-- ⭐ 7 分｜💬 0 留言｜👤 tucan9389
+- ⭐ 5 分｜💬 0 留言｜👤 ingve
 
-### 12. [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
+### 15. [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
 
-- ⭐ 38 分｜💬 7 留言｜👤 radeeyate
+- ⭐ 155 分｜💬 53 留言｜👤 BadChemical
 
-### 13. [Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld](https://pocketjs.dev/blog/shipping-openstrike/)
+### 16. [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 
-- ⭐ 35 分｜💬 14 留言｜👤 itvision
+- ⭐ 274 分｜💬 73 留言｜👤 surprisetalk
 
-### 14. [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
+### 17. [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
 
-- ⭐ 323 分｜💬 168 留言｜👤 droidjj
+- ⭐ 361 分｜💬 191 留言｜👤 droidjj
 
-### 15. [Vāgdhenu: A Sanskrit Chanting TTS 系統](https://prathosh.in/vagdhenu/)
+### 18. [Steam Machine: Between 12k and 15k Units Sold per week](https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/)
 
-- ⭐ 139 分｜💬 30 留言｜👤 subinalex
+- ⭐ 23 分｜💬 6 留言｜👤 ekianjo
 
-### 16. [An 更新 on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)](https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/)
+### 19. [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
 
-- ⭐ 38 分｜💬 1 留言｜👤 bkardell
+- ⭐ 81 分｜💬 70 留言｜👤 herbertl
 
-### 17. [In-toto: A framework to secure the integrity of 軟體 supply chains](https://in-toto.io/)
+### 20. [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
 
-- ⭐ 7 分｜💬 0 留言｜👤 Erenay09
+- ⭐ 84 分｜💬 47 留言｜👤 gregsadetsky
 
-### 18. [Battery packs: Let's talk about crates, baby](https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/)
+### 21. [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
 
-- ⭐ 13 分｜💬 2 留言｜👤 MeetingsBrowser
+- ⭐ 63 分｜💬 18 留言｜👤 radeeyate
 
-### 19. [DrDroid (YC W23) Is 招聘](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
+### 22. [Revisiting Yliluoma's ordered dither algorithm](https://30fps.net/pages/revisiting-yliluoma-2/)
+
+- ⭐ 13 分｜💬 1 留言｜👤 ibobev
+
+### 23. [Static search trees: 40x faster than binary search (2024)](https://curiouscoding.nl/posts/static-search-tree/)
+
+- ⭐ 148 分｜💬 9 留言｜👤 lalitmaganti
+
+### 24. [Vāgdhenu: A Sanskrit Chanting TTS 系統](https://prathosh.in/vagdhenu/)
+
+- ⭐ 192 分｜💬 47 留言｜👤 subinalex
+
+### 25. [為什麼 do AI company logos look like buttholes? (2025)](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+
+- ⭐ 261 分｜💬 80 留言｜👤 miniBill
+
+### 26. [Battery packs: Let's talk about crates, baby](https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/)
+
+- ⭐ 35 分｜💬 19 留言｜👤 MeetingsBrowser
+
+### 27. [An 更新 on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)](https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/)
+
+- ⭐ 59 分｜💬 4 留言｜👤 bkardell
+
+### 28. [DrDroid (YC W23) Is 招聘](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
 
 - ⭐ 1 分｜💬 0 留言｜👤 TheBengaluruGuy
 
-### 20. [Static search trees: 40x faster than binary search (2024)](https://curiouscoding.nl/posts/static-search-tree/)
+### 29. [Painting the sides of railroad rails white to reduce derailment](https://www.up.com/news/safety/Tracking-Rail-Heat-260608)
 
-- ⭐ 100 分｜💬 5 留言｜👤 lalitmaganti
+- ⭐ 118 分｜💬 68 留言｜👤 zdw
 
-### 21. [Lego building instructions through time](https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time)
+### 30. [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
 
-- ⭐ 102 分｜💬 22 留言｜👤 NaOH
-
-### 22. [Painting the sides of railroad rails white to reduce derailment](https://www.up.com/news/safety/Tracking-Rail-Heat-260608)
-
-- ⭐ 82 分｜💬 44 留言｜👤 zdw
-
-### 23. [The Isomorphic Labs Drug Design Engine unlocks a 新 frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
-
-- ⭐ 67 分｜💬 6 留言｜👤 andsoitis
-
-### 24. [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
-
-- ⭐ 94 分｜💬 33 留言｜👤 surprisetalk
-
-### 25. [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
-
-- ⭐ 481 分｜💬 307 留言｜👤 gnabgib
-
-### 26. [The state of 開源 AI](https://stateofopensource.ai/)
-
-- ⭐ 417 分｜💬 302 留言｜👤 rellem
-
-### 27. [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
-
-I&#x27;m building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.This is a side-project where I reuse the timeline interface to display 4 milli
-
-- ⭐ 85 分｜💬 30 留言｜👤 lortex
-
-### 28. [Frank Lloyd Wright’s first home](https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know)
-
-- ⭐ 99 分｜💬 49 留言｜👤 NaOH
-
-### 29. [Three ways people respond to a problem (other than solving it)](https://improvesomething.today/responses-to-problems/)
-
-- ⭐ 227 分｜💬 127 留言｜👤 surprisetalk
-
-### 30. [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/)
-
-- ⭐ 155 分｜💬 56 留言｜👤 tusksm
+- ⭐ 135 分｜💬 42 留言｜👤 surprisetalk
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again
-- More Bounce to the Ounce
-- Kimi K3: Open Frontier Intelligence
-- Designing emoji for the way we communicate today
-- Lobste.rs is now running on SQLite
-- Evidence of inconsistencies in evaluation process and selection of winners
-- Workspaces – Explore the workspaces of modern creators
+- Porting nanochat to a TPU: what carries over from PyTorch, and what breaks
+- Lego building instructions through time
 - Topcoat: The full full-stack framework for Rust
-- AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM
+- Three ways people respond to a problem (other than solving it)
+- Show HN: A zoomable timeline of 4M Wikipedia events
+- Frank Lloyd Wright’s first home
+- America Broke Its Own Military
+- Kimi K3: Open Frontier Intelligence
+- The state of 開源 AI
+- 為什麼 is tiny Norway so good at sports? It's more than Erling Haaland
+- Kaiser nurses say AI, surveillance are making their jobs and patient care worse
+- Show HN: Watch bots interact with an SSH honeypot in real time
+- More Bounce to the Ounce
+- Evidence of inconsistencies in evaluation process and selection of winners
 - Camera Chase Vehicle
+- Workspaces – Explore the workspaces of modern creators
+- Designing emoji for the way we communicate today
+- AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM
+- Moonstone: Modern, cross-platform Lua runtime and package 經理 written in Zig
+- FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again
+- Lobste.rs is now running on SQLite
+- Quintile – keyboard N×M grid tiling for macOS
 - Latent Space as a 新 Medium
-- Show HN: IKEA Complexity Index
 - MoonBASIC: A modern BASIC for building 2D and 3D games
-- Claude 代碼(Fable) refused my slow down instruction
-- Homomorphically encrypted CIFAR-10 推論 in 200ms
-- ASCII Art
-- Apple targets dozens of OpenAI employees with legal letters
-- Texas wins court order to suspend domain name for violating age-verification law
+- The Isomorphic Labs Drug Design Engine unlocks a 新 frontier beyond AlphaFold
 - Faster binary search: from compiled 代碼 to mechanical sympathy
-- Israeli ministers announce 新 illegal settlements in Gaza and West Bank
-- Show HN: Instrumation a PYPI library for Instruments
-- Estimating the heights of 新 Yorkers from their scuff marks
+- Apple targets dozens of OpenAI employees with legal letters
+- London Underground users should know about toxic dust risk, whistleblower says
 - CD sales growth outpaced vinyl in the first half of 2026
+- AI Mania Is Eviscerating Global Decision-Making
 - How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues
-- A Road to Lisp: Which Lisp
-- The Largest Vocabulary in Hip Hop (2017)
-- VulnHunter: Capital One's agentic AI 代碼 安全 tool
-- Frame – Linux X 伺服器 in Assembly
 - The 大型語言模型 Critics Are Right. I Use LLMs Anyway
-- 如何 Write Unmaintainable 代碼 (2015)
-- Faulty Towers, vibe sickness, and the vibe bobsled
-- Aurora DSQL: Scalable, Multi-Region OLTP
+- Three workers digging in a field outside the data center
+- VulnHunter: Capital One's agentic AI 代碼 安全 tool
+- Homomorphically encrypted CIFAR-10 推論 in 200ms
+- Funny item co-occurrences in 3.2M Instacart orders
 - Microsoft Comic Chat is now 開源
-- Mac gaming is finally getting the overpowered upgrade it deserves
+- Estimating the heights of 新 Yorkers from their scuff marks
 - Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone
+- Claude 代碼(Fable) refused my slow down instruction
 - Mathematics of Data Science
-- Pebble Mega 更新 – July 2026
 - Decoy Font
 - 如何 Train a Gen AI Kick Drum 模型 on Your Old Linux Desktop with 6GB VRAM
-- 代理 安全 Is a Systems Problem
-- EEG shows brain can simultaneous encode two speech streams
-- Turn your singing voice into printable notes (in the browser)
-- Starlink from 1984
-- Tannakian Reconstruction
-- 開源 Parametric DIY Air Purifier Builder
 - Ente – Opening Our Books
-- Alzheimer's trial results lend momentum to strategies targeting tau
+- Frame – Linux X 伺服器 in Assembly
+- ASCII Art
+- Pebble Mega 更新 – July 2026
+- Martin Picard's Mitochondrial Theory of Mind
+- Show HN: Instrumation a PYPI library for Instruments
 - Goes-19 weather satellite enters Safe Hold mode
-- Recreating the Bell Labs Cafeteria
-- Show HN: Simulator for a custom 8-bit discreet logic computer
-- 'Likweli': A 新 monkey species discovered in the Congo Basin
-- Nadella Blasts AI Industry's Double Standard
+- Starlink from 1984
 - The lost joy of music piracy
+- EEG shows brain can simultaneous encode two speech streams
+- A Road to Lisp: Which Lisp
+- Turn your singing voice into printable notes (in the browser)
+- 'Likweli': A 新 monkey species discovered in the Congo Basin
 - British Steel taken into public ownership to protect 'vital' UK supply
-- LG monitors installing adware on Windows PCs
-- Show HN: Clx – Compile Lua to Native Executables Through C++20
-- Pre-Authentication RCE in WordPress Core
-- $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol
-- Sony deletes more movies from the accounts of people who ‘bought’ them
-- Pseudpocalypse
+- Faulty Towers, vibe sickness, and the vibe bobsled
+- Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld
+- Aurora DSQL: Scalable, Multi-Region OLTP
+- Tannakian Reconstruction
 - Inkling: Our Open-Weights 模型
-- Show HN: Qwen3.6-35B-A3B on a 16 GB M1 Pro with SSD-streamed MoE
-- NotebookLM is now Gemini Notebook
+- 如何 Write Unmaintainable 代碼 (2015)
+- Alzheimer's trial results lend momentum to strategies targeting tau
+- Show HN: Clx – Compile Lua to Native Executables Through C++20
+- Sony deletes more movies from the accounts of people who ‘bought’ them
 - Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't
-- An 工程師's Guide to USB Typе-С (2024)
-- OnePlus halts operations in USA and Europe
-- LM Studio Bionic: the AI 代理 for open models
-- Old Icons
-- If you want to create a button from scratch, you must first create the universe
-- Schema Harness Achieves ~99% on Arc‑AGI‑3 Public
+- $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol
+- The Largest Vocabulary in Hip Hop (2017)
+- Pseudpocalypse
 
 
 ---
