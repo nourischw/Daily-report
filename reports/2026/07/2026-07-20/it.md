@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [Airport Simulator](https://airport.apunen.com/)
+### 1. [China's open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 
-- ⭐ 196 分｜💬 52 留言｜👤 apunen
+- ⭐ 538 分｜💬 454 留言｜👤 benwerd
 
-### 2. [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
+### 2. [Hacker wipes Romania's land registry 資料庫](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
 
-- ⭐ 255 分｜💬 132 留言｜👤 infosecau
+- ⭐ 447 分｜💬 240 留言｜👤 speckx
 
-### 3. [Hacker wipes Romania's land registry 資料庫](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
+### 3. [Kimi Work](https://www.kimi.com/products/kimi-work)
 
-- ⭐ 10 分｜💬 1 留言｜👤 speckx
+- ⭐ 92 分｜💬 45 留言｜👤 ms7892
 
-### 4. [Stop Using OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/)
+### 4. [Hyprland 0.55 announced the switch to Lua for its config files](https://hypr.land/news/update55/)
 
-- ⭐ 91 分｜💬 67 留言｜👤 alekq
+- ⭐ 65 分｜💬 43 留言｜👤 matesz
 
-### 5. [ECC and DDR5](https://etbe.coker.com.au/2026/07/19/ecc-ddr5/)
+### 5. [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
 
-- ⭐ 15 分｜💬 0 留言｜👤 zdw
+- ⭐ 105 分｜💬 38 留言｜👤 baldvinmar
 
-### 6. [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
+### 6. [How we measured AI writing across arXiv, and where the measurement breaks](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
-- ⭐ 143 分｜💬 85 留言｜👤 rapnie
+- ⭐ 143 分｜💬 101 留言｜👤 dopamine_daddy
 
-### 7. [Inertia-1: An Open Exploration to a Unified Motion Foundation 模型](https://yang-ai-lab.github.io/Inertia-1/)
+### 7. [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)](https://nothings.org/gamedev/ssao/)
 
-- ⭐ 5 分｜💬 0 留言｜👤 hasheddan
+- ⭐ 115 分｜💬 43 留言｜👤 firephox
 
-### 8. [Show HN: I replaced a $120k bowling center 系統 with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
+### 8. [Airport Simulator](https://airport.apunen.com/)
 
-I might be the only SRE on Earth with his own bowling center. It&#x27;s a more in-depth gig than you&#x27;d think.My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In ou
+- ⭐ 508 分｜💬 110 留言｜👤 apunen
 
-- ⭐ 2599 分｜💬 289 留言｜👤 section33
+### 9. [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
 
-### 9. [Satan's 19th-Century Bank Note](https://www.historytoday.com/miscellanies/satans-19th-century-bank-note)
+- ⭐ 23 分｜💬 5 留言｜👤 aratahikaru5
 
-- ⭐ 8 分｜💬 0 留言｜👤 Caiero
+### 10. [Firefox Merges Support for Vulkan Video Decoding](https://github.com/search)
 
-### 10. [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
+- ⭐ 180 分｜💬 41 留言｜👤 DemiGuru
 
-- ⭐ 264 分｜💬 109 留言｜👤 wertyk
+### 11. [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html)
 
-### 11. [Sensing warm and cool: how the body detects temperature changes](https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes)
+- ⭐ 132 分｜💬 59 留言｜👤 var0xyz
 
-- ⭐ 12 分｜💬 2 留言｜👤 hhs
+### 12. [Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)
 
-### 12. [Moist Towelette Museum](https://moisttowelettemuseum.com/)
+Hi HN, I’m Alex Southmayd, the founder of Bloomy (https:&#x2F;&#x2F;bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside
 
-- ⭐ 44 分｜💬 11 留言｜👤 bookofjoe
+- ⭐ 27 分｜💬 59 留言｜👤 alexsouthmayd
 
-### 13. [What does the Riemann zeta function have to do with the distribution of primes?](https://hidden-phenomena.com/articles/rh)
+### 13. [An Empirical Study: AI 代理 Rules Need Context and Layered Enforcement](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
 
-- ⭐ 43 分｜💬 8 留言｜👤 mb1699
+- ⭐ 13 分｜💬 1 留言｜👤 matt_d
 
-### 14. [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
+### 14. [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)
 
-- ⭐ 112 分｜💬 22 留言｜👤 Vineeth147
+- ⭐ 163 分｜💬 114 留言｜👤 defrost
 
-### 15. [Claude 代碼 uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+### 15. [Cross sectioning insects in an electron microscope with a femtosecond laser [video]](https://www.youtube.com/watch?v=NwhVJ7cv9B4)
 
-- ⭐ 571 分｜💬 760 留言｜👤 tosh
+- ⭐ 35 分｜💬 2 留言｜👤 surprisetalk
 
-### 16. [Sealed tomb filled with paintings and inscriptions discovered in Egypt](https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/)
+### 16. [Ziggity – A terminal UI for Git, written in Zig](https://github.com/simoarpe/ziggity)
 
-- ⭐ 82 分｜💬 58 留言｜👤 isaacfrond
+- ⭐ 39 分｜💬 25 留言｜👤 TheSorcerer
 
-### 17. [Eliminating Go bounds checks with unsafe](https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe)
+### 17. [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)
 
-- ⭐ 35 分｜💬 16 留言｜👤 abnercoimbre
+- ⭐ 86 分｜💬 36 留言｜👤 littlexsparkee
 
-### 18. [Codex is wearing out our devices](https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/)
+### 18. [Shinjuku Station in 3D](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 
-- ⭐ 10 分｜💬 3 留言｜👤 spenvo
+- ⭐ 83 分｜💬 16 留言｜👤 Gecko4072
 
-### 19. [Orion Browser by Kagi](https://orionbrowser.com/)
+### 19. [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
 
-- ⭐ 258 分｜💬 214 留言｜👤 sebjones
+- ⭐ 345 分｜💬 196 留言｜👤 infosecau
 
-### 20. [What I learned selling 2,500 MIDI recorders: 硬體 is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
+### 20. [The drivers behind 軟體 delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
 
-- ⭐ 522 分｜💬 237 留言｜👤 chipweinberger
+- ⭐ 13 分｜💬 2 留言｜👤 qaprof
 
-### 21. [1-Bit 大型語言模型 in the Browser](https://huggingface.co/spaces/webml-community/bonsai-webgpu)
+### 21. [That post never existed. Stop listening to that thing](https://rachelbythebay.com/w/2026/05/05/404/)
 
-- ⭐ 73 分｜💬 29 留言｜👤 simonebrunozzi
+- ⭐ 70 分｜💬 50 留言｜👤 wglb
 
-### 22. [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
+### 22. [What I Learned from Reimplementing 40 Multi-代理 大型語言模型 Papers](https://medium.com/@Koukyosyumei/what-i-learned-from-reimplementing-40-multi-agent-llm-papers-bd6b574f5659)
 
-- ⭐ 326 分｜💬 222 留言｜👤 ilreb
+- ⭐ 12 分｜💬 3 留言｜👤 syumei
 
-### 23. [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+### 23. [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
 
-- ⭐ 337 分｜💬 223 留言｜👤 ObviouslyFlamer
+- ⭐ 416 分｜💬 233 留言｜👤 rapnie
 
-### 24. [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+### 24. [I Stopped "Creating Content"](https://refactoringenglish.com/blog/why-i-stopped-creating-content/)
 
-- ⭐ 153 分｜💬 110 留言｜👤 bbg2401
+- ⭐ 89 分｜💬 67 留言｜👤 mtlynch
 
-### 25. [The Zen of Parallel 程式設計](https://smolnero.com/posts/the-zen-of-parallel-programming)
+### 25. [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms)
 
-- ⭐ 180 分｜💬 28 留言｜👤 edgar_ortega
+- ⭐ 40 分｜💬 2 留言｜👤 ibobev
 
-### 26. [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o)
+### 26. [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
 
-- ⭐ 174 分｜💬 132 留言｜👤 teleforce
+- ⭐ 5 分｜💬 0 留言｜👤 Wingy
 
-### 27. [11,700 Free Photos from John Margolies' Archive of Americana Architecture](https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html)
+### 27. [Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling](https://www.emergingtrajectories.com/lh/frontier-lab-economics/)
 
-- ⭐ 89 分｜💬 4 留言｜👤 gslin
+- ⭐ 190 分｜💬 193 留言｜👤 cl42
 
-### 28. [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
+### 28. [代理 swarms and the 新 模型 economics](https://cursor.com/blog/agent-swarm-model-economics)
 
-- ⭐ 147 分｜💬 116 留言｜👤 rafal_opilowski
+- ⭐ 10 分｜💬 2 留言｜👤 jlaneve
 
-### 29. [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+### 29. [Inertia-1: An Open Exploration to a Unified Motion Foundation 模型](https://yang-ai-lab.github.io/Inertia-1/)
 
-https:&#x2F;&#x2F;www.qwencloud.com&#x2F;pricing&#x2F;token-plan
+- ⭐ 42 分｜💬 1 留言｜👤 hasheddan
 
-- ⭐ 916 分｜💬 645 留言｜👤 nh43215rgb
+### 30. [NYC Subway Signals: A Complete Guide](https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide)
 
-### 30. [When can a power company take your land for data center infrastructure?](https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061)
-
-- ⭐ 139 分｜💬 116 留言｜👤 1vuio0pswjnm7
+- ⭐ 31 分｜💬 7 留言｜👤 at1as
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- I joined the IndieWeb, here's what I learned
-- I burned all my tokens researching 如何 save tokens
-- Who Is America's Homer?
-- Korg PS-3300 is back
-- Self-Powered Trailers Promise Leaner Freight Runs
-- C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)
-- Dupes took over the world
-- HMD Touch 4G
-- Talk: The Art of Braiding Algorithms
-- Cagire: Live Coding in Forth
-- Claude Fable produced a counterexample to the Jacobian Conjecture
-- Terence McKenna's Mega Bad Trip (2025)
-- LLMs aren't remotely like compilers or power tools
-- Biggest Probabilistic Computer Turns Noise into Answers
-- Natural experiments prove phytoplankton carbon removal works
-- Blender 5.2 LTS
-- OpenAI reduces Codex 模型 Context Size from 372k to 272k
-- UnifiedIR for Julia
-- How proprietary formats have become Microsoft’s main tool for lock-in
-- A 新 Intel Itanium (IA-64) emulator that boots Windows
-- Land Atlas – soil, farmability, and crop analysis for land listings
-- Moonshot AI suspends 新 subscriptions due to Kimi K3 demand
-- Transcribe.cpp
-- The death and rebirth of my home 伺服器
-- The Last MPEG-4 Visual Patent Has Expired
-- Infinities, impossibilities, and the man in the white linen suit
-- AI advice made people less accurate but more confident – sudy
-- The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]
-- Ise Jingu and the Pyramid of Enabling Technologies (2021)
-- The Kimi K3 Moment
-- Making 軟體: 如何 make a font
-- Speech Recognition and TTS in less than 500kb
-- Nolan's Odyssey – A technical analysis by a nitpicky Classics student
-- 新 Mexico Denies Gas Pipeline Permit for Oracle Data Center
-- Tech Workers Face Evaporating Financial 安全 as AI Transforms Industry
-- We want Texans to know their rights
-- Building an Arch Linux Aarch64 Port for Holo Core
-- Let's compile like it's 1992
-- Scrying the AMD GFX1250 LLVM Tea Leaves
-- From Muon to Gradient Clipping: Some Thoughts on QK Stability
-- Show HN: Bribes.fyi – Built something to report bribes
-- A Visual Catalog of Retro Macintosh 軟體
-- GPT-5.6 used a prompt to close a 30-year gap in convex optimization
-- Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV
-- REO Trucks I4 4WD Pickup Truck Starts at $21,500
-- What's the deal with all the random weekly quota resets for agents lately?
-- AWS: Inaccurate Estimated Billing Data – $1.7 billion
-- Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]
+- Soofi – Sovereign 開源 Foundation Models
+- Satan's 19th-Century Bank Note (2017)
+- What does the Riemann zeta function have to do with the distribution of primes?
+- Moonshine: Lets you stream games from your PC to any device running Moonlight
+- Show HN: Wheesper – Start an anonymous discussion with a link
+- There are no lossless transformations of natural-language text
+- Sealed tomb filled with paintings and inscriptions discovered in Egypt
+- Annoying and alarming things about OpenCode
+- Sensing warm and cool: how the body detects temperature changes
+- Czechia moves to ban 行動 phones in schools from September 2027
+- We rewrote our custom visualisation renderers from SVG to be in Canvas
+- ECC and DDR5
+- Kimi K3: The open-weights escalation
+- Inhaling high-dose CO2 clears Alzheimer's proteins from the brain
+- The footprints of every building in NYC – updated weekly
+- Moist Towelette Museum
+- Show HN: I replaced a $120k bowling center 系統 with $1,600 in ESP32s
+- 1-Bit 大型語言模型 in the Browser
+- LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques
+- The ACLU Is Arming Lawyers to Expose State Surveillance Secrets
+- Eliminating Go bounds checks with unsafe
+- I Redesigned English
+- 模型 4: Our 最佳 模型 yet for local dictation and cleanup on Mac
+- Caffeine and Cardiovascular Disease: AHA Scientific Statement
+- Judge orders pause to Paramount-Warner Bros merger as states argue antitrust law
+- The Reverse Information Paradox (Satya Nadella)
+- Fable is now included on Max plans (up to 50% of weekly limit)
+- Show HN: A Pipeline for Making 10-minute AI Movies with Claude 代碼 and Seedance
+- Xiaomi-Robotics-1
+- Primate 0.40: Route pages, store enums, async schemas and events
+- Ben Thompson is wrong: US frontier labs are right to be panicking
+- Interstitial risk: when two secure systems make one vulnerable one
+- Introduce a memory safe compilation mode inspired by Fil-C
+- 程式設計 the Amiga and Atari ST in C: Reading Keyboard Input
+- AliExpress hit with record $629M fine for counterfeit and illegal goods
+- Qwen 3.8
+- 5 Cups of coffee per day (up to 400 mg of caffeine/day) is safe for most adults
+- I turned my bearblog into a text based adventure
+- Public Transport – Don't Make Me Think
+- FCC pays $340k/year to keep 100's of empty Alaska buildings wired for internet
+- 11,700 Free Photos from John Margolies' Archive of Americana Architecture
+- Watching Tucson's Backyard Birds with Solar-Powered M1 Mac Mini
+- How much energy do data centers and 人工智慧 use?
 - DrDroid (YC W23) Is 招聘
-- Using self-hosted Umami for iOS app analytics
-- Codex Resets
-- Kimi K3: Open Frontier Intelligence
-- Apple probably won't add Jony Ive to OpenAI trade secret theft suit
-- Mathematicians still don't know the fastest way to multiply numbers
-- Searchable field-level encryption on Supabase with CipherStash
-- If You 構建 It, They Will Come
-- Show HN: A canvas-based note taking and organizer app
-- Anthropic runs large-scale 代碼 migrations with Claude 代碼
-- Regressive JPEGs
-- The Anti-Palantir Manifesto
-- Show HN: Q3Edit – Edit and play Quake 3 maps in the browser
-- Ollama: All Aboard Open Models
-- What AI did to stackoverflow in a graph
-- AI Mania Is Eviscerating Global Decision-Making
-- Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day
-- The Computer at the Bottom of a Canal
-- A Second-Grade Teacher Revived a Beloved Video Game
-- Better and Cheaper Than IPTV
-- Co-evolution of self-replication and function in a digital primordial soup
-- Show HN: IKEA Complexity Index
+- Claude 代碼 uses Bun written in Rust now
+- California to impose sales and use tax on digital products including SaaS
+- Ask HN: Favourite science history book of the 20th century?
+- Chrome installed a global Ctrl+G keyboard shortcut to launch Gemini
+- I burned all my tokens researching 如何 save tokens
+- Nearly one-third of Steam users have ten-year-old GPUs [video]
+- EU fines AliExpress €550M over illegal products
+- SPIR-V on ROCm: A Portable IR for AMD GPUs
+- Datasette-plot – Datasette Plugin for building data visualizations
+- A 600-acre AI data center could cost some Wisconsin residents their land
+- Who Is America's Homer?
+- Jacobian conjecture is false (with help of Fable)
+- Dupes took over the world
+- Visualizing the Artemis II Mission
+- Codex is wearing out our devices
+- AliExpress fined €550M by EU for failing to stop sale of illegal and fake goods
+- What I learned selling 2,500 MIDI recorders: 硬體 is not so hard
+- HMD Touch 4G
+- Police searched Twin Cities Flock cameras during ICE surge
+- Cagire: Live Coding in Forth
+- Orion Browser by Kagi
+- Talk: The Art of Braiding Algorithms
+- C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)
+- Trial Lawyers Lobby Against Autonomous Vehicles
+- Terence McKenna's Mega Bad Trip (2025)
+- Natural experiments prove phytoplankton carbon removal works
 
 
 ---
