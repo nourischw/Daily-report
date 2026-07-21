@@ -4,204 +4,208 @@
 
 ---
 
-### 1. [新 US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
+### 1. [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
 
-- ⭐ 71 分｜💬 49 留言｜👤 throw0101a
+- ⭐ 191 分｜💬 27 留言｜👤 speckx
 
-### 2. [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
+### 2. [Advertise in ChatGPT](https://ads.openai.com/)
 
-- ⭐ 267 分｜💬 122 留言｜👤 ilreb
+- ⭐ 14 分｜💬 5 留言｜👤 montecarl
 
-### 3. [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
+### 3. [Cheap Self-Hosted Kubernetes on Hetzner 雲端](https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/)
 
-- ⭐ 264 分｜💬 50 留言｜👤 handfuloflight
+- ⭐ 22 分｜💬 2 留言｜👤 victorbrink
 
-### 4. [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+### 4. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
 
-- ⭐ 757 分｜💬 569 留言｜👤 mfiguiere
+- ⭐ 418 分｜💬 337 留言｜👤 logickkk1
 
-### 5. [Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog](https://fidget-spinner.github.io/posts/ultra-fast-tracing.html)
+### 5. [Meta's AI Models Are Powering the First Wave of Genesis Mission Projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)
 
-- ⭐ 33 分｜💬 0 留言｜👤 rbanffy
+- ⭐ 53 分｜💬 31 留言｜👤 surprisetalk
 
-### 6. [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+### 6. [Freeink: Open Ecosystem for E-Readers](https://freeink.org/)
 
-- ⭐ 567 分｜💬 167 留言｜👤 baldvinmar
+- ⭐ 19 分｜💬 4 留言｜👤 FriedPickles
 
-### 7. [Kimi Work](https://www.kimi.com/products/kimi-work)
+### 7. [AI Didn't Make 程式設計 Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 
-- ⭐ 609 分｜💬 250 留言｜👤 ms7892
+- ⭐ 22 分｜💬 0 留言｜👤 tchalla
 
-### 8. [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
+### 8. [France's Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
 
-- ⭐ 395 分｜💬 181 留言｜👤 artninja1988
+- ⭐ 57 分｜💬 10 留言｜👤 Sami_Lehtinen
 
-### 9. [如何 pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
+### 9. [PCjs Machines](https://www.pcjs.org/)
 
-- ⭐ 47 分｜💬 29 留言｜👤 JoshTriplett
+- ⭐ 140 分｜💬 13 留言｜👤 naves
 
-### 10. [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
+### 10. [Bloomy (YC S26) is 招聘 a founding 工程師](https://news.ycombinator.com/item?id=48995037)
 
-- ⭐ 97 分｜💬 21 留言｜👤 arghunter
+About BloomyBloomy is an AI tutor and curriculum for K-12 students. Our student users are learning approximately 2x faster in early pilots, and students and teachers alike love our product.How it work
 
-### 11. [Arduino 推出 Plug-and-Play Modules for Long-Range Sensor Projects](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/)
+- ⭐ 1 分｜💬 0 留言｜👤 alexsouthmayd
 
-- ⭐ 42 分｜💬 15 留言｜👤 WaitWaitWha
+### 11. [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
 
-### 12. [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
+- ⭐ 488 分｜💬 200 留言｜👤 ilreb
 
-- ⭐ 312 分｜💬 107 留言｜👤 aratahikaru5
+### 12. [Show HN: A self-running space economy SIM in Rust and Bevy](https://github.com/Kalcode/spaceprojectsim)
 
-### 13. [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
+I built this with Claude cause I always wanted to tinker with a simulation economoy and I love space themes.A space-economy sim where nothing is scripted. A few hundred autonomous ships each run their
 
-- ⭐ 208 分｜💬 45 留言｜👤 akanet
+- ⭐ 13 分｜💬 2 留言｜👤 kalcode
 
-### 14. [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
+### 13. [Apple has decided to compete for creativity app users](https://alex4d.com/notes/item/apple-competing-for-creativity-app-users)
 
-- ⭐ 49 分｜💬 38 留言｜👤 sudo_cowsay
+- ⭐ 14 分｜💬 0 留言｜👤 speckx
 
-### 15. [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
+### 14. [Apple Private 雲端 Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
 
-- ⭐ 161 分｜💬 148 留言｜👤 wallach-game
+- ⭐ 12 分｜💬 0 留言｜👤 throwfaraway4
 
-### 16. [代理 swarms and the 新 模型 economics](https://cursor.com/blog/agent-swarm-model-economics)
+### 15. [Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac](https://github.com/cristibaluta/Imagin-Raw)
 
-- ⭐ 232 分｜💬 103 留言｜👤 jlaneve
+- ⭐ 30 分｜💬 7 留言｜👤 cristi_baluta
 
-### 17. [VTubing: How a Japanese Phenomenon Is Going Worldwide](https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide)
+### 16. [My USB Drive Has a Hidden Encrypted Vault](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
 
-- ⭐ 58 分｜💬 42 留言｜👤 pwim
+- ⭐ 71 分｜💬 44 留言｜👤 machinehum
 
-### 18. [The Psychology of 軟體 Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
+### 17. [Jack Dorsey 推出 Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
-- ⭐ 124 分｜💬 38 留言｜👤 dcre
+- ⭐ 67 分｜💬 57 留言｜👤 ryanmerket
 
-### 19. [Motion Sensors and Home 安全 Gadgets Without Cameras](https://www.wired.com/story/best-motion-sensors-private-alternatives-security/)
+### 18. [The unreasonable difficulty of time series forecasting](https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html)
 
-- ⭐ 3 分｜💬 0 留言｜👤 joozio
+- ⭐ 59 分｜💬 18 留言｜👤 suzyahyah
 
-### 20. [You only need the frontier 模型 for one single edit](https://stencil.so/blog/prewalk)
+### 19. [AI 代理 – TRMNL](https://help.trmnl.com/en/articles/14130438-ai-agent)
 
-- ⭐ 188 分｜💬 58 留言｜👤 jxmorris12
+- ⭐ 6 分｜💬 6 留言｜👤 joeyespo
 
-### 21. [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+### 20. [Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations](https://github.com/AlmanacCode/codealmanac/)
 
-- ⭐ 1154 分｜💬 864 留言｜👤 benwerd
+Hey HN! This is Divit from Almanac (YC S26). We built CodeAlmanac, a wiki for your coding agents that updates as you talk to them. It is open-source, local, and free.Here’s a demo: https:&#x2F;&#x2F;w
 
-### 22. [Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)
+- ⭐ 14 分｜💬 6 留言｜👤 divitsheth
 
-Hi HN, I’m Alex Southmayd, the founder of Bloomy (https:&#x2F;&#x2F;bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside
+### 21. [Uhubctl – control USB power per-port on smart USB hubs](https://github.com/mvp/uhubctl)
 
-- ⭐ 92 分｜💬 93 留言｜👤 alexsouthmayd
+- ⭐ 15 分｜💬 3 留言｜👤 gregsadetsky
 
-### 23. [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
+### 22. [Greedy is optimal for single-pass semi-streaming matching](https://arxiv.org/abs/2607.14656)
 
-Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs&#x2F;hyperlinks from their origin site to institutional location&#x2F;sources. The Index specifically looks a
+- ⭐ 5 分｜💬 0 留言｜👤 MarcoDewey
 
-- ⭐ 43 分｜💬 26 留言｜👤 hbyel
+### 23. [The World's 2,400 Castles](https://thecastlemap.com/)
 
-### 24. [I Stopped “Creating Content”](https://refactoringenglish.com/blog/why-i-stopped-creating-content/)
+- ⭐ 113 分｜💬 87 留言｜👤 marklit
 
-- ⭐ 214 分｜💬 172 留言｜👤 mtlynch
+### 24. [Slater – Low-memory graphdb designed for read-heavy graphs](https://github.com/Hikari-Systems/slater)
 
-### 25. [Shinjuku Station in 3D](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
+- ⭐ 5 分｜💬 2 留言｜👤 rickkjp
 
-- ⭐ 251 分｜💬 56 留言｜👤 Gecko4072
+### 25. [YouTube 系統 Design for Robotics Data Infrastructure](https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure)
 
-### 26. [Perfection is not over-engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html)
+- ⭐ 5 分｜💬 0 留言｜👤 kstonekuan
 
-- ⭐ 258 分｜💬 113 留言｜👤 var0xyz
+### 26. [Apple Defeats Liability for Not Scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
 
-### 27. [The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)
+- ⭐ 216 分｜💬 184 留言｜👤 speckx
 
-- ⭐ 131 分｜💬 25 留言｜👤 trinsic2
+### 27. [Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog](https://fidget-spinner.github.io/posts/ultra-fast-tracing.html)
 
-### 28. [The Great Steam Deck Crash of 2026: How the 新 Pricing Decreased Demand by 80%](https://boilingsteam.com/the-great-steam-deck-volume-crash/)
+- ⭐ 129 分｜💬 9 留言｜👤 rbanffy
 
-- ⭐ 5 分｜💬 0 留言｜👤 ekianjo
+### 28. [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
 
-### 29. [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
+- ⭐ 320 分｜💬 61 留言｜👤 handfuloflight
 
-- ⭐ 288 分｜💬 252 留言｜👤 swat535
+### 29. [Show HN: Edky, a CLI to convert Ed25519 public keys from one encoding to another](https://github.com/artob/edky)
 
-### 30. [Hacker wipes Romania's land registry 資料庫](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
+Everything increasingly runs on Ed25519 keypairs, but Ed25519 public keys can be encoded as text in dozens of surface-incompatible different ways: hexadecimal, Base64 (OpenSSH), Base32z (iroh, pkdns),
 
-- ⭐ 673 分｜💬 372 留言｜👤 speckx
+- ⭐ 4 分｜💬 0 留言｜👤 arto
+
+### 30. [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
+
+- ⭐ 54 分｜💬 27 留言｜👤 twapi
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- How we measured AI writing across arXiv, and where the measurement breaks
+- Shanay-Timpishka, a boiling hot river 700km from the nearest active volcano
+- Apple Fixes Hide My Email Vulnerability After 404 Media Coverage
+- Laguna S 2.1
+- Show HN: Language 模型 Builder (an app to learn about and 構建 models)
+- (Ab)Using Overload Sets to Create Ad-Hoc Template APIs in D
+- Yubikey 5.8: Verified Authorization for the 新 Era of Identity and AI
+- Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents
+- Show HN: DocCharm – The help center that keeps itself up to date
+- Show HN: In Meeting – A native macOS Mic/Cam observer for home automation
+- Human mathematicians are being outcounterexampled
+- 如何 pack ternary numbers in 8-bit bytes
+- Show HN: Word in 網頁 – Near MS Word Parity Docx Editor in 網頁
+- Time-Frequency Consistency Learning for Robust Speech Deepfake Detection
+- Arduino 推出 Plug-and-Play Modules for Long-Range Sensor Projects
+- WhichSpace: macOS menu bar utility for viewing and switching Spaces
+- Claude Is Not a Compiler
+- Show HN: Explore 6048 YC companies as an interactive galaxy
+- Where people and agents work together
+- Buzz
+- 為什麼 Are There No Empires in Age of Empires? (2019)
+- Running Doom on Our Custom CPU and Going Viral
+- I built a page that tells you what AI 模型 your laptop can run
+- How did the H1B visa become the 'Indian' visa
+- Motion Sensors and Home 安全 Gadgets Without Cameras
+- Text as Music
+- Show HN: PMG, 開源 package firewall
+- On Building Daily Puzzles, On Ending Them, and Other Thoughts
+- What's Under Your Feet in 新 York City?
+- Who's afraid of Chinese models?
+- Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco
+- Zone of Ceremony (2019)
+- Roblox Officially Supports GrapheneOS
+- We Need a 神經網絡 網絡 (2006)
+- Oh-my-pi: A coding 代理 with the IDE wired in
+- We scanned 1,868 AI-built apps for production readiness, and audited our scanner
+- Now You Can Work in C with Only BASIC Knowledge
+- 大型語言模型-Based Hierarchical Topic Modeling Tool
+- I wrote an bash enumerator because I was sick of xargs
+- How Did Node.js Come About?
+- 如何 Host Your Own Email 伺服器
+- 代理 swarms and the 新 模型 economics
+- Wreckage of Pan Am plane found 74 years after it crashed off Puerto Rico
+- I Stopped “Creating Content”
+- The Psychology of 軟體 Teams
+- Oracle could face $7B collateral bill for Wisconsin data centre
+- Light Flip
+- AMD Helios, We Got an Exclusive, First Look
+- China’s open-weights AI strategy is winning
+- Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens
+- Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
+- Jelly UI: Soft-body physics for native HTML form controls
+- Shinjuku Station in 3D
+- 90k Flock cameras have gone up in the US: What they track and 如何 check
+- A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste
+- You only need the frontier 模型 for one single edit
+- Google just bet its 推論 future on a chip built for one 模型
+- Kimi Work
+- Computational chemistry, Locally? My rant on SSH
+- Perfection is not over-engineering
+- Apple to launch 'upgrade' device leasing program with Klarna to spur sales
+- Georgia homeowners are being forced from their homes to power AI data centers [video]
+- Iran's IRGC claims attack on Amazon's main data hub in Bahrain
+- The Power of Awareness: Overcoming Surveillance Capitalism
 - Xiaomi-Robotics-1
+- Hacker wipes Romania's land registry 資料庫
+- FOSDEM 2027 WiFi will be IPv6 only, will GitHub be ready?
+- 新 hope in the fight against cachexia — cancer’s deadly co-conspirator
+- Jellyfin founder Andrew leaves team
 - Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)
-- My two year old taught me constraint solving
-- 大型語言模型 spambots liked my Show HN post more than real people did
-- 85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core
-- Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling
-- The Voice of Google
-- Cross sectioning insects in an electron microscope with a femtosecond laser [video]
-- Opaque, Interoperable Passkey Records (and a Go API)
-- Airport Simulator
-- Moonshine: Lets you stream games from your PC to any device running Moonlight
-- Linux kernel will support $ORIGIN, sort of
-- Modula-3 History Collection on Computer History Museum
-- ECC and DDR5
-- Firefox 153 available with support for Vulkan video decoding, JPEG-XL
-- Judge halts Paramount's $111B purchase of Warner Bros. in win for US states
-- The drivers behind 軟體 delivery inefficiency
-- Men Walk on Moon
-- Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)
-- Tensor Notation in Mathup
-- The Space Force is now seeking to buy up to $30B in rocket 推出
-- Atomic Physics in Pure Anglo-Saxon
-- The Growing Compute Shortage
-- The EU is about to sell our most sensitive data to the US for visa-free travel
-- GTFO VR Mod Postmortem
-- What does the Riemann zeta function have to do with the distribution of primes?
-- Show HN: I replaced a $120k bowling center 系統 with $1,600 in ESP32s
-- Sealed tomb filled with paintings and inscriptions discovered in Egypt
-- LEDs’ potential to save our night skies
-- Controlling Reasoning Effort in LLMs
-- A Mathematical Tribute to the Soccer Ball
-- Claude Fable produced a counterexample to the Jacobian Conjecture
-- AI, Vim, and the Illusion of Flow
-- OpenCircuitX
-- Israeli spyware vans infiltrate American streets and your phones
-- Hyprland 0.55 announced the switch to Lua for its config files
-- What most histories get wrong about MUMPS's first standard
-- I found a WordPress RCEs with GPT5.6 and $25
-- Satan's 19th-Century Bank Note (2017)
-- Soofi – Sovereign 開源 Foundation Models
-- The creepiest 'sales demo' of all time
-- Inertia-1: An Open Exploration to a Unified Motion Foundation 模型
-- Washington blocks Kalshi's sports prediction market over state gambling law
-- Qwen 3.8
-- Sensing warm and cool: how the body detects temperature changes
-- Show HN: Vertically Works – UI components built on writing-mode: vertical-RL
-- Cue AI
-- 1-Bit 大型語言模型 in the Browser
-- Safety and alignment in an era of long-horizon models
-- Show HN: OTP Inspired actor supervisor based 全端 templates
-- Kimi K3: The open-weights escalation
-- A PHP 伺服器 that can handle 10x as many concurrent requests as Nginx+PHP-fpm
-- NYC Subway Signals: A Complete Guide (2012)
-- Five US tech giants' hidden debts soar to $1.65T on opaque AI funding
-- Show HN: The0 – self-hosted runtime for trading bots, bring your own language
-- EURO6000 locomotives approved to run in Belgium and Luxembourg
-- LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques
-- 構建 a Game That Fits on a Single Floppy Disk: 1.44MB Game Development Contest
-- The Fedora project grapples with change
-- Ziggity – A terminal UI for Git, written in Zig
-- Moist Towelette Museum
-- Claude 代碼 uses Bun written in Rust now
-- Secrets Don't Belong in Config
-- Ask HN: Claude 代碼 or Codex?
-- I burned all my tokens researching 如何 save tokens
-- Topological Defect Propagation to Classify Knitted Fabrics
-- There are no lossless transformations of natural-language text
-- 11,700 Free Photos from John Margolies' Archive of Americana Architecture
-- Introduce a memory safe compilation mode inspired by Fil-C
+- Explanation about Groth16, the most used zero-knowledge proof [video]
 
 
 ---
