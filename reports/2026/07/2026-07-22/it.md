@@ -4,214 +4,212 @@
 
 ---
 
-### 1. [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
+### 1. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 
-- ⭐ 306 分｜💬 138 留言｜👤 ignaloidas
+- ⭐ 205 分｜💬 93 留言｜👤 gmays
 
-### 2. [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
+### 2. [GigaToken: ~1000x faster Language 模型 tokenization](https://github.com/marcelroed/gigatoken/)
 
-- ⭐ 19 分｜💬 3 留言｜👤 speckx
+- ⭐ 115 分｜💬 21 留言｜👤 syrusakbary
 
-### 3. [OpenAI and Hugging Face address 安全 incident during 模型 evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+### 3. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
 
-https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;OpenAI-says-hugging-face-br...See also 安全 incident disclosure – July 2026 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=489
+Over the past few months, our team has been building more and more slidedecks using 網頁 前端 technologies with coding harnesses like Claude 代碼, but a common complaint is to make even small edits
 
-- ⭐ 1352 分｜💬 902 留言｜👤 mfiguiere
+- ⭐ 419 分｜💬 85 留言｜👤 starfallg
 
-### 4. [介紹 Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
+### 4. [Making](https://beej.us/blog/data/ai-making/)
 
-- ⭐ 107 分｜💬 10 留言｜👤 badcryptobitch
+- ⭐ 162 分｜💬 62 留言｜👤 erikschoster
 
-### 5. [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+### 5. [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide)
 
-- ⭐ 12 分｜💬 5 留言｜👤 speckx
+- ⭐ 205 分｜💬 106 留言｜👤 abelanger
 
-### 6. [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+### 6. [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
 
-Also: Kimi K3: second only to Fable 5 on AA-Briefcase
- https:&#x2F;&#x2F;artificialanalysis.AI&#x2F;articles&#x2F;kimi-k3-agentic-knowl...
+- ⭐ 47 分｜💬 14 留言｜👤 dcastm
 
-- ⭐ 748 分｜💬 393 留言｜👤 piotrgrabowski
+### 7. [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)
 
-### 7. [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
+- ⭐ 46 分｜💬 30 留言｜👤 rbanffy
 
-- ⭐ 142 分｜💬 51 留言｜👤 zdw
+### 8. [Can a MUD evaluate LLMs? A $99 proof of concept](https://cruciblebench.ai/)
 
-### 8. [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
+I&#x27;m the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We&#x27;ve spent the last several months on n
 
-- ⭐ 76 分｜💬 52 留言｜👤 montroser
+- ⭐ 54 分｜💬 27 留言｜👤 Davisb135
 
-### 9. [Cornell's Interactive Wall of Birds](https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456)
+### 9. [Launch HN: Unlayer (YC W22) – Add email and document builders to your app](https://unlayer.com)
 
-- ⭐ 11 分｜💬 2 留言｜👤 yareally
+Hi HN, We’re Adeel and Umair, co-founders of Unlayer (https:&#x2F;&#x2F;unlayer.com&#x2F;). We let you add content creation to your applications without having to 構建 an entire editor, renderer, tem
 
-### 10. [Original Apollo 11 Guidance Computer source 代碼 for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
+- ⭐ 27 分｜💬 18 留言｜👤 adeelraza
 
-- ⭐ 108 分｜💬 31 留言｜👤 noteness
+### 10. [Mechanical light bulb from 1675 [video]](https://www.youtube.com/watch?v=0Y-9GbsS9Fg)
 
-### 11. [Advertise in ChatGPT](https://ads.openai.com/)
+- ⭐ 37 分｜💬 12 留言｜👤 kadohg
 
-- ⭐ 913 分｜💬 696 留言｜👤 montecarl
+### 11. [Perlin's Noise Algorithm](https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/)
 
-### 12. [AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance for Less – HotHardware](https://hothardware.com/reviews/amd-ryzen-7-7700x3d-gaming-cpu-review)
+- ⭐ 47 分｜💬 7 留言｜👤 ibobev
 
-- ⭐ 29 分｜💬 22 留言｜👤 rbanffy
+### 12. [Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links](https://www.orangecrumbs.com/hall/)
+
+- ⭐ 141 分｜💬 32 留言｜👤 oyster143
 
 ### 13. [10 REM"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)
 
-- ⭐ 9 分｜💬 1 留言｜👤 ingve
+- ⭐ 128 分｜💬 35 留言｜👤 ingve
 
-### 14. [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
+### 14. ["We have information that Moonshot distilled Fable for the development of K3"](https://twitter.com/mkratsios47/status/2079933645888880708)
 
-- ⭐ 629 分｜💬 131 留言｜👤 FriedPickles
+https:&#x2F;&#x2F;xcancel.com&#x2F;mkratsios47&#x2F;status&#x2F;2079933645888880708
 
-### 15. [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)
+- ⭐ 112 分｜💬 247 留言｜👤 softwaredoug
 
-- ⭐ 446 分｜💬 409 留言｜👤 BeetleB
+### 15. [Show HN: DeepSQL – A self-hostable DBA 代理 for Postgres and MySQL](https://deepsql.ai/)
 
-### 16. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
+Hi HN - I&#x27;m Venkat, founder of Stayflexi (YC), CMU CS grad and Ex-Oracle Query Engine team (patents in core databases)DeepSQL started as an internal tool to stop our own databases from becoming t
 
-https:&#x2F;&#x2F;console.雲端.Google.com&#x2F;代理-platform&#x2F;publishers&#x2F;g...
+- ⭐ 18 分｜💬 15 留言｜👤 venkat971
 
-- ⭐ 721 分｜💬 544 留言｜👤 logickkk1
+### 16. [介紹 Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
 
-### 17. [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
+- ⭐ 205 分｜💬 40 留言｜👤 badcryptobitch
 
-- ⭐ 238 分｜💬 82 留言｜👤 itherseed
+### 17. [I tried to record music onto a cassette tape using modern tech](https://swiftrocks.com/i-tried-to-record-music-onto-a-cassette-tape-using-modern-tech)
 
-### 18. [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
+- ⭐ 14 分｜💬 5 留言｜👤 rockbruno
 
-- ⭐ 282 分｜💬 115 留言｜👤 jeremyscanvic
+### 18. [Ghost Cut – or 為什麼 Cut and Paste is broken everywhere](https://ishmael.textualize.io/blog/ghost-cut/)
 
-### 19. [Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)
+- ⭐ 60 分｜💬 48 留言｜👤 willm
 
-- ⭐ 173 分｜💬 70 留言｜👤 emerongi
+### 19. [Passkeys were invented by engineers with zero understanding of consumer brain](https://twitter.com/nikitabier/status/2079787406300266743)
 
-### 20. [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
+https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743
 
-https:&#x2F;&#x2F;www.frontiersin.org&#x2F;journals&#x2F;marine-science&#x2F;articles...
+- ⭐ 283 分｜💬 368 留言｜👤 ksec
 
-- ⭐ 367 分｜💬 83 留言｜👤 speckx
+### 20. [Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids](https://neoradar.space)
 
-### 21. ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
+- ⭐ 42 分｜💬 10 留言｜👤 daviazpen
 
-- ⭐ 226 分｜💬 78 留言｜👤 hershyb_
+### 21. [OpenNode – Bitcoin Payment Processor](https://opennode.com/)
 
-### 22. [Jack Dorsey 推出 Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
+- ⭐ 86 分｜💬 72 留言｜👤 gurjeet
 
-https:&#x2F;&#x2F;x.com&#x2F;jack&#x2F;status&#x2F;2079605800998146171, https:&#x2F;&#x2F;xcancel.com&#x2F;jack&#x2F;status&#x2F;2079605800998146171https:&#x2F;&#x2F;buzz.xyz&#x2F;
+### 22. [Hologram works. Elixir runs in the browser](https://hologram.page/blog/backing-hologram)
 
-- ⭐ 344 分｜💬 299 留言｜👤 ryanmerket
+- ⭐ 63 分｜💬 7 留言｜👤 lawik
 
-### 23. [Apple defeats liability for not scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
+### 23. [Show HN: 網頁 swing through midtown NYC](https://www.swingnyc.com/)
 
-- ⭐ 433 分｜💬 462 留言｜👤 speckx
+- ⭐ 36 分｜💬 14 留言｜👤 shahahmed
 
-### 24. [ScreenWall – Turn old phones into synced widgets for your space](https://screenwall.app/)
+### 24. [When Is NVLink Worth It?](https://platform-fools.com/posts/2026-04-27-nvlink/)
 
-- ⭐ 53 分｜💬 24 留言｜👤 buibuibui
+- ⭐ 30 分｜💬 5 留言｜👤 ak_t
 
-### 25. [Never Enough](https://dark.ronacher.eu/2026/7/21/never-enough/)
+### 25. [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
 
-- ⭐ 83 分｜💬 27 留言｜👤 reasonableklout
+- ⭐ 212 分｜💬 90 留言｜👤 zdw
 
-### 26. [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
+### 26. [Cornell's Interactive Wall of Birds](https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456)
 
-- ⭐ 153 分｜💬 159 留言｜👤 sonicrocketman
+- ⭐ 82 分｜💬 31 留言｜👤 yareally
 
-### 27. [Laguna S 2.1](https://poolside.ai/blog/introducing-laguna-s-2-1)
+### 27. [Airbus Full Scale Foldable Wing Extensions](https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow)
 
-- ⭐ 360 分｜💬 67 留言｜👤 rexledesma
+- ⭐ 49 分｜💬 44 留言｜👤 r2sk5t
 
-### 28. [Show HN: A 新 kind of FPS aim trainer](https://openaim.pramit.gg/)
+### 28. [Original Apollo 11 Guidance Computer source 代碼 for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
 
-I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.
-It also cho
+- ⭐ 160 分｜💬 49 留言｜👤 noteness
 
-- ⭐ 71 分｜💬 34 留言｜👤 pmazumder
+### 29. [Most Americans say "not in my backyard" to AI data centers](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/)
 
-### 29. [Overload and insight look identical from the outside](https://pilgrima.ge/p/what-the-wire-knows)
+- ⭐ 100 分｜💬 210 留言｜👤 toomuchtodo
 
-- ⭐ 7 分｜💬 0 留言｜👤 momentmaker
+### 30. [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 
-### 30. [OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](https://www.bbc.com/news/articles/c3ek3gvdnj3o)
-
-- ⭐ 55 分｜💬 60 留言｜👤 vinni2
+- ⭐ 9 分｜💬 0 留言｜👤 WadeGrimridge
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Map of the world's great castles and fortresses
-- Gemini last models: temperature, top_p, and top_k are deprecated and ignored
-- 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling
-- My USB Drive Has a Hidden Encrypted Vault
-- Show HN: Justif – Knuth-Plass justification and microtypography for the 網頁
-- Can Chinese AI (Kimi K3) file American tax returns (TaxCalcBench)?
-- Roblox Officially Supports GrapheneOS
-- I graded 36 popular MCP servers on 代理 usability. A third got a D or F
+- The Music of Destruction
+- Which streaming service was that on again
+- OpenAI and Hugging Face address 安全 incident during 模型 evaluation
+- Late.sh – a command-line Clubhouse for computer people
+- I Built a Private Genomics Study with Stoffel MPC
+- It's not a "rogue AI" when a badly made 安全 harness executes scripts
+- Never Enough
+- Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
+- It's a shame what's happened to radio
+- Beaver who escaped to find mate welcomes first kit
+- A Zipper Patent Sat in a Garage for 40 Years. Now It's Real
+- The Pillars of an API Platform
+- 'The Odyssey' Proves It: Audiences Want Movies Made the Hard Way
+- Ten Steps Towards Happiness (2015)
+- ScreenWall – Turn old phones into synced widgets for your space
 - Bloomy (YC S26) is 招聘 a founding 工程師
+- OverpAId – Fire your CEO. Hire the future
+- Ethics Is the Skill That Matters Most Now
+- Emails Reveal 為什麼 a Town Put Bags over Its Flock Cameras
+- PyPI Blog: Releases now reject 新 files after 14 days
+- Advertise in ChatGPT
+- Reviewing 代碼 you didn't write
+- Gemini last models: temperature, top_p, and top_k are deprecated and ignored
+- Unlimited AI tokens aren't unlimited after all as US Army burns through supply
+- A privacy-first macOS meeting-notes and writing app that runs on-device
+- Judge approves $1.5B Anthropic settlement for pirated books used to train Claude
+- OpenAI Presence
+- Show HN: 代理 in 9 Lines Python
+- FreeInk: Open ecosystem for e-readers
+- Physical Media vs. Digital Media
+- Roblox Officially Supports GrapheneOS
+- Overload and insight look identical from the outside
+- Non-performant 軟體 and its incentives
+- Zero roadkill as Amazon canopy bridges secure 15,000 crossings
+- Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
+- I used ChatGPT to sue a Norwegian airline from 新 York and get $4760
+- Show HN: PDF tools that run in the browser, no upload
+- 為什麼 do you suck at juggling now?
+- Where Are All the Solar-Powered Cars?
+- A Puerto Rico Government Agency Exposed 1M Social 安全 Numbers
+- OpenAI Models Escaped and Hacked a Company in Cybersecurity 測試 Gone Wrong
+- Some more things about Django I've been enjoying
+- Does creatine make you smarter?
 - The Birth of Prolog (1996)
-- Apple Private 雲端 Compute SoC 3 audit reports
-- LG to ban residential proxies from smart TV apps
-- Nobody needs Kubernetes for eleven users
-- Pico W firmware creates driverless USB WiFi bridge (Layer-2)
-- Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral
-- The unreasonable difficulty of time series forecasting
-- White House used keywords to kill billions worth of California research grants
-- France's Anssi Will Block PQC-Free Products from Certification Starting 2027
-- Incremental – A library for incremental computations
-- Watching a language 模型 think before it speaks
-- A flaky 測試 exposed a Redis client use-after-free
+- Businesses with ugly AI menu redesigns
+- AMD to invest up to $5B in Anthropic
+- Show HN: A 新 kind of FPS aim trainer
+- A digestion of the Jacobian conjecture counterexample
 - Human mathematicians are being outcounterexampled
-- Show HN: A self-running space economy SIM in Rust and Bevy
-- Recreating the math behind the first stealth aircraft
+- LG to ban residential proxies from smart TV apps
+- AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance for Less – HotHardware
+- Apple Private 雲端 Compute SoC 3 audit reports
+- Two month calendar format for pocket notebooks
+- Long presumed dead, a thriving coral reef is discovered in West Africa
+- What happens when you try to chop a photon in half?
+- Jack Dorsey 推出 Buzz to combine team chat, AI agents and Git hosting
+- Incremental – A library for incremental computations
+- Apple defeats liability for not scanning iCloud for CSAM
+- Spatial languages: Writing 代碼 in 2D
+- The unreasonable difficulty of time series forecasting
+- France's Anssi Will Block PQC-Free Products from Certification Starting 2027
+- Pico W firmware creates driverless USB WiFi bridge (Layer-2)
+- Harness Sandboxing with Containers
+- We audited 1,751 "relationship milestones" our RAG extractor wrote 62% were junk
 - Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge
-- Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want
-- Planned Updates to the PyPI User Interface
-- 為什麼 Are There No Empires in Age of Empires? (2019)
-- Uhubctl – Control USB power per-port on smart USB hubs
-- Python 3.15’s Ultra-Low Overhead Interpreter Profiling Mode
-- A simple API for offering your coding 代理 a smoke break
-- Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations
-- Ask HN: US Equivalent of Anabin?
-- The Miso That Went to Space
-- Ultra-processed food firms are using the courts to obstruct health rules
-- Who's afraid of Chinese models?
-- PCjs Machines
-- Juggling for Blind People
-- Gigatoken: Fastest Tokenizer
-- Show HN: ReadKinetic – a free, local-first speed reader for your own books
-- Atomically Thin Materials Significantly Shrink Qubits (2022)
-- Monte Kali
-- Show HN: An MCP 伺服器 that turns async-work practices into tools
-- Zero-dependency streaming tar parser and writer for JavaScript
-- Slater – Low-memory graphdb designed for read-heavy graphs
-- Shanay-Timpishka, a boiling hot river 700km from the nearest active volcano
-- I Stopped “Creating Content”
-- Running Doom on Our Custom CPU and Going Viral
-- I wrote an bash enumerator because I was sick of xargs
-- Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac
-- OSS-SEC: 432 Linux kernel CVEs (in less than 32 hours)
-- 如何 pack ternary numbers in 8-bit bytes
-- How the judge on Oracle vs. Google taught himself to 代碼
-- 代理 swarms and the 新 模型 economics
-- Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day
-- China’s open-weights AI strategy is winning
-- Celestrak adds catalog digit, fixes Y2K bug
-- Shinjuku Station in 3D
-- The Price of Happiness (2024)
-- Arduino 推出 Plug-and-Play Modules for Long-Range Sensor Projects
-- Samsung in talks to invest in Mistral at €20B valuation
-- Xiaomi-Robotics-1
-- Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
-- Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux
-- Jelly UI: Soft-body physics for native HTML form controls
-- AI 代理 – TRMNL
-- Perfection is not over-engineering
-- The Psychology of 軟體 Teams
-- You only need the frontier 模型 for one single edit
-- Kimi Work
+- "Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok
+- Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling
+- 'Ted Lasso' Was Finished. Then Jason Sudeikis Had an Epiphany
+- Laguna S 2.1
+- Linux kernel team publishes 432 CVEs in two days
 
 
 ---
