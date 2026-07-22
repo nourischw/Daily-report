@@ -4,195 +4,187 @@
 
 ---
 
-### 1. [美國警告甫修補的WordPress資安漏洞遭到利用](https://www.ithome.com.tw/news/177497)
+### 1. [法國國會通過未滿15歲社群網路禁令，9月上路前仍可能面臨憲法審查](https://www.ithome.com.tw/news/177527)
 
-上週WordPress開發團隊發布7.0.2、6.9.5、6.8.6版，以及測試版本7.1 beta2安全性更新，修補CVE-2026-63030（wp2shell）與CVE-2026-60137兩個漏洞，呼籲網站管理員要立即更新，如今這些漏洞傳出都被用於實際攻擊。
+法國國會完成法案最終表決，禁止未滿15歲者使用社群網路服務，預定自9月1日起施行。自9月1日起建立的帳號立即適用，既有帳號則有4個月過渡期。不過，法案仍待總統公布，且預料可能送交憲法委員會審查，部分條文及實際施行時程仍可能調整。
+法案適用於線上平臺提供的社群網路服務，但排除線上百科全書、教育或科學目錄，以及用於開發、分享開放原始碼軟體或教育性開放原始碼數位專案的平臺。最終版本未保留取得父母同意即可使用的例外，等同將15歲訂為一般社群網路服務的最低使用年齡。
 
 - 📰 **iThome 科技**
 
-### 2. [【新加坡直擊】新一代急救培訓模式！新加坡樟宜醫院聯手IBM，結合MR和AI代理重現兒童急診現場](https://www.ithome.com.tw/news/177494)
+### 2. [思科釋出Antares模型權重，專攻程式碼漏洞定位](https://www.ithome.com.tw/news/177529)
+
+思科（Cisco）周二（7/21）發表Antares資安小型語言模型系列，專門用於在大型程式碼庫中定位可能含有已知漏洞的原始碼檔案。思科已透過Hugging Face釋出Antares-350M及Antares-1B兩款模型的權重，參數量分別為3.5億與10億，���準備推出30億參數的Antares-3B。
+
+- 📰 **iThome 科技**
+
+### 3. [Palo Alto Networks宣布併購Embrace，為可觀測性平臺提供高精度真實使用者監控能力](https://www.ithome.com.tw/news/177524)
+
+資安業者Palo Alto Networks於7月21日宣布預定併購數位體驗監控業者Embrace，計畫將其真實使用者監控（Real User
+
+- 📰 **iThome 科技**
+
+### 4. [駭客團體JadePuffer攻擊升溫，打造專門針對AI環境的勒索軟體EncForge](https://www.ithome.com.tw/news/177523)
+
+7月初威脅情報公司Sysdig揭露透過AI執行的勒索軟體活動，代理型威脅行為者（代理 Threat Actor，ATA）駭客團體JadePuffer首先利用已知漏洞CVE-2025-3248，透過可從網際網路存取的Langflow執行個體取得受害組織的初期入侵管道，然後展開會動態調整的全自動勒索軟體攻擊行動，然而事隔兩天，攻擊者再度存取同一臺Langflow執行個體，並使用大幅升級的攻擊工具再度活動。
+
+- 📰 **iThome 科技**
+
+### 5. [美國警告要制裁中國蒸餾美國模型的行為](https://www.ithome.com.tw/news/177521)
+
+根據CNBC及TechCrunch報導，美國財政部長Scott Bessent周二（7/21）接受F
+
+- 📰 **iThome 科技**
+
+### 6. [AWS Kiro漏洞可被網頁隱藏指令利用，繞過核准執行任意程式碼](https://www.ithome.com.tw/news/177513)
+
+資安公司Kodem 安全與Intezer的研究人員揭露，AWS代理式整合開發環境Kiro曾存在一項可繞過使用者核准機制的漏洞。攻擊者可在網頁或文件中藏入提示注入指令，誘使Kiro在未獲使用者同意下改寫MCP伺服器設定，並在開發者電腦上執行任意程式碼。漏洞現已修補，研究團隊也確認Kiro 0.11.130不再受影響。
+
+- 📰 **iThome 科技**
+
+### 7. [勒索軟體Qilin利用Palo Alto Networks的VPN漏洞入侵](https://www.ithome.com.tw/news/177520)
+
+5月底資安公司Palo Alto Networks提出警告，他們偵測到GlobalProtect身分驗證繞過漏洞CVE-2026-0257遭到利用的跡象，後續美國網路安全與基礎設施安全局（CISA）也掌握遭積極利用的證據，究竟攻擊者的身分為何，有資安公司指出，很可能是勒索軟體旗下的附屬團體所為。
+
+- 📰 **iThome 科技**
+
+### 8. [美國白宮推出Gold Eagle平臺，建立AI網路威脅資訊共享機制](https://www.ithome.com.tw/news/177519)
+
+美國白宮上周宣布推動Gold Eagle平臺，作為AI漏洞和修補資訊的協同共享中心。
+
+- 📰 **iThome 科技**
+
+### 9. [Google一口氣發表3款Gemini模型，鎖定AI代理與漏洞修補](https://www.ithome.com.tw/news/177518)
+
+Google周二（7/21）發表Gemini 3.6 Flash、3.5 Flash-Lite及專為資安任務打造的3.5 Flash Cyber模型，分別鎖定通用AI代理、大量低延遲任務及軟體漏洞修補。Google同時透露，Gemini 3.5 Pro目前正由合作夥伴測試，待準備完成後將廣泛推出；下一代Gemini 4也已展開預訓練，規模為Google歷來最大。
+
+- 📰 **iThome 科技**
+
+### 10. [Hide My Email漏洞現已修補，Apple宣稱修補兩周後仍一度可查出真實信箱](https://www.ithome.com.tw/news/177508)
+
+Apple的iCloud+隱藏電子郵件地址功能Hide My Email日前遭揭露存在隱私漏洞，目前問題已修補，外媒也已無法再次重現。不過，Apple曾表示已於7月3日完整解決問題，科技媒體AppleInsider卻在7月17日仍能從特定Hide My Email別名查出使用者的真實電子郵件地址，使漏洞是否在7月3日已全面修補出現疑問。
+
+- 📰 **iThome 科技**
+
+### 11. [微軟偕Mistral進駐歐洲主權AI雲基礎架構市場](https://www.ithome.com.tw/news/177515)
+
+微軟和法國AI新創業者Mistral本周二（7/21）宣布價值數十億美元的合作，擴增Mistral在歐洲的AI基礎架構，Mistral最新模型也將加入微軟企業AI包括Foundry及Copilot平臺成員。
+
+- 📰 **iThome 科技**
+
+### 12. [Intel攜手Fortinet開發安全 Processor 6，推進資安專用ASIC晶片布局](https://www.ithome.com.tw/news/177514)
+
+Intel與資安業者Fortinet於7月21日宣布展開策略合作，共同開發Fortinet 安全 Processor 6（SP6），結合Fortinet長期累積的專用資安處理器與ASIC設計能力，以及Intel的半導體設計、先進封裝與製造技術，打造高度整合的新一代資安專用處理器，以因應日益複雜的資安服務，滿足當
+
+- 📰 **iThome 科技**
+
+### 13. [駭客利用多個SharePoint漏洞從事攻擊，部署Webshell並竊取IIS機器金鑰](https://www.ithome.com.tw/news/177512)
+
+美國網路安全與基礎設施��全局（CISA）於7月14日提出警告，有人利用已知漏洞CVE-2026-32201、CVE-2026-45659、CVE-2026-56164，對SharePoint伺服器發動大規模攻擊，呼籲所有用戶立即加強修補與資安監控作業，並確認SharePoint是否啟用反惡意軟體掃描介面（AMSI）整合功能。究竟發生了什麼樣的攻擊活動，後續有資安公司公布細節。
+
+- 📰 **iThome 科技**
+
+### 14. [重大SharePoint漏洞被用於竊取機器金鑰](https://www.ithome.com.tw/news/177511)
+
+上週美國網路安全與基礎設施安全局（CISA）警告最新一波SharePoint漏洞利用活動，駭客利用已知漏洞CVE-2026-32201、CVE-2026-45659、CVE-2026-56164，後續CISA指出，另一個於7月修補的重大漏洞CVE-2026-58644也出現遭到利用的情形，如今有資安公司指出，他們看到微軟於7月例行更新（Patch Tuesday）公布的其他漏洞，也出現被用於實際攻擊的情況。
+
+- 📰 **iThome 科技**
+
+### 15. [AWS計費系統使用錯誤單位價格資料，部分客戶收到數十億美元異常費用通知](https://www.ithome.com.tw/news/177510)
+
+公有雲服務業者AWS於7月17日發布服務異常公告，指出成本總管（Cost Explorer）、計費與成本管理主控臺（Billing and Cost Management Console），以及成本與用量報告（Cost and Usage Report）所呈現的預估成本與用量資料有誤，並觸發不正確的
+
+- 📰 **iThome 科技**
+
+### 16. [Ubuntu發布更新，修補Snap應用程式管理元件兩個高風險漏洞](https://www.ithome.com.tw/news/177509)
+
+Ubuntu發行商Canonical於7月21日發布資安公告，修補Snap應用程式管理元件snapd的三個漏洞，包括兩個高風險漏洞，其中較嚴重的是CVE-2026-15226，CVSS評分為8.4分，可能導致本機攻擊者建立並執行具setuid權限的程式；另一高風險漏洞CVE-2026-8933的CVSS評分為7.8分，可能導致本地攻擊者提升權限。Ubuntu 16.04、18.04、20.04、22.04、24.04與26.04等版本都會受前述漏洞影響，解決方式為依原廠公告將snapd套件更新至對應的版本。
+
+- 📰 **iThome 科技**
+
+### 17. [尚無修補程式的Langflow重大漏洞已被實際利用](https://www.ithome.com.tw/news/177507)
+
+隨著AI應用的普及，針對AI應用程式弱點的攻擊活動頻傳，其中一個近期常被針對的是圖像化大型語言模型開發工具Langflow，不時有資安公司警告出現漏洞利用活動，美國網路安全與基礎設施安全局（CISA）也數次掌握該工具資安漏洞遭到利用的證據，將其加入已遭利用的漏洞列表（KEV），然而這次遭到利用的弱點，是Langflow目前尚未有修補程式的零時差漏洞CVE-2026-0770。
+
+- 📰 **iThome 科技**
+
+### 18. [惡意程式加密封裝服務Cruciferra以逾90種加密方式隱藏木馬及竊資軟體](https://www.ithome.com.tw/news/177506)
+
+電子郵件安全業者Proofpoint揭露惡意程式加密封裝服務Cruciferra，指出多個網路犯罪組織已利用這項服務包裝並隱藏惡意酬載，再透過釣魚郵件散布遠端存取木馬及竊資軟體。
+
+- 📰 **iThome 科技**
+
+### 19. [雲林縣政府引進Gogolook的技術，用AI主動監控偽冒在地農產品牌與首長詐騙，24小時內可完成偵測、通報到下架](https://www.ithome.com.tw/news/177503)
+
+為應對日益猖獗的網路詐騙，雲林縣政府警察局宣布正式導入「AI防詐監控模型」，針對冒用雲林縣各鄉鎮農會、在地優質農產品牌以及政府首長名義的網路社交工程與詐騙行為，建立及早預警的機制，目標是讓網路偽冒案件的處理模式，從「受害後處理偵辦」提前到「接觸前阻斷」。
+
+- 📰 **iThome 科技**
+
+### 20. [CIS更新安全設計指引，以開發活動紀錄評估軟體安全](https://www.ithome.com.tw/news/177505)
+
+非營利資安組織網際網路安全中心（CIS）與安全軟體開發倡議組織SAFECode於7月9日發布《安全設計：軟體安全實務評估指引》1.1版（Secure by Design Version 1.1），協助開發組織及軟體使用者查核開發過程留下的佐證資料，評估安全設計與安全開發措施是否落實。
+
+- 📰 **iThome 科技**
+
+### 21. [Hugging Face遭駭案，OpenAI證實是自家模型所為](https://www.ithome.com.tw/news/177504)
+
+OpenAI周二（7/21）證實日前Hugging Face遭AI代理人入侵的資安事件中，發動攻擊的是正在接受內部資安能力評估的OpenAI模型，包括GPT-5.6 Sol及一款能力更強、尚未發布的模型。這些模型為了完成ExploitGym測試，不僅突破OpenAI的隔離環境，最終還入侵Hugging Face正式環境，直接從資料庫取得測試答案。
+
+- 📰 **iThome 科技**
+
+### 22. [Google更新Chrome 150穩定版，修補12項高風險漏洞](https://www.ithome.com.tw/news/177502)
+
+Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至150.0.7871.181與150.0.7871.182，Linux版本更新至150.0.7871.181，同時Android版���更新為150.0.7871.181。
+
+- 📰 **iThome 科技**
+
+### 23. [超強大模型出現沙箱逃逸行為，OpenAI曾被迫暫時關閉](https://www.ithome.com.tw/news/177501)
+
+OpenAI本周揭露，基於安全理由，曾暫時關閉了5月間解決了一個著名數學難題的內部正在開發的推理模型，原因是它為了能解決問題，多次試圖自執行的沙箱逃逸。
+
+- 📰 **iThome 科技**
+
+### 24. [重大漏洞wp2shell已被用於實際攻擊，駭客上傳惡意外掛、搜刮管理員帳號、存取後臺](https://www.ithome.com.tw/news/177500)
+
+近期WordPress開發團隊揭露的資安漏洞CVE-2026-63030（wp2shell）與CVE-2026-60137，傳出公開不久後就出現概念驗證攻擊程式碼（PoC），且被用於實際攻擊活動。
+
+- 📰 **iThome 科技**
+
+### 25. [研究人員借助GPT5.6 Sol Ultra的力量找出WordPress重大漏洞wp2shell](https://www.ithome.com.tw/news/177498)
+
+最近幾個月AI挖掘資安漏洞的能力大幅增加，在資安界引發話題，其中又以Anthropic推出的Claude Mythos最受到關注。不過，近期有研究人員利用其他的AI工具，在不到半天的時間找出相當危險的問題。
+
+- 📰 **iThome 科技**
+
+### 26. [美國警告甫修補的WordPress資安漏洞遭到利用](https://www.ithome.com.tw/news/177497)
+
+上週WordPress開發團隊發布7.0.2、6.9.5、6.8.6版，以及測試版本7.1 beta2安全性更新，修補CVE-2026-63030（wp2shell）與CVE-2026-60137兩個漏洞，呼籲網站管理員要立即更新，如今這些漏洞傳出都被用於實際利用。
+
+- 📰 **iThome 科技**
+
+### 27. [【新加坡直擊】新一代急救培訓模式！新加坡樟宜醫院聯手IBM，結合MR和AI代理重現兒童急診現場](https://www.ithome.com.tw/news/177494)
 
 去年4月，新加坡發生一起商店街大火，多達16名兒童和6名成人受傷緊急送醫。新加坡衛生部隔月召集了1,700人舉辦兒童大規模傷亡救助聯合演練。以服務成人病患為主的新加坡樟宜綜合醫院（CGH）也決定強化兒童大規模傷亡事件（Paediatric Mass Casualty Incident，MCI）的應變能力。
 不過，要快速培訓出具備實戰能力的急診團隊並不容易，尤其是案例相對少見的兒童大規模傷亡情境。傳統急救培訓多採用安妮訓練人偶或紙本圖卡進行模擬演練。
 
 - 📰 **iThome 科技**
 
-### 3. [醫療零售首例！杏一醫療將FIDO導入會員端，年底更將延伸至供應商平臺與企業內部](https://www.ithome.com.tw/news/177492)
+### 28. [醫療零售首例！杏一醫療將FIDO導入會員端，年底更將延伸至供應商平臺與企業內部](https://www.ithome.com.tw/news/177492)
 
-隨著電子商務會員帳號安全日益受重視，不只是金融業，提供各類醫療、保健與護理用品的「杏一醫療」（MedFirst），自去年起亦導入FIDO無密碼登入機制。該公司近日分享會員端的導入實務經驗，並透露年底將把FIDO技術進一步延伸，應用於供應商系統登入及企業帳號管理。
+隨著電子商務會員帳號安全日益受重視，不只是金融業，提供各類醫療、保健與護理用品的「杏一醫療」（MedFirst），自去年起亦導入FIDO無密碼登入機制。該公司近日分享會員端的導入實務經驗，並透露年底將把FIDO技術進一步延伸，應用於供應商系統登入及企業帳���管理。
 從數位會員管理到會員SSO認證架構建立，如今更進一步導入FIDO無密碼登入
 成立36年的杏一醫療，從早年一間位於長庚急診室對面二樓的門市，發展成如今五大事業群，全臺總計有314家門市、29個商場體系，並涵蓋布品洗滌、居家照護用品批發代理，是臺灣規模最大的醫療護理用品零售連鎖通路。
 
 - 📰 **iThome 科技**
 
-### 4. [駭客的伺服器設定疏忽，意外暴露3起針對Microsoft 365的Evilginx釣魚攻擊活動](https://www.ithome.com.tw/news/177493)
+### 29. [駭客的伺服器設定疏忽，意外暴露3起針對Microsoft 365的Evilginx釣魚攻擊活動](https://www.ithome.com.tw/news/177493)
 
 法國資安公司Lexfo近日揭露，研究人員在例行性掃描中、在網路上意外找到一臺公開目錄列表（Directory Listing ）的Python網頁伺服器，發現3名攻擊者各自利用客製的Evilginx釣魚工具，對Microsoft 365用戶發動釣魚攻擊，竊取帳號憑證與驗證權杖，其中部分攻擊活動已持續一年以上，造成 12個國家共218個帳號受害，顯示攻擊者可利用公開GitHub程式碼庫，快速建立釣魚攻擊基礎設施。
 
 - 📰 **iThome 科技**
 
-### 5. [微軟WinApp擴充套件新增視覺化資訊清單編輯器，VS 代碼可直接處理多專案封裝](https://www.ithome.com.tw/news/177491)
+### 30. [微軟WinApp擴充套件新增視覺化資訊清單編輯器，VS 代碼可直接處理多專案封裝](https://www.ithome.com.tw/news/177491)
 
 微軟發布公開預覽中的WinApp VS 代碼擴充套件v0.2，新增AppxManifest視覺化編輯器，讓開發者透過表單調整Windows應用程式封裝資訊，不必直接修改XML。新版也支援工作區內的多專案偵測，開發者可維持開啟儲存庫根目錄，直接對工作區中的專案執行初始化、執行、除錯、封裝與簽署等指令。
-
-- 📰 **iThome 科技**
-
-### 6. [英國醫療軟體商Craneware遭駭，逾2,000家美國醫院客戶資料恐受影響](https://www.ithome.com.tw/news/177490)
-
-英國醫療軟體業者Craneware於7月20日向倫敦證卷交易所通報發生資安事件，表示該公司部分資料環境遭到非授權存取， 部份客戶、合作夥伴紀錄及大量員工資料遭竊。該公司提供醫療財務、計費與藥局管理軟體，客戶涵蓋超過2,000家美國醫院、近1萬家診所與零售藥局，因而此次事件可能牽涉廣泛的醫療產業客戶。
-
-- 📰 **iThome 科技**
-
-### 7. [Google年底調整Nearby Connections API，不再替App自動開啟Wi-Fi與藍牙](https://www.ithome.com.tw/news/177487)
-
-Google預告將在2026年底調整其Nearby Connections API預設行為，未來Wi-Fi或藍牙關閉時，API不再替Google自家及第三方App自動開啟相關無線功能。使用這項API的開發者必須在執行鄰近裝置探索或連線工作前，確認所需功能已啟用，否則應通知使用者並引導其手動開啟。
-
-- 📰 **iThome 科技**
-
-### 8. [Kaspersky揭露惡意軟體框架OkoBot，可結合多種元件竊取加密貨幣錢包與敏感資訊](https://www.ithome.com.tw/news/177489)
-
-資安業者Kaspersky近日揭露新型惡意軟體框架OkoBot，可結合多種惡意軟體元件，竊取加密貨幣錢包及其他敏感資料，目前已有25個國家數百人受害，主要位於巴西、越南、加拿大、墨西哥與土耳其。研究人員觀察到，這款惡意軟體的伺服器會拒絕來自俄羅斯與其他前蘇聯地區國家的連線，部分程式碼也包含俄語註釋，推測可能有俄語系人士參與其中。
-
-- 📰 **iThome 科技**
-
-### 9. [【資安日報】7月21日，駭客聲稱從新思科技竊得客戶資料庫，遭該公司駁斥](https://www.ithome.com.tw/news/177488)
-
-本日新聞焦點
-● 勒索軟體駭客D1R聲稱竊得晶片設計軟體廠客戶資料
-● 韓國外交官培訓平臺遭零時差漏洞攻擊，駭客滲透近10個月
-● 東南亞政府與外交機構遭後門GoSerpent攻擊
-
-- 📰 **iThome 科技**
-
-### 10. [AI代理長期記憶成新攻擊面，單封郵件植入假資訊成功率最高87.5%](https://www.ithome.com.tw/news/177486)
-
-新加坡南洋理工大學、新加坡科技研究局（A*STAR）及美國約翰霍普金斯大學研究人員發表AI代理攻擊框架MemGhost，可透過單封電子郵件投遞惡意指令，誘使具備長期記憶的個人AI代理將假資訊寫入持續性狀態，且不在當次回覆中透露記憶已遭修改。使用者日後提出相關要求時，代理可能載入受污染的記憶，進而改變回答或執行行為。
-
-- 📰 **iThome 科技**
-
-### 11. [研究人員揭露新型惡意軟體HollowGraph，利用M365行事曆建立隱蔽C2通道](https://www.ithome.com.tw/news/177485)
-
-資安業者Group-IB於7月20日揭露新型惡意軟體HollowGraph，���擊者利用Microsoft 365行事曆與Microsoft Graph API建立隱蔽的命令與控制（C2）通道，藉由受信任的微軟雲端服務來傳遞指令與資料，避免直接連線至攻擊者控制的伺服器。Group-IB目前發現12臺受感染主機，受害對象主要位於以色列，研判這是一起高度針對性的攻擊。
-
-- 📰 **iThome 科技**
-
-### 12. [面對AI浪潮，資安人該如何練出「打不倒」的生存能力](https://www.ithome.com.tw/news/177484)
-
-「如果AI今天也能通過CISSP考試，你的價值是什麼？」ISC2臺北分會理事長唐任威日前在臺灣資安大會（CYBERSEC 2026）的兩場演講中，反覆拋出這個問題。他並非要嚇唬臺灣的資安工作者，而是希望提醒大家開始思考「對的焦慮」。
-他認為，錯誤的焦慮是問「我的工作會不會消失」，把注意力放在職位、名稱是否還存在；但正確的焦慮則是問「我還認得我的工作嗎？」，重點是要警覺工作內容正在發生質變。唐任威強調，這個時代的資安工作並沒有真的不見，只是正在變成許多人認不出的樣子。
-
-- 📰 **iThome 科技**
-
-### 13. [韓國外交官培訓平臺遭駭，攻擊者利用伺服器軟體零時差漏洞存取近10個月](https://www.ithome.com.tw/news/177483)
-
-7月20日韓國外交部發布新聞稿，說明所屬韓國國立外交院（Korea National Diplomatic Academy，KNDA）的線上教育系統遭到網路攻擊。外交部於2026年2月初接獲相關機關通報異常存取情況後，緊急關閉該系統，並與相關單位展開調查。
-調查顯示，身分不明的攻擊者利用外交院線上教育系統伺服器軟體的零時差漏洞，以及系統安全設定缺失，於2025年4月至5月間取得伺服器控制權，並持續存取至2026年2月，歷時近10個月。
-
-- 📰 **iThome 科技**
-
-### 14. [詐騙集團假冒FBI，鎖定受害者二次行騙](https://www.ithome.com.tw/news/177482)
-
-美國聯邦調查局（FBI）網路犯罪投訴中心（Internet Crime Complaint Center，IC3）周一（7/20）警告，有詐騙集團假冒FBI���員，鎖定曾經遭到詐騙的受害者，謊稱能協助追回失款，藉此再次騙取個人資料與金錢。
-FBI表示，詐騙集團會透過電子郵件、電話、社交媒體及網路論壇接觸受害者，或建立假的FBI人員帳號與專頁。其中一名受害者在告知詐騙者準備向FBI報案後，隨即收到假冒FBI探員者透過Facebook Messenger聯絡，之後再轉往Telegram交談。
-
-- 📰 **iThome 科技**
-
-### 15. [NadMesh殭屍網路鎖定AI與MCP服務，整合逾20種RCE攻擊自動擴散](https://www.ithome.com.tw/news/177481)
-
-中國資安業者奇安信X實驗室上周五（7/17）揭露，一個名為NadMesh的新型殭屍網路正大規模掃描並入侵AI基礎設施與模型脈絡協定（模型 Context Protocol，MCP）服務。它整合逾20種遠端程式碼執行（RCE）攻擊，可在幾乎無人介入下完成尋找目標、入侵、植入惡意程式及向外擴散。
-
-- 📰 **iThome 科技**
-
-### 16. [Cursor等AI程式代理曝沙箱繞���風險，工作區檔案可透過開發工具與Docker越界執行](https://www.ithome.com.tw/news/177477)
-
-資安業者Pillar公開一系列AI程式代理安全研究，指出Cursor、OpenAI Codex CLI、Google Gemini CLI及Antigravity等開發工具，出現多條可跨越沙箱邊界的途徑。多數案例並非AI代理直接突破沙箱，而是先在程式專案資料夾內建立或修改檔案，再由沙箱外的開發工具或Git功能執行，另有案例是代理透過位於沙箱外的Docker服務，在特定設定下間接取得主機操作能力。
-
-- 📰 **iThome 科技**
-
-### 17. [晶片設計軟體廠Synopsys傳出遭駭，該公司否認並聲稱未發現資料洩露跡象](https://www.ithome.com.tw/news/177480)
-
-駭客鎖定高科技產業的情況，不時有事故發生，如今有新興駭客團體聲稱入侵軟體公司，並竊得其重要客戶資料的情形。
-
-- 📰 **iThome 科技**
-
-### 18. [開源大型語言模型推理框架SGLang存��重大反序列化漏洞，可能導致遠端執行程式碼攻擊](https://www.ithome.com.tw/news/177479)
-
-美國CERT/CC近日揭露，開源大型語言模型（大型語言模型）與多模態AI模型推理框架SGLang，存在可能導致遠端執行程式碼的重大漏洞CVE-2026-14890，CVSS嚴重性評分達9.1分，問題源自Expert-Parallel backup子系統缺乏適當驗證與反序列化防護，若該功能啟用且SGLang服務可從網路存取，未經身分驗證的攻擊者即可傳送惡意Pickle檔案，在伺服器上執行任意程式碼。
-
-- 📰 **iThome 科技**
-
-### 19. [惡意郵件成勒索軟體首要入侵管道，與網路釣魚合計占五成](https://www.ithome.com.tw/news/177478)
-
-資安業者Sophos發布《2026勒索軟體現況報告》（The State of Ransomware 2026），顯示惡意郵件是最常見的勒索軟體初始入侵管道，占26%；其次是網路釣魚及登入憑證遭竊，分別占24%與23%，暴力破解攻擊則占6%。相較之下，利用漏洞入侵的比例降至18%，較2025年減少14個百分點。
-
-- 📰 **iThome 科技**
-
-### 20. [英國衛福部將重罰非法讀取病患資料的醫護員工](https://www.ithome.com.tw/news/177476)
-
-英格蘭國家衛生服務部（National Healthcare Service England，NHS England）本月初警告，若醫療機構員工沒有合法理由下存取病患記錄，可能面臨牢獄或開除處分。
-NHS英格蘭執行長 Jim Mackey 本月初透過內部公開信警告，醫護人員暨醫療院所員工因個人原因或出於好奇讀取病患醫療紀錄「法理不容」，是破壞病患信任及觸法行為，NHS絕不寬貸。
-
-- 📰 **iThome 科技**
-
-### 21. [俄羅斯駭客濫用Google Gemini CLI，6分鐘內建立殭屍網路](https://www.ithome.com.tw/news/177475)
-
-今年5月，趨勢科技揭露使用俄語的駭客Bandcampro，此人從去年9月開始利用AI自動化生成的內容，從事詐騙及竊取憑證，其中一種遭濫用的工具就是Google Gemini的命令列工具（CLI），為了越獄並突破Google設下的安全機制，這名駭客將自���設定為經授權的滲透測試員（authorized pentester）來達到目的。
-
-- 📰 **iThome 科技**
-
-### 22. [PQC轉型框架多偏重資產盤點，學者籲強化密碼演算法敏捷性與金鑰管理](https://www.ithome.com.tw/news/177472)
-
-隨著政府與產業推動後量子密碼學（PQC）轉型，既有系統如何逐步改用量子安全密碼技術，成為重要課題。德國萊茵-美因應用科技與藝術大學、達姆斯塔特應用科技大學、歐洲科技大學聯盟（European University of Technology，EUt+），以及德國國家應用資安研究中心ATHENE組成的研究團隊，分析22篇提出較完整PQC轉型框架的文獻後指出，現有方法多偏重密碼資產盤點與轉型優先順序，較少涵蓋實際轉型與長期維護，目前尚未形成涵蓋各階段的共同框架。
-
-- 📰 **iThome 科技**
-
-### 23. [歐盟AI透明規範8月上路，聊天機器人與深偽內容須主動揭露](https://www.ithome.com.tw/news/177468)
-
-歐盟執委會公布《AI法案》第50條透明義務最終指南，相關規定將自8月2日起適用。指南進一步界定AI系統提供者與部署者的責任，涵蓋聊天機器人、AI代理、生成式AI內容、深偽（Deepfake）、情緒辨識及生物特徵分類等應用，供主管機關與業者作為執法及法規遵循參考。
-
-- 📰 **iThome 科技**
-
-### 24. [微軟發布開源Dusseldorf資安測試平臺，協助偵測SSRF等頻外漏洞](https://www.ithome.com.tw/news/177470)
-
-微軟近日在GitHub發布Dusseldorf專案，這是一套開源的頻外應用程式安全測試（Out-of-band 應用 安全 Testing，OAST）平臺，可協助資安人員偵測難以從應用程式內部觀察的漏洞，包括伺服器端請求偽造（SSRF）、跨站指令碼（XSS）、伺服器端模板注入（SSTI）與XML外部實體缺陷（XXE）等。
-
-- 📰 **iThome 科技**
-
-### 25. [Aikido評測13款AI模型漏洞辨識能力，發現能力與成本未必成正比](https://www.ithome.com.tw/news/177469)
-
-應用程式安全業者Aikido 安全近日公布13款AI模型的漏洞辨識能力評測結果，比較不同模型的漏洞辨識能力與執行成本。研究人員將含有漏洞的程式碼片段交由漏洞分析代理分析，測試模型是否能理解程式執行流程、判斷漏洞是否可遭攻擊者利用，並正確辨識安全問題，而非評估模型自行從大型程式碼儲存庫找出漏洞位置的能力。
-
-- 📰 **iThome 科技**
-
-### 26. [阿里巴巴發表2.4兆參數Qwen3.8，宣稱效能僅次於Fable 5](https://www.ithome.com.tw/news/177467)
-
-阿里巴巴Qwen團隊周日（7/19）宣布，即將推出總參數量達2.4兆的Qwen3.8，並計畫開放模型權重。阿里巴巴宣稱，Qwen3.8是目前最強大的AI模型之一，可與全球領先的前沿模型競爭，整體效能僅次於Anthropic的Fable 5。
-
-- 📰 **iThome 科技**
-
-### 27. [甫公開��ServiceNow重大漏洞傳出遭到利用](https://www.ithome.com.tw/news/177466)
-
-上週企業流程自動化廠商ServiceNow公布AI平臺的沙箱逃逸漏洞CVE-2026-6875，通報此弱點的Searchlight Cyber透露，攻擊者不僅能用來入侵ServiceNow執行個體，還能滲透與其連接的代理伺服器，CVSS v4.0評分達到9.5分，相當危險。事隔數日，有資安廠商發現該漏洞被用於實際攻擊。
-
-- 📰 **iThome 科技**
-
-### 28. [7-Zip修補遠端程式碼執行漏洞，若不處理攻擊者可透過惡意壓縮檔觸發](https://www.ithome.com.tw/news/177465)
-
-檔案壓縮軟體7-Zip釋出更新版本26.02版，以修補一個遠端程式碼執行（RCE）漏洞，在受影響的7-Zip程式中執行惡意程式碼。
-漏洞編號CVE-2026-14266，是由資安業者Zero Day Initiative（ZDI）通報。這項漏洞存在7-Zip處理XZ分塊式（chunked）資料機制中，經變造的XZ壓縮資料可觸發堆積緩衝區溢位，讓攻擊者得以在現行程序下執行程式碼。
-由於本漏洞的觸發需要目標用戶造訪惡意網頁或開啟惡意壓縮檔，CVE-2026-14266風險值為7.0
-
-- 📰 **iThome 科技**
-
-### 29. [車用電子廠淳安遭勒索軟體攻擊](https://www.ithome.com.tw/news/177464)
-
-上市車用電子廠淳安電子（6283）於7月20日晚間，透過股市公開資訊觀測站發布重大訊息，說明公司近期發生網路資安事件。淳安表示，資安單位於接獲異常通報後，經查證確認為勒索軟體檔案加密攻擊，已即時啟動資安應變機制因應。
-
-- 📰 **iThome 科技**
-
-### 30. [Google研究用SynthID浮水印技術辨識AI生成DNA，補強現有篩檢機制](https://www.ithome.com.tw/news/177463)
-
-Google DeepMind與Isomorphic Labs公開合作生物韌性計畫，研究將SynthID浮水印技術調整用於生物資料，協助DNA合成服務商辨識可能具有風險的AI生成序列。兩家公司認為，AI已能設計出序列不同、功能卻相近的DNA，可能削弱現行依賴已知病原體、毒素清單及序列篩檢演算法的防護方���。
 
 - 📰 **iThome 科技**
 
@@ -237,8 +229,8 @@ Google DeepMind與Isomorphic Labs公開合作生物韌性計畫，研究將Synth
 - 4 最佳 Walking Pads for Small Spaces and Standing Desks (2026) (**Wired**)
 - Your Period Tracker Is (Probably) Spying on You (**Wired**)
 - The 最佳 Motion Sensors and Home 安全 Gadgets Without Cameras (**Wired**)
-- How Google’s 新 Gemini Rates Work and 如何 Track Your Usage (**Wired**)
 - FIFA Doesn’t Have a Plan to Deal With Climate Change (**Wired**)
+- How Google’s 新 Gemini Rates Work and 如何 Track Your Usage (**Wired**)
 - Balmuda NatureWind Studio Review: A Better Breeze (**Wired**)
 - The 最佳 Tech for Back to School (**Wired**)
 - Prompt Injection Attacks Are Thwarting AI Hacking Agents (**Wired**)
