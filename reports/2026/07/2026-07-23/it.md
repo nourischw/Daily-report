@@ -4,210 +4,208 @@
 
 ---
 
-### 1. [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+### 1. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
 
-- ⭐ 42 分｜💬 26 留言｜👤 1vuio0pswjnm7
+- ⭐ 560 分｜💬 277 留言｜👤 dwwoelfel
 
-### 2. [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+### 2. [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
 
-A digestion of the Jacobian conjecture counterexample - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362 - July 2026 (133 comments)Claude Fable produced a counterexample to the Jacobian Co
+- ⭐ 129 分｜💬 40 留言｜👤 nickthegreek
 
-- ⭐ 985 分｜💬 560 留言｜👤 gmays
+### 3. [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
 
-### 3. [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
+- ⭐ 28 分｜💬 4 留言｜👤 speckx
 
-- ⭐ 101 分｜💬 59 留言｜👤 Erenay09
+### 4. [軟體 rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
 
-### 4. [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+- ⭐ 165 分｜💬 29 留言｜👤 mpweiher
 
-- ⭐ 26 分｜💬 6 留言｜👤 yogthos
+### 5. [為什麼 軟體 Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md)
 
-### 5. [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+- ⭐ 69 分｜💬 49 留言｜👤 dhorthy
 
-https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;
+### 6. [Learn OpenGL, extensive 教學 resource for learning Modern OpenGL](https://learnopengl.com/)
 
-- ⭐ 421 分｜💬 190 留言｜👤 benbreen
+- ⭐ 108 分｜💬 56 留言｜👤 ibobev
 
-### 6. [The Unity CLI: manage Unity from your terminal](https://unity.com/blog/meet-the-unity-cli)
+### 7. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
-- ⭐ 38 分｜💬 10 留言｜👤 nateb2022
+https:&#x2F;&#x2F;littletech.org&#x2F;https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...
 
-### 7. [Scanning for Pangram Errors](https://veryfineprint.substack.com/p/scanning-for-pangram-errors)
+- ⭐ 429 分｜💬 442 留言｜👤 theanonymousone
 
-- ⭐ 9 分｜💬 3 留言｜👤 jsnell
+### 8. [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
 
-### 8. [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
+- ⭐ 152 分｜💬 56 留言｜👤 MarcoDewey
 
-- ⭐ 510 分｜💬 184 留言｜👤 WadeGrimridge
+### 9. [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
 
-### 9. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
+- ⭐ 9 分｜💬 0 留言｜👤 MarcoDewey
 
-Over the past few months, our team has been building more and more slidedecks using 網頁 前端 technologies with coding harnesses like Claude 代碼, but a common complaint is to make even small edits
+### 10. [Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording](https://news.ycombinator.com/item?id=49024620)
 
-- ⭐ 908 分｜💬 206 留言｜👤 starfallg
+Hi Hacker News, I&#x27;m Louis. I built Screenpipe (https:&#x2F;&#x2F;screenpipe.com), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you&#x
 
-### 10. [GigaToken: ~1000x faster Language 模型 tokenization](https://github.com/marcelroed/gigatoken/)
+- ⭐ 27 分｜💬 25 留言｜👤 louis030195
 
-- ⭐ 554 分｜💬 113 留言｜👤 syrusakbary
+### 11. [The arguments against 開源 AI are bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 
-### 11. [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
+- ⭐ 64 分｜💬 33 留言｜👤 jjfoooo4
 
-- ⭐ 597 分｜💬 231 留言｜👤 dcastm
+### 12. [Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro)
 
-### 12. [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
+Hi HN, we are Marcos and Harrison, cofounders of Palmier (https:&#x2F;&#x2F;palmier.io). We are building Palmier Pro, an 開源 macOS video editor, with built-in AI generation and a local MCP ser
 
-- ⭐ 103 分｜💬 90 留言｜👤 jjba23
+- ⭐ 40 分｜💬 11 留言｜👤 harrisontin
 
-### 13. [測試-time 訓練 3D reconstruction](https://github.com/Inception3D/TTT3R)
+### 13. [Learn WebGPU for C++](https://eliemichel.github.io/LearnWebGPU/)
 
-- ⭐ 10 分｜💬 0 留言｜👤 soupspaces
+- ⭐ 43 分｜💬 8 留言｜👤 ibobev
 
-### 14. [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
+### 14. [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)
 
-- ⭐ 118 分｜💬 54 留言｜👤 acmnrs
+hey HN, Jonathan and Guy here, creators of OneCLI (https:&#x2F;&#x2F;onecli.sh&#x2F;). OneCLI is an 開源 vault for AI Agents.Traditional vaults are used to store your secrets and, on demand, pr
 
-### 15. [ANSI escape injection in MCP servers: Hidden from humans, visible to AI](https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/)
+- ⭐ 39 分｜💬 16 留言｜👤 Jonathanfishner
 
-- ⭐ 33 分｜💬 17 留言｜👤 xgpyc2qp
+### 15. [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/)
 
-### 16. [Making](https://beej.us/blog/data/ai-making/)
+- ⭐ 5 分｜💬 0 留言｜👤 royapakzad
 
-- ⭐ 397 分｜💬 155 留言｜👤 erikschoster
+### 16. [JEP 540: Simple JSON API (Now in Incubator)](https://openjdk.org/jeps/540)
 
-### 17. [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/)
+- ⭐ 56 分｜💬 40 留言｜👤 theanonymousone
 
-- ⭐ 117 分｜💬 108 留言｜👤 giuliomagnifico
+### 17. [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/)
 
-### 18. [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid)
+- ⭐ 13 分｜💬 5 留言｜👤 ilreb
 
-Hey HN, Henry &amp; Roman here from Cactus.A small, on-device 模型 is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B pos
+### 18. [Free way to get your data out of ChatGPT Business accounts](https://github.com/Conradqh/scrapemychats)
 
-- ⭐ 162 分｜💬 35 留言｜👤 HenryNdubuaku
+- ⭐ 51 分｜💬 4 留言｜👤 conradqh
 
-### 19. [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide)
+### 19. [Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development)
 
-- ⭐ 450 分｜💬 200 留言｜👤 abelanger
+- ⭐ 63 分｜💬 42 留言｜👤 r2sk5t
 
-### 20. [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps)
+### 20. [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 
-- ⭐ 109 分｜💬 109 留言｜👤 Stevvo
+- ⭐ 64 分｜💬 58 留言｜👤 r2sk5t
 
-### 21. [Making ASCII Art in Vim](https://alexyang.dev/vim-ascii-art/)
+### 21. [Show HN: Remux – an open-source tmux workspace designed for iPhone](https://github.com/h3nock/remux)
 
-- ⭐ 88 分｜💬 10 留言｜👤 evakhoury
+- ⭐ 58 分｜💬 18 留言｜👤 bitwise42
 
-### 22. [Frequently Asked Questions on Expertise](https://jtpeterson.substack.com/p/faq-on-expertise)
+### 22. [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
-- ⭐ 20 分｜💬 0 留言｜👤 surprisetalk
+- ⭐ 416 分｜💬 201 留言｜👤 technewssss
 
-### 23. [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
+### 23. [OpenStreetMap: Admin_level for All Countries](https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries)
 
-https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;2...https:&#x2F;&#x2F;www.faceboo
+- ⭐ 70 分｜💬 9 留言｜👤 ivanjermakov
 
-- ⭐ 813 分｜💬 275 留言｜👤 coleca
+### 24. [Encryption and Globalization 15 Years Later: E2EE and the "Going Dark" Debate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699)
 
-### 24. [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
+- ⭐ 35 分｜💬 15 留言｜👤 iamnothere
 
-- ⭐ 169 分｜💬 104 留言｜👤 Erenay09
+### 25. [Emacs Is a Lispboard](https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/)
 
-### 25. [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
+- ⭐ 46 分｜💬 10 留言｜👤 andros
 
-- ⭐ 123 分｜💬 36 留言｜👤 kickingvegas
+### 26. [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
 
-### 26. [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+- ⭐ 9 分｜💬 0 留言｜👤 annieversary
 
-- ⭐ 331 分｜💬 254 留言｜👤 speckx
+### 27. [Show HN: Claude-thermos – keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos)
 
-### 27. [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)
+- ⭐ 16 分｜💬 16 留言｜👤 s0ck_r4w
 
-- ⭐ 253 分｜💬 231 留言｜👤 rbanffy
+### 28. [Show HN: Whetuu – a zero-config cross-shell prompt written in Zig](https://yamafaktory.github.io/whetuu/)
 
-### 28. [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
+- ⭐ 35 分｜💬 19 留言｜👤 yamafaktory
 
-- ⭐ 133 分｜💬 40 留言｜👤 effects
+### 29. [Fields Medals 2026](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026)
 
-### 29. [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
+- ⭐ 53 分｜💬 16 留言｜👤 nill0
 
-- ⭐ 291 分｜💬 225 留言｜👤 speckx
+### 30. [What happens when the information runs out](https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/)
 
-### 30. [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
-
-- ⭐ 137 分｜💬 50 留言｜👤 helonaut
+- ⭐ 45 分｜💬 16 留言｜👤 mooreds
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Understanding the AI Economy
-- Ghost Cut – Or 為什麼 Cut and Paste is broken everywhere
-- ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)
+- OpenAI’s accidental attack against Hugging Face is science fiction that happened
+- You can now run same OCI images as containers or Firecracker microVMs
+- Scanning for Pangram Errors
+- Brow6el: A full-featured 網頁 browser for the terminal using Chromium
+- Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor
+- The Unity CLI: manage Unity from your terminal
+- ICE Illegally Scooped Up Medicaid Data, Then Shared It with Palantir
+- Show HN: macOS menu-bar 經理 for SSH port forwards
+- The Telegarden (1995-2004)
+- AI bet goes awry: Oracle fires 21,000 employees
+- AMD's 256-core Epyc 9996 'Venice' claims up to a 3.4x jump over Intel Xeon
+- US Government targets Cop City protester over phone operating 系統
+- UK households free to install plug-in balcony solar panels from end of August
+- Cruller: Bun's Zig Runtime, Continued on Zig 0.16
+- Silent Replacement of Trusted macOS App Executables
+- Leaked Document Shows the Surveillance Tech at ICE's Fingertips
+- I Reported on Flock's Cameras. Now I'm One of the 系統's Mistakes
+- Waymo's driverless cars crash less often than people
+- 為什麼 Sony Can't Bring Back Its Classic Walkman Models
+- Fourth Circuit: Border Agents Can Search Your Phone by Hand, No Suspicion Needed
+- ChatGPT medical advice brought man 'to brink of death', lawsuit alleges
+- Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample
+- ANSI escape injection in MCP servers: Hidden from humans, visible to AI
+- Log is non-monotonic in PHP and Lua
+- Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot
+- How much energy do data centers and 人工智慧 use?
+- Ask HN: Is there a website that tracks excessive writes to SSDs in OS/app betas?
+- John C. Dvorak has died
+- Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong
+- Amiga 1000: Ten years ahead of its time
+- Show HN: I built a zero-latency 開發者 tool suite in pure Vanilla JavaScript
+- DOT cranks up its campaign to strip bike lane references from federal websites
+- Malleable computing, Emacs, and you
+- Show HN: Hanky – ETL style framework for loading flash cards into Anki
+- Quality non-fiction books are the antithesis of AI slop
+- Medici family mystery may be solved after more than 400 years
+- 測試-time 訓練 3D reconstruction
+- Back to Kagi
+- Making ASCII Art in Vim
+- Fairphone 6 wide camera experimental Linux support
+- Sorcery in the open: is generated 代碼 still source 代碼?
+- Alphabet's cash burn raises alarm for Big Tech as AI spending climbs
 - LG to ban residential proxies from smart TV apps
-- Publishers consider opting out of Google as search traffic declines
+- Frequently Asked Questions on Expertise
+- Fedora 45 Atomic Desktops Look to Allow for 網頁-Based 遠端 Installations
+- Everyone should know SIMD
+- Ghost Cut – Or 為什麼 Cut and Paste is broken everywhere
+- Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)
+- NerdLens: Mirror your computer with cardboard VR
+- Show HN: Dally – A little every day adds up
+- Ask HN: Does anyone have an old Goodreads API key?
+- Snapshots, copy-on-write, and the economics of 代理 sandboxes
+- git's –end-of-options Flag
+- GigaToken: ~1000x faster Language 模型 tokenization
 - All 253 Patterns from Christopher Alexander's a Pattern Language Summarized
-- Restructuring GitHub's bug bounty program
-- 新 Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory
-- Launch HN: Unlayer (YC W22) – Add email and document builders to your app
-- So Reddit has decided that plain HTML is unsafe
-- Computing Camera Rays
-- 介紹 Formal Verification with Lean Part 1
-- Intel Starts Shipping High-NA EUV Silicon
-- 10 REM"_(C2SLFF4
-- OpenAI and Hugging Face address 安全 incident during 模型 evaluation
-- ScreenWall – Turn old phones into synced widgets for your space
-- Taking OCaml and Eio for a Spin
-- Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose
-- Codeberg Bans Cryptocurrency Projects
-- Any text-to-SQL benchmark should address difficulties of real-world data stores
-- What Rose Petals Teach Us about Induction
-- Petals: Run LLMs at home, BitTorrent-style
-- I Inspected My Take-Home Interview Project. It Was a Whole Operation
-- Wenfeng Liang: Four-Hour Investor Meeting Transcript
-- Amorality and greed at Silicon Valley's favourite university
-- Original Apollo 11 Guidance Computer source 代碼 for command and lunar modules
-- Men That Don't Fit In (1911)
-- Map of Every Clean Water Act (Npdes) Discharge Violation in the US
-- Does creatine make you smarter?
-- “We have information that Moonshot distilled Fable for the development of K3”
-- Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs
-- Which streaming service was that on again?
-- Full Scale Foldable Wing Extensions
-- Late.sh – a command-line Clubhouse for computer people
-- Passkeys were invented by engineers with zero understanding of consumer brain
-- Never Enough
-- Perlin's Noise Algorithm (2023)
-- Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
-- Mechanical light bulb from 1675 [video]
-- MemoryPack: Zero encoding extreme performance binary serializer for C#
-- AI Slop: 為什麼 Philosophy Journals Should Reject AI-Written Prose
+- Protecting our FLOSS commons from LLMs
 - Bloomy (YC S26) is 招聘 a founding 工程師
-- It's a shame what's happened to radio
-- 為什麼 do you suck at juggling now?
-- How we made our LeRobot video reader up to 15× faster
-- Can a MUD evaluate LLMs? A $99 proof of concept
-- Science: A 新 Golden Age
-- Cornell's Interactive Wall of Birds
-- Show HN: DeepSQL – A self-hostable DBA 代理 for Postgres and MySQL
-- Museum of the Human 網頁
-- Show HN: 網頁 swing through midtown NYC
-- Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links
-- Hologram Works. Sponsor What Comes Next
-- NVIDIA DGX Spark as a daily driver
-- Advertise in ChatGPT
-- When is NVLink worth it?
-- Anthropomorphism in Children's Interactions with 大型語言模型 Chatbots
-- The Human Kintsugi
-- Ten Steps Towards Happiness (2015)
-- Judge approves $1.5B Anthropic settlement for pirated books used to train Claude
-- 為什麼 I'm building a note taking app without AI
-- Roblox Officially Supports GrapheneOS
-- A Journalist had his 行動 phone seized. Did using GrapheneOS protect his data?
-- FreeInk: Open ecosystem for e-readers
-- Critical Minerals: Reducing U.S. import reliance with substitution and recycling
-- Gemini last models: temperature, top_p, and top_k are deprecated and ignored
-- Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids
-- Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
-- Human mathematicians are being outcounterexampled
-- Ancient Bronze Age shaman long assumed to be a man was a woman
+- Are AI labs pelicanmaxxing?
+- ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)
+- So Reddit has decided that plain HTML is unsafe
+- 介紹 Formal Verification with Lean Part 1
+- OpenAI and Hugging Face address 安全 incident during 模型 evaluation
+- Intel Starts Shipping High-NA EUV Silicon
+- Show HN: I made YAFL – a E2EE file handoff for AI agents
+- ScreenWall – Turn old phones into synced widgets for your space
+- Launch HN: Unlayer (YC W22) – Add email and document builders to your app
+- Show HN: What's AI's go-to, public or private healthcare?
+- 10 REM"_(C2SLFF4
+- VarAC. HF/FM/SAT Digital Chat Reinvented
+- Restructuring GitHub's bug bounty program
 
 
 ---
