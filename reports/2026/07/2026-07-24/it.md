@@ -4,212 +4,204 @@
 
 ---
 
-### 1. [Flux 3](https://bfl.ai/blog/flux-3)
+### 1. [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
 
-- ⭐ 149 分｜💬 31 留言｜👤 ThouYS
+- ⭐ 180 分｜💬 24 留言｜👤 kensai
 
-### 2. [The PImpl idiom and the C++26 std:indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
+### 2. [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
 
-- ⭐ 23 分｜💬 17 留言｜👤 signa11
+- ⭐ 19 分｜💬 4 留言｜👤 surprisetalk
 
-### 3. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+### 3. [Flux 3](https://bfl.ai/blog/flux-3)
 
-- ⭐ 1258 分｜💬 566 留言｜👤 dwwoelfel
+- ⭐ 413 分｜💬 102 留言｜👤 ThouYS
 
-### 4. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+### 4. [It's getting harder to focus every day](https://glyphack.com/attention/)
 
-https:&#x2F;&#x2F;littletech.org&#x2F;https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...
+- ⭐ 260 分｜💬 133 留言｜👤 peykar
 
-- ⭐ 894 分｜💬 747 留言｜👤 theanonymousone
+### 5. [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
 
-### 5. [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+- ⭐ 35 分｜💬 34 留言｜👤 bw86
+
+### 6. [I Tried Building a Real App with AI. It Took a Year](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
+
+- ⭐ 19 分｜💬 10 留言｜👤 surprisetalk
+
+### 7. [Buz – A fork of Bun using modern Zig, with sub-1s incremental builds](https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891)
+
+- ⭐ 91 分｜💬 60 留言｜👤 kristoff_it
+
+### 8. [My 安全 camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
+
+- ⭐ 10 分｜💬 4 留言｜👤 hhh
+
+### 9. [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
+
+- ⭐ 21 分｜💬 2 留言｜👤 sohkamyung
+
+### 10. [IRGC Claims It Destroyed Amazon's Bahrain Data Center](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/)
+
+- ⭐ 35 分｜💬 12 留言｜👤 thisislife2
+
+### 11. [程式設計 language file extensions that match ISO 3166-1 alpha-2 country 代碼](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
+
+- ⭐ 7 分｜💬 2 留言｜👤 speckx
+
+### 12. [The IBM PC, Part 1: Arrival](https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/)
+
+- ⭐ 22 分｜💬 4 留言｜👤 cfmcdonald
+
+### 13. [Nothing works and everyone is euphoric](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
+
+- ⭐ 166 分｜💬 128 留言｜👤 pchm
+
+### 14. [Claude Cookbook](https://platform.claude.com/cookbook/)
+
+- ⭐ 151 分｜💬 76 留言｜👤 saikatsg
+
+### 15. [為什麼 is 程式設計 so captivating, yet so agonizing?](https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing)
+
+- ⭐ 8 分｜💬 4 留言｜👤 ilreb
+
+### 16. [Computational chemistry, Locally? My rant on SSH](https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally)
+
+- ⭐ 21 分｜💬 15 留言｜👤 crescit_eundo
+
+### 17. [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
 
 I’ve been building Echo (https:&#x2F;&#x2F;echo.tracerml.AI&#x2F;), an experiment in making one AI 系統 out of a pool of open-weight models rather than choosing a single 模型 and using it for every
 
-- ⭐ 368 分｜💬 173 留言｜👤 adam_rida
+- ⭐ 417 分｜💬 200 留言｜👤 adam_rida
 
-### 6. [The Beam Engine](https://glinscott.github.io/beam-engine/)
+### 18. [Launching Health in ChatGPT to US Users](https://openai.com/index/health-in-chatgpt/)
 
-- ⭐ 335 分｜💬 72 留言｜👤 glinscott
+- ⭐ 26 分｜💬 33 留言｜👤 mellosouls
 
-### 7. [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
+### 19. [Tangleflow: Converts GitHub Actions workflows to tangled workflows and back](https://github.com/43081j/tangleflow)
 
-- ⭐ 360 分｜💬 165 留言｜👤 nickthegreek
+- ⭐ 13 分｜💬 5 留言｜👤 wertyk
 
-### 8. [為什麼 軟體 Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md)
+### 20. [The Book Prize Index](https://book-prize-index.vercel.app)
 
-- ⭐ 298 分｜💬 216 留言｜👤 dhorthy
+- ⭐ 32 分｜💬 2 留言｜👤 Luc
 
-### 9. [What else do people draw on gradient.horse?](https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/)
+### 21. [Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike](https://militarywatchmagazine.com/)
 
-- ⭐ 122 分｜💬 20 留言｜👤 spython
+- ⭐ 13 分｜💬 4 留言｜👤 NordStreamYacht
 
-### 10. [Quickly rewrite Git repository history](https://github.com/newren/git-filter-repo)
+### 22. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
 
-- ⭐ 34 分｜💬 1 留言｜👤 modinfo
+- ⭐ 1367 分｜💬 621 留言｜👤 dwwoelfel
 
-### 11. [Learn OpenGL, extensive 教學 resource for learning Modern OpenGL](https://learnopengl.com/)
+### 23. [Hetzner is working on 大型語言模型 推論](https://sliplane.io/blog/hetzner-inference)
 
-- ⭐ 231 分｜💬 118 留言｜👤 ibobev
+- ⭐ 79 分｜💬 34 留言｜👤 jonas_scholz
 
-### 12. [98.css](https://jdan.github.io/98.css/#status-bar)
+### 24. [Game of Trees – Git-based version control from OpenBSD folks](https://www.gameoftrees.org/)
 
-- ⭐ 445 分｜💬 105 留言｜👤 lopespm
+- ⭐ 18 分｜💬 1 留言｜👤 gregnavis
 
-### 13. [軟體 rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
+### 25. [AMD's Instinct MI455X: Aiming for the Sun](https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the)
 
-- ⭐ 276 分｜💬 61 留言｜👤 mpweiher
+- ⭐ 38 分｜💬 15 留言｜👤 ingve
 
-### 14. [I regret migrating to Codeberg](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/)
+### 26. [How Do We Stop Vibe Coding?](https://alexklos.ca/blog/how-do-we-stop-vibe-coding)
 
-- ⭐ 251 分｜💬 152 留言｜👤 boramalper
+- ⭐ 9 分｜💬 2 留言｜👤 prohobo
 
-### 15. [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+### 27. [The day Steve Jobs dissed me in a keynote (2010)](https://sive.rs/itunes)
 
-- ⭐ 234 分｜💬 252 留言｜👤 r2sk5t
+- ⭐ 137 分｜💬 34 留言｜👤 downbad_
 
-### 16. [Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro)
+### 28. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
-Hi HN, we are Marcos and Harrison, cofounders of Palmier (https:&#x2F;&#x2F;palmier.io). We are building Palmier Pro, an 開源 macOS video editor, with built-in AI generation and a local MCP ser
+https:&#x2F;&#x2F;littletech.org&#x2F;https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...
 
-- ⭐ 146 分｜💬 24 留言｜👤 harrisontin
+- ⭐ 1001 分｜💬 804 留言｜👤 theanonymousone
 
-### 17. [為什麼 Sony can't bring back its classic Walkman models](https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman)
+### 29. [I regret migrating to Codeberg](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/)
 
-- ⭐ 100 分｜💬 83 留言｜👤 speckx
+- ⭐ 401 分｜💬 303 留言｜👤 boramalper
 
-### 18. [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
+### 30. [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
 
-- ⭐ 153 分｜💬 77 留言｜👤 speckx
-
-### 19. [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
-
-- ⭐ 215 分｜💬 81 留言｜👤 MarcoDewey
-
-### 20. [OpenAI’s accidental attack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)
-
-OpenAI and Hugging Face address 安全 incident during 模型 evaluation - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548 - July 2026 (1121 comments)
-
-- ⭐ 498 分｜💬 382 留言｜👤 abhisek
-
-### 21. [Fields Medals 2026](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026)
-
-- ⭐ 167 分｜💬 87 留言｜👤 nill0
-
-### 22. [Projects every RC live races and results](https://rc-replay.dev/lr/vmrc/r/6912053)
-
-- ⭐ 4 分｜💬 0 留言｜👤 apokly
-
-### 23. [Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents](https://news.ycombinator.com/item?id=49024620)
-
-Hi Hacker News, I&#x27;m Louis. I built Screenpipe (https:&#x2F;&#x2F;screenpipe.com), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you&#x
-
-- ⭐ 74 分｜💬 53 留言｜👤 louis030195
-
-### 24. [Freeze-Casting](https://en.wikipedia.org/wiki/Freeze-casting)
-
-- ⭐ 24 分｜💬 6 留言｜👤 soupspaces
-
-### 25. [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
-
-- ⭐ 89 分｜💬 24 留言｜👤 MarcoDewey
-
-### 26. [The Visual 6502](http://visual6502.org/JSSim/index.html)
-
-- ⭐ 88 分｜💬 22 留言｜👤 infiniteregrets
-
-### 27. [The arguments against 開源 AI are bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
-
-- ⭐ 264 分｜💬 183 留言｜👤 jjfoooo4
-
-### 28. [Modula-3 History Collection on Computer History Museum](https://softwarepreservation.computerhistory.org/modula3/)
-
-- ⭐ 19 分｜💬 2 留言｜👤 pjmlp
-
-### 29. [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)
-
-hey HN, Jonathan and Guy here, creators of OneCLI (https:&#x2F;&#x2F;onecli.sh&#x2F;). OneCLI is an 開源 vault for AI Agents.Traditional vaults are used to store your secrets and, on demand, pr
-
-- ⭐ 94 分｜💬 30 留言｜👤 Jonathanfishner
-
-### 30. [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
-
-- ⭐ 66 分｜💬 1 留言｜👤 speckx
+- ⭐ 392 分｜💬 185 留言｜👤 nickthegreek
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- 為什麼 軟體 Factories Fail (or: harness engineering is not enough)
+- What else do people draw on gradient.horse?
+- 為什麼 Sony can't bring back its classic Walkman models
+- A Painful 更新 about our Team
+- The Collapse at Netflix Signals the End of Audience Capture
+- Controlled Burns Have Saved Giant Sequoias
+- Show HN: Audio Player with "Binaural Beats" tuned to the same key as your music
+- Show HN: Palmier Pro – Open-source macOS video editor built for AI
+- Fields Medals 2026
+- AWS us-west-2 connectivity issues affecting multiple services
+- 98.css
+- I could do that in a weekend (2016)
+- The Beam Engine
+- Quickly rewrite Git repository history
+- Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents
+- Projects every RC live races and results
+- Building on ATProto
+- Japanese AI Robots Used to Replicate Skilled Confectioners' Abilities
+- The Ever-Receding Pocket
+- 為什麼 hasn't AI increased unemployment?
+- The arguments against 開源 AI are bad
+- Mourning Dan Williams
+- NVIDIA Nemotron 3 Ultra – open weight 模型
+- Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents
+- A solid-state “atomic channel” for separating rare earth elements
+- Mohabi: Disaggregating and Sandboxing the Firefox JavaScript Engine
+- Modula-3 History Collection on Computer History Museum
+- German battery maker Varta files insolvency applications
 - JEP 540: Simple JSON API (Now in Incubator)
-- Couple pay >$800k for a gene-editing therapy for their daughter. She died.
 - Learn WebGPU for C++
-- Meta Garbage Collection: Using OCaml's GC to GC Rust
-- Show HN: Claude-thermos keeps your Claude session warm for you
+- The PImpl idiom and the C++26 std:indirect type
 - AI Companies Are Trying to Hide a Staggering Amount of Debt
+- The Visual 6502
+- Show HN: Claude-thermos keeps your Claude session warm for you
 - Emacs Is a Lispboard
-- Visualizing the Artemis II Mission
+- Meta Garbage Collection: Using OCaml's GC to GC Rust
+- Freeze-Casting
+- Couple pay >$800k for a gene-editing therapy for their daughter. She died.
+- Span-First C#: Designing Around Span<T>
+- SANA-Video 2.0
+- Ask HN: 如何 get in touch with Paddle (MoR)
+- Orcas filmed ramming sunfish so hard it explodes in 雲端 of scraps
+- Learn OpenGL, extensive 教學 resource for learning Modern OpenGL
 - Geekbench 7
-- Show HN: A factory simulator game built on Spreadsheets
-- Show HN: Trifle – Open-source analytics that stores answers, not events
-- Technology is a slippery slope to the bottom
-- Converting Files into Minecraft Worlds
-- Show HN: Remux – an open-source tmux workspace designed for iPhone
+- DARPA, U.S. Air Force fly AI-controlled F-16
+- Visualizing the Artemis II Mission
 - Kimi K3 exploited the latest Redis 伺服器
-- Escape Analysis in Go: Stack vs. Heap Allocations Explained
-- It's an Apple Lisa, on a FPGA
-- Fractl.art – a fractal generator with 8 octillion different patterns
-- Introducing selfie for sign-in: a 新 way to access your Google Account
+- 軟體 rendering in 500 lines of bare C++
+- OpenAI’s accidental attack against Hugging Face is science fiction that happened
+- Bloomy (YC S26) is 招聘 a founding 工程師
+- Show HN: Remux – an open-source tmux workspace designed for iPhone
+- Flock cameras keep getting smashed, so now they're hiding inside speed signs
+- Converting Files into Minecraft Worlds
+- Google 雲端 is killing it
+- Show HN: Trifle – Open-source analytics that stores answers, not events
 - Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample
-- Don't put your name to bot-written content
-- Cruller: Bun's Zig Runtime, Continued on Zig 0.16
-- The Unity CLI: manage Unity from your terminal
-- Splink – Fast, accurate and scalable probabilistic data linkage
-- What happens when the information runs out
-- Free way to get your data out of ChatGPT Business accounts
-- A taxonomy of omnicidal futures involving 人工智慧 (2025)
-- Hitchcock and Herrmann: The Friendship and Film Scores That Changed Cinema
-- Building watchable digital twins of 64 World Cup games
+- Kimi K3 found 19 0days in latest Redis 8.8.0 in 1.5hrs
+- Astronomers may have found the first exomoon
 - LG to ban residential proxies from smart TV apps
-- Brow6el: A full-featured 網頁 browser for the terminal using Chromium
-- Show HN: Life Tile – Passive time tracker that shows your day as a Mondrian grid
-- Show HN: Whetuu – a zero-config cross-shell prompt written in Zig
-- Tell HN: Namecheap gave my account to an unverified third party
-- Open Problems: 為什麼 Reading Every Herculaneum Scroll Is Still a Challenge
-- Encryption and Globalization 15 Years Later: E2EE and the "Going Dark" Debate
-- Letterpaths: Or how LLMs can be good even when they're bad
-- Feral cats fail at urban rodent control (2018)
-- Tech workers fear they're sinking fast
-- Malleable computing, Emacs, and you
-- Zitron: The Subprime Datacenter Crisis
-- Quality non-fiction books are the antithesis of AI slop
-- Automated sign detection across the Electronic Babylonian Library
-- The Corporate Creep of Plex: 為什麼 it may be time to move to Jellyfin
-- Medici family mystery may be solved after more than 400 years
-- Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency
-- ANSI escape injection in MCP servers: Hidden from humans, visible to AI
-- The Telegarden (1995-2004)
-- Fairphone 6 wide camera experimental Linux support
-- AI bet goes awry: Oracle fires 21,000 employees
-- Ghost Cut – Or 為什麼 Cut and Paste is broken everywhere
-- OpenAI and Hugging Face address 安全 incident during 模型 evaluation
-- Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)
-- Everyone should know SIMD
-- Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot
-- Making ASCII Art in Vim
-- Amiga 1000: Ten years ahead of its time
-- Australia to AI: Produce More Power Than You Burn, Stop Content 'Theft'
-- So Reddit has decided that plain HTML is unsafe
-- Stripe in talks to buy OpenRouter for about $10B
-- Are AI labs pelicanmaxxing?
-- For most US drivers, EVs offer emissions benefits and cost savings
-- GigaToken: ~1000x faster Language 模型 tokenization
-- Show HN: Connecting my dumb garage and car's homelink buttons to Home 助手
-- AMD's Instinct MI455X: Aiming for the Sun
-- Ground Robots Inherit the Kill Zone
-- All 253 Patterns from Christopher Alexander's a Pattern Language Summarized
-- From Evaluation to Guardrails: What We Brought to ACM FAccT 2026
-- US Government targets Cop City protester over phone operating 系統
-- Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents
+- Don't put your name to bot-written content
+- BYD 推出 the Denza Z9 GT EV in Europe and the UK at over 3X the Price
+- Cruller: Bun's Zig Runtime, Continued on Zig 0.16
+- Polish-Lithuanian Commonwealth
+- Show HN: A factory simulator game built on Spreadsheets
+- The Unity CLI: manage Unity from your terminal
+- Escape Analysis in Go: Stack vs. Heap Allocations Explained
+- What happens when the information runs out
+- A Pragmatic Approach to LLMs
+- Show HN: Chrome extension for clean, readable SEC filings (10-K, 10-Q, 8-K)
+- Orwell on AI
 
 
 ---
