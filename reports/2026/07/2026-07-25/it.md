@@ -4,214 +4,212 @@
 
 ---
 
-### 1. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+### 1. [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+
+- ⭐ 27 分｜💬 6 留言｜👤 shscs911
+
+### 2. [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
+
+- ⭐ 46 分｜💬 27 留言｜👤 rzk
+
+### 3. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 
 https:&#x2F;&#x2F;www.Anthropic.com&#x2F;Claude-opus-5-系統-card
 
-- ⭐ 1310 分｜💬 709 留言｜👤 alvis
+- ⭐ 1506 分｜💬 837 留言｜👤 alvis
 
-### 2. [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+### 4. [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
 
-- ⭐ 203 分｜💬 37 留言｜👤 KraftyOne
+- ⭐ 68 分｜💬 0 留言｜👤 phickey
 
-### 3. [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
+### 5. [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
 
-- ⭐ 141 分｜💬 84 留言｜👤 aarondong
+- ⭐ 123 分｜💬 21 留言｜👤 agnishom
 
-### 4. [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+### 6. [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
 
-- ⭐ 28 分｜💬 1 留言｜👤 hhs
+- ⭐ 43 分｜💬 15 留言｜👤 walrus01
 
-### 5. [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
+### 7. [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+
+- ⭐ 290 分｜💬 52 留言｜👤 KraftyOne
+
+### 8. [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
+
+- ⭐ 10 分｜💬 1 留言｜👤 sohkamyung
+
+### 9. [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
+
+- ⭐ 263 分｜💬 147 留言｜👤 aarondong
+
+### 10. [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
+
+- ⭐ 584 分｜💬 167 留言｜👤 sohkamyung
+
+### 11. [My 安全 camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
+
+- ⭐ 573 分｜💬 188 留言｜👤 hhh
+
+### 12. [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+
+- ⭐ 86 分｜💬 12 留言｜👤 hhs
+
+### 13. [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
+
+- ⭐ 197 分｜💬 79 留言｜👤 JumpCrisscross
+
+### 14. [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
 
 OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade
 
-- ⭐ 96 分｜💬 43 留言｜👤 eliotho
+- ⭐ 162 分｜💬 80 留言｜👤 eliotho
 
-### 6. [My 安全 camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
+### 15. [PartialString – A finite-difference time-domain physical modelling synthesiser](https://differentinstruments.com/)
 
-- ⭐ 512 分｜💬 177 留言｜👤 hhh
+- ⭐ 9 分｜💬 0 留言｜👤 shmeano
 
-### 7. [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
-
-- ⭐ 493 分｜💬 144 留言｜👤 sohkamyung
-
-### 8. [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
-
-- ⭐ 107 分｜💬 32 留言｜👤 random__duck
-
-### 9. [If coding has been solved, 為什麼 does 軟體 keep getting worse?](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
-
-- ⭐ 528 分｜💬 413 留言｜👤 pchm
-
-### 10. [An old patent inspired the 新 "Y-zipper", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
+### 16. [An old patent inspired the 新 "Y-zipper", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
 
 https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2
 
-- ⭐ 130 分｜💬 30 留言｜👤 crescit_eundo
+- ⭐ 183 分｜💬 37 留言｜👤 crescit_eundo
 
-### 11. [NVIDIA, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
+### 17. [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
 
-Letter: https:&#x2F;&#x2F;images.NVIDIA.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf]https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103, https:&#x2F;&#x2F;xcance
+- ⭐ 169 分｜💬 43 留言｜👤 random__duck
 
-- ⭐ 502 分｜💬 231 留言｜👤 louiereederson
+### 18. [Book Corners: Community map of neighborhood book exchange spots](https://www.bookcorners.org)
 
-### 12. [Fil-C: Garbage In, Memory Safety Out [video]](https://www.youtube.com/watch?v=5F-2Y1LPRek)
+- ⭐ 11 分｜💬 4 留言｜👤 NaOH
 
-- ⭐ 106 分｜💬 98 留言｜👤 Bootvis
+### 19. [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 
-### 13. [Kimi K3 exploited the latest Redis 伺服器](https://twitter.com/fried_rice/status/2080059356322918777)
+- ⭐ 302 分｜💬 95 留言｜👤 twapi
+
+### 20. [Kimi K3 exploited the latest Redis 伺服器](https://twitter.com/fried_rice/status/2080059356322918777)
 
 https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777
 
-- ⭐ 139 分｜💬 39 留言｜👤 Alifatisk
+- ⭐ 203 分｜💬 57 留言｜👤 Alifatisk
 
-### 14. [Half-Life 2 running natively on HaikuOS](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
+### 21. [NVIDIA, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
 
-- ⭐ 272 分｜💬 51 留言｜👤 m0do1
+Letter: https:&#x2F;&#x2F;images.NVIDIA.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf]https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103, https:&#x2F;&#x2F;xcance
 
-### 15. [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
+- ⭐ 586 分｜💬 260 留言｜👤 louiereederson
 
-- ⭐ 223 分｜💬 79 留言｜👤 twapi
+### 22. [Half-Life 2 running natively on HaikuOS](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
 
-### 16. [Don't Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+- ⭐ 295 分｜💬 54 留言｜👤 m0do1
 
-- ⭐ 125 分｜💬 86 留言｜👤 signa11
+### 23. [IRGC claims it destroyed Amazon's Bahrain data center](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/)
 
-### 17. [Marimo now runs in PyCharm](https://marimo.io/blog/pycharm)
+- ⭐ 283 分｜💬 343 留言｜👤 thisislife2
 
-- ⭐ 77 分｜💬 16 留言｜👤 cantdutchthis
+### 24. [Don't Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 
-### 18. [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
+- ⭐ 171 分｜💬 148 留言｜👤 signa11
 
-- ⭐ 55 分｜💬 8 留言｜👤 jackielii
+### 25. [Fil-C: Garbage In, Memory Safety Out [video]](https://www.youtube.com/watch?v=5F-2Y1LPRek)
 
-### 19. [IRGC claims it destroyed Amazon's Bahrain data center](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/)
+- ⭐ 131 分｜💬 131 留言｜👤 Bootvis
 
-- ⭐ 242 分｜💬 308 留言｜👤 thisislife2
-
-### 20. [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
+### 26. [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
 
 https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht...
 
-- ⭐ 127 分｜💬 121 留言｜👤 robin_reala
+- ⭐ 172 分｜💬 150 留言｜👤 robin_reala
 
-### 21. [Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas](https://github.com/fcmv/lucen)
+### 27. [A concrete explanation of how a cache works](https://parksb.github.io/en/article/29.html)
 
-- ⭐ 3 分｜💬 0 留言｜👤 soumik15630m
+- ⭐ 24 分｜💬 2 留言｜👤 parksb
 
-### 22. [AIs don't do what you want. This is bad](https://rewardhacking.org)
+### 28. [Marimo now runs in PyCharm](https://marimo.io/blog/pycharm)
 
-- ⭐ 64 分｜💬 43 留言｜👤 kking23
+- ⭐ 100 分｜💬 27 留言｜👤 cantdutchthis
 
-### 23. [Be skeptical of OpenAI's rogue hacker 代理 story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+### 29. [Buz – A fork of Bun using modern Zig, with sub-1s incremental builds](https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891)
 
-- ⭐ 422 分｜💬 231 留言｜👤 rwmj
+- ⭐ 267 分｜💬 172 留言｜👤 kristoff_it
 
-### 24. [The case for MUDs in modern times (2018)](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
+### 30. [The case for MUDs in modern times (2018)](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
 
-- ⭐ 80 分｜💬 67 留言｜👤 bw86
-
-### 25. [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
-
-- ⭐ 376 分｜💬 277 留言｜👤 rootkea
-
-### 26. [Unitree As2-W](https://www.unitree.com/As2-W/)
-
-- ⭐ 94 分｜💬 40 留言｜👤 MehrdadKhnzd
-
-### 27. [The footprints of every building in NYC](https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/)
-
-https:&#x2F;&#x2F;github.com&#x2F;CityOfNewYork&#x2F;nyc-geo-metadata&#x2F;blob&#x2F;main&#x2F;...
-
-- ⭐ 47 分｜💬 5 留言｜👤 jonathanmkeegan
-
-### 28. [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)
-
-- ⭐ 19 分｜💬 0 留言｜👤 apresta
-
-### 29. [The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/math/ordinals/02-wellfoundedness.html)
-
-- ⭐ 9 分｜💬 2 留言｜👤 pavel_lishin
-
-### 30. [程式設計 language file extensions that match ISO 3166-1 alpha-2 country codes](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
-
-- ⭐ 38 分｜💬 21 留言｜👤 speckx
+- ⭐ 95 分｜💬 73 留言｜👤 bw86
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Buz – A fork of Bun using modern Zig, with sub-1s incremental builds
-- I got into YC Startup School by hacking it
-- 如何 Write a Quine
-- The front end framework for correctness: built on Effect, architected like Elm
-- The small, real, original 網頁
-- AMD and Cerebras Launch AI 推論 Solution
-- Extending Polars with Rust Expression Plugins
-- Em dashes are amazing
-- Proving a human wrote something
-- Self-host your mail 伺服器
-- DuckPGQ – A DuckDB community extension for graph workloads
-- SpaceX Starship Flight 13 livestream [video]
+- Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey
+- Unitree As2-W
+- If coding has been solved, 為什麼 does 軟體 keep getting worse?
+- The footprints of every building in NYC
+- Be skeptical of OpenAI's rogue hacker 代理 story
+- Re: Bye Bye Gravatar
 - Claude Cookbook
-- The hardest way to make a GIF
-- Preventing line breaks in <代碼> elements
-- Codeberg Divides
-- The Brick Game, Through the Ages
-- So Bright the Vision (1956) – a story about machines writing instead of humans [pdf]
-- Hitchcock and Herrmann: The friendship and film scores that changed cinema
-- Chrome's Breaking and Entering
-- Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090
-- The rise and fall of language diversity through the Holocene
-- The PImpl idiom and the C++26 std:indirect type
-- Latest Airbus single aisle aircraft innovations
-- Reporting 網頁 3D Capabilities on a Budget of $3 a Month
+- Gsxui – Shadcn-style components for Go
+- 程式設計 language file extensions that match ISO 3166-1 alpha-2 country codes
+- Man convicted of child sex crime by added _ char "Fus Ro Dah" Skyrim username
+- Em dashes are amazing
+- The front end framework for correctness: built on Effect, architected like Elm
+- DuckPGQ – A DuckDB community extension for graph workloads
+- Researchers replace downloaded macOS apps with evil twins, Apple shrugs
+- An 介紹 Formal Logic(2020) [pdf]
 - Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
-- The Secret Origins of Amazon's Alexa
-- Visualizing the Artemis II Mission
-- Insect submariners survive the depths without imploding
-- I Tried Building a Real App with AI. It Took a Year
-- BGP ORIGIN attribute manipulation and its impact on the Internet
-- Show HN: How well do you use Claude 代碼?
+- Codeberg Divides
+- The small, real, original 網頁
 - Writing by hand is good for your brain
+- Extending Polars with Rust Expression Plugins
 - I regret migrating to Codeberg
-- Flux 3 X Mimic: The Next Generation of Video-Action Models
-- My Emacs Configuration (Dired)
-- Flux 3
-- JEP 541: Deprecate the macOS/x64 Port for Removal
-- Online Historical Encyclopaedia of 程式設計 Languages
+- The PImpl idiom and the C++26 std:indirect type
+- Self-host your mail 伺服器
+- Proving a human wrote something
+- Chrome's Breaking and Entering
+- Latest Airbus single aisle aircraft innovations
+- The hardest way to make a GIF
+- AMD and Cerebras Launch AI 推論 Solution
+- The Psychopath 代碼 – By Pieter Hintjens [pdf]
+- Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live
 - Startup founders urge U.S. government not to shut off Chinese open weight AI
-- Writing a Debugger from Scratch
+- The road to epsilon-zero: Nim always ends, even with infinite ordinals
+- I got into YC Startup School by hacking it
+- 如何 write a quine
+- Flux 3
+- Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas
+- Flux 3 X Mimic: The Next Generation of Video-Action Models
+- I Tried Building a Real App with AI. It Took a Year
+- The rise and fall of language diversity through the Holocene
+- So Bright the Vision (1956) – a story about machines writing instead of humans [pdf]
+- 為什麼 Sony can't bring back its classic Walkman models
+- My Emacs Configuration (Dired)
+- Preventing line breaks in <代碼> elements
+- Hitchcock and Herrmann: The friendship and film scores that changed cinema
+- Show HN: How well do you use Claude 代碼?
 - WebGPU Unleashed: A Practical 教學
+- Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090
+- The Brick Game, Through the Ages
+- Writing a Debugger from Scratch
+- The universe isn't random – it's something stranger – Stephen Wolfram [video]
+- Online Historical Encyclopaedia of 程式設計 Languages
+- BGP ORIGIN attribute manipulation and its impact on the Internet
+- Fields Medals 2026
+- It's getting harder to focus every day
+- What else do people draw on gradient.horse?
+- Reporting 網頁 3D Capabilities on a Budget of $3 a Month
+- 為什麼 is 程式設計 so captivating, yet so agonizing?
+- Game of Trees – Git-based version control from OpenBSD folks
+- "We removed over 80% of Claude 代碼's 系統 prompt for Opus 5 and Fable 5"
+- JEP 541: Deprecate the macOS/x64 Port for Removal
+- Show HN: Palmier Pro – Open-source macOS video editor built for AI
+- The Secret Origins of Amazon's Alexa
+- 新 Jersey bans grocery stores from using shoppers' personal data to set prices
+- AMD's Instinct MI455X: Aiming for the Sun
 - Making Xen's dom0 I/O path NUMA aware
 - 3GPP Version 19
-- 為什麼 Sony can't bring back its classic Walkman models
-- Game of Trees – Git-based version control from OpenBSD folks
-- Show HN: Open-weight OCR got so cheap I had to share it
-- 為什麼 is 程式設計 so captivating, yet so agonizing?
 - Plants vs. Zombies for PlayStation 2
-- Drone-Bench: Tracking simple drone surveillance capabilities of frontier models
-- It's getting harder to focus every day
+- Visualizing the Artemis II Mission
 - Co-Opting Linux Processes for High-Performance 網絡 Simulation (2022)
-- AMD's Instinct MI455X: Aiming for the Sun
-- What else do people draw on gradient.horse?
-- OpenAI did not notice Hugging Face hack for a week
-- Fields Medals 2026
-- The 新 rules of context engineering for Claude 5 generation models
-- 新 Jersey bans grocery stores from using shoppers' personal data to set prices
-- The IBM PC, Part 1: Arrival
-- Show HN: Palmier Pro – Open-source macOS video editor built for AI
-- The Book Prize Index
-- Notion Acquires ZeroEntropy
-- Computational chemistry, Locally? My rant on SSH
-- Mag Computer: A Mag History of RAM (1960–2025)
-- The Beam Engine
-- Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents
-- Open Weights and American AI Leadership
-- Tangleflow: Converts GitHub Actions workflows to tangled workflows and back
-- Amazon cracks down on use of AI images by sellers after 新 York law
-- 98.css
+- Google Was a Lifeline for Publishers. Now Some Are Thinking of Cutting It Off
 
 
 ---
