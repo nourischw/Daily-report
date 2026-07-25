@@ -4,210 +4,203 @@
 
 ---
 
-### 1. [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+### 1. [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 
-- ⭐ 409 分｜💬 177 留言｜👤 shscs911
+- ⭐ 281 分｜💬 67 留言｜👤 Gecko4072
 
-### 2. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+### 2. [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 
-https:&#x2F;&#x2F;www.Anthropic.com&#x2F;Claude-opus-5-系統-card
+- ⭐ 732 分｜💬 328 留言｜👤 shscs911
 
-- ⭐ 1641 分｜💬 1002 留言｜👤 alvis
+### 3. [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
-### 3. [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
+- ⭐ 143 分｜💬 100 留言｜👤 tknaup
 
-- ⭐ 336 分｜💬 56 留言｜👤 agnishom
+### 4. [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
 
-### 4. [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld)
+Hi HN,
+I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while
 
-- ⭐ 92 分｜💬 5 留言｜👤 g0xA52A2A
+- ⭐ 12 分｜💬 0 留言｜👤 stunningllama
 
-### 5. [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
+### 5. [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
 
-- ⭐ 114 分｜💬 91 留言｜👤 rzk
+- ⭐ 32 分｜💬 5 留言｜👤 gmays
 
-### 6. [NYC Apartment Aquaponics](https://erinmurphy.dev/projects/project-2/)
+### 6. [GDID Windows – Cut the tracker that follows you even under VPN](https://korben.info/en/gdid-windows-cut-tracker-vpn.html)
 
-- ⭐ 91 分｜💬 32 留言｜👤 mm1119
+- ⭐ 33 分｜💬 25 留言｜👤 rfarley04
 
-### 7. [Charles Ross spent 50 yrs building Star Axis naked-eye observatory in 新 Mexico](https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html)
+### 7. [Bitchat is now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
 
-- ⭐ 40 分｜💬 6 留言｜👤 ChrisArchitect
+- ⭐ 125 分｜💬 80 留言｜👤 h1watt
 
-### 8. [Kyber (YC W23) Is 招聘 a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+### 8. [How My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
+
+- ⭐ 160 分｜💬 60 留言｜👤 surprisetalk
+
+### 9. [Spatial languages: Writing 代碼 in 2D](https://shukla.io/blog/2026-07/cccx.html)
+
+- ⭐ 78 分｜💬 26 留言｜👤 BinRoo
+
+### 10. [Tile's 安全 is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
+
+- ⭐ 38 分｜💬 2 留言｜👤 sambellll
+
+### 11. [Rauno's Field Notes #2](https://rauno.me/notes/2)
+
+- ⭐ 15 分｜💬 1 留言｜👤 acmnrs
+
+### 12. [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
+
+- ⭐ 533 分｜💬 87 留言｜👤 agnishom
+
+### 13. [Zero roadkill as Amazon canopy bridges secure 15,000 crossings](https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/)
+
+- ⭐ 134 分｜💬 37 留言｜👤 hn_acker
+
+### 14. [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
+
+- ⭐ 99 分｜💬 29 留言｜👤 6581
+
+### 15. [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
+
+- ⭐ 68 分｜💬 46 留言｜👤 rmdmphilosopher
+
+### 16. [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld)
+
+- ⭐ 192 分｜💬 14 留言｜👤 g0xA52A2A
+
+### 17. [Scanwheel is a drum style mechanical television you can 構建 yourself](https://github.com/AncientJames/Scanwheel/)
+
+- ⭐ 33 分｜💬 7 留言｜👤 tobr
+
+### 18. [Engineering management after the cost of 代碼 collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
+
+- ⭐ 59 分｜💬 86 留言｜👤 kiyanwang
+
+### 19. [NYC Apartment Aquaponics](https://erinmurphy.dev/projects/project-2/)
+
+- ⭐ 165 分｜💬 68 留言｜👤 mm1119
+
+### 20. [Kyber (YC W23) Is 招聘 a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 
 - ⭐ 1 分｜💬 0 留言｜👤 asontha
 
-### 9. [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
+### 21. [The Silurian Hypothesis (2020)](https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/)
 
-- ⭐ 120 分｜💬 15 留言｜👤 phickey
+- ⭐ 33 分｜💬 69 留言｜👤 andsoitis
 
-### 10. [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+### 22. [Charles Ross spent 50 yrs building Star Axis naked-eye observatory in 新 Mexico](https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html)
 
-- ⭐ 86 分｜💬 22 留言｜👤 walrus01
+- ⭐ 88 分｜💬 18 留言｜👤 ChrisArchitect
 
-### 11. [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
+### 23. [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
 
-- ⭐ 62 分｜💬 11 留言｜👤 sohkamyung
+- ⭐ 126 分｜💬 26 留言｜👤 ZaninAndrea
 
-### 12. [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+### 24. [Task-centered iproute2 user guide](https://baturin.org/docs/iproute2/)
 
-- ⭐ 334 分｜💬 63 留言｜👤 KraftyOne
+- ⭐ 20 分｜💬 2 留言｜👤 greengreengrass
 
-### 13. [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
+### 25. [Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit)
 
-- ⭐ 321 分｜💬 187 留言｜👤 aarondong
+- ⭐ 14 分｜💬 11 留言｜👤 JojoFatsani
 
-### 14. [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
+### 26. [PyPI Blog: Releases now reject 新 files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
 
-- ⭐ 632 分｜💬 180 留言｜👤 sohkamyung
+- ⭐ 74 分｜💬 45 留言｜👤 miketheman
 
-### 15. [PyPI Blog: Releases now reject 新 files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
+### 27. [My 網頁 version of Mars MIPS, now have builtin C compiler](https://webmars.nfiles.top/)
 
-- ⭐ 25 分｜💬 9 留言｜👤 miketheman
+- ⭐ 18 分｜💬 4 留言｜👤 nenepbl
 
-### 16. [My 安全 camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
+### 28. [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits)
 
-- ⭐ 608 分｜💬 204 留言｜👤 hhh
+- ⭐ 44 分｜💬 31 留言｜👤 paulpauper
 
-### 17. [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
+### 29. [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
 
-- ⭐ 9 分｜💬 1 留言｜👤 surprisetalk
+- ⭐ 143 分｜💬 30 留言｜👤 phickey
 
-### 18. [An old patent inspired the 新 "Y-zipper", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
+### 30. [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
 
-https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2
-
-- ⭐ 231 分｜💬 44 留言｜👤 crescit_eundo
-
-### 19. [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
-
-- ⭐ 34 分｜💬 9 留言｜👤 ZaninAndrea
-
-### 20. [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
-
-- ⭐ 388 分｜💬 110 留言｜👤 twapi
-
-### 21. [Book Corners: Community map of neighborhood book exchange spots](https://www.bookcorners.org)
-
-- ⭐ 38 分｜💬 23 留言｜👤 NaOH
-
-### 22. [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
-
-OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade
-
-- ⭐ 207 分｜💬 95 留言｜👤 eliotho
-
-### 23. [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
-
-- ⭐ 106 分｜💬 24 留言｜👤 hhs
-
-### 24. [Kimi K3 exploited the latest Redis 伺服器](https://twitter.com/fried_rice/status/2080059356322918777)
-
-https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777
-
-- ⭐ 241 分｜💬 72 留言｜👤 Alifatisk
-
-### 25. [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
-
-- ⭐ 7 分｜💬 1 留言｜👤 6581
-
-### 26. [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
-
-- ⭐ 196 分｜💬 47 留言｜👤 random__duck
-
-### 27. [Half-Life 2 running natively on HaikuOS](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
-
-- ⭐ 315 分｜💬 64 留言｜👤 m0do1
-
-### 28. [PartialString – A finite-difference time-domain physical modelling synthesiser](https://differentinstruments.com/)
-
-- ⭐ 29 分｜💬 4 留言｜👤 shmeano
-
-### 29. [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
-
-https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht...
-
-- ⭐ 232 分｜💬 237 留言｜👤 robin_reala
-
-### 30. [IRGC claims it destroyed Amazon's Bahrain data center](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/)
-
-- ⭐ 313 分｜💬 391 留言｜👤 thisislife2
+- ⭐ 116 分｜💬 36 留言｜👤 walrus01
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Fil-C: Garbage In, Memory Safety Out [video]
-- Don't Take the Black Pill [video]
-- Taylor Farms Called White House to Try to Delay Cyclospora Recall
-- NVIDIA, Microsoft, Meta warn against overregulating open-weight models
-- Marimo now runs in PyCharm
-- Buz – A fork of Bun using modern Zig, with sub-1s incremental builds
+- Extinct Media Museum Tokyo
+- Harddrive Is Probably Full
+- An old patent inspired the 新 "Y-zipper", a three-sided fastener
+- Prosecutor Investigating U.S. Boat Strikes Was Murdered in Ecuador
+- ARC-AGI Leaderboard
+- The AI Productivity Illusion
+- Claude Opus 5
+- Politician reads AI prompt during assembly
+- Book Corners: Community map of neighborhood book exchange spots
+- A 系統 prompt to get AI to stop pretending to be human
+- The Chuwi MiniBook X N150, One Year Later
+- PartialString – A finite-difference time-domain physical modelling synthesiser
+- Unravelling the climate behind the collapse of Bronze Age civilizations
+- Writing a (valid) C program without main()
+- Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard
 - If coding has been solved, 為什麼 does 軟體 keep getting worse?
+- India's first privately-developed rocket reaches orbit on debut launch
+- Amen Break
+- Postgres LISTEN/NOTIFY actually scales
 - The case for MUDs in modern times (2018)
-- Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey
-- Unitree As2-W
+- The Rust on ESP Book
+- Pope's official prayer app commits cardinal sin, leaks 700K+ users' info
+- Taylor Farms Called White House to Try to Delay Cyclospora Recall
+- What if the RAM/GPU shortage is deliberate?
+- My 安全 camera shipped a GitHub admin token in its login page
+- Ask HN: What livestream do you keep open in a tab?
 - Claude Cookbook
+- Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey
+- Show HN: Jargo, a Go port of Pipecat for building realtime voice agents
+- Unitree As2-W
+- 介紹 Multiparty Computation Tutorials
+- Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer
+- Marimo now runs in PyCharm
+- Firefox Containers Preview
+- I regret migrating to Codeberg
+- Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
+- Writing by hand is good for your brain
+- What happens behind the scenes when we change effort for same 大型語言模型 models?
 - The footprints of every building in NYC
 - Be skeptical of OpenAI's rogue hacker 代理 story
-- A concrete explanation of how a cache works
+- A shell colon does nothing. Use it anyway.
 - 程式設計 language file extensions that match ISO 3166-1 alpha-2 country codes
-- Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
-- ID requirement to halt freedom of information in Germany
-- Gsxui – Shadcn-style components for Go
-- Writing by hand is good for your brain
-- I regret migrating to Codeberg
+- wsp: Multi-Repo Workspace 經理
+- Gattaca and the quiet Doomsday of genetic determinism
+- Kimi K3 exploited the latest Redis 伺服器
 - Em dashes are amazing
-- Blade Runner 2099 exclusive first look at the replicant uprising
-- DuckPGQ – A DuckDB community extension for graph workloads
-- Codeberg Divides
-- The PImpl idiom and the C++26 std:indirect type
-- The front end framework for correctness: built on Effect, architected like Elm
+- Show HN: I simulated closing the Strait of Hormuz on real oil trade data
+- A downloads organizer is being used to intercept ScreenConnect scam downloads
 - Startup founders urge U.S. government not to shut off Chinese open weight AI
-- Being Linux Torvalds
-- Proving a human wrote something
-- Extending Polars with Rust Expression Plugins
-- The small, real, original 網頁
-- Self-host your mail 伺服器
-- The hardest way to make a GIF
-- Flux 3
-- Latest Airbus single aisle aircraft innovations
+- People are deceiving the justice 系統 with AI
+- Designing an Ethernet Switch ASIC
+- Gsxui – Shadcn-style components for Go
+- The PImpl idiom and the C++26 std:indirect type
+- Codeberg Divides
+- A concrete explanation of how a cache works
+- Quil – a reboot-proof terminal multiplexer that resumes AI sessions
+- Future euro banknote design proposals
+- DuckPGQ – A DuckDB community extension for graph workloads
+- CP/M-68K and Motorola 68000 Emulator
+- Show HN: Cygnus – A fast, lightweight self-hostable serverless runtime and PaaS
+- IRGC claims it destroyed Amazon's Bahrain data center
+- Sperm Whales blow bubbles to achieve restful, vertical sleep
+- Half-Life 2 running natively on HaikuOS
+- Zig by Example
+- FreeBSD ports frozen after someone commits the 150MB Linux Copilot binary
+- The front end framework for correctness: built on Effect, architected like Elm
 - 為什麼 Sony can't bring back its classic Walkman models
-- I Tried Building a Real App with AI. It Took a Year
-- Chrome's Breaking and Entering
-- Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live
-- AMD and Cerebras Launch AI 推論 Solution
-- Flux 3 X Mimic: The Next Generation of Video-Action Models
-- I got into YC Startup School by hacking it
-- The rise and fall of language diversity through the Holocene
-- Fields Medals 2026
-- The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Da
-- My Emacs Configuration (Dired)
-- An 介紹 Formal Logic(2020) [pdf]
-- WebGPU Unleashed: A Practical 教學
-- What else do people draw on gradient.horse?
-- Show HN: Palmier Pro – Open-source macOS video editor built for AI
-- Show HN: How well do you use Claude 代碼?
-- The Iran War threatened a food crisis with soaring fertilizer costs
-- The road to epsilon-zero: Nim always ends, even with infinite ordinals
-- 如何 write a quine
-- So Bright the Vision (1956) – a story about machines writing instead of humans [pdf]
-- Hitchcock and Herrmann: The friendship and film scores that changed cinema
-- It's getting harder to focus every day
-- 為什麼 is 程式設計 so captivating, yet so agonizing?
-- Writing a Debugger from Scratch
-- Online Historical Encyclopaedia of 程式設計 Languages
-- Game of Trees – Git-based version control from OpenBSD folks
-- Preventing line breaks in <代碼> elements
-- AMD's Instinct MI455X: Aiming for the Sun
-- 新 Jersey bans grocery stores from using shoppers' personal data to set prices
-- BGP ORIGIN attribute manipulation and its impact on the Internet
-- Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents
-- Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas
-- JEP 541: Deprecate the macOS/x64 Port for Removal
-- Researchers replace downloaded macOS apps with evil twins, Apple shrugs
-- The Secret Origins of Amazon's Alexa
+- Flux 3
+- The University After AI
+- North Korea arrests hackers for stealing funds from country's Central bank
 
 
 ---
