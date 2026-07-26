@@ -4,204 +4,204 @@
 
 ---
 
-### 1. [Ruff v0.16.0 – Significant 新 updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
+### 1. [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
 
-- ⭐ 149 分｜💬 88 留言｜👤 vismit2000
+- ⭐ 37 分｜💬 10 留言｜👤 ndsipa_pomu
 
-### 2. [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
+### 2. [London Gatwick has launched a robotic airport parking service](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 
-- ⭐ 51 分｜💬 15 留言｜👤 _tk_
+- ⭐ 211 分｜💬 146 留言｜👤 agotterer
 
-### 3. [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
+### 3. [Kill The Cookie Banner](https://killthecookiebanner.eu/)
 
-- ⭐ 157 分｜💬 80 留言｜👤 Cider9986
+- ⭐ 444 分｜💬 240 留言｜👤 rapnie
 
-### 4. [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
+### 4. [Design is compromise](https://stephango.com/design-is-compromise)
 
-- ⭐ 268 分｜💬 109 留言｜👤 olexsmir
+- ⭐ 90 分｜💬 37 留言｜👤 ankitg12
 
-### 5. [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
+### 5. [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
 
-- ⭐ 22 分｜💬 11 留言｜👤 edward
+- ⭐ 38 分｜💬 9 留言｜👤 zeldone
 
-### 6. [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+### 6. [Ruff v0.16.0 – Significant 新 updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
 
-- ⭐ 187 分｜💬 37 留言｜👤 alexktz
+- ⭐ 313 分｜💬 190 留言｜👤 vismit2000
 
-### 7. [German Peasants' War](https://en.wikipedia.org/wiki/German_Peasants%27_War)
+### 7. [Jimothy the raccoon has a rare spinal condition. Here's what that means](https://www.popsci.com/science/whats-jimothy-raccoon-condition/)
 
-- ⭐ 33 分｜💬 28 留言｜👤 constantius
+- ⭐ 52 分｜💬 14 留言｜👤 speckx
 
-### 8. [The 新 rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
+### 8. [如何 Write English Prose](https://thelampmagazine.com/blog/how-to-write-english-prose)
 
-- ⭐ 369 分｜💬 262 留言｜👤 mellosouls
+- ⭐ 14 分｜💬 3 留言｜👤 geneticdrifts
 
-### 9. [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)
+### 9. [Decker](https://beyondloom.com/decker/)
 
-- ⭐ 158 分｜💬 12 留言｜👤 nateb2022
+- ⭐ 8 分｜💬 2 留言｜👤 tosh
 
-### 10. [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
+### 10. [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
 
-I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the b
+- ⭐ 139 分｜💬 19 留言｜👤 AbuAssar
 
-- ⭐ 157 分｜💬 96 留言｜👤 rickmf
+### 11. [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game)
 
-### 11. [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)
+- ⭐ 178 分｜💬 56 留言｜👤 rcy
 
-- ⭐ 189 分｜💬 141 留言｜👤 oliculipolicula
+### 12. [如何 Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
 
-### 12. [Alien World Chemistry Found Inside Meteorite That Struck 新 Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/)
+- ⭐ 4 分｜💬 2 留言｜👤 Bender
 
-- ⭐ 96 分｜💬 32 留言｜👤 spzx
+### 13. [Using sed to make indexes for books (long)](https://www.pement.org/sed/make_indexes.txt)
 
-### 13. [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
+- ⭐ 17 分｜💬 1 留言｜👤 TMWNN
 
-- ⭐ 85 分｜💬 24 留言｜👤 nerdypepper
+### 14. [Google Cache used to have a copy of this page at](https://www.hornet.org/wikipedia-notes.txt)
 
-### 14. [Cloudflare's 新 AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
+- ⭐ 6 分｜💬 1 留言｜👤 jruohonen
 
-- ⭐ 140 分｜💬 123 留言｜👤 alphabetatango
+### 15. [介紹 Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
 
-### 15. [什麼是 happening to jobs? Separating AI hype from reality](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
+- ⭐ 4 分｜💬 0 留言｜👤 tosh
 
-- ⭐ 134 分｜💬 173 留言｜👤 pod_krad
+### 16. [Show HN: The Occult Gatsby](https://occultgatsby.work)
 
-### 16. [DskDitto: Ultra-fast, parallel duplicate-file detector](https://github.com/jdefrancesco/dskDitto)
+The Occult Great Gatsby
+The Great Gatsby Annotated for Esoteric Content:
+The Fourth Way, Alchemy, Tarot, and KabbalahAuthor is my father, Jon Woodson.  I&#x27;m the 網頁 guy who wanted to bring this to
 
-- ⭐ 36 分｜💬 6 留言｜👤 ingve
+- ⭐ 4 分｜💬 0 留言｜👤 morganw
 
-### 17. [Running a 28.9M parameter 大型語言模型 on an $8 microcontroller](https://github.com/slvDev/esp32-ai)
+### 17. [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
 
-- ⭐ 223 分｜💬 53 留言｜👤 boveyking
+- ⭐ 120 分｜💬 20 留言｜👤 interfeco
 
-### 18. [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/)
+### 18. [The 新 AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
 
-- ⭐ 89 分｜💬 104 留言｜👤 vinhnx
+- ⭐ 59 分｜💬 20 留言｜👤 mooreds
 
-### 19. [Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)
+### 19. [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 
-- ⭐ 96 分｜💬 54 留言｜👤 jjwiseman
+- ⭐ 309 分｜💬 194 留言｜👤 Cider9986
 
-### 20. [I wouldn't say Pangram is broken, but I would say that it's brittle](https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but)
+### 20. [What's Under Your Feet in 新 York City?](https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city)
 
-Response: https:&#x2F;&#x2F;substack.com&#x2F;@maxspero&#x2F;note&#x2F;c-297953357
+- ⭐ 104 分｜💬 13 留言｜👤 sohkamyung
 
-- ⭐ 18 分｜💬 3 留言｜👤 antigizmo
+### 21. [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
 
-### 21. [Overloaded Overloading](https://powerfulpython.com/blog/overloaded-overloading/)
+- ⭐ 88 分｜💬 43 留言｜👤 mlenhard
 
-- ⭐ 25 分｜💬 7 留言｜👤 redsymbol
+### 22. [Show HN: Reverse Minesweeper](https://sunflowersgame.com/)
 
-### 22. [大型語言模型 Usage in Debian: Three Proposals](https://www.debian.org/vote/2026/vote_002)
-
-- ⭐ 179 分｜💬 160 留言｜👤 zdw
+- ⭐ 64 分｜💬 22 留言｜👤 pompomsheep
 
 ### 23. [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
 
-- ⭐ 6 分｜💬 2 留言｜👤 1vuio0pswjnm7
+- ⭐ 250 分｜💬 198 留言｜👤 1vuio0pswjnm7
 
-### 24. [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
+### 24. [Calling all 開源 maintainers working with Ruby](https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553)
 
-- ⭐ 112 分｜💬 94 留言｜👤 EA-3167
+- ⭐ 8 分｜💬 7 留言｜👤 arto
 
-### 25. [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
+### 25. [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 
-- ⭐ 37 分｜💬 28 留言｜👤 01-_-
+- ⭐ 354 分｜💬 151 留言｜👤 olexsmir
 
-### 26. [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
+### 26. [Sum of Cubes via Difference Tables](https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/)
 
-- ⭐ 112 分｜💬 30 留言｜👤 birdculture
+- ⭐ 7 分｜💬 1 留言｜👤 surprisetalk
 
-### 27. [JetZero](https://www.jetzero.aero)
+### 27. [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
 
-- ⭐ 213 分｜💬 198 留言｜👤 lisper
+- ⭐ 28 分｜💬 11 留言｜👤 saaaaaam
 
-### 28. [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
+### 28. [Using ThinkPad T480 as a 行動 phone](https://grego.site/blog/thinkphone)
 
-- ⭐ 70 分｜💬 34 留言｜👤 surprisetalk
+- ⭐ 5 分｜💬 3 留言｜👤 marosgrego
 
-### 29. [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
+### 29. [Terence Tao: Mathematics in the Age of AI [pdf]](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
 
-- ⭐ 67 分｜💬 15 留言｜👤 vinhnx
+- ⭐ 59 分｜💬 23 留言｜👤 Anon84
 
-### 30. [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
+### 30. [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
 
-- ⭐ 50 分｜💬 49 留言｜👤 TimCTRL
+- ⭐ 241 分｜💬 53 留言｜👤 alexktz
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Make an Origami Circuit Board
+- DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]
+- Inflect-Micro-v2: complete voice in 9.36M parameters
+- 什麼是 happening to jobs? Separating AI hype from reality
+- Third Drone Shot Down in Three Days in Romanian Territory
+- Elevated Errors for Opus 5
+- Cloudflare's 新 AI traffic options for customers
+- Alien World Chemistry Found Inside Meteorite That Struck 新 Jersey Home
+- DskDitto: Ultra-fast, parallel duplicate-file detector
+- Scientists link oral bacteria to heart disease and cognitive decline
+- Pizza, pasta, potatoes, protein – how Italian children became so overweight
+- Stinkpot: SQLite-backed shell history
+- Show HN: I mapped every US golf course
+- Kyber (YC W23) Is 招聘 a Head of Engineering
+- Show HN: A browser-based video editor that renders videos directly with FFmpeg
+- I wouldn't say Pangram is broken, but I would say that it's brittle
+- BYD Yangwang U8 has remarkable emergency floating function that would save lives
+- How Arsonists used cats to spread Italy's wildfires
+- Git rebase -I is not that scary
+- Clinical failure rates over the decades: yikes
+- The 新 rules of context engineering for Claude 5 generation models
+- Sell the Company for $400M? He's Giving It Away Instead
+- Skill Router – a local-first router for large 代理 skill libraries
 - Android may soon restrict on-device ADB
-- GM Backs Sodium Ion Batteries for U.S. Grid Storage
-- Show HN: I made some transistor animations
-- Show HN: Brolly, a plain-text weather forecast site
+- Ask HN: What are the most promising RL fields for a 新 master student?
+- SIMD for Collision
+- I Find Problems to Solve as a Staff 工程師
+- Capra, Cribl's Design 系統
 - Pip install Postgres – no Docker/Brew/apt
+- Rethinking Legal Education in the AI Era
+- Show HN: Managing on-premise servers without Kubernetes
+- Systems and Delays
 - Memory safety absolutists
-- Producing ammonia and fertiliser using wind power in Morris, Minnesota
 - How My Images Are Dithered
 - Bitchat is now on Radicle
+- GM Backs Sodium Ion Batteries for U.S. Grid Storage
+- JetZero
 - Open-weight AI is having its Kubernetes moment
+- Overloaded Overloading
+- Show HN: Wmux – A workspace multiplexer for AI agents
 - Turn And Face The Strange
-- Did they ghost you?
-- France and Spain wildfires: more than 300k people displaced
-- W4ME Station – a WASM-4 runtime for Java ME phones
-- Multicast TV Distribution on My Home 網絡
-- Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?
 - An old patent inspired the 新 "Y-zipper", a three-sided fastener
-- Kyber (YC W23) Is 招聘 a Head of Engineering
+- You don't hire juniors to do menial chores
+- Did they ghost you?
+- 為什麼 Los Angeles Stopped Repaving Its Streets
+- Running a 28.9M parameter 大型語言模型 on an $8 microcontroller
+- Anthropic should learn from those cotton-picking socialists
 - The Fedora 45 Sausage Factory
-- Bringing PyTorch Monarch to AMD GPUs
-- Becoming a Research 工程師 at a Big 大型語言模型 Lab
+- Show HN: Temporal Context Map
 - MouthPad: A Tongue-Controlled Touchpad
-- Humans haven't stopped evolving
-- Show HN: Writemark, a dependency free 網頁 component for inline Markdown editing
-- Spatial languages: Writing 代碼 in 2D
+- W4ME Station – a WASM-4 runtime for Java ME phones
+- Show HN: Virtual time engine to record HTML to 60fps MP4, no drops
+- Multicast TV Distribution on My Home 網絡
+- Bringing PyTorch Monarch to AMD GPUs
+- Producing ammonia and fertiliser using wind power in Morris, Minnesota
 - Zero roadkill as Amazon canopy bridges secure 15,000 crossings
+- Spatial languages: Writing 代碼 in 2D
+- Anthropic secures its AI-native 軟體 development lifecycle
+- Welcome to the age of decadence without pleasure
 - Maybe we should revisit microkernels
+- KGazer: Kafka Compacted Topic Explorer
+- Becoming a Research 工程師 at a Big 大型語言模型 Lab
+- 大型語言模型 Usage in Debian: Three Proposals
 - Charles Ross spent 50 yrs building Star Axis naked-eye observatory in 新 Mexico
-- Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window
-- Claude 代碼 has a hardcoded instruction telling Opus 5 not to use subagents
-- The Dark Night of Mathematics
-- Registration of 新 accounts to the Arch AUR reopened with hardened requirements
+- Show HN: QueryTuner – SQL diagnostics across 5 DBs, no 資料庫 connection
+- Open Knowledge format v0.2 tackles agentic trust
+- Show HN: Writemark, a dependency free 網頁 component for inline Markdown editing
 - Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach
-- Extinct Media Museum Tokyo
-- The growing vigilante movement to knock out Flock surveillance cameras
-- Negative Resistance
-- My 網頁 version of Mars MIPS, now has built-in C compiler
-- Librrd Playground
-- Retry Storm Lab
-- The Silurian Hypothesis (2020)
-- UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities
-- An OpenAI 模型 left notes about 如何 evade containment; we need more details
-- Task-centered iproute2 user guide
-- 95CSS: A Windows 95-style CSS framework
-- If coding has been solved, 為什麼 does 軟體 keep getting worse?
-- The AI Productivity Illusion
-- Building a Tiny 3D Renderer for a Tiny Handheld
-- Show HN: What 180k words look like as a temporal knowledge graph (Oz series)
-- Claude Opus 5
-- I regret migrating to Codeberg
-- Engineering management after the cost of 代碼 collapsed
-- PyPI Blog: Releases now reject 新 files after 14 days
-- Writing by hand is good for your brain
-- Claude Cookbook
-- What if the RAM/GPU shortage is deliberate?
-- Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
-- Digital Intelligence: 為什麼 Humanity Created What It Does Not Understand
-- The case for MUDs in modern times (2018)
-- California Historical Radio Society
-- Agentic 測試 processes, 大型語言模型 benchmarks, and other notes on agentic coding
-- My 安全 camera shipped a GitHub admin token in its login page
-- Firefox Containers Preview
-- ARC-AGI Leaderboard
-- Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard
-- Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey
-- Startup founders urge U.S. government not to shut off Chinese open weight AI
-- Postgres LISTEN/NOTIFY actually scales
-- Tile's 安全 is so bad it's a feature for stalkers
-- Show HN: ZWPlayer – Free player with interactive annotations and subtitle search
-- ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison
+- We Are Not Special (2021)
+- Repairing a "for parts" Canon 7D Mark II
 
 
 ---

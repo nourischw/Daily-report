@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [Google緊急更新Chrome 150版，修補4個高風��漏洞](https://www.ithome.com.tw/news/177624)
+### 1. [Google緊急更新Chrome 150版，修補4個高風險漏洞](https://www.ithome.com.tw/news/177624)
 
 本週二Google發布Chrome穩定版更新150.0.7871.181版與150.0.7871.182版，不料兩天後突然又推出新版本，針對Windows與macOS提供150.0.7871.186版與150.0.7871.187版，針對Linu
 
@@ -26,7 +26,7 @@ Hugging Face遭AI代理意外攻擊的事件成為本週熱門話題，後續Ope
 ### 4. [【AI Coding實戰】Bun創辦人用AI重寫53萬行程式，11天就搞定](https://www.ithome.com.tw/news/177619)
 
 原本要3位資深工程師投入一年才能完成的大型軟體重寫專案，後來花11天就完成了。
-JavaScript執行環境Bun創辦人Jarred Sumner用AI輔助開發工具Claude 代碼，把Bun內部53萬多行程式碼從Zig語言改寫���Rust。11天內，共完成6,502次Git提交，最高同時有64支Claude協作。
+JavaScript執行環境Bun創辦人Jarred Sumner用AI輔助開發工具Claude 代碼，把Bun內部53萬多行程式碼從Zig語言改寫成Rust。11天內，共完成6,502次Git��交，最高同時有64支Claude協作。
 最後，Rust版Bun不只通過Linux、Windows和macOS三種作業系統的所有自動測試，效能也提高2%～5%，執行檔還瘦身20%，甚至修復了128項舊版問題，變得更有效率、更好維護。
 
 - 📰 **iThome 科技**
@@ -37,7 +37,7 @@ JavaScript執行環境Bun創辦人Jarred Sumner用AI輔助開發工具Claude 代
 
 - 📰 **iThome 科技**
 
-### 6. [郵件伺服器與協作平臺Zimbra發布更新，修補SNMP指令注入與XSS漏洞](https://www.ithome.com.tw/news/177615)
+### 6. [郵件伺服器與協作平臺Zimbra發布更新，修補SNMP指令注入與XSS��洞](https://www.ithome.com.tw/news/177615)
 
 近日俄羅斯駭客組織Laundry Bear濫用郵件伺服器與協作平臺Zimbra漏洞，對烏克蘭、北約、美國等國家發動大規模攻擊，引起五眼聯盟和多個歐洲國家共同發出警告，也讓Zimbra的漏洞揭露與修補，成為眾所矚目的焦點。
 
@@ -54,7 +54,7 @@ JavaScript執行環境Bun創辦人Jarred Sumner用AI輔助開發工具Claude 代
 
 ### 8. [GitHub搶先支援無狀態MCP，遠端服務擴充免再綁定工作階段](https://www.ithome.com.tw/news/177612)
 
-GitHub MCP伺服器已提前支援預定於7月28日發布的新版MCP規格，新版移除協定層的工作階段與初始化程序，每次請求都會帶上處理所需資訊，可交由任一臺伺服器執行，遠端服務因而更容易透過增加伺服器數量擴充處理能力。
+GitHub MCP伺服器已提前支援預定��7月28日發布的新版MCP規格，新版移除協定層的工作階段與初始化程序，每次請求都會帶上處理所需資訊，可交由任一臺伺服器執行，遠端服務因而更容易透過增加伺服器數量擴充處理能力。
 
 - 📰 **iThome 科技**
 
@@ -76,7 +76,7 @@ SolarWinds於7月21日發布企業檔案傳輸與管理平臺Serv-U 2026.3版，
 
 - 📰 **iThome 科技**
 
-### 12. [俄羅斯駭客於Zimbra伺服器植入惡意程式ZimReaper，意圖竊取電子���件](https://www.ithome.com.tw/news/177609)
+### 12. [俄羅斯駭客於Zimbra伺服器植入惡意程式ZimReaper，意圖竊取電子郵件](https://www.ithome.com.tw/news/177609)
 
 美國、英國、澳洲、加拿大、紐西蘭等五眼聯盟成員及歐洲夥伴機構聯手，警告俄羅斯駭客組織Laundry Bear（Void Blizzard、CL-STA-1114、TA488），利用郵件協作平臺Zimbra Collaboration Suite（ZCS）漏洞CVE-2025-66376，攻擊西方國家的政府與企業組織。
 
@@ -88,7 +88,7 @@ Next.js發布15.5.21與16.2.11安全更新，修補4項高風險及5項中風險
 
 - 📰 **iThome 科技**
 
-### 14. [Claude桌面版漏洞讓惡意連結自動送出隱藏指令，恐竊取對話並植入��式碼](https://www.ithome.com.tw/news/177608)
+### 14. [Claude桌面版漏洞讓惡意連結自動送出隱藏指令，恐竊取對話並植入程式碼](https://www.ithome.com.tw/news/177608)
 
 資安業者Oasis 安全上周揭露，Anthropic的Claude桌面版程式（Claude Desktop）存在一項名為PromptFiction的安全漏洞，駭客只要誘導使用者點擊特製連結，就能讓Claude在使用者未確認的情況下，自動執行藏於連結中的指令，可能導致歷史對話外洩；若Claude具備本機檔案存取權限，還可能依照指令在程式中植入惡意碼。Anthropic已修補該漏洞。
 
@@ -133,7 +133,7 @@ Linux核心開發團隊近日在不到24小時內密集發布資安公告，從7
 
 ### 21. [LG顯示器暗中透過Windows 更新於用戶電腦安裝McAfee軟體試用版，微軟強力介入阻止](https://www.ithome.com.tw/news/177597)
 
-LG數款高階顯示器用戶發現，在接上Windows電腦後，電腦被偷偷安裝McAfee安全軟體試用版。此事引發微軟介入，但LG否認擅自安裝。
+LG數款高階顯示器用戶發現，在接上Windows電腦後，電腦被偷偷安裝McAfee安全軟體試用版。此事引發微軟介入，但LG否���擅自安裝。
 
 - 📰 **iThome 科技**
 
@@ -158,7 +158,7 @@ OpenAI周四（7/23）正式向美國用戶推出ChatGPT Health，允許使用�
 
 ### 25. [逾20個巴西政府網站遭入侵，駭客用於當作攻擊跳板](https://www.ithome.com.tw/news/177590)
 
-駭客利用合法的網站作為散布惡意軟體的管道，過往有不少資安公司揭露這種類型的事故，通常攻擊者會針對特定內容管理平臺及資安漏洞，藉此滲透網站並埋入惡意程式碼，不過，最近有一起活動相當特別，攻擊者竟是綁架政府機關的基礎設施，將其作為傳遞惡意軟體的管道。
+駭客利用��法的網站作為散布惡意軟體的管道，過往有不少資安公司揭露這種類型的事故，通常攻擊者會針對特定內容管理平臺及資安漏洞，藉此滲透網站並埋入惡意程式碼，不過，最近有一起活動相當特別，攻擊者竟是綁架政府機關的基礎設施，將其作為傳遞惡意軟體的管道。
 
 - 📰 **iThome 科技**
 
