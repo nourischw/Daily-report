@@ -193,6 +193,7 @@ JSON是網路服務與應用程式交換資料時常用的格式，但Java標準
 
 ### 更多 AI 新聞 (70則)
 
+- Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago (**Wired**)
 - The 10 最佳 WIRED-Tested Handheld Vacuums of 2026 (**Wired**)
 - Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall (**Wired**)
 - 3 最佳 Smart Ring Models: Oura, RingConn, and Samsung (2026) (**Wired**)
@@ -242,7 +243,6 @@ JSON是網路服務與應用程式交換資料時常用的格式，但Java標準
 - 10 最佳 Meal Delivery Services, Tested by an Ex-Restaurant Critic (**Wired**)
 - People Are Getting Off to Porn About ICE Raids (**Wired**)
 - Google Turns a Selfie Video Into Your Account’s Spare Key (**Wired**)
-- Banning Social Media for Kids Is a Bad Idea (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
