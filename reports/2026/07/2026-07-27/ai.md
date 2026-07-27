@@ -4,33 +4,180 @@
 
 ---
 
-### 1. [OpenJDK有望內建JSON API，簡單處理可免用外部函式庫](https://www.ithome.com.tw/news/177623)
+### 1. [【資安日報】7月27日，泰國財政部驚傳遭中國駭客濫用AI從事自動化攻擊](https://www.ithome.com.tw/news/177652)
+
+本日新聞焦點
+● 中國駭客透過AI代理於泰國財政部從事網路間諜活動
+● 勒索軟體Clop滲透Windchill與FlexPLM並向用戶寄勒索信
+● 勒索軟體Chaos打造將C2藏在瀏覽器的木馬程式msaRAT
+
+- 📰 **iThome 科技**
+
+### 2. [服務範圍涵蓋全美的快遞業者OnTrac遭駭客入侵，客戶個資可能外洩](https://www.ithome.com.tw/news/177651)
+
+依據資安媒體BleepingComputer的報導，美國快遞業者OnTrac於7月22日通知客戶，駭客曾入侵該公司網路，可能取得包含個人資料的檔案。OnTrac是美國主要包裹快遞業者之一，目前在35州設有102個據點，配送範圍涵蓋約70%的美國人口，並與超過7,000名獨立配送承包商合作，其資料外洩可能影響大量客戶。
+
+- 📰 **iThome 科技**
+
+### 3. [Cognition收購簡訊AI助理Poke，將主動互動能力導入Devin](https://www.ithome.com.tw/news/177650)
+
+AI程式開發代理人Devin的開發商Cognition上周四（7/23）宣布，已收購簡訊AI助理Poke的開發商The Interaction Company of California，計畫把Poke主動聯絡使用者、持續追蹤任務及較像朋友的對話方式導入Devin。
+
+- 📰 **iThome 科技**
+
+### 4. [回顧近兩年來勒索軟體對醫療供應鏈的攻擊，研究人員警示歐洲中東與非洲地區遭受的威脅升溫](https://www.ithome.com.tw/news/177648)
+
+資安業者Flare近日分析2024年至2026年歐洲、中東與非洲（EMEA）地區的勒索軟體活動，觀察到14個鎖定EMEA醫療業的勒索組織，且攻擊活動已擴大至整個醫療保健供應鏈，涵蓋醫院、診所、遠距醫療、診斷實驗室、藥局、醫療軟體與設備供應商、醫療人力服務及公共衛生機構，一些原本以攻擊政府單位為主的駭客組織，近幾個月來也大幅增加對醫療業的攻擊。
+
+- 📰 **iThome 科技**
+
+### 5. [���索軟體Chaos打造惡意程式msaRAT，將C2通道隱藏在瀏覽器處理程序進行掩護](https://www.ithome.com.tw/news/177647)
+
+一般而言，駭客為了隱匿C2通訊，最常見的其中一種作法，就是濫用合法的雲端服務來建立通訊，以這些服務的合法流量來掩蓋非法活動。現在有駭客團體採用全新的手法來達到目的，引起研究人員的注意。
+
+- 📰 **iThome 科技**
+
+### 6. [微軟AD CS漏洞Certighost可讓低權限帳號冒充網域控制站](https://www.ithome.com.tw/news/177645)
+
+微軟Active Directory憑證服務（AD CS）存在名為Certighost的權限提升漏洞，在研究人員測試的特定配置下，持有一般網域帳號的攻擊者可誘使憑證授權單位簽發帶有網域控制站身分資訊的憑證，藉此冒充網域控制站，取得網域內的帳號機密。該漏洞編號為CVE-2026-54121，微軟已於7月14日發布更新修補。
+
+- 📰 **iThome 科技**
+
+### 7. [冒牌Notepad++外掛被用於散布惡意程式](https://www.ithome.com.tw/news/177644)
+
+三年前烏克蘭電腦緊急應變團隊（CERT-UA）揭露俄羅斯駭客UAC-0099的攻擊行動，後續資安公司Deep Instinct公布進一步的調查結果，指出駭客的主要目標是境外公司的烏克蘭員工，透過多種管道在受害電腦植入惡意程式LonePage，其中一種是WinRAR已知漏洞CVE-2023-38831。如今CERT-UA指出，這些駭客手法出現了顯著變化。
+
+- 📰 **iThome 科技**
+
+### 8. [Anthropic推出Claude Opus 5，效能接近Fable 5、使用成本減半](https://www.ithome.com.tw/news/177643)
+
+Anthropic上周五（7/24）推出Claude Opus 5，主打程式設計、知識工作及電腦操作等日常任務，效能接近前沿模型Claude Fable 5，但使用成本僅約一半。Opus 5即日起成為Claude Max方案的預設模型，也是Claude Pro方案提供的最強模型。
+
+- 📰 **iThome 科技**
+
+### 9. [Meta、微軟、OpenAI等力挺開放權重AI模型，籲美國避免過早限制](https://www.ithome.com.tw/news/177640)
+
+微軟上周五（7/24）發布《開放權重與美國AI領導地位》聯合公開信，呼籲美國決策者支持開放權重AI模型，避免過早限制可供下載的模型。目前連署者包括Meta、微軟、NVIDIA、OpenAI、Google、IBM、AMD、GitHub、Hugging Face及Linux基金會等業者與組織。
+
+- 📰 **iThome 科技**
+
+### 10. [外掛相容問題未解，WordPress 7.1暫不升級React 19](https://www.ithome.com.tw/news/177636)
+
+WordPress開發團隊宣布，React 19不會納入WordPress 7.1，該版本將繼續使用React 18.3。團隊先前曾在Gutenberg外掛中短暫啟用React 19，但測試發現，新舊React版本之間的互動，以及部分外掛使用React的方式，會引發未預期的相容問題，因此撤回這項變更，並需要較長的測試期，持續改善及調整相容層。
+
+- 📰 **iThome 科技**
+
+### 11. [勒索軟體Clop鎖定Windchill與FlexPLM的重大漏洞，企圖竊取資料及勒索](https://www.ithome.com.tw/news/177639)
+
+去年聲稱從許多企業組織的Oracle E-Business Suite（EBS）竊得大批資料的勒索軟體駭客Clop（FIN11、Lace Tempest、Graceful Spider），近期發動新一波攻擊，並向許多企業組織寄送勒索信的情形。
+
+- 📰 **iThome 科技**
+
+### 12. [研究人員揭露Claude Cowork沙箱逃逸漏洞，可導致AI代理讀寫Mac主機檔案](https://www.ithome.com.tw/news/177638)
+
+AI代理工具Claude Cowork遭研究人員發現沙箱逃逸問題。AI代理安全業者Accomplish近日揭露，在Cowork的macOS版本中，攻擊者可透過提示誘使AI代理利用Linux核心漏洞CVE-2026-46331，在Cowork的Linux VM中取得Root權限，再利用Cowork與Mac主機之間的檔案系統共享機制，突破沙箱限制，讀寫Mac主機上的任意檔案。
+
+- 📰 **iThome 科技**
+
+### 13. [拒絕旁觀！網路詐騙通報查詢網展現公私協力，8位熱心民眾通報破萬件，下一步聚焦廣告生態系聯防](https://www.ithome.com.tw/news/177634)
+
+面對無孔不入的數位詐騙，單打獨鬥已不足以應對。數位發展部近日公布「網路詐騙通報查詢網」上線近兩年來的最新成果，不僅通報件數正式突破百萬大關，跨部會聯手成功下架逾50萬件詐騙訊息，更揭露已有8名熱心民眾單人通報均達1萬件以上，展現出「拒絕旁觀、主動挺身」的關鍵力量，同時公開廣告生態系的公私協力防詐新進展。
+
+- 📰 **iThome 科技**
+
+### 14. [非人類身分治理成企業新課題，CSA發布NHI治理報告](https://www.ithome.com.tw/news/177637)
+
+隨著AI代理、微服務及雲端自動化應用日益普及，企業內的非人類身分（Non-Human Identity，NHI）也隨之增加。這類身分可在無人介入的情況下完成身分驗證，並取得存取系統資源的權限，讓傳統以員工帳號為核心的管理方式面臨挑戰。推動雲端資安最佳實務的非營利組織雲端安全聯盟（雲端 安全 Alliance，CSA）提出NHI的分類與治理方法。
+
+- 📰 **iThome 科技**
+
+### 15. [FreePBX修補兩項重大漏洞，攻擊者可遠端執行指令或接管管理員帳號](https://www.ithome.com.tw/news/177635)
+
+由通訊軟體業者Sangoma維護的開源IP電話交換機管理平臺FreePBX，於7月17日發布兩則安全公告，揭露兩項尚未取得CVE編號的漏洞，CVSS風險分數皆為9.3，屬於重大（Critical）風險。未經身分驗證的遠端攻擊者可執行任意系統指令，或竄改管理員帳號，進而在未通過身分認證的狀況下，也能遠端存取系統。
+
+- 📰 **iThome 科技**
+
+### 16. [AI自主分析惡意程式仍未成熟，逆向工程仍須專家監督](https://www.ithome.com.tw/news/177633)
+
+端點資安業者SentinelOne旗下研究團隊SentinelLabs，依據先前分析破壞型惡意程式Fast16的實際調查流程，測試頂尖AI模型能否��主完成多階段逆向工程。Fast16是針對Windows平臺的破壞型惡意程式，可竄改用於模擬核武器物理行為的高精度工程求解軟體程式碼，進而干擾模擬結果。
+
+- 📰 **iThome 科技**
+
+### 17. [中國駭客組織JadeProx利用惡意程式TriBack Loader攻擊政府與醫療機構](https://www.ithome.com.tw/news/177632)
+
+威脅情報公司Group-IB揭露中國駭客組織JadeProx的攻擊活動，這些駭客曾入侵越南醫院的醫療影像系統、馬來西亞外交部、香港教育機構，並在拉丁美洲從事網釣，範圍包含宏都拉斯國會與委內瑞拉市政稅務系統。上述活動的最終目標，都是在受害組織植入惡意程式載入工具TriBack Loader，以便傳遞後續的攻擊工具，包括C2框架AdaptixC2與後門程式Beagle。其中，委內瑞拉的釣魚網站模擬了特定司法管轄區的真實市政稅務管理系統，顯示駭客鎖定特定目標，而非隨機尋找攻擊對象。
+
+- 📰 **iThome 科技**
+
+### 18. [Meta推出免費臉書真人驗證徽章，自拍影片即可申請](https://www.ithome.com.tw/news/177631)
+
+Meta上周四（7/23）推出Facebook Verified免費真人驗證服務，使用者只要錄製一段自拍影片，由系統與帳號既有照片比對，確認申請者為真人且與照片中的人物相符，即可取得驗證徽章。
+
+- 📰 **iThome 科技**
+
+### 19. [開源網頁郵件系統Roundcube發布1.6.17與1.7.2版，修補XSS與SSRF繞過漏洞](https://www.ithome.com.tw/news/177630)
+
+開源網頁郵件系統Roundcube近日發布1.6.17與1.7.2版更新，分別對應1.6 LTS與1.7版本，修補6個近期發現的漏洞。Roundcube是廣泛部署於企業、政府與網路服務環境的開源網頁郵件系統，常被整合至Linux伺服器與郵件服務平台，若核心元件存在漏洞，可能影響大量透過瀏覽器存取郵件的使用者，建議1.6.x與1.7.x版本用戶儘速升級。
+
+- 📰 **iThome 科技**
+
+### 20. [中國駭客利用AI代理Hermes攻擊泰國財政部](https://www.ithome.com.tw/news/177629)
+
+本月初威脅情報公司Sysdig揭露首度完全由AI代理與大型語言模型（大型語言模型）驅動的勒索軟體行動，駭客團體JadePuffer利用已知漏洞入侵Langflow執行個體，並以AI代理展開全自動攻擊，如今有人利用以AI代理入侵政府機關。
+
+- 📰 **iThome 科技**
+
+### 21. [微軟公布MAI-Image-2.5-Pro、MAI-Voice-2-Flash，強調比GPT更省成本](https://www.ithome.com.tw/news/177628)
+
+微軟上周公布自有開發的模型，包括圖片生成的MAI-Image-2.5-Pro及MAI-Voice-2-Flash，意在取代OpenAI GPT模型。
+
+- 📰 **iThome 科技**
+
+### 22. [速食連鎖業者Chick-fil-A資料外洩事件影響1.3萬人](https://www.ithome.com.tw/news/177627)
+
+上周遭到憑證填充（credential stuffing）攻擊導致資料外洩，美速食餐廳連鎖Chick-fil-A證實，該事件影響超過1萬3000人。
+
+- 📰 **iThome 科技**
+
+### 23. [Google Gemini Spark開放給美國AI Pro、全球Ultra付費用戶](https://www.ithome.com.tw/news/177626)
+
+Google自主代理人Gemini Spark現在已經擴大部署，提供給美國的Pro方案，以及全球Ultra方案用戶，也已部署到臺灣地區。
+
+- 📰 **iThome 科技**
+
+### 24. [Suno遭駭外洩郵件與付款資料，波及5,530萬個帳號](https://www.ithome.com.tw/news/177625)
+
+資料外洩查詢服務Have I Been Pwned（HIBP）上周揭露，AI音樂生成平臺Suno曾於2025年11月遭到駭客入侵。HIBP取得並分析外洩資料後，確認其中包含5,530萬個不重複的電子郵件地址，以及電話號碼、姓名、實體地址、消費紀錄與部分信用卡資料。
+
+- 📰 **iThome 科技**
+
+### 25. [OpenJDK有望內建JSON API，簡單處理可免用外部函式庫](https://www.ithome.com.tw/news/177623)
 
 OpenJDK將簡易JSON API提案列為JEP 540候選案，計畫在JDK提供基本的JSON解析與產生能力，讓Java程式處理簡單JSON資料時，不必另外加入外部函式庫。該提案目前仍處於候選階段，API仍可能在孵化期間調整，尚未指定目標JDK版本。
 JSON是網路服務與應用程式交換資料時常用的格式，但Java標準函式庫長期沒有通用的JSON處理介面。開發者目前多半需要自行選擇外部套件，JEP 540則希望為較單純的工作提供JDK內建選項，減少安裝、版本管理及安全維護等額外負擔。
 
 - 📰 **iThome 科技**
 
-### 2. [Google緊急更新Chrome 150版，修補4個高風險漏洞](https://www.ithome.com.tw/news/177624)
+### 26. [Google緊急更新Chrome 150版，修補4個高風險漏洞](https://www.ithome.com.tw/news/177624)
 
 本週二Google發布Chrome穩定版更新150.0.7871.181版與150.0.7871.182版，不料兩天後突然又推出新版本，針對Windows與macOS提供150.0.7871.186版與150.0.7871.187版，針對Linu
 
 - 📰 **iThome 科技**
 
-### 3. [【資安週��】0720~0724，以供應鏈韌性與依賴關係為核心的治理模式，成為多國資安策略發展重點](https://www.ithome.com.tw/news/177618)
+### 27. [【資安週報】0720~0724，以供應鏈韌性與依賴關係為核心的治理模式，成為多國資安策略發展重點](https://www.ithome.com.tw/news/177618)
 
 本週資安新聞最重要的焦點在於，強化關鍵基礎設施防護之餘，全球多國現已轉向以供應鏈韌性與依賴關係為核心的治理模式，不僅要辨識跨領域的相互依存網路，還要跨機關、產業共同合作，預期這也將是臺灣整體國家韌性的重要課題。
 Hugging Face遭AI代理意外攻擊的事件成為本週熱門話題，後續OpenAI揭露是測試模型能力意外造成，當中突顯AI為達成任務而不擇手段的風險，已是不容忽視的事實，防範此類危害也是當前資安界最迫切的課題。
 
 - 📰 **iThome 科技**
 
-### 4. [美國政府警告伊朗駭客升級對關鍵基礎設施的攻擊，已造成部分機構營運中斷與財務損失](https://www.ithome.com.tw/news/177622)
+### 28. [美國政府警告伊朗駭客升級對關鍵基礎設施的攻擊，已造成部分機構營運中斷與財務損失](https://www.ithome.com.tw/news/177622)
 
-美國聯邦調查局（FBI）與網路安全與基礎設施安全局（CISA）等政府機構於7月22日更新聯合公告，警告暴露於網際網路的工業控制設備，正面臨伊朗���關的駭客組織持續攻擊，駭客鎖定負責控制工業設備運作的可程式化邏輯控制器（Programmable Logic Controller，PLC），同時將攻擊範圍擴大至施耐德電機（Schneider Electric）與西門子（Siemens）等廠牌的PLC設備。
+美國聯邦調查局（FBI）與網路安全與基���設施安全局（CISA）等政府機構於7月22日更新聯合公告，警告暴露於網際網路的工業控制設備，正面臨伊朗有關的駭客組織持續攻擊，駭客鎖定負責控制工業設備運作的可程式化邏輯控制器（Programmable Logic Controller，PLC），同時將攻擊範圍擴大至施耐德電機（Schneider Electric）與西門子（Siemens）等廠牌的PLC設備。
 
 - 📰 **iThome 科技**
 
-### 5. [【AI Coding實戰】Bun創辦人用AI重寫53萬行程式，11天就搞定](https://www.ithome.com.tw/news/177619)
+### 29. [【AI Coding實戰】Bun創辦人用AI重寫53萬行程式，11天就搞定](https://www.ithome.com.tw/news/177619)
 
 原本要3位資深工程師投入一年才能完成的大型軟體重寫專案，後來花11天就完成了。
 JavaScript執行環境Bun創辦人Jarred Sumner用AI輔助開發工具Claude 代碼，把Bun內部53萬多行程式碼從Zig語言改寫成Rust。11天內，共完成6,502次Git提交，最高同時有64支Claude協作。
@@ -38,158 +185,9 @@ JavaScript執行環境Bun創辦人Jarred Sumner用AI輔助開發工具Claude 代
 
 - 📰 **iThome 科技**
 
-### 6. [���規模攻擊活動建立7,600個惡意GitHub儲存庫，散布惡意軟體SmartLoader](https://www.ithome.com.tw/news/177616)
+### 30. [大規模攻擊活動建立7,600個惡意GitHub儲存庫，散布惡意軟體SmartLoader](https://www.ithome.com.tw/news/177616)
 
 資安業者Island揭露大規模惡意軟體散布活動FakeGit，攻擊者使用約6,600個GitHub帳號建立約7,600個惡意儲存庫，將含有SmartLoader的惡意ZIP檔包裝成一般軟體專案的安裝套件。其中約1,400個儲存庫以AI工具、代理或工作流程為主題，逾800個偽裝成AI Skill或MCP伺服器。研究人員將這種利用AI代理搜尋與解讀專案文件，引導使用者接觸惡意程式的方式稱為AgentBaiting。
-
-- 📰 **iThome 科技**
-
-### 7. [郵件伺服器與協作平臺Zimbra發布更新，修補SNMP指令注入與XSS漏洞](https://www.ithome.com.tw/news/177615)
-
-近日俄羅斯駭客組織Laundry Bear濫用郵件伺服器與協作平臺Zimbra漏洞，對烏克蘭、北約、美國等國家發動大規模攻擊，引起五眼聯盟和多個歐洲國家共同發出警告，也讓Zimbra的漏洞揭露與修補，成為眾所矚目的焦點。
-
-- 📰 **iThome 科技**
-
-### 8. [【資安日報】7月24日，俄羅斯駭客利用Zimbra漏洞從事網路間諜活動](https://www.ithome.com.tw/news/177614)
-
-本日新聞焦點
-● 俄羅斯駭客利用Zimbra資安漏洞在歐美多國從事網路間諜活動
-● 北韓駭客透過韓國協作平臺廠商攻擊下游客戶
-● 駭客濫用逾20個巴西政府網站攻擊當地銀行與公共設施
-
-- 📰 **iThome 科技**
-
-### 9. [GitHub搶先支援無狀態MCP，遠端服務擴充免再綁定工作階段](https://www.ithome.com.tw/news/177612)
-
-GitHub MCP伺服器已提前支援預定於7月28日發布的新版MCP規格，新版移除協定層的工作階段與初始化程序，每次請求都會帶上處理所需資訊，可交由任一臺伺服器執行，遠端服務因而更容易透過增加伺服器數量擴充處理能力。
-
-- 📰 **iThome 科技**
-
-### 10. [俄羅斯��客攻擊Zimbra主機的活動遍及烏克蘭、北約、獨立國協、非洲](https://www.ithome.com.tw/news/177613)
-
-俄羅斯駭客組織Laundry Bear（Void Blizzard、CL-STA-1114、TA488）在最新一波網路間諜活動裡，濫用郵件協作平臺Zimbra Collaboration Suite（ZCS）漏洞CVE-2025-66376，烏克蘭、北約（NATO）國家、美國是主要目標，引起五眼聯盟和多個歐洲國家共同發出警告，呼籲IT人員要儘速緩解上述弱點。
-
-- 📰 **iThome 科技**
-
-### 11. [SolarWinds發布Serv-U 2026.3版，修補15個重大漏洞，並提供一系列安全性與操作功能強化](https://www.ithome.com.tw/news/177611)
-
-SolarWinds於7月21日發布企業檔案傳輸與管理平臺Serv-U 2026.3版，修補16個漏洞，其中含15個重大漏洞，另外也提供一系列安全性與操作功能的強化。Serv-U支援FTP、SFTP與FTPS等多種檔案傳輸協定，可用於企業內部系統與外部合作夥伴之間的檔案交換，並支援Active Directory、資料庫與高可用性叢集等企業環境，因此其安全性攸關企業重要檔案的傳輸作業。
-
-- 📰 **iThome 科技**
-
-### 12. [澳洲能源業者Origin Energy資料外洩，部分客戶個資遭存取及揭露](https://www.ithome.com.tw/news/177610)
-
-澳洲提供電力、天然氣及網路等服務的大型能源零售業者Origin Energy，在7月23日確認部分客戶資料遭到未授權的存取及外洩。根據該公司公布的2025財年資料，客戶帳戶數達470萬個。
-
-- 📰 **iThome 科技**
-
-### 13. [俄羅斯駭客於Zimbra伺服器植入惡意程式ZimReaper，意圖竊取電子郵件](https://www.ithome.com.tw/news/177609)
-
-美國、英國、澳洲、加拿大、紐西蘭等五眼聯盟成員及歐洲夥伴機構聯手，警告俄羅斯駭客組織Laundry Bear（Void Blizzard、CL-STA-1114、TA488），利用郵件協作平臺Zimbra Collaboration Suite（ZCS）漏洞CVE-2025-66376，攻擊西方國家的政府與企業組織。
-
-- 📰 **iThome 科技**
-
-### 14. [Next.js修補4項高風險漏洞，App Router恐遭阻斷服務及繞過安全檢查](https://www.ithome.com.tw/news/177607)
-
-Next.js發布15.5.21與16.2.11安全更新，修補4項高風險及5項中風險漏洞。問題影響App Router、伺服器 Actions與Turbopack等功能，可能讓攻擊者癱瘓服務、繞過安全檢查，或誘使伺服器連線至攻擊者指定的主機。使用受影響版本的開發團隊應儘速升級至修正版。
-
-- 📰 **iThome 科技**
-
-### 15. [Claude桌面版漏洞讓惡意連結自動送出隱藏指令，恐竊取對話並植入程式碼](https://www.ithome.com.tw/news/177608)
-
-資安業者Oasis 安全上周揭露，Anthropic的Claude桌面版程式（Claude Desktop）存在一項名為PromptFiction的安全漏洞，駭客只要誘導使用者點擊特製連結，就能讓Claude在使用者未確認的情況下，自動執行藏於連結中的指令，可能導致歷史對話外洩；若Claude具備本機檔案存取權限，還可能依照指令在程式中植入惡意碼。Anthropic已修補該漏洞。
-
-- 📰 **iThome 科技**
-
-### 16. [IBM收購量子運算研究公司HRL Laboratories開啟雙軌技術發展策略](https://www.ithome.com.tw/news/177606)
-
-IBM周三（7/23）宣佈收購由波音（Boeing）和通用汽車（General Motors）共同持有的量子研究公司HRL實驗室(HRL Laboratories)，使其具備兩種技術並行的量子發展策略。
-
-- 📰 **iThome 科技**
-
-### 17. [Google開始支援自拍影片登入，協助使用者取回被鎖定的帳號](https://www.ithome.com.tw/news/177605)
-
-Google周四（7/23）推出自拍影片（Selfie Video）登入功能，讓使用者在Google帳號遭鎖定，或無法使用平常登入的手機及電腦時，透過自拍影片驗證身分並取回帳號。符合資格的使用者即日起可前往Google設定頁面檢查及啟用這項功能。
-
-- 📰 **iThome 科技**
-
-### 18. [套件管理工具pip可望在26.2版支援只安裝相依套件，簡化Python應用與容器部署](https://www.ithome.com.tw/news/177598)
-
-Python套件管理工具pip可望在26.2版加入--only-deps選項，讓開發者只安裝目前應用程式執行所需的相依套件，不必將應用程式本身安裝成Python套件。該功能適用於網站後端、網路服務與自動化指令稿等應用程式，可減少額外整理套件清單的工作，也有助於簡化伺服器及容器部署。
-開發者只要在安裝時加入--only-deps選項，pip就會取得目前專案的相依套件資訊，安裝執行階段所需套件，但略過專案本身。
-
-- 📰 **iThome 科技**
-
-### 19. [資安業者警示Windmill漏洞遭實際利用，若未修補可能導致攻擊者讀取伺服器檔案](https://www.ithome.com.tw/news/177601)
-
-開源工作流程自動化平臺Windmill於今年3月揭露與修補的高風險漏洞CVE-2026-29059，近日資安業者VulnCheck發現該漏洞已遭攻擊者實際利用，他們於7月18日偵測到來���兩個不同IP位址的攻擊者，試圖利用該漏洞讀取Windmill平臺的/etc/p
-
-- 📰 **iThome 科技**
-
-### 20. [俄羅斯駭客利用Zimbra漏洞竊取郵件與雙因素認證碼](https://www.ithome.com.tw/news/177600)
-
-7月23日美國、英國、澳洲、加拿大、紐西蘭等五眼聯盟成員及歐洲夥伴機構發布聯合資安公告，被稱為Laundry Bear、Void Blizzard、CL-STA-1114、TA488的俄羅斯駭客組織，自去年7月開始利用資安漏洞CVE-2025-66376，攻擊西方國家的政府與企業組織的郵件協作平臺Zimbra Collaboration Suite（ZCS），藉此展開長期網路間諜活動，超過10個企業組織遭到入侵，範圍涵蓋國防工業基地、聯邦與地方政府、教育、能源、執法、媒體、非政府組織及科技產
-
-- 📰 **iThome 科技**
-
-### 21. [Linux核心開發團隊24小時內修補440個漏洞，大量CVE密集發布引發關注](https://www.ithome.com.tw/news/177599)
-
-Linux核心開發團隊近日在不到24小時內密集發布資安公告，從7月19日至20日共修補約440個漏洞，涵蓋Linux核心多個子系統、網路功能、檔案系統、硬體驅動程式等，這些漏洞是透過核心程式碼修補，並依不同發行版納入更新，使用者應依所採用的Linux發行版，安裝供應商提供的核心安全更新。
-
-- 📰 **iThome 科技**
-
-### 22. [LG顯示器暗中透過Windows 更新於用戶電腦安裝McAfee軟體試用版，微軟強力介入阻止](https://www.ithome.com.tw/news/177597)
-
-LG數款高階顯示器用戶發現，在接上Windows電腦後，電腦被偷偷安裝McAfee安全軟體試用版。此事引發微軟介入，但LG否認擅自安裝。
-
-- 📰 **iThome 科技**
-
-### 23. [OpenAI在美國公開推出ChatGPT Health，可串接病歷與Apple Health](https://www.ithome.com.tw/news/177595)
-
-OpenAI周四（7/23）正式向美國用戶推出ChatGPT Health，允許使用者串接Apple Health及支援的醫療機構病歷，讓ChatGPT根據個人檢驗結果、用藥、就診、睡眠與活動資料回答健康問題。該功能即日起陸續開放美國18歲以上的Free、Go、Plus及Pro用戶使用，支援網頁版與iOS版，尚未於其他市場及Codex中提供。
-
-- 📰 **iThome 科技**
-
-### 24. [2026上半年漏洞揭露量增51%，供應鏈攻擊擴及軟體開發生態系](https://www.ithome.com.tw/news/177593)
-
-網路安全業者Forescout近期回顧2026上半年威脅，根據他們的分析，今年上半年全球共揭露37,137項漏洞，較去年同期增加51%，平均每天新增205項，其中55%被列為高風險（High）或重大風險（Critical），另有54項曾作為零時差漏洞遭到利用。
-今年上半年，美國網路安全暨基礎設施安全局（CISA）將146項漏洞納入已知遭利用漏洞清單（KEV），較去年同期增加11%。其中46%的漏洞在2026年以前就已公開，顯示舊有漏洞仍持續遭攻擊者利用。
-
-- 📰 **iThome 科技**
-
-### 25. [華碩修補路由器重大漏洞，攻擊者可透過偽造伺服器執行任意指令](https://www.ithome.com.tw/news/177591)
-
-個人電腦與無線網路設備供應商華碩（Asus）於7月15日發布安全更新，針對路由器韌體、MyASUS應用程式使用的服務ASUS 系統 Control Interface，以及ASUS Business 經理共修補4項漏洞。其中，路由器韌體漏洞CVE-2026-13385的CVSS風險分數為9.5，屬於重大（Critical）風險等級。
-
-- 📰 **iThome 科技**
-
-### 26. [逾20個巴西政府網站遭入侵，駭客用於當作攻擊跳板](https://www.ithome.com.tw/news/177590)
-
-駭客利用合法的網站作為散布惡意軟體的管道，過往有不少資安公司揭露這種類型的事故，通常攻擊者會針對特定內容管理平臺及資安漏洞，藉此滲透網站並埋入惡意程式碼，不過，最近有一起活動相當特別，攻擊者竟是綁架政府機關的基礎設施，將其作為傳遞惡意軟體的管道。
-
-- 📰 **iThome 科技**
-
-### 27. [蘋果開放Apple Maps供車廠內建，福特2027年率先導入](https://www.ithome.com.tw/news/177589)
-
-蘋果周四（7/23）推出MapKit for Automotive SDK，開放汽車製造商把Apple Maps直接內建於車載系統並客製化介面。福特汽車（Ford）將成為首批採用者，預計2027年在Universal Electric Vehicle（UEV）平臺導入，首款車為售價約3萬美元的中型電動車。
-
-- 📰 **iThome 科技**
-
-### 28. [北韓駭客Kimsuky入侵韓國協作軟體供應商，藉此攻擊下游客戶](https://www.ithome.com.tw/news/177588)
-
-北韓駭客攻擊韓國的事故不時傳出，7月20日韓國資安公司ENKI WhiteHat揭露北韓國家級駭客組織Kimsuky（APT43、TA406、Velvet Chollima）最新一波攻擊，自2025年至2026年初，持續入侵韓國多家協作平臺廠商，於受害廠商的網路環境植入惡意程式Gomir與HttpTroy，或是融合兩者能力的變種BirdTroy、D
-
-- 📰 **iThome 科技**
-
-### 29. [Google因違反歐盟數位市場法被罰款8.9億歐元](https://www.ithome.com.tw/news/177587)
-
-歐盟執委會（European Commission）周四（7/23）就Google搜尋圖利自家服務及Google Play導引限制（Anti-Steering）兩項行為違反歐盟數位市場法（Digital Markets Act，DMA），罰款8.9億歐元。
-
-- 📰 **iThome 科技**
-
-### 30. [Google CodeMender代理可在隔離環境驗證漏洞，自動產生、測試修補程式](https://www.ithome.com.tw/news/177585)
-
-Google推出程式碼資安代理CodeMender公開預覽版，可掃描程式碼尋找安全弱點，在隔離環境實際測試漏洞能否被利用，再產生及測試修補程式。目前只有少數客戶可申請使用，Google說明，該預覽服務僅供有限測試與評估，不得用於商業或正式生產用途。
 
 - 📰 **iThome 科技**
 
@@ -197,12 +195,16 @@ Google推出程式碼資安代理CodeMender公開預覽版，可掃描程式碼�
 
 ### 更多 AI 新聞 (70則)
 
+- 最佳 Laptops for College Students (2026): MacBooks and Beyond (**Wired**)
+- Measles Is Becoming So Common That Treatments May Soon Be Needed (**Wired**)
+- Soundcore Nebula P1i Projector Review: 新 Design, Classic Pitfalls (**Wired**)
+- It’s Becoming Clear 為什麼 Black Holes Never Run Out of Fuel (**Wired**)
 - The 最佳 Backpacking Sleeping Pads, Tested on the Trail (2026) (**Wired**)
 - All the Ways You Can Make Reading on Your Phone Easier (**Wired**)
 - The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway (**Wired**)
 - The 最佳 Motorola Phones, From Razr to Moto G (2026) (**Wired**)
-- The 最佳 Subscription-Free Home 安全 Cameras I’ve Tried (**Wired**)
 - 最佳 GoPro Camera (2026): Compact, Budget, Accessories (**Wired**)
+- The 最佳 Subscription-Free Home 安全 Cameras I’ve Tried (**Wired**)
 - Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026) (**Wired**)
 - 3 Clever Things You Can Do With an Old Amazon Kindle (**Wired**)
 - 為什麼 Leatherology Makes Some of the 最佳 Totes for Work (2026) (**Wired**)
@@ -243,10 +245,6 @@ Google推出程式碼資安代理CodeMender公開預覽版，可掃描程式碼�
 - Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop (**Wired**)
 - ‘The Child Is Terrified’: Measles Doctors Speak Out (**Wired**)
 - 為什麼 Lettuce Is Always Making People Sick (**Wired**)
-- The White House Is Trying to Figure Out What to Do About Chinese AI (**Wired**)
-- 熱門 Red-Light Therapy Deals at Nordstrom’s Anniversary Sale (2026) (**Wired**)
-- ‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope (**Wired**)
-- China’s Open AI Models Are Challenging Silicon Valley’s Playbook (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
