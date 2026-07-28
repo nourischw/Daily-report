@@ -4,44 +4,166 @@
 
 ---
 
-### 1. [Google發布新版威脅行動者命名制度，新名稱反映國家關聯、攻擊動機等資訊](https://www.ithome.com.tw/news/177669)
+### 1. [AMD擴大AI Everywhere布局，從AI PC、開發平臺到Physical AI](https://www.ithome.com.tw/news/177687)
 
-Google威脅情報團隊（Google Threat Intelligence Group，GTIG）於7月25日宣布採用新版威脅行動者命名制度，整合Google旗下資安業者Mandiant與Google威脅分析小組（Threat Analysis Group，TAG）過去各自採用的追蹤與命名體系，未來將用於Google Threat Intelligence平臺與公開威脅情報報告。
+「AI將改變每一個產業，也將存在於每一個運算平臺」，在舊金山Advancing AI 2026全球年度AI大會中，AMD董事長暨執行長蘇姿丰說。
+在今年舊金山Advancing AI大會中，蘇姿丰闡述AMD的三大AI策略，首先是在「Compute」方面，打造不同工作負載所需的運算引擎，其次是「開放平臺」，透過推動開放硬體標準與軟體生態系，來加速AI發展。最後是「Powering AI everywhere」，讓AI無所不在，將AI能力延伸到企業、PC與實體世界。
+呼應三大核心策略，AMD正式發表MI455X加速器及Helios機櫃等重量級產品，瞄準AI資料中心、AI工廠運算架構部署，更多次強調
 
 - 📰 **iThome 科技**
 
-### 2. [ChatGPT企業代理漏洞可由網址觸發，惡意代理能持續存取外部服務](https://www.ithome.com.tw/news/177665)
+### 2. [Amazon申請部署5,105顆低軌衛星，讓手機直接連線](https://www.ithome.com.tw/news/177692)
+
+Amazon周一（7/27）宣布，旗下低軌衛星網路Amazon Leo已向美國聯邦通訊委員會（FCC）提出申請，計畫部署最多5,105顆低軌衛星，建立手機直連衛星（Direct-to-Device，D2D）系統，讓相容的智慧型手機及其他行��裝置在基地臺無法覆蓋的地區，直接透過衛星使用語音、訊息、數據及緊急通訊服務。相關衛星預計於2028年開始部署。
+
+- 📰 **iThome 科技**
+
+### 3. [Java JSON函式庫Fastjson存在重大RCE漏洞，已遭實際利用](https://www.ithome.com.tw/news/177683)
+
+阿里巴巴Fastjson維護團隊公告，Java JSON函式庫Fastjson 1.2.68至1.2.83存在重大遠端程式碼執行漏洞，後續編號為CVE-2026-16723。
+
+- 📰 **iThome 科技**
+
+### 4. [可口可樂旗下Fairlife遭勒索軟體攻擊停產近兩週，美國4座工廠恢復大部分生產](https://www.ithome.com.tw/news/177686)
+
+飲品巨擘可口可樂本週證實旗下乳品製造子公司Fairlife美國廠遭駭，在停產近兩周後已恢復大部分生產營運。
+
+- 📰 **iThome 科技**
+
+### 5. [微軟公布首個資安模型MAI-Cyber-1-Flash，宣稱比GPT省50%成本](https://www.ithome.com.tw/news/177685)
+
+微軟公布首個自行開發的資安AI模型MAI-Cyber-1-Flash，宣稱運行在微軟MDASH平臺上最多比使用GPT模型省下50%成本。
+
+- 📰 **iThome 科技**
+
+### 6. [X正式在美國推出X Money金融服務](https://www.ithome.com.tw/news/177684)
+
+社群平臺X周一（7/27）正式在美國推出X Money金融服務，陸續開放當地X Premium及Premium+訂戶申請。使用者可在X內建立帳戶、收取薪資、支付帳單及匯款，也能免費即時轉帳給其他X Money用戶，進一步落實馬斯克（Elon Musk）要將X發展為「Everything App」（萬用程式）的構想。
+
+- 📰 **iThome 科技**
+
+### 7. [微軟替Node.js接上Windows原生API，Electron開發免寫C++或C#橋接](https://www.ithome.com.tw/news/177673)
+
+微軟公開預覽Node.js動態Windows Runtime（WinRT）投影，讓開發框架Electron應用程式及一般Node.js程式，可直接透過JavaScript或TypeScript呼叫支援的Windows原生應用程式介面（API）。開發者不必再為每項功能另外撰寫C++或C#銜接程式，也不必自行維護原生模組。
+
+- 📰 **iThome 科技**
+
+### 8. [Redis發布7個更新版本，因應AI模型Kimi K3發現的遠端執行程式碼重大漏洞](https://www.ithome.com.tw/news/177682)
+
+繼5月初因應AI發現漏洞發布更新後，開源記憶體型NoSQL資料庫Redis資安團隊於7月23日發布7個更新版本，包括6.2.23、7.2.15、7.4.10，以及8.2.8、8.4.5、8.6.5與8.8.1，修補資安研究公司Bera Buddie透過Moonshot AI所屬AI模型Kimi K3發現的重大漏洞。
+
+- 📰 **iThome 科技**
+
+### 9. [Anthropic執行長否認支持開放權重AI禁令，主張管制晶片與模型蒸餾](https://www.ithome.com.tw/news/177681)
+
+近日傳出美國官員考慮禁止美���企業使用中國開放權重AI模型，微軟、Meta、OpenAI及NVIDIA等科技業者隨後聯名反對相關限制。未參與連署的Anthropic因此遭外界質疑支持禁令，甚至企圖藉此保護自家封閉模型業務。
+
+- 📰 **iThome 科技**
+
+### 10. [攻擊活動Operation BlueDash透過假Teams更新控制受害電腦](https://www.ithome.com.tw/news/177680)
+
+提供行為式商業郵件詐騙（BEC）防護的資安廠商ZeroBEC揭露以微軟協作平臺Teams為誘餌的網釣活動，事件從一封安全文件的電子郵件開始，最終受害者的電腦被註冊到攻擊者控制的遠端監控與管理（RMM）環境，ZeroBEC將這起事故稱為Operation BlueDash。
+
+- 📰 **iThome 科技**
+
+### 11. [惡意廣告攻擊出現新手法，駭客分次傳送惡意程式資料，再由瀏覽器組裝執行](https://www.ithome.com.tw/news/177679)
+
+駭客透過惡意廣告（Malvertising）散布惡意軟體的作法相當氾濫，���們通常藉由廣告引誘使用者存取釣魚網站，下載冒充合法應用程式的安裝檔，藉此於受害電腦植入惡意軟體。然而，這樣的做法也隨著資安系統偵測機制的進步，出現更加隱密的作法。
+
+- 📰 **iThome 科技**
+
+### 12. [Qualys揭露潛伏9年的Linux核心漏洞RefluXFS，可能影響全球超過1,640萬臺主機](https://www.ithome.com.tw/news/177678)
+
+資安業者Qualys近日揭露Linux核心本機權限提升漏洞RefluXFS（CVE-2026-64600），CVSS嚴重性評分為7.8分。
+
+- 📰 **iThome 科技**
+
+### 13. [NVIDIA偕大廠、Linux基金會合組開放安全AI聯盟，以開源技術修補AI漏洞](https://www.ithome.com.tw/news/177677)
+
+OpenAI模型在資安能力評估期間突破測試環境並存取Hugging Face系統的事件，進一步引發外界對AI安全風險的關注。NVIDIA周一（7/27）偕微軟、SpacexAI、Databricks等多家大廠及Linux基金會宣布成立開放安全AI聯盟（Open Secure AI Alliance），將開發並共享開放的網路安全技術和工具，讓企業組織用以防範AI引發的資安攻擊。
+
+- 📰 **iThome 科技**
+
+### 14. [Moonshot AI釋出Kimi K3完整權重，參數規模達2.8兆](https://www.ithome.com.tw/news/177676)
+
+中國AI新創Moonshot AI（月之暗面）周一（7/27）透過Hugging Face釋出Kimi K3完整模型權重、程式碼及技術報告，供研究人員與企業自行部署及進一步開發。Kimi K3總參數量達2.8兆，Moonshot稱其為全球首款開放權重的3兆級模型。
+
+- 📰 **iThome 科技**
+
+### 15. [萬達寵物發布資安重訊，指出合作廠商遭駭疑似導致個資外洩](https://www.ithome.com.tw/news/177675)
+
+連鎖寵物用品店萬達寵物（6968）於7月27日晚間在股市公開觀測站發布重大訊息，表示因合作廠商的資訊系統遭不明人士入侵，疑似發生部分資料外洩事件，公司已要求合作廠商全���進行資安清查與漏洞修補，並強調此次事件對公司財務及營運沒有重大影響。
+
+- 📰 **iThome 科技**
+
+### 16. [Google更新OKF開放知識格式，加入AI代理知識來源追溯與查詢結果驗證](https://www.ithome.com.tw/news/177668)
+
+Google更新開放知識格式（Open Knowledge Format，OKF）至v0.2，替AI代理使用的資料表結構、業務指標定義與維運文件，加入資料來源、產生者、驗證紀錄、重新確認日期及內容狀態等資訊。新版也增加運算核驗機制，用來確認AI代理回報的數字，是否依照組織核准的查詢方式產生。
+
+- 📰 **iThome 科技**
+
+### 17. [歐洲發布EN 18286標準，協助高風險AI業者因應歐盟AI法案](https://www.ithome.com.tw/news/177674)
+
+歐洲AI品質管理標準EN 18286近日發布。
+
+- 📰 **iThome 科技**
+
+### 18. [針對美國EY資料外洩事故，ShinyHunters聲稱是發動供應鏈攻擊而得逞](https://www.ithome.com.tw/news/177672)
+
+兩週前美國Ernst &amp;amp; Young（EY）向客戶發出通知，IT部門使用的第三方支援工單（support ticket）系統遭到未經授權存取，攻擊者從3月底至4月上旬，下載含有客戶稅務資訊的文件。如今有駭客團體聲稱，這起事故是他們所為。
+
+- 📰 **iThome 科技**
+
+### 19. [Arista網路設備管理平臺滿分漏洞被實際利用](https://www.ithome.com.tw/news/177671)
+
+7月27日美國網路安全與基礎設施安全局（CISA）掌握有兩個漏洞遭到積極利用的證據，將它們列入已遭利用的漏洞名單（KEV），其中最值得留意的，是CVSS危險評分達到滿分的CVE-2026-16812，此為作業系統命令注入弱點，影響企業內部網路建置的SD-WAN網路設備管理平臺Arista VeloCloud Orchestrator（VCO），CISA要求聯邦機構
+
+- 📰 **iThome 科技**
+
+### 20. [CISA將Fortinet防火牆已知漏洞列入KEV](https://www.ithome.com.tw/news/177670)
+
+7月27日美國網路安全與基礎設施安全局（CISA）表示，他們已掌握Fortinet防火牆作業系統FortiOS資安漏洞CVE-2025-68686遭到積極利用，將其加入已遭利用的漏洞名單（KEV），聯邦機構必須在8
+
+- 📰 **iThome 科技**
+
+### 21. [Google發布新版威脅行動者命名制度，新名稱反映國家關聯、攻擊動機等資訊](https://www.ithome.com.tw/news/177669)
+
+Google威脅情報團隊（Google Threat Intelligence Group，GTIG）於7月25日宣布採用新的威脅行動者命名制度，整合Google旗下資安業者Mandiant與Google威脅分析小組（Threat Analysis Group，TAG）過去各自採用的追蹤與命名體系，未來將用於Google Threat Intelligence平臺與公開威脅情報報告。
+
+- 📰 **iThome 科技**
+
+### 22. [ChatGPT企業代理漏洞可由網址觸發，惡意代理能持續存取外部服務](https://www.ithome.com.tw/news/177665)
 
 資安業者Zenity Labs揭露，OpenAI已修補一項影響ChatGPT Workspace Agents的漏洞，研究團隊將其命名為AgentForger。攻擊者可將惡意指令藏在特製網址中，誘使已登入的使用者點擊，讓系統在使用者不知情下，自動建立、發布並執行受攻擊者控制的AI代理。
 
 - 📰 **iThome 科技**
 
-### 3. [FIRST國際資安應變組織發布DNS濫用技術矩陣1.3版](https://www.ithome.com.tw/news/177666)
+### 23. [FIRST國際資安應變組織發布DNS濫用技術矩陣1.3版](https://www.ithome.com.tw/news/177666)
 
 為了協助資安應變人員在處理DNS威脅時的行動缺口，國際資安組織FIRST在今年5月底發布DNS濫用技術矩陣（DNS Abuse Techniques Matrix）1.3版，目的是在相關事件發生時，幫助資安團隊快速找到可協助偵測、緩解或預防該技術的利益關係人（stakeholders）。
 
 - 📰 **iThome 科技**
 
-### 4. [西門子Opcenter X管理平臺存在CVSS滿分漏洞，未經身分驗證的攻擊者可藉此取得完整存取權限](https://www.ithome.com.tw/news/177667)
+### 24. [西��子Opcenter X管理平臺存在CVSS滿分漏洞，未經身分驗證的攻擊者可藉此取得完整存取權限](https://www.ithome.com.tw/news/177667)
 
 西門子用於為企業提供整合工廠製造流程與生產營運管理的Opcenter X平臺，被發現存在可能讓攻擊者取得完整系統存取權限的重大漏洞。西門子近日發布資安公告，修補Opcenter X的重大漏洞CVE-2026-56451，CVSS v3.1與v4.0嚴重性評分均達10.0分，可能嚴重影響企業的生產管理，用戶須立即升級至已完成修補的V2604以上版本。
 
 - 📰 **iThome 科技**
 
-### 5. [PyPI替套件版本設14天上傳期限，降低舊版遭植入惡意檔案風險](https://www.ithome.com.tw/news/177656)
+### 25. [PyPI替套件版本設14天上傳期限，降低舊版遭植入惡意檔案風險](https://www.ithome.com.tw/news/177656)
 
 Python套件索引服務PyPI開始拒絕向發布超過14天的套件版本新增檔案，避免專案發布憑證或自動化流程遭入侵後，攻擊者向長期穩定的舊版本加入惡意程式。PyPI表示，目前尚未發現這種攻擊方式遭實際利用，但在此之前並無技術限制阻止這種做法。
 
 - 📰 **iThome 科技**
 
-### 6. [AI Coding掀起軟體開發革命](https://www.ithome.com.tw/article/177657)
+### 26. [AI Coding掀起軟體開發革命](https://www.ithome.com.tw/article/177657)
 
 AI從程式碼補全工具，開始走進完整開發流程。不只參與需求釐清、規格拆解、程式生成、測試與除錯，不少企業更重新檢視開發方法、品質控管與團隊分工。當工作重心從「怎麼做」轉向「做什麼」，工程師的定位也開始改變。
 
 
 - 📰 **iThome 科技**
 
-### 7. [【資安日報】7月27日，泰國財政���驚傳遭中國駭客濫用AI從事自動化攻擊](https://www.ithome.com.tw/news/177652)
+### 27. [【資安日報】7月27日，泰國財政部驚傳遭中國駭客濫用AI從事自動化攻擊](https://www.ithome.com.tw/news/177652)
 
 本日新聞焦點
 ● 中國駭客透過AI代理於泰國財政部從事網路間諜活動
@@ -50,141 +172,21 @@ AI從程式碼補全工具，開始走進完整開發流程。不只參與需求
 
 - 📰 **iThome 科技**
 
-### 8. [服務範圍涵蓋全美的快遞業者OnTrac遭駭客入侵，客戶個資可能外洩](https://www.ithome.com.tw/news/177651)
+### 28. [服務範圍涵蓋全美��快遞業者OnTrac遭駭客入侵，客戶個資可能外洩](https://www.ithome.com.tw/news/177651)
 
 美國大型電子商務包裹配送業者OnTrac近日遭駭客入侵，可能造成客戶個資外洩，該業者目前在美國35州設有102個據點，配送網路涵蓋約70%的美國人口，是UPS與FedEx之外的重要替代型包裹承運商，並與超過7,000名獨立配送承包商合作，因此這起事件可能影響大量客戶。
 
 - 📰 **iThome 科技**
 
-### 9. [Cognition收購簡訊AI助理Poke，將主動互動能力導入Devin](https://www.ithome.com.tw/news/177650)
+### 29. [Cognition收購簡訊AI助理Poke，將主動互動能力導入Devin](https://www.ithome.com.tw/news/177650)
 
 AI程式開發代理人Devin的開發商Cognition上周四（7/23）宣布，已收購簡訊AI助理Poke的開發商The Interaction Company of California，計畫把Poke主動聯絡使用者、持續追蹤任務及較像朋友的對話方式導入Devin。
 
 - 📰 **iThome 科技**
 
-### 10. [回顧近兩年來勒索軟體對醫療供應鏈的攻擊，研究人員警示歐洲中東與非洲地區遭受的威脅升溫](https://www.ithome.com.tw/news/177648)
+### 30. [回顧近兩年來勒索軟體對醫療供應鏈的攻擊，研究人員警示歐洲中東與非洲地區遭受的威脅升溫](https://www.ithome.com.tw/news/177648)
 
 資安業者Flare近日分析2024年至2026年歐洲、中東與非洲（EMEA）地區的勒索軟體活動，觀察到14個鎖定EMEA醫療業的勒索組織，且攻擊活動已擴大至整個醫療保健供應鏈，涵蓋醫院、診所、遠距醫療、診斷實驗室、藥局、醫療軟體與設備供應商、醫療人力服務及公共衛生機構，一些原本以攻擊政府單位為主的駭客組織，近幾個月來也大幅增加對醫療業的攻擊。
-
-- 📰 **iThome 科技**
-
-### 11. [勒索軟體Chaos打造惡意程式msaRAT，將C2通道隱藏在瀏覽器處理程序進行掩護](https://www.ithome.com.tw/news/177647)
-
-一般而言，駭客為了隱匿C2通訊，最常見的其中一種作法，就是濫用合法的雲端服務來建立通訊，以這些服務的合法流量來掩蓋非法活動。現在有駭客團體採用全新的手法來達到目的，引起研究人員的注意。
-
-- 📰 **iThome 科技**
-
-### 12. [微軟AD CS漏洞Certighost可讓低權限帳號冒充網域控制站](https://www.ithome.com.tw/news/177645)
-
-微軟Active Directory憑證服務（AD CS）存在名為Certighost的權限提升漏洞，在研究人員測試的特定配置下，持有一般網域帳號的攻擊者可誘使憑證授權單位簽發帶有網域控制站身分資訊的憑證，藉此冒充網域控制站，取得網域內的帳號機密。該漏洞編號為CVE-2026-54121，微軟已於7月14日發布更新修補。
-
-- 📰 **iThome 科技**
-
-### 13. [冒牌Notepad++外掛被用於散布惡意程式](https://www.ithome.com.tw/news/177644)
-
-三年前烏克蘭電腦緊急應變團隊（CERT-UA）揭露俄羅斯駭客UAC-0099的攻擊行動，後續資安公司Deep Instinct公布進一步的調查結果，指出駭客的主要目標是境外公司的烏克蘭員工，透過多種管道在受害電腦植入惡意程式LonePage，其中一種是WinRAR已知漏洞CVE-2023-38831。如今CERT-UA指出，這些駭客手法出現了顯著變化。
-
-- 📰 **iThome 科技**
-
-### 14. [Anthropic推出Claude Opus 5，效能接近Fable 5、使用成本減半](https://www.ithome.com.tw/news/177643)
-
-Anthropic上周五（7/24）推出Claude Opus 5，主打程式設計、知識工作及電腦操作等日常任務，效能接近前沿模型Claude Fable 5，但使用成本僅約一半。Opus 5即日起成為Claude Max方案的預設模型，也是Claude Pro方案提供的最強模型。
-
-- 📰 **iThome 科技**
-
-### 15. [Meta、微軟、OpenAI等力挺開放權重AI模型，籲美國避免過早限制](https://www.ithome.com.tw/news/177640)
-
-微軟上周五（7/24）發布《開放權重與美國AI領導地位》聯合公開信，呼籲美國決策者支持開放權重AI模型，避免過早限制可供下載的模型。目前連署者包括Meta、微軟、NVIDIA、OpenAI、Google、IBM、AMD、GitHub、Hugging Face及Linux基金會等業者與組織。
-
-- 📰 **iThome 科技**
-
-### 16. [外掛相容問題未解，WordPress 7.1暫不升級React 19](https://www.ithome.com.tw/news/177636)
-
-WordPress開發團隊宣布，React 19不會納入WordPress 7.1，該版本將繼續使用React 18.3。團隊先前曾在Gutenberg外掛中短暫啟用React 19，但測試發現，新舊React版本之間的互動，以及部分外掛使用React的方式，會引發未預期的相容問題，因此撤回這項變更，並需要較長的測試期，持續改善及調整相容層。
-
-- 📰 **iThome 科技**
-
-### 17. [勒索軟體Clop鎖定Windchill與FlexPLM的重大漏洞，企圖竊取資料及勒索](https://www.ithome.com.tw/news/177639)
-
-去年聲稱從許多企業組織的Oracle E-Business Suite（EBS）竊得大批資料的勒索軟體駭客Clop（FIN11、Lace Tempest、Graceful Spider），近期發動新一波攻擊，並向許多企業組織寄送勒索信的情形。
-
-- 📰 **iThome 科技**
-
-### 18. [研究人員揭露Claude Cowork沙箱逃逸漏洞，可導致AI代理讀寫Mac主機檔案](https://www.ithome.com.tw/news/177638)
-
-AI代理工具Claude Cowork遭研究人員發現沙箱逃逸問題。AI代理安全業者Accomplish近日揭露，在Cowork的macOS版本中，攻擊者可透過提示誘使AI代理利用Linux核心漏洞CVE-2026-46331，在Cowork的Linux VM中取得Root權限，再利用Cowork與Mac主機之間的檔案系統共享機制，突破沙箱限制，讀寫Mac主機上的任意檔案。
-
-- 📰 **iThome 科技**
-
-### 19. [拒絕旁觀！網路詐騙通報查詢網展現公私協力，8位熱心民眾通報破萬件，下一步聚焦廣告生態系聯防](https://www.ithome.com.tw/news/177634)
-
-面對無孔不入的數位詐騙，單打獨鬥已不足以應對。數位發展部近日公布「網路詐騙通報查詢網」上線近兩年來的最新成果，不僅通報件數正式突破百萬大關，跨部會聯手成功下架逾50萬件詐騙訊息，更揭露已有8名熱心民眾單人通報均達1萬件以上，展現出「拒絕旁觀、主動挺身」的關鍵力量，同時公開廣告生態系的公私協力防詐新進展。
-
-- 📰 **iThome 科技**
-
-### 20. [非人類身分治理成企業新課題，CSA發布NHI治理報告](https://www.ithome.com.tw/news/177637)
-
-隨著AI代理、微服務及雲端自動化應用日益普及，企業內的非人類身分（Non-Human Identity，NHI）也隨之增加。這類身分可在無人介入的情況下完成身分驗證，並取得存取系統資源的權限，讓傳統以員工帳號為核心的管理方式面臨挑戰。推動雲端資安最佳���務的非營利組織雲端安全聯盟（雲端 安全 Alliance，CSA）提出NHI的分類與治理方法。
-
-- 📰 **iThome 科技**
-
-### 21. [FreePBX修補兩項重大漏洞，攻擊者可遠端執行指令或接管管理員帳號](https://www.ithome.com.tw/news/177635)
-
-由通訊軟體業者Sangoma維護的開源IP電話交換機管理平臺FreePBX，於7月17日發布兩則安全公告，揭露兩項尚未取得CVE編號的漏洞，CVSS風險分數皆為9.3，屬於重大（Critical）風險。未經身分驗證的遠端攻擊者可執行任意系統指令，或竄改管理員帳號，進而在未通過身分認證的狀況下，也能遠端存取系統。
-
-- 📰 **iThome 科技**
-
-### 22. [AI自主分析惡意程式仍未成熟，逆向工程仍須專家監督](https://www.ithome.com.tw/news/177633)
-
-端點資安業者SentinelOne旗下研究團隊SentinelLabs，依據先前分析破壞型惡意程式Fast16的實際調查流程，測試頂尖AI模型能否自主完成多階段逆向工程。Fast16是針對Windows平臺的破壞型惡意程式，可竄改用於模擬核武器物理行為的高精度工程求解軟體程式碼，進而干擾模擬結果。
-
-- 📰 **iThome 科技**
-
-### 23. [中國駭客組織JadeProx利用惡意程式TriBack Loader攻擊政府與醫療機構](https://www.ithome.com.tw/news/177632)
-
-威脅情報公司Group-IB揭露中國駭客組織JadeProx的攻擊活動，這些駭客曾入侵越南醫院的醫療影像系統、馬來西亞外交部、香港教育機構，並在拉丁美洲從事網釣，範圍包含宏都拉斯國會與委內瑞拉市政稅務系統。上述活動的最終目標，都是在受害組織植入惡意程式載入工具TriBack Loader，以便傳遞後續的攻擊工具，包括C2框架AdaptixC2與後門程式Beagle。其中，委內瑞拉的釣魚網站模擬了特定司法管轄區的真實市政稅務管理系統，顯示駭客鎖定特定目標，而非隨機尋找攻擊對象。
-
-- 📰 **iThome 科技**
-
-### 24. [Meta推出免費臉書真人驗證徽章，自拍影片即可申請](https://www.ithome.com.tw/news/177631)
-
-Meta上周四（7/23）推出Facebook Verified免費真人驗證服務，使用者只要錄製一段自拍影片，由系統與帳號既有照片比對，確認申請者為真人且與照片中的人物相符，即可取得驗證徽章。
-
-- 📰 **iThome 科技**
-
-### 25. [開源網頁郵件系統Roundcube發布1.6.17與1.7.2版，修補XSS與SSRF繞過漏洞](https://www.ithome.com.tw/news/177630)
-
-開源網頁郵件系統Roundcube近日發布1.6.17與1.7.2版更新，分別對應1.6 LTS與1.7版本，修補6個近期發現的漏洞。Roundcube是廣泛部署於企業、政府與網路服務環境的開源網頁郵件系統，常被整合至Linux伺服器與郵件服務平台，若核心元件存在漏洞，可能影響大量透過瀏覽器存取郵件的使用者，建議1.6.x與1.7.x版本用戶儘速升級。
-
-- 📰 **iThome 科技**
-
-### 26. [中國駭客利用AI代理Hermes攻擊泰國財政部](https://www.ithome.com.tw/news/177629)
-
-本月初威脅情報公司Sysdig揭露首度完全由AI代理與大型語言模型（大型語言模型）驅動的勒索軟體行動，駭客團體JadePuffer利用已知漏洞入侵Langflow執行個體，並以AI代理展開全自動攻擊，如今有人利用以AI代理入侵政府機關。
-
-- 📰 **iThome 科技**
-
-### 27. [微軟公布MAI-Image-2.5-Pro、MAI-Voice-2-Flash，強調比GPT更省成本](https://www.ithome.com.tw/news/177628)
-
-微軟上周公布自有開發的模型，包括圖片生成的MAI-Image-2.5-Pro及MAI-Voice-2-Flash，意在取代OpenAI GPT模型。
-
-- 📰 **iThome 科技**
-
-### 28. [速食連鎖業者Chick-fil-A資料外洩事件影響1.3萬人](https://www.ithome.com.tw/news/177627)
-
-上周遭到憑證填充（credential stuffing）攻擊導致資料外洩，美速食餐廳連鎖Chick-fil-A證實，該事件影響超過1萬3000人。
-
-- 📰 **iThome 科技**
-
-### 29. [Google Gemini Spark開放給美國AI Pro、全球Ultra付費用戶](https://www.ithome.com.tw/news/177626)
-
-Google自主代理人Gemini Spark現在已經擴大部署，提供給美國的Pro方案，以及全球Ultra方案用戶，也已部署到臺灣地區。
-
-- 📰 **iThome 科技**
-
-### 30. [Suno遭駭外洩郵件與付款資料，波及5,530萬個帳號](https://www.ithome.com.tw/news/177625)
-
-資料外洩查詢服務Have I Been Pwned（HIBP）上周揭露，AI音樂生成平臺Suno曾於2025年11月遭到駭客入侵。HIBP取得並分析外洩資料後，確認其中包含5,530萬個不重複的電子郵件地址，以及電話號碼、姓名、實體地址、消費紀錄與部分信用卡資料。
 
 - 📰 **iThome 科技**
 
@@ -192,6 +194,23 @@ Google自主代理人Gemini Spark現在已經擴大部署，提供給美國的Pr
 
 ### 更多 AI 新聞 (70則)
 
+- Hugging Face Has a Deepfake Nudes Problem (**Wired**)
+- Ulta Promo Codes: Up to 50% Off in July 2026 (**Wired**)
+- B&amp;H Photo Promo Codes and Deals This July 2026 (**Wired**)
+- AirDoctor Coupon Codes: 40% Off | July 2026 (**Wired**)
+- Google Workspace Promo Codes: 14% Off for July (**Wired**)
+- Birdfy Discount Codes: 15% Off Sitewide (**Wired**)
+- Priceline Promo Codes &amp; Coupons: 10% Off July (**Wired**)
+- Booking.com Promo Codes: 20% Off | July 2026 (**Wired**)
+- Corsair Discount 代碼: Up to 50% Off for July 2026 (**Wired**)
+- Ray-Ban Promo Codes: Save 50% in July 2026 (**Wired**)
+- Uber Eats Promo Codes: $15 Off│July 2026 (**Wired**)
+- 25% Off Adidas Promo 代碼 | July 2026 (**Wired**)
+- Herman Miller Promo Codes: 40% Off July 2026 (**Wired**)
+- Altra Running Promo Codes: 10% Off July 2026 (**Wired**)
+- Newegg Promo Codes and Coupons for July 2026 (**Wired**)
+- 30% Off Samsung Promo 代碼 | July 2026 (**Wired**)
+- Pura Promo Codes: $20 Off July 2026 (**Wired**)
 - France Records Its First-Ever Pyrocumulonimbus 雲端 Amid Record-Smashing Fires (**Wired**)
 - 新 Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain (**Wired**)
 - DHS Official Resigns, Citing ‘War on Immigrants’ (**Wired**)
@@ -209,8 +228,8 @@ Google自主代理人Gemini Spark現在已經擴大部署，提供給美國的Pr
 - All the Ways You Can Make Reading on Your Phone Easier (**Wired**)
 - The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway (**Wired**)
 - The 最佳 Motorola Phones, From Razr to Moto G (2026) (**Wired**)
-- 最佳 GoPro Camera (2026): Compact, Budget, Accessories (**Wired**)
 - The 最佳 Subscription-Free Home 安全 Cameras I’ve Tried (**Wired**)
+- 最佳 GoPro Camera (2026): Compact, Budget, Accessories (**Wired**)
 - Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026) (**Wired**)
 - 3 Clever Things You Can Do With an Old Amazon Kindle (**Wired**)
 - 為什麼 Leatherology Makes Some of the 最佳 Totes for Work (2026) (**Wired**)
@@ -225,23 +244,6 @@ Google自主代理人Gemini Spark現在已經擴大部署，提供給美國的Pr
 - The 2026 El Niño Is on Track to Be the Strongest on Record (**Wired**)
 - China-US AI Race Escalates, OpenAI Models Break Free, and 為什麼 You Should Check Your Car Alarm (**Wired**)
 - Silicon Valley Is Completely Divided Over Chinese AI (**Wired**)
-- 最佳 Window Air Conditioners of 2026: Midea, Zafro, GE (**Wired**)
-- BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers (**Wired**)
-- 什麼是 Entropy, Really? (**Wired**)
-- Some of Our Favorite Brain-Boosting Toys for Kids of All Ages (**Wired**)
-- Some Kids Will Never Think AI Is Cool (**Wired**)
-- Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere (**Wired**)
-- Kagi Brings Back Old-School Search, One Human-Made Website at a Time (**Wired**)
-- Trump Endorsed the MyPillow Guy as Minnesota Governor. The State GOP Isn’t Buying It (**Wired**)
-- European Researchers Say Big Tech Is Blocking Access to Their Data (**Wired**)
-- An FDA Panel Just Endorsed These Unproven Peptides (**Wired**)
-- Meta’s 新 Feel-Good AI Ad Uses a Song About the World Ending (**Wired**)
-- For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark (**Wired**)
-- The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search (**Wired**)
-- 22 Back-to-School College Dorm Room Essentials (2026) (**Wired**)
-- The 最佳 Vacuum for Pet Hair—We Tested Many to Find Which Ones Work 最佳 (2026) (**Wired**)
-- The 最佳 MagSafe Wallets for Your Everyday Carry (2026) (**Wired**)
-- The Trump Administration Wants to Change Public Engagement Rules for Polluters (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
