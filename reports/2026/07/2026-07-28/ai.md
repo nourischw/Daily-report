@@ -197,6 +197,7 @@ AI從程式碼補全工具，開始走進完整開發流程。不只參與需求
 
 ### 更多 AI 新聞 (70則)
 
+- Is the Electric Trike the Next Big Thing in Shared Micromobility? (**Wired**)
 - 最佳 Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders (**Wired**)
 - 最佳 Apple Watch (2026): Series 11, SE 3, and Ultra 3 (**Wired**)
 - 最佳 Gifts for Hikers, Backpackers, Outdoorsy People (2026) (**Wired**)
@@ -209,7 +210,6 @@ AI從程式碼補全工具，開始走進完整開發流程。不只參與需求
 - Hugging Face Has a Deepfake Nudes Problem (**Wired**)
 - Ulta Promo Codes: Up to 50% Off in July 2026 (**Wired**)
 - Corsair Discount 代碼: Up to 50% Off for July 2026 (**Wired**)
-- B&amp;H Photo Promo Codes and Deals This July 2026 (**Wired**)
 - AirDoctor Coupon Codes: 40% Off | July 2026 (**Wired**)
 - Google Workspace Promo Codes: 14% Off for July (**Wired**)
 - Birdfy Discount Codes: 15% Off Sitewide (**Wired**)
@@ -217,6 +217,7 @@ AI從程式碼補全工具，開始走進完整開發流程。不只參與需求
 - Booking.com Promo Codes: 20% Off | July 2026 (**Wired**)
 - Ray-Ban Promo Codes: Save 50% in July 2026 (**Wired**)
 - Uber Eats Promo Codes: $15 Off│July 2026 (**Wired**)
+- B&amp;H Photo Promo Codes and Deals This July 2026 (**Wired**)
 - 25% Off Adidas Promo 代碼 | July 2026 (**Wired**)
 - Herman Miller Promo Codes: 40% Off July 2026 (**Wired**)
 - Altra Running Promo Codes: 10% Off July 2026 (**Wired**)
@@ -246,7 +247,6 @@ AI從程式碼補全工具，開始走進完整開發流程。不只參與需求
 - 3 Clever Things You Can Do With an Old Amazon Kindle (**Wired**)
 - 為什麼 Leatherology Makes Some of the 最佳 Totes for Work (2026) (**Wired**)
 - The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days (**Wired**)
-- 最佳 Laptops (2026): My 熱門 Recommendations After Testing Hundreds (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
