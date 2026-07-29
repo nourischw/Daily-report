@@ -4,206 +4,210 @@
 
 ---
 
-### 1. [KOReader](https://koreader.rocks/)
+### 1. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
 
-- ⭐ 229 分｜💬 83 留言｜👤 Cider9986
+Hi HN,I built a specialized 推論 engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.I have alwa
 
-### 2. [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
+- ⭐ 411 分｜💬 135 留言｜👤 gitpusher42
 
-- ⭐ 33 分｜💬 10 留言｜👤 spIrr
+### 2. [Superlogical](https://www.superlogical.com/)
 
-### 3. [After the AI Crash](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical
 
-- ⭐ 28 分｜💬 15 留言｜👤 sysoleg
+- ⭐ 268 分｜💬 197 留言｜👤 yan
 
-### 4. [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+### 3. [Keychron 宣布 first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
 
-- ⭐ 129 分｜💬 102 留言｜👤 Canopy9560
+- ⭐ 102 分｜💬 50 留言｜👤 JLO64
 
-### 5. [Show HN: Bullshit Detector – 代理 skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)
+### 4. [KOReader](https://koreader.rocks/)
 
-- ⭐ 21 分｜💬 2 留言｜👤 skorniienko
+- ⭐ 559 分｜💬 178 留言｜👤 Cider9986
 
-### 6. [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+### 5. [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
 
-- ⭐ 285 分｜💬 93 留言｜👤 Error6571
+- ⭐ 234 分｜💬 148 留言｜👤 spIrr
 
-### 7. [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
+### 6. [Anatomy of a frontier-lab 代理 intrusion](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 
-- ⭐ 16 分｜💬 4 留言｜👤 nyku
+- ⭐ 121 分｜💬 48 留言｜👤 dn2k
 
-### 8. [Amiga Graphics Archive](https://amiga.lychesis.net/index.html)
+### 7. [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
-- ⭐ 66 分｜💬 10 留言｜👤 Bluestein
+- ⭐ 270 分｜💬 203 留言｜👤 Canopy9560
 
-### 9. [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html)
+### 8. [Some thoughts about Anthropic's 新 cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 
-- ⭐ 42 分｜💬 1 留言｜👤 agnishom
+- ⭐ 43 分｜💬 18 留言｜👤 supermatou
 
-### 10. [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
+### 9. [A.I. companies are recruiting electricians and carpenters by the thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
 
-- ⭐ 289 分｜💬 48 留言｜👤 zdw
+- ⭐ 94 分｜💬 139 留言｜👤 thm
 
-### 11. [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)
+### 10. [PgDog (YC P25) Is 招聘](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 
-- ⭐ 11 分｜💬 0 留言｜👤 ibobev
+- ⭐ 1 分｜💬 0 留言｜👤 levkk
 
-### 12. [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
+### 11. [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/)
 
-- ⭐ 133 分｜💬 50 留言｜👤 ankitg12
+- ⭐ 61 分｜💬 8 留言｜👤 AlexeyBrin
 
-### 13. [Codex 安全](https://github.com/openai/codex-security)
+### 12. [Darktable](https://www.darktable.org/)
 
-- ⭐ 545 分｜💬 197 留言｜👤 bakigul
+- ⭐ 200 分｜💬 104 留言｜👤 siatko
 
-### 14. [Lisp moving Forth moving Lisp](https://letoverlambda.com/textmode.cl/guest/chap8.html)
+### 13. [Hamburg's Stadtpark: A Park Built to Be Used](https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/)
 
-- ⭐ 63 分｜💬 19 留言｜👤 fallat
+- ⭐ 64 分｜💬 13 留言｜👤 mertbio
 
-### 15. [French musician Kavinsky found dead](https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home)
+### 14. [Launch HN: Tokenless (YC S26) – Automatic 模型 switching to save money](https://usetokenless.com/)
 
-- ⭐ 120 分｜💬 29 留言｜👤 bristleworm
+Hi HN, Rohit here from Tokenless (https:&#x2F;&#x2F;usetokenless.com&#x2F;), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes 代理 traffic dynamical
 
-### 16. [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/)
+- ⭐ 36 分｜💬 36 留言｜👤 rohaga
 
-I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features:* Voice first* Private first* AI chat* Automatic tagging, meaning extraction, and s
+### 15. [Self-hosting Kimi K3: 20% more 硬體 cost, 20% better task resolution](https://aistack.imec-int.com/blog/gpu-self-hosting)
 
-- ⭐ 7 分｜💬 7 留言｜👤 arisAlexis
+- ⭐ 66 分｜💬 27 留言｜👤 flifenstein
 
-### 17. [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
+### 16. [Show HN: CheapFoodMap – A map of good meals under $10](https://cheapfoodmap.com/)
 
-HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in anot
+I was recently laid off after 18 years, and gave myself 100 days to 構建 soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.It
 
-- ⭐ 365 分｜💬 100 留言｜👤 twalichiewicz
+- ⭐ 28 分｜💬 26 留言｜👤 jaep1
 
-### 18. [Ancient Rome's version of Google Maps: how long to reach the beach](https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach)
+### 17. [Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem](https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/)
 
-- ⭐ 41 分｜💬 32 留言｜👤 gnabgib
+- ⭐ 88 分｜💬 2 留言｜👤 ibobev
 
-### 19. [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
+### 18. [Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon](https://github.com/VladUZH/qwen-scribe)
 
-- ⭐ 595 分｜💬 313 留言｜👤 speckx
+- ⭐ 39 分｜💬 12 留言｜👤 sidclaw
 
-### 20. [Pulse Path – a browser puzzle where placement is the only decision](https://pulsepathgame.netlify.app/)
+### 19. [Learning Musical Multitasking](https://www.jefftk.com/p/learning-musical-multitasking)
 
-- ⭐ 7 分｜💬 5 留言｜👤 crysislol
+- ⭐ 17 分｜💬 9 留言｜👤 surprisetalk
 
-### 21. [ALP: Adaptive lossless floating-point compression](https://github.com/cwida/ALP)
+### 20. [Show HN: Kedge – Full-stack 雲端 with forkable VM snapshots and global SQLite](https://kedge.dev/)
 
-- ⭐ 10 分｜💬 0 留言｜👤 fanf2
+I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev`I helped 構建 Fl
 
-### 22. [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
+- ⭐ 35 分｜💬 9 留言｜👤 wgjordan
 
-- ⭐ 280 分｜💬 132 留言｜👤 freediver
+### 21. [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs 最佳?](https://juliahub.com/blog/frontier-models-physical-ai-evaluation)
 
-### 23. [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
+- ⭐ 53 分｜💬 10 留言｜👤 mbauman
 
-- ⭐ 72 分｜💬 21 留言｜👤 zdw
+### 22. [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 
-### 24. [The only road in London where you have to drive on the right](https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294)
+- ⭐ 367 分｜💬 105 留言｜👤 Error6571
 
-- ⭐ 13 分｜💬 19 留言｜👤 theanonymousone
+### 23. [Amiga Graphics Archive](https://amiga.lychesis.net/index.html)
 
-### 25. [ReFrame – The EPaper Camera](https://reframe.camera/)
+- ⭐ 136 分｜💬 24 留言｜👤 Bluestein
 
-- ⭐ 170 分｜💬 39 留言｜👤 phil294
+### 24. [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
 
-### 26. [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
+- ⭐ 367 分｜💬 65 留言｜👤 zdw
 
-- ⭐ 252 分｜💬 119 留言｜👤 tmtvl
+### 25. [Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator](https://cesium.com/events/cesium-developer-conference/2026/)
 
-### 27. [Delayed Gratification – Proud to Be 'Last to Breaking News'](https://www.slow-journalism.com/)
+- ⭐ 33 分｜💬 12 留言｜👤 jasteinerman
 
-- ⭐ 317 分｜💬 184 留言｜👤 speerer
+### 26. [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/)
 
-### 28. [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
+- ⭐ 110 分｜💬 88 留言｜👤 stevenwoo
 
-- ⭐ 230 分｜💬 149 留言｜👤 ajhai
+### 27. [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
 
-### 29. [Show HN: Vimgolf.AI – Learn Vim by playing through a map of levels](https://vimgolf.ai)
+- ⭐ 77 分｜💬 26 留言｜👤 nyku
 
-Just launched my app, VimGolf.AI! As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed at people who have never used Vim. Any feedback would be muc
+### 28. [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 
-- ⭐ 23 分｜💬 16 留言｜👤 nickandbro
+- ⭐ 213 分｜💬 67 留言｜👤 ankitg12
 
-### 30. [Transformer Transformer: A Unified 模型 for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
+### 29. [Lisp moving Forth moving Lisp](https://letoverlambda.com/textmode.cl/guest/chap8.html)
 
-- ⭐ 67 分｜💬 8 留言｜👤 ilreb
+- ⭐ 108 分｜💬 25 留言｜👤 fallat
+
+### 30. [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html)
+
+- ⭐ 67 分｜💬 8 留言｜👤 agnishom
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Hubble: Open-source notetaking app for you and your agents
-- Una GPS smart watch – Repairable, USB-C charging, 開發者-friendly
-- 60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)
-- Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'
-- Hooray for the Sockets Interface
-- National 安全 Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]
-- The iPhone Upgrade Program is being replaced by Apple Upgrade
-- Zig's Incremental Compilation Internals
-- Now is the time to give LLMs access to the ACM digital library
-- Teach yourself 程式設計 in ten years (1998)
-- Interview with Boris Cherny [video]
-- Google DeepMind dismantles AlphaFold team
-- Ask HN: Anyone else tired of brands discontinuing your favorite everyday items?
-- UpCodes (YC S17) is 招聘 遠端 AE's to help make buildings cheaper
-- Discovering Cryptographic Weaknesses with Claude
-- Mag Computer: A Mag History of RAM (1960–2025)
+- Baseload Is a Myth (2024)
+- Watch out for missed warnings on vendor C++ toolchains
+- Ads-STE100: Simplified Technical English
+- CipherX applies painless permanent tattoos with dissolving microneedle patches
+- Ancient Rome's version of Google Maps: how long to reach the beach
+- A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)
 - San Francisco: Don't Fall for Industry Defense of Surveillance Pricing
-- DMARC has been public since 2012 but most company domains still don't enforce it
-- Intel unveiled its iconic Core 2 Duo family 20 years ago – dethroned AMD Athlon
-- 7.1 Earthquake in Japan
-- Anthropeum – Where in the world, and when, does this human artifact belong?
-- Multiple Mouse Cursors in Wayland
+- Small Portable Weather Radar
+- Apple's hostile App Store rating 系統
+- Show HN: Write, simulate and synthesize VHDL/Verilog in the browser
+- After the AI Crash
+- Show HN: The Federalist Papers, typeset as the 1787 newspapers they ran in
+- Google shuts down Nobel Prize winning AlphaFold
+- Graph Engineering Needs a Compiler
+- Cooking for Engineers
+- ALP: Adaptive lossless floating-point compression
+- French musician Kavinsky found dead
+- ReFrame – The EPaper Camera
+- Steel Bank Common Lisp version 2.6.7
+- Valve Sponsors Work Bringing Open-Source RADV Driver to Windows
+- Show HN: Bullshit Detector – 代理 skills that fact-check videos and articles
+- The only road in London where you have to drive on the right
+- Show HN: Echologue – the private AI voice journal I built for myself
+- Cracking Windows Open: Porting RADV to Win32
+- We built an MCP 伺服器 for your SRE 代理
+- LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
+- Codex 安全
+- Windows 11 is quietly installing OneDrive Photos
+- TokenTown: A visual way to understand how LLMs work
+- Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'
+- Hubble: Open-source notetaking app for you and your agents
+- Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout
+- Building an Affiliation 網絡 for Blog Posts and Tags in Hugo
+- Transformer Transformer: A Unified 模型 for Motion-Conditioned Robot Co-Design
+- AI Doomsday Bullshit Is Getting Tired
+- Teacher arrested for clapping in opposition at an AI data center meeting
+- Substack writers, you need a website
+- Astronomers find strongest evidence yet that Betelgeuse has a companion
+- 60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)
+- Interview with Boris Cherny [video]
+- Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
+- The Strain in Your Brain
+- Notes from a Burning Paris
+- Teaching agents to predict and pre-execute their next tool call
+- I Want to Leave the Internet
 - I'd not buy a LG monitor
+- Hooray for the Sockets Interface
+- Discovering Cryptographic Weaknesses with Claude
+- Loop Engineering Is a Pattern, Not a Feature
+- 7.1 Earthquake in Japan
+- Controllable Generative Modeling in Minecraft by 訓練 on Billions of Cubes
+- Show HN: A free curl API for IP data (we scan the IPv4 space in <24h)
+- Using AI to Strengthen Learning, Not Replace It
+- Half-Life ported to Mac OS 9
+- Anthropeum – Where in the world, and when, does this human artifact belong?
+- Shai-Hulud and the risks of external dependencies
+- A $500 RL fine-tune of a 9B open 模型 beat frontier models on catalog review
+- Show HN: A Persistent AI RPG Engine Built with React SPA and Supabase
 - Kimi K3 Architecture Overview and Notes
-- The Fabled Flatbreads of Uzbekistan (2015)
+- Simple sorting tool (CLI) in C++
+- DMARC has been public since 2012 but most company domains still don't enforce it
+- Show HN: Tessera – tmux/Zellij ergonomics for macOS windows
 - MCP 2026-07-28 Specification: transport going stateless
+- 為什麼 We're Dropping Basecamp (2023)
+- An Android and iOS app from 7 Claude 代碼 commands, every prompt and timing
+- The Fabled Flatbreads of Uzbekistan (2015)
+- Ask HN: Anyone else tired of brands discontinuing your favorite everyday items?
 - How Do I Profile eBPF 代碼?
 - Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library
-- Aspirin reverses diet-driven depression-like behavior
-- CodeCrucible: A blueprint for 大型語言模型-driven SAST
-- A $500 RL fine-tune of a 9B open 模型 beat frontier models on catalog review
-- Show HN: How far do I have to go to run into 100k people?
-- Lightweight Spring Boot Monitoring Without Prometheus and Grafana
-- Stop Killing the Internet: No Digital ID and No Age Verification
-- Rare Nintendo Famicombox retro consoles were discovered in a Japanese love hotel
-- Pacing the frontier
-- About the 安全 content of macOS Tahoe 26.6
-- Google's Beyond Zero: Enterprise 安全 for the AI Era
-- eBay agrees $56M settlement with bloggers over harassment case
-- Harmony Explained: Progress Towards a Scientific Theory of Music (2012)
-- VMs can't boot with 網絡 Mode set to Bridged on Apple M5 Pro machines
-- Doom Using Regular Expressions
-- Our position on open-weights models
-- Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects
-- The Shape of Data (2022)
-- Chip stocks slide in US and Asia as AI jitters rattle investors
-- AI-found bugs aren't proving any easier to exploit despite the hype
-- Scaling Agentic RL: 365,000 Environments for SWE, Terminal, and Search
-- Truth is not a direction: a Tarski attack on 大型語言模型 probes
-- Toolcraft
-- I'm 38 and I Can't Support Myself Anymore
-- When physicians and AI work together, who is accountable?
-- Running Kimi K3 on a M1 Max
-- 如何 survive boiling water
-- So, you want to make a game engine (2023)
-- Fixing a bug with byte order marks
-- Forth
-- Tree Style Tab
-- Kimi Linear: An Expressive, Efficient Attention Architecture (2025)
-- Log is non-monotonic in PHP and Lua
-- The AI Hype Index: Unsexy AI
-- The BBC Tetris Companion
-- Vehicle Motion Cues
-- Pareto Front
-- Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History
-- Solving Fermat: Andrew Wiles
-- Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI 代碼
-- Show HN: Learning Rust by writing a Markdown to HTML compiler
-- 新 HIV vaccine shows unprecedented success in preclinical study
-- Ubuntu's TPM encryption switches to snap kernel that blocks deb kernel packages
+- Multiple Mouse Cursors in Wayland
 
 
 ---
