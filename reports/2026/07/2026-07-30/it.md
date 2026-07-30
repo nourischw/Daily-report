@@ -4,200 +4,206 @@
 
 ---
 
-### 1. ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
+### 1. [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 
-- ⭐ 64 分｜💬 19 留言｜👤 speckx
+- ⭐ 92 分｜💬 27 留言｜👤 dickfickling
 
-### 2. [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
+### 2. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 
-- ⭐ 14 分｜💬 3 留言｜👤 notarobot123
+- ⭐ 170 分｜💬 75 留言｜👤 speckx
 
-### 3. [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
+### 3. [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 
-- ⭐ 33 分｜💬 24 留言｜👤 blenderob
+- ⭐ 295 分｜💬 185 留言｜👤 tedsanders
 
-### 4. [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
+### 4. [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
 
-- ⭐ 85 分｜💬 23 留言｜👤 benn_88
+- ⭐ 312 分｜💬 295 留言｜👤 ai2027
 
-### 5. [為什麼 Is Everyone Trying to 構建 a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
+### 5. [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
 
-- ⭐ 12 分｜💬 2 留言｜👤 crescit_eundo
+- ⭐ 122 分｜💬 76 留言｜👤 Areibman
 
-### 6. [Ron Gilbert started production on Thimbleweed Park 2](https://www.grumpygamer.com/twp2_announce/)
+### 6. [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 
-- ⭐ 95 分｜💬 34 留言｜👤 alberto-m
+- ⭐ 133 分｜💬 47 留言｜👤 tomzorz
 
-### 7. [AI's 熱門 startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+### 7. [Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 
-- ⭐ 549 分｜💬 284 留言｜👤 YeGoblynQueenne
+- ⭐ 18 分｜💬 1 留言｜👤 KraftyOne
 
-### 8. [代理-經理: A Tmux TUI for Running Claude 代碼, Codex and OpenCode](https://github.com/YoanWai/agent-manager)
+### 8. [Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
 
-- ⭐ 53 分｜💬 38 留言｜👤 yoanwaidev
+- ⭐ 109 分｜💬 50 留言｜👤 ibobev
 
-### 9. [Mbodi AI (YC P25) Is 招聘 Robotics/Research Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs)
+### 9. [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/)
 
-- ⭐ 1 分｜💬 0 留言｜👤 chitianhao
+- ⭐ 24 分｜💬 0 留言｜👤 tnisonoff
 
-### 10. [How Old Is Ann?](https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/)
+### 10. [Rise Reforming (YC S26) Is 招聘](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
 
-- ⭐ 12 分｜💬 3 留言｜👤 ibobev
+- ⭐ 1 分｜💬 0 留言｜👤 george_rose25
 
-### 11. [為什麼 Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/)
+### 11. [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
 
-- ⭐ 15 分｜💬 8 留言｜👤 Thom2503
+- ⭐ 128 分｜💬 53 留言｜👤 javaeeeee
 
-### 12. [Carolina 雲端 pays SOFR on unused prepaid credits](https://docs.carolinacloud.io/organizations/prepaid-interest/)
+### 12. [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
 
-- ⭐ 43 分｜💬 28 留言｜👤 bojangleslover
+- ⭐ 23 分｜💬 5 留言｜👤 robin_reala
 
-### 13. [What it means for an API to be RESTful](https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/)
+### 13. [So you want to use plants to reduce CO₂](https://dynomight.net/plants/)
 
-- ⭐ 12 分｜💬 6 留言｜👤 ibobev
+- ⭐ 16 分｜💬 5 留言｜👤 surprisetalk
 
-### 14. [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+### 14. [Hacker Public Radio](https://hackerpublicradio.org/)
 
-- ⭐ 754 分｜💬 289 留言｜👤 robbiet480
+- ⭐ 98 分｜💬 16 留言｜👤 bmacho
 
-### 15. [3D Pinball for Windows (1995)](https://98.js.org/programs/pinball/space-cadet.html)
+### 15. [為什麼 is everyone trying to 構建 a solid-state battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
 
-- ⭐ 12 分｜💬 0 留言｜👤 mushstory
+- ⭐ 127 分｜💬 156 留言｜👤 crescit_eundo
 
-### 16. [I made a game where you 構建 a CPU from logic gates](https://select.supply/game/chipbuilder)
+### 16. [Upper stage impacting the moon on 2026 August 5](https://www.projectpluto.com/25010d.htm)
 
-- ⭐ 16 分｜💬 8 留言｜👤 laurentiurad
+- ⭐ 112 分｜💬 34 留言｜👤 ryannevius
 
-### 17. [The Glass Famine](https://edconway.substack.com/p/the-glass-famine)
+### 17. [Launch HN: Prized (YC S26) – Let non-工程師 staff 構建 secure internal tools](https://prized.dev)
 
-- ⭐ 52 分｜💬 17 留言｜👤 baud147258
+Hi HN, we&#x27;re Marinos and Hudson, founders of Prized (https:&#x2F;&#x2F;prized.dev)! Prized lets non-工程師 employees describe the internal tool they need and get a full-stack app, wired to thei
 
-### 18. [大型語言模型 Honeypot](https://llm2human.pages.dev/)
+- ⭐ 55 分｜💬 31 留言｜👤 marinoseliades
 
-- ⭐ 334 分｜💬 93 留言｜👤 8thom
+### 18. [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
 
-### 19. [The first watch featuring computer functions](https://by.seiko-design.com/140th/en/topic/58.html)
+- ⭐ 96 分｜💬 28 留言｜👤 notarobot123
 
-- ⭐ 51 分｜💬 24 留言｜👤 stefanv
+### 19. [如何 Mount a Balcony Awning (2025)](https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/)
 
-### 20. [GCC steering committee 宣布 AI policy](https://lwn.net/Articles/1086041/)
+- ⭐ 34 分｜💬 1 留言｜👤 karakoram
 
-- ⭐ 124 分｜💬 130 留言｜👤 arto
+### 20. [How Olinia Turns Mexico's EV Ambition into Reality](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
 
-### 21. [The Productivity Mirage](https://frantic.im/mirage/)
+- ⭐ 23 分｜💬 25 留言｜👤 rbanffy
 
-- ⭐ 303 分｜💬 132 留言｜👤 msephton
+### 21. [Ron Gilbert started production on Thimbleweed Park 2](https://www.grumpygamer.com/twp2_announce/)
 
-### 22. [Go 大型語言模型 SDK for streaming, tool-calling AI backends (plus 前端 React lib)](https://github.com/grafana/ai-sdk)
+- ⭐ 213 分｜💬 101 留言｜👤 alberto-m
 
-- ⭐ 14 分｜💬 0 留言｜👤 matryer
+### 22. [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](https://github.com/n67094/sdl_gp)
 
-### 23. [Keychron 宣布 first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
+- ⭐ 43 分｜💬 14 留言｜👤 n67094
 
-- ⭐ 414 分｜💬 169 留言｜👤 JLO64
+### 23. [Are We Stuck with Lean?](https://mathoverflow.net/questions/513742/are-we-stuck-with-lean)
 
-### 24. [ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
+- ⭐ 104 分｜💬 50 留言｜👤 jjgreen
 
-- ⭐ 37 分｜💬 16 留言｜👤 ch_sm
+### 24. [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
 
-### 25. [Azulejo](https://en.wikipedia.org/wiki/Azulejo)
+- ⭐ 5 分｜💬 0 留言｜👤 yashmahajan10
 
-- ⭐ 90 分｜💬 31 留言｜👤 Amorymeltzer
+### 25. [Show HN: Claude-account – switch Claude 代碼 accounts without logging in again](https://github.com/hamzarehmandeveloper/claude-account)
 
-### 26. [Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
+I use separate Claude 代碼 accounts for work and personal projects. Having to log out and go through the login flow every time I switched accounts became annoying, so I built a small CLI to solve it.T
 
-- ⭐ 171 分｜💬 201 留言｜👤 dmantis
+- ⭐ 29 分｜💬 21 留言｜👤 hamza_rehman
 
-### 27. [Concurrency, interactivity, mutability, choose two](https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/)
+### 26. [Paging Through a Parquet File in DuckDB: File_row_number or Offset?](https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/)
 
-- ⭐ 50 分｜💬 27 留言｜👤 billiob
+- ⭐ 32 分｜💬 3 留言｜👤 rustyconover
 
-### 28. [Anatomy of a Frontier Lab 代理 Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
+### 27. [How old is Ann?](https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/)
 
-- ⭐ 426 分｜💬 232 留言｜👤 artninja1988
+- ⭐ 53 分｜💬 55 留言｜👤 ibobev
 
-### 29. [The Cold Email](https://zachholman.com/posts/cold-email)
+### 28. [Show HN: I made a game where you 構建 a CPU from logic gates](https://select.supply/game/chipbuilder)
 
-- ⭐ 257 分｜💬 99 留言｜👤 holman
+I built ChipBuilder to make computer architecture more approachable through interactive puzzles.You start with basic logic gates like AND, OR, and NOT, then gradually combine them into adders, multipl
 
-### 30. [CosmosEscape: Taking over Every 資料庫 in Azure Cosmos DB](https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db)
+- ⭐ 66 分｜💬 57 留言｜👤 laurentiurad
 
-- ⭐ 9 分｜💬 3 留言｜👤 uvuv
+### 29. [3D Pinball for Windows (1995)](https://98.js.org/programs/pinball/space-cadet.html)
+
+- ⭐ 87 分｜💬 41 留言｜👤 mushstory
+
+### 30. [RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]](https://www.youtube.com/watch?v=W-OpIbLUOU0)
+
+- ⭐ 22 分｜💬 3 留言｜👤 evakhoury
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Building a native C# implementation of CEL engine
+- Trusted URLs via Cryptographic Signatures
+- Gpiozero Flow
+- Azulejo
+- The Alice and Bob After Dinner Speech (1984)
+- The Glass Famine
+- Show HN: Tally – check a spreadsheet's numbers against their source, in-browser
+- CosmosEscape: Taking over Every 資料庫 in Azure Cosmos DB
+- Go 大型語言模型 SDK for streaming, tool-calling AI backends (plus 前端 React lib)
+- AI 代理 Authentication and Authorization (IETF Internet-Draft)
+- Citadel buys most of Situational's stock holdings after AI share rout
 - You can't solve computer use by ignoring the interface
-- The Apple Calculator Language
+- Mark Zuckerberg is becoming the king of the 'side quest'
+- The first watch featuring computer functions
+- 代理-經理: A Tmux TUI for Running Claude 代碼, Codex and OpenCode
+- I asked Claude to reimplement Apple's LZRAVEN codec in C, conformance-tested
+- Atomarine: Nuclear Data Centers at Sea
+- AI's 熱門 startups are barely publishing their research
+- Pgtestdb's template cloning approach to testing is fast
+- OpenAI revenue in July topped all of Q2 driven by GPT-5.6 release
+- Bryan Johnson: I've taken longevity too far
+- Reversing Abstractions: An Existential Crisis
 - Logic for Programmers
+- The coolest use for the Vision Pro
+- AI productivity gains are closer to 10% than 10x
+- Delivery workers made $104M more in tips after NYC began enforcing 新 law
+- Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI
+- A Language Feature to Rule Them All (Algebraic Effects)
+- Google will expand age checks on Android worldwide till the end of the year
+- US oil inventories fall to 'precariously low' level as Iran war disrupts supply
+- Concurrency, interactivity, mutability, choose two
 - ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison
-- Are We Stuck with Lean?
-- Visualizing the Artemis II Mission
-- Show HN: CheapFoodMap – A map of good meals under $10
-- Kimi K3-256k
-- Kuna: Decompiler Development in the Age of Coding Agents
-- Turning a dumb AC unit smart (without losing my 安全 deposit)
-- Some thoughts about Anthropic's 新 cryptanalysis results
-- 軟體 Foundations Series
+- Inkling-Small
 - Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
+- Kuna: Decompiler Development in the Age of Coding Agents
 - Superlogical
-- Cisco FMC static credential vulnerability exploited as a zero-day
-- Excessive time spent online linked to stress and worse mood – study
-- The Rust on ESP Book
+- 為什麼 don't people use formal methods? (2019)
 - We discovered a 新 variant of Super Mario Bros
-- Steam Client Adds HDR Streaming on Steam Deck OLED, AV1 Video Streaming
-- 'My life's screwed': Korean investors stress out after AI bubble bursts
-- Angels in Coptic Magic I: Introduction
-- Amazon's Zoox wins first US approval for paid robotaxis with no human controls
-- Hamburg's Stadtpark: A Park Built to Be Used
+- ChatGPT, Roblox to fall under strictest EU rules for platforms
+- South Korea's stock market plunges as AI-driven boom fades
+- The Situation Deteriorated
+- 為什麼 the bond market is doubting Fed chairman Warsh
+- US gov and OpenAI mislabel map of Africa at global conference
+- List of 6502 based computers and 6502 history
+- Going beneath NTFS: USN Journal, dfir_NTFS, and artefact-driven investigations
+- 大型語言模型 Honeypot
 - Launch HN: Tokenless (YC S26) – Automatic 模型 switching to save money
-- NSF pilots 4-year PhDs with industry research placements
-- London’s most equidistant pub
+- The Apple Calculator Language
 - KOReader
-- Refactoring cuisine: how an Iraqi stew sailed to Singapore
+- 大型語言模型 Routers Have Become a Service Category of Their Own
+- Parody Hacker News (2013)
+- Keychron 宣布 first open-source firmware for gaming mice
+- thinkingmachines/Inkling-Small
+- 新 cars are getting 1.2cm longer and 0.5cm taller each year
 - Self-hosting Kimi K3: 20% more 硬體 cost, 20% better task resolution
 - Hunter-gatherers introduced fish to a mountain lake 7000 years ago
-- Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman
-- Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)
-- Sam Altman is now talking to the White House about decelerating AI
-- Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem
-- A.I. companies are recruiting electricians and carpenters by the thousands
-- Flume Water Monitor 915 MHz 安全 Is Pretty Good
-- Dr. Dobb's Journal (articles from 1988 – 2009)
-- Amiga Graphics Archive
-- Show HN: A local merge queue for parallel Claude 代碼 agents
-- "Oopsies " FreeBSD Devs Say There's Still GPL in the Kernel
-- SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers
+- The Productivity Mirage
+- 為什麼 DNA damage from smoking and UV rays cause cancer in some but not others
+- Anatomy of a Frontier Lab 代理 Intrusion: A Timeline of the July 2026 Incident
+- Angels in Coptic Magic I: Introduction
 - A Trampoline
-- GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs 最佳?
-- Solsticio – a daily sun/moon logic puzzle with a deterministic generator
-- Document-borne AI worms can self-propagate through Copilot for Word
-- How much can you delegate to agents?
-- Handbook.md shows that long policy documents do not reliably govern agents
-- Kimi K3's Design Secret May Be in Its Thinking Traces
-- Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon
-- Lisp moving Forth moving Lisp
-- Darktable
-- Enabling two settings tripled our scores on the ARC-AGI-3 benchmark
-- 67% of Americans worry leaders pressuring officials to alter election results
-- Steel Bank Common Lisp version 2.6.7
-- ReFrame – The EPaper Camera
-- Three Virtues by Larry Wall
-- Overengineered Calculator: Zig and QBE
-- Disrupting supply chain attacks on NPM and GitHub Actions
-- More Tailscale tricks for your jailbroken Kindle
-- Meta's AI spending reduces quarterly free cash flow by 91%
-- Japan unveils 'human refrigerator' to combat extreme summer heat
-- User Interfaces of the Demo Scene
-- Show HN: An app that logs your meal's calories from a photo
-- Uefa to discuss boycotting World Cup in emergency meeting after FIFA bombshell
-- Show HN: Kedge – Full-stack 雲端 with forkable VM snapshots and global SQLite
-- 新 microwave frying method could make French fries much healthier
-- SpecForge – A Platform for Authoring Formal Specifications
-- Interconverting std::function with copyable_function
-- Running Wayland, X11, Gnome, and KDE Natively on an iPad
-- 2001: Cameras..On Phones?
+- 'My life's screwed': Korean investors stress out after AI bubble bursts
+- Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman
+- Refactoring cuisine: how an Iraqi stew sailed to Singapore
+- The Cold Email
+- Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem
+- U.S. Sees Iran as Likely Behind Cyberattack on Minnesota Water Systems
+- Show HN: Hacker Fables – A satirical cyberpunk novel you can read as a man page
+- SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers
+- Is Samsung Pioneering Mass Adoption of USDC?
 
 
 ---
