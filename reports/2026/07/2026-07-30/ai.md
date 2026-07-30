@@ -4,69 +4,187 @@
 
 ---
 
-### 1. [思科防火牆管理軟體存在遭積極利用的資安漏洞](https://www.ithome.com.tw/news/177737)
+### 1. [Perplexity開源Numbat，在端點監控AI代理行為並攔阻高風險操作](https://www.ithome.com.tw/news/177757)
+
+Perplexity開源AI代理端點資安工具Numbat，可在macOS、Linux與Windows監控程式開發代理的執行行為，在代理嘗試高風險操作時加以阻擋，並保留紀錄供資安人員調查。Perplexity表示，Numbat已部署於自家數千部端點，支援Claude 代碼、Codex、OpenCode與Pi。
+
+- 📰 **iThome 科技**
+
+### 2. [DoorDash取得FAA認證，成立無人機外送部門](https://www.ithome.com.tw/news/177758)
+
+外送平臺DoorDash周三（7/29）宣布，已取得美國聯邦航空總署（FAA）的Part 135航空承運人認證（Part 135 Air Carrier Certification），成為美國第8家取得這項認證的無人機營運商，並正式成立自營無人機外送部門DoorDash Air。該公司預計今年秋季開始商業配送，但尚未公布首波服務地區。
+
+- 📰 **iThome 科技**
+
+### 3. [供應鏈攻擊SleeperGem鎖定RubyGems用戶，入侵多年未活動的維護者帳號而得逞](https://www.ithome.com.tw/news/177756)
+
+鎖定NPM、PyPI、Visual Studio 代碼（VS 代碼）套件的供應鏈攻擊不時傳出，然而有人將相關手法用於RubyGems，引起資安公司的注意。
+
+- 📰 **iThome 科技**
+
+### 4. [美國能源部攜手Brookfield、NextEra，打造1000億美元AI資料中心園區](https://www.ithome.com.tw/news/177754)
+
+美國能源部周三（7/29）宣布，將與Brookfield、NextEra Energy及當地電力業者合作，在肯塔基州西部的帕迪尤卡（Paducah）場址開發AI資料中心及能源園區，民間投資規模超過1000億美元。園區將分階段興建及投入運作，預計2032年全面建成，並創造約8000個營建工作及600個永久職缺。
+
+- 📰 **iThome 科技**
+
+### 5. [Microsoft 365用戶自動續訂較高價Copilot方案，英國啟動消費者調查](https://www.ithome.com.tw/news/177753)
+
+英國公平競爭及市場管理局（CMA）宣布調查微軟，釐清Microsoft 365 Personal與Family方案加入Copilot等功能後，是否未在續訂前充分告知既有用戶可選方案及價格差異，讓部分消費者在未充分了解選項的情況下，自動續訂價格較高的方案。
+
+- 📰 **iThome 科技**
+
+### 6. [駭客對SonicWall防火牆發動憑證填充攻擊，2天內逾30家企業組織受害](https://www.ithome.com.tw/news/177752)
+
+資安業者Huntress發現一起針對SonicWall VPN和防火牆發動憑證填充（credential stuffing）攻擊以驗證受害用戶憑證，在兩天內入侵了30家企業用戶系統，廠商警告駭客可能正在籌劃下一波更大的行動。
+這家資安業者7月25日偵測到對SonicWall系統登入頁的異常登入要求。這起攻擊行動是一宗大範圍隨機攻擊，而非鎖定單一對象。攻擊者大範圍對不相關組織的SonicWall遠端存取入口網站送入憑證，進行系統性驗證。這方法旨在將受害帳號最大化。
+
+- 📰 **iThome 科技**
+
+### 7. [資安業者盤點全球暴露於IPMI漏洞風險的伺服器，臺灣也有319臺入列](https://www.ithome.com.tw/news/177751)
+
+資安業者Lava近日盤點全球暴露於網際網路的伺服器BMC管理介面，發現超過2.4萬臺伺服器存在IPMI 2.0認證弱點CVE-2013-4786，其中臺灣也有319臺。
+
+- 📰 **iThome 科技**
+
+### 8. [北韓駭客假面試攻擊，SVG圖檔藏惡意程式竊取開發者資料](https://www.ithome.com.tw/news/177743)
+
+Elastic 安全 Labs揭露一波針對軟體開發者的假求職面試攻擊。攻擊者把惡意程式拆成多個片段，藏在程式測驗專案的SVG國旗圖檔中。開發者下載並啟動專案後，瀏覽器登入資料、加密貨幣錢包資料、雲端服務設定與原始碼可能遭竊，電腦也會被植入遠端控制後門。
+
+- 📰 **iThome 科技**
+
+### 9. [美國FCC禁售外國人形機器人、太陽能變流器](https://www.ithome.com.tw/news/177750)
+
+美國聯邦通訊管理委員會（Federal Communication Commission，FCC）周一（7/28）以維護美國國家安全為由，更新其涵蓋清單（Covered List），將外國生產的人形機器人、四足機器人及太陽能變流器納入在美禁售範圍。
+FCC是在美國白宮召集戰爭部、國土安全部等國安部會首長舉行國安會議後做出這項禁令。該會議決議外國生產的產品，不論其來源國，都會對美國國家安全及美國民眾的生命財產安全造成不可接受的風險。
+根據美國政府的結論，這些裝置「不可接受」的風險包括造成供應鏈漏洞，擾亂美國經濟和國家安全，也可能引發網路安全風險，威脅美國關鍵基礎架構。
+
+- 📰 **iThome 科技**
+
+### 10. [俄羅斯駭客Laundry Bear攻擊Exchange用戶，藉由半點擊漏洞散布惡意程式OWAReaper](https://www.ithome.com.tw/news/177749)
+
+上週五眼聯盟與歐洲多國對俄羅斯駭客Laundry Bear（Void Blizzard、CL-STA-1114、TA488）的網路間諜活動提出警告，駭客鎖定郵件協作平臺Zimbra Collaboration Suite（ZCS）已知漏洞從事攻擊，參與這波活動調查的威脅情報公司Proofpoint指出，這些駭客在聯合公告發出前夕，已改用另一個資安漏洞從事攻擊。
+
+- 📰 **iThome 科技**
+
+### 11. [勒索軟體利用金流匿蹤、AI助攻釣魚入侵，資安署示警臺灣企業不能再心存僥倖](https://www.ithome.com.tw/news/177748)
+
+數位發展部資通安全署日前（7月27日）召開記者會，署長蔡福隆在致詞時直言，今年上半年造成社會最大衝擊的資安事件，主要仍是勒索軟體相關攻擊。他引用美國聯邦調查局（FBI）網路犯罪申訴中心（IC3）發布的《2025年網路犯罪報告》《FBI 2025 Internet Crime Report》指出，去年一整年通報的勒索軟體案件約有3,600件，較2024年成長約一成四，顯示勒索軟體攻擊的嚴重程度正逐年攀升。
+根據IC3公布的年度報告，2025年該中心實際受理的勒索軟體申訴案件為3,611件，較2024年的3,156件明顯增加，申報損失金額也超過3,220萬美元，較前一年的1,247萬美元成長兩倍以
+
+- 📰 **iThome 科技**
+
+### 12. [微軟單季營收首度突破900億美元，Azure成長43%](https://www.ithome.com.tw/news/177747)
+
+微軟周三（7/29）公布截至6月底的2026財年第四季財報，營收年增18%至900億美元，單季首度突破900億美元；營業利益（Operating Income）成長18%至406億美元，淨利（Net Income）成長31%至358億美元。由於財報及下一季展望優於分析師預期，微軟盤後股價上漲7.67%至420.5美元。
+
+- 📰 **iThome 科技**
+
+### 13. [Google發布Chrome 151穩定版，修補370個漏洞](https://www.ithome.com.tw/news/177746)
+
+Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至151.0.7922.71與151.0.7922.72，Linux版本更新至151.0.7922.71，同時Android版
+
+- 📰 **iThome 科技**
+
+### 14. [博通修補VMware三項重大漏洞，攻擊者恐繞過身分驗證，或在vCenter與ESX主機執行程式碼](https://www.ithome.com.tw/news/177745)
+
+博通（Broadcom）於7月29日發布安全公告，修補5項漏洞，影響的產品涵蓋虛擬化主機軟體VMware ESX、虛擬化環境管理平臺vCenter，以及桌面虛擬化軟體VMware Workstation與VMware Fusion，其中3項屬於重大（Critical）風險等級。攻擊者可能利用這些漏洞繞過vCenter身分驗證、在vCenter執行任意程式碼，或讓虛擬機器內的攻擊者在ESX主機執行程式碼。
+
+- 📰 **iThome 科技**
+
+### 15. [微軟強化Windows大量授權啟用安全，KMS主機未來須通過TPM證明](https://www.ithome.com.tw/news/177744)
+
+微軟將強化Windows金鑰管理服務（Key Management Service，KMS）的信任機制，未來將要求
+
+- 📰 **iThome 科技**
+
+### 16. [研究估AWS每年約373萬項雲端資源一度設為公開，部分RDS快照短暫曝露恐難察覺](https://www.ithome.com.tw/news/177742)
+
+雲端資安業者Aryon 安全於7月29日公布研究，指出AWS部分可公開分享的雲端資源，可能只在短時間內對外開放，隨後便從公開清單消失。研究團隊認為，這類短暫曝露可能發生在兩次掃描之間，因而可能未被採用定期掃描機制的雲端安全工具偵測到。
+
+- 📰 **iThome 科技**
+
+### 17. [Meta第二季營收成長28%，資本支出增加83%](https://www.ithome.com.tw/news/177741)
+
+Meta周三（7/29）公布2026年第二季財報，該季營收為608億美元，比去年同期成長28%，營業利益（Operating Income）為188億美元，減少了8%，淨利（Net Income）為158億美元，衰退14%。此外，該季Meta資本支出達到311億美元，大幅成長83%。當天Meta盤後股價下跌6.72%至546.56美元。
+
+- 📰 **iThome 科技**
+
+### 18. [OpenAI模型傳出駭入另一家公司](https://www.ithome.com.tw/news/177740)
+
+OpenAI模型7月發生在內部測試中出錯，駭入Hugging Face後臺竊取資料及憑證。路透社、Axios等媒體報導，其實受害者還有另一間公司，為雲端運算平臺Modal Labs。
+
+- 📰 **iThome 科技**
+
+### 19. [CISA將思科防火牆管理平臺FMC零時差漏洞列KEV](https://www.ithome.com.tw/news/177738)
+
+思科於7月29日提出警告，防火牆集中控管平臺Secure Firewall Management Center（FMC）存在資安漏洞CVE-2026-20316，攻擊者可透過固定密碼存取指定的低權限帳號，且可與其他FMC漏洞串連進一步提升權限。思科表示該漏洞已被積極利用，同一天美國政府也提出警告，並要求聯邦機構緊急修補。
+
+- 📰 **iThome 科技**
+
+### 20. [思科防火牆管理軟體存在遭積極利用的資安漏洞](https://www.ithome.com.tw/news/177737)
 
 7月29日思科發布資安公告，指出旗下防火牆集中控管平臺Secure Firewall Management Center（FMC）存在資安漏洞CVE-2026-20316，未經身分驗證的攻擊者可利用低權限帳號存取平臺上的敏感資料，CVSS風險評為5.3分，值得留意的是，思科表示漏洞已遭積極利用，由於沒有緩解措施，該公司呼籲用戶應儘速更新FMC因應。
 
 - 📰 **iThome 科技**
 
-### 2. [Visual Studio Copilot代理升級，內建.NET與Azure技能並可直接分析Git分支](https://www.ithome.com.tw/news/177736)
+### 21. [Visual Studio Copilot代理升級，內建.NET與Azure技能並可直接分析Git分支](https://www.ithome.com.tw/news/177736)
 
 微軟發布Visual Studio 2026七月更新，在GitHub Copilot Chat加入新版代理預覽功能，採用與命令列工具GitHub Copilot CLI相同的軟體開發套件（SDK）。新版也內建.NET與Azure技能，並加入組織共用指令、分支內容分析及C++建置工具版本搜尋等功能。
 
 - 📰 **iThome 科技**
 
-### 3. [GitHub導入OpenSSF跨生態系資料，Dependabot惡意套件警示擴及PyPI](https://www.ithome.com.tw/news/177730)
+### 22. [GitHub導入OpenSSF跨生態系資料，Dependabot惡意套件警示擴及PyPI](https://www.ithome.com.tw/news/177730)
 
-GitHub擴大Dependabot惡意套件警示的資料來源，開始將OpenSSF惡意套件專案收集的惡意套件公告，自動匯入GitHub安全公告資料庫。
-
-- 📰 **iThome 科技**
-
-### 4. [全聯全電商升級數位零售核心平臺，AI、RMN、物流深化OMO布局](https://www.ithome.com.tw/news/177733)
-
-在完成大潤發整合、擴大實體零售規模後，全聯今天(7/29）宣布全電商的OMO布局方向，將AI、RMN零售媒體聯播網、物流升級列為三大布局重點，並結合會員與支付數據，深化OMO發展。
-在完成大潤發整合、持續擴大零售規模後，全聯旗下的電商平臺全電商，目前商品數已突破70萬件，合作超過5,000個品牌，為持續擴大OMO生態圈，下一階段目標不只是購物服務，而是希望從購物平臺發展為品牌成長平臺，進一步串聯線上線下資源。
-相較於純電商業者，全聯的優勢來自多年累積的實體零售基礎，包括遍布全臺的門市、會員體系及物流網路。全聯下一階段將透過OMO串聯線上與線下資源，���化AI、物流及零售媒體等能力。
+GitHub擴大Dependabot惡意套件警示的資料來源，��始將OpenSSF惡意套件專案收集的惡意套件公告，自動匯入GitHub安全公告資料庫。
 
 - 📰 **iThome 科技**
 
-### 5. [Apple同步更新macOS Tahoe、Sequoia與Sonoma三大分支，包含逾400個漏洞修補項目](https://www.ithome.com.tw/news/177735)
+### 23. [全聯全電商升級數位零售核心平臺，AI、RMN、物流深化OMO布局](https://www.ithome.com.tw/news/177733)
+
+在完成大潤發整合、擴大實體零售規模後，全聯今天(7/29）宣布全電商的OMO布局方向，將AI、RMN、物流升級列為布局重點，並結合會員與支付數據，深化OMO發展。
+在完成大潤發整合、持續擴大零售規模後，全聯旗下的電商平臺全電商，目前會員數已突破百萬，商品數超過70萬件，合作超過5,000個品牌，GMV交易總額成長75%以上。為持續擴大OMO生態圈，下一階段目標不只是購物服務，而是希望從購物平臺發展為品牌成長平臺，進一步串聯線上線下資源。
+相較於純電商業者，全聯的優勢來自多年累積的實體零售基礎，包括遍布全臺的門市、會員體系及物流網路。全聯下一階段將透過OMO串聯線上與線下資源，深化AI、物流及零
+
+- 📰 **iThome 科技**
+
+### 24. [Apple同步更新macOS Tahoe、Sequoia與Sonoma三大分支，包含逾400個漏洞修補項目](https://www.ithome.com.tw/news/177735)
 
 除了更新iOS與iPadOS外，Apple於7月27日也同步發布macOS Tahoe 26.6、Sequoia 15.7.8與Sonoma 14.8.8安全更新，包含共通漏洞在內，三份公告合計涉及逾400個修補項目，其中Tahoe 26.6涵蓋155個漏洞，Sequoia
 
 - 📰 **iThome 科技**
 
-### 6. [上銀公告義大利子公司部分資訊系統遭到攻擊](https://www.ithome.com.tw/news/177734)
+### 25. [上銀公告義大利子公司部分資訊系統遭到攻擊](https://www.ithome.com.tw/news/177734)
 
 線性傳動元件與工業機器人廠商上銀科技（2049）7月28日晚間於股市公開資訊觀測站發布重大訊息，義大利子公司資訊系統遭到攻擊，資訊部門於第一時間偵測異常後，立即啟動資安應變程序。
 
 - 📰 **iThome 科技**
 
-### 7. [美國醫學中心用生成式AI改造醫療傳真流程，每月處理超過10萬份文件](https://www.ithome.com.tw/news/177732)
+### 26. [美國醫學中心用生成式AI改造醫療傳真流程，每月處理超過10萬份文件](https://www.ithome.com.tw/news/177732)
 
 醫療數位化發展多年的美國，不同醫療體系醫院之間的系統串接複雜，每年仍有上百萬份檢驗報告、轉診單或病歷文件得靠傳真交換。
 
 - 📰 **iThome 科技**
 
-### 8. [伊朗駭客組織UNC1549散布後門程式NightLedger，並透過隧道工具從事隱密活動](https://www.ithome.com.tw/news/177731)
+### 27. [伊朗駭客組織UNC1549散布後門程式NightLedger，並透過隧道工具從事隱密活動](https://www.ithome.com.tw/news/177731)
 
 資安公司卡巴斯基近日指出，外號為UNC1549、Smoke Sandstorm、Nimbus Manticore、Mirage Kitten的伊朗駭客組織，近期使用後門程式NightLedger，並搭配以WebSocket為基礎的隧道程式ArcBridge和BridgeHead，針對中東及非洲航太、航空、國防及電信產業從事網路間諜活動，並確認有埃及、約旦、坦尚尼亞的中小企業及政府環境，以及巴基斯坦航空機構、衣索比亞電信公司、布吉納法索金融部門受害。
 
 - 📰 **iThome 科技**
 
-### 9. [ReliaQuest揭露旅館Wi-Fi遭竄改DNS組態，駭客藉此竊取企業M365帳號](https://www.ithome.com.tw/news/177724)
+### 28. [ReliaQuest揭露旅館Wi-Fi遭竄改DNS組態，駭客藉此竊取企業M365帳號](https://www.ithome.com.tw/news/177724)
 
 暑期正值旅遊旺季，旅館住宿需求大增，住宿旅客多半也會使用旅館提供的網路服務，但這些共享的公共網路設備，往往也潛藏著資安風險。資安業者ReliaQuest近日揭露，駭客透過竄改旅館Wi-Fi網路的DNS設定，以此作為竊取企業Microsoft 365帳號的跳板。
 
 - 📰 **iThome 科技**
 
-### 10. [GPU加速放大老舊IPMI協定風險，逾2.4萬個BMC洩漏資料可供離線破解密碼](https://www.ithome.com.tw/news/177723)
+### 29. [GPU加速放大老舊IPMI協定風險，逾2.4萬個BMC洩漏資料可供離線破解密碼](https://www.ithome.com.tw/news/177723)
 
 資安業者Lava掃描發現，網際網路上有36,872個伺服器IPMI管理介面直接對外開放，其中24,650個會在使用者登入前，回傳由密碼產生的驗證資料。攻擊者可利用已知漏洞CVE-2013-4786，將資料帶回自己的電腦猜測密碼，而弱密碼及格式固定的出廠密碼，在GPU協助下可能遭到破解。
 
 - 📰 **iThome 科技**
 
-### 11. [【資安日報】7月29日，微軟說明AD CS Certighost權限提升漏洞修補詳情](https://www.ithome.com.tw/news/177722)
+### 30. [【資安日報】7月29日，微軟說明AD CS Certighost權限提升漏洞修補詳情](https://www.ithome.com.tw/news/177722)
 
 本日新聞焦點
 ● 微軟進一步說明AD CS Certighost權限提升漏洞修補詳情
@@ -75,127 +193,17 @@ GitHub擴大Dependabot惡意套件警示的資料來源，開始將OpenSSF惡意
 
 - 📰 **iThome 科技**
 
-### 12. [Hugging Face事故出現新進展，OpenAI模型利用Artifactory零時差漏洞突破測試環境](https://www.ithome.com.tw/news/177721)
-
-7月中旬AI模型開發與託管平臺Hugging Face透露遭到自主AI代理攻擊，導致雲端與叢集憑證遭竊，事隔數日，OpenAI承認是旗下正在進行資安能力評估的模型所引起，本週Hugging Face公布整起事故發生的過程，同一天有一家資安廠商透露，OpenAI模型為了逃脫測試環境
-
-- 📰 **iThome 科技**
-
-### 13. [蘋果推出硬體租賃服務Apple Upgrade](https://www.ithome.com.tw/news/177720)
-
-蘋果周二（7/28）在美國推出硬體租賃服務Apple Upgrade，讓消費者按月租用iPhone、iPad、Mac及Apple Watch。服務由金融科技業者Klarna提供，使用者可透過蘋果線上商店、Apple Store App及美國實體門市申請。
-
-- 📰 **iThome 科技**
-
-### 14. [導入多代理運作架構，安碁揭露自研AI系統與資安應用2026最新發展](https://www.ithome.com.tw/news/177707)
-
-去年底安碁資訊（ACSI）首度揭露自行發展的生成式AI模型CyberSage，以及代理型AI平臺安答系統（Anda），並介紹其大幅領先GPT-4o-mini的高精準度與成本效率。
-
-- 📰 **iThome 科技**
-
-### 15. [討論區軟體vBulletin重大漏洞PoC公開，未登入也能在伺服器執行程式碼](https://www.ithome.com.tw/news/177717)
-
-討論區軟體vBulletin修補重大遠端程式碼執行漏洞CVE-2026-61511。攻擊者不需要帳號，便可能透過公開的網頁功能送入特製資料，在伺服器執行任意PHP程式碼。
-
-- 📰 **iThome 科技**
-
-### 16. [Anthropic稱Claude找出密碼演算法弱點，削弱後量子簽章HAWK](https://www.ithome.com.tw/news/177719)
-
-Anthropic周二（7/28）公布研究，表示Claude Mythos Preview找到後量子數位簽章演算法HAWK的數學弱點，能大幅降低破解所需運算量；Claude也改進針對簡化版AES加密演算法的攻擊方法，使速度較先前最佳方法提升200至800倍。不過，兩項成果目前皆未影響正式運作的系統。
-
-- 📰 **iThome 科技**
-
-### 17. [印度第二大公營行庫Bank of Baroda遭駭，疑外洩1TB業務資料](https://www.ithome.com.tw/news/177718)
-
-印度第二大公立銀行Bank of Baroda本週公告，一名員工電子郵件帳號被駭導致公司部分資料外洩。研究人員相信可能有客戶個資及業務文件等高達1TB機密營運資料落入駭客手中。
-Bank of Baroda表示，攻擊者透過被駭的員工電子郵件帳號存取公司部分資料。完整調查仍在進行中，但銀行核心系統未受影響。
-
-- 📰 **iThome 科技**
-
-### 18. [網路釣魚成2026年第2季主要初始入侵手法，身分驗證濫用威脅升溫](https://www.ithome.com.tw/news/177716)
-
-思科（Cisco）旗下資安研究團隊回顧2026年第2季事故應變案件，在能確認初始入侵方式的案件中，超過半數以網路釣魚作為初始入侵手法，高於前一季的35%。涉及身分驗證機制濫用的案件比例，也由前一季的35%升至65%。
-
-- 📰 **iThome 科技**
-
-### 19. [CREST推出AI輔助資安服務認證，納入AI治理與滲透測試要求](https://www.ithome.com.tw/news/177715)
-
-國際資安認證組織CREST於7月28日推出AI輔助��安服務認證，讓資安服務業者透過獨立審查，證明其在提供資安服務時，能以負責任方式使用AI，並落實治理、監督及透明度要求。
-
-- 📰 **iThome 科技**
-
-### 20. [微軟對AD CS Certighost權限提升漏洞修補提出進一步說明，建議企業優先更新CA伺服器](https://www.ithome.com.tw/news/177714)
-
-針對稍早於7月14日修補的Active Directory憑證服務（AD CS）Certighost權限提升漏洞（CVE-2026-54121），微軟威脅情報團隊於7月28日
-
-- 📰 **iThome 科技**
-
-### 21. [勒索軟體停用端點防護手法普及，最快不到一小時部署勒索軟體](https://www.ithome.com.tw/news/177713)
-
-反勒索軟體業者Halcyon近期回顧2026年第2季勒索軟體活動，指出停用端點偵測與回應（EDR）等安全產品的手法，已從少數勒索軟體集團採用的特殊攻擊手法，逐漸成為勒索軟體生態系的標準作業程序。部分勒索軟體集團也持續縮短入侵時間，並將AI導入攻擊環節。
-
-- 📰 **iThome 科技**
-
-### 22. [Perplexity AI公布Windows版Personal Computer自主代理人](https://www.ithome.com.tw/news/177712)
-
-Perplexity AI周二（7/28）公布Windows系統專用的自主代理人系統Personal Computer for Windows，用戶可下令它執行跨本地檔案、Microsoft Office 365和網頁應用的任務。本服務現在已提供給Max和Enterprise Max付費方案用戶。
-
-- 📰 **iThome 科技**
-
-### 23. [OpenAI開源Codex 安全工具鏈，開發流程可簡單串接AI漏洞掃描](https://www.ithome.com.tw/news/177705)
-
-OpenAI公開Codex 安全命令列工具與TypeScript開發套件原始碼，讓開發及資安團隊可直接掃描本機程式碼儲存庫，並把漏洞檢查納入程式碼提交前及持續整合流程。程式採Apache 2.0授權，目前在Node.js套件平臺NPM發布的版本為0.1.1。
-
-- 📰 **iThome 科技**
-
-### 24. [Hugging Face公布AI代理人入侵始末，4天半執行1.76萬項操作](https://www.ithome.com.tw/news/177710)
-
-Hugging Face周一（7/27）公布本月遭AI代理人入侵的完整技術時間線。這個由多款OpenAI模型驅動的代理人，原本正在接受資安能力測試，卻逃脫沙箱隔離機制並一路侵入Hugging Face正式系統。Hugging Face在7月9日至13日間重建出約1.76萬項操作，包括偵察、執行指令、竊取資料及橫向移動。
-
-- 📰 **iThome 科技**
-
-### 25. [Apple發布iOS 26.6與iPadOS 26.6版，修補80餘個漏洞](https://www.ithome.com.tw/news/177709)
-
-Apple於7月27日發布iOS 26.6與iPadOS 26.6版，修補超過80個漏洞，涵蓋Kernel、WebKit、模型 I/O、ImageIO等系統元件，以及curl、libarchive、Heimdal、WebRTC等第三方或開源軟體元件。
-就這次漏洞修補涉及的元件來說，數量最多的是Kernel，一共有將近20個漏洞，其次是WebKit（含WebKit Canvas）與模型 I/O���各有9個漏洞，再來是ImageIO，有6個漏洞，這4項元件合計就佔漏洞總數一半以上。
-
-- 📰 **iThome 科技**
-
-### 26. [Google旗下Wiz公布多代理人漏洞研究系統Atlas，協助找出GitHub重大漏洞，獲10萬美元獎金](https://www.ithome.com.tw/news/177708)
-
-Google旗下網路安全部門Wiz周二（7/28）宣布能尋找漏洞的自主AI系統Atlas，主打兼具成本效益和精確性，宣稱已找出200多項之前未發現的漏洞，包括一個價值10萬美元獎金的發現。
-Atlas是由多個AI代理人組成，每個代理人專注特定任務以便像人類的研究團隊，包括理解程式庫、提出漏洞假設、相互質疑並完成驗證，最後通報。Atlas的代理人作業劃分多階段作業、程式化協同進行，而非由單一模型從頭到尾做完。
-
-- 📰 **iThome 科技**
-
-### 27. [逾千名AI業界人士連署，籲美國建立放慢頂尖AI發展機制](https://www.ithome.com.tw/news/177706)
-
-逾千名AI業界人士周二（7/28）發表《調控頂尖AI發展步調》（Pacing the Frontier）公開信，呼籲美國政府推動國際合作，建立必要時可放慢自動化AI研發的技術與治理機制，以免AI能力加速成長至人類難以理解或控制的程度。目前已有1,178人連署，分別來自OpenAI、Anthropic、Google DeepMind、Meta、微軟、Mistral及Thinking Machines等公司。
-
-- 📰 **iThome 科技**
-
-### 28. [JetBrains讓AI代理直接使用Rider分析工具，能找測試、查瓶頸與重構程式](https://www.ithome.com.tw/news/177703)
-
-JetBrains發布跨平臺整合開發環境（IDE）Rider 2026.2，新增一系列代理技能，讓可代為修改及測試程式碼的AI代理直接運用Rider對專案的理解，以及覆蓋率資料、偵錯器、效能分析器與重構引擎。過去代理多半只能讀取檔案或執行終端機命令，新版可利用IDE既有的分析結果，減少自行推測程式碼關聯。
-
-- 📰 **iThome 科技**
-
-### 29. [Anthropic反對全面禁用開放權重模型，主張從晶片、蒸餾與測試控管風險](https://www.ithome.com.tw/news/177701)
-
-Anthropic執行長Dario Amodei發文澄清，Anthropic從未主張全面禁止開放權重模型，並認為不具危險能力的開放權重模型，可為企業、開發者與研究人員帶來價值。不過，面對能力較強模型可能帶來的風險，Anthropic仍主張限制中國取得高階晶片、打擊工業規模模型蒸餾，並要求具足夠能力的開放與封閉模型接受安全測試。
-
-- 📰 **iThome 科技**
-
-### 30. [Azure與Google 雲端服務遭指可越權操作，微軟與Google否認構成漏洞](https://www.ithome.com.tw/news/177694)
-
-雲端服務將Kubernetes與身分及存取管理（IAM）串接後，權限檢查若只確認執行操作的服務身分，卻沒有回頭核對提出要求的使用者，可能讓原本權限有限的人間接動用更高權限。
-
-- 📰 **iThome 科技**
-
 ---
 
 ### 更多 AI 新聞 (70則)
 
+- Nike Promo Codes and Discounts: 30% for August 2026 (**Wired**)
+- 50% Off DoorDash Promo 代碼 | August 2026 (**Wired**)
+- Hotels.com Coupon Codes for August 2026 (**Wired**)
+- Office Depot Coupons: Save With Promo Codes in August 2026 (**Wired**)
+- Bose Promo 代碼: 40% Off for August 2026 (**Wired**)
+- Columbia Promo Codes: 15% Off | August 2026 (**Wired**)
+- Dyson Promo Codes: 25% Off in August 2026 (**Wired**)
 - It Looks Like Nothing Can Dent MAGA’s Support for ICE (**Wired**)
 - Save Up to $100 on Apple’s Newest AirPods (2026) (**Wired**)
 - Which of Dyson’s 2026 Vacuum Models Is the 最佳? (**Wired**)
@@ -208,17 +216,17 @@ Anthropic執行長Dario Amodei發文澄清，Anthropic從未主張全面禁止�
 - 23 WIRED-Approved Gifts for Frequent Travelers (2026) (**Wired**)
 - Mac Mini Availability: Long Waits and Higher Prices (**Wired**)
 - Apple Upgrade Isn’t the 最佳 Way to Buy an iPhone (**Wired**)
-- 最佳 Ethernet Switches: Fast, Reliable, and Secure (**Wired**)
 - More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’ (**Wired**)
+- 最佳 Ethernet Switches: Fast, Reliable, and Secure (**Wired**)
 - 如何 Bring a Geothermal Well Back from the Dead (**Wired**)
 - Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books (**Wired**)
 - NASA’s 新 3D 模型 Shows the Earth Is a Lumpy Mess (**Wired**)
 - ICE’s 新 Detention Center Contracts Declare State Laws ‘Shall Not Apply’ (**Wired**)
-- Surfshark Promo Codes: 87% Off | July 2026 (**Wired**)
 - LG Promo Codes and Coupons for July 2026 (**Wired**)
 - Therabody Promo Codes: 15% Off July 2026 (**Wired**)
 - Zoro Coupon Codes: 55% Off July (**Wired**)
 - B&amp;H Photo Promo Codes and Deals This July 2026 (**Wired**)
+- Surfshark Promo Codes: 87% Off | July 2026 (**Wired**)
 - LegalZoom Promo 代碼: Exclusive 10% Off LLC Formations (**Wired**)
 - Hostinger Promo 代碼: 79% Off for August 2026 (**Wired**)
 - Braun Promo Codes: 15% Off July (**Wired**)
@@ -238,14 +246,7 @@ Anthropic執行長Dario Amodei發文澄清，Anthropic從未主張全面禁止�
 - An Extreme Solar Storm May Be Even More Devastating Than Previously Imagined (**Wired**)
 - Hugging Face Has a Deepfake Nudes Problem (**Wired**)
 - Ulta Promo Codes: Up to 50% Off in July 2026 (**Wired**)
-- AirDoctor Coupon Codes: 40% Off | July 2026 (**Wired**)
-- Google Workspace Promo Codes: 14% Off for July (**Wired**)
-- Birdfy Discount Codes: 15% Off Sitewide (**Wired**)
-- Priceline Promo Codes &amp; Coupons: 10% Off July (**Wired**)
-- Booking.com Promo Codes: 20% Off | July 2026 (**Wired**)
 - Corsair Discount 代碼: Up to 50% Off for July 2026 (**Wired**)
-- Uber Eats Promo Codes: $15 Off│July 2026 (**Wired**)
-- Ray-Ban Promo Codes: Save 50% in July 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
