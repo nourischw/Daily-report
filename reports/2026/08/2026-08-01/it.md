@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [Elevators](https://john.fun/elevators)
+### 1. [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 
-- ⭐ 885 分｜💬 221 留言｜👤 Jrh0203
+- ⭐ 27 分｜💬 2 留言｜👤 milkshakes
 
-### 2. [qm – Multiplayer 代理 harness for work](https://github.com/yc-software/qm)
+### 2. [Elevators](https://john.fun/elevators)
 
-- ⭐ 465 分｜💬 99 留言｜👤 tosh
+- ⭐ 1229 分｜💬 293 留言｜👤 Jrh0203
 
-### 3. [Twenty-five years ago it was cryptography, today it's 模型 weights](https://weeraman.com/because-we-can/)
+### 3. [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 
-- ⭐ 167 分｜💬 63 留言｜👤 aweeraman
+- ⭐ 95 分｜💬 31 留言｜👤 vinhnx
 
-### 4. [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
+### 4. [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
 
-- ⭐ 50 分｜💬 31 留言｜👤 apollinaire
+- ⭐ 50 分｜💬 39 留言｜👤 giuliomagnifico
 
-### 5. [Progressive 網頁 Components](https://arielsalminen.com/2026/progressive-web-components/)
+### 5. [如何 Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+
+- ⭐ 164 分｜💬 89 留言｜👤 walterbell
+
+### 6. [qm – Multiplayer 代理 harness for work](https://github.com/yc-software/qm)
+
+- ⭐ 546 分｜💬 113 留言｜👤 tosh
+
+### 7. [The development pipeline is a production 系統](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+
+- ⭐ 67 分｜💬 22 留言｜👤 firefoxd
+
+### 8. [軟體 for One](https://www.ajwaxman.com/writing/software-for-one)
+
+- ⭐ 91 分｜💬 72 留言｜👤 awaxman11
+
+### 9. [Progressive 網頁 Components](https://arielsalminen.com/2026/progressive-web-components/)
 
 https:&#x2F;&#x2F;github.com&#x2F;arielsalminen&#x2F;elenahttps:&#x2F;&#x2F;elenajs.com&#x2F;
 
-- ⭐ 89 分｜💬 14 留言｜👤 hosteur
+- ⭐ 146 分｜💬 25 留言｜👤 hosteur
 
-### 6. [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
+### 10. [Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide](https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html)
 
-- ⭐ 105 分｜💬 32 留言｜👤 iamnothere
+- ⭐ 19 分｜💬 0 留言｜👤 matt_d
 
-### 7. [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
+### 11. [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
 
-- ⭐ 193 分｜💬 131 留言｜👤 jruohonen
+- ⭐ 496 分｜💬 512 留言｜👤 Garbage
 
-### 8. [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
+### 12. [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
 
-- ⭐ 142 分｜💬 84 留言｜👤 speckx
+- ⭐ 104 分｜💬 53 留言｜👤 apollinaire
 
-### 9. [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+### 13. [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
 
-- ⭐ 464 分｜💬 175 留言｜👤 bluehatbrit
+- ⭐ 235 分｜💬 96 留言｜👤 marcobambini
 
-### 10. [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+### 14. [A week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
 
-- ⭐ 33 分｜💬 17 留言｜👤 Jimmc414
+- ⭐ 52 分｜💬 29 留言｜👤 Kesseki
 
-### 11. [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
+### 15. [A tiny holdout building in the middle of Macy’s is back in view](https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/)
 
-- ⭐ 157 分｜💬 62 留言｜👤 marcobambini
+- ⭐ 14 分｜💬 4 留言｜👤 donohoe
 
-### 12. [Let's make the worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
+### 16. [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
 
-- ⭐ 66 分｜💬 20 留言｜👤 RebelPotato
+- ⭐ 183 分｜💬 95 留言｜👤 speckx
 
-### 13. [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
+### 17. [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
 
-- ⭐ 124 分｜💬 78 留言｜👤 jabits
+- ⭐ 134 分｜💬 46 留言｜👤 iamnothere
 
-### 14. [How JPEG works: Interactively explore JPEG's lossy compression methods](https://cgjennings.ca/articles/jpeg-compression/)
+### 18. [Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)](https://www.phidgets.com/?view=articles&article=LongRangeWifi)
 
-- ⭐ 111 分｜💬 13 留言｜👤 at1as
+- ⭐ 47 分｜💬 30 留言｜👤 rzk
 
-### 15. [如何 Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+### 19. [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
 
-- ⭐ 10 分｜💬 1 留言｜👤 walterbell
+- ⭐ 225 分｜💬 143 留言｜👤 jruohonen
 
-### 16. [Loops (YC W22) Is 招聘 a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
+### 20. [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
+
+- ⭐ 147 分｜💬 113 留言｜👤 jabits
+
+### 21. [Increasing the lifespan of a bulb makes it worse in every other way](https://maurycyz.com/misc/tungsten/)
+
+- ⭐ 72 分｜💬 70 留言｜👤 tonyg
+
+### 22. [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+
+- ⭐ 48 分｜💬 26 留言｜👤 Jimmc414
+
+### 23. [Let's make the worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
+
+- ⭐ 93 分｜💬 30 留言｜👤 RebelPotato
+
+### 24. [When Internal Memory Fails: A No-Solder Wii U Recovery](https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery)
+
+- ⭐ 7 分｜💬 1 留言｜👤 edgar_ortega
+
+### 25. [The most official water costs $120k a gallon](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/)
+
+- ⭐ 176 分｜💬 144 留言｜👤 surprisetalk
+
+### 26. [Loops (YC W22) Is 招聘 a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
 
 - ⭐ 1 分｜💬 0 留言｜👤 chrisfrantz
 
-### 17. [A past and future of trade secrets](https://www.cabinetmagazine.org/issues/70/kofen.php)
+### 27. [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 
-- ⭐ 15 分｜💬 3 留言｜👤 Hooke
+- ⭐ 538 分｜💬 199 留言｜👤 bluehatbrit
 
-### 18. [The most official water costs $120k a gallon](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/)
+### 28. [Authorize, don't authenticate](https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html)
 
-- ⭐ 139 分｜💬 122 留言｜👤 surprisetalk
+- ⭐ 83 分｜💬 31 留言｜👤 marcua
 
-### 19. [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
+### 29. [Is AI reasoning right for the wrong reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
-- ⭐ 53 分｜💬 35 留言｜👤 l00sed
+- ⭐ 157 分｜💬 181 留言｜👤 retupmoc01
 
-### 20. [Show HN: I worked on a 新 browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
+### 30. [Twenty-five years ago it was cryptography, today it's 模型 weights](https://weeraman.com/because-we-can/)
 
-- ⭐ 32 分｜💬 11 留言｜👤 coolwulf
-
-### 21. [The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure](https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure)
-
-- ⭐ 19 分｜💬 3 留言｜👤 sparsesignal
-
-### 22. [Authorize, don't authenticate](https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html)
-
-- ⭐ 56 分｜💬 14 留言｜👤 marcua
-
-### 23. [Predictive Speculative KV Replication for Bursty 大型語言模型 推論](https://jwlabs.vercel.app/post/biting-the-bullet)
-
-https:&#x2F;&#x2F;github.com&#x2F;jwlaboratory&#x2F;bite-the-bullet
-
-- ⭐ 29 分｜💬 2 留言｜👤 shreybirmiwal
-
-### 24. [Dubious research tied to Red Bull has shaped energy drink policy](https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol)
-
-- ⭐ 118 分｜💬 181 留言｜👤 Jimmc414
-
-### 25. [Is AI reasoning right for the wrong reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
-
-- ⭐ 121 分｜💬 153 留言｜👤 retupmoc01
-
-### 26. [Algorithms on billion-scale graph using 10GB RAM: I love DataFusion](https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/)
-
-- ⭐ 102 分｜💬 32 留言｜👤 speckx
-
-### 27. [Using the railway 網絡 as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
-
-- ⭐ 52 分｜💬 25 留言｜👤 Jimmc414
-
-### 28. [Everyone is building 大型語言模型 routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)
-
-- ⭐ 93 分｜💬 50 留言｜👤 brunaxLorax
-
-### 29. [How far can you push the range of Wi-Fi connectivity in an ideal environment?](https://www.phidgets.com/?view=articles&article=LongRangeWifi)
-
-- ⭐ 6 分｜💬 2 留言｜👤 rzk
-
-### 30. [Severance](https://lcamtuf.substack.com/p/severance)
-
-- ⭐ 208 分｜💬 69 留言｜👤 surprisetalk
+- ⭐ 233 分｜💬 119 留言｜👤 aweeraman
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Danube's record low levels force shutdown of Hungary's only nuclear plant
-- Anti-fraud tools can't keep pace with robocall scammers
-- Clockwise/Spiral Rule (1994)
-- The End of an Era
-- Show HN: 如何 構建 and self-host a 代碼 review 代理
+- The first transatlantic telegraph cable was a bold, beautiful failure (2019)
+- Everyone is building 大型語言模型 routers, we deprecated ours
+- Using the railway 網絡 as a flatbed scanner [video]
 - Investigating three real-world incidents in our cybersecurity evaluations
-- Nano Banana 2 removed from Google Earth
-- Britain's 新 World of Tobacco (2017)
+- Danube's record low levels force shutdown of Hungary's only nuclear plant
+- Dubious research tied to Red Bull has shaped energy drink policy
+- Algorithms on billion-scale graph using 10GB RAM: I love DataFusion
+- A past and future of trade secrets
+- The End of an Era
 - DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
-- Orca-Bench: How Ready Are Language 模型 Agents for Oncall?
+- Predictive Speculative KV Replication for Bursty 大型語言模型 推論
 - DeepSeek-V4-Flash 更新
-- Show HN: BitBang – Reach machines behind NAT from a browser, no account
-- A GTK4 SSH-askpass in Zig
-- IMAX vs. IMAX 70mm: The difference between these two cinema formats
-- Google fixed more Chrome bugs in June than over the past two years, thanks to AI
-- 13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS
-- Solving poker in custom WebGPU kernels
-- Hope and Defeat: John Berger
-- Show HN: What should the GUI for AI agents look like?
-- Just brute force your embeddings
-- A simple clustering algorithm for lists
-- Making Referential Stability a Type
-- Premier league bans gambling sponsors
-- The Art of Decision-Making (2019)
+- Severance
+- Anti-fraud tools can't keep pace with robocall scammers
+- Show HN: I worked on a 新 browser for 2 years, today it passed Acid 3
+- Termixer (TUI DJ Mixer)
+- Clockwise/Spiral Rule (1994)
 - Unearthing my 1996 windowed OS in machine 代碼 for Am29000 homebrew computer
-- Show HN: Gander, an Android file viewer that asks for no permissions
-- Arch Linux disables AUR package adoption
-- Lerd, an 開源 Herd-like PHP development environment for Linux and macOS
-- Ask HN: What did you learn last month? (July 2026)
-- Winding Down Artichoke Ruby
-- Zitron: "Everyone Has Been Sold a Lie" on AI [video]
-- The session you cannot take with you
-- Dario Amodei's stance on open weights is self-serving and short-sighted
-- Increasing the lifespan of a bulb makes it worse in every other way
-- The Maxwell Conjecture Is False (GPT 5.6 Sol)
-- Moonshot’s Kimi uses 20k NVIDIA chip cluster from Alibaba
-- 為什麼 ugly buildings create NIMBYism
-- Show HN: Slope remade in HTML5 to load instantly on any browser, any device
-- The mean means nothing: data visualization to debug a latency problem
-- JEP 401: Value Objects (Preview) merged to OpenJDK master
-- The EU is making the Right to Repair the 新 standard in Europe
+- Show HN: What should the GUI for AI agents look like?
+- Premier league bans gambling sponsors
+- Solving poker in custom WebGPU kernels
+- Show HN: BitBang – Reach machines behind NAT from a browser, no account
+- Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019)
+- Nano Banana 2 removed from Google Earth
+- 13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS
 - The Religion of Speed
-- The great wealth transfer reality check
-- Hygon Reveals 512-Thread CPU and AI GPU to Rival Intel Xeon and NVIDIA
-- Energizing a vacuum-tube flip-flop module from a 1948 IBM 系統
-- Situational Awareness down 67% in July in AI stock rout
-- OpenAI serves more than one billion active users
+- A GTK4 SSH-askpass in Zig
+- Show HN: Gander, an Android file viewer that asks for no permissions
+- Printing floating point numbers in binary
+- Archaeopteryx: A Ruby MIDI Generator [video]
+- Orca-Bench: How Ready Are Language 模型 Agents for Oncall?
+- The session you cannot take with you
+- Just brute force your embeddings
+- Arch Linux disables AUR package adoption
+- BMW Spider-Man in-car advertising
+- The Art of Decision-Making (2019)
+- Show HN: 如何 構建 and self-host a 代碼 review 代理
+- Britain's 新 World of Tobacco (2017)
+- Explorative Modeling – A 新 axis for pre-訓練
+- JEP 401: Value Objects (Preview) merged to OpenJDK master
+- Firefox Local Mode for 網頁 Developers
+- The Maxwell Conjecture Is False (GPT 5.6 Sol)
+- The mean means nothing: data visualization to debug a latency problem
+- Dario Amodei's stance on open weights is self-serving and short-sighted
+- A Safe Path to Open Weights
+- A simple clustering algorithm for lists
+- My PM 代理 suggests firing my coding agents and creating a replacement
+- Fast Rust Library for PDF text extraction
 - Stacked PRs are now live on GitHub
-- Show HN: Chronos, 2 terminal games through 50 years of hacking history
-- Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it
-- Show HN: The Goal is simple, there should be an actual free editor
-- Where USB Memory Sticks are Born (2013)
-- The lost civic life of movie rental stores
-- 為什麼 is everyone trying to 構建 a solid-state battery?
+- A California aquifer may have crossed the point of no return
 - Ron Gilbert started production on Thimbleweed Park 2
+- 為什麼 ugly buildings create NIMBYism
+- 為什麼 is everyone trying to 構建 a solid-state battery?
+- The lost civic life of movie rental stores
+- Moonshot’s Kimi uses 20k NVIDIA chip cluster from Alibaba
+- Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it
+- The Screen Act Threatens Privacy Far Beyond Adult Websites
 - Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal
-- Bad Apple but It's Traceroute
-- Building a Linux filesystem module in almost pure Rust
-- Show HN: I built a cross-browser extension that controls fingerprinting surfaces
 - Show HN: Kedge – Full-stack 雲端 with forkable VM snapshots and global SQLite
-- Write in Markdown, serve it dynamic
-- UEFA and its national associations will not participate in FIFA competitions
-- We shall dwell amidst wonder and glory for ever: On weird fiction
-- CodePen 2.0
+- Lerd, an 開源 Herd-like PHP development environment for Linux and macOS
+- OpenAI serves more than one billion active users
+- Where USB Memory Sticks are Born (2013)
 - Upper stage impacting the moon on 2026 August 5
-- AI Is Getting Way Too Expensive
+- UEFA and its national associations will not participate in FIFA competitions
+- CodePen 2.0
+- Hope and Defeat: John Berger
 - Gemini Robotics 2 brings whole body intelligence to robots
-- 新 Defcon Badges Pack a Unique Open-Source Chip That Doubles as a 安全 Key
-- Functional replacement for the Toshiba TA7357P sync separator IC
-- The Accidental Architect of the Internet's Brain
+- Show HN: Slope remade in HTML5 to load instantly on any browser, any device
+- 如何 measure the performance of a quantum computer
+- Hacker Public Radio
 
 
 ---
