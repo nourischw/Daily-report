@@ -207,7 +207,7 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 - Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head (**Wired**)
 - Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan (**Wired**)
 - Alienware 15 Gaming Laptop Review: Hedging Its Bets (**Wired**)
-- Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal (**Wired**)
+- The OpenAI and Anthropic AI Hacking Sprees Are a Messy 新 Legal Frontier (**Wired**)
 - Astronomers Have Detected an Exomoon for the First Time (**Wired**)
 - Paramount+ Coupon Codes and Deals for August 2026 (**Wired**)
 - Valvoline Coupons and Promo Codes for August 2026 (**Wired**)
