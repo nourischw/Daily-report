@@ -16,7 +16,7 @@ Google擴大Gemini Spark的開放範圍，並讓這項可代為執行任務的AI
 
 - 📰 **iThome 科技**
 
-### 3. [��國至少7州水務設施遭網路攻擊，CISA籲業者檢視OT設備對外曝露情形](https://www.ithome.com.tw/news/177799)
+### 3. [美國至少7州水務設施遭網路攻擊，CISA籲業者檢視OT設備對外曝露情形](https://www.ithome.com.tw/news/177799)
 
 美國網路安全暨基礎設施安全局（CISA）於7月30日發布警示，提醒水務與廢水處理業者加強營運科技（OT）環境防護。
 
@@ -30,7 +30,7 @@ Google擴大Gemini Spark的開放範圍，並讓這項可代為執行任務的AI
 
 ### 5. [鄭麗君揭政府資料治理布局，立法促4大資料流通機制支撐主權AI發展](https://www.ithome.com.tw/news/177796)
 
-行政院副院長鄭麗君在「總統盃黑客松」徵件啟動活動中揭露我國的資料治理策略，她表示，資料是推動創新、催生產業與發展主權AI的重要基礎，政府正推動資���治理制度，促進資料開放與流通，支撐臺灣主權AI應用發展。
+行政院副院長鄭麗君在「總統盃黑客松」徵件啟動活動中揭露我國的資料治理策略，她表示，資料是推動創新、催生產業與發展主權AI的重��基礎，政府正推動資料治理制度，促進資料開放與流通，支撐臺灣主權AI應用發展。
 她表示，總統盃黑客松自2018年舉辦以來，已成為政府運用開放資料、公私協力推動創新的重要平台。過去黑客松模式主要是政府提出公共議題與需求，開放資料資源，由民間團隊提出創新解決方案；今年主題為「智慧農業、安全永續」，鼓勵參賽團隊運用人工智慧與資料數據，解決農業治理與永續發展問題。
 
 - 📰 **iThome 科技**
@@ -54,7 +54,7 @@ AI新十大建設由國發會負責跨部會協調推動，依據行政院國家
 
 ### 8. [OpenAI調降GPT-5.6 Luna及Terra價格，Luna降幅達80%](https://www.ithome.com.tw/news/177789)
 
-OpenAI周四（7/30）調降GPT-5.6系列模型價���，其中速度最快、價格最低的GPT-5.6 Luna降價80%，定位為兼顧能力與成本的日常工作模型GPT-5.6 Terra則降價20%。GPT-5.6 Sol價格維持不變，但API新增Fast處理模式，開發者支付2倍費用，可讓Sol的處理速度最高達到Standard模式的2.5倍。
+OpenAI周四（7/30）調降GPT-5.6系列模型價格，其中速度最快、價格最低的GPT-5.6 Luna降價80%，定位為兼顧能力與成本的日常工作模型GPT-5.6 Terra則降價20%。GPT-5.6 Sol價格維持不變，但API新增Fast處理模式，開發者支付2倍費用，可讓Sol的處理速度最高達到Standard模式的2.5倍。
 
 - 📰 **iThome 科技**
 
@@ -66,7 +66,7 @@ Google DeepMind發表Gemini Robotics 2系列模型，將機器人控制範圍從
 
 ### 10. [Amazon第二季營收成長20%，AWS創18季最快增速](https://www.ithome.com.tw/news/177785)
 
-Amazon周四（7/30）公布截��6月底的2026年第二季財報，該季營收比去年同期成長20%至2,006億美元，營業利益（Operating Income）成長43%至275億美元。其中，雲端服務Amazon 網頁 Services（AWS）營收成長37%，創18季以來最快增速。Amazon並將今年資本支出計畫由2,000億美元上調至約2,200億美元，以因應AI及雲端運算需求。
+Amazon周四（7/30）公布截至6月底的2026年第二季財報，該季營收比去年同期成長20%至2,006億美元，營業利益（Operating Income）成長43%至275億美元。其中，雲端服務Amazon 網頁 Services（AWS）營收成長37%，創18季以來最快增速。Amazon並將今年資本支出計畫由2,000億美元上調至約2,200億美元，以因應AI及雲端運算需求。
 
 - 📰 **iThome 科技**
 
@@ -90,7 +90,7 @@ Amazon周四（7/30）公布截��6月底的2026年第二季財報，該季�
 
 ### 14. [OpenAI模型入侵Hugging Face，CSA、FIRST籲企業強化AI代理治理](https://www.ithome.com.tw/news/177780)
 
-雲端安全聯盟（CSA）與資安教育及研究機構SANS Institute、國際資安應變組織FIRST等單位，共同發布0.8版Hugging Face事件初步檢討報告。這份草案彙整Hugging Face向CSA資訊安全長社群說明的OpenAI模型入侵事件經過，以及近700名資訊安全長經討論提出的初步結論，呼籲企業將高���險AI代理視為具高權限的工作負載，並將其身分、存取權限及操作行為納入既有管理制度。
+雲端安全聯盟（CSA）與資安教育及研究機構SANS Institute、國際資安應變組織FIRST等單位，共同發布0.8版Hugging Face事件初步檢討報告。這份草案彙整Hugging Face向CSA資訊安全長社群說明的OpenAI模型入侵事件經過，以及近700名資訊安全長經討論提出的初��結論，呼籲企業將高風險AI代理視為具高權限的工作負載，並將其身分、存取權限及操作行為納入既有管理制度。
 
 - 📰 **iThome 科技**
 
@@ -102,7 +102,7 @@ Amazon周四（7/30）公布截��6月底的2026年第二季財報，該季�
 
 ### 16. [泰國證交所旗下TSD集保公司發生20萬投資人個資外洩，起因於投資人入口網站存取控制缺失](https://www.ithome.com.tw/news/177775)
 
-泰國證券交易所（SET）旗下子公司泰國證券集保公司（TSD）於7月28日揭露，其投資人入口網站（Investor Portal）發生未經授權的個人資料存取事件。據統計，約有20萬名投資人的個資遭非法存取，但目前尚未偵測到任何財務損失。
+泰國證券交易所（SET）旗下子公司泰國證券集保公司（TSD）於7月28日揭露，���投資人入口網站（Investor Portal）發生未經授權的個人資料存取事件。據統計，約有20萬名投資人的個資遭非法存取，但目前尚未偵測到任何財務損失。
 
 - 📰 **iThome 科技**
 
@@ -114,7 +114,7 @@ Amazon周四（7/30）公布截��6月底的2026年第二季財報，該季�
 
 ### 18. [GCC擬因著作權風險限制大型語言模型生成內容，測試案例與少量修改除外](https://www.ithome.com.tw/news/177772)
 
-GCC指導委員會近日採納新的AI貢獻政策，原則上不接受由大型語言模型（大型語言模型）生成，或根據其產出改寫，且在著作權上屬於重大貢獻的內容。不過���維護人員仍可接受大型語言模型生成的測試案例與少量修改，開發者也能繼續使用AI協助研究、找出程式錯誤、除錯及審查程式碼。
+GCC指導委員會近日採納新的AI貢獻政策，原則上不接受由大型語言模型（大型語言模型）生成，或根據其產出改寫，且在著作權上屬於��大貢獻的內容。不過，維護人員仍可接受大型語言模型生成的測試案例與少量修改，開發者也能繼續使用AI協助研究、找出程式錯誤、除錯及審查程式碼。
 
 - 📰 **iThome 科技**
 
@@ -127,7 +127,7 @@ Anthropic周四（7/30）揭露，Claude在資安能力測試期間意外連上�
 ### 20. [英國教育部、警方資料庫遭駭，被竊超過70萬筆個資](https://www.ithome.com.tw/news/177776)
 
 英國教育部（Department for Education，DfE）及英國警方資料庫分別傳出被駭客入侵，竊取超過60萬及10萬筆個資。
-自稱是ExfilSquad的勒索組織上周末分別在資料外洩���站宣稱竊得兩批資料。教育部（DfE）指的是英格蘭教育部，駭客宣稱取得逾60.7萬筆資料。DfE對媒體證實被駭消息，表示已控制事件，並已與英國國家網路安全中心（NCSC）和國家犯罪管理署（NCA）合作調查。
+自稱是ExfilSquad的勒索組織��周末分別在資料外洩網站宣稱竊得兩批資料。教育部（DfE）指的是英格蘭教育部，駭客宣稱取得逾60.7萬筆資料。DfE對媒體證實被駭消息，表示已控制事件，並已與英國國家網路安全中心（NCSC）和國家犯罪管理署（NCA）合作調查。
 
 - 📰 **iThome 科技**
 
@@ -146,7 +146,7 @@ Anthropic周四（7/30）揭露，Claude在資安能力測試期間意外連上�
 
 - 📰 **iThome 科技**
 
-### 23. [【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第二家公司受害](https://www.ithome.com.tw/news/177770)
+### 23. [【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第��家公司受害](https://www.ithome.com.tw/news/177770)
 
 在上週OpenAI承認Hugging Face的AI代理自主攻擊是他們測試的模型所為之後，本週這起事故出現兩項重大進展，其一是JFrog透露OpenAI的模型找出特定系統的零時差漏洞，從而存取外部網路並攻擊Hugging Face；另一個消息則是在事故發生的期間，有第二家公司也遭到OpenAI的代理攻擊，後續發展相當值得注意。
 
@@ -158,7 +158,7 @@ Anthropic周四（7/30）揭露，Claude在資安能力測試期間意外連上�
 
 - 📰 **iThome 科技**
 
-### 25. [開源基���會3年3億推臺灣AI工程，建立千人在地技術社群，強化台灣主權AI能力](https://www.ithome.com.tw/news/177768)
+### 25. [開源基金會3年3億推臺灣AI工程，建立千人在地技術社群，強化台灣主權AI能力](https://www.ithome.com.tw/news/177768)
 
 在高科技、服務業等多家企業聯手支持下，開源基金會（TAIONE 開源 Foundation）今天正式成立，宣布未來三年將投入3億元，推動臺灣的開源AI工程。開源基金會董事長蔡祈岩指出，全球下一步的AI競爭在開源，開源基金會的成立是一件重要的事。
 蔡祈岩進一步補充，AI時代把全球競爭從製造延伸到模型、工具鏈、標準與生態。開源讓臺灣不必重新打造封閉式全球平台，也能直接進入世界級技術的生態圈。「台灣硬體產業需要軟體的護城河，開源正是台灣的重要機會。」
@@ -167,7 +167,7 @@ Anthropic周四（7/30）揭露，Claude在資安能力測試期間意外連上�
 
 ### 26. [Linux網路流量排程子系統存在高風險漏洞，可導致本機使用者提升至Root權限](https://www.ithome.com.tw/news/177767)
 
-資安廠商STAR Labs研究人員近日揭露Linux核心漏洞CVE-2026-53264，這個高風險漏洞已存在數年，CVSS嚴重性評分7.8分，問題存在於負責網路封包流量控制的net/sched子系統，攻擊者可利用記憶體已釋放卻仍被使用（UAF）競爭條件問題，讓本機低權限使用者提升至Root權限，Linux核心上游已完成修補，主
+資安廠商STAR Labs研究人員近日揭露Linux核心漏洞CVE-2026-53264，這個高風險漏洞已存在數年，CVSS嚴重性評分7.8分，問題存在於負���網路封包流量控制的net/sched子系統，攻擊者可利用記憶體已釋放卻仍被使用（UAF）競爭條件問題，讓本機低權限使用者提升至Root權限，Linux核心上游已完成修補，主
 
 - 📰 **iThome 科技**
 
@@ -186,7 +186,7 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 
 ### 29. [北韓駭客BlueNoroff利用會議網釣套件從事ClickFix攻擊，散布惡意軟體、竊取加密錢包資產](https://www.ithome.com.tw/news/177761)
 
-資安公司Jumpsec指出，他們近期分析北韓駭客組織BlueNoroff（APT38、TA444、Sapphire Sleet）的網釣套件原始碼，還原駭客冒充Zoom與微軟Teams會議的ClickFix攻擊流程，揭露Windows與macOS作業系統的惡意程式感染鏈。這項調查源自於BlueNoroff操作員不慎暴露的基礎設施當中，存放的JavaScript原��映射資料（source maps）。
+資安公司Jumpsec指出，他們近期分析北韓駭客組織BlueNoroff（APT38、TA444、Sapphire Sleet）的網釣套件原始碼，還原駭客冒充Zoom與微軟Teams會議的ClickFix攻擊流程，揭露Windows與macOS作業系統的惡意程式感染鏈。這項調查源自於BlueNoroff操作員不慎暴露的基礎設施當���，存放的JavaScript原始映射資料（source maps）。
 
 - 📰 **iThome 科技**
 
@@ -208,6 +208,7 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 - Is It Possible to Make Smart Glasses That Aren’t Creepy? (**Wired**)
 - Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives (**Wired**)
 - YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline (**Wired**)
+- 15 最佳 Office Chairs of 2026— We Tested 70 to Pick Them (**Wired**)
 - 15 最佳 Office Chairs of 2026—We Tested 70 to Pick Them (**Wired**)
 - 最佳 Organic Mattresses (2026): Certified Nontoxic, Natural Sleep (**Wired**)
 - China’s EV Market Is Booming. There’s Just One Problem (**Wired**)
@@ -238,8 +239,8 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 - This AI 助手 Wants to Make Up for Your Boyfriend’s Incompetence (**Wired**)
 - Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers (**Wired**)
 - 最佳 Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac (**Wired**)
-- Daisy One Review: Comfy and Tactile Headphones (**Wired**)
 - 6 最佳 Phones With Headphone Jacks (2026), Tested and Reviewed (**Wired**)
+- Daisy One Review: Comfy and Tactile Headphones (**Wired**)
 - SJY Zeph Open-Back Headphones Review: Music Through Magnets (**Wired**)
 - The 新 Defcon Badges Pack a Unique 開源 Chip That Doubles as a 安全 Key (**Wired**)
 - What’s Behind the Heat Wave Scorching Huge Parts of the World (**Wired**)
@@ -248,8 +249,6 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 - Alo Discount 代碼: Save on Activewear August 2026 (**Wired**)
 - Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests (**Wired**)
 - How the FCC’s 新 Rule Will Affect Robot Vacuums (**Wired**)
-- A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran (**Wired**)
-- Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
@@ -270,6 +269,7 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 - 10 最佳 Chrome Extensions That Are Perfect for Everyone (**TechCrunch**)
 - Most Frequently Asked Questions About  Email Marketing (**TechCrunch**)
 - 7 Free Websites Every Content Creator Needs to Know (**TechCrunch**)
+- 熱門 9 Free AI Tools That Make Your Life Easier (**TechCrunch**)
 
 
 ---
