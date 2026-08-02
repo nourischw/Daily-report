@@ -200,6 +200,7 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 
 ### 更多 AI 新聞 (70則)
 
+- Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives (**Wired**)
 - 15 最佳 Office Chairs of 2026—We Tested 70 to Pick Them (**Wired**)
 - 最佳 Organic Mattresses (2026): Certified Nontoxic, Natural Sleep (**Wired**)
 - China’s EV Market Is Booming. There’s Just One Problem (**Wired**)
@@ -230,8 +231,8 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 - This AI 助手 Wants to Make Up for Your Boyfriend’s Incompetence (**Wired**)
 - Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers (**Wired**)
 - 最佳 Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac (**Wired**)
-- 6 最佳 Phones With Headphone Jacks (2026), Tested and Reviewed (**Wired**)
 - Daisy One Review: Comfy and Tactile Headphones (**Wired**)
+- 6 最佳 Phones With Headphone Jacks (2026), Tested and Reviewed (**Wired**)
 - SJY Zeph Open-Back Headphones Review: Music Through Magnets (**Wired**)
 - The 新 Defcon Badges Pack a Unique 開源 Chip That Doubles as a 安全 Key (**Wired**)
 - What’s Behind the Heat Wave Scorching Huge Parts of the World (**Wired**)
@@ -249,7 +250,6 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 - The 新 Friend AI Pendant Can Now Talk Back to You (**Wired**)
 - Gemini Robotics 2 Brings Google's AI Into the Physical World (**Wired**)
 - Razer Huntsman V3 HE Review: Jumping on the Bandwagon (**Wired**)
-- DOGE Veterans Are Landing Big Jobs at Prediction Markets (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)

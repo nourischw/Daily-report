@@ -8,23 +8,23 @@
 
 **1. [Xi Jinping out before 2027?](https://polymarket.com/market/xi-jinping-out-before-2027)
 
-- 📈 概率：5%｜成交量：10.9K
+- 📈 概率：5%｜成交量：13.7K
 
 **2. [Will Gavin Newsom win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568)
 
-- 📈 概率：19%｜成交量：3.8K
+- 📈 概率：19%｜成交量：6.9K
 
 **3. [Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653)
 
-- 📈 概率：15%｜成交量：29.7K
+- 📈 概率：15%｜成交量：11.9K
 
 **4. [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687)
 
-- 📈 概率：5%｜成交量：548.262304
+- 📈 概率：5%｜成交量：443.452304
 
 **5. [Will Josh Shapiro win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977)
 
-- 📈 概率：5%｜成交量：1.0K
+- 📈 概率：5%｜成交量：1.1K
 
 **6. [Will Wes Moore win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-wes-moore-win-the-2028-democratic-presidential-nomination-714)
 
@@ -32,11 +32,11 @@
 
 **7. [Will Stephen A. Smith win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-stephen-a-smith-win-the-2028-democratic-presidential-nomination-914)
 
-- 📈 概率：1%｜成交量：271.3542
+- 📈 概率：1%｜成交量：414.2042
 
 **8. [Will Kamala Harris win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641)
 
-- 📈 概率：9%｜成交量：1.5K
+- 📈 概率：9%｜成交量：1.4K
 
 **9. [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676)
 
@@ -44,47 +44,47 @@
 
 **10. [Will Andy Beshear win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-andy-beshear-win-the-2028-democratic-presidential-nomination-832)
 
-- 📈 概率：3%｜成交量：202.76
+- 📈 概率：3%｜成交量：141.39
 
 **11. [Will Jon Ossoff win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885)
 
-- 📈 概率：14%｜成交量：7.3K
+- 📈 概率：14%｜成交量：7.5K
 
 **12. [Will Mark Cuban win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-mark-cuban-win-the-2028-democratic-presidential-nomination-329)
 
-- 📈 概率：1%｜成交量：895.5854
+- 📈 概率：1%｜成交量：1.2K
 
 **13. [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-jb-pritzker-win-the-2028-democratic-presidential-nomination-288)
 
-- 📈 概率：1%｜成交量：507.868994
+- 📈 概率：1%｜成交量：499.021268
 
 **14. [Will Raphael Warnock win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-raphael-warnock-win-the-2028-democratic-presidential-nomination-914)
 
-- 📈 概率：1%｜成交量：724.8522
+- 📈 概率：1%｜成交量：542.2168
 
 **15. [Will Cory Booker win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-corey-booker-win-the-2028-democratic-presidential-nomination-125)
 
-- 📈 概率：1%｜成交量：1.5K
+- 📈 概率：1%｜成交量：1.4K
 
 **16. [Will Tim Walz win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-tim-walz-win-the-2028-democratic-presidential-nomination-475)
 
-- 📈 概率：0%｜成交量：1.2K
+- 📈 概率：0%｜成交量：1.4K
 
 **17. [Will Michelle Obama win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-michelle-obama-win-the-2028-democratic-presidential-nomination-777)
 
-- 📈 概率：1%｜成交量：720.699222
+- 📈 概率：1%｜成交量：803.646888
 
 **18. [Will Mark Kelly win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-mark-kelly-win-the-2028-democratic-presidential-nomination-479)
 
-- 📈 概率：3%｜成交量：7.3K
+- 📈 概率：3%｜成交量：5.4K
 
 **19. [Will Rahm Emanuel win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-rahm-emanuel-win-the-2028-democratic-presidential-nomination-299)
 
-- 📈 概率：2%｜成交量：267.177434
+- 📈 概率：2%｜成交量：266.197434
 
 **20. [Will Gina Raimondo win the 2028 Democratic presidential nomination?](https://polymarket.com/market/will-gina-raimondo-win-the-2028-democratic-presidential-nomination-676)
 
-- 📈 概率：0%｜成交量：510.41899999999987
+- 📈 概率：0%｜成交量：394.09549999999996
 
 _...還有 80 個市場_
 

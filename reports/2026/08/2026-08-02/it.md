@@ -4,200 +4,200 @@
 
 ---
 
-### 1. [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+### 1. [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
 
-- ⭐ 178 分｜💬 77 留言｜👤 njaremko
+- ⭐ 183 分｜💬 54 留言｜👤 Hixon10
 
-### 2. [Diátaxis](https://diataxis.fr/)
+### 2. [Show HN: I'm a 15 Year Old Wannabe 工程師, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
 
-- ⭐ 195 分｜💬 29 留言｜👤 ryanseys
+- ⭐ 124 分｜💬 23 留言｜👤 tomilan
 
-### 3. [AI financial advice is surprisingly good, especially if you ask right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+### 3. [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 
-- ⭐ 160 分｜💬 110 留言｜👤 foxtrot8672
+- ⭐ 313 分｜💬 160 留言｜👤 njaremko
 
-### 4. [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
+### 4. [MkLinux and the pimped-out Apple Workgroup 伺服器 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
 
-- ⭐ 8 分｜💬 1 留言｜👤 Hixon10
+- ⭐ 48 分｜💬 2 留言｜👤 goldenskye
 
-### 5. [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+### 5. [Diátaxis](https://diataxis.fr/)
 
-- ⭐ 116 分｜💬 41 留言｜👤 juhopitk
+- ⭐ 312 分｜💬 39 留言｜👤 ryanseys
 
-### 6. [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html)
+### 6. [Elena, a library for building Progressive 網頁 Components](https://elenajs.com/)
 
-- ⭐ 19 分｜💬 0 留言｜👤 Jimmc414
+- ⭐ 26 分｜💬 1 留言｜👤 brianzelip
 
-### 7. [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
+### 7. [CRM: An open-source, agentic-first CRM](https://github.com/trycompai/crm)
 
-- ⭐ 34 分｜💬 11 留言｜👤 hhs
+- ⭐ 4 分｜💬 0 留言｜👤 handfuloflight
 
-### 8. [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
+### 8. [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)
 
-- ⭐ 62 分｜💬 4 留言｜👤 jandeboevrie
+- ⭐ 53 分｜💬 14 留言｜👤 plug_world
 
-### 9. [Persistent State Machines: 大型語言模型 Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002)
+### 9. [Australia's social media ban has failed](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/)
 
-- ⭐ 3 分｜💬 0 留言｜👤 yusuke_esaka
+- ⭐ 18 分｜💬 21 留言｜👤 BlueBerry2001
 
-### 10. [We accidentally built an LLVM compiler for Jax](https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/)
+### 10. [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
 
-- ⭐ 9 分｜💬 1 留言｜👤 infinitewalk
+- ⭐ 71 分｜💬 24 留言｜👤 hhs
 
-### 11. [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
+### 11. [Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
 
-- ⭐ 188 分｜💬 86 留言｜👤 0x54MUR41
+- ⭐ 43 分｜💬 18 留言｜👤 pkaeding
 
-### 12. [Morph (YC S23) Is 招聘 Member of Technical Staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
+### 12. [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html)
+
+- ⭐ 55 分｜💬 12 留言｜👤 Jimmc414
+
+### 13. [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+
+- ⭐ 143 分｜💬 53 留言｜👤 juhopitk
+
+### 14. [When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
+
+- ⭐ 30 分｜💬 10 留言｜👤 Funes-
+
+### 15. [A big win for Android interoperability](https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/)
+
+- ⭐ 25 分｜💬 3 留言｜👤 soheilpro
+
+### 16. [AI financial advice is surprisingly good, especially if you ask right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+
+- ⭐ 290 分｜💬 256 留言｜👤 foxtrot8672
+
+### 17. [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
+
+- ⭐ 91 分｜💬 9 留言｜👤 jandeboevrie
+
+### 18. [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
+
+- ⭐ 26 分｜💬 4 留言｜👤 jeffreyrogers
+
+### 19. [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
+
+- ⭐ 112 分｜💬 21 留言｜👤 ilreb
+
+### 20. [Morph (YC S23) Is 招聘 Member of Technical Staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
 
 - ⭐ 1 分｜💬 0 留言｜👤 bhaktatejas922
 
-### 13. [CISA Alert: Water Sector PLC Targeting](https://censys.com/blog/cisa-alert-water-tower-plc-targeting/)
+### 21. [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 
-- ⭐ 71 分｜💬 48 留言｜👤 speckx
+- ⭐ 60 分｜💬 25 留言｜👤 frizlab
 
-### 14. [How Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+### 22. [How Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 
-- ⭐ 403 分｜💬 142 留言｜👤 pudgywalsh
+- ⭐ 510 分｜💬 176 留言｜👤 pudgywalsh
 
-### 15. [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
+### 23. [The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/)
 
-- ⭐ 251 分｜💬 167 留言｜👤 throwaway2037
+- ⭐ 8 分｜💬 5 留言｜👤 kencausey
 
-### 16. [Anime User Interfaces](https://animeuserinterface.tumblr.com)
+### 24. [Nerd culture is murdering intellectuals](https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals)
 
-- ⭐ 93 分｜💬 16 留言｜👤 akyuu
+- ⭐ 3 分｜💬 0 留言｜👤 mockerell
 
-### 17. [Nyctography: A substituton cypher by Lewis Carroll](https://en.wikipedia.org/wiki/Nyctography)
+### 25. [We accidentally built an LLVM compiler for Jax](https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/)
 
-- ⭐ 50 分｜💬 5 留言｜👤 nanna
+- ⭐ 40 分｜💬 12 留言｜👤 infinitewalk
 
-### 18. [NetBSD 11.0](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
+### 26. [Nyctography: A substituton cypher by Lewis Carroll](https://en.wikipedia.org/wiki/Nyctography)
 
-- ⭐ 218 分｜💬 94 留言｜👤 jaypatelani
+- ⭐ 72 分｜💬 11 留言｜👤 nanna
 
-### 19. [Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga](https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe)
+### 27. [Explorative modeling: Train on the 最佳 of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
 
-- ⭐ 98 分｜💬 60 留言｜👤 stasomatic
+- ⭐ 99 分｜💬 25 留言｜👤 DSemba
 
-### 20. [Explorative modeling: Train on the 最佳 of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
+### 28. [Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga](https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe)
 
-- ⭐ 77 分｜💬 23 留言｜👤 DSemba
+- ⭐ 139 分｜💬 79 留言｜👤 stasomatic
 
-### 21. [Walsh: Multi-代理 research pipeline with risk 經理 that can veto trades](https://github.com/ats4321/walsh)
+### 29. [NetBSD 11.0](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 
-- ⭐ 3 分｜💬 0 留言｜👤 atshu21
+- ⭐ 270 分｜💬 121 留言｜👤 jaypatelani
 
-### 22. [The Greenhouse and the Lens: Two Modes of Agentic AI Work](https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/)
+### 30. [P[drive failure]: how reliable is your NAS?](https://khz.ac/low-voltage/drive-failure.html)
 
-- ⭐ 3 分｜💬 0 留言｜👤 aaronbrethorst
-
-### 23. [Kobuk the Destroyer – Tales from the Wild, Unseen World of 測試 Engineering](https://wwnorton.com/books/9781324051299)
-
-- ⭐ 3 分｜💬 1 留言｜👤 ripe
-
-### 24. [Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal](https://github.com/nooneknowspeter/legionlinuxtui)
-
-- ⭐ 8 分｜💬 0 留言｜👤 nooneknowspeter
-
-### 25. [Glyphs 4 – the leading Mac font editor](https://glyphsapp.com)
-
-- ⭐ 55 分｜💬 8 留言｜👤 microflash
-
-### 26. [Linux on ESP32](https://github.com/GrieferPig/esp32-s31-linux)
-
-- ⭐ 100 分｜💬 36 留言｜👤 boveyking
-
-### 27. [A Uiua Type 系統](https://www.uiua.org/blog/a-uiua-type-system)
-
-- ⭐ 3 分｜💬 1 留言｜👤 xyzsparetimexyz
-
-### 28. [Moore's Law for Everything (2021)](https://moores.samaltman.com/)
-
-- ⭐ 4 分｜💬 0 留言｜👤 eatitraw
-
-### 29. [Designing Icons](https://m3.material.io/styles/icons/designing-icons)
-
-- ⭐ 12 分｜💬 3 留言｜👤 Cider9986
-
-### 30. [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
-
-- ⭐ 48 分｜💬 18 留言｜👤 wglb
+- ⭐ 10 分｜💬 7 留言｜👤 nosolace
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Just because a game is on disc doesn't mean it will work in the future
-- A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
-- Kaisel – Routes as Values. Dart 3 Native Router for Flutter
-- Kubeside – a Kubernetes client that shows your app, not your cluster
-- RFC 9987: Secure Shell (SSH) 代理 Protocol
-- Cursor removed cost information from the usage page and CSV export
-- Show HN: Symbio self fine-tuning AI loop
+- Glyphs 4 – the leading Mac font editor
+- Linux on ESP32
+- Drug reverses autism-like brain changes in adult mice within hours
+- The Prospects for 128 Bit Processors ( John Mashey SGI 1995)
+- Dark Hours
+- CISA Alert: Water Sector PLC Targeting
+- Show HN: Elevators
 - Manual: •.,:;…!?·
-- Things I would have done differently (consulting)
-- Art Invented Humanity
-- Show HN: Wage Against the Machine – MacWages Index for AI Tasks
-- Mechanical strain creates chirality
+- A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
 - The tiny holdout building in the middle of Macy’s is back in view
 - AI opens 新 era in cognitive studies of wild primates
-- Show HN: Elevators
-- Stateless MCP has recaptured my interest
+- Anime User Interfaces
+- Kaisel – Routes as Values. Dart 3 Native Router for Flutter
+- Kobuk the Destroyer – Tales from the Wild, Unseen World of 測試 Engineering
+- The Burau representation of the braid group is faithful for n = 4
+- Things I would have done differently (consulting)
+- China begins producing advanced chipmaking deep-ultraviolet lithography machines
+- The House of Ellison Is on the Brink
+- Cursor removed cost information from the usage page and CSV export
+- The Theater of Sport: Bill Buford Revisits Among the Thugs
+- Just because a game is on disc doesn't mean it will work in the future
+- Don't Take the Black Pill (Text Adaptation)
+- The Art of 64-bit Assembly
 - Solid Queue 1.6.0 now supports fiber workers
-- Drug reverses autism-like brain changes in adult mice within hours
-- Register deprivation: spills and runtime under forced register scarcity
-- Guix shell now inside Emacs
-- Atom is better than RSS, in ways that matter
-- The development pipeline is a production 系統
-- AI's real threat to jobs isn't 工作 loss, it's lower paychecks, 新 research says
-- AT&T CEO Says He Can't 部署 Robocall Blockers Without FCC Approval. He's Wrong (2016)
-- Pgtestdb's template cloning approach to testing is fast
-- Show HN: Evidence-to-Skill – a gate between untrusted sources and 代理 skills
-- Busy Beaver Holdouts Lists
-- 如何 Exist
-- Progressive 網頁 Components
-- The Silicon Valley Founder Meat Grinder
-- A directory of people who love RSS
-- The Absurdity of Albert Camus
-- G'mic 4.0: Squaring the Pixel, Easier
-- Google cancels AI Studio app after 800k preorders
-- Ask HN: Anyone still do work on Intel Macs?
+- The Greenhouse and the Lens: Two Modes of Agentic AI Work
+- Art Invented Humanity
+- A Uiua Type 系統 (2025)
+- Kubeside – a Kubernetes client that shows your app, not your cluster
+- RipGrep musl binaries occasionally segfault during very-large searches
+- Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal
+- Plug-in solar is coming. Plug-in batteries should follow
 - Increasing the lifespan of a bulb makes it worse in every other way
-- Retired man plants trees on forgotten land, now it's Sao Paulo's largest park
-- qm – Multiplayer 代理 harness for work
-- Plants and their ants: When flora and fauna team up
-- RamenHaus
-- Flint: A Visualization Language for the AI Era
+- Show HN: I worked on a 新 browser for 2 years, today it passed Acid 3
+- Busy Beaver Holdouts Lists
 - Investigating three real-world incidents in our cybersecurity evaluations
+- Register deprivation: spills and runtime under forced register scarcity
+- qm – Multiplayer 代理 harness for work
 - Is AI reasoning right for the wrong reasons?
 - Golang proposal: container/: generic collection types
-- Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide
-- Ten advances in mathematics and theoretical computer science
+- G'mic 4.0: Squaring the Pixel, Easier
 - Danube's record low levels force shutdown of Hungary's only nuclear plant
-- Show HN: Minimal 大型語言模型 Post-訓練 Experiments on an 8GB GPU (SFT, DPO, GRPO)
-- The brief life and sudden death of Zyzz
-- Let's make the worst Htmx
-- Fermi Paradox
-- Pantograph
+- Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators
+- Flint: A Visualization Language for the AI Era
+- Smevals: A small eval suite for evaluating models, prompts, and harnesses
+- Show HN: Copy any website pixel perfect
 - Premier league bans gambling sponsors
+- Ask HN: Anyone still do work on Intel Macs?
+- AI's real threat to jobs isn't 工作 loss, it's lower paychecks, 新 research says
+- Portal: Current Events
+- Designing Icons
+- Mechanical strain creates chirality
+- Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide
+- Pgtestdb's template cloning approach to testing is fast
 - Google fixed more Chrome bugs in June than over the past two years, thanks to AI
-- Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
+- RFC 9987: Secure Shell (SSH) 代理 Protocol
+- Stateless MCP has recaptured my interest
+- Let's make the worst Htmx
 - DeepSeek-V4-Flash 更新
-- The Kurzgesagt Situation is Insane [video]
+- Karakeep Release 0.33.1
 - DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
-- Tailscale didn't stop the Hugging Face intrusion
-- Run Kimi K3 using 29 GB of RAM at 0.50 tok/s
-- 軟體 for One
 - Show HN: What should the GUI for AI agents look like?
-- Zitron: "Everyone Has Been Sold a Lie" on AI
-- Playing Original Xbox Game Discs on a PC. Real Backward Compatibility
+- Guix shell now inside Emacs
+- Moore's Law for Everything (2021)
 - The Religion of Speed
-- Google has abandoned Google News?
-- The End of an Era
-- PaperOS: A native Linux E Ink OS running on BOOX 硬體
-- The first transatlantic telegraph cable was a bold, beautiful failure (2019)
-- Anti-fraud tools can't keep pace with robocall scammers
+- Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
+- A directory of people who love RSS
+- Run Kimi K3 using 29 GB of RAM at 0.50 tok/s
+- RamenHaus
+- Tailscale didn't stop the Hugging Face intrusion
+- Google cancels AI Studio app after 800k preorders
 
 
 ---
