@@ -4,50 +4,175 @@
 
 ---
 
-### 1. [Google緊急撤回AI衛星影像功能](https://www.ithome.com.tw/news/177806)
+### 1. [中國駭客鎖定7種應用系統，利用已知漏洞從事手動及AI自主攻擊](https://www.ithome.com.tw/news/177832)
+
+資安公司Palo Alto Networks揭露自稱為knaithe和KnYuan的中國駭客活動，其中最引人注意的是使用AI代理Hermes與大型語言模型DeepSeek的AI自主攻擊，不過有別於先前其他AI自主攻擊事故，這些駭客也結合手動操作，來擴大影響範圍，至少有406個企業組織被鎖定。
+
+- 📰 **iThome 科技**
+
+### 2. [【資安日報】8月3日，Microsoft確認旅館Wi-Fi攻擊源自俄羅斯駭客，鎖定企業旅客竊取Microsoft 365憑證](https://www.ithome.com.tw/news/177829)
+
+本日新聞焦點
+● Microsoft確認旅館Wi-Fi攻擊源自俄羅斯駭客
+● AUR套件庫遭供應鏈攻擊，Arch Linux暫停採用AUR套件
+● AsyncAPI遭NPM供應鏈攻擊，錯誤配置的GitHub Actions遭利用
+
+- 📰 **iThome 科技**
+
+### 3. [JetBrains開源KotlinLLM，執行中程式可按需呼叫大型語言模型補寫邏輯](https://www.ithome.com.tw/news/177826)
+
+JetBrains Research開���KotlinLLM研究原型，供Kotlin/JVM應用程式在執行期間遇到先前生成的程式碼無法處理的新情況時，呼叫外部大型語言模型產生新的Kotlin程式碼。系統完成編譯並更新執行中的程式後，會再次處理原本無法完成的呼叫，而生成的程式碼也會保存在專案中，往後遇到相同情況便不必再次呼叫模型。
+
+- 📰 **iThome 科技**
+
+### 4. [美國家庭保全業者Brinks Home證實遭駭，ShinyHunters宣稱竊得近500萬筆Salesforce紀錄](https://www.ithome.com.tw/news/177828)
+
+美國家庭保全業者Brinks Home於7月22日證實，部分IT系統遭未經授權存取。
+Brinks Home是一家美國智慧家庭安全（Smart Home 安全）與專業監控服務公司，主要提供住宅及中小企業的防盜、監視、智慧家庭及24小時監控服務。總部位於美國德州達拉斯，目前服務超過100萬名北美客戶。
+
+- 📰 **iThome 科技**
+
+### 5. [大型製藥廠安進發生雲端資料外��事件，病人健康資訊與公司專利資料恐遭曝露](https://www.ithome.com.tw/news/177827)
+
+根據資安新聞網站Bleeping Computer報導，大型製藥廠安進（Amgen）於7月31日向美國證券交易所（SEC）提交8-K表單，他們發現第三方雲端服務供應商代
+
+- 📰 **iThome 科技**
+
+### 6. [中國駭客利用DeepSeek與Hermes從事AI自主攻擊，鎖定存在已知弱點的應用程式伺服器](https://www.ithome.com.tw/news/177825)
+
+威脅情報公司Hunt.io與資安研究員Bob Diachenko於7月中旬發現，中國駭客利用AI代理Hermes滲透泰國財政部（MOF），如今有人結合Hermes與大型語言模型DeepSeek，透過資安漏洞執行AI代理自主攻擊。
+
+- 📰 **iThome 科技**
+
+### 7. [Infoblox計畫併購Kentik，整合DNS與網路可觀測性](https://www.ithome.com.tw/news/177824)
+
+企業網路服務與資安業者Infoblox於日前宣布，計畫併���網路情報與可觀測性平臺業者Kentik，雙方已簽署最終協議，預計整合Infoblox的DNS與網路資產資訊，以及Kentik的即時流量、路由與網路效能資料，強化AI網路維運與安全分析能力。
+
+- 📰 **iThome 科技**
+
+### 8. [Cloudflare將MoQ中繼網路推向應用部署，支援隔離與權限控管](https://www.ithome.com.tw/news/177821)
+
+Cloudflare推出MoQ中繼服務布建API，讓開發者可在Cloudflare全球網路建立彼此隔離的傳輸環境，並分別設定內容發布者與訂閱者的存取權限。新服務目前處於免費測試階段，支援MoQ傳輸協定第14版與第16版草案。
+MoQ是IETF正在制定的開放傳輸協定，建立在QUIC之上，採發布與訂閱模式。內容發布者只需將影音或訊息送到中繼站，再由中繼站轉送給所有訂閱者，不必自行處理大量觀眾連線。中繼站只負責轉送，不必解析資料，因此同一套機制可用於直播、視訊通話及低延遲訊息傳遞。
+
+- 📰 **iThome 科技**
+
+### 9. [NPM限制可免除2FA的權杖管理權限，2027年1月再取消直接發布能力](https://www.ithome.com.tw/news/177814)
+
+GitHub宣布，NPM已限制設定為可繞過雙因素驗證（2FA）的精細度存取權杖（Granular Access Token，GAT），禁止這類權杖執行敏感的帳號、組織及套件管理操作。相關操作現在必須透過網頁或命令列介面，由使用者完成互動式2FA驗證。
+
+- 📰 **iThome 科技**
+
+### 10. [AI推動全球雲端市場成長43%，創8年最快增速](https://www.ithome.com.tw/news/177820)
+
+市場研究機構Synergy Research Group上周公布，今年第二季全球雲端基礎設施服務營收達1,434億美元，比去年同期成長43%，創8年來最快增速。Synergy認為，生成式AI是市場加速成長的主要動力。
+
+- 📰 **iThome 科技**
+
+### 11. [美國牙科福利管理商DentaQuest遭駭，逾2,300萬人個資與健康資料恐��洩](https://www.ithome.com.tw/news/177819)
+
+美國牙科與視力福利管理商DentaQuest於7月17日向受影響用戶通報資安事件，表示駭客於5月17日至20日期間取得該公司部分網路系統的存取權，可能導致用戶敏感資料遭存取，依據專門追蹤美國醫療資料隱私與醫療資安事件的媒體HIPAA Journal報導，DentaQuest目前已確認至少1,500萬人受影響，外部研究人員推估實際影響人數可能超過2,340萬人。
+
+- 📰 **iThome 科技**
+
+### 12. [OpenAI新模型Astra取得10項數學突破，橫跨密碼學與量子複雜度](https://www.ithome.com.tw/news/177818)
+
+OpenAI上周六（8/1）揭露，下一款主要模型Astra的內部版本，在數學及理論電腦科學領域取得10項研究成果，涵蓋高維幾何、編碼理論、群論、量子複雜度及格基密碼學等領域。相關問題至少已有10年未在主要結果上取得進展，多數停滯時間更久。
+
+- 📰 **iThome 科技**
+
+### 13. [AsyncAPI開發團隊承認是未處理的GitHub Actions配置不當問題引發供應鏈攻擊](https://www.ithome.com.tw/news/177817)
+
+7月中旬多家資安公司揭露AsyncAPI供應鏈攻擊事故，並指出攻擊者疑似使用Miasma變種竊取開發人員資料。事隔一週，AsyncAPI開發團隊公布事故調查結果，承認發生的原因來自CI/CD架構的已知弱點。
+
+- 📰 **iThome 科技**
+
+### 14. [在AsyncAPI供應鏈攻擊事故中，使用Miasma框架散布惡意軟體](https://www.ithome.com.tw/news/177815)
+
+7月中旬AsyncAPI發生供應鏈攻擊事故，攻擊者透過配置不當的GitHub Actions竊得NPM發布權杖而得逞，但究竟這起事故的幕後主使是誰？資安專家指出，攻擊者自稱是M-Red-Team，並疑似使用先前原始碼被公開的惡意程式框架Miasma來進行。
+
+- 📰 **iThome 科技**
+
+### 15. [Microsoft確認旅館Wi-Fi攻擊源自俄羅斯駭客，��定企業旅客竊取M365憑證](https://www.ithome.com.tw/news/177813)
+
+先前資安業者ReliaQuest揭露美國、印度、沙烏地等地旅館Wi-Fi遭竄改DNS組態，企圖竊取企業旅客的Microsoft 365帳號，Microsoft近日進一步確認攻擊者為俄羅斯國家級駭客Mi
+
+- 📰 **iThome 科技**
+
+### 16. [AsyncAPI遭NPM供應鏈攻擊，駭客利用錯誤配置的GitHub Actions得逞，發布惡意套件](https://www.ithome.com.tw/news/177812)
+
+攻擊者發動NPM供應鏈攻擊的情況相當頻繁，其中一個竊取發布惡意套件權限的管道，就是對開發團隊使用的GitHub Actions下手，近期有開發團隊因為此CI/CD平臺配置不當遲遲沒有處理，而成為引起供應鏈攻擊的開端。
+
+- 📰 **iThome 科技**
+
+### 17. [CISA聯合多國更新SBOM最低要素，新增作者簽章與元件雜湊資訊](https://www.ithome.com.tw/news/177811)
+
+美國網路安全與��礎設施安全局（CISA）於7月29日宣布，與國際合作夥伴聯合發布《2026 SBOM最低要素
+
+- 📰 **iThome 科技**
+
+### 18. [AUR套件庫遭供應鏈攻擊，Arch Linux暫停採用AUR套件功能](https://www.ithome.com.tw/news/177810)
+
+Linux發行版Arch Linux的社群套件庫AUR（Arch User Repository）繼今年6月發生攻擊者接手大量套件並竄改建置流程的事件後，近期再度出現供應鏈攻擊活動。
+
+- 📰 **iThome 科技**
+
+### 19. [亞德諾半導體證實系統遭入侵，部分檔案遭竊](https://www.ithome.com.tw/news/177809)
+
+美國半導體業者亞德諾半導體（Analog Devices）於7月29日向美國證券交易委員會（SEC）提交8-K文件，揭露公司部分資訊系統於6月23日遭未經授權存取，受影響系統中的部分檔案已遭外傳（exfiltrated）。公司表示，事件未造成營運中斷，目前也不知悉相關資料已遭公開或用於詐騙活動。
+
+- 📰 **iThome 科技**
+
+### 20. [惡意軟體載入器HollowFrame藉網路釣魚攻擊法律事務所](https://www.ithome.com.tw/news/177807)
+
+資安業者Blackpoint Cyber揭露先前未被記錄、以Go語言開發的惡意軟體載入器HollowFrame。
+
+- 📰 **iThome 科技**
+
+### 21. [Google緊急撤回AI衛星影像功能](https://www.ithome.com.tw/news/177806)
 
 Google上周四（7/30）於全球Google Earth網頁版推出結合Nano Banana 2的AI圖像生成功能，讓使用者以真實衛星、航空及3D影像為基礎生成客製化場景。然而，該功能隨即被用來製作虛構的戰爭、災害及事故影像，Google隔天便緊急撤回，表示將先建立更嚴格的防護措施，但未公布恢復時間。
 
 - 📰 **iThome 科技**
 
-### 2. [Adobe修補Campaign Classic滿分重大漏洞](https://www.ithome.com.tw/news/177805)
+### 22. [Adobe修補Campaign Classic滿分重大漏洞](https://www.ithome.com.tw/news/177805)
 
 Adobe發布資安公告，修補旗下Format Plugins、Bridge，以及Campaign Classic
 
 - 📰 **iThome 科技**
 
-### 3. [Google讓Gemini Spark操作Chrome，可代辦跨網站多步驟任務](https://www.ithome.com.tw/news/177798)
+### 23. [Google讓Gemini Spark操作Chrome，可代辦跨網站多步驟任務](https://www.ithome.com.tw/news/177798)
 
 Google擴大Gemini Spark的開放範圍，並讓這項可代為執行任務的AI功能與Chrome整合。獲得使用者同意後，Spark可利用Chrome中已登入的帳號與儲存的密碼，處理較繁瑣的網路工作。Chrome操作能力初期僅在美國推出，Google也自7月30日起，將Spark陸續開放給另外160多個國家的Google AI Pro訂閱者。
 
 - 📰 **iThome 科技**
 
-### 4. [Azure Cosmos DB漏洞曾可接管任意資料庫帳戶，私人網路隔離也可能失效](https://www.ithome.com.tw/news/177795)
+### 24. [Azure Cosmos DB漏洞曾可接管任意資料庫帳戶，私人網路隔離也可能失效](https://www.ithome.com.tw/news/177795)
 
 雲端資安業者Wiz揭露Azure Cosmos DB重大漏洞鏈CosmosEscape，研究人員表示，攻擊者原可透過自己建立的資料庫送出特製Gremlin查詢，突破微軟設置的隔離環境，再取得任意Cosmos DB帳戶的主要存取金鑰，完整讀取或修改其中資料。微軟已完成修補，並表示未發現研究測試以外的未授權活動，客戶不必採取額外措施。
 
 - 📰 **iThome 科技**
 
-### 5. [美國至少7州水務設施遭網路攻擊，CISA籲業者檢視OT設備對外曝露情形](https://www.ithome.com.tw/news/177799)
+### 25. [美國至少7州水務設施遭網路攻擊，CISA籲業者檢視OT設備對外曝露情形](https://www.ithome.com.tw/news/177799)
 
 美國網路安全暨基礎設施安全局（CISA）於7月30日發布警示，提醒水務與廢水處理業者加強營運科技（OT）環境防護。
 
 - 📰 **iThome 科技**
 
-### 6. [Ruby on Rails修補重大漏洞，攻擊者可上傳圖片讀取伺服器任意檔案](https://www.ithome.com.tw/news/177797)
+### 26. [Ruby on Rails修補重大漏洞，攻擊者可上傳圖片讀取伺服器任意檔案](https://www.ithome.com.tw/news/177797)
 
 開放原始碼網頁應用程式開發框架Ruby on Rails於7月29日發布安全公告，修補Activ
 
 - 📰 **iThome 科技**
 
-### 7. [鄭麗君揭政府資料治理布局，立法促4大資料流通機制支撐主權AI發展](https://www.ithome.com.tw/news/177796)
+### 27. [鄭麗君揭政府資料治理布局，立法促4大資料流通機制支撐主權AI發展](https://www.ithome.com.tw/news/177796)
 
 行政院副院長鄭麗君在「總統盃黑客松」徵件啟動活動中揭露我國的資料治理策略，她表示，資料是推動創新、催生產業與發展主權AI的重要基礎，政府正推動資料治理制度，促進資料開放與流通，支撐臺灣主權AI應用發展。
 她表示，總統盃黑客松自2018年舉辦以來，已成為政府運用開放資料、公私協力推動創新的重要平台。過去黑客松模式主要是政府提出公共議題與需求，開放資料資源，由民間團隊提出創新解決方案；今年主題為「智慧農業、安全永續」，鼓勵參賽團隊運用人工智慧與資料數據，解決農業治理與永續發展問題。
 
 - 📰 **iThome 科技**
 
-### 8. [【資安日報】7月31日，Anthropic發現AI模型在安全評估任務時越界，意外駭入3家公司](https://www.ithome.com.tw/news/177787)
+### 28. [【資安日報】7月31日，Anthropic發現AI模型在安全評估任務時越界，意外駭入3家公司](https://www.ithome.com.tw/news/177787)
 
 本日新聞焦點
 ● Anthropic也揭露Claude在資安測試中入侵3個真實組織
@@ -56,143 +181,17 @@ Google擴大Gemini Spark的開放範圍，並讓這項可代為執行任務的AI
 
 - 📰 **iThome 科技**
 
-### 9. [國發會盤點AI新十大建設亮點，盤點教育、醫療、司法領域階段成果](https://www.ithome.com.tw/news/177792)
+### 29. [國發會盤點AI新十大建設亮點，盤點教育、醫療、司法領域階段成果](https://www.ithome.com.tw/news/177792)
 
 今年6月行政院召開首次「國家人工智慧戰略特別委員會」會議，將「主權AI」列為國家AI發展的重要方向，以臺灣在地資料、自由民主價值及可信任AI治理作為基礎，打造符合在地需求的AI應用，並點名將優先以教育、醫療、金融及司法為優先推動領域。
 國發會在周四公布第二季階段成果，盤點教育、醫療及司法領域AI應用進展，顯示行政院推動主權AI已從戰略規畫逐步進入跨部會落地階段。
-AI新十大建設由國發會負責跨部會協調推動，依據行政院國家人工智慧戰略特別委員會方向，整合中央部會、地方政府及產業資源，推動AI示範場域與應用落地，希望建立安全、可信賴且負責任的AI生態系，以AI帶動數位轉型與提升國家競爭力。
+AI新十大建設由國發會負責跨部會協調推動，依據行政院國家人工智慧戰略特別委員會方向，整合中央部會、地方政府及產業資源，推動AI示範場域與應用落地，希���建立安全、可信賴且負責任的AI生態系，以AI帶動數位轉型與提升國家競爭力。
 
 - 📰 **iThome 科技**
 
-### 10. [OpenAI調降GPT-5.6 Luna及Terra價格，Luna降幅達80%](https://www.ithome.com.tw/news/177789)
+### 30. [OpenAI調降GPT-5.6 Luna及Terra價格，Luna降幅達80%](https://www.ithome.com.tw/news/177789)
 
-OpenAI周四（7/30）調降GPT-5.6系列模型價格，其中速度最快、價格最低的GPT-5.6 Luna降價80%，定位為兼顧能力與成本的日常工作模型GPT-5.6 Terra則降價20%。GPT-5.6 Sol價格維持不變，但API新增Fast處理模式，開發者支付2倍費用，可讓Sol��處理速度最高達到Standard模式的2.5倍。
-
-- 📰 **iThome 科技**
-
-### 11. [Gemini Robotics 2模型跨入人形機器人全身控制與多機協作](https://www.ithome.com.tw/news/177784)
-
-Google DeepMind發表Gemini Robotics 2系列模型，將機器人控制範圍從原本的上半身與桌面操作，擴大至人形機器人的全身動作，並加入精細操作、持續數分鐘的多步驟任務規畫及多機器人協作能力。其中Gemini Robotics On-Device 2可直接在機器人裝置上執行，減少對網路連線的依賴。
-
-- 📰 **iThome 科技**
-
-### 12. [Amazon第二季營收成長20%，AWS創18季最快增速](https://www.ithome.com.tw/news/177785)
-
-Amazon周四（7/30）公布截至6月底的2026年第二季財報，該季營收比去年同期成長20%至2,006億美元，營業利益（Operating Income）成長43%至275億美元。其中，雲端服務Amazon 網頁 Services（AWS）營收成長37%，創18季以來最快增速。Amazon並將今年資本支出計畫由2,000億美元上調至約2,200億美元，以因應AI及雲端運算需求。
-
-- 📰 **iThome 科技**
-
-### 13. [BitLocker遭駭客拿來加密企業磁碟，勒索信從辦公室印表機送出](https://www.ithome.com.tw/news/177783)
-
-資安業者Kaspersky揭露兩起發生於拉丁美洲的企業勒索事件。駭客分別利用對外開放的Windows遠端桌面服務，以及設定不當的Microsoft SQL 伺服器進入企業網路，再濫用Windows內建的BitLocker加密磁碟，最後透過辦公室印表機印出勒索信。
-
-- 📰 **iThome 科技**
-
-### 14. [英美五國發布關鍵基礎設施隔離指引，建議業者強化OT隔離能力](https://www.ithome.com.tw/news/177782)
-
-澳洲通訊局（ASD）、美國網路安全暨基礎設施安全局（CISA）與美國聯邦調查局（FBI），以及加拿大、英國與紐西蘭資安機關，於7月28日聯合發布《CI Fortify：關鍵系統隔離建議���。
-
-- 📰 **iThome 科技**
-
-### 15. [AI趨勢周報第291期：Yelp打造統一模型訓練平臺，AI團隊可以少寫一些「膠水程式」](https://www.ithome.com.tw/news/177781)
-
-重點新聞（0724～0730）
-
-- 📰 **iThome 科技**
-
-### 16. [OpenAI模型入侵Hugging Face，CSA、FIRST籲企業強化AI代理治理](https://www.ithome.com.tw/news/177780)
-
-雲端安全聯盟（CSA）與資安教育及研究機構SANS Institute、國際資安應變組織FIRST等單位，共同發布0.8版Hugging Face事件初步檢討報告。這份草案彙整Hugging Face向CSA資訊安全長社群說明的OpenAI模型入侵事件經過，以及近700名資訊安全長經討論提出的初步結論，呼籲企業將高風險AI代理視為具高權限的工作負載，並將其身分、存取權限及操作行為納入既有管理制度。
-
-- 📰 **iThome 科技**
-
-### 17. [Node.js揭露與修補11個漏洞，當中涵蓋3個高風險漏洞](https://www.ithome.com.tw/news/177779)
-
-開放原始碼JavaScript執行環境Node.js於7月29日發布安全性更新公告，揭露與修補11個漏洞，其中3個為高風險漏洞、5個為中度風險漏洞、3個為低風險漏洞。這批漏洞分別影響Node.js 22.x、24.x及26.x版本分支，目前開發團隊已釋出修補漏洞的更新版本——Node.js 22.23.2、Node.js 24.18.1及Node.js 26.5.1。
-
-- 📰 **iThome 科技**
-
-### 18. [泰國證交所旗下TSD集保公司發生20萬投資人個資外洩，起因於投資人入口網站存取控制缺失](https://www.ithome.com.tw/news/177775)
-
-泰國證券交易所（SET）旗下子公司泰國證券集保公司（TSD）於7月28日揭露，其投資人入口網站（Investor Portal）發生未經授權的個人資料存取事件。據統計，約有20萬名投資人的個資遭非法存取，但目前尚未偵測到任何財務損失。
-
-- 📰 **iThome 科技**
-
-### 19. [蘋果Q3營收成長16%創同期新高，供應限制拖累下季展望](https://www.ithome.com.tw/news/177778)
-
-蘋果周四（7/30）公布截至6月27日的2026財年第三季財報，營收比去年同期增加16%至1,094億美元，創歷年6月季度新高；營業利益（Operating Income）成長27%至357億美元，淨利（Net Income）成長27%至298億美元，每股盈餘成長29%至2.02美元。
-
-- 📰 **iThome 科技**
-
-### 20. [GCC擬因著作權風險限制大型語言模型生成內容，測試案例與少量修改除外](https://www.ithome.com.tw/news/177772)
-
-GCC指導委員會近日採納新的AI貢獻政策，原則上不接受由大型語言模型（大型語言模型）生成，或根據其產出改寫，且在著作權上屬於重大貢獻的內容。不過，維護人員仍可接受大型語言模型生成的測試案例與少量修改，開發者也能繼續使用AI協助研究、找出程式錯誤、除錯及審查程式碼。
-
-- 📰 **iThome 科技**
-
-### 21. [不只OpenAI，Anthropic也揭露Claude在資安測試中入侵3個真實組織](https://www.ithome.com.tw/news/177777)
-
-Anthropic周四（7/30）揭露，Claude在資安能力測試期間意外連上網際網路，且未經授權存取3個不同組織的正式系統。這是繼OpenAI日前坦承旗下模型突破隔離環境並入侵Hugging Face後，又一起AI模型在安全評估中影響真實系統的事件。
-
-- 📰 **iThome 科技**
-
-### 22. [英國教育部、警方資料庫遭駭，被竊超過70萬筆個資](https://www.ithome.com.tw/news/177776)
-
-英國教育部（Department for Education，DfE）及英國警方資料庫分別傳出被駭客入侵，竊取超過60萬及10萬筆個資。
-自稱是ExfilSquad的勒索組織上周末分別在資料外洩網站宣稱竊得兩批資料。教育部（DfE）指的是英格蘭教育部，駭客宣稱取得逾60.7萬筆資料。DfE對媒體證實被駭消息，表示已控制事件，並已與英國國家網路安全中心（NCSC）和國家犯罪管��署（NCA）合作調查。
-
-- 📰 **iThome 科技**
-
-### 23. [一個疑點多於答案的威脅情資揭露，掀起百家企業資安信譽風暴](https://www.ithome.com.tw/news/177711)
-
-近日國內媒體報導指出，上月傳出的FortiBleed事件正衍生臺灣資安風暴，因為有駭客販售臺灣96家企業存取管道，加上後續企業名單被媒體公布出來，進而引發外界高度關注與不安，但這兩篇報導一開始就將兩起事件連結在一起的狀況，讓我們對資料真實性與準確度存疑，例如，聲稱這96家企業確實與FortiBleed資料庫有著高度重疊，但經過我們比對之後，發現有少部分公司的網域名稱並未出現於FortiBleed Checker資料庫中
-
-- 📰 **iThome 科技**
-
-### 24. [產業出身接棒，龔化中8月1日就任第三任資安院院長一職](https://www.ithome.com.tw/news/177774)
-
-國家資通安全研究院（資安院）董事會正式拍板，由前任副院長龔化中接任新任院長，並於8月1日正式上任。
-龔化中是在前任院長林盈達於6月22日正式對外請辭後，由董事會展開新任院長遴選程序，經徵詢與評估多位適合人選後，最終決議由他接棒。
-與前兩任院長不同的是，龔化中並非出身公務體系或學術界，而是長期深耕產業界資安與物聯網（IoT）安全領域。
-龔化中在加入資安院之前，他曾擔任網路儲存設備大廠威聯通（QNAP）技術長暨資安長，長期投入網通設備與物聯網產品的安全設計；加入資安院後，也曾擔任副院長職務，協助推動供應鏈安全、關鍵基礎設施防護及AI資安等工作，對院務運作及產業生態均相當熟悉，因此成為此次接任院長的
-
-- 📰 **iThome 科技**
-
-### 25. [【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第二家公司受害](https://www.ithome.com.tw/news/177770)
-
-在上週OpenAI承認Hugging Face的AI代理自主攻擊是他們測試的模型所為之後，本週這起事故出現兩項重大進展，其一是JFrog透露OpenAI的模型找出特定系統的零時差漏洞，從而存取外部網路並攻擊Hugging Face；另一個消息則是在事故發生的期間，有第二家公司也遭到OpenAI的代理攻擊，後續發展相當值得注意。
-
-- 📰 **iThome 科技**
-
-### 26. [工作流程自動化平臺n8n表達式沙箱再遭繞過，工作流程編輯者可執行主機命令](https://www.ithome.com.tw/news/177769)
-
-工作流程自動化平臺n8n修補一項高風險漏洞。已登入且能建立或修改工作流程的使用者，可利用特製的程式碼避開表達式沙箱限制，在執行n8n的主機上執行系統命令。官方已在n8n 2.31.5與2.32.1完成修補，建議使用者升級至這些版本或後續版本。
-
-- 📰 **iThome 科技**
-
-### 27. [開源基金會3年3億推臺灣AI工程，建立千人在地技術社群，強化台灣主權AI能力](https://www.ithome.com.tw/news/177768)
-
-在高科技、服務業等多家企業聯手支持下，開源基金會���TAIONE 開源 Foundation）今天正式成立，宣布未來三年將投入3億元，推動臺灣的開源AI工程。開源基金會董事長蔡祈岩指出，全球下一步的AI競爭在開源，開源基金會的成立是一件重要的事。
-蔡祈岩進一步補充，AI時代把全球競爭從製造延伸到模型、工具鏈、標準與生態。開源讓臺灣不必重新打造封閉式全球平台，也能直接進入世界級技術的生態圈。「台灣硬體產業需要軟體的護城河，開源正是台灣的重要機會。」
-
-- 📰 **iThome 科技**
-
-### 28. [Linux網路流量排程子系統存在高風險漏洞，可導致本機使用者提升至Root權限](https://www.ithome.com.tw/news/177767)
-
-資安廠商STAR Labs研究人員近日揭露Linux核心漏洞CVE-2026-53264，這個高風險漏洞已存在數年，CVSS嚴重性評分7.8分，問題存在於負責網路封包流量控制的net/sched子系統，攻擊者可利用記憶體已釋放卻仍被使用（UAF）競爭條件問題，讓本機低權限使用者提升至Root權限，Linux核心上游已完成修補，主
-
-- 📰 **iThome 科技**
-
-### 29. [Walmart如何用數據打造永續零售：AI預測食品浪費，還靠平臺讓供應鏈減碳](https://www.ithome.com.tw/news/177760)
-
-生成式AI快速發展後，企業開始重新思考AI的價值。對全球最大零售商Walmart而言，AI不只是提升銷售推薦或員工效率的工具，也逐漸成為改善零售流程、降低資源浪費的重要技術。在Walmart最新的FY2026永續報告書，Walmart揭露他們如何利用AI、資料分析、自動化與數位平臺，將永續目標融入日常營運，從食品管理、供應鏈減碳到AI治理，建立以數據驅動的永續零售模式。
-Walmart並非單純以AI解決所有永續問題，而是依照不同場景導入不同數位能力。其中，AI主要用於提升食品管理與營運決策效率，而供應鏈減碳則依靠數據平臺與碳管理工具，協助供應商共同降低排放。
-
-- 📰 **iThome 科技**
-
-### 30. [北韓駭客疑先從冷門NPM套件試水溫，再攻向axios等熱門函式庫](https://www.ithome.com.tw/news/177762)
-
-Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypto、debug、chalk及axios軟體套件攻擊，可能出自同一北韓關聯駭客組織。攻擊者使用的部分伺服器相同，程式碼與入侵手法也有多處相似，因此Amazon研判這幾起事件可能彼此相關。
+OpenAI周四（7/30）調降GPT-5.6系列模型價格，其中速度最快、價格最低的GPT-5.6 Luna降價80%，定位為兼顧能力與成本的日常工作模型GPT-5.6 Terra則降價20%。GPT-5.6 Sol價格維持不變，但API新增Fast處理模式，開發者支付2倍費用，可讓Sol的處理速度最高達到Standard模式的2.5倍。
 
 - 📰 **iThome 科技**
 
@@ -205,8 +204,8 @@ Amazon威脅情報團隊指出，2025年3月至2026年3月間發生的typo-crypt
 - 最佳 Car Vacuums (2026): Handheld, Cordless, Shopping Tips (**Wired**)
 - There Are 2 Eclipses This August. Here’s 如何 See Them (**Wired**)
 - The 最佳 Kids’ Backpacks for the 2026 School Year (**Wired**)
-- Is It Possible to Make Smart Glasses That Aren’t Creepy? (**Wired**)
 - Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives (**Wired**)
+- Is It Possible to Make Smart Glasses That Aren’t Creepy? (**Wired**)
 - YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline (**Wired**)
 - 15 最佳 Office Chairs of 2026— We Tested 70 to Pick Them (**Wired**)
 - 15 最佳 Office Chairs of 2026—We Tested 70 to Pick Them (**Wired**)

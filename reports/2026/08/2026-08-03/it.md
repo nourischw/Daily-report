@@ -4,206 +4,204 @@
 
 ---
 
-### 1. [為什麼 Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
+### 1. [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
 
-- ⭐ 37 分｜💬 14 留言｜👤 pizzaiolo
+- ⭐ 470 分｜💬 205 留言｜👤 ngruhn
 
-### 2. [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+### 2. [Qwen3.8-Max: A 新 Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
 
-- ⭐ 18 分｜💬 4 留言｜👤 TMWNN
+- ⭐ 541 分｜💬 267 留言｜👤 ai2027
 
-### 3. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
+### 3. [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
+
+- ⭐ 56 分｜💬 14 留言｜👤 paavohtl
+
+### 4. [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
+
+- ⭐ 24 分｜💬 3 留言｜👤 KolmogorovComp
+
+### 5. [The AI Productivity Gap](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
+
+- ⭐ 16 分｜💬 17 留言｜👤 kiyanwang
+
+### 6. [Octane – React's 程式設計 模型, compiled](https://octanejs.dev)
+
+- ⭐ 11 分｜💬 3 留言｜👤 nnx
+
+### 7. [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+
+- ⭐ 213 分｜💬 48 留言｜👤 nuwandavek
+
+### 8. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
 
 https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2083749667410727319
 
-- ⭐ 440 分｜💬 341 留言｜👤 delichon
+- ⭐ 566 分｜💬 388 留言｜👤 delichon
 
-### 4. [Autoregressive Language 模型 on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html)
+### 9. [Show HN: ssh ssh.place](https://ssh.place)
 
-- ⭐ 57 分｜💬 6 留言｜👤 nmstoker
+- ⭐ 112 分｜💬 66 留言｜👤 jeninh
 
-### 5. [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/)
+### 10. [為什麼 we write our own C and C++ 推論 engines](https://localai.io/blog/why-we-write-our-own-engines/)
 
-- ⭐ 21 分｜💬 3 留言｜👤 nuwandavek
+- ⭐ 51 分｜💬 26 留言｜👤 eatonphil
 
-### 6. [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
+### 11. [How do you rewrite C/C++ projects to Rust?](https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/)
 
-- ⭐ 183 分｜💬 38 留言｜👤 vlad_kalinkin
+- ⭐ 7 分｜💬 4 留言｜👤 smokeeaasd
 
-### 7. [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management)
+### 12. [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
 
-- ⭐ 131 分｜💬 38 留言｜👤 surprisetalk
+- ⭐ 245 分｜💬 161 留言｜👤 mertbio
 
-### 8. [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
+### 13. [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
 
-- ⭐ 151 分｜💬 77 留言｜👤 HieronymusBosch
+- ⭐ 67 分｜💬 30 留言｜👤 TMWNN
 
-### 9. [Read the Novels and Forget Everything Else](https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else)
+### 14. [Show HN: A Handwritten Blogging Platform](https://handwritten.blog/)
 
-- ⭐ 55 分｜💬 26 留言｜👤 samclemens
+The idea is a place for beautiful notes like https:&#x2F;&#x2F;insidevoices.handwritten.blog.
 
-### 10. [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
+- ⭐ 102 分｜💬 50 留言｜👤 emilesilvis
 
-- ⭐ 8 分｜💬 1 留言｜👤 Jimmc414
+### 15. [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management)
 
-### 11. [The Computational Theory of Mind (2015)](https://plato.stanford.edu/entries/computational-mind/)
+- ⭐ 201 分｜💬 59 留言｜👤 surprisetalk
 
-- ⭐ 32 分｜💬 10 留言｜👤 cyanregiment
+### 16. [Autoregressive Language 模型 on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html)
 
-### 12. [Show HN: ssh ssh.place](https://ssh.place)
+- ⭐ 107 分｜💬 10 留言｜👤 nmstoker
 
-- ⭐ 12 分｜💬 4 留言｜👤 jeninh
+### 17. [The Shape of Things to Come](https://yegge.ai/essays/the-shape-of-things-to-come/)
 
-### 13. [Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)
+- ⭐ 10 分｜💬 4 留言｜👤 tosh
 
-I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (https:&#x2F;&#x2F;githu
+### 18. [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
 
-- ⭐ 50 分｜💬 5 留言｜👤 arcaege
+- ⭐ 217 分｜💬 55 留言｜👤 vlad_kalinkin
 
-### 14. [Show HN: Mu – Tools for Agents](https://github.com/micro/mu)
+### 19. [Convergence is not enough](https://www.inkandswitch.com/livelymerge/notebook/lm-02/)
 
-- ⭐ 31 分｜💬 8 留言｜👤 asim
+- ⭐ 31 分｜💬 5 留言｜👤 zdw
 
-### 15. [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
+### 20. [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
 
-Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.T
+- ⭐ 209 分｜💬 111 留言｜👤 HieronymusBosch
 
-- ⭐ 97 分｜💬 29 留言｜👤 graham33
+### 21. [SwiftUI After 7 Years](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
 
-### 16. [TinyNES Review – A Super Niche NES Console](https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/)
+- ⭐ 191 分｜💬 171 留言｜👤 mpweiher
 
-- ⭐ 33 分｜💬 4 留言｜👤 throwoutway
+### 22. [為什麼 Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
 
-### 17. [F*: A general-purpose proof-oriented 程式設計 language](https://fstar-lang.org/)
+- ⭐ 91 分｜💬 58 留言｜👤 pizzaiolo
 
-- ⭐ 155 分｜💬 67 留言｜👤 ducktective
+### 23. [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
 
-### 18. [Californians' data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
+- ⭐ 62 分｜💬 48 留言｜👤 felineflock
 
-- ⭐ 87 分｜💬 31 留言｜👤 MilnerRoute
+### 24. [Situational Awareness and the Impending Stock Market Volatility](https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/)
 
-### 19. [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+- ⭐ 6 分｜💬 4 留言｜👤 cl42
 
-- ⭐ 152 分｜💬 29 留言｜👤 AlexeyBrin
+### 25. [Show HN: I created a project management 系統](https://is.team)
 
-### 20. [Playing with Georgia](https://mighil.com/playing-with-georgia)
+- ⭐ 6 分｜💬 4 留言｜👤 spotlayn
 
-- ⭐ 9 分｜💬 4 留言｜👤 surprisetalk
+### 26. [Read the novels and forget everything else](https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else)
 
-### 21. [A tool for finding the causes of unstable Python tests](https://github.com/mgaitan/pytest-leak-finder)
+- ⭐ 96 分｜💬 79 留言｜👤 samclemens
 
-- ⭐ 12 分｜💬 0 留言｜👤 pomponchik
+### 27. [The myth of Snow Leopard](https://www.rubenerd.au/the-myth-of-snow-leopard/)
 
-### 22. [My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."](https://frogs.vaguespac.es/)
+- ⭐ 97 分｜💬 79 留言｜👤 speckx
 
-- ⭐ 104 分｜💬 47 留言｜👤 thebigship
+### 28. [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
 
-### 23. [A Playable History of Sudoku](https://doku.su/history-of-sudoku)
+- ⭐ 36 分｜💬 16 留言｜👤 Jimmc414
 
-- ⭐ 6 分｜💬 0 留言｜👤 bouiboui
+### 29. [Norway became a global salmon behemoth. Now it's facing the consequences](https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872)
 
-### 24. [Sharing an X11 伺服器 Across Hosts with FamilyWild](https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/)
+- ⭐ 158 分｜💬 121 留言｜👤 CHB0403085482
 
-- ⭐ 35 分｜💬 10 留言｜👤 shirozuki
+### 30. [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
 
-### 25. [When transit passes were designed by hand (2022)](https://letterformarchive.org/news/milwaukee-transit-passes/)
-
-- ⭐ 103 分｜💬 28 留言｜👤 nate
-
-### 26. ['Crush this lady': how eBay harassment campaign led to $56M payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
-
-- ⭐ 185 分｜💬 85 留言｜👤 JumpCrisscross
-
-### 27. [Folding Paper Globes](https://foldingglobes.com/globes)
-
-- ⭐ 147 分｜💬 30 留言｜👤 dango2506
-
-### 28. [Fasttracker II clone in C using SDL 2](https://16-bits.org/ft2.php)
-
-- ⭐ 116 分｜💬 45 留言｜👤 andsoitis
-
-### 29. [Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
-
-- ⭐ 78 分｜💬 15 留言｜👤 mindracer
-
-### 30. [Great Question (YC W21) Is 招聘 資深 Demand Gen 經理](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
-
-- ⭐ 1 分｜💬 0 留言｜👤 nedwin
+- ⭐ 219 分｜💬 168 留言｜👤 c-oreills
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Show HN: Make your Framework 12 sound like a creaky door
+- My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”
+- Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
+- When transit passes were designed by hand (2022)
+- Cro – elegant reactive services in Raku
+- Great Question (YC W21) Is 招聘 資深 Demand Gen 經理
+- Sony BMG copy protection rootkit scandal from 2005
+- Rooting, firmware analysis and persistent credentials of TP-Link TL-841N
+- 1 in 4 people in Japan believes AI could replace friends and family: poll
+- Fasttracker II clone in C using SDL 2
 - Meshdiff – visually compare two STL versions in the browser, client-side
-- Boris Cherny on Trying to Get Claude 代碼 to Rewrite the Claude App
-- Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof
-- Harvesting SSH Credentials: Insights from My Honeypot 網絡
+- TinyNES Review – A Super Niche NES Console
 - Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
 - Show HN: Bor – Open-source policy management for Linux desktops
-- Adding Go's Defer to the TypeScript Compiler
-- Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89M
-- Show HN: Fuse – statically typed functional 程式設計 language
-- 人工智慧: Ars Notoria and the Promise of Instant Knowledge
-- EU Age Verification Project Mandates 硬體-Bound Attestation
-- Show HN: MicroCodex Coding 代理 – OpenAI/codex reimplemented in C++ <1MB binary
-- Let the machines in
+- 'Crush this lady': how eBay harassment campaign led to $56M payout
+- The Computational Theory of Mind (2015)
+- Harvesting SSH Credentials: Insights from My Honeypot 網絡
 - Holocloth
-- Show HN: Alfa. Killing AI hallucinations with resonance
-- AI poster wins Ohio State Fair contest
+- Show HN: Do Codex skills save tokens? A six-run task-size benchmark
+- Òrbites – Connection and constellation puzzle game
+- 人工智慧: Ars Notoria and the Promise of Instant Knowledge
 - Flock – Chilling Effects: Long Island's Emerging Open-Air Prison
-- How the words we teach English language learners changed
-- Let kids be kids: When collectibles lose their playfulness
-- Norway Salmon
-- Rust All Hands 2026 Retrospective
-- Schmitt Trigger: Robust Comparator Design with Hysteresis
-- ESP32-C3 SuperMini antenna modification
-- The diabolical world of convincing AI thirst traps
-- OpenAI’s amazing — but vastly oversold — 新 模型 Astra
-- How much AI can a maintainer get away with using without losing their humanity?
-- Coldcard wallet RNG flaw likely linked to $88M Bitcoin theft
-- The Myth of Snow Leopard
-- How AI is expanding what people do at work
-- The End of Everything by M. John Harrison
-- Do not trust the marketing IOPS on Consumer SSD
-- Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
-- RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle
-- AI-assisted analytics now 10x cheaper
-- KotlinLLM
-- Turtle-inspired interactive Python project
-- Show HN: I implemented the Kimi K3 paper from scratch in PyTorch
+- A tool for finding the causes of unstable Python tests
+- Show HN: Fuse – statically typed functional 程式設計 language
+- How Cursor sets up their 雲端 代理 environment
+- Email compromise that wiped half a billion $
+- Show HN: 新 Parts for Old Computers
+- AI Mentions in 工作 Descriptions – August 2026
+- Logic and Ontology
+- Faster floating point math with Rust's 新 API
+- Don't Take the Black Pill (Text Adaptation)
+- Show HN: An AI wrote and illustrated a book of fables about threads and packets
+- What the Bliss Taught Us
+- Mob – A personal CRM as an MCP 伺服器
+- Show HN: Mu – Tools for Agents
+- Twenty Years of RISC OS Open
+- F*: A general-purpose proof-oriented 程式設計 language
 - Cyberscript
-- 新 spinning drone hides in plain sight
-- A fresh look at CPU silent data corruption in modern data centers
-- Nanocodex: Building blocks for frontier OpenAI agents in Rust
+- ESP32-C3 SuperMini antenna modification
+- Let kids be kids: When collectibles lose their playfulness
+- How rogue officers turned a nationwide camera 網絡 into a tool for stalking
+- Boris Cherny on Trying to Get Claude 代碼 to Rewrite the Claude App
+- Rust All Hands 2026 Retrospective
+- EU Age Verification Project Mandates 硬體-Bound Attestation
+- Firstmate: Talk to one 代理. Ship with a crew
+- Folding Paper Globes
+- KotlinLLM
+- Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
+- Adding Go's Defer to the TypeScript Compiler
+- I stopped trusting USB-C cable labels and started testing them
 - Go 1.27 Interactive Tour
-- Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+- Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89M
+- Let the machines in
 - Show HN: I'm a 15 Year Old Wannabe 工程師, This Is a Cycloidal Gearbox I Built
-- I Built and Battle Tested My OSAI 代理
-- Crypto miners are stealing power in Southeast Asia
+- Show HN: MicroCodex Coding 代理 – OpenAI/codex reimplemented in C++ <1MB binary
 - ASRock BC-250: Building the Budget Steam Machine
-- Negative social ties as risks for faster aging, inflammation, and multimorbidity
-- Unraveling the mysteries of habit formation
-- Diátaxis
-- Show HN: Katharos Functional 程式設計 and CSP-style concurrency for Python
-- Elena, a library for building Progressive 網頁 Components
-- Supply and Demand Is Not What Most People Think
-- RFK Jr tells US families to vaccinate children against measles amid outbreak
-- But can your calculator run Linux?
-- Bubble Memory
-- Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI
+- Amazon completes $50B investment in OpenAI
 - Show HN: Elevators
+- Diátaxis
+- Unraveling the mysteries of habit formation
+- Show HN: Alfa. Killing AI hallucinations with resonance
+- The End of Everything by M. John Harrison
+- Elena, a library for building Progressive 網頁 Components
+- Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+- AI-assisted analytics now 10x cheaper
+- But can your calculator run Linux?
+- Do not trust the marketing IOPS on Consumer SSD
+- The World Crossed a Major Solar Milestone [3TW]
+- Schmitt Trigger: Robust Comparator Design with Hysteresis
 - RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2
-- How Google helped destroy adoption of RSS feeds (2023)
-- Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific
-- 'The language of Pokémon is universal': fans are still catching after 30 years
-- Tips for Landing a YC Internship?
-- What Else Do We Lose When People Give Up Booze?
-- The Prospects for 128 Bit Processors ( John Mashey SGI 1995)
-- Glyphs 4 – the leading Mac font editor
-- Special Relativity Boot Camp: A Geometry-First 介紹 Special Relativit
-- A Rant About “Technology” (2005)
-- Linux on ESP32
-- Combinatorial Materials Synthesis(2023) [pdf]
 
 
 ---
