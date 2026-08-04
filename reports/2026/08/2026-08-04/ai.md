@@ -16,7 +16,7 @@ Google Chrome 151穩定版新增軟導覽（Soft Navigation）與互動內容繪
 
 - 📰 **iThome 科技**
 
-### 3. [巴基斯坦駭客組���APT36冒充印度政府徵才，鎖定求職者散布木馬程式](https://www.ithome.com.tw/news/177868)
+### 3. [巴基斯坦駭客組織APT36冒充印度政府徵才，鎖定求職者散布木馬程式](https://www.ithome.com.tw/news/177868)
 
 資安業者Seqrite近日揭露代號Operation ShadowRecruit的攻擊活動，指出與巴基斯坦政府有關聯的駭客組織APT36，近期冒充印度政府機關發布徵才資訊，鎖定印度求職者散布惡意程式。
 
@@ -30,7 +30,7 @@ Google Chrome 151穩定版新增軟導覽（Soft Navigation）與互動內容繪
 
 ### 5. [中國駭客針對中亞政府散布後門程式OctLurk、SilkLurk](https://www.ithome.com.tw/news/177866)
 
-資安公司卡巴斯基揭露後門程式OctLurk、SilkLurk，他們自2025年1月看到相關活動，鎖定中亞多個國家的政府機關從事網路間諜活動，受害企業組織分布於阿富汗、吉爾吉���、塔吉克、烏茲別克、哈薩克，以及敘利亞，涉及產業涵蓋醫療保健、研究機構、政府部門、外交部、物流、執法機關、城市規畫與設施管理，以及公立教育機構。根據該公司的調查，駭客使用簡體中文，兩個後門程式背後的駭客組織為同一組人馬，原因是部分感染SilkLurk的組織也感染OctLurk。
+資安公司卡巴斯基揭露後門程式OctLurk、SilkLurk，他們自2025年1月看到相關活動，鎖定中亞多個國家的政府機關從事網路間諜活動，受害企業組織��布於阿富汗、吉爾吉斯、塔吉克、烏茲別克、哈薩克，以及敘利亞，涉及產業涵蓋醫療保健、研究機構、政府部門、外交部、物流、執法機關、城市規畫與設施管理，以及公立教育機構。根據該公司的調查，駭客使用簡體中文，兩個後門程式背後的駭客組織為同一組人馬，原因是部分感染SilkLurk的組織也感染OctLurk。
 
 - 📰 **iThome 科技**
 
@@ -40,7 +40,7 @@ Google Chrome 151穩定版新增軟導覽（Soft Navigation）與互動內容繪
 
 - 📰 **iThome 科技**
 
-### 7. [Hugging Face程式庫Diffusers存在��洞FaceHugger，恐允許模型儲存庫執行任意程式碼](https://www.ithome.com.tw/news/177863)
+### 7. [Hugging Face程式庫Diffusers存在漏洞FaceHugger，恐允許模型儲存庫執行任意程式碼](https://www.ithome.com.tw/news/177863)
 
 持續威脅暴露管理平臺Zafran指出，他們在Hugging Face的程式庫diffusers找到一系列漏洞FaceHugger，攻擊者只要發布惡意AI模型儲存庫，就能在載入模型的電腦執行任何程式碼，繞過Hugging Face阻擋未經審查程式碼執行的防護機制trust_remote_code，Zafran於今年3月通報，Hugging Face於4月底發布
 
@@ -49,7 +49,7 @@ Google Chrome 151穩定版新增軟導覽（Soft Navigation）與互動內容繪
 ### 8. [詐騙網站防線前移！數發部開放詐騙情資給民間業者，從「網域封鎖」提前到「即時警示」](https://www.ithome.com.tw/news/177861)
 
 面對網路詐騙網站快速增加，政府防詐機制開始從「事後處置」轉向「事前攔阻」。數發部今天（8/4）宣布中華電信、台灣大哥大、遠傳電信、趨勢科技及走著瞧等業者共同推動「詐騙網站即時警示機制」，將政府掌握的詐騙網站情資提供給民間業者運用，在詐騙網站完成行政程序封鎖之前，民間業者先一步向民眾發出警示。
-過去數發部處理詐騙網站流程主要為「發現、通報確認、行政處分、封鎖」。即民眾或民間業者發現疑似詐騙網站後，會透過「網路詐騙通報查詢網」進行通報，經跨部會審查確認後，進行行政處分，通知TWNIC（台灣網路資訊中心）進行網域封鎖。
+���去數發部處理詐騙網站流程主要為「發現、通報確認、行政處分、封鎖」。即民眾或民間業者發現疑似詐騙網站後，會透過「網路詐騙通報查詢網」進行通報，經跨部會審查確認後，進行行政處分，通知TWNIC（台灣網路資訊中心）進行網域封鎖。
 
 - 📰 **iThome 科技**
 
@@ -76,7 +76,7 @@ Google Chrome 151穩定版新增軟導覽（Soft Navigation）與互動內容繪
 
 ### 12. [英國證實警方資料庫被駭，可能外洩10萬員警、公務員個資](https://www.ithome.com.tw/news/177858)
 
-英國警察國家法律資料庫（Police National Legal 資料庫，PNLD）維護單位本週證實系統遭駭。駭客此前宣稱竊得超過10萬名���察及公務人員姓名、電話等個資。
+英國警察國家法律資料庫（Police National Legal 資料庫，PNLD）維護單位本週證實系統遭駭。駭客此���宣稱竊得超過10萬名警察及公務人員姓名、電話等個資。
 這起事件發生在上週，名為ExfilSquad的駭客組織宣稱竊得PNLD達13.5萬筆紀錄。PNLD資料庫用於提供英格蘭及威爾斯警方法律支援，由英國西約克郡警察局代管。不過當時PNLD主管機關內政部拒絕評論。
 PNLD說，外洩資料包括警員、警務人員、刑事司法專業人員、政府合作夥伴及客戶的姓名、組織及工作電子郵件地址。
 
@@ -90,7 +90,7 @@ PNLD說，外洩資料包括警員、警務人員、刑事司法專業人員、�
 
 ### 14. [阿里巴巴發布2.4兆參數Qwen3.8-Max，下週開放模型權重](https://www.ithome.com.tw/news/177857)
 
-阿里巴巴週��（8/3）發布新一代旗艦AI模型Qwen3.8-Max，總參數量達2.4兆，是目前規模最大、能力最強的Qwen模型。該模型現已透過千問AI平臺及阿里雲百鍊提供API服務，並將於下週開放模型權重，成為Qwen系列首款開放權重的Max等級旗艦模型。
+阿里巴巴週一（8/3）發布新一代旗艦AI模型Qwen3.8-Max，總參數量達2.4兆，是目前規模最大、能力最強的Qwen模型。該模型現已透過千問AI平臺及阿里雲百鍊提供API服務，並將於下週開放模型權重，成為Qwen系列首款開放權重的Max等級旗艦模型。
 
 - 📰 **iThome 科技**
 
@@ -121,7 +121,7 @@ Cloudflare釋出開源套件@cloudflare/computer早期預覽版，提供AI代理
 
 ### 19. [CMS漏洞成2026上半年KEV大宗，AI輔助發現漏洞遭利用比例僅1.3%](https://www.ithome.com.tw/news/177850)
 
-漏洞情報業者VulnCheck發布2026年上半年漏洞利用態勢分析，統計期間共有495項漏洞新增至VulnCheck已知遭利用漏洞（Known Exploited Vulnerabilities，KEV）資料庫，這些漏洞從CVE公布到被列為KEV的時間中位數，已由2025年全年的120天縮短至80天，當中更有23.43%的漏洞在CVE公布當日或之前已有利用證據。
+漏洞情報業者VulnCheck發布2026年上半年漏洞利用態勢分析，統計期間共有495項漏洞新增至VulnCheck已知遭利用漏洞（Known Exploited Vulnerabilities，KEV）資料庫，這些漏洞從CVE公布到被列為KEV的時間中位數，已由2025年全年的120天縮短至80天，當中更有23.43%的漏洞在CVE公布當日或之前已��利用證據。
 
 - 📰 **iThome 科技**
 
@@ -145,7 +145,7 @@ Google的同步通行密鑰（synced passkeys）為私鑰保護樹立更高的�
 
 ### 23. [為協助中小企業因應六種資安威脅，資安署發布資安事件應變處理行動指引](https://www.ithome.com.tw/news/177845)
 
-7月31日數位發展部資通安全署發布新聞稿指出，為了協助中小企業在面臨資安危機當下，迅速採取適當措施，降低資安攻擊損害並儘速恢復正常營運，他們發布了資安事件應變處理行動指引，將資安事故的處理流程規畫為四大階段，並針對中小企業最常面臨的六大威脅提供處理步驟，涵蓋設備受感染異常、帳號被盜、網路釣魚、商業支付詐欺、勒索軟體攻擊，以及阻斷服務攻擊（DDoS）等，並附具體可操作的「應變處理檢核清單」、「應變里程碑建
+7月31日數位發展部資通安全署發布新聞稿指出，為了協助中小企業在面臨資安危機當下，迅速採取適當措施，降低資安攻擊損害並儘速恢復正常營運，他們發布了資安事件應變處理行動指引���將資安事故的處理流程規畫為四大階段，並針對中小企業最常面臨的六大威脅提供處理步驟，涵蓋設備受感染異常、帳號被盜、網路釣魚、商業支付詐欺、勒索軟體攻擊，以及阻斷服務攻擊（DDoS）等，並附具體可操作的「應變處理檢核清單」、「應變里程碑建
 
 - 📰 **iThome 科技**
 
@@ -157,7 +157,7 @@ Google的同步通行密鑰（synced passkeys）為私鑰保護樹立更高的�
 
 ### 25. [Keyfactor獲逾10億美元投資，擴大AI與PQC安全業務](https://www.ithome.com.tw/news/177842)
 
-機器身分與��碼學資產管理業者Keyfactor於7月6日宣布，獲得由成長型股權投資業者Summit Partners主導、金額逾10億美元的策略性成長投資，將用於產品創新、全球營運規模與市場版圖擴展、團隊建置及策略性併購，藉此擴大AI與後量子密碼學（PQC）相關安全
+機器身分與密碼學資產管理業者Keyfactor於7月6日宣布，獲得由成長型股權投資業者Summit Partners主導、金額逾10億美元的策略性成長投資，將用於產品創新、全球營運規模與市場版圖擴展、團隊建置及策略性併購，藉此擴大AI與後量子密碼學（PQC）相關安全
 
 - 📰 **iThome 科技**
 
@@ -181,7 +181,7 @@ Google的同步通行密鑰（synced passkeys）為私鑰保護樹立更高的�
 
 ### 29. [Starlink改寫衛星寬頻市場，老牌業者Hughes聲請破產重整](https://www.ithome.com.tw/news/177837)
 
-美國老牌衛星通訊業者Hughes周一（8/3）宣布，Hughes Satellite Systems及包括Hughes 網絡 Systems在內的部分美國子公司，已向德州���區聯邦破產法院聲請Chapter 11破產重整。Hughes將在重整期間繼續提供服務，但計畫縮減消費者衛星寬頻業務，轉向企業、政府及國防市場。
+美國老牌衛星通訊業者Hughes周一（8/3）宣布，Hughes Satellite Systems及包括Hughes 網絡 Systems在內的部分��國子公司，已向德州南區聯邦破產法院聲請Chapter 11破產重整。Hughes將在重整期間繼續提供服務，但計畫縮減消費者衛星寬頻業務，轉向企業、政府及國防市場。
 
 - 📰 **iThome 科技**
 
@@ -196,6 +196,7 @@ Revolut是2015年創立於英國倫敦的金融科技與數位銀行業者，主
 
 ### 更多 AI 新聞 (70則)
 
+- Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal (**Wired**)
 - The 最佳 Gaming Mouse You Can Buy After Testing Dozens of Models (**Wired**)
 - Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat (**Wired**)
 - The 最佳 Cordless Vacuums (2026): My Brand-新 熱門 Pick (**Wired**)
@@ -209,19 +210,19 @@ Revolut是2015年創立於英國倫敦的金融科技與數位銀行業者，主
 - Loop Earplugs Discount Codes: 40% Off (**Wired**)
 - Instacart Promo 代碼: $15 Off | August 2026 (**Wired**)
 - Lowe’s Promo Codes and Deals: Up to $300 Off Appliances (**Wired**)
-- 20% Off Sephora Promo 代碼 | August 2026 (**Wired**)
 - Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts (**Wired**)
 - Wayfair Coupons: Up to 80% Off August 2026 (**Wired**)
 - Expedia Coupons: 40% Off (**Wired**)
 - 最佳 Buy Discount Codes: Up to 60% Off (**Wired**)
 - We-Vibe Discount Codes and Deals: Up to 60% Off (**Wired**)
 - Lenovo Coupon Codes and Deals in August 2026 (**Wired**)
-- Bartesian Discount Codes: 35% Off (**Wired**)
+- 20% Off Sephora Promo 代碼 | August 2026 (**Wired**)
 - Maytag Promo Codes: 15% Off Appliances (**Wired**)
 - Target Promo 代碼: $50 Off | August 2026 (**Wired**)
 - Uplift Promo Codes: $570 Off (**Wired**)
-- Litter-Robot Promo Codes: Up to $150 Off (**Wired**)
 - Starz Promo Codes: $5 Off for August 2026 (**Wired**)
+- Bartesian Discount Codes: 35% Off (**Wired**)
+- Litter-Robot Promo Codes: Up to $150 Off (**Wired**)
 - Did an AI Music App Just Snitch on the Song of the Summer? (**Wired**)
 - The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases (**Wired**)
 - 最佳 Robot Lawn Mowers (2026): My Picks After 3 Years of Testing (**Wired**)
@@ -241,10 +242,9 @@ Revolut是2015年創立於英國倫敦的金融科技與數位銀行業者，主
 - Is It Possible to Make Smart Glasses That Aren’t Creepy? (**Wired**)
 - Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives (**Wired**)
 - YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline (**Wired**)
+- Ulta Promo Codes: Up to 50% Off in August 2026 (**Wired**)
 - 15 最佳 Office Chairs of 2026— We Tested 70 to Pick Them (**Wired**)
 - 15 最佳 Office Chairs of 2026—We Tested 70 to Pick Them (**Wired**)
-- 最佳 Organic Mattresses (2026): Certified Nontoxic, Natural Sleep (**Wired**)
-- China’s EV Market Is Booming. There’s Just One Problem (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
