@@ -4,206 +4,212 @@
 
 ---
 
-### 1. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+### 1. [AMD acquires Taalas to boost 推論 performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
 
-- ⭐ 150 分｜💬 28 留言｜👤 theanonymousone
+https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...https:&#x2F;&#x2F;chatjimmy.AI&#x2F;
 
-### 2. [為什麼 Do Fewer Renters Expect to Move?](https://libertystreeteconomics.newyorkfed.org/2026/08/why-do-fewer-renters-expect-to-move/)
+- ⭐ 285 分｜💬 225 留言｜👤 itvision
 
-- ⭐ 25 分｜💬 32 留言｜👤 jnord
+### 2. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
 
-### 3. [如何 Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
+https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o, https:&#x2F;&#x2F;archive.is&#x2F;YDn6S
 
-- ⭐ 247 分｜💬 76 留言｜👤 atan2
+- ⭐ 110 分｜💬 16 留言｜👤 neversaydie
 
-### 4. [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+### 3. [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 
-- ⭐ 365 分｜💬 120 留言｜👤 DarkContinent
+- ⭐ 49 分｜💬 12 留言｜👤 gnabgib
 
-### 5. [Humans missed 1 in 3 threats approving AI 代理 commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
+### 4. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 
-- ⭐ 29 分｜💬 6 留言｜👤 Wirbelwind
+- ⭐ 841 分｜💬 147 留言｜👤 theanonymousone
 
-### 6. [Pareto Front](https://en.wikipedia.org/wiki/Pareto_front)
+### 5. [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
 
-- ⭐ 84 分｜💬 39 留言｜👤 binyu
+- ⭐ 117 分｜💬 79 留言｜👤 collinmanderson
 
-### 7. [Discovery Loop](https://www.discoveryloop.com/)
+### 6. [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
 
-- ⭐ 806 分｜💬 502 留言｜👤 xtreak29
+- ⭐ 154 分｜💬 118 留言｜👤 tsak
 
-### 8. [On non-rooted Android 17, ADB uninstall of 系統 apps fails](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426)
+### 7. [Inside vLLM: Anatomy of a High-Throughput 大型語言模型 推論 系統 (2025)](https://www.aleksagordic.com/blog/vllm)
 
-- ⭐ 127 分｜💬 68 留言｜👤 microtonal
+- ⭐ 31 分｜💬 2 留言｜👤 sebg
 
-### 9. [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
+### 8. [Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks](https://provenmetal.com)
 
-https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;Google-deepmind-demis-hassa...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;Google-shakes-up-AI-leaders...https:&#x2F;&#x2F;www.di
+Hey HN, we’re Will &amp; Johnny from ProvenMetal (https:&#x2F;&#x2F;provenmetal.com). You send us design files or specs and we give you assembled boards domestically in days.The US produced 30% of PCB
 
-- ⭐ 725 分｜💬 779 留言｜👤 colesantiago
+- ⭐ 178 分｜💬 124 留言｜👤 willcarkner
 
-### 10. [Zed DeltaDB](https://zed.dev/deltadb)
+### 9. [Almost no skill required to cook a steak](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
-- ⭐ 466 分｜💬 258 留言｜👤 ahamez
+- ⭐ 259 分｜💬 294 留言｜👤 yusyd
 
-### 11. [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+### 10. [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/)
 
-- ⭐ 326 分｜💬 158 留言｜👤 ExMachina73
+- ⭐ 34 分｜💬 24 留言｜👤 baranul
 
-### 12. [Branchless Rust: Making a Filter 4x Faster by Removing an If](https://www.greyblake.com/blog/branchless-rust/)
+### 11. [GitHub Actions and Pages are experiencing degraded availability](https://www.githubstatus.com/incidents/qcvjkzcs7j74)
 
-- ⭐ 227 分｜💬 70 留言｜👤 greyblake
+https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d
 
-### 13. [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
+- ⭐ 298 分｜💬 253 留言｜👤 Footkerchief
 
-- ⭐ 357 分｜💬 86 留言｜👤 moonikakiss
+### 12. [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)
 
-### 14. [Muse 代碼 and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+- ⭐ 129 分｜💬 89 留言｜👤 tedsanders
 
-- ⭐ 279 分｜💬 177 留言｜👤 paulkrush
+### 13. [Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2](https://github.com/mattdeeds/pokeemerald-rp2350)
 
-### 15. [Born Against, or 為什麼 hobby 程式設計 communities are against 大型語言模型 usage](https://blog.fogus.me/llm/born-against.html)
+Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance&#x27;s video 硬體 is reimplemented in 軟體 
 
-- ⭐ 316 分｜💬 348 留言｜👤 lladnar
+- ⭐ 29 分｜💬 10 留言｜👤 mdeeds
 
-### 16. [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/)
+### 14. [My phone detects going on a run as “someone snatching my phone and running off”](https://mastodon.gamedev.place/@rygorous/117047697255584965)
 
-- ⭐ 595 分｜💬 284 留言｜👤 speckx
+- ⭐ 71 分｜💬 127 留言｜👤 luu
 
-### 17. [Unearthing my 1996 windowed OS in machine 代碼 for Am29000 homebrew computer](https://nanochess.org/the_am29000_computer.html)
+### 15. [Quake – 30th Anniversary 更新](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
 
-- ⭐ 62 分｜💬 4 留言｜👤 nanochess
+- ⭐ 189 分｜💬 84 留言｜👤 dsubburam
 
-### 18. [Join Me in Jamverse](https://contraptions.venkateshrao.com/p/join-me-in-jamverse)
+### 16. [Can you reverse 工程師 an ASIC?](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/)
 
-- ⭐ 6 分｜💬 0 留言｜👤 surprisetalk
+- ⭐ 49 分｜💬 27 留言｜👤 bschne
 
-### 19. [Quantego: A Family of Lego Models of IBM Quantum Computers](https://quantego.org/)
+### 17. [STV: A full-motion video codec for the Atari ST](https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4)
 
-- ⭐ 47 分｜💬 23 留言｜👤 rbanffy
+- ⭐ 9 分｜💬 0 留言｜👤 indyjo
 
-### 20. [Prime 代理: A self-improving RLM 代理](https://www.primeintellect.ai/blog/prime-agent)
+### 18. [Humans missed 1 in 3 threats approving AI 代理 commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
-- ⭐ 199 分｜💬 45 留言｜👤 Xeophon
+- ⭐ 236 分｜💬 185 留言｜👤 Wirbelwind
 
-### 21. [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
+### 19. [Learn how chips are made with this Rollercoaster Tycoon-inspired animation](https://laurentiugabriel.github.io/ChipTycoon/)
 
-- ⭐ 161 分｜💬 34 留言｜👤 pella
+- ⭐ 99 分｜💬 17 留言｜👤 laurentiurad
 
-### 22. [Morioka Shoten](https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten)
+### 20. [Show HN: The Channels SDK – Bring Any 代理 to Any Channel (Slack, MS Teams)](https://github.com/CopilotKit/channels-sdk)
 
-- ⭐ 30 分｜💬 11 留言｜👤 skogstokig
+- ⭐ 79 分｜💬 20 留言｜👤 davidmckayv
 
-### 23. [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data)
+### 21. [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 
-- ⭐ 260 分｜💬 108 留言｜👤 hackerBanana
+- ⭐ 642 分｜💬 200 留言｜👤 DarkContinent
 
-### 24. [GNU Hurd News 2026-Q2](https://www.gnu.org/software/hurd/news/2026-q2.html)
+### 22. [如何 Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
 
-- ⭐ 197 分｜💬 131 留言｜👤 plaguna
+- ⭐ 452 分｜💬 235 留言｜👤 atan2
 
-### 25. [Show HN: demake – one source project compiles to any retro game console ROM](https://geosona.com/demake/)
+### 23. [The simple elegance of the integrated timing belt loopback fastener](https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/)
 
-This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can&#x27;t follow exact 硬體 constraints of pixels and colors.While building this I liked the 
+- ⭐ 91 分｜💬 18 留言｜👤 hasheddan
 
-- ⭐ 8 分｜💬 0 留言｜👤 gste
+### 24. [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)
 
-### 26. [Celld: Self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
+Author here.Background, for anyone who hasn&#x27;t followed this fight: IBM&#x27;s iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship &quot;quantum computers are useful for chemistry now
 
-- ⭐ 239 分｜💬 42 留言｜👤 calvinfo
+- ⭐ 3 分｜💬 0 留言｜👤 purestatelabs
 
-### 27. [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
+### 25. [Qwen3.8 Max now ranked as the 最佳 overall 模型 by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index)
 
-Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production.When prod breaks, it lets Cursor, Claude, and others drop virtual bre
+- ⭐ 395 分｜💬 256 留言｜👤 apitman
 
-- ⭐ 62 分｜💬 43 留言｜👤 shailendraht
+### 26. [Building Progressively Enhanced Forms Using htmx](https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/)
 
-### 28. [Decimen Optical Transfer: fountain-coded QR file transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)
+- ⭐ 49 分｜💬 9 留言｜👤 mpweiher
 
-- ⭐ 40 分｜💬 34 留言｜👤 ksec
+### 27. [Pareto Front](https://en.wikipedia.org/wiki/Pareto_front)
 
-### 29. [I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
+- ⭐ 213 分｜💬 92 留言｜👤 binyu
 
-- ⭐ 386 分｜💬 393 留言｜👤 speckx
+### 28. [Bioengineered chewing gum may offer a way to fight microbes linked to cancers](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
 
-### 30. [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
+- ⭐ 32 分｜💬 0 留言｜👤 Audiophilip
 
-- ⭐ 282 分｜💬 353 留言｜👤 mapping365
+### 29. [Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization](https://arxiv.org/abs/2607.25373)
+
+- ⭐ 8 分｜💬 1 留言｜👤 Jimmc414
+
+### 30. [Federal Communications Commission scraps limit on broadcast TV ownership](https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641)
+
+- ⭐ 121 分｜💬 93 留言｜👤 pseudolus
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)
-- Position: LLMs Can't Jump
-- Discovery of a multicomponent alloy forged by the Hiroshima atomic blast
-- Mars dust is toxic. How will future astronauts deal with it?
-- The Entropy of a Markov Chain
-- The Valley of Webhooks
-- What I love about Django
-- Exact, parallel 2D Delaunay triangulation for int32 coordinates
-- When online commenters detect my art as AI
-- Goodhart's Law Comes for Every Benchmark You Trust
-- Cuprate – an alternative and independent Monero node 軟體 written in Rust
-- Building an Advanced Agentic Harness
-- Aristotle quotes on virtue, knowledge, and happiness
-- Pushing the limits of RISC-V emulation
+- US agency ends 39% household cap on local TV station owners
+- Tiny black holes may be exploding stars across the Milky Way
+- Four simple rules behind Japan's most liveable cities
+- Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86
+- Unearthing my 1996 windowed OS in machine 代碼 for Am29000 homebrew computer
+- State-oriented consistency: 為什麼 we stopped looking for one right answer
+- The Triangle Game, from Zero
+- OpenAI and four rivals just agreed on one standard for AI agents
+- The title cards in Blade Runner are amazing
+- Born Against, or 為什麼 hobby 程式設計 communities are against 大型語言模型 usage
+- Beating GPT-5.6 Sol on retrieval with 100x cheaper open models
+- Poles of Inaccessibility in the San Gabriel Mountains (2015)
+- Astronomers capture highest-resolution image ever of the Sun's surface
+- Muse 代碼 and Muse Spark 1.2
+- Branchless Rust: Making a Filter 4x Faster by Removing an If
+- Zed DeltaDB
 - Let's all meet up in the Y2K
-- 為什麼 Erdős Problems Are Falling to AI
-- Online Friends Are Real Friends
-- France is banning unsolicited telemarketing calls starting next week
-- It's Easier Than Ever to Fly Private Without Your Own Jet
-- “Gravity is worth asking about”
-- The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes
-- Proxmox VE now available for ARM64
-- Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field
-- Painting with Gaussians
-- Sula: A Gemini protocol 伺服器 written in Scryer Prolog
-- The Investors Whose SpaceX Shares Vanished Before They Could Cash In
-- See the Sun like never before with most detailed images yet
-- There Will Come Soft Rains (1950) [pdf]
-- Civilian plane crash in 新 Mexico tied to military GPS blocking
-- What happens if you put work into the second dimension?
-- Show HN: Wallfacer – A terminal session 經理 for Claude 代碼, and more
-- Meta says AI 模型 accessed the internet and hacked another firm
-- I'll be stepping back from leading product for X
-- Stop sending me your errors
-- Phishers are hijacking legitimate 雲端 infrastructure
-- Three Six Mafia – Data about "6/6/6 dating" (2024)
-- Faster Than Ninja
-- A Gallery of Installing from .dmg
-- 新 Keyboard: Alicja v2
-- Truemetrics (YC S23) Is 招聘 in Berlin – GTM Lead
-- Scaling NumPy on Free-Threaded Python
-- IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
-- The Origins of Vintage Comics Part 1
-- Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18
-- Bubble Memory
-- Servers can be backdoored by exploiting buggy motherboard controll
-- Something is changing in the unit economics of 軟體
-- Someone Is Mysteriously Snapping Up Used Books Around the World
-- Shrinking Ruby Hashes
-- What went wrong with data lakes? A 15-year reality check
-- Virginia orders data centers to pay for dedicated 新 electric infrastructure
-- TSON – A JSON superset with immutable, hash-pinned schemas
-- Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
-- Ryg_rans Is Not a Library
-- Energizing a vacuum-tube flip-flop module from a 1948 IBM 系統
-- LLMs reward expertise
-- Month on Vegan Diet Shifts Epigenetic Patterns Assoc with Aging and Inflammation
-- Stateless MCP has recaptured my interest
-- Mistral's Shieldstral: 3B open-weights 模型 for multimodal moderation
+- Atlassian Rovo Exfiltrates Data, Bypassing Controls
+- NVIDIA’s Vera Whitepaper Has a Thread Loose
+- Discovery Loop
+- Goiânia Accident
+- Dress made of living mycelium can renew and repair itself
+- Celld: Self-hosted, distributed Durable Objects
+- OpenAI's latest math breakthroughs commit research misconduct, experts say
+- GNU Hurd News 2026-Q2
+- Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
+- Blasting the Air in Front of Hypersonic Vehicles with Lasers Reduces Drag
+- How Did Rogue Generate Its Random Dungeons?
+- Morioka Shoten
+- Civilians under siege by Mexican cartel fight back with AK-47s, grenades
+- Prime 代理: A self-improving RLM 代理
+- Quantego: A Family of Lego Models of IBM Quantum Computers
+- Join Me in Jamverse
+- Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod
+- I'm switching my phone from Android to Linux
+- xAI, SpaceX, and the Race for AI Buildout
+- Show HN: A terminal glued to the macOS dock
+- Discovery of a multicomponent alloy forged by the Hiroshima atomic blast
+- Bank of America spends $250M a year on GLP-1 drugs for its employees
+- Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)
+- When online commenters detect my art as AI
+- California Town Says Flock Cameras Misread License Plates 71% of the Time
+- The Valley of Webhooks
 - LLMs won't break symmetric crypto
-- Zero-Mem: Zero-Token Memory Operations for 大型語言模型 Agents
-- TIME Is Serving AI Bots a Different Website, with Ads Built In
-- Show HN: Simple algorithm and color space to generate diverse skin tones
-- A requiem for Optane, Intel's KV cache killer that could have lowered RAM prices
-- Smalltalk Report from 1991 to 1996
-- Birduino: A card-triggered audio player for [learning] the birds
-- Xbox goes down. You can't play games you own on disc
-- The Lisp Machine: Your Next Step in Computing
-- The Law of Jante (2015)
-- Video2NAND – Abusing video codecs for great computational power
+- The Entropy of a Markov Chain
+- What Happened to Talenti?
+- The 11 Types of Washington, DC, Metro Station Architecture (2018)
+- Cloudflare OS: an open platform for agents, apps, and work
+- On non-rooted Android 17, ADB uninstall of 系統 apps fails
+- “Gravity is worth asking about”
+- Building an Advanced Agentic Harness
+- 為什麼 Erdős Problems Are Falling to AI
+- There Will Come Soft Rains (1950) [pdf]
+- Exact, parallel 2D Delaunay triangulation for int32 coordinates
+- US beef prices have soared but farmers aren't making more money
+- Aristotle quotes on virtue, knowledge, and happiness
+- Goodhart's Law Comes for Every Benchmark You Trust
+- Designing a query 系統 for a Rust compiler
+- Online Friends Are Real Friends
+- Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field
+- "not a single vulnerability was found by a US frontier 模型."
+- Painting with Gaussians
+- Show HN: I spent 2 years designing a mechanical Magic Keyboard
+- Truemetrics (YC S23) Is 招聘 in Berlin – GTM Lead
+- Proxmox VE now available for ARM64
+- France is banning unsolicited telemarketing calls starting next week
+- Pushing the limits of RISC-V emulation
+- Civilian plane crash in 新 Mexico tied to military GPS blocking
+- The OpenAI–Hugging Face Incident [video]
+- Cuprate – an alternative and independent Monero node 軟體 written in Rust
 
 
 ---
