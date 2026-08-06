@@ -4,191 +4,190 @@
 
 ---
 
-### 1. [Anthropic成立自研晶片團隊，為Claude設計AI晶片](https://www.ithome.com.tw/news/177902)
+### 1. [NPM套件Keyv供應鏈攻擊活動ChainDrop傳出源自於Shai-Hulud](https://www.ithome.com.tw/news/177937)
+
+NPM套件keyv於8月4日遭入侵，導致4小時內有444個套件被污染、攻擊者上架2,212個惡意版本，多家資安公司指出，這次攻擊者使用的蠕蟲程式ChainDrop，證明這起資安事故是大規模供應鏈攻擊Shai-Hulud的一部分。
+
+- 📰 **iThome 科技**
+
+### 2. [刑事局：拆解AI詐騙心理陷阱，從「零信任」到「數位免疫」](https://www.ithome.com.tw/news/177936)
+
+今年稍早，新北市三峽一名員警於執勤中不幸殉職，社群平臺隨即出現一則呼籲外界捐款慰問家屬的貼文，附上員警本人的銀行帳戶。警政署刑事警察局預防科科長莊明雄看到消息，第一時間便準備匯款，甚至動用了連妻子都不知情的私房錢。
+妻子得知後質問他：「你當過科長，怎麼會蠢到看到臉書貼帳號就匯錢？」這句話讓莊明雄整整緊張了兩個小時。一直到新聞證實，那則募款貼文其實是殉職員警的妻子用先生帳號發布，並非詐騙，他才鬆一口氣。
+莊明雄坦言，那兩小時裡，他一直在想：「我是不是真的被騙了」。連執法者都可能在情緒衝動下失去戒心，一般民眾面對設計精密的話術，處境可想而知。
+
+- 📰 **iThome 科技**
+
+### 3. [Uptime調查：AI重新定義資料中心永續，能源、散熱與供電成新挑戰](https://www.ithome.com.tw/news/177932)
+
+生成式AI快速普及，正在改變資料中心的設計與營運模式，也重新定義資料中心的永續課題。
+
+- 📰 **iThome 科技**
+
+### 4. [多代理工具Kiro Crew開源，Amazon內部已有逾3.9萬人採用](https://www.ithome.com.tw/news/177933)
+
+AWS宣布，將內部專案MeshClaw改名為Kiro Crew並開源。Kiro Crew可讓多個AI代理跨不同工作階段持續處理開發任務，並保存任務狀態、排程、專案脈絡與修正紀錄，即使開發者暫時離開，工作也能依設定繼續進行。
+Kiro Crew最初由3名Amazon工程人員自行開發，目的是減少人員必須持續盯著AI執行工作的情況。官方表示，專案在不到6個月內已獲逾39,000名Amazon內部人員採用，近500名貢獻者共完成597項更新，促使團隊決定對外開源。
+
+- 📰 **iThome 科技**
+
+### 5. [Meta推出Muse 代碼程式代理人，以低價挑戰Claude 代碼與Codex](https://www.ithome.com.tw/news/177934)
+
+Meta周三（8/5）推出新版AI模型Muse Spark 1.2及由其驅動的Muse 代碼測試版。Muse Spark 1.2強化程式碼生成、複雜除錯及程式碼庫理解能力；Muse 代碼則是在終端機中運作的AI程式代理人，可處理大型程式碼儲存庫中的完整軟體工程任務，包括規畫修改、撰寫程式碼及驗證結果。
+
+- 📰 **iThome 科技**
+
+### 6. [剖析NPM套件Keyv遭供應鏈攻擊ChainDrop，微軟揭露惡意程式完整運作流程](https://www.ithome.com.tw/news/177929)
+
+8月4日熱門JavaScript套件keyv遭遇供應鏈攻擊，駭客入侵維護者Jared Wray的GitHub帳號，取得此開發人員所有專案的修改與發布權限，並將蠕蟲植入多個NPM套件並導致橫向感染，最終污染套件總數達444個、攻擊者發布多達2,212個版本惡意套件，此事引起許多資安公司與研究團隊關注及提出警告，並命名為ChainDrop，其中，
+
+- 📰 **iThome 科技**
+
+### 7. [Deno開源celld專案，將Durable Objects有狀態運算帶到自有伺服器](https://www.ithome.com.tw/news/177925)
+
+Deno在GitHub開源分散式執行環境celld，讓開發者可在自行架設的伺服器上執行落在celld相容範圍內的Cloudflare Workers與Durable Objects應用程式。celld試圖把原本只能在Cloudflare平臺使用的有狀態運算架構帶到自有環境，提供企業與開發者額外部署選擇。
+
+- 📰 **iThome 科技**
+
+### 8. [StatCounter統計顯示Linux北美桌機使用占比突破10%](https://www.ithome.com.tw/news/177924)
+
+北美有愈來愈多PC執行Linux作業系統，市調公司StatCounter一項研究顯示，Linux在��機作業系統市場市占率突破10%。
+StatCounter根據合作網站的瀏覽流量及瀏覽器User-代理，推估造訪裝置採用的作業系統，北美市場中，執行Linux作業系統的桌機比例在2026年7月來到10.61%，相較之下，Linux平臺長期市占約在5%以下。
+
+- 📰 **iThome 科技**
+
+### 9. [iCloud私密轉送恐暴露DNS查詢路徑或真實IP位址，WebKit三功能可繞過代理設定](https://www.ithome.com.tw/news/177913)
+
+隱私研究團隊Mysk揭露，開源瀏覽器引擎WebKit的DNS預先解析、WebAuthn關聯來源請求及WebTransport功能，可能繞過瀏覽器設定的代理伺服器，直接從裝置發出網路請求。網站因此可能得知使用者採用的DNS服務，甚至取得真實IP位址。
+
+- 📰 **iThome 科技**
+
+### 10. [Google DeepMind執行長Hassabis轉任Alphabet首席科學家](https://www.ithome.com.tw/news/177919)
+
+Google暨Alphabet執行長Sundar Pichai周三（8/5）宣布，Google DeepMind執行長Demis Hassabis將卸下日常營運職責，轉任Google DeepMind董事長及Alphabet首席科學家，專注於人工通用智慧（AGI）與科學研究的長期戰略。Google未任命新執行長，日常營運將由升任資深副總裁的Koray Kavukcuoglu接掌。
+
+- 📰 **iThome 科技**
+
+### 11. [Veeam修補多租戶管理平臺Service Provider Console多個重大漏洞](https://www.ithome.com.tw/news/177918)
+
+備份與資料保護軟體廠商Veeam近日除了修補Veeam ONE監控管理平臺外，也於8月4日同步發布Veeam Service Provider Console（VSPC）9.3版，修補9.x版的4個漏洞，所有9.2.1.33875以前版本都受影響，由於VSPC主要供託管服務供應商（MSP）集中管理多租戶的Veeam備份環境、代理程式及客戶端部署，一旦遭到入侵，可能影響受管理的備份基礎架構，建議用戶儘速更新至已修補的9.3.0.35057版。
+
+- 📰 **iThome 科技**
+
+### 12. [A10併購TrojAI，布局AI紅隊測試與執行階段防護](https://www.ithome.com.tw/news/177917)
+
+應用交付與網路安全業者A10 Networks今年6月完成併購AI安全業者TrojAI，藉此補強AI系統上線前的紅隊測試，以及正式運作後的執行階段防護能力。
+
+- 📰 **iThome 科技**
+
+### 13. [美國警告TeamCity重大漏洞遭積極利用](https://www.ithome.com.tw/news/177916)
+
+在證實IBM Langflow、N-central、Apache Tomcat資安漏洞遭到積極利用後，8月5日美國網路安全與基礎設施安全局（CISA）再度提出警告，有另一個公布不久的資安漏洞也出現遭到積極利用的現象，聯邦機構必須限期採取行動因應。
+
+- 📰 **iThome 科技**
+
+### 14. [AI不是資安的未來，是資安的進行式](https://www.ithome.com.tw/news/177915)
+
+美國AI模型業者Anthropic先前推出新版的AI模型Fable 5，因能力被形容超越該公司過往公開推出的任何模型，尤其擅長辨識軟體漏洞，一度引發外界高度關注；美國政府甚至宣稱，在該模型中找到可繞過安全限制的漏洞；並以國家安全為由，禁止任何非美國國民使用這個模型，範圍甚至涵蓋 Anthropic本身的非美籍員工。對此，戴夫寇爾（DEVCORE）執行長翁浩正則在一場媒體記者會中坦言，「AI發展迄今，早已不是資安的未來，而是資安的現在進行式。」
+翁浩正以一則親身經歷的小故事作為回應。他有一位在國外擔任資安主管的朋友，因整個公司上下，包含老闆與董事會，對這類新一代模型的能力感到高度恐慌，甚至提議成
+
+- 📰 **iThome 科技**
+
+### 15. [Google 雲端金鑰管理服務正式支援NIST後量子密碼標準](https://www.ithome.com.tw/news/177914)
+
+雲端服務業者Google 雲端宣布，旗下金鑰管理服務雲端 Key Management Service（雲端 KMS）正式支援模組格基式金鑰封裝機制（ML-KEM），以及量子安全數位簽章，企業可直接透過雲端 KMS使用美國國家標���暨技術研究院（NIST）制定的抗量子密碼演算法，推動後量子密碼學（PQC）轉型。
+
+- 📰 **iThome 科技**
+
+### 16. [Cloudflare開源企業AI代理人工作平臺Cloudflare OS](https://www.ithome.com.tw/news/177912)
+
+Cloudflare本週公布並開源企業AI代理人工作平臺Cloudflare OS，讓非技術背景的員工也能開發與部署代理人，加速完成簡報、研究或報表等商務工作。
+
+- 📰 **iThome 科技**
+
+### 17. [Google首席科學家Jeff Dean離職，攜手技術元老成立AI新創Discovery Loop](https://www.ithome.com.tw/news/177911)
+
+Google首席科學家Jeff Dean周三（8/5）宣布，將離開任職27年的Google，與Sanjay Ghemawat、Oriol Vinyals及Quoc Le共同創立AI新創Discovery Loop。新公司採用公益公司（Public Benefit Corporation，PBC）架構，將利用AI自動進行科學與工程實驗。Google母公司Alphabet也是Discovery Loop的創始投資人，Google則將擔任��端合作夥伴。
+
+- 📰 **iThome 科技**
+
+### 18. [Veeam修補Veeam ONE監控平臺滿分重大漏洞，若未更新可能導致遠端執行程式碼攻擊](https://www.ithome.com.tw/news/177910)
+
+備份與資料保護軟體廠商Veeam於8月4日發布資安公告，揭露旗下產品Veeam One的6個漏洞，所有13.0.2.6723以前的13.0版都受影響，由於Veeam ONE是用於監控、分析及管理虛擬化與備份環境的平臺，一旦遭到入侵，可能危及企業備份與虛擬化管理環境，建議用戶儘速更新至已修補的13.1.0.7034版。
+
+- 📰 **iThome 科技**
+
+### 19. [JetBrains修補CI/CD平臺TeamCity重大漏洞](https://www.ithome.com.tw/news/177909)
+
+7月27日開發工具供應商JetBrains發布資安公告，他們在CI/CD平臺TeamCity發現重大等級的資安漏洞CVE-2026-63077，一旦遭到利用，攻擊者可在未經身分驗證的情況下，透過HTTP或HTTPS連線存取TeamCity伺服器，繞過身分��證檢查並執行任意作業系統指令，影響所有本地建置（On-Premises）版TeamCity執行個體，雲端版TeamCity 雲端該公司已實作必要措施。
+
+- 📰 **iThome 科技**
+
+### 20. [CISA警告IBM Langflow、N-central、Apache Tomcat漏洞遭到利用](https://www.ithome.com.tw/news/177908)
+
+美國網路安全與基礎設施安全局（CISA）於8月4日發布警告，表示他們已掌握有3個資安漏洞遭積極利用的證據，將其列入已遭利用漏洞名單（KEV），其中最受到關注的部分，是N-able幾天前緊急修補的遠端監控與管理（RMM）平臺N-central高風險漏洞CVE-2026-18577，
+
+- 📰 **iThome 科技**
+
+### 21. [應用程式安全業者Aikido併購Root，強化開源軟體與容器漏洞修復能力](https://www.ithome.com.tw/news/177907)
+
+應用程式安全業者Aikido於6月30日宣布併購開源軟體及容器漏洞修復業者Root，並將其技術整合至自家安全平臺。雙方���2025年起便已展開產品合作，此次交易則進一步納入Root的技術與團隊。
+Aikido指出，開源軟體已廣泛用於各類應用程式，但企業發現套件漏洞後，通常只能升級至新版本、改用受特定廠商限制的替代方案，或持續使用存在漏洞的軟體。版本升級不僅可能造成相依套件衝突，也可能導入其他變更或新的漏洞，甚至影響正式環境。
+
+- 📰 **iThome 科技**
+
+### 22. [Red Hat攜手微軟、NVIDIA成立asago開源專案，協助AI治理政策落實至正式環境](https://www.ithome.com.tw/news/177906)
+
+IBM旗下企業開源軟體業者Red Hat（紅帽）宣布成立AI安全與治理協調（AI Safety And Governance Orchestration）開源社群專案asago，協助企業將AI治理政策落實到正式環境。
+
+- 📰 **iThome 科技**
+
+### 23. [金屬機構件廠州巧及3家子公司遭駭，部分資訊系統停擺](https://www.ithome.com.tw/news/177904)
+
+8月5日下午上市公司金屬機構件廠州巧（3543）於股市公開資訊觀測站發布重大訊息，該公司與旗下子公司蘇州州巧、廈門州巧，以及越南州巧，部分資訊系統遭駭客入侵，導致相關系統無法使用。州巧已啟動資安應變機制，並與外部資安專家合作處理事件，根據初步評估，對整體營運並無重大影響。
+
+- 📰 **iThome 科技**
+
+### 24. [開放安全AI聯盟提出AI事件共享指引SAFE草案](https://www.ithome.com.tw/news/177903)
+
+由NVIDIA領軍的開放安全AI聯盟（Open Secure AI Alliance）於8月4日Black Hat USA大會開幕之際宣布，已提出共享AI發現交換（Shared AI Findings Exchange，SAFE）草案，希望建立AI代理系統資安事件與調查發現的共享機制。
+
+- 📰 **iThome 科技**
+
+### 25. [Anthropic成立自研晶片團隊，為Claude設計AI晶片](https://www.ithome.com.tw/news/177902)
 
 AI新創Anthropic周三（8/5）向Business Insider及路透社證實，正在成立內部客製化晶片團隊，將為Claude設計AI晶片，這也是該公司首度公開確認自研晶片計畫。
 
 - 📰 **iThome 科技**
 
-### 2. [NVIDIA自駕模型家族Alpamayo全面開放商用](https://www.ithome.com.tw/news/177901)
+### 26. [NVIDIA自駕模型家族Alpamayo全面開放商用](https://www.ithome.com.tw/news/177901)
 
 NVIDIA正式開放Alpamayo 2 Super自駕模型商用，並將OpenMDW-1.1授權擴大至整個Alpamayo模型家族。自駕車開發商、車廠及零組件供應商可使用自有資料調整模型、建立衍生版本，並將修改後的模型用於商業產品。
 
 - 📰 **iThome 科技**
 
-### 3. [邁向機器速度防禦！趨勢科技攜手Anthropic、NVIDIA、AWS於黑帽大會AI Summit直指核心挑戰，聯防重要性更勝於以往](https://www.ithome.com.tw/news/177897)
+### 27. [邁向機器速度防禦！趨勢科技攜手Anthropic、NVIDIA、AWS於黑帽大會AI Summit直指核心挑戰，聯防重要性更勝於以往](https://www.ithome.com.tw/news/177897)
 
-【拉斯維加斯直擊】當AI代理（AI 代理）時代到來與Mythos等先進AI模型相繼問世，各國政府與企業組織皆��度關注資安局勢演變。如何邁向「機器速度防禦」，已成為當前最核心的資安議題。
+【拉斯維加斯直擊】當AI代理（AI 代理）時代到來與Mythos等先進AI模型相繼問世，各國政府與企業組織皆高度關注資安局勢演變。如何邁向「機器速度防禦」，已成為當前最核心的資安議題。
 在黑帽大會（Black Hat）主題演說前一日的AI Summit現場，近年積極推動AI資安的趨勢科技（Trend Micro）成為焦點。該公司不僅在媒體專訪闡釋企業推動AI-Native（AI原生）組織重構的重要性，更在大會專題演說邀請Anthropic、NVIDIA與AWS等科技巨頭的專家同臺，揭露跨領域生態圈聯防的必要，共同剖析2026年邁向機器速度防禦的最新趨勢。
 
 - 📰 **iThome 科技**
 
-### 4. [歐洲刑警組織聯手9國執法單位，要求清除逾4,300個涉及極端主義與犯罪內容的網址](https://www.ithome.com.tw/news/177900)
+### 28. [歐洲刑警組織聯手9國執法單位，要求清除逾4,300個涉及極端主義與犯罪內容的網址](https://www.ithome.com.tw/news/177900)
 
 歐洲刑警組織（Europol）近日聯手比利時、芬蘭、匈牙利、愛爾蘭、盧森堡、荷蘭、葡萄牙、西班牙與瑞典等9國執法單位，展開針對暴力極端網路The Com的Referral Action Days行動，於6月至7月間標記4,340個涉及The Com內容的網址，要求相關網路服務業者移除，以限制該網路的暴力與犯罪內容傳播。
 
 - 📰 **iThome 科技**
 
-### 5. [AWS基礎模型服務Bedrock內建網路搜尋，模型可查詢近期資料並附來源](https://www.ithome.com.tw/news/177898)
+### 29. [AWS基礎模型服務Bedrock內建網路搜尋，模型可查詢近期資料並附來源](https://www.ithome.com.tw/news/177898)
 
 AWS基礎模型服務Amazon Bedrock正式提供網頁 Search網路搜尋功能。開發者可透過Amazon Bedrock提供、與OpenAI相容的Responses API介面，由Bedrock替模型查詢Amazon維護的網頁索引與知識圖譜，再根據取得的資料產生附有來源的答案，不必另外串接第三方搜尋服務。
 
 - 📰 **iThome 科技**
 
-### 6. [瑞士聯邦資訊技術與通訊辦公室遭駭，疑因SharePoint漏洞所致](https://www.ithome.com.tw/news/177896)
+### 30. [瑞士聯邦資訊技術與通訊辦公室遭駭，疑因SharePoint漏洞所致](https://www.ithome.com.tw/news/177896)
 
 美國網路安全與基礎設施安全局（CISA）於微軟發布7月例行更新（Patch Tuesday）的同一天，警告新一波鎖定SharePoint資安漏洞的攻擊活動，當天微軟修補的漏洞，CISA證實已有CVE-2026-56164、CVE-2026-58644、
-
-- 📰 **iThome 科技**
-
-### 7. [77個惡意套件出現在Open VSX，企圖竊取開發者資訊](https://www.ithome.com.tw/news/177895)
-
-資安公司Manifold指出，他們在7月26日至8月1日，偵測到77個有問題的Open VSX套件，這些冒牌套件的手法一致，複製真實擴充功能的名稱、命名空間（namespace）與說明文字，並設置極低的版本號（0.0.1），以與正牌套件作者無關的帳號上架，其共通點是都會連回一個全新註冊的網域mangorbit[.]com，因此研判是相同的攻擊者發布。由於這些套件大致可分成兩種，Manifold命名本次攻擊為Evil Twin，經通報後這些套件在8月3日已全數下架。
-
-- 📰 **iThome 科技**
-
-### 8. [政院編列2027年科技預算1,823億元創新高，加碼主權AI、算力基礎建設與推動智慧國家2.0](https://www.ithome.com.tw/news/177892)
-
-行政院完成編列2027年中央政府總預算案，國科會宣布明年我國編列的科技預算（不含國防）為1,823億元，較2026年度約1,665億元增加約158億元，成��幅度為9.47%，科技預算創下歷史新高。
-在全球AI競爭與地緣政治持續升溫下，行政院希望透過擴大科技投資，持續強化臺灣在半導體、AI及前瞻科技競爭力，並且推動「智慧國家2.0」，來加速AI應用落地至各行各業。
-國科會指出，2027年科技預算將以「打造智慧國家2.0」為核心，其中最大的新增投資方向是主權AI算力與AI基礎建設，希望建立自主AI運算能力，並結合科技產業優勢，協助中小微企業AI化及數位轉型，擴大AI應用至政府治理、產業及民生領域
-
-- 📰 **iThome 科技**
-
-### 9. [針對6月發生的資安事故，尼得科超眾表示尚未發現資料外流的跡象](https://www.ithome.com.tw/news/177890)
-
-6月下旬散熱模組廠尼得科超眾（6230）表示部分伺服器遭勒索軟體攻擊，導致ERP等部分資訊系統無法正常運作，日本母公司尼得科（原日本電產）也證實此事，並表示尼得科超眾的網路系統建置並獨立於集團之外，母公司與集團其他公司未受波及，6月底勒索軟體Blackfield聲稱這起事故是他們所為，竊得2 TB內部資料。本週尼得科超眾公告資料外洩的影響範圍。
-
-- 📰 **iThome 科技**
-
-### 10. [Cursor開源MoE訓練核心MoK，Composer模型訓練吞吐量提升41%](https://www.ithome.com.tw/news/177889)
-
-Cursor開源混合專家模型訓練核心Mixture-of-Kittens（MoK），用來改善混合專家模型在多顆GPU之間傳輸資料時的通訊瓶頸。Cursor表示，MoK已用於訓練旗下程式開發模型Composer，在512顆GPU、橫跨數座GB300 NVL72機櫃的內部訓練測試中，每顆GPU每秒處理的token數由760.9增至1,070.2，整體訓練吞吐量提升約41%。
-
-- 📰 **iThome 科技**
-
-### 11. [【資安日報】8月5日，熱門NPM套件keyv遭植入竊密蠕蟲，至少400個套件受感染](https://www.ithome.com.tw/news/177888)
-
-本日新聞焦點
-● 熱門NPM套件keyv遭植入竊密蠕蟲，至少400個套件遭感染
-● Hugging Face程式庫Diffusers存在執行任意程式碼漏洞
-● 網站主機管理平臺cPanel存在允許攻擊者執行SQL指令的重大漏洞
-
-- 📰 **iThome 科技**
-
-### 12. [Bending Spoons以12.85億美元併購Airtable，估值較高峰縮水逾8成](https://www.ithome.com.tw/news/177887)
-
-義大利軟體公司Bending Spoons周二（8/4）宣布，將以現金收購企業協作平臺Airtable，企業價值（Enterprise Value）為12.85億美元；計入Airtable目前持有的淨現金後，股權價值約22.5億美元。交易仍須取得監管機關批准，預計今年底前完成。
-
-- 📰 **iThome 科技**
-
-### 13. [Cloudflare公布可程式化錢包Cloudflare Wallets服務](https://www.ithome.com.tw/news/177886)
-
-Cloudflare本周發表可程式化錢包服務Wallets服務，可讓AI代理人自動執行付費，購買API、服務、工具或內容。
-Cloudflare指出，現有AI代理人欠缺登入的穩定識別，也無法原生支付，往往碰到要註冊、API金鑰生成及付費時全部都要人類動手，以致於���難流暢取得API及工具，也限制了代理人效能及代理人經濟。
-
-- 📰 **iThome 科技**
-
-### 14. [Mistral開放Shieldstral 3B多模態安全分類模型，審核政策可隨使用情境調整](https://www.ithome.com.tw/news/177884)
-
-法國AI業者Mistral發布約30億參數的Shieldstral多模態安全分類模型，能同時檢查文字、圖片及圖文混合內容。開發者可在模型執行判斷時，以自然語言指定審核規則，不必替不同產品或使用情境重新訓練模型。模型權重採Apache 2.0授權開放，可下載後自行部署。
-傳統安全分類模型通常在訓練時，就固定暴力、仇恨或色情等風險類別，Shieldstral則讓使用者在每次送出內容時，說明審核情境與嚴格程度，再提出是非題，例如某張圖片是否適合未成年人觀看，或某段文字是否鼓吹針對特定群體的暴力。
-
-- 📰 **iThome 科技**
-
-### 15. [TP-Link修補Omada設備7項軟體漏洞，用戶若置之不理，���能造成通訊、憑證曝險](https://www.ithome.com.tw/news/177885)
-
-TP-Link本週發布安全更新，修補中小企業網路交換器設備Omada系列的7項漏洞，這些漏洞若不處理，可讓攻擊者存取通訊內容、憑證或裝置環境。
-
-- 📰 **iThome 科技**
-
-### 16. [波蘭連鎖便利商店Żabka遭駭，原因是攻擊者透過第三方帳號入侵](https://www.ithome.com.tw/news/177883)
-
-8月4日波蘭大型連鎖便利商店Żabka發布資安公告，表示他們於上週末偵測到未經授權的活動，攻擊者存取了用於加盟總部與加盟商之間資訊交換的技術資源，事件發生在外部服務供應商的帳號，該公司在事件揭露48小時內向當地的個人資料保護辦公室通報，後續他們也通知執法機關，並與CERT Polska合作。Żabka強調，交易資料、消費者服務、Żabka應用程式、營運活動資料未受影響。
-
-- 📰 **iThome 科技**
-
-### 17. [研究人員揭露AI蠕蟲攻擊新手法，透過Word中的隱藏提示可誘導Microsoft Copilot自我傳播](https://www.ithome.com.tw/news/177882)
-
-研究人員Håkon Måløy近日揭露針對Microsoft Copilot for Word的AI蠕蟲攻擊方式，攻擊者可將惡意提示隱藏在Word檔案中，誘使Copilot執行指令並將相同提示寫入新產生的檔案，使惡意提示隨著檔案分享流程持續傳播，而不需要使用傳統惡意程式或巨集。
-
-- 📰 **iThome 科技**
-
-### 18. [網站主機管理平臺cPanel存在重大漏洞，攻擊者可透過資料庫root權限執行SQL指令](https://www.ithome.com.tw/news/177881)
-
-最近兩到三個月鎖定網站主機管理平臺cPanel的攻擊行動不斷發生，該公司一旦修補嚴重漏洞，都會成為外界關注的焦點。
-
-- 📰 **iThome 科技**
-
-### 19. [NuGet將API金鑰效期縮至30天，11月起既有金鑰全面失效](https://www.ithome.com.tw/news/177878)
-
-微軟套件管理平臺NuGet團隊宣布，自2026年8月17日起，NuGet.org新建立的API金鑰最長效期將由365天縮短為30天，所有在此日期前建立的既有金鑰則會於11月1日失效。使用API金鑰透過CI/CD流程發布NuGet套件的維護者，應提前檢查自動化設定，以免金鑰到期造成套件發布中斷。
-
-- 📰 **iThome 科技**
-
-### 20. [英國AISI測試AI代理人，模型自行鎖定真人並企圖植入惡意程式碼](https://www.ithome.com.tw/news/177880)
-
-英國AI安全研究所（AISI）週二（8/4）公布資安事件報告，表示該機構測試7款AI模型的網路攻擊能力時，Anthropic的Mythos 5與OpenAI的GPT-5.6 Sol曾超出授權範圍，自行在真實網路上鎖定個人及組織，其中一個代理人更企圖將惡意程式碼植入開源專案。
-
-- 📰 **iThome 科技**
-
-### 21. [美國銀行擬併購英國資安業者MDSec，強化網路防禦](https://www.ithome.com.tw/news/177879)
-
-全球大型金融機構美國銀行（Bank of America）於7月30日宣布，計畫併購英國資訊安全顧問業者MDSec，藉此強化其在英國及全球的網路安全能力。交易仍須取得監管機關核准，預計於2026年第4季完成。
-
-- 📰 **iThome 科技**
-
-### 22. [pgAdmin 4新版本修補7個漏洞，含3個重大漏洞](https://www.ithome.com.tw/news/177877)
-
-開源PostgreSQL資料庫管理工具pgAdmin 4於7月31日發布9.17版，修補7個漏洞，其中最嚴重的是CVE-2026-17349、CVE-2026-17351與CVE-2026-17566，這3個都是CVSS評分超過9.0的重大漏洞。
-
-- 📰 **iThome 科技**
-
-### 23. [Cyera擬以10億美元併購Oasis 安全，擴大AI代理與非人類身分治理](https://www.ithome.com.tw/news/177876)
-
-非人類身分（Non-Human Identity，NHI）數量快速增加，促使傳統以員工帳號為核心的管理方式面臨挑戰，相關治理需求也成為資安市場的新焦點。資料安全業者Cyera宣布計畫收購NHI安全業者Oasis 安全的消息，雙方已簽署併購意向書。
-
-- 📰 **iThome 科技**
-
-### 24. [Accenture逾41億美元布局OT資安，從顧問服務跨入軟體市場](https://www.ithome.com.tw/news/177875)
-
-全球管理顧問與科技服務業者Accenture正擴大其資安業務的布局，並將業務版圖延伸至營運技術（OT）資安軟體市場。
-
-- 📰 **iThome 科技**
-
-### 25. [韓國電信業者KT內控疏失釀個資外洩，遭罰近540億韓元](https://www.ithome.com.tw/news/177874)
-
-韓國三大電信業者之一KT於2025年9月接連傳出用戶手機門號遭冒用進行小額付款。韓國個人資料保護委員會（PIPC）根據受害案例及媒體報導，察覺可能發生個人資料外洩，並於9月10日主動展開調查。
-
-- 📰 **iThome 科技**
-
-### 26. [SpaceX第二季AI營收成長247%，雲端算力開始大規模變現](https://www.ithome.com.tw/news/177873)
-
-SpaceX周二（8/4）公布上市後首份財報，第二季營收比去年同期成長92%至78.14億美元，淨損（Net Loss）由10.08億美元縮小至5.41億美元。其中，AI事業營收成長247%至25.61億美元，主要受惠於向其他業者提供運算容量，顯示SpaceX的AI基礎設施已開始透過雲端服務合約大規模變現。
-
-- 📰 **iThome 科技**
-
-### 27. [柬埔寨詐騙集團濫用ChatGPT從事多種網路犯罪活動](https://www.ithome.com.tw/news/177872)
-
-7月31日OpenAI宣布，該公司破獲柬埔寨詐騙集團濫用ChatGPT的案件，該集團極可能發跡自柬埔寨，並在以詐騙園區聞名的邊境城市班達棉吉省（Banteay Meanchey Province）波別市（Poipet）活動，利用ChatGPT從事投資詐騙、感情詐騙、線上博弈詐騙，以及假冒執法人員詐騙等多種網路犯罪行為，其中部分使用者留下的內容，顯示該集團與人口販運及強迫勞動���關。OpenAI封鎖相關帳號，並將威脅指標分享給產業夥伴與執法機關。
-
-- 📰 **iThome 科技**
-
-### 28. [熱門NPM套件keyv遭植入竊密蠕蟲，至少400個套件受感染](https://www.ithome.com.tw/news/177871)
-
-資安業者StepSecurity週二（8/4）揭露，熱門JavaScript套件keyv維護者Jared Wray的GitHub帳號遭到入侵，駭客因而取得他所管理專案的修改及發布權限，將竊密蠕蟲植入11個NPM套件。惡意程式隨後竊取其他開發者的發布憑證，不到4小時便進一步感染433個套件，使受污染套件總數達444個，涉及2,212個惡意版本及超過14個組織。
-
-- 📰 **iThome 科技**
-
-### 29. [網頁開發框架Next.js 16.3正式版強化即時導覽，新增工具找出頁面切換延遲](https://www.ithome.com.tw/news/177870)
-
-Vercel發布網頁應用程式開發框架Next.js 16.3正式版，重點加入可選用的即時導覽（Instant Navigations）功能，透過���先準備載入畫面、控制頁面內容的預先載入範圍，以及檢查切換速度的開發工具，減少使用者點選連結後等待內容出現的情況。
-
-- 📰 **iThome 科技**
-
-### 30. [Chrome 151補上單頁網站效能監測缺口，可分開量測各網址核心網頁指標](https://www.ithome.com.tw/news/177865)
-
-Google Chrome 151穩定版新增軟導覽（Soft Navigation）與互動內容繪製兩類效能紀錄，讓開發者可依單頁應用程式中的各次軟導覽，分別量測內容顯示、操作反應與版面穩定性，避免效能資料全都歸在使用者最初開啟的網址下。
 
 - 📰 **iThome 科技**
 
@@ -196,9 +195,24 @@ Google Chrome 151穩定版新增軟導覽（Soft Navigation）與互動內容繪
 
 ### 更多 AI 新聞 (70則)
 
+- Hungryroot Coupon Codes: 30% Off This August (**Wired**)
+- Govee Discount Codes and Deals: 30% Off (**Wired**)
+- 20% Off Brooks Promo 代碼 | August 2026 (**Wired**)
+- NZXT Discount Codes: 50% Off in August 2026 (**Wired**)
+- Norton Coupon Codes: Up to 58% Off (**Wired**)
+- HBO Max Promo 代碼: 50% Off | August 2026 (**Wired**)
+- Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans (**Wired**)
+- Sealy Promo Codes: $100 Off (**Wired**)
+- Coleman Promo Codes and Deals: Up to 75% Off in August 2026 (**Wired**)
+- Groupon Promo Codes: 60% Off in August 2026 (**Wired**)
+- Whoop Promo Codes: 20% Off This August 2026 (**Wired**)
+- Home Chef Promo Codes for August 2026 (**Wired**)
+- 30% Off Tempur-Pedic Promo Codes | August 2026 (**Wired**)
+- Barkbox Promo Codes and Discounts: Up to 50% Off (**Wired**)
+- Stearns and Foster Promo Codes: $300 Off in August 2026 (**Wired**)
 - OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree (**Wired**)
-- OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts (**Wired**)
 - A 安全 Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide (**Wired**)
+- OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts (**Wired**)
 - Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon (**Wired**)
 - The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting (**Wired**)
 - DHS Wants Protesters’ Signal Group Chats (**Wired**)
@@ -231,21 +245,6 @@ Google Chrome 151穩定版新增軟導覽（Soft Navigation）與互動內容繪
 - Dermstore Coupons: 25% Off for August 2026 (**Wired**)
 - KitchenAid Promo Codes: Save Up to 20% (**Wired**)
 - Purple Promo Codes and Deals: Up to 30% Off (**Wired**)
-- Tuft &amp; Needle Promo Codes: 30% Off | August 2026 (**Wired**)
-- Vitamix Promo Codes and Deals: $25 Off + Free Shipping (**Wired**)
-- OK, Well, Rogue AI Agents Are Hacking Again (**Wired**)
-- The White House Is Keeping Its AI Cybersecurity Framework Secret (**Wired**)
-- Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal (**Wired**)
-- The 最佳 Gaming Mouse You Can Buy After Testing Dozens of Models (**Wired**)
-- Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat (**Wired**)
-- The 最佳 Cordless Vacuums (2026): My Brand-新 熱門 Pick (**Wired**)
-- Is This Poker Player Bluffing? The AI Thinks So (**Wired**)
-- How One Startup Built a (Mostly) China-Free Robot (**Wired**)
-- ‘Everyone Is Doing It’: The Truth About AI in Hollywood (**Wired**)
-- How Data Centers Broke American Politics (**Wired**)
-- The Real Story Behind the 2018 Google Walkout (**Wired**)
-- Mistral Is in the Right Place at the Right Time (**Wired**)
-- Instacart Promo 代碼: $15 Off | August 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
