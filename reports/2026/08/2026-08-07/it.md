@@ -4,208 +4,214 @@
 
 ---
 
-### 1. [AMD acquires Taalas to boost 推論 performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
+### 1. [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
+
+- ⭐ 321 分｜💬 287 留言｜👤 defrost
+
+### 2. [新 Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
+
+https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;新-mexico-court-orders-Meta-p...https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;新-mexic...https:&#x2F;&#x2F;w
+
+- ⭐ 389 分｜💬 241 留言｜👤 boplicity
+
+### 3. [AMD acquires Taalas to boost 推論 performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
 
 https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...https:&#x2F;&#x2F;chatjimmy.AI&#x2F;
 
-- ⭐ 569 分｜💬 435 留言｜👤 itvision
+- ⭐ 733 分｜💬 546 留言｜👤 itvision
 
-### 2. [什麼是 a Product?](https://roge.onwrite.app/what-is-a-product)
+### 4. [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
 
-- ⭐ 8 分｜💬 0 留言｜👤 rogix
+- ⭐ 492 分｜💬 356 留言｜👤 tsak
 
-### 3. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
-
-- ⭐ 1000 分｜💬 155 留言｜👤 theanonymousone
-
-### 4. [Atomic Clocks](https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work)
-
-- ⭐ 30 分｜💬 16 留言｜👤 teleforce
-
-### 5. [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
-
-- ⭐ 348 分｜💬 263 留言｜👤 tsak
-
-### 6. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
+### 5. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
 
 https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o, https:&#x2F;&#x2F;archive.is&#x2F;YDn6S
 
-- ⭐ 201 分｜💬 42 留言｜👤 neversaydie
+- ⭐ 254 分｜💬 53 留言｜👤 neversaydie
 
-### 7. [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
+### 6. [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
 
-- ⭐ 105 分｜💬 23 留言｜👤 Audiophilip
+- ⭐ 151 分｜💬 43 留言｜👤 Audiophilip
 
-### 8. [Reverse Jevons Paradox](https://mht.wtf/post/jevons/)
+### 7. [São Paulo resident transforms degraded area into urban forest](https://saopaulosecreto.com/en/tiquatira-linear-park-en/)
 
-- ⭐ 13 分｜💬 5 留言｜👤 martinhath
+https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquati...
 
-### 9. [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/)
+- ⭐ 183 分｜💬 69 留言｜👤 rmason
 
-- ⭐ 150 分｜💬 120 留言｜👤 baranul
+### 8. [Atomic Clocks](https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work)
 
-### 10. [軟體 development with AI is starting to feel like cooking steak](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+- ⭐ 102 分｜💬 55 留言｜👤 teleforce
 
-- ⭐ 344 分｜💬 371 留言｜👤 yusyd
+### 9. [A quine in Piet – a GIF image that prints itself [video]](https://www.youtube.com/watch?v=GwMtzhjCzyc)
 
-### 11. [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)
+- ⭐ 24 分｜💬 1 留言｜👤 surprisetalk
 
-- ⭐ 214 分｜💬 156 留言｜👤 tedsanders
-
-### 12. [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
-
-- ⭐ 39 分｜💬 7 留言｜👤 RobinHirst11
-
-### 13. [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
-
-- ⭐ 136 分｜💬 21 留言｜👤 gnabgib
-
-### 14. [Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks](https://provenmetal.com)
-
-Hey HN, we’re Will &amp; Johnny from ProvenMetal (https:&#x2F;&#x2F;provenmetal.com). You send us design files or specs and we give you assembled boards domestically in days.The US produced 30% of PCB
-
-- ⭐ 197 分｜💬 141 留言｜👤 willcarkner
-
-### 15. [GitHub Actions and Pages are experiencing degraded availability](https://www.githubstatus.com/incidents/qcvjkzcs7j74)
+### 10. [GitHub Actions and Pages are experiencing degraded availability](https://www.githubstatus.com/incidents/qcvjkzcs7j74)
 
 https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d
 
-- ⭐ 375 分｜💬 304 留言｜👤 Footkerchief
+- ⭐ 426 分｜💬 350 留言｜👤 Footkerchief
 
-### 16. [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
+### 11. [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)
 
-- ⭐ 189 分｜💬 126 留言｜👤 collinmanderson
+- ⭐ 259 分｜💬 203 留言｜👤 tedsanders
 
-### 17. [為什麼 Estonians invite strangers into their back gardens each summer](https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer)
+### 12. [Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks](https://provenmetal.com)
 
-- ⭐ 50 分｜💬 17 留言｜👤 koolhead17
+Hey HN, we’re Will &amp; Johnny from ProvenMetal (https:&#x2F;&#x2F;provenmetal.com). You send us design files or specs and we give you assembled boards domestically in days.The US produced 30% of PCB
 
-### 18. [新 Orleans is testing Carbyne’s AI-powered Emergency Call Triage 軟體](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
+- ⭐ 209 分｜💬 148 留言｜👤 willcarkner
 
-- ⭐ 52 分｜💬 67 留言｜👤 champagnepapi
+### 13. [什麼是 a product?](https://roge.onwrite.app/what-is-a-product)
 
-### 19. [Retired man plants trees on forgotten land, now it's Sao Paulo's largest park](https://timesofindia.indiatimes.com/world/rest-of-world/in-2003-a-retired-man-planted-trees-on-forgotten-land-alone-20-years-later-it-had-become-one-of-sao-paulos-largest-urban-forests/articleshow/132761848.cms)
+- ⭐ 77 分｜💬 48 留言｜👤 rogix
 
-- ⭐ 85 分｜💬 29 留言｜👤 rmason
+### 14. [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 
-### 20. [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
+- ⭐ 171 分｜💬 27 留言｜👤 gnabgib
 
-- ⭐ 171 分｜💬 109 留言｜👤 boplicity
+### 15. [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
 
-### 21. [Humans missed 1 in 3 threats approving AI 代理 commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
+- ⭐ 231 分｜💬 161 留言｜👤 collinmanderson
 
-- ⭐ 286 分｜💬 204 留言｜👤 Wirbelwind
+### 16. [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/)
 
-### 22. [My phone detects going on a run as “someone snatching my phone and running off”](https://mastodon.gamedev.place/@rygorous/117047697255584965)
+- ⭐ 221 分｜💬 183 留言｜👤 baranul
 
-- ⭐ 120 分｜💬 216 留言｜👤 luu
+### 17. [Humans missed 1 in 3 threats approving AI 代理 commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
+
+- ⭐ 316 分｜💬 223 留言｜👤 Wirbelwind
+
+### 18. [My phone detects going on a run as “someone snatching my phone and running off”](https://mastodon.gamedev.place/@rygorous/117047697255584965)
+
+- ⭐ 160 分｜💬 267 留言｜👤 luu
+
+### 19. [為什麼 Estonians invite strangers into their back gardens each summer](https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer)
+
+- ⭐ 98 分｜💬 39 留言｜👤 koolhead17
+
+### 20. [The BBC Tetris Companion](https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html)
+
+- ⭐ 26 分｜💬 2 留言｜👤 zdw
+
+### 21. [TypeStax: A type scale generator with vintage audio 硬體 interface](https://www.typestax.com/)
+
+- ⭐ 4 分｜💬 1 留言｜👤 jasim
+
+### 22. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+
+- ⭐ 1069 分｜💬 160 留言｜👤 theanonymousone
 
 ### 23. [STV: A full-motion video codec for the Atari ST](https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4)
 
-- ⭐ 40 分｜💬 4 留言｜👤 indyjo
+- ⭐ 71 分｜💬 10 留言｜👤 indyjo
 
-### 24. [Learn how chips are made with this Rollercoaster Tycoon-inspired animation](https://laurentiugabriel.github.io/ChipTycoon/)
+### 24. [Show HN: Certo – An 開源 platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)
 
-- ⭐ 140 分｜💬 29 留言｜👤 laurentiurad
+Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards
 
-### 25. [Quake – 30th Anniversary 更新](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
+- ⭐ 5 分｜💬 0 留言｜👤 thejoin95
 
-- ⭐ 271 分｜💬 140 留言｜👤 dsubburam
+### 25. [Learn how chips are made with this Rollercoaster Tycoon-inspired animation](https://laurentiugabriel.github.io/ChipTycoon/)
 
-### 26. [Inside vLLM: Anatomy of a High-Throughput 大型語言模型 推論 系統 (2025)](https://www.aleksagordic.com/blog/vllm)
+- ⭐ 179 分｜💬 57 留言｜👤 laurentiurad
 
-- ⭐ 90 分｜💬 5 留言｜👤 sebg
+### 26. [新 Orleans is testing Carbyne’s AI-powered Emergency Call Triage 軟體](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
-### 27. [Show HN: The Channels SDK – Bring Any 代理 to Any Channel (Slack, MS Teams)](https://github.com/CopilotKit/channels-sdk)
+- ⭐ 65 分｜💬 101 留言｜👤 champagnepapi
 
-- ⭐ 99 分｜💬 22 留言｜👤 davidmckayv
+### 27. [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
-### 28. [The simple elegance of the integrated timing belt loopback fastener](https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/)
+- ⭐ 108 分｜💬 40 留言｜👤 RobinHirst11
 
-- ⭐ 114 分｜💬 24 留言｜👤 hasheddan
+### 28. [Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas](https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668)
 
-### 29. [Pareto Front](https://en.wikipedia.org/wiki/Pareto_front)
+- ⭐ 10 分｜💬 0 留言｜👤 almog
 
-- ⭐ 240 分｜💬 97 留言｜👤 binyu
+### 29. [Inside vLLM: Anatomy of a High-Throughput 大型語言模型 推論 系統 (2025)](https://www.aleksagordic.com/blog/vllm)
 
-### 30. [The Sylvester–Gallai Theorem](https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/)
+- ⭐ 122 分｜💬 7 留言｜👤 sebg
 
-- ⭐ 30 分｜💬 29 留言｜👤 surprisetalk
+### 30. [Quake – 30th Anniversary 更新](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
+
+- ⭐ 345 分｜💬 169 留言｜👤 dsubburam
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Building Progressively Enhanced Forms Using htmx
+- Pareto Front
+- Reverse Jevons Paradox
+- Show HN: The Channels SDK – Bring Any 代理 to Any Channel (Slack, MS Teams)
+- The simple elegance of the integrated timing belt loopback fastener
 - Can you reverse 工程師 an ASIC?
-- Learning to fly FPV drones with AI flight coach
-- Mythos Attempted to Social 工程師 開源 Maintainer to Merge Malware
-- I've succesfully compiled Netscape 3.0.2 on a 64 Debian
+- Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters
+- "It's unclear how Sopwith escaped to the general public."
+- The Gargantuan Lie That Is Collapsing the Climate
+- Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'
+- Show HN: A free mini game that makes you a smarter fly fisherperson
+- Building Progressively Enhanced Forms Using htmx
+- Unearthing my 1996 windowed OS in machine 代碼 for Am29000 homebrew computer
 - Four simple rules behind Japan's most liveable cities
 - 人工智慧 used to design 新 viruses
-- Unearthing my 1996 windowed OS in machine 代碼 for Am29000 homebrew computer
-- Tiny black holes may be exploding stars across the Milky Way
-- Qwen3.8 Max now ranked as the 最佳 overall 模型 by agentic index
+- 軟體 development with AI is starting to feel like cooking steak
 - Crime Pays but Botany Doesn't
+- Tiny black holes may be exploding stars across the Milky Way
+- Parsers don't have to be complicated
+- Learning to fly FPV drones with AI flight coach
+- Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding
+- Generative "AI": The Guitar Hero of Creativity
+- Executable Emoji
 - 如何 Make a Nintendo 64 Game in 2026
-- Federal Communications Commission scraps limit on broadcast TV ownership
-- Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86
-- Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization
-- Hackers Stalked Me by Hijacking a Smartwatch for Kids
-- Shades of Meaning (2018)
-- Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2
 - Discovery Loop
-- Let's all meet up in the Y2K
+- Qwen3.8 Max now ranked as the 最佳 overall 模型 by agentic index
 - Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
-- C64 Demo Effects Explained: Rodents in the Attic [video]
-- Prime 代理: A self-improving RLM 代理
-- The Triangle Game, from Zero
-- With 軟體 alone, one B200 beats the LPU and gets close to Cerebras
-- OpenDoctrines, 開源 grand strategy game moddable via WASM in 13 languages
-- Poles of Inaccessibility in the San Gabriel Mountains (2015)
+- Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization
+- Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86
+- Let's all meet up in the Y2K
+- Federal Communications Commission scraps limit on broadcast TV ownership
+- Mythos Attempted to Social 工程師 開源 Maintainer to Merge Malware
+- CrossPoint 1.5 has officially been 發布
+- Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2
 - I'm switching my phone from Android to Linux
 - Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod
-- Morioka Shoten
-- How Did Rogue Generate Its Random Dungeons?
-- An Agentic IDE That Builds Itself
-- Official: Ford's $29,945 Small EV Truck Is Called Fathom
-- US agency ends 39% household cap on local TV station owners
-- Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters
-- Quantego: A Family of Lego Models of IBM Quantum Computers
 - Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)
-- Caring for Rubber in Vintage Devices, the Curators' Way
-- State-oriented consistency: 為什麼 we stopped looking for one right answer
+- Morioka Shoten
 - When online commenters detect my art as AI
-- Show HN: AI Tutoring with Visual Grounding
+- Quantego: A Family of Lego Models of IBM Quantum Computers
+- There Will Come Soft Rains (1950) [pdf]
+- 2027 memory capacity is reportedly sold out
+- How Did Rogue Generate Its Random Dungeons?
 - The Valley of Webhooks
-- Show HN: A terminal glued to the macOS dock
+- Shades of Meaning (2018)
+- Poles of Inaccessibility in the San Gabriel Mountains (2015)
 - The Entropy of a Markov Chain
 - Born Against, or 為什麼 hobby 程式設計 communities are against 大型語言模型 usage
-- There Will Come Soft Rains (1950) [pdf]
-- The title cards in Blade Runner are amazing
 - “Gravity is worth asking about”
-- Beating GPT-5.6 Sol on retrieval with 100x cheaper open models
+- The Triangle Game, from Zero
+- The title cards in Blade Runner are amazing
 - Cloudflare OS: an open platform for agents, apps, and work
-- Join Me in Jamverse
-- LLMs won't break symmetric crypto
-- On non-rooted Android 17, ADB uninstall of 系統 apps fails
+- Beating GPT-5.6 Sol on retrieval with 100x cheaper open models
+- Show HN: A terminal glued to the macOS dock
 - 為什麼 Erdős Problems Are Falling to AI
-- Muse 代碼 and Muse Spark 1.2
-- Dress made of living mycelium can renew and repair itself
 - Building an Advanced Agentic Harness
+- Caring for Rubber in Vintage Devices, the Curators' Way
 - Aristotle quotes on virtue, knowledge, and happiness
+- Muse 代碼 and Muse Spark 1.2
+- LLMs won't break symmetric crypto
+- Meta's Ray-Bans are getting banned from UK pubs, and the EU is circling
+- With 軟體 alone, one B200 beats the LPU and gets close to Cerebras
+- US agency ends 39% household cap on local TV station owners
 - Exact, parallel 2D Delaunay triangulation for int32 coordinates
 - Goodhart's Law Comes for Every Benchmark You Trust
-- I built fingerprint unlock for Mac (no Magic Keyboard) [video]
+- Join Me in Jamverse
 - The 11 Types of Washington, DC, Metro Station Architecture (2018)
-- Zed DeltaDB
-- Obviously, DOGE Did Not Save Money
-- Branchless Rust: Making a Filter 4x Faster by Removing an If
-- The DISTINCT in Your COUNT
-- Astronomers capture highest-resolution image ever of the Sun's surface
+- State-oriented consistency: 為什麼 we stopped looking for one right answer
 - Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field
+- Zed DeltaDB
 - Painting with Gaussians
-- Online Friends Are Real Friends
 
 
 ---
