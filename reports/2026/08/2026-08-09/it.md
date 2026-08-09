@@ -4,202 +4,200 @@
 
 ---
 
-### 1. [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
+### 1. [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 
-- ⭐ 96 分｜💬 15 留言｜👤 doubletwoyou
+- ⭐ 64 分｜💬 14 留言｜👤 gukoff
 
 ### 2. [My 伺服器 is a phone now](https://seg6.space/posts/phone-server/)
 
-- ⭐ 244 分｜💬 89 留言｜👤 seg6
+- ⭐ 371 分｜💬 155 留言｜👤 seg6
 
 ### 3. [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 
-- ⭐ 10 分｜💬 1 留言｜👤 BruceEel
+- ⭐ 100 分｜💬 43 留言｜👤 BruceEel
 
-### 4. [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
+### 4. [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
 
-- ⭐ 173 分｜💬 18 留言｜👤 bobbiechen
+- ⭐ 193 分｜💬 116 留言｜👤 jggonz
 
-### 5. [Melatonin impairs morning cognition in healthy young adults](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
+### 5. [Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
 
-- ⭐ 62 分｜💬 21 留言｜👤 bohaska
+- ⭐ 4 分｜💬 1 留言｜👤 nmitchko
 
-### 6. [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
+### 6. [The Grid That Doubles the Strength of the Ground](https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground)
 
-- ⭐ 146 分｜💬 81 留言｜👤 adletbalzhanov
+- ⭐ 40 分｜💬 5 留言｜👤 michaefe
 
-### 7. [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
+### 7. [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
 
-- ⭐ 133 分｜💬 14 留言｜👤 jmusall
+- ⭐ 6 分｜💬 2 留言｜👤 tremguy
 
-### 8. [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+### 8. [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
 
-- ⭐ 368 分｜💬 187 留言｜👤 groomlake
+- ⭐ 17 分｜💬 5 留言｜👤 Lammy
 
-### 9. [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+### 9. [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 
-- ⭐ 123 分｜💬 50 留言｜👤 jggonz
+- ⭐ 446 分｜💬 241 留言｜👤 groomlake
 
-### 10. [Incentives are for losers](https://www.experimental-history.com/p/incentives-are-for-losers)
+### 10. [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
 
-- ⭐ 61 分｜💬 29 留言｜👤 bkudria
+- ⭐ 275 分｜💬 28 留言｜👤 bobbiechen
 
-### 11. [Unexpected events and prosocial behavior: the Batman effect (2025)](https://www.nature.com/articles/s44184-025-00171-5)
+### 11. [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
 
-- ⭐ 42 分｜💬 5 留言｜👤 davidbarker
+- ⭐ 247 分｜💬 21 留言｜👤 jmusall
 
-### 12. [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/)
+### 12. [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
 
-- ⭐ 379 分｜💬 141 留言｜👤 shaunpud
+- ⭐ 239 分｜💬 151 留言｜👤 adletbalzhanov
 
-### 13. [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
+### 13. [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 
-- ⭐ 99 分｜💬 35 留言｜👤 hakkikonu
+- ⭐ 27 分｜💬 13 留言｜👤 ike_usawa
 
-### 14. [Illinois just told every operating 系統 to start reporting your kid's age](https://itsfoss.com/news/illinois-age-verification-bill/)
+### 14. [Uber SubmitQueue: a high-performance speculative merge queue](https://github.com/uber/submitqueue/)
 
-- ⭐ 49 分｜💬 20 留言｜👤 WaitWaitWha
+- ⭐ 6 分｜💬 0 留言｜👤 handfuloflight
 
-### 15. [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
+### 15. [You might want to 構建 your WebApp in Canvas instead of HTML](https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/)
 
-- ⭐ 126 分｜💬 27 留言｜👤 MarcoDewey
+- ⭐ 19 分｜💬 18 留言｜👤 wolframhempel
 
-### 16. [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
+### 16. [Protopia](https://kevinkelly.substack.com/p/protopia)
 
-- ⭐ 111 分｜💬 7 留言｜👤 minimaxir
+- ⭐ 25 分｜💬 17 留言｜👤 surprisetalk
 
-### 17. [Assert(): A Modern 如何](https://fiberfs.io/blog/assert_a_modern_how_to)
+### 17. [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
 
-- ⭐ 7 分｜💬 0 留言｜👤 nyc_pizzadev
+- ⭐ 163 分｜💬 73 留言｜👤 doubletwoyou
 
-### 18. [TheoremDB – A public workspace for machine mathematics](https://theoremdb.org/)
+### 18. [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/)
 
-- ⭐ 24 分｜💬 0 留言｜👤 frozenseven
+- ⭐ 407 分｜💬 157 留言｜👤 shaunpud
 
-### 19. [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
+### 19. [Stylized GGX Shading](https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html)
 
-- ⭐ 163 分｜💬 30 留言｜👤 electricant
+- ⭐ 36 分｜💬 0 留言｜👤 ibobev
 
-### 20. [Building a local positioning 系統 to track runners using Ultra-Wideband](https://zeus.ugent.be/blog/25-26/12urenloop-uwb/)
+### 20. [如何 Survive in a Louisiana Swamp](https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/)
 
-- ⭐ 67 分｜💬 5 留言｜👤 robinpdev
+- ⭐ 16 分｜💬 2 留言｜👤 bookofjoe
 
-### 21. [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)
+### 21. [Melatonin impairs morning cognition in healthy young adults (2023)](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
 
-- ⭐ 7 分｜💬 0 留言｜👤 eddyflores
+- ⭐ 149 分｜💬 145 留言｜👤 bohaska
 
-### 22. [Fixing my tooltip accessibility mistake](https://jakearchibald.com/2026/my-tooltip-a11y-mistake/)
+### 22. [Unexpected events and prosocial behavior: the Batman effect (2025)](https://www.nature.com/articles/s44184-025-00171-5)
 
-- ⭐ 22 分｜💬 1 留言｜👤 robin_reala
+- ⭐ 70 分｜💬 21 留言｜👤 davidbarker
 
-### 23. [Finding zombies in our systems: A real-world story of CPU bottlenecks](https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb)
+### 23. [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
 
-- ⭐ 40 分｜💬 7 留言｜👤 fagnerbrack
+- ⭐ 5 分｜💬 3 留言｜👤 login588
 
-### 24. [The Sound and Music of 'Hyper Light Drifter' [video]](https://gdcvault.com/play/1024135/The-Sound-and-Music-of)
+### 24. [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 
-- ⭐ 41 分｜💬 7 留言｜👤 hyperific
+- ⭐ 167 分｜💬 45 留言｜👤 MarcoDewey
 
-### 25. [Message your other Claude 代碼 sessions](https://code.claude.com/docs/en/cross-session-messaging)
+### 25. [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
 
-- ⭐ 105 分｜💬 44 留言｜👤 mfiguiere
+- ⭐ 130 分｜💬 51 留言｜👤 hakkikonu
 
-### 26. [Lost my phone at the office. Claude suggested tracking Bluetooth signal strength](https://twitter.com/un1c0rnioz/status/2084686552299634805)
+### 26. [為什麼 MySpace fans want it back as relaunch hinted](https://www.bbc.com/news/articles/c4g64152v71o)
 
-https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805
+- ⭐ 24 分｜💬 25 留言｜👤 1659447091
 
-- ⭐ 266 分｜💬 192 留言｜👤 ilamont
+### 27. [TheoremDB – A public workspace for machine mathematics](https://theoremdb.org/)
 
-### 27. ["Coding is solved" misses the point](https://blog.mastykarz.nl/coding-is-solved-misses-the-point/)
+- ⭐ 49 分｜💬 4 留言｜👤 frozenseven
 
-- ⭐ 11 分｜💬 4 留言｜👤 listless
+### 28. [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 
-### 28. [DDisasm: Reversible (bi-directional) Disassembler](https://github.com/GrammaTech/ddisasm)
+- ⭐ 29 分｜💬 6 留言｜👤 ashurandi
 
-- ⭐ 34 分｜💬 5 留言｜👤 aboardRat4
+### 29. [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
 
-### 29. [Preventing Misfolding by Preventing Folding](https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding)
+- ⭐ 71 分｜💬 75 留言｜👤 tchalla
 
-- ⭐ 59 分｜💬 3 留言｜👤 surprisetalk
+### 30. [軟體 Giant SAP Stops Most Travel and 招聘 Because of AI's Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
-### 30. [“代碼 was never the hard part” is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
-
-- ⭐ 681 分｜💬 413 留言｜👤 senko
+- ⭐ 48 分｜💬 22 留言｜👤 theanonymousone
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- ChatGPT starts blocking direct requests to copy an author's style
-- Can Intel finally beat ARM on performance per Watt?
-- When Feature Flags Do and Don't Make Sense
-- Danish high schoolers will have to verbally defend written assignments
+- Retraction: The App Store Rejection of the Week That Was a Correct Rejection
+- Building a local positioning 系統 to track runners using Ultra-Wideband
+- Triton: DirectX 11 Driver for QEMU
+- Finding zombies in our systems: A real-world story of CPU bottlenecks
+- 為什麼 Wall Street Is Ignoring Big Tech's Debt
+- Message your other Claude 代碼 sessions
+- Fixing my tooltip accessibility mistake
+- Datalog Disassembly
+- “代碼 was never the hard part” is an insult to all programmers
+- Incentives are for losers
 - DeepMind's WeatherNext 模型 achieves breakthrough forecasting cyclones
-- Gateway 2000's hilariously bad ads in the 90s (Part II)
-- TinySol, a tiny solitaire game for DOS
+- The Sound and Music of 'Hyper Light Drifter' [video]
+- Preventing Misfolding by Preventing Folding
+- Can Intel finally beat ARM on performance per Watt?
+- Danish high schoolers will have to verbally defend written assignments
 - Timeline of the OpenAI accidental attack against Hugging Face
+- TinySol, a tiny solitaire game for DOS
+- Gateway 2000's hilariously bad ads in the 90s (Part II)
+- When Feature Flags Do and Don't Make Sense (2019)
 - Voyager 1 FDS Computer Emulator
+- Assert(): A Modern 如何
 - BYOC Anywhere: The Spectrum of Bring Your Own 雲端 Deployments
-- The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf] (1960)
-- From your doorbell to your home 網絡
-- What makes companies dodge taxes?
-- US Military's cyber command unit grapples with cluster of deaths by suicide
-- A physicist rigged his pet hamster’s wheel to upload to Strava
-- ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)
-- Muse 代碼 Sends Codex and Claude Instructions to Meta by Default
-- Hyper-Markdown – Markdown for knowledge graphs
 - What happens if an entire class of workers loses faith in their careers
+- From your doorbell to your home 網絡
 - As a Windows user, it's a surreal way to install a program
+- US Military's cyber command unit grapples with cluster of deaths by suicide
 - DeepSeek V4 Flash 0731
-- Ready set march: Researchers use math to explain sudden activity bursts in ants
-- AFK – Command center for teams running coding agents
-- Gentoo bugzilla closed due AI bot scraper overload
-- Wireblast a 100 Gbps packet generator in Go using AF_XDP
+- A physicist rigged his pet hamster’s wheel to upload to Strava
+- Lost my phone at the office. Claude suggested tracking Bluetooth signal strength
+- Hyper-Markdown – Markdown for knowledge graphs
+- ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)
+- ChatGPT starts blocking direct requests to copy an author's style
+- Illinois just told every operating 系統 to start reporting your kid's age
+- The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf] (1960)
+- I asked 4 AI companions what they were. They lied, then texted me the next day
+- Lake Mead hits historic low water level as Colorado River struggles
 - SupererDuperer
-- 硬體 backdoors in some x86 CPUs
-- LinkedIn Feed Blocker
-- A viral mosquito-killing laser device could be coming to the U.S.
-- k-Coloring is Faster than Computing the Chromatic Number
-- Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean
-- Show HN: Tura – 構建 代理 that uses 80% less token and delivers better results
-- 8 Out of 10 Banks in Belgium Hate This One Weird EID RCE
-- U.S. Department of Energy 推出 the Genesis Open Models Initiative
-- What Problem is YC's qm supposed to solve?
-- Kitesurf: 代理-first browser that runs in V8 isolates
-- Responding to the next frontier of critical cyber capabilities
+- Don't use your phone while you poop
+- What makes companies dodge taxes?
+- Gentoo bugzilla closed due AI bot scraper overload
 - 新 Mexico court orders Meta to pay $567m over harms to children’s mental health
-- From One Seed to a Thousand Leaves – Merkle's Authentication Tree
-- Europe's free satellite service just made it easier to track wildfires
-- The AI Apocalypse Is Here
-- Auto mode is now the default in Claude 代碼 for Pro, Max, and Team plans
-- Flesh-eating screwworms feast on humans in Mexico; human cases 熱門 500
-- The Nixpkgs core team has disbanded
+- 硬體 backdoors in some x86 CPUs
+- Kitesurf: 代理-first browser that runs in V8 isolates
+- U.S. Department of Energy 推出 the Genesis Open Models Initiative
+- Wireblast a 100 Gbps packet generator in Go using AF_XDP
+- Responding to the next frontier of critical cyber capabilities
+- k-Coloring is Faster than Computing the Chromatic Number
 - AMD acquires Taalas to boost 推論 performance by etching models in silicon
-- Assembly Hall of Shame
-- Amazon Is Creating the Biggest Pollution Source in the Country
-- Show HN: Try Benzi – A coding harness/代理 beating Claude 代碼 itself on Sonnet
+- From One Seed to a Thousand Leaves – Merkle's Authentication Tree
 - Oracle bans AI-generated 代碼 from OpenJDK
-- What Happened: OpenAI and HuggingFace
+- AFK – Command center for teams running coding agents
+- Dutch bank: Extreme heat could wipe out Dutch, EU economic growth this year
+- Ready set march: Researchers use math to explain sudden activity bursts in ants
+- Assembly Hall of Shame
+- LinkedIn Feed Blocker
 - 2027 memory capacity is reportedly sold out
 - Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks
-- Guarded Methods in OCaml (2025)
-- Never Gonna Give You Up but the lyrics are in alphabetical order [video]
-- Python string literals are kinda funny
-- Monitors for Work
 - ACM Europe Summer School on MLIR 2026: Streamed Live, August 10-14
+- Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean
+- Europe's free satellite service just made it easier to track wildfires
+- The Nixpkgs core team has disbanded
+- Show HN: Tura – 構建 代理 that uses 80% less token and delivers better results
 - Mario Meets Pareto
+- Delta Passed on Starlink Wi-Fi. United and Virgin Atlantic Are Seeing the Payoff
+- Amazon Is Creating the Biggest Pollution Source in the Country
+- Guarded Methods in OCaml (2025)
+- A weapon that could help red squirrels in their Battle of Britain
+- "Coding is solved" misses the point
 - Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
-- Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS
-- Ask HN: 什麼是 your 資料庫 size
 - Welcoming the Nepalese Government to Have I Been Pwned
-- Psychological Warfare in Reverse Engineering (2015)
-- Water 系統 controllers don't belong on the internet, says ex-NSA chief
-- Microsoft Edge is about to lock out older ad blockers, just like Chrome did
-- Ask HN: How do you go from writing 代碼 to deploying with agents?
-- Taste Is All That's Left
-- Managing AI Coding Costs at Scale
-- Flesh Eating Bacteria Kills 5 in Louisiana
-- Show HN: Wyzer 程式設計 Language
 
 
 ---
