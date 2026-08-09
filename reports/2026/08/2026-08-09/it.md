@@ -4,200 +4,202 @@
 
 ---
 
-### 1. [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
+### 1. [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 
-- ⭐ 64 分｜💬 14 留言｜👤 gukoff
+- ⭐ 381 分｜💬 167 留言｜👤 satvikpendem
 
-### 2. [My 伺服器 is a phone now](https://seg6.space/posts/phone-server/)
+### 2. [Criminal Deception in Silicon Valley](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
 
-- ⭐ 371 分｜💬 155 留言｜👤 seg6
+- ⭐ 111 分｜💬 48 留言｜👤 iamnothere
 
-### 3. [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
+### 3. [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
 
-- ⭐ 100 分｜💬 43 留言｜👤 BruceEel
+What are you working on?  What have you been curious about lately?
 
-### 4. [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+- ⭐ 34 分｜💬 105 留言｜👤 david927
 
-- ⭐ 193 分｜💬 116 留言｜👤 jggonz
+### 4. [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
 
-### 5. [Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
+- ⭐ 26 分｜💬 13 留言｜👤 TeaVMFan
 
-- ⭐ 4 分｜💬 1 留言｜👤 nmitchko
+### 5. [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
 
-### 6. [The Grid That Doubles the Strength of the Ground](https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground)
+- ⭐ 18 分｜💬 5 留言｜👤 hexomancer
 
-- ⭐ 40 分｜💬 5 留言｜👤 michaefe
+### 6. [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 
-### 7. [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
+- ⭐ 68 分｜💬 9 留言｜👤 Klaster_1
 
-- ⭐ 6 分｜💬 2 留言｜👤 tremguy
+### 7. [John C. Lilly on solid state intelligence and the elimination of man (1978)](https://kibotronics.net/unlisted/lilly-machines/)
 
-### 8. [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
+- ⭐ 69 分｜💬 24 留言｜👤 Kiboneu
 
-- ⭐ 17 分｜💬 5 留言｜👤 Lammy
+### 8. [Show HN: A Project Oberon 系統 version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
 
-### 9. [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+- ⭐ 78 分｜💬 16 留言｜👤 Rochus
 
-- ⭐ 446 分｜💬 241 留言｜👤 groomlake
+### 9. [Every fast write moves work somewhere else](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
 
-### 10. [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
+- ⭐ 24 分｜💬 11 留言｜👤 shayonj
 
-- ⭐ 275 分｜💬 28 留言｜👤 bobbiechen
+### 10. [Human vs. AI – Diff-based line-level provenance for text under agentic editing](https://github.com/eighttrigrams/us-vs-them)
 
-### 11. [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
+- ⭐ 18 分｜💬 1 留言｜👤 eighttrigrams
 
-- ⭐ 247 分｜💬 21 留言｜👤 jmusall
+### 11. [Crickets as Pets](https://en.wikipedia.org/wiki/Crickets_as_pets)
 
-### 12. [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
+- ⭐ 25 分｜💬 11 留言｜👤 Michelangelo11
 
-- ⭐ 239 分｜💬 151 留言｜👤 adletbalzhanov
+### 12. [Show HN: A replayable A2A jury for tracing how agents influence decisions](https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom)
 
-### 13. [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
+- ⭐ 5 分｜💬 0 留言｜👤 nmaroulis21
 
-- ⭐ 27 分｜💬 13 留言｜👤 ike_usawa
+### 13. [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 
-### 14. [Uber SubmitQueue: a high-performance speculative merge queue](https://github.com/uber/submitqueue/)
+- ⭐ 149 分｜💬 23 留言｜👤 gukoff
 
-- ⭐ 6 分｜💬 0 留言｜👤 handfuloflight
+### 14. [Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
 
-### 15. [You might want to 構建 your WebApp in Canvas instead of HTML](https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/)
+- ⭐ 100 分｜💬 31 留言｜👤 Thorondor
 
-- ⭐ 19 分｜💬 18 留言｜👤 wolframhempel
+### 15. [FCC moves to ban Lidar-equipped foreign drones from US](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
 
-### 16. [Protopia](https://kevinkelly.substack.com/p/protopia)
+- ⭐ 42 分｜💬 22 留言｜👤 f-serif
 
-- ⭐ 25 分｜💬 17 留言｜👤 surprisetalk
+### 16. [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 
-### 17. [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
+- ⭐ 141 分｜💬 59 留言｜👤 BruceEel
 
-- ⭐ 163 分｜💬 73 留言｜👤 doubletwoyou
+### 17. [A partial digestion of the HRT counterexample](https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/)
 
-### 18. [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/)
+- ⭐ 14 分｜💬 1 留言｜👤 ijustlovemath
 
-- ⭐ 407 分｜💬 157 留言｜👤 shaunpud
+### 18. [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
 
-### 19. [Stylized GGX Shading](https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html)
+- ⭐ 54 分｜💬 38 留言｜👤 jader201
 
-- ⭐ 36 分｜💬 0 留言｜👤 ibobev
+### 19. [An OpenAI Strategist Says AI Labs Should Rival Government Power](https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/)
 
-### 20. [如何 Survive in a Louisiana Swamp](https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/)
+- ⭐ 10 分｜💬 9 留言｜👤 ashurandi
 
-- ⭐ 16 分｜💬 2 留言｜👤 bookofjoe
+### 20. [Literary Sins](https://www.thedial.world/articles/news/seven-literary-sins)
 
-### 21. [Melatonin impairs morning cognition in healthy young adults (2023)](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
+- ⭐ 10 分｜💬 1 留言｜👤 lermontov
 
-- ⭐ 149 分｜💬 145 留言｜👤 bohaska
+### 21. [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
 
-### 22. [Unexpected events and prosocial behavior: the Batman effect (2025)](https://www.nature.com/articles/s44184-025-00171-5)
+- ⭐ 62 分｜💬 41 留言｜👤 Lammy
 
-- ⭐ 70 分｜💬 21 留言｜👤 davidbarker
+### 22. [Show HN: Today's cities on a globe of Earth's tectonic past and future](https://douwe.com/projects/tectonic_globe)
 
-### 23. [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
+- ⭐ 16 分｜💬 2 留言｜👤 dosinga
 
-- ⭐ 5 分｜💬 3 留言｜👤 login588
+### 23. [Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
 
-### 24. [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
+- ⭐ 158 分｜💬 121 留言｜👤 evo_9
 
-- ⭐ 167 分｜💬 45 留言｜👤 MarcoDewey
+### 24. [The Grid That Doubles the Strength of the Ground](https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground)
 
-### 25. [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
+- ⭐ 105 分｜💬 29 留言｜👤 michaefe
 
-- ⭐ 130 分｜💬 51 留言｜👤 hakkikonu
+### 25. [Windows 11's built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html)
 
-### 26. [為什麼 MySpace fans want it back as relaunch hinted](https://www.bbc.com/news/articles/c4g64152v71o)
+- ⭐ 135 分｜💬 112 留言｜👤 akyuu
 
-- ⭐ 24 分｜💬 25 留言｜👤 1659447091
+### 26. [UnYOLO: 代理 credential broker and policy engine for your GitHub account](https://unyolo.io/)
 
-### 27. [TheoremDB – A public workspace for machine mathematics](https://theoremdb.org/)
+- ⭐ 4 分｜💬 0 留言｜👤 hosolmaz
 
-- ⭐ 49 分｜💬 4 留言｜👤 frozenseven
+### 27. [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
 
-### 28. [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
+- ⭐ 26 分｜💬 14 留言｜👤 login588
 
-- ⭐ 29 分｜💬 6 留言｜👤 ashurandi
+### 28. [We replaced Redis with MySQL for inventory reservations and it scaled](https://shopify.engineering/scaling-inventory-reservations)
 
-### 29. [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
+- ⭐ 317 分｜💬 220 留言｜👤 adletbalzhanov
 
-- ⭐ 71 分｜💬 75 留言｜👤 tchalla
+### 29. [My 伺服器 is a phone now](https://seg6.space/posts/phone-server/)
 
-### 30. [軟體 Giant SAP Stops Most Travel and 招聘 Because of AI's Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+- ⭐ 460 分｜💬 224 留言｜👤 seg6
 
-- ⭐ 48 分｜💬 22 留言｜👤 theanonymousone
+### 30. [TheoremDB – A public workspace for machine mathematics](https://theoremdb.org/)
+
+- ⭐ 84 分｜💬 13 留言｜👤 frozenseven
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Should you stop cracking your knuckles?
+- Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
+- The original URL for this prediction will no longer be available in 11 years (2011)
+- DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness
+- Fastmail offers EU data region
+- CSS: The bomb inside your inbox
+- Dithered QR Codes
+- Reviving a four year old reMarkable 2
+- Building Groovie, an Advanced 網頁-Based Drum Machine / Beat Sequencer
+- Spritework on the ZX Spectrum: Rendering
+- Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)
+- Three in five Americans favor stronger oversight of social media companies
+- Emacs for NvChads
+- 如何 Survive in a Louisiana Swamp
+- A Tale of Dynamic 程式設計
 - Retraction: The App Store Rejection of the Week That Was a Correct Rejection
-- Building a local positioning 系統 to track runners using Ultra-Wideband
-- Triton: DirectX 11 Driver for QEMU
-- Finding zombies in our systems: A real-world story of CPU bottlenecks
-- 為什麼 Wall Street Is Ignoring Big Tech's Debt
 - Message your other Claude 代碼 sessions
-- Fixing my tooltip accessibility mistake
-- Datalog Disassembly
+- Relying on Go
 - “代碼 was never the hard part” is an insult to all programmers
-- Incentives are for losers
+- _for-sale DNS records
+- 為什麼 Normal People Aren't Using AI Agents
 - DeepMind's WeatherNext 模型 achieves breakthrough forecasting cyclones
-- The Sound and Music of 'Hyper Light Drifter' [video]
-- Preventing Misfolding by Preventing Folding
-- Can Intel finally beat ARM on performance per Watt?
-- Danish high schoolers will have to verbally defend written assignments
+- Melatonin impairs morning cognition in healthy young adults (2023)
+- 軟體 Giant SAP Stops Most Travel and 招聘 Because of AI's Soaring Cost
+- Making difficulty curves in games
 - Timeline of the OpenAI accidental attack against Hugging Face
-- TinySol, a tiny solitaire game for DOS
+- 70% of AI revenue comes from OpenAI and Anthropic
+- Open-source interactive map for the Aug 12 total solar eclipse
 - Gateway 2000's hilariously bad ads in the 90s (Part II)
-- When Feature Flags Do and Don't Make Sense (2019)
-- Voyager 1 FDS Computer Emulator
-- Assert(): A Modern 如何
-- BYOC Anywhere: The Spectrum of Bring Your Own 雲端 Deployments
+- The Legend of the Novell NE2000 [video]
+- The Sound and Music of 'Hyper Light Drifter' [video]
 - What happens if an entire class of workers loses faith in their careers
-- From your doorbell to your home 網絡
-- As a Windows user, it's a surreal way to install a program
-- US Military's cyber command unit grapples with cluster of deaths by suicide
+- Danish high schoolers will have to verbally defend written assignments
+- 為什麼 climate, fertility collapse, and AI compute share the same bottleneck?
+- TinySol, a tiny solitaire game for DOS
+- Voyager 1 FDS Computer Emulator
 - DeepSeek V4 Flash 0731
-- A physicist rigged his pet hamster’s wheel to upload to Strava
 - Lost my phone at the office. Claude suggested tracking Bluetooth signal strength
+- A physicist rigged his pet hamster’s wheel to upload to Strava
+- From your doorbell to your home 網絡
 - Hyper-Markdown – Markdown for knowledge graphs
-- ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)
-- ChatGPT starts blocking direct requests to copy an author's style
-- Illinois just told every operating 系統 to start reporting your kid's age
-- The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf] (1960)
-- I asked 4 AI companions what they were. They lied, then texted me the next day
-- Lake Mead hits historic low water level as Colorado River struggles
-- SupererDuperer
-- Don't use your phone while you poop
-- What makes companies dodge taxes?
-- Gentoo bugzilla closed due AI bot scraper overload
+- Covid can wake up a slew of dormant viruses inside you
+- US Military's cyber command unit grapples with cluster of deaths by suicide
+- Tech sucks: You have to vote with your wallet, or nothing will change
+- Triton: DirectX 11 Driver for QEMU
+- DeepMind and the Visualizer's Fallacy
+- 為什麼 MySpace fans want it back as relaunch hinted
+- Can Intel finally beat ARM on performance per Watt?
 - 新 Mexico court orders Meta to pay $567m over harms to children’s mental health
-- 硬體 backdoors in some x86 CPUs
+- Play is at the core of a meaningful life
+- Hims and Hers sent user health data to social media giants bombshell FTC lawsuit
+- Waymo opens up robotaxi service in Dallas to everyone
 - Kitesurf: 代理-first browser that runs in V8 isolates
+- Incentives are for losers
+- Ask HN: My dev blog has 11k followers. I stopped writing it. What would you do?
+- Computer maker Framework notifies 'all customers' of a data breach
+- AMD acquires Taalas to boost 推論 performance by etching models in silicon
 - U.S. Department of Energy 推出 the Genesis Open Models Initiative
 - Wireblast a 100 Gbps packet generator in Go using AF_XDP
 - Responding to the next frontier of critical cyber capabilities
-- k-Coloring is Faster than Computing the Chromatic Number
-- AMD acquires Taalas to boost 推論 performance by etching models in silicon
-- From One Seed to a Thousand Leaves – Merkle's Authentication Tree
+- 硬體 backdoors in some x86 CPUs
+- Don't use your phone while you poop
+- What Happened: OpenAI and Hugging Face
+- PEP 784 – Adding Zstandard to the standard library
+- Everything You Do Is Being Recorded
+- The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf] (1960)
+- Gentoo bugzilla closed due AI bot scraper overload
 - Oracle bans AI-generated 代碼 from OpenJDK
-- AFK – Command center for teams running coding agents
-- Dutch bank: Extreme heat could wipe out Dutch, EU economic growth this year
-- Ready set march: Researchers use math to explain sudden activity bursts in ants
-- Assembly Hall of Shame
-- LinkedIn Feed Blocker
-- 2027 memory capacity is reportedly sold out
 - Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks
-- ACM Europe Summer School on MLIR 2026: Streamed Live, August 10-14
-- Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean
-- Europe's free satellite service just made it easier to track wildfires
-- The Nixpkgs core team has disbanded
-- Show HN: Tura – 構建 代理 that uses 80% less token and delivers better results
-- Mario Meets Pareto
-- Delta Passed on Starlink Wi-Fi. United and Virgin Atlantic Are Seeing the Payoff
-- Amazon Is Creating the Biggest Pollution Source in the Country
-- Guarded Methods in OCaml (2025)
-- A weapon that could help red squirrels in their Battle of Britain
-- "Coding is solved" misses the point
-- Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
-- Welcoming the Nepalese Government to Have I Been Pwned
+- 2027 memory capacity is reportedly sold out
 
 
 ---
