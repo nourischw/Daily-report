@@ -4,208 +4,202 @@
 
 ---
 
-### 1. [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
+### 1. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 
-- ⭐ 80 分｜💬 17 留言｜👤 zoenolan
+- ⭐ 369 分｜💬 129 留言｜👤 explosion-s
 
-### 2. [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+### 2. [Tailscale Traces 資料庫 Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 
-- ⭐ 116 分｜💬 46 留言｜👤 ColinWright
+- ⭐ 487 分｜💬 79 留言｜👤 ropbear
 
-### 3. [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
+### 3. [Zed: Delta](https://zed.dev/blog/introducing-delta)
+
+- ⭐ 39 分｜💬 1 留言｜👤 khy
+
+### 4. [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
+
+- ⭐ 402 分｜💬 104 留言｜👤 zoenolan
+
+### 5. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8)
+
+- ⭐ 67 分｜💬 8 留言｜👤 mmastrac
+
+### 6. [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
+
+- ⭐ 59 分｜💬 4 留言｜👤 mooreds
+
+### 7. [Tim King, AmigaDOS 開發者, has died](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)
+
+- ⭐ 139 分｜💬 23 留言｜👤 doener
+
+### 8. [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)
+
+- ⭐ 141 分｜💬 87 留言｜👤 gavinhking
+
+### 9. [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
+
+- ⭐ 37 分｜💬 25 留言｜👤 redbell
+
+### 10. [Reflex (YC W23) Is 招聘 Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
+
+- ⭐ 1 分｜💬 0 留言｜👤 apetuskey
+
+### 11. [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
+
+- ⭐ 165 分｜💬 129 留言｜👤 wertyk
+
+### 12. [為什麼 Tiny JPEGs Look Different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/)
+
+- ⭐ 171 分｜💬 32 留言｜👤 gutechh
+
+### 13. [Wednesday, August 12: GitHub, Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/76t89hbfb09h)
+
+- ⭐ 46 分｜💬 8 留言｜👤 arm32
+
+### 14. [License plate reader searches should require a warrant](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
+
+- ⭐ 382 分｜💬 238 留言｜👤 apwheele
+
+### 15. [AI is removing the middle class of 軟體 engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+
+- ⭐ 468 分｜💬 392 留言｜👤 florianherrengt
+
+### 16. [Bike Bureau: Report Bike Lane Obstructions](https://loudbicycle.com/bb)
+
+- ⭐ 30 分｜💬 19 留言｜👤 kdmccormick
+
+### 17. [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
+
+- ⭐ 232 分｜💬 64 留言｜👤 Philpax
+
+### 18. [Your Key to Success Isn't More Luck or Hard Work](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
+
+- ⭐ 5 分｜💬 1 留言｜👤 julienreszka
+
+### 19. [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+
+- ⭐ 205 分｜💬 102 留言｜👤 ColinWright
+
+### 20. [Shade Map](https://shademap.app)
+
+- ⭐ 74 分｜💬 20 留言｜👤 fredley
+
+### 21. [We just raised $400M in Series C](https://lovable.dev/blog/series-c)
+
+- ⭐ 37 分｜💬 23 留言｜👤 thoughtpeddler
+
+### 22. [The Bit Player: My Father with Steve Zissou](https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/)
+
+- ⭐ 17 分｜💬 0 留言｜👤 Thevet
+
+### 23. [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
 
 Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python packa
 
-- ⭐ 101 分｜💬 4 留言｜👤 adius
+- ⭐ 217 分｜💬 31 留言｜👤 adius
 
-### 4. [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
+### 24. [Felix and I](https://jacobfilipp.com/felix/)
 
-- ⭐ 336 分｜💬 136 留言｜👤 theanonymousone
+- ⭐ 57 分｜💬 5 留言｜👤 surprisetalk
 
-### 5. [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
+### 25. [Hax – a minimalist, terminal-native coding 代理 written in C](https://usehax.dev/)
 
-- ⭐ 25 分｜💬 15 留言｜👤 layer8
+- ⭐ 48 分｜💬 16 留言｜👤 OleksandrC
 
-### 6. [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)
+### 26. [The Essential Question: "What should I read next?"](https://thenewcuriosityshop.substack.com/p/the-essential-question)
 
-- ⭐ 44 分｜💬 4 留言｜👤 bookofjoe
+- ⭐ 7 分｜💬 1 留言｜👤 benbreen
 
-### 7. [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
+### 27. [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
 
-- ⭐ 231 分｜💬 125 留言｜👤 robtherobber
+- ⭐ 128 分｜💬 90 留言｜👤 layer8
 
-### 8. [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
+### 28. [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)
 
-- ⭐ 39 分｜💬 12 留言｜👤 bundie
+- ⭐ 132 分｜💬 11 留言｜👤 bookofjoe
 
-### 9. [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+### 29. [Automatic1111 for Apple metal, 40% speed up sd1.5](https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/)
 
-- ⭐ 263 分｜💬 40 留言｜👤 dcminter
+- ⭐ 48 分｜💬 18 留言｜👤 dmikey831
 
-### 10. [Worms: The Future of Yesterday's Worms Today](https://worm.net/)
+### 30. [Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian](https://arxiv.org/abs/2608.02478)
 
-- ⭐ 101 分｜💬 32 留言｜👤 doener
-
-### 11. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-
-- ⭐ 585 分｜💬 238 留言｜👤 nikolay
-
-### 12. [I built a jellyfish laboratory in my backyard [video]](https://www.youtube.com/watch?v=MILwxfQBm6Q)
-
-- ⭐ 10 分｜💬 0 留言｜👤 surprisetalk
-
-### 13. [Launch HN: Discovered Materials (YC P26) – AI agents to discover 新 materials](https://discoveredmaterials.com/research/)
-
-Hey HN, we&#x27;re Advaith and Akash from Discovered Materials ( https:&#x2F;&#x2F;discoveredmaterials.com&#x2F; ).  We 構建 AI agents that discover 新 materials for the semiconductor industry.GPUs 
-
-- ⭐ 31 分｜💬 8 留言｜👤 advaith08
-
-### 14. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
-
-- ⭐ 247 分｜💬 73 留言｜👤 EwanG
-
-### 15. [U of Michigan drops first-semester grades to ‘curb mental health crisis’](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4)
-
-https:&#x2F;&#x2F;archive.ph&#x2F;FBFjJ
-
-- ⭐ 77 分｜💬 138 留言｜👤 cwwc
-
-### 16. [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
-
-- ⭐ 111 分｜💬 53 留言｜👤 refp
-
-### 17. [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)
-
-https:&#x2F;&#x2F;archive.ph&#x2F;W48UVhttps:&#x2F;&#x2F;aimagazine.com&#x2F;news&#x2F;為什麼-did-OpenAI-head-of-ethics-ch...
-
-- ⭐ 465 分｜💬 441 留言｜👤 ilamont
-
-### 18. [llama.cpp](https://llama.app)
-
-- ⭐ 286 分｜💬 125 留言｜👤 kristianpaul
-
-### 19. [Stealing Reasoning Traces from Proprietary 大型語言模型 APIs](https://stolen-thoughts.com/)
-
-- ⭐ 646 分｜💬 290 留言｜👤 quantumgarbage
-
-### 20. [US hires over 2k video gamers as air traffic controllers](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
-
-- ⭐ 147 分｜💬 112 留言｜👤 shagie
-
-### 21. [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
-
-- ⭐ 403 分｜💬 205 留言｜👤 dayanruben
-
-### 22. [NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
-
-- ⭐ 241 分｜💬 123 留言｜👤 droidjj
-
-### 23. [CFTC declares market emergency, orders Kalshi to continue to operate in 新 York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
-
-- ⭐ 160 分｜💬 131 留言｜👤 michaefe
-
-### 24. [Newfoundland has a hard bread shortage, but 為什麼 do they eat it?](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276)
-
-- ⭐ 39 分｜💬 39 留言｜👤 empressplay
-
-### 25. [Bluesky's active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
-
-- ⭐ 58 分｜💬 105 留言｜👤 newusertoday
-
-### 26. [Music Generation by a Composer, for Musicians](https://monictheory.com)
-
-- ⭐ 7 分｜💬 4 留言｜👤 song_synth
-
-### 27. [Grok Bot](https://x.ai/bot)
-
-- ⭐ 310 分｜💬 285 留言｜👤 rvz
-
-### 28. [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
-
-- ⭐ 139 分｜💬 66 留言｜👤 burnto
-
-### 29. [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
-
-- ⭐ 154 分｜💬 122 留言｜👤 speckx
-
-### 30. [I hate packaging my 軟體 for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
-
-- ⭐ 56 分｜💬 56 留言｜👤 _sinelaw_
+- ⭐ 26 分｜💬 7 留言｜👤 sbulaev
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo
-- Making holograms with a pen plotter
+- Bigos (Polish Hunter's Stew) Recipe Builder
+- uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook
+- Commodore 8-Bit 5¼" Disk Images
+- The Ultimate Horse
+- Launch HN: Discovered Materials (YC P26) – AI agents to discover 新 materials
+- The hardest working font in Manhattan (2025)
+- SpaceXAI: Grok 4.6
+- ArenaAllocators don't play nicely with ArrayLists
+- Worms: The Future of Yesterday's Worms Today
+- Pixel Watch 5
+- Controversial creators are benefiting from monetization programs run by Meta
+- My 代理 Setup
+- German advocacy group lodges criminal complaint over Meta AI glasses
+- U of Michigan drops first-semester grades to ‘curb mental health crisis’
+- Show HN: KidScreen, a finite YouTube shelf chosen by parents
+- DeepSeek-V4-Pro-0813 Publish
+- Grok 4.6 (High) Intelligence, Performance and Price Analysis
+- Twitch Is Mining Peoples' Streams to Train Amazon's AI
+- US hires over 2k video gamers as air traffic controllers
+- CFTC declares market emergency, orders Kalshi to continue to operate in 新 York
+- FDA Admitted in Print That Nothing It Knows of Will Wash Cyclospora Off Lettuce
+- A shell exclamation mark is not for yelling. Be lazy
+- Bluesky's active user base is shrinking as its focus expands beyond the app
+- The Human Is the Loop
+- A BSON symbol namespace bypasses MongoDB's authorization check (CVE-2026-18690)
+- Fail Faster
+- Decrypting my Flume water monitor's MQTT traffic with a passive relay
+- DosTips, Windows scripting knowledge trove, scraped to death
+- European scientists developed a tactile sensor capable of 100 μm resolution
+- llama.cpp
+- I built a jellyfish laboratory in my backyard [video]
+- Show HN: /show-me: 代理 skill for compact visual representations
+- Bb: The IDE that builds itself
+- Introducing Grok 4.6
+- Google 推出 Pixel 11 Pro Fold
+- Electricity Pricing in the Age of AI
+- Compression is prediction
+- Show HN: Seisin – a desktop app that turns your 工作 search into analytics
+- Show HN: Smarter Shell History for Zsh
+- Show HN: Meteor shower, planet alignment, eclipse kit
+- Adults have struggled to set rules for AI in school. These teens figured it out
+- See what solar eclipses would look like from other planets
+- The little-known winstart.bat batch file
+- Netflix Has Peaked
 - The lifesaving secret hidden inside a horseshoe crab's blue blood
-- London Underground begins scanning passengers' faces
+- The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts
+- 92 percent of US adults are not going to the doctor – too expensive
+- Aaron Rodgers secretly funded his town's Flock-style cameras
+- The Neurosurgery Resident Who Proved Crouzeix's Conjecture [pdf]
+- OpenAI’s head of ethics leaves less than a year after joining
+- WorldClaw Agentic 3D open-world generation at scale
 - Retire the Abstractions
-- Jolt: Clojure compiler implemented with Chez Scheme
-- My favorite nonfiction animal books that make you go holy shit
-- Dutch Train Map Simulator
 - Go is an ideal language for AI-assisted 軟體 engineering
-- Show HN: Tamron Lens Utility Alternative on Linux
-- England set to be one of the first countries to eliminate hepatitis C
-- NVIDIA's Risky Business
-- Show HN: Line9 – A Mermaid rendering engine with its own layout
-- Flatworms, Ion Channels, and Burning Mouths
-- Neutrinos from Deep Inside Earth Provide a 新 Picture of the Mantle
+- Stealing Reasoning Traces from Proprietary 大型語言模型 APIs
+- Openhare: AI-powered desktop SQL client. Cross-platform. Built with Flutter
 - Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines
-- Manus will return to operating as an independent company
-- CSS properties you should know for better text designs
-- (ADVANCED) Guide to not fucking up QR codes
+- Show HN: Tamron Lens Utility Alternative on Linux
+- Computer scientists today are in the position of economists in the early 2000s
+- Signal adds 新 安全 feature to thwart man-in-the-middle attacks
+- Lazarus hackers exploited Windows zero-day to target defense firms
+- How hot has the European summer been? 22 cities of 42 beat records
+- Putting away the tools of his trade for good
+- Mojo 1.0
+- Show HN: Line9 – A Mermaid rendering engine with its own layout
+- NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard
 - Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet
-- Ethical Cold Outreach
+- CSS properties you should know for better text designs
+- Unearthing a 31 year old Easter egg in Ecco the Dolphin
+- Manus will return to operating as an independent company
 - As AI eats the 網頁, the internet’s collective memory is disappearing
-- What I learned by putting GitHub Copilot behind a MitM proxy
-- DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio
-- Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS
-- pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
-- Crew, a multiplayer workspace for humans and AI agents to work together
-- How Claude marks AI-generated content
-- Beef and dairy drive 41% of biodiversity damage linked to global farmland
-- RSI Simulator
-- Dropbox is an obvious PE Target?
-- To save C, we must save ABI (2022)
-- Muse Glimmer: 30B-parameter 模型 optimized for always-on local 代理 workflows
-- LFM2.5 2.6B 模型 competitive with 4x larger models
-- OpenSSH 10.5/10.5p1
-- Olo (Color)
-- Launch HN: Keet (YC S24) – An app to create video courses on anything
-- Nokia Design Archive
-- The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics
-- Emergent Introspective Awareness in Large Language Models
-- H3-metal – Native MiniMax-H3 推論 for Apple Silicon
-- Archive of Animal Photography Reveals 18,000 Species and Counting
-- The eBay Harassment Scandal
-- Faster floating point math with Rust's 新 API
-- Single-pixel width legible LCD font – Subpixel Text Encoding
-- Congressional Letter to Sam Altman demanding HuggingFace incident transparency [pdf]
-- Learning more about Claude's mathematical capabilities
-- Apple Silicon and macOS VMs: Faster 大型語言模型 推論 with llama.cpp
-- Microsoft Plugs Nearly 400 安全 Holes
-- Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
-- Show HN: Needle2: 14MB agentic 大型語言模型 for phones, wearables, smart home and robots
-- Recycle – Floppydisks
-- France to ban unsolicited telemarketing calls
-- Show HN: Ante, a coding 代理 in a single binary that runs offline
-- The UK's war on anonymity has come to America
-- Publishing Schematics Before “開源” Was a Word
-- Confessions of a Long-Distance Sailor
-- Show HN: Mcptoon – Token-efficient MCP CLI client
-- Exploiting 系統 Management Mode with a very long interrupt
-- John Steinbeck on Falling in Love: A 1958 Letter of Advice to His Teenage Son
-- Closing Canario Terminal source 代碼
-- Mars Bar from 1991 found – and it's 20g bigger than today's
-- Tech leaders say AI means less work – staff say they work up to 90 hours a week
-- 50k Boat Names
-- DEF CON crowd suspected in fake-hotspot attack on Delta flight
-- Chrome adopts what may be the 最佳 protection yet against account takeovers
-- Ask HN: In your experience, what are sound conventions for e-ink UI development?
-- Letter to Governor Abbott on responsible AI infrastructure in Texas
-- Chicken Scheme 6.0
-- Show HN: TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs
 
 
 ---
