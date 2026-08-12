@@ -4,204 +4,208 @@
 
 ---
 
-### 1. [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+### 1. [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
 
-- ⭐ 144 分｜💬 18 留言｜👤 dcminter
+- ⭐ 80 分｜💬 17 留言｜👤 zoenolan
 
-### 2. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+### 2. [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 
-- ⭐ 458 分｜💬 193 留言｜👤 nikolay
+- ⭐ 116 分｜💬 46 留言｜👤 ColinWright
 
-### 3. [llama.cpp](https://llama.app)
+### 3. [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
 
-- ⭐ 121 分｜💬 55 留言｜👤 kristianpaul
+Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python packa
 
-### 4. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- ⭐ 101 分｜💬 4 留言｜👤 adius
 
-- ⭐ 197 分｜💬 58 留言｜👤 EwanG
+### 4. [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
 
-### 5. [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+- ⭐ 336 分｜💬 136 留言｜👤 theanonymousone
 
-- ⭐ 66 分｜💬 18 留言｜👤 andsoitis
+### 5. [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
 
-### 6. [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+- ⭐ 25 分｜💬 15 留言｜👤 layer8
 
-- ⭐ 68 分｜💬 27 留言｜👤 burnto
+### 6. [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)
 
-### 7. [NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- ⭐ 44 分｜💬 4 留言｜👤 bookofjoe
 
-- ⭐ 214 分｜💬 111 留言｜👤 droidjj
+### 7. [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
 
-### 8. [Stealing Reasoning Traces from Proprietary 大型語言模型 APIs](https://stolen-thoughts.com/)
+- ⭐ 231 分｜💬 125 留言｜👤 robtherobber
 
-- ⭐ 593 分｜💬 268 留言｜👤 quantumgarbage
+### 8. [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
 
-### 9. [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
+- ⭐ 39 分｜💬 12 留言｜👤 bundie
 
-- ⭐ 23 分｜💬 5 留言｜👤 refp
+### 9. [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 
-### 10. [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
+- ⭐ 263 分｜💬 40 留言｜👤 dcminter
 
-- ⭐ 367 分｜💬 169 留言｜👤 dayanruben
+### 10. [Worms: The Future of Yesterday's Worms Today](https://worm.net/)
 
-### 11. [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)
+- ⭐ 101 分｜💬 32 留言｜👤 doener
+
+### 11. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+
+- ⭐ 585 分｜💬 238 留言｜👤 nikolay
+
+### 12. [I built a jellyfish laboratory in my backyard [video]](https://www.youtube.com/watch?v=MILwxfQBm6Q)
+
+- ⭐ 10 分｜💬 0 留言｜👤 surprisetalk
+
+### 13. [Launch HN: Discovered Materials (YC P26) – AI agents to discover 新 materials](https://discoveredmaterials.com/research/)
+
+Hey HN, we&#x27;re Advaith and Akash from Discovered Materials ( https:&#x2F;&#x2F;discoveredmaterials.com&#x2F; ).  We 構建 AI agents that discover 新 materials for the semiconductor industry.GPUs 
+
+- ⭐ 31 分｜💬 8 留言｜👤 advaith08
+
+### 14. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+
+- ⭐ 247 分｜💬 73 留言｜👤 EwanG
+
+### 15. [U of Michigan drops first-semester grades to ‘curb mental health crisis’](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4)
+
+https:&#x2F;&#x2F;archive.ph&#x2F;FBFjJ
+
+- ⭐ 77 分｜💬 138 留言｜👤 cwwc
+
+### 16. [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
+
+- ⭐ 111 分｜💬 53 留言｜👤 refp
+
+### 17. [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)
 
 https:&#x2F;&#x2F;archive.ph&#x2F;W48UVhttps:&#x2F;&#x2F;aimagazine.com&#x2F;news&#x2F;為什麼-did-OpenAI-head-of-ethics-ch...
 
-- ⭐ 388 分｜💬 394 留言｜👤 ilamont
+- ⭐ 465 分｜💬 441 留言｜👤 ilamont
 
-### 12. [Grok Bot](https://x.ai/bot)
+### 18. [llama.cpp](https://llama.app)
 
-- ⭐ 248 分｜💬 200 留言｜👤 rvz
+- ⭐ 286 分｜💬 125 留言｜👤 kristianpaul
 
-### 13. [DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
+### 19. [Stealing Reasoning Traces from Proprietary 大型語言模型 APIs](https://stolen-thoughts.com/)
 
-- ⭐ 15 分｜💬 0 留言｜👤 daau
+- ⭐ 646 分｜💬 290 留言｜👤 quantumgarbage
 
-### 14. [Dropbox is an obvious PE Target?](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
+### 20. [US hires over 2k video gamers as air traffic controllers](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
 
-- ⭐ 34 分｜💬 42 留言｜👤 Taikhoom10
+- ⭐ 147 分｜💬 112 留言｜👤 shagie
 
-### 15. [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
+### 21. [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 
-- ⭐ 151 分｜💬 15 留言｜👤 DemiGuru
+- ⭐ 403 分｜💬 205 留言｜👤 dayanruben
 
-### 16. [Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo](https://photosynthesis.camera)
+### 22. [NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
 
-- ⭐ 260 分｜💬 242 留言｜👤 sajomes
+- ⭐ 241 分｜💬 123 留言｜👤 droidjj
 
-### 17. [Flatworms, Ion Channels, and Burning Mouths](https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths)
+### 23. [CFTC declares market emergency, orders Kalshi to continue to operate in 新 York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
 
-- ⭐ 24 分｜💬 1 留言｜👤 surprisetalk
+- ⭐ 160 分｜💬 131 留言｜👤 michaefe
 
-### 18. [Show HN: Line9 – A Mermaid rendering engine with its own layout](https://line9.ai/diagram)
+### 24. [Newfoundland has a hard bread shortage, but 為什麼 do they eat it?](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276)
 
-Line9 is a 新 rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a popular text-based language for describing multiple types of d
+- ⭐ 39 分｜💬 39 留言｜👤 empressplay
 
-- ⭐ 63 分｜💬 14 留言｜👤 jumpalongjim
+### 25. [Bluesky's active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
 
-### 19. [Show HN: Tamron Lens Utility Alternative on Linux](https://github.com/yikerman/tamron-lens-control)
+- ⭐ 58 分｜💬 105 留言｜👤 newusertoday
 
-- ⭐ 57 分｜💬 0 留言｜👤 xiaoyu2006
+### 26. [Music Generation by a Composer, for Musicians](https://monictheory.com)
 
-### 20. [Retire the Abstractions](https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions)
+- ⭐ 7 分｜💬 4 留言｜👤 song_synth
 
-- ⭐ 37 分｜💬 46 留言｜👤 convexstrictly
+### 27. [Grok Bot](https://x.ai/bot)
 
-### 21. [Go is an ideal language for AI-assisted 軟體 engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+- ⭐ 310 分｜💬 285 留言｜👤 rvz
 
-- ⭐ 336 分｜💬 402 留言｜👤 0xedb
+### 28. [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
 
-### 22. [Jolt: Clojure compiler implemented with Chez Scheme](https://jolt-lang.github.io)
+- ⭐ 139 分｜💬 66 留言｜👤 burnto
 
-- ⭐ 186 分｜💬 63 留言｜👤 mark_l_watson
+### 29. [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
 
-### 23. [Neutrinos from Deep Inside Earth Provide a 新 Picture of the Mantle](https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/)
+- ⭐ 154 分｜💬 122 留言｜👤 speckx
 
-- ⭐ 33 分｜💬 2 留言｜👤 rbanffy
+### 30. [I hate packaging my 軟體 for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
 
-### 24. [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
-
-- ⭐ 522 分｜💬 373 留言｜👤 stevekemp
-
-### 25. [London Underground begins scanning passengers' faces](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
-
-- ⭐ 295 分｜💬 313 留言｜👤 BlueBerry2001
-
-### 26. [CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape](https://github.com/sgkdev/bad_garbage)
-
-- ⭐ 10 分｜💬 0 留言｜👤 eyberg
-
-### 27. [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
-
-- ⭐ 135 分｜💬 105 留言｜👤 speckx
-
-### 28. [Ethical Cold Outreach](https://blog.val.town/ethical-cold-outreach)
-
-- ⭐ 38 分｜💬 54 留言｜👤 stevekrouse
-
-### 29. [CSS properties you should know for better text designs](https://master.dev/blog/typographic-css-tricks/)
-
-- ⭐ 107 分｜💬 15 留言｜👤 ibobev
-
-### 30. [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users)
-
-- ⭐ 152 分｜💬 75 留言｜👤 thm
+- ⭐ 56 分｜💬 56 留言｜👤 _sinelaw_
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Emergent Introspective Awareness in Large Language Models
-- Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet
+- Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo
+- Making holograms with a pen plotter
+- The lifesaving secret hidden inside a horseshoe crab's blue blood
+- London Underground begins scanning passengers' faces
+- Retire the Abstractions
+- Jolt: Clojure compiler implemented with Chez Scheme
+- My favorite nonfiction animal books that make you go holy shit
+- Dutch Train Map Simulator
+- Go is an ideal language for AI-assisted 軟體 engineering
+- Show HN: Tamron Lens Utility Alternative on Linux
+- England set to be one of the first countries to eliminate hepatitis C
 - NVIDIA's Risky Business
-- pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
-- RSI Simulator
-- What I learned by putting GitHub Copilot behind a MitM proxy
+- Show HN: Line9 – A Mermaid rendering engine with its own layout
+- Flatworms, Ion Channels, and Burning Mouths
+- Neutrinos from Deep Inside Earth Provide a 新 Picture of the Mantle
+- Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines
+- Manus will return to operating as an independent company
+- CSS properties you should know for better text designs
+- (ADVANCED) Guide to not fucking up QR codes
+- Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet
+- Ethical Cold Outreach
 - As AI eats the 網頁, the internet’s collective memory is disappearing
+- What I learned by putting GitHub Copilot behind a MitM proxy
+- DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio
 - Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS
-- The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics
-- OpenSSH 10.5/10.5p1
+- pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
 - Crew, a multiplayer workspace for humans and AI agents to work together
-- Launch HN: Keet (YC S24) – An app to create video courses on anything
 - How Claude marks AI-generated content
+- Beef and dairy drive 41% of biodiversity damage linked to global farmland
+- RSI Simulator
+- Dropbox is an obvious PE Target?
 - To save C, we must save ABI (2022)
-- Archive of Animal Photography Reveals 18,000 Species and Counting
-- LFM2.5 2.6B 模型 competitive with 4x larger models
-- US hires over 2k video gamers as air traffic controllers
-- DEF CON crowd suspected in fake-hotspot attack on Delta flight
-- Apple Silicon and macOS VMs: Faster 大型語言模型 推論 with llama.cpp
 - Muse Glimmer: 30B-parameter 模型 optimized for always-on local 代理 workflows
-- Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI
-- Gemini becomes Google's fastest-growing product ever as it hits 1B users
-- H3-metal – Native MiniMax-H3 推論 for Apple Silicon
+- LFM2.5 2.6B 模型 competitive with 4x larger models
+- OpenSSH 10.5/10.5p1
+- Olo (Color)
+- Launch HN: Keet (YC S24) – An app to create video courses on anything
 - Nokia Design Archive
+- The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics
+- Emergent Introspective Awareness in Large Language Models
+- H3-metal – Native MiniMax-H3 推論 for Apple Silicon
+- Archive of Animal Photography Reveals 18,000 Species and Counting
+- The eBay Harassment Scandal
 - Faster floating point math with Rust's 新 API
-- 新 Bedford police officer accused of using Flock cameras to track ex-partner
-- Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub
-- France to ban unsolicited telemarketing calls
-- Dogs can tell when you're happy, sad or frustrated
+- Single-pixel width legible LCD font – Subpixel Text Encoding
+- Congressional Letter to Sam Altman demanding HuggingFace incident transparency [pdf]
 - Learning more about Claude's mathematical capabilities
-- Recycle – Floppydisks
+- Apple Silicon and macOS VMs: Faster 大型語言模型 推論 with llama.cpp
+- Microsoft Plugs Nearly 400 安全 Holes
 - Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
 - Show HN: Needle2: 14MB agentic 大型語言模型 for phones, wearables, smart home and robots
-- Microsoft Plugs Nearly 400 安全 Holes
-- Statin use vs. death rate from cardiovascular diseases (2019)
-- The UK's war on anonymity has come to America
-- Show HN: Mcptoon – Token-efficient MCP CLI client
-- OpenAI and Anthropic hidden CoT leaks when given deep_think tool.
+- Recycle – Floppydisks
+- France to ban unsolicited telemarketing calls
 - Show HN: Ante, a coding 代理 in a single binary that runs offline
-- Show HN: TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs
-- Closing Canario Terminal source 代碼
+- The UK's war on anonymity has come to America
 - Publishing Schematics Before “開源” Was a Word
-- What happens when the AI bubble pops?
 - Confessions of a Long-Distance Sailor
+- Show HN: Mcptoon – Token-efficient MCP CLI client
 - Exploiting 系統 Management Mode with a very long interrupt
-- A 新 study of a bot running a store finds it is friendly but not very smart
+- John Steinbeck on Falling in Love: A 1958 Letter of Advice to His Teenage Son
+- Closing Canario Terminal source 代碼
 - Mars Bar from 1991 found – and it's 20g bigger than today's
-- Chicken Scheme 6.0
-- Introducing Unsloth Desktop
-- Halcyon Video – a 3D video store for your media 伺服器
+- Tech leaders say AI means less work – staff say they work up to 90 hours a week
 - 50k Boat Names
-- Suzanne: AI tool for designing and manufacturing physical products
+- DEF CON crowd suspected in fake-hotspot attack on Delta flight
+- Chrome adopts what may be the 最佳 protection yet against account takeovers
 - Ask HN: In your experience, what are sound conventions for e-ink UI development?
 - Letter to Governor Abbott on responsible AI infrastructure in Texas
-- Tech leaders say AI means less work – staff say they work up to 90 hours a week
-- OpenAI 推出 ChatGPT desktop app for Linux
-- Toxic underground fires spreading at California landfills
-- Stowaway – Take the window seat on any plane or satellite overhead
-- Who Pays for the High-Powered Grid That Data Centers Need?
-- What's the 最佳 程式設計 language for coding agents?
-- Exploring Claude/GPT Knowledge Cutoffs and Pre-訓練 Timelines
-- $580M undersea cable rerouted to avoid the grave of Dobby the House Elf
-- Docker Sandboxes – Disposable, isolated sandboxes for AI agents
-- Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees
-- We Got Better at Keeping You Alive. Not at Keeping You Healthy
-- Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers
-- Run Android ARM64 VR APKs on Apple Vision Pro
-- Show HN: Scroll through all 43252003274489856000 Rubik's Cube states
-- Walrus: An Efficient Decentralized Storage 網絡
-- The Law of Jante (2015)
+- Chicken Scheme 6.0
+- Show HN: TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs
 
 
 ---
