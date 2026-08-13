@@ -12,7 +12,7 @@
 
 ### 2. [Android間諜軟體假冒巴林政府民防警報App散播，於中東衝突期間誘騙民眾下載](https://www.ithome.com.tw/news/178119)
 
-資安業者Dream近日揭露假冒政府民防警報App的Android間諜軟體BH Alert，在中東衝突期間，鎖定需要接收民防警報的民眾，於巴林及波斯灣地區散布。攻擊者架設仿冒Google Play頁面，冒充巴林民防及政府機關，並以假評論、下載數等資訊增加可信度，誘騙使用者下載該App。Dream從程式內的俄文及其他線索判斷，開發者可能是俄語系人士，但目前尚無證據可歸因於特定組織。
+這幾天因揭露中國駭客疑似使用AI自主攻擊臺灣政府機關，而聲名大噪的以色列資安新創Dream 安全，稍早前也曾揭露一款假冒政府民防警報App的Android間諜軟體BH Alert，在中東衝突期間，鎖定需要接收民防警報的民眾，於巴林及波斯灣地區散布。
 
 - 📰 **iThome 科技**
 
@@ -36,7 +36,7 @@
 
 ### 6. [自主調整攻擊鏈！中國駭客AI代理以貝氏機率模型動態切換攻擊路徑，臺灣政府與關鍵基礎設施遭鎖定](https://www.ithome.com.tw/news/178113)
 
-以色列資安新創Dream 安全向國際媒體《金融時報》披露，一夥疑似來自中國的駭客組織，利用Hermes與OpenClaw的開源AI代理框架組合成「自主網攻軍團」，對臺灣政府機關及能源關鍵基礎設施發動驚人的自動化攻擊行��。對此，數位發展部資通安全署已發布緊急說明；更值得關注的是，該事件也印證資安界先前對於「AI代理能快速動態切換攻擊鏈」的威脅警訊。
+以色列資安新創Dream 安全向國際媒體《金融時報》披露，一夥疑似來自中國的駭客組織，利用Hermes與OpenClaw的開源AI代理框架組合成「自主網攻軍團」，對臺灣政府機關及能源關鍵基礎設施發動驚人的自動化攻擊行動。對此，數位發展部資通安全署已發布緊急說明；更值得關注的是，該事件也印證資安界先前對於「AI代理能快速動態切換��擊鏈」的威脅警訊。
 
 - 📰 **iThome 科技**
 
@@ -48,7 +48,7 @@
 
 ### 8. [中國駭客利用AI框架攻擊臺灣政府，4天內竊得逾2,500筆人員資料](https://www.ithome.com.tw/news/178112)
 
-8月12日金融時報報導中國駭客使用AI自主攻擊臺灣政府��透露此事的以色列AI資安新創Dream 安全也發布部落格文章，公布這起事故發生的過程，以Hermes和OpenClaw為基礎、由多個AI代理組成的自主攻擊框架，從7月1日至4日，對臺灣政府發動12波攻
+8月12日金融時報報導中國駭客使用AI自主攻擊臺灣政府，透露此事的以色列AI資安新創Dream 安全也發布部落格文章，公布這起事故發生的過程，以Hermes和OpenClaw為基礎、由多個AI代���組成的自主攻擊框架，從7月1日至4日，對臺灣政府發動12波攻
 
 - 📰 **iThome 科技**
 
@@ -76,7 +76,7 @@ Google周三（8/12）舉行Made by Google硬體發表會，推出Pixel 11、Pix
 
 ### 12. [商用RISC-V處理器首度被證實可受多種Spectre攻擊，Linux防護仍有缺口](https://www.ithome.com.tw/news/178107)
 
-德國CISPA與比利時KU Leuven團隊在資���學術研討會USENIX 安全 2026發表研究，實測SiFive P550與T-Head玄鐵C910、C920商用RISC-V處理器，確認也會受到多種Spectre攻擊影響。研究人員也在C910上完成讀取Linux核心記憶體的攻擊示範，顯示RISC-V進入高效能亂序執行設計後，也面臨與高階x86及Arm處理器相同類型的推測執行安全問題。
+德國CISPA與比利時KU Leuven團隊在資安學術研討會USENIX 安全 2026發表研究，實測SiFive P550與T-Head玄鐵C910、C920商用RISC-V處理器，確認也會受到多種Spectre攻擊影響��研究人員也在C910上完成讀取Linux核心記憶體的攻擊示範，顯示RISC-V進入高效能亂序執行設計後，也面臨與高階x86及Arm處理器相同類型的推測執行安全問題。
 
 - 📰 **iThome 科技**
 
@@ -143,7 +143,7 @@ Google DeepMind周三（8/12）推出手語轉文字AI模型SL2T，可透過手�
 
 ### 23. [美國聯邦新版資安日誌政策納入日誌成熟度模型，可供企業借鏡](https://www.ithome.com.tw/news/178096)
 
-美國政府改版資安日誌政策，行政管理和預算局（Office of Management and Budget，OMB）發布M-26-14備忘錄，提出新版日誌成熟度模型，用來評估聯邦機構各資訊系統的日誌管理成熟度���
+美國政府改版資安日誌政策，行政管理和預算局（Office of Management and Budget，OMB）發布M-26-14備忘錄，提出新版日誌成熟度模型，用來評估聯邦機構各資訊系統的日誌管理成熟度。
 
 - 📰 **iThome 科技**
 
@@ -180,7 +180,7 @@ Xirp本身不提供新的AI模型，而是能執行及管理不同AI程式開發
 
 ### 29. [台灣大擬砸逾291億元公開收購精誠，拼持股過半深化AI、企業ICT布局](https://www.ithome.com.tw/news/178087)
 
-台灣大哥大今天(8/12)晚間宣布董事會決議，將透過全資子公司台信電訊公開收購精誠資訊普通股，目標為增持至少39%股權。台灣大目前已持有精誠11.86%股權，為精誠最大單一法人股東，若本次收購達到最低目標，持股將會超過50%；若達公開收購上限58%，將成為精誠的主要控���股東。
+台灣大哥大今天(8/12)晚間宣布董事會決議，將透過全資子公司台信電訊公開收購精誠資訊普通股，目標為增持至少39%股權。台灣大目前已持有精誠11.86%股權，為精誠最大單一法人股東，若本次收購達到最低目標，持股將會超過50%；若達公開收購上限58%，將成為精誠的主要控制股東。
 台灣大財務長暨發言人張家麒在證交所動大訊息發布中表示，這次公開收購的核心目的，是在AI時代深化精誠與台灣大的企業服務合作，整合精誠的IT資訊服務與台灣大的CT電信能力，透過「跨售、AI、區域化」三大方向創造綜效，並以倍增資服產業市占率為目標。
 
 - 📰 **iThome 科技**
@@ -195,6 +195,8 @@ Xirp本身不提供新的AI模型，而是能執行及管理不同AI程式開發
 
 ### 更多 AI 新聞 (70則)
 
+- The Painful Truth of Exactly How ICE’s 新 Shock Gloves Work (**Wired**)
+- 為什麼 This Prediction Market Banned Teens (**Wired**)
 - The 最佳 Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra (**Wired**)
 - The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now (**Wired**)
 - In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition (**Wired**)
@@ -205,23 +207,23 @@ Xirp本身不提供新的AI模型，而是能執行及管理不同AI程式開發
 - Priceline Promo Codes &amp; Coupons: 10% Off August 2026 (**Wired**)
 - Naturepedic Promo Codes: Get 20% Off Plus Free Pillows (**Wired**)
 - Bose Promo 代碼: 40% Off for August 2026 (**Wired**)
+- Jabra Promo Codes: 30% Off  Headphones, Headsets &amp; More (**Wired**)
 - Herman Miller Promo Codes: 40% Off August 2026 (**Wired**)
 - Braun Promo Codes: 15% Off August (**Wired**)
-- Alo Discount 代碼: 20% Off August 2026 (**Wired**)
 - Factor Promo 代碼: 50% Off Off Meal Prep (**Wired**)
 - Castlery Promo Codes: 15% Off for August 2026 (**Wired**)
 - HostGator Coupon Codes: 76% Off Hosting in August 2026 (**Wired**)
 - Visible Promo Codes and Coupons for August 2026 (**Wired**)
-- Jabra Promo Codes: 30% Off  Headphones, Headsets &amp; More (**Wired**)
 - Shark Promo Codes for August 2026 (**Wired**)
+- Alo Discount 代碼: 20% Off August 2026 (**Wired**)
 - The 最佳 Photos of the Big August Solar Eclipse (**Wired**)
 - The White House Is Going to Expand Its AI Policy (**Wired**)
 - The 最佳 Way to Avoid Diarrhea Lettuce? This Indoor Garden (**Wired**)
 - The Gender War Over ‘Obsession’ Has Come for Theme Parks (**Wired**)
 - Rogue AI Agents Aren’t Evil. They’re Just Eager to Please (**Wired**)
 - Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies (**Wired**)
-- 4 新 Camera Tricks on Google’s Latest Pixel 11 Smartphones (**Wired**)
 - Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date (**Wired**)
+- 4 新 Camera Tricks on Google’s Latest Pixel 11 Smartphones (**Wired**)
 - Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers (**Wired**)
 - This Coin-Sized Device Can Hack a Boeing 737 (**Wired**)
 - 如何 Select the Office Chair That’s Right For You (**Wired**)
@@ -242,9 +244,6 @@ Xirp本身不提供新的AI模型，而是能執行及管理不同AI程式開發
 - Walmart Promo Codes: Up to 65% Off for August 2026 (**Wired**)
 - Sam's Club Promo Codes and Membership Deals for August 2026 (**Wired**)
 - Zoro Coupon Codes: 55% Off August (**Wired**)
-- Rover Promo Codes and Referral Deals for 2026 (**Wired**)
-- Vimeo Promo Codes and Discounts: Up to 40% Off This August 2026 (**Wired**)
-- Motley Fool Promo 代碼: $200 Off on Stock Advisor August 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
@@ -265,6 +264,7 @@ Xirp本身不提供新的AI模型，而是能執行及管理不同AI程式開發
 - 10 最佳 Chrome Extensions That Are Perfect for Everyone (**TechCrunch**)
 - Most Frequently Asked Questions About  Email Marketing (**TechCrunch**)
 - 7 Free Websites Every Content Creator Needs to Know (**TechCrunch**)
+- 熱門 9 Free AI Tools That Make Your Life Easier (**TechCrunch**)
 
 
 ---

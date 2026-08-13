@@ -4,210 +4,208 @@
 
 ---
 
-### 1. [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+### 1. [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
 
-- ⭐ 76 分｜💬 36 留言｜👤 Markoff
+https:&#x2F;&#x2F;AI.Google.dev&#x2F;Gemini-API&#x2F;docs&#x2F;models&#x2F;Gemini-3.7-flas...
 
-### 2. [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
+- ⭐ 250 分｜💬 168 留言｜👤 thisisauserid
 
-- ⭐ 250 分｜💬 162 留言｜👤 allanrbo
+### 2. [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
 
-### 3. [The lattice of sets of natural numbers is rich](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/)
+- ⭐ 67 分｜💬 9 留言｜👤 pr337h4m
 
-- ⭐ 53 分｜💬 8 留言｜👤 benmandrew
+### 3. [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
 
-### 4. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+- ⭐ 99 分｜💬 26 留言｜👤 spelk
 
-https:&#x2F;&#x2F;API-docs.deepseek.com&#x2F;https:&#x2F;&#x2F;artificialanalysis.AI&#x2F;models&#x2F;deepseek-v4-prohttps:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024, h
+### 4. [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 
-- ⭐ 969 分｜💬 418 留言｜👤 explosion-s
+- ⭐ 64 分｜💬 25 留言｜👤 tosh
 
-### 5. [Picking berries is my meditation](https://www.tsoon.com/posts/picking-berries-meditation/)
+### 5. [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
 
-- ⭐ 31 分｜💬 19 留言｜👤 mooreds
+- ⭐ 42 分｜💬 16 留言｜👤 jkrauska
 
-### 6. [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
+### 6. [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
 
-- ⭐ 1104 分｜💬 207 留言｜👤 ropbear
+- ⭐ 320 分｜💬 98 留言｜👤 matt_d
 
-### 7. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
+### 7. [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
 
-https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8
+- ⭐ 26 分｜💬 1 留言｜👤 Bluestein
 
-- ⭐ 662 分｜💬 154 留言｜👤 Philpax
+### 8. [Where did the old 網頁 go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
 
-### 8. [ATG (YC F25) Is 招聘 Member of Technical Staff (Data Platform)](https://atg.science/careers)
+- ⭐ 26 分｜💬 9 留言｜👤 tdx
+
+### 9. [AI At Home Part 1: A Box Of Scraps](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
+
+- ⭐ 30 分｜💬 12 留言｜👤 timmmmmmay
+
+### 10. [Come for ENIAC, Stay for UNIVAC and Skeduflo](https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/)
+
+- ⭐ 45 分｜💬 11 留言｜👤 cainxinth
+
+### 11. [DeepSeek Harness 開發者 preview](https://deepseek.com/harness/en/)
+
+https:&#x2F;&#x2F;github.com&#x2F;deepseek-AI&#x2F;deepseek-harnesshttps:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide...
+
+- ⭐ 448 分｜💬 203 留言｜👤 bjin
+
+### 12. [How art invented humanity](https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around)
+
+- ⭐ 51 分｜💬 8 留言｜👤 prismatic
+
+### 13. [Kubernetes on Oxide: How customer needs shaped our integrations](https://oxide.computer/blog/kubernetes-on-oxide)
+
+- ⭐ 99 分｜💬 37 留言｜👤 stevehipwell
+
+### 14. [Gloomberb](https://gloom.sh/)
+
+- ⭐ 300 分｜💬 155 留言｜👤 rbanffy
+
+### 15. [Ordinary abundance](https://ordinaryabundance.com/)
+
+- ⭐ 108 分｜💬 36 留言｜👤 yen223
+
+### 16. [Choosing an AI 模型: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+
+- ⭐ 131 分｜💬 57 留言｜👤 toddmorey
+
+### 17. [Codex in ChatGPT desktop app for Linux is now in preview](https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027)
+
+- ⭐ 406 分｜💬 279 留言｜👤 allanrbo
+
+### 18. [GoAccess – Open-source real-time log analyzer and interactive viewer](https://goaccess.io/)
+
+- ⭐ 19 分｜💬 1 留言｜👤 gregsadetsky
+
+### 19. [I built a 500k-domain search engine for makers in a weekend for $10](https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html)
+
+- ⭐ 95 分｜💬 53 留言｜👤 dreamforever
+
+### 20. [ATG (YC F25) Is 招聘 Member of Technical Staff (Data Platform)](https://atg.science/careers)
 
 - ⭐ 1 分｜💬 0 留言｜👤 dkobran
 
-### 9. [Delta](https://zed.dev/blog/introducing-delta)
+### 21. [JDK 27 G1/Parallel/Serial GC Changes](https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html)
 
-- ⭐ 597 分｜💬 220 留言｜👤 khy
+- ⭐ 13 分｜💬 1 留言｜👤 0x54MUR41
 
-### 10. [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
+### 22. [Graduate student proves a quantum uncertainty principle for fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
 
-- ⭐ 200 分｜💬 91 留言｜👤 matt_d
+- ⭐ 47 分｜💬 6 留言｜👤 bookofjoe
 
-### 11. [Antiqua–Fraktur dispute](https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute)
+### 23. [Show HN: MCP Memory – Fast 代理 Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory)
 
-- ⭐ 121 分｜💬 38 留言｜👤 buzzy_hacker
+- ⭐ 47 分｜💬 28 留言｜👤 pcbmaker20
 
-### 12. [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html)
+### 24. [We eliminated 1,400 CVEs in NanoClaw's container images](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
 
-https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis...https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc...
+- ⭐ 59 分｜💬 39 留言｜👤 omrimaya
 
-- ⭐ 592 分｜💬 710 留言｜👤 Markoff
+### 25. [Launch HN: Bullet (YC S26) – A Faster Coding 代理](https://www.codewithbullet.com)
 
-### 13. [Come for Eniac, Stay for Univac and Skeduflo](https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/)
+Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding 代理.Bullet started in a 資深 year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure
 
-- ⭐ 10 分｜💬 1 留言｜👤 cainxinth
+- ⭐ 25 分｜💬 26 留言｜👤 adi1
 
-### 14. [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
+### 26. [Show HN: OJCP – an open protocol for 代理-consumable 工作 data](https://ojcp.dev/)
 
-- ⭐ 499 分｜💬 134 留言｜👤 zoenolan
+Author here!Agents are applying to jobs for people right now, with progressively more volume, and there&#x27;s nothing built for it. So they scrape 職業 pages and fight ATS forms with Playwright&#x2
 
-### 15. [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+- ⭐ 16 分｜💬 3 留言｜👤 fraywing
 
-- ⭐ 144 分｜💬 159 留言｜👤 gumby271
+### 27. [Better Gaussian Splatting in Julia](https://pxl-th.github.io/blog/better-gs-julia/)
 
-### 16. [The punched card tabulator](https://www.ibm.com/history/punched-card-tabulator)
+- ⭐ 97 分｜💬 13 留言｜👤 pxl-th
 
-- ⭐ 26 分｜💬 9 留言｜👤 Bluestein
+### 28. [I requested a copy of my data from McDonald’s loyalty program](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
 
-### 17. [Mushroom behind 'tiny people' hallucinations identified](https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html)
+- ⭐ 160 分｜💬 193 留言｜👤 thehoff
 
-- ⭐ 198 分｜💬 157 留言｜👤 wglb
+### 29. [The Indo-European Family Tree](https://djbinder.com/language-tree/)
 
-### 18. [為什麼 Target Common Lisp for 代碼 Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
+- ⭐ 40 分｜💬 31 留言｜👤 benbreen
 
-- ⭐ 124 分｜💬 102 留言｜👤 oumua_don17
+### 30. [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
 
-### 19. [Grok 4.6](https://x.ai/news/grok-4-6)
-
-https:&#x2F;&#x2F;artificialanalysis.AI&#x2F;articles&#x2F;grok-4-6-benchmarks-a...
-
-- ⭐ 585 分｜💬 535 留言｜👤 iLuddite
-
-### 20. [Tim King, AmigaDOS 開發者, has died](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)
-
-- ⭐ 285 分｜💬 35 留言｜👤 doener
-
-### 21. [Launch HN: Discovered Materials (YC P26) – AI agents to discover 新 materials](https://discoveredmaterials.com/research/)
-
-Hey HN, we&#x27;re Advaith and Akash from Discovered Materials ( https:&#x2F;&#x2F;discoveredmaterials.com&#x2F; ).  We 構建 AI agents that discover 新 materials for the semiconductor industry.GPUs 
-
-- ⭐ 149 分｜💬 32 留言｜👤 advaith08
-
-### 22. [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
-
-- ⭐ 222 分｜💬 154 留言｜👤 redbell
-
-### 23. [Happy 45th Birthday to the IBM PC and 模型 F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-
-- ⭐ 103 分｜💬 41 留言｜👤 tart-lemonade
-
-### 24. [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
-
-- ⭐ 149 分｜💬 192 留言｜👤 carabiner
-
-### 25. [The Three-Stroke Problem](https://penpot.app/blog/the-three-stroke-problem/)
-
-- ⭐ 22 分｜💬 0 留言｜👤 elenathor
-
-### 26. [為什麼 tiny JPEGs look different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/)
-
-- ⭐ 321 分｜💬 66 留言｜👤 gutechh
-
-### 27. [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
-
-- ⭐ 133 分｜💬 47 留言｜👤 wwilson
-
-### 28. [From rubber boots to Copa: When MicroProse Soccer revolutionized football](https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/)
-
-- ⭐ 33 分｜💬 5 留言｜👤 TMWNN
-
-### 29. [Shade Map](https://shademap.app)
-
-- ⭐ 222 分｜💬 55 留言｜👤 fredley
-
-### 30. [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)
-
-- ⭐ 286 分｜💬 217 留言｜👤 gavinhking
+- ⭐ 345 分｜💬 374 留言｜👤 Markoff
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- The mathematical physics of rainbows and glories (2001) [pdf]
+- Time to Move On: Querying Without Nulls and Bags
+- From 13.5M installs to 499 active devices
+- The lattice of sets of natural numbers is rich (2021)
+- Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM
+- Surfil On-device control plane for AI coding agents
+- Nine PBS could lose 70 years of archives after 雲端 vendor goes defunct
+- Translating the Renaissance: 17,000+ historical source texts
+- Picking berries is my meditation
+- Amazon will train on Twitch streamers' content by default, unless they opt out
+- Show HN: At 16K features, flat autoencoders break. Curved space doesn't
+- Chicago Mercantile Exchange will list futures contracts for GPU costs
+- Cloudflare Durable Objects, Ported to Rails
+- Flock (Again) Activates a Camera 系統 a Town Had Voted to Shut Down
+- DeepSeek API Pricing 更新
+- Antiqua–Fraktur dispute
+- Flutter 3.47
+- Launch HN: Discovered Materials (YC P26) – AI agents to discover 新 materials
+- DeepSeek V4 Pro 0813
+- OpenCV AI Competition 2026
+- Tracking down the 16-year-old WAL-reset SQLite bug
+- 構建 a Stratum 1 PTP Grandmaster on a Budget
+- Samsung is using Claude to verify chip designs. It's not going smoothly
+- Heart aerospace completes first flight of largest electric aircraft
+- 為什麼 Target Common Lisp for 代碼 Generation?
+- Thanks to social media, canned sardines are a scarcity on the supermarket shelf
+- Happy 45th Birthday to the IBM PC and 模型 F/XT
+- Qwen3.8-2.4T
+- Open Sourcing of X
+- DeepSeek up to 1000% price hike is live
+- 新 模型 BDH-CQ costs $0.007 per task 11x less than OpenAI Luna even w 80% off
+- Three years after police raid on Kansas newspaper, reporter settles for $850K
+- Delta
+- Show HN: Track habits, metrics, time and whateven you think worth tracking
+- Breaking the WAL
+- Principia Mathematica is modern and insightful
+- You Can't Copy Palantir
+- Rails Is Built for AI
+- AI Generated 3D Models Flood Market, but Almost No One Is Buying Them
 - Pixel Watch 5
+- The Three-Stroke Problem
 - Lovable raises $400M Series C
-- 構建 Wide, Ship Narrow
-- Record heat is drying up Europe's major rivers, as these striking images show
-- Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation
-- Rapid warming may tip AMOC at 2°C, slower warming may avert collapse
-- AI is removing the middle class of 軟體 engineering?
+- uBlock Origin is giving up the fight to keep ads off Facebook
+- Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed
+- Namecheap phoenix datacenter overheats taking all sites down
+- White House taps 安全 firms for offensive hack-back operations
+- Mushroom behind 'tiny people' hallucinations identified
 - The hardest working font in Manhattan (2025)
+- 構建 Wide, Ship Narrow
+- Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed
+- From rubber boots to Copa: When MicroProse Soccer revolutionized football
+- 2026 Eclipse Webcams
 - High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons
+- In a first, US will allow some private firms to carry out cyberattacks
 - License plate reader searches should require a warrant
-- Show HN: Ballet – Workflow automation that writes integrations against any API
-- Pixel 11 Pro Fold
-- U of Michigan drops first-semester grades to ‘curb mental health crisis’
-- Process as a Proxy for Motivation
-- Felix and I
-- Lord of the Rings fan fighting for a refund gets it from Google, sort of
 - The Strongest El Niño Ever Forecast and the Hunger It Will Leave Behind
-- Show HN: UTC Time - live clock, ISO 8601, Unix timestamp
-- My 代理 Setup
-- Delphi 13 Community Edition Is Now Available
-- Hax – a minimalist, terminal-native coding 代理 written in C
+- U of Michigan drops first-semester grades to ‘curb mental health crisis’
+- Pixel 11 Pro Fold
+- Tim King, AmigaDOS 開發者, has died
+- Anthropic in talks to buy Decart AI for $6B
+- Grok 4.6
+- HTML over WebSockets: real-time SPAs with barely any JavaScript
+- Record heat is drying up Europe's major rivers, as these striking images show
+- Anthropic: Introducing The Conceptual Reasoning Index
+- Show HN: Ballet – Workflow automation that writes integrations against any API
+- Felix and I
+- 2026 Clacton By-Election
+- 為什麼 tiny JPEGs look different in Chrome
+- LoongLeak: A Vulnerability Affecting Chinese Loongson 3A5000 and 3A6000 CPUs
 - Worms: The Future of Yesterday's Worms Today
-- Debugging Information for Inlined Functions
-- Bigos (Polish Hunter's Stew) Recipe Builder
-- US hires over 2k video gamers as air traffic controllers
-- Bluesky's active user base is shrinking as its focus expands beyond the app
-- CFTC declares market emergency, orders Kalshi to continue to operate in 新 York
-- DosTips, Windows scripting knowledge trove, scraped to death
-- The Bit Player: My Father with Steve Zissou
-- Glaciers on the Climate Dashboard
-- Commodore 8-Bit 5¼" Disk Images
-- A shell exclamation mark is not for yelling. Be lazy
-- Chartreuse, a case study in how scarcity and authenticity can drive desirability
-- NVIDIA doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000
-- I built a browser-native SysEx librarian for 80s/90s synthesizers
-- The Human Is the Loop
-- Compression is prediction
-- Learning 10000 pictures (1973) [pdf]
-- Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian
-- The Ultimate Horse
-- FDA Admitted in Print That Nothing It Knows of Will Wash Cyclospora Off Lettuce
-- Automatic1111 for Apple metal, 40% speed up sd1.5
-- A Tale of Dynamic 程式設計 (2022)
-- Waits: Arthur Samuel's Checkers
-- DeepSeek-V4-Pro-0813 Publish
-- What sort of maths are LLMs good at?
-- ArenaAllocators don't play nicely with ArrayLists
-- White House Authorizes Private U.S. Companies to Hack Foreign Cybercrime Groups
-- OpenAI’s head of ethics leaves less than a year after joining
-- California Uber, Lyft drivers win union recognition
-- llama.cpp
-- Apple TV just added a bunch of classic movies to stream for free
-- Controversial creators are benefiting from monetization programs run by Meta
-- Stealing Reasoning Traces from Proprietary 大型語言模型 APIs
-- As AI eats the 網頁, the internet’s collective memory is disappearing
-- Program images and portable Scheme back ends for Jolt
-- Unearthing a 31 year old Easter egg in Ecco the Dolphin
-- Edge is dropping older extensions(Manifest V2), affecting popular privacy tools
-- 'The Cheese and the Worms' by Carlo Ginzburg Review
-- Sergey Brin has spent $100M to fight California's proposed billionaire tax
-- Go is an ideal language for AI-assisted 軟體 engineering
-- The lifesaving secret hidden inside a horseshoe crab's blue blood
-- Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index
-- People who grew up with high economic connectedness earn more
-- Show HN: Posts grew 6x since ChatGPT, but success rate remained relatively flat
-- WorldClaw Agentic 3D open-world generation at scale
-- European scientists developed a tactile sensor capable of 100 μm resolution
-- Cursor Design Mode
-- Muse Glimmer: 30B-parameter 模型 optimized for always-on local 代理 workflows
-- How Claude marks AI-generated content
 
 
 ---
