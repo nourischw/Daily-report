@@ -4,204 +4,203 @@
 
 ---
 
-### 1. [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
+### 1. [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 
-- ⭐ 643 分｜💬 313 留言｜👤 pella
+- ⭐ 414 分｜💬 306 留言｜👤 erdaltoprak
 
-### 2. [DeepSeek peak/off-peak pricing 更新](https://api-docs.deepseek.com/news/news260813/)
+### 2. [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo)
 
-- ⭐ 83 分｜💬 36 留言｜👤 fagnerbrack
+- ⭐ 187 分｜💬 99 留言｜👤 tcp_handshaker
 
-### 3. [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)
+### 3. [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/)
 
-- ⭐ 19 分｜💬 4 留言｜👤 softwaredoug
+- ⭐ 179 分｜💬 71 留言｜👤 surprisetalk
 
-### 4. [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+### 4. [RustDesk now supports true unattended 遠端 access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
 
-https:&#x2F;&#x2F;AI.Google.dev&#x2F;Gemini-API&#x2F;docs&#x2F;models&#x2F;Gemini-3.7-flas...
+- ⭐ 90 分｜💬 32 留言｜👤 rustdesk
 
-- ⭐ 888 分｜💬 450 留言｜👤 thisisauserid
+### 5. [為什麼 does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 
-### 5. [Differential Heuristics](https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/)
+- ⭐ 502 分｜💬 468 留言｜👤 numeri
 
-- ⭐ 50 分｜💬 3 留言｜👤 ibobev
+### 6. [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
 
-### 6. [為什麼 does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
+- ⭐ 941 分｜💬 475 留言｜👤 pella
 
-- ⭐ 162 分｜💬 146 留言｜👤 numeri
+### 7. [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1)
 
-### 7. [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+- ⭐ 114 分｜💬 33 留言｜👤 mplappert
 
-- ⭐ 640 分｜💬 252 留言｜👤 pr337h4m
+### 8. [AI by Hand](https://www.byhand.ai/)
 
-### 8. [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
+- ⭐ 62 分｜💬 4 留言｜👤 sans_souse
 
-- ⭐ 274 分｜💬 146 留言｜👤 somesoftdev
+### 9. [Maximizing the value of your Claude 代碼 sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
 
-### 9. [Show HN: C# Game Engine with its own scripting language and IDE](https://github.com/ArcadeMakerSources/ArcadeMaker)
+- ⭐ 45 分｜💬 23 留言｜👤 twapi
 
-- ⭐ 68 分｜💬 34 留言｜👤 am-gm
+### 10. [Ultraviolet Bird Photography](https://uvbirds.com/)
 
-### 10. [Protect Your Relays](https://www.iroh.computer/blog/authenticated-relays)
+- ⭐ 43 分｜💬 7 留言｜👤 EndXA
 
-- ⭐ 10 分｜💬 7 留言｜👤 surprisetalk
+### 11. [Forbidden City Cabbage](https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl)
 
-### 11. [DeepSeek Harness 開發者 preview](https://deepseek.com/harness/en/)
+- ⭐ 27 分｜💬 2 留言｜👤 dude250711
 
-https:&#x2F;&#x2F;github.com&#x2F;deepseek-AI&#x2F;deepseek-harnesshttps:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide...
+### 12. [I turned my RSS feeds into an e-ink newspaper to stop reading on my phone](https://heyjonny.dev/posts/rss-to-eink-newspaper/)
 
-- ⭐ 687 分｜💬 280 留言｜👤 bjin
+- ⭐ 68 分｜💬 27 留言｜👤 speckx
 
-### 12. [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
+### 13. [Every Fucking Website (2020)](https://lxe.github.io/everywebsite/)
 
-- ⭐ 48 分｜💬 11 留言｜👤 pentestercrab
+- ⭐ 578 分｜💬 338 留言｜👤 doubletwoyou
 
-### 13. [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+### 14. [Moving integer division to floating-point is trivial](http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html)
 
-- ⭐ 657 分｜💬 167 留言｜👤 matt_d
+- ⭐ 12 分｜💬 0 留言｜👤 matt_d
 
-### 14. [We're not done with point clouds](https://claytonwramsey.com/blog/mvt/)
+### 15. [RayforceDB – a pure C analytics 資料庫 with a Lisp-like syntax](https://rayforcedb.com/)
 
-- ⭐ 21 分｜💬 2 留言｜👤 claytonwramsey
+- ⭐ 24 分｜💬 14 留言｜👤 sourdecor
 
-### 15. [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
+### 16. [France's 熱門 court blocks social media ban for under-15s](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
 
-- ⭐ 377 分｜💬 152 留言｜👤 spelk
+- ⭐ 126 分｜💬 63 留言｜👤 BlueBerry2001
 
-### 16. [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+### 17. [Don't classify, hallucinate](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)
 
-- ⭐ 177 分｜💬 46 留言｜👤 danabramov
+- ⭐ 176 分｜💬 74 留言｜👤 softwaredoug
 
-### 17. [Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)
+### 18. [In Australia, a home battery boom has helped cut wholesale power prices](https://e360.yale.edu/digest/australia-home-batteries)
 
-- ⭐ 37 分｜💬 12 留言｜👤 vforno
+- ⭐ 242 分｜💬 185 留言｜👤 speckx
 
-### 18. [Understanding is the 新 bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+### 19. [DeepSeek peak/off-peak pricing 更新](https://api-docs.deepseek.com/news/news260813/)
 
-- ⭐ 366 分｜💬 199 留言｜👤 sebg
+- ⭐ 212 分｜💬 112 留言｜👤 fagnerbrack
 
-### 19. [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
+### 20. [Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com)
 
-- ⭐ 376 分｜💬 200 留言｜👤 tosh
+LuaCAD models solids in Lua rather than the OpenSCAD language, with operator
+overloading for CSG (`a + b`, `a - b`, `a * b`).It ships with a CLI and a desktop app, including a preview area and a text 
 
-### 20. [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
+- ⭐ 32 分｜💬 6 留言｜👤 adius
 
-- ⭐ 249 分｜💬 125 留言｜👤 jkrauska
+### 21. [A Contract-Grade Verifier for 大型語言模型-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)
 
-### 21. [Nine PBS sues Iron Mountain over blocked access to archival data](https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/)
+- ⭐ 8 分｜💬 0 留言｜👤 Jimmc414
 
-- ⭐ 335 分｜💬 195 留言｜👤 vinayakborkar
+### 22. [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
-### 22. [What an improv stage can teach you about leading cross-cultural teams in Tokyo](https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo)
+- ⭐ 86 分｜💬 63 留言｜👤 u1hcw9nx
 
-- ⭐ 25 分｜💬 4 留言｜👤 pwim
+### 23. [AI 模型 Atlas – visualizing populations of ML models as interconnected 3D graph](https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0)
 
-### 23. [How Compaction Works in Pi](https://earendil.com/posts/compaction-in-pi/)
+- ⭐ 31 分｜💬 4 留言｜👤 bj-rn
 
-- ⭐ 181 分｜💬 74 留言｜👤 tosh
+### 24. [Self-hosted 網頁 push Cloudflare Worker, works on iOS](https://kukuroo.cc/)
 
-### 24. [Where did the old 網頁 go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
+- ⭐ 41 分｜💬 15 留言｜👤 saiday
 
-- ⭐ 199 分｜💬 191 留言｜👤 tdx
+### 25. [Gödel, Escher, Elisp: The Beauty of Macros](https://www.chiply.dev/post-elisp-macros-are-beautiful)
 
-### 25. [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
+- ⭐ 56 分｜💬 18 留言｜👤 JNRowe
 
-- ⭐ 124 分｜💬 39 留言｜👤 gfysfm
+### 26. [Discrete Fourier Transform by Hand](https://www.byhand.ai/p/28-discrete-fourier-transform)
 
-### 26. [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
+- ⭐ 15 分｜💬 1 留言｜👤 Bluestein
 
-- ⭐ 232 分｜💬 161 留言｜👤 ValdikSS
+### 27. [The TEMU-Fication of 軟體, Digital Goods and Services](https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/)
 
-### 27. [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+- ⭐ 91 分｜💬 67 留言｜👤 surprisetalk
 
-- ⭐ 115 分｜💬 91 留言｜👤 malshe
+### 28. [HashAgent – Share an AI 代理 as a URL, runs locally via WebGPU](https://hashagent.pages.dev/)
 
-### 28. [The Library of Ashurbanipal (2025)](https://www.historytoday.com/archive/feature/library-ashurbanipal)
+- ⭐ 38 分｜💬 4 留言｜👤 masonhsu
 
-- ⭐ 42 分｜💬 9 留言｜👤 samizdis
+### 29. [Earth.nullschool.net](https://earth.nullschool.net/)
 
-### 29. [Ordinary Abundance](https://ordinaryabundance.com/)
+- ⭐ 32 分｜💬 13 留言｜👤 TremendousJudge
 
-- ⭐ 334 分｜💬 164 留言｜👤 yen223
+### 30. [Differential Heuristics](https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/)
 
-### 30. [NP-overrated](https://gruhn.me/blog/2026-08-13/)
-
-- ⭐ 224 分｜💬 159 留言｜👤 theanonymousone
+- ⭐ 101 分｜💬 7 留言｜👤 ibobev
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- The Legend of the Novell NE2000 [video]
-- Credibility is the barrier to entry in silicon
-- Choosing an AI 模型: one prompt, 11 models, different results
-- How Gödel's Proof Works (2020)
-- Finite State Machines in Forth (1994)
-- Launch HN: Bullet (YC S26) – A Faster Coding 代理
-- an ambiguity in C89 which will never be fixed
-- Text AI watermarks will always be trivial to remove
-- Kubernetes on Oxide: How customer needs shaped our integrations
-- Cave of the Crystals
-- AI At Home Part 1: A Box Of Scraps
-- Gloomberb
-- HS₂ installs a plaque 40M below London to celebrate the Brunels' legacy
-- Heart aerospace completes first flight of largest electric aircraft
-- Mushroom behind 'tiny people' hallucinations identified
-- I want extern "fil-C"
+- We're not done with point clouds
+- Unsloth Qwen3.8-27B GGUF files
+- Ntfy – open-source Push to 行動
+- Apple proposes to take a 15% cut of purchases made outside the App Store
+- The Qdrant Output Connector
+- WhatCable: Know what your USB-C cable can do
+- Taxpayers Funded a $533M Artillery Plant That Made Nothing
+- 如何 ship a 資料庫 every day
+- Protect Your Relays
+- Show HN: Graft – Claude 代碼 hooks that cut grep tokens by 42%
+- Ruby 4.0 Universal RCE Deserialization Gadget Chain
+- Gemini 3.7 Flash
+- Show HN: Is AI Dumber Today? An index of AI 模型 experience from user's opinion
+- Cursor is now a part of SpaceX
+- Show HN: C# Game Engine with its own scripting language and IDE
+- People Are 'Marrying' Chatbots. These Lawmakers Want to Stop Them
+- Show HN: Online SNMP MIB 資料庫 - upload/view your own MIBs
+- The Library of Ashurbanipal (2025)
+- Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri
+- The modern economy is scam-powered
 - ATG (YC F25) Is 招聘 Member of Technical Staff (Data Platform)
-- Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game
-- Tocharian Online
-- How a device finds encrypted DNS by itself
-- How art invented humanity
+- 為什麼 開源 Matters for AI
+- What an improv stage can teach you about leading cross-cultural teams in Tokyo
+- Accelerating GPT-5.6 Sol Ultrafast
+- Private prisons announce $1.4B in revenue as immigration detentions climb
+- Hello, me. It's been a while
+- Show HN: Rdio – an open-source internet radio control suite
+- Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL
+- What I Learned Securing Sniffnet with the GitHub Secure 開源 Fund
+- X opens its ranking algorithm and exposes shadowbans
+- Blog about things you don't understand yet
+- My Dad Is in Prison. Here's 為什麼 I Built an AI Chatbot for His Electronic Tablet
+- DeepSeek Harness 開發者 preview
+- NP-overrated
+- Spaghettifying DRAM
+- Who's Tracking You? Use This 新 Service to Find Out
+- Choosing an AI 模型: one prompt, 11 models, different results
+- Launch HN: Bullet (YC S26) – A Faster Coding 代理
+- Mistral OCR 4.1
+- Text AI watermarks will always be trivial to remove
+- The Java Story – The official documentary [video]
+- How Gödel's Proof Works (2020)
+- Just how big is the hidden leverage of AI hyperscalers?
+- Kubernetes on Oxide: How customer needs shaped our integrations
+- The Legend of the Novell NE2000 [video]
+- Understanding is the 新 bottleneck
+- Ask HN: Should hard-tech founders join a problem or technology-first PhD lab?
+- Bluesky Protocol Services
+- The Jobless Boom Has Arrived
+- AI At Home Part 1: A Box Of Scraps
+- Credibility is the barrier to entry in silicon
+- Choose Boring Technology (2015)
+- Mushroom behind 'tiny people' hallucinations identified
+- Show HN: Artifex - Graph Based GPU Harness for AI Agents
+- A Plane Ran Out of Fuel over the Atlantic. The Pilots Saved 306 Lives
+- Heart aerospace completes first flight of largest electric aircraft
+- an ambiguity in C89 which will never be fixed
+- Finite State Machines in Forth (1994)
+- Gloomberb
+- Birds Are Shit
+- Nine PBS sues Iron Mountain over blocked access to archival data
+- US loses one-fourth of drone fleet as Iran war drains its arsenal
+- Apple sends 新 'Threat Notification' alerts over mercenary spyware attacks
+- Donkey.bas is 45 Years Old – 131 line of Glory
 - Launch HN: Discovered Materials (YC P26) – AI agents to discover 新 materials
-- Smooth Move: Taming Trajectories with Polynomials
-- 'Not acceptable': Judge orders Google to make rival app store installs easier
-- Better Gaussian Splatting in Julia
-- JDK 27 G1/Parallel/Serial GC Changes
-- Picking berries is my meditation
-- Codex in ChatGPT desktop app for Linux is now in preview
-- The lattice of sets of natural numbers is rich (2021)
-- GoAccess – Open-source real-time log analyzer and interactive viewer
-- DeepSeek V4 Pro 0813
-- Tracking down the 16-year-old WAL-reset SQLite bug
-- Come for ENIAC, Stay for UNIVAC and Skeduflo
-- SparrowMap – Cameras that watch government vehicles
-- Flutter 3.47
-- The Conceptual Reasoning Index
-- Deutsche Bank becomes first foreign yuan clearing bank in Europe
-- How AI text watermarking works
-- Qwen3.8 27B
-- Antiqua–Fraktur dispute
-- Show HN: MCP Memory – Fast 代理 Memory Using Google's OKF and SQLite FTS5
-- TRS-80 Color Computer Extended Basic Emulator in JavaScript
-- Qwen3.8-2.4T
-- 新 DeepSeek Pricing Published (Peak and Off-Peak)
-- Thanks to social media, canned sardines are a scarcity on the supermarket shelf
-- We eliminated 1,400 CVEs in NanoClaw's container images
-- The Indo-European Family Tree
-- The SvelteKit 3 Release Candidate is here
-- Graduate student proves a quantum uncertainty principle for fractals
-- 為什麼 Target Common Lisp for 代碼 Generation?
-- Crown 0.64 – Native and cross-platform game engine
-- The hardest working font in Manhattan (2025)
-- Delta
-- Happy 45th Birthday to the IBM PC and 模型 F/XT
-- My Rules for Using Spreadsheets
-- The Oldest Bar in Every US State
-- Pixel Watch 5
-- S.F.'s 熱門-paid employee made $900K. Here's what every city worker gets paid
-- I requested a copy of my data from McDonald’s loyalty program
-- uBlock Origin is giving up the fight to keep ads off Facebook
-- Connecticut judge says plaintiff hid messages for AI in court filings
-- Spain extends Almaraz nuclear plant operations through 2030
-- Breaking the WAL
-- Compute-optimal is not cluster-optimal
-- Lovable raises $400M Series C
-- Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun
-- Show HN: OJCP – an open protocol for 代理-consumable 工作 data
-- U of Michigan drops first-semester grades to ‘curb mental health crisis’
-- Chatbots are doing the work of Congress with little oversight
-- Move FreeBSD 系統 Between ZFS Disks
+- The "Disability Dongle": 為什麼 Silicon Valley Hates Me and You
+- Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP
+- How Compaction Works in Pi
+- Tocharian Online
+- I want extern "fil-C"
 
 
 ---
