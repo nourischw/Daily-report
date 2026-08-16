@@ -204,10 +204,17 @@ Google周四（8/13）公布號稱最強大程式撰寫及代理人開發模型G
 
 ### 更多 AI 新聞 (70則)
 
-- This Beautifully Weird Necklace Is Secretly a USB Drive (**Wired**)
+- Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape (**Wired**)
+- Astronomers Discover the Existence of a Black Hole Star (**Wired**)
+- It’s Never Too Early to Start Planning for the Next Two Solar Eclipses (**Wired**)
+- Someone Finally Fixed Installing Apps on a Mac (**Wired**)
+- TerraMow V1000 Review: Show Your Lawn Some Love (**Wired**)
+- Inside the Experimental Traps Scientists Set for Ghostly Neutrinos (**Wired**)
+- The 最佳 Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall (**Wired**)
 - Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride (**Wired**)
-- 6 最佳 Apple Watch Accessories to Upgrade Your Watch (2026) (**Wired**)
+- This Beautifully Weird Necklace Is Secretly a USB Drive (**Wired**)
 - Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade (**Wired**)
+- 6 最佳 Apple Watch Accessories to Upgrade Your Watch (2026) (**Wired**)
 - Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts (**Wired**)
 - Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever (**Wired**)
 - 5 最佳 Apple Watch Bands: Nike, Nomad, and Hermés (2026) (**Wired**)
@@ -247,12 +254,6 @@ Google周四（8/13）公布號稱最強大程式撰寫及代理人開發模型G
 - In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition (**Wired**)
 - 5 最佳 Android Tablets in 2026: Samsung, TCL, Amazon, and More (**Wired**)
 - The 10 最佳 Cooling Mattresses for Hot Sleepers (2026) (**Wired**)
-- CBP Workers Allegedly Used Government Databases to Spy on Exes, Crushes, and Colleagues (**Wired**)
-- There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It (**Wired**)
-- Priceline Promo Codes &amp; Coupons: 10% Off August 2026 (**Wired**)
-- Naturepedic Promo Codes: Get 20% Off Plus Free Pillows (**Wired**)
-- Bose Promo 代碼: 40% Off for August 2026 (**Wired**)
-- Castlery Promo Codes: 15% Off for August 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
@@ -273,7 +274,6 @@ Google周四（8/13）公布號稱最強大程式撰寫及代理人開發模型G
 - 10 最佳 Chrome Extensions That Are Perfect for Everyone (**TechCrunch**)
 - Most Frequently Asked Questions About  Email Marketing (**TechCrunch**)
 - 7 Free Websites Every Content Creator Needs to Know (**TechCrunch**)
-- 熱門 9 Free AI Tools That Make Your Life Easier (**TechCrunch**)
 
 
 ---
