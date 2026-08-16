@@ -204,8 +204,8 @@ Google周四（8/13）公布號稱最強大程式撰寫及代理人開發模型G
 
 ### 更多 AI 新聞 (70則)
 
-- Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride (**Wired**)
 - This Beautifully Weird Necklace Is Secretly a USB Drive (**Wired**)
+- Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride (**Wired**)
 - 6 最佳 Apple Watch Accessories to Upgrade Your Watch (2026) (**Wired**)
 - Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade (**Wired**)
 - Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts (**Wired**)
@@ -252,7 +252,7 @@ Google周四（8/13）公布號稱最強大程式撰寫及代理人開發模型G
 - Priceline Promo Codes &amp; Coupons: 10% Off August 2026 (**Wired**)
 - Naturepedic Promo Codes: Get 20% Off Plus Free Pillows (**Wired**)
 - Bose Promo 代碼: 40% Off for August 2026 (**Wired**)
-- Herman Miller Promo Codes: 40% Off August 2026 (**Wired**)
+- Castlery Promo Codes: 15% Off for August 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)

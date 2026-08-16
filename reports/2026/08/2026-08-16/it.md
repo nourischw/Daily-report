@@ -4,205 +4,202 @@
 
 ---
 
-### 1. [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
+### 1. [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 
-- ⭐ 337 分｜💬 234 留言｜👤 randycupertino
+- ⭐ 277 分｜💬 159 留言｜👤 wiradikusuma
 
-### 2. [Cultivating a state of mind where 新 ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
+### 2. [The quirky personal homepages of 程式設計 language creators](https://breck.lol/plMakers.html)
 
-- ⭐ 68 分｜💬 17 留言｜👤 felixbraun
+- ⭐ 52 分｜💬 16 留言｜👤 cjlm
 
-### 3. [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+### 3. [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
+
+- ⭐ 110 分｜💬 8 留言｜👤 pdet
+
+### 4. [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
+
+- ⭐ 398 分｜💬 275 留言｜👤 randycupertino
+
+### 5. [Patterns and problems in emerging multi-代理 systems](https://www.anthropic.com/research/multiagent-systems)
+
+- ⭐ 39 分｜💬 10 留言｜👤 maxutility
+
+### 6. [Cultivating a state of mind where 新 ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
+
+- ⭐ 134 分｜💬 32 留言｜👤 felixbraun
+
+### 7. [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
+
+- ⭐ 43 分｜💬 16 留言｜👤 johnsillings
+
+### 8. [Guiding Ships with Moire Patterns](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
+
+- ⭐ 27 分｜💬 7 留言｜👤 Eridanus2
+
+### 9. [Targeted marine 雲端 brightening weakens subsequent El Niño](https://www.science.org/doi/10.1126/sciadv.adx3012)
+
+- ⭐ 12 分｜💬 0 留言｜👤 musha68k
+
+### 10. [軟體 Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
+
+- ⭐ 79 分｜💬 19 留言｜👤 ingve
+
+### 11. [Super El Niño Keeps Growing as 新 Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
+
+- ⭐ 163 分｜💬 94 留言｜👤 dgellow
+
+### 12. [At-home 測試 for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
+
+- ⭐ 245 分｜💬 85 留言｜👤 gmays
+
+### 13. [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
 https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2
 
-- ⭐ 80 分｜💬 42 留言｜👤 AnodicElegy
+- ⭐ 125 分｜💬 62 留言｜👤 AnodicElegy
 
-### 4. [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
+### 14. [Numba in the Browser: Unlocking a 新 Scientific Python Stack in JupyterLite](https://notebook.link/blog/numba-in-the-browser/)
 
-- ⭐ 129 分｜💬 91 留言｜👤 theanonymousone
+- ⭐ 24 分｜💬 5 留言｜👤 xalfotis
 
-### 5. [At-home 測試 for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
+### 15. [The Iran War Is a Whole 新 Level of Quagmire for the US](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217)
 
-- ⭐ 207 分｜💬 71 留言｜👤 gmays
+- ⭐ 18 分｜💬 0 留言｜👤 hebelehubele
 
-### 6. [SugarTrack – an offline Android logbook for blood sugar (no account, no 雲端)](https://sugartrack-beta.vercel.app/)
+### 16. [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 
-- ⭐ 14 分｜💬 3 留言｜👤 hunzaboy
+- ⭐ 275 分｜💬 333 留言｜👤 dmitrygr
 
-### 7. [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+### 17. [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
 
-- ⭐ 396 分｜💬 349 留言｜👤 rzk
+- ⭐ 35 分｜💬 2 留言｜👤 turtushig22
 
-### 8. [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+### 18. [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
 
-- ⭐ 219 分｜💬 289 留言｜👤 dmitrygr
+- ⭐ 220 分｜💬 167 留言｜👤 theanonymousone
 
-### 9. [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
+### 19. [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
 
-- ⭐ 389 分｜💬 86 留言｜👤 tosh
+- ⭐ 12 分｜💬 3 留言｜👤 adm4
 
-### 10. [Super El Niño Keeps Growing as 新 Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
+### 20. [A fortuitous decade as an indie 軟體 開發者](https://lapcatsoftware.com/articles/2026/8/3.html)
 
-- ⭐ 53 分｜💬 13 留言｜👤 dgellow
+- ⭐ 65 分｜💬 8 留言｜👤 frizlab
 
-### 11. [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
+### 21. [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 
-- ⭐ 25 分｜💬 3 留言｜👤 ingve
+- ⭐ 59 分｜💬 18 留言｜👤 ingve
 
-### 12. [A fortuitous decade as an indie 軟體 開發者](https://lapcatsoftware.com/articles/2026/8/3.html)
+### 22. [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
-- ⭐ 15 分｜💬 1 留言｜👤 frizlab
+- ⭐ 465 分｜💬 402 留言｜👤 rzk
 
-### 13. [Bede Liu, a digital signal processing pioneer, has died](https://spectrum.ieee.org/digital-signal-processing)
+### 23. [Speaking for the Dead](https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/)
 
-- ⭐ 52 分｜💬 2 留言｜👤 Jimmc414
+- ⭐ 3 分｜💬 1 留言｜👤 NaOH
 
-### 14. [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+### 24. [A spectre is haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 
-- ⭐ 4 分｜💬 0 留言｜👤 turtushig22
+- ⭐ 205 分｜💬 70 留言｜👤 sensanaty
 
-### 15. [A spectre is haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
+### 25. [Show HN: Bribes.fyi – Compare bribes statistics department wise](https://bribes.fyi/compare)
 
-- ⭐ 162 分｜💬 48 留言｜👤 sensanaty
+- ⭐ 33 分｜💬 18 留言｜👤 neverenderr
 
-### 16. [Tess's Android Wayland Compositor](https://github.com/wmww/tawc)
+### 26. [Program with Paint Brushes, Not Pencils](https://blog.pickcode.io/program-with-paint-brushes-not-pencils/)
 
-- ⭐ 39 分｜💬 3 留言｜👤 schmorptron
+- ⭐ 7 分｜💬 1 留言｜👤 skadamat
 
-### 17. [Working with AI feels more like leadership than coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+### 27. [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation 代碼](https://arxiv.org/abs/2608.13122)
 
-- ⭐ 259 分｜💬 168 留言｜👤 allenb
+- ⭐ 20 分｜💬 2 留言｜👤 Jimmc414
 
-### 18. [Voltair (YC W26) Is 招聘 a 測試 Flight 工程師](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
+### 28. [Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers](https://github.com/PJHkorea/photonic-mesh-fng-router)
+
+- ⭐ 3 分｜💬 2 留言｜👤 PJHkorea
+
+### 29. [Voltair (YC W26) Is 招聘 a 測試 Flight 工程師](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
 
 - ⭐ 1 分｜💬 0 留言｜👤 wweissbluth
 
-### 19. [Credit card debt rises to $1.26T, nearing all-time record](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/)
+### 30. [Tess's Android Wayland Compositor](https://github.com/wmww/tawc)
 
-- ⭐ 24 分｜💬 20 留言｜👤 lxm
-
-### 20. [The Wow signal was a strong narrowband radio signal detected on August 15, 1977](https://en.wikipedia.org/wiki/Wow!_signal)
-
-- ⭐ 56 分｜💬 9 留言｜👤 firefax
-
-### 21. [Humazon](https://hughhowey.com/humazon/)
-
-- ⭐ 20 分｜💬 8 留言｜👤 herbertl
-
-### 22. [Jaithon 3, a fast 程式設計 language with the perfect syntax](https://github.com/abhiramasonny/jaithon)
-
-- ⭐ 17 分｜💬 10 留言｜👤 AbhiramaVS
-
-### 23. [Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf)
-
-- ⭐ 10 分｜💬 1 留言｜👤 xescure
-
-### 24. [Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum](https://baselashraf81.github.io/eigendrum/)
-
-Hi HN, I built Eigendrum, a 網頁 tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums.How it works:
-* Solves -∇²u = λu using finite element analysis 
-
-- ⭐ 198 分｜💬 93 留言｜👤 BaselAshraf81
-
-### 25. [I Remain a Skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
-
-- ⭐ 47 分｜💬 20 留言｜👤 lproven
-
-### 26. [Pizza Box Project Stack](https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/)
-
-- ⭐ 31 分｜💬 3 留言｜👤 surprisetalk
-
-### 27. [2D Gaussian Splatting for Bézier Spline Line Art Vectorization](https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/)
-
-- ⭐ 61 分｜💬 4 留言｜👤 Jimmc414
-
-### 28. [Banned Words List](https://pen.org/banned-words-list/)
-
-- ⭐ 13 分｜💬 1 留言｜👤 structuredPizza
-
-### 29. [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/)
-
-- ⭐ 187 分｜💬 36 留言｜👤 raphlinus
-
-### 30. [An image can overflow](https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/)
-
-- ⭐ 14 分｜💬 5 留言｜👤 ibobev
+- ⭐ 61 分｜💬 7 留言｜👤 schmorptron
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Oracle – a photorealistic browser for every Magic card ever printed
-- Printytron – Describe a part, get a printable STL
-- Site removes all the clutter from recipe videos and gives just the recipe
-- A controversial Alzheimer's surgery is said to reverse symptoms
-- Engineers will do anything to avoid learning from history
+- SugarTrack – an offline Android logbook for blood sugar (no account, no 雲端)
+- An image can overflow
+- ProofRun – a local verification receipt for AI coding agents
+- Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
+- Auto-research with codex: How I achieved a 232x Faster Kernel
+- Bede Liu, a digital signal processing pioneer, has died
 - Qwen 3.8 27B
+- Decoding smell: Study reveals how odor signals shapeshift in the wind
+- Printytron – Describe a part, get a printable STL
+- Were Touch Bar's problems 軟體 rather than 硬體?
+- Oracle – a photorealistic browser for every Magic card ever printed
+- The Wow signal was a strong narrowband radio signal detected on August 15, 1977
+- Pizza Box Project Stack
+- 2D Gaussian Splatting for Bézier Spline Line Art Vectorization
+- Show HN: I built a native app for coding agents with Rust and GPUI
 - Using GCC's Nested Functions with Wide Pointers and No Trampolines II
-- BriskDB
-- 為什麼 I've tracked every single piece of clothing I've worn for three years
+- The 37signals 經理 Playbook
+- Has the hallucination problem in AI been solved?
+- South Korea proposes talks to officially end war with North
+- Big Pickle on SWE Atlas – Codebase QnA
+- Show HN: ThoughtDAG – An editable context graph for 大型語言模型 conversations
+- A controversial Alzheimer's surgery is said to reverse symptoms
 - Möbius strips and differential equations
-- The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts
-- The Dutch community where people live on strips of land in a lake
+- Working with AI feels more like leadership than coding
+- US Space Force gives Rocket Lab $397M to 構建 threat-tracking 'Flatellites'
 - Geek Fighter – 2d fighter game
 - Yadda 3.0.0: BDD in the Age of AI Agents
-- Triple Product Rule of Partial Derivatives
-- The Color of White Light
-- Show HN: ThoughtDAG – An editable context graph for 大型語言模型 conversations
-- In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace
-- T3X/0 a Minimal Procedural Language
-- Xteink's tiny e-readers are getting access to free books through Libby
-- The other Sean Byrne doesn't exist
-- Could a computer scientist 構建 a brain?
-- Thunderbird's Desktop Calendar Visual Redesign
+- Humazon
 - GLM-5.3: Frontier coding with emergent cyber capabilities
-- No-新-Physics Consciousness
+- Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum
+- In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace
+- The Color of White Light
+- Modeling and Verification of Keeta's Consensus [pdf]
+- Site removes all the clutter from recipe videos and gives just the recipe
+- Jaithon 3, a fast 程式設計 language with the perfect syntax
+- 為什麼 I've tracked every single piece of clothing I've worn for three years
+- The other Sean Byrne doesn't exist
+- The Live Shopping App Where Some People Bid Until They're Broke
+- The Dutch community where people live on strips of land in a lake
+- BriskDB
+- T3X/0 a Minimal Procedural Language
 - Unearthing a 31 year old Easter egg in Ecco the Dolphin
-- Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
-- Understanding WCAG 2.2 as ePub and PDF
-- Racket v9.3
 - 為什麼 does Opus 5 feel worse to work with?
+- I Remain a Skeptic
+- Racket v9.3
+- The mathematical beauty of hyperbezier curves
 - Going Dark, and the era of law enforcement hacking
-- Xorshift Generators
-- Super Mario Derivations
-- This Hi-Fi Tape Recorder Changed Radio Forever
-- Simplifying and Refactoring Introductory Calculus (2018)
-- Hunger stones: The history behind 'if you see me, weep'
-- Google is making private AI practical with homomorphic encryption
-- Turbo Pascal on CP/M, MSX-DOS and MS-DOS
-- Robot Videos: Heavy Lift Cargo Drones, Grippers, More
-- The Ploopy A+ Trackball Is Here
-- Show HN: Silent Shark – tactical map-based WWII submarine sim
-- Firefox is now the last major browser that still supports uBlock Origin
-- AI makes foundational knowledge more important
-- A Planet Position Widget
-- Show HN: Mole – Deep research 代理 for your terminal
-- Brain turns listening inward during REM sleep, EEG recordings suggest
+- Neo: A distraction-free word processor for authors, by a wannabe author
+- Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
 - South Korea proposes talks to officially end war with North
-- Seven books I keep close because I love them
-- Show HN: Deltix – AI Driven Testing
-- RustDesk now supports true unattended 遠端 access on Wayland
-- IBM Simon (1994): the original smartphone, explained in its own ad [video]
+- Simplifying and Refactoring Introductory Calculus (2018)
+- Super Mario Derivations
+- Turbo Pascal on CP/M, MSX-DOS and MS-DOS
+- Understanding WCAG 2.2 as ePub and PDF
+- Artin-Schreier Theorem [pdf]
+- Google is making private AI practical with homomorphic encryption
+- This Hi-Fi Tape Recorder Changed Radio Forever
+- Ask HN: 什麼是 your favorite lightweight tool or CLI utility in 2026?
+- The Ploopy A+ Trackball Is Here
+- Xorshift Generators
+- Show HN: Mole – Deep research 代理 for your terminal
+- Firefox is now the last major browser that still supports uBlock Origin
 - Gemini 3.7 Flash
-- HyperOSUnfucker is an Android app that unlocks hidden 系統 performance
-- Show HN: Quasicrystals Animation Playground with WebXR
-- Awesome CAD – Curated List of Open-Source CAD Projects
-- Bedtime Procrastination
-- Show HN: Ember – Redshift safe color palettes
-- Peer-reviewed study of 443,000 Backblaze drives ranks HGST most reliable
-- Every Fucking Website (2020)
-- How Samsung's Privacy Screen Works
-- Differential Heuristics
-- Gödel, Escher, Elisp: The Beauty of Macros
-- Maximizing the value of your Claude 代碼 sessions
-- A 25-year-old video patent just expired, ending a legal headache for Linux
-- A humble cabbage became one of the Forbidden City’s treasures (2025)
-- Ntfy – open-source Push to 行動
-- z486: A 486-Class Pipelined FPGA CPU with Integrated Floating-Point
-- AI by Hand
-- Coin-sized device can hack a Boeing 737
-- Launch HN: Discovered Materials (YC P26) – AI agents to discover 新 materials
+- Show HN: Silent Shark – tactical map-based WWII submarine sim
+- Thunderbird's Desktop Calendar Visual Redesign
+- Seven books I keep close because I love them
+- Could a computer scientist 構建 a brain?
+- RustDesk now supports true unattended 遠端 access on Wayland
+- Engineers will do anything to avoid learning from history
+- Show HN: Deltix – AI Driven Testing
 
 
 ---
