@@ -4,39 +4,168 @@
 
 ---
 
-### 1. [WordPress漏洞XSS2Shell可讓駭客執行PHP程式碼，逾萬網站遭自動化鎖定](https://www.ithome.com.tw/news/178147)
+### 1. [駭客利用macOS螢幕分享漏洞部署門羅幣挖礦軟體](https://www.ithome.com.tw/news/178182)
+
+8月6日蘋果對macOS發布緊急安全更新，修補螢幕分享功能（Screen Sharing）漏洞CVE-2026-65400，如今傳出有實際利用的情況。
+
+- 📰 **iThome 科技**
+
+### 2. [Dynatrace以9.15億美元併購Arize，整合AI與軟體可觀測性](https://www.ithome.com.tw/news/178177)
+
+企業可觀測性平臺業者Dynatrace上週四（8/13）宣布，將以9.15億美元併購AI可觀測性新創Arize，整合AI模型、代理人與傳統軟體系統的可觀測性。該交易預計於今年9月底或10月初完成。
+
+- 📰 **iThome 科技**
+
+### 3. [ChatGPT開始記住Mac工作軌跡，Computer History建立跨App記憶](https://www.ithome.com.tw/news/178173)
+
+OpenAI替macOS版ChatGPT推出Computer History，可記錄使用者在應用程式與網站中的活動，整理成可搜尋的時間軸與記憶，讓ChatGPT與Codex查找近期工作內容，或接續尚未完成的任務。功能目前提供ChatGPT Pro、Business與Enterprise用戶使用，企業方案須由管理員先開放。
+
+- 📰 **iThome 科技**
+
+### 4. [全球供應鏈與配銷公司Wesco發生資安事故，駭客組織ExfilSquad聲稱是他們所為](https://www.ithome.com.tw/news/178176)
+
+8月7日資安公司Resecurity提出警告，新興駭客組織ExfilSquad近日聲稱入侵13個企業組織，其中一家是全球供應鏈與配銷公司Wesco，他們號稱竊得該公司260萬筆資料。對此，Wesco後續表示已掌握此事並著手調查。
+
+- 📰 **iThome 科技**
+
+### 5. [法國國稅局坦承遭駭，可能外洩近70萬筆資料](https://www.ithome.com.tw/news/178175)
+
+掌管法國稅務的法國公共財政總局（Direction générale des Finances publiques，DGFiP）上週證實遭到駭客存取系統，共67.8萬名個人及專業人士的部分資料可能遭查閱及擷取。
+
+- 📰 **iThome 科技**
+
+### 6. [多家公司發生資安事故，勒索軟體Clop聲稱竊得石油巨頭殼牌89 GB資料](https://www.ithome.com.tw/news/178174)
+
+6月下旬軟體公司PTC提出警告，產品生命週期管理（PLM）系統Windchill、FlexPLM的重大漏洞CVE-2026-12569遭到利用，後續勒索軟體威脅情報共享社群Ransom-ISAC、威脅情報公司ReliaQuest進一步指出，勒索軟體駭客Clop用於向企業組織進行資料勒索，如今已有多家企業遭Clop列入其聲稱的受害名單。
+
+- 📰 **iThome 科技**
+
+### 7. [Anthropic Claude於8月16日發生大當機，AI、API與Claude 代碼等多項服務均受影響](https://www.ithome.com.tw/news/178172)
+
+Anthropic的Claude服務8月16日（臺灣時間8月17日）發生大規模服務中斷，臺灣時間8月17日凌晨5時58分起陸續出現登入驗證問題，Anthropic於臺灣時間上午6時02分確認發生問題，並表示影響範圍已經擴大，包括Claude.AI、Claude Console、Claude API、Claude 代碼與Claude Cowork等多項服務均出現效能下降。
+
+- 📰 **iThome 科技**
+
+### 8. [Qwen開放模型衍生版增至15萬個，為Meta的2.6倍](https://www.ithome.com.tw/news/178170)
+
+Hugging Face上周五（8/14）發布夏季開放模型生態觀察報告，指出阿里巴巴Qwen目前已有151,448個衍生模型，遠高於Google的82,506個，還是Meta旗下模型衍生版總數的2.6倍，持續擴大在開放模型開發者生態的優勢。
+
+- 📰 **iThome 科技**
+
+### 9. [針對研究員逕自公開的GeoServer零時差漏洞，OSGeo指出問題發生在GeoTools元件](https://www.ithome.com.tw/news/178169)
+
+上週有研究人員公布地理位置資訊伺服器GeoServer的零時差漏洞，後續傳出在公開數個小時後出現嘗試利用的跡象，攻擊者進行數百次探測行為。
+
+- 📰 **iThome 科技**
+
+### 10. [SonicWall為已退役GMS平臺修補6個漏洞，含兩個遠端執行程式碼重大漏洞](https://www.ithome.com.tw/news/178167)
+
+SonicWall於8月11日公告，修補集中管理平臺GMS（Global Management 系統）的6個漏洞，包含可遠端執行任意程式碼的重大漏洞。
+
+- 📰 **iThome 科技**
+
+### 11. [地理位置資訊伺服器GeoServer零時差漏洞出現遭嘗試利用的跡象](https://www.ithome.com.tw/news/178166)
+
+8月12日研究人員q1uf3ng在社群網站X指出，他發現地理位置資訊伺服器GeoServer的零時差漏洞，此弱點涉及未經授權的SQL注入，成功利用後攻擊者就能遠端執行任意程式碼。
+
+- 📰 **iThome 科技**
+
+### 12. [Google允許用戶去除AI生成影音內容的浮水印、開源函式庫Credentio](https://www.ithome.com.tw/news/178165)
+
+Google宣布將讓用戶自行決定以Gemini生成的圖��、影片和音樂移除明顯的浮水印，但仍然保有機器可辨識的數位痕跡。Google同時開源用以開發內容驗證的C++函式庫Credentio。
+用戶可在「設定」區中關閉「Show watermark（顯示浮水印）」設定，就能為所有Gemini模型生成的圖片、影片和音樂關閉可見的浮水印，但是人眼不可見的SynthID浮水印和C2PA Meta仍然會保留嵌入於背景。Google將在未來幾天內部署這項新設定。
+
+- 📰 **iThome 科技**
+
+### 13. [Fortinet修補WAF及網路設備管理平臺漏洞](https://www.ithome.com.tw/news/178163)
+
+Fortinet上週發布軟體更新，當中修補網站應用程式防火牆（WAF）FortiWeb、網路安全設備管理平臺FortiManager等產品5項漏洞，包括2項高風險漏洞。
+最重大漏洞為CVE-2026-26035，源於FortiWeb遠端RADIUS類型管理員驗證機制存在驗證不當問題，讓遠端攻擊者以隨機使用者名稱和密碼登入FortiWeb GUI/CLI。這漏洞影響採取特定非預設設定的FortiWeb環境。CVSS v3風險值為8.8。
+
+- 📰 **iThome 科技**
+
+### 14. [Stripe傳以530億美元洽談收購PayPal](https://www.ithome.com.tw/news/178162)
+
+華爾街日報報導，支付平臺巨擘Stripe及私募股權基金Advent International已和PayPal就530億美元收購的提案進入洽談階段。
+報導指出，Stripe和Advent International於7月首度提出收購，開出每股60.50美元總值約530億美元的提案，但PayPal董事會認為出價過低無法充分反映公司價值而拒絕。但是雙方仍持續洽談。最新報導指，雙方已進展到更深入洽談。
+
+- 📰 **iThome 科技**
+
+### 15. [ShinyHunters宣稱將公開服飾品牌Carhartt 50GB員工、客戶資料](https://www.ithome.com.tw/news/178161)
+
+駭客組織ShinyHunters上週宣稱，在交涉失敗後，將公開服飾業者Carhartt高達約50GB資料，內容包含客戶及員工資料。
+
+- 📰 **iThome 科技**
+
+### 16. [甫修補的SAP Commerce 雲端滿分漏洞傳出遭到利用](https://www.ithome.com.tw/news/178160)
+
+SAP於8月例行更新（安全 Patch Day）當中，修補Commerce 雲端重大漏洞CVE-2026-58231，由於該漏洞的CVSS評分達到10分滿分，而受到關注。事隔數日，傳出有人嘗試利用這個弱點。
+
+- 📰 **iThome 科技**
+
+### 17. [Cursor 雲端 Agents預先備妥開發環境，首次回應最高快3倍](https://www.ithome.com.tw/news/178148)
+
+AI程式開發工具Cursor替雲端 Agents加入預建環境機制Builds，將複製程式碼儲存庫、安裝相依套件等準備工作提前在背景完成，讓AI程式代理啟動後能直接進入已準備好的開發環境。Cursor表示，內部環境啟動速度提高10倍，代理產生首次回應的時間最高加快3倍，並預計8月17日起讓所有新舊環境預設使用Builds。
+
+- 📰 **iThome 科技**
+
+### 18. [Google 雲端公布PQC部署路線圖，2027年優先降低量子破解��險](https://www.ithome.com.tw/news/178152)
+
+Google規畫在2029年前完成後量子密碼學（Post-Quantum Cryptography，PQC）轉型，近期進一步說明旗下雲端產品與服務的部署順序與時程，預計2027年底前優先降低現有加密資料未來遭量子電腦破解的風險，2028年底前再推進身分、
+
+- 📰 **iThome 科技**
+
+### 19. [Barracuda併購Evo 安全，強化身分與特權存取管理能力](https://www.ithome.com.tw/news/178151)
+
+資安業者Barracuda Networks宣布完成併購身分與存取管理業者Evo 安全，BarracudaONE平臺預計整合Evo 安全的部分，主要是針對代管服務供應商（MSP）設計的身分與存取管理（IAM）及特權存取管理（PAM）技術，進一步強化Barracuda的身分安全與特權存取管理產品布局。
+
+- 📰 **iThome 科技**
+
+### 20. [蘋果向110國特定用戶發出傭兵間諜軟體警示](https://www.ithome.com.tw/news/178150)
+
+蘋果（Apple）在8月13日向110個國家的特定使用者發出新一波威脅通知，警告這些使用者可能已遭傭兵間諜軟體（mercenary spyware）個別鎖定為攻擊目標。蘋果除了透過電子郵件寄送警示，並在Apple帳號頁面顯示相關通知，也會直接在iPhone鎖定畫面與「設定」顯示威脅通知。
+
+- 📰 **iThome 科技**
+
+### 21. [Cribl據報約1億美元併購CardinalOps，以AI偵測工程挑戰傳統SIEM](https://www.ithome.com.tw/news/178149)
+
+企業遙測資料平臺業者Cribl宣布併購資安業者CardinalOps，計畫將後者的AI偵測工程技術整合至既有平臺，從遙測資料管理進一步切入威脅偵測與資安營運市場，並強化其傳統安全資訊與事件管理（SIEM）替代方案布局。
+
+- 📰 **iThome 科技**
+
+### 22. [WordPress漏洞XSS2Shell可讓駭客執行PHP程式碼，逾萬網站遭自動化鎖定](https://www.ithome.com.tw/news/178147)
 
 WordPress發布7.0.3安全更新，修補核心程式登入頁面的高風險跨站指令碼漏洞CVE-2026-64638。攻擊者不必先取得WordPress帳號即可觸發漏洞，若再誘使已登入的管理員開啟並操作惡意頁面，便可能利用管理員權限一路將攻擊擴大至伺服器端PHP程式碼執行。
 
 - 📰 **iThome 科技**
 
-### 2. [AI代理不是越多越有效率，協作恐出現資源爭用與相互封鎖](https://www.ithome.com.tw/news/178146)
+### 23. [AI代理不是越多越有效率，協作恐出現資源爭用與相互封鎖](https://www.ithome.com.tw/news/178146)
 
 Anthropic公開多代理AI系統實驗結果，測試多個AI代理在共用程式碼庫、有限資源及彼此任務衝突時的協作狀況。結果顯示，增加代理數量不一定能提升效率，反而可能出現程式碼衝突、爭搶資源、集體採取相同行動，甚至為完成各自任務而阻止其他代理工作。
 
 - 📰 **iThome 科技**
 
-### 3. [【資安週報】0810~0814，疑中國駭客打造AI自主攻擊框架對臺發動攻擊，資安署表示���對此人機結合境外攻擊展開應變](https://www.ithome.com.tw/news/178145)
+### 24. [【資安週報】0810~0814，疑中國駭客打造AI自主攻擊框架對臺發動攻擊，資安署表示已對此人機結合境外���擊展開應變](https://www.ithome.com.tw/news/178145)
 
 本週最受矚目的資安焦點，莫過於中國駭客利用自主AI代理攻擊臺灣政府機關與能源公司的消息揭露。這起事件不僅引發社會高度關注，更顯現出「AI代理能快速動態切換攻擊鏈」的全新態勢已經到來，而且臺灣已實際面臨這樣的攻擊。
 美國聯邦資安日誌政策改版亦成為IT與資安團隊留意的重點，作法從大量集中保存原始日誌，轉為依任務與資安風險決定蒐集與運用方式，並勾勒日誌分流與SIEM架構方向；新版日誌成熟度模型也可供企業資安團隊對照，檢視日誌蒐集、保存及運用策略。
 
 - 📰 **iThome 科技**
 
-### 4. [【城鎮韌性演習】民生物資配售導入智慧物資管理系統，演練數位化調度、建立公私配售機制](https://www.ithome.com.tw/news/178144)
+### 25. [【城鎮韌性演習】民生物資配售導入智慧物資管理系統，演練數位化調度、建立公私配售機制](https://www.ithome.com.tw/news/178144)
 
 面對重大災害或複合式緊急情勢，民生必需品供應不僅需要平時維持安全存量，也需要具備快速掌握需求、調度物資及分流配送的能力。在這次的「2026城鎮韌性演習」裡，經濟部與新北市政府合作，於新北大全聯土城店辦理民生必需品配售演練，其中導入今年建置的「智慧物資管理系統」，驗證從民眾預訂、身分確認到物資領取的數位化流程，並結合地方政府與民間通路建立雙軌配售機制。
 此次演練也是城鎮韌性演習的一環。總統府指出，過去地方政府辦理的萬安演習與民安演習已整合為城鎮韌性演習，今年並將演習天數由一天增加為兩天，並配合國軍漢光演習同步進行，目的在強化政府、地方與民間面對重大災害或緊急情勢時的應變能力。
 
 - 📰 **iThome 科技**
 
-### 5. [大型語言模型Kimi K3資安評測作弊，連上GitHub找答案](https://www.ithome.com.tw/news/178142)
+### 26. [大型語言模型Kimi K3資安評測作弊，連上GitHub找答案](https://www.ithome.com.tw/news/178142)
 
 AI資安研究團隊Frontier 安全評測大型語言模型Kimi K3的資安能力，發現Kimi K3沒有按照預期方式完成題目，而是主動檢查隔離測試環境的網路連線，甚至直接從GitHub下載官方基準測試儲存庫，從中找到題目答案。
 
 - 📰 **iThome 科技**
 
-### 6. [【資安日報】8月14日，VMware vCenter重大漏洞遭利用](https://www.ithome.com.tw/news/178143)
+### 27. [【資安日報】8月14日，VMware vCenter重大漏洞遭利用](https://www.ithome.com.tw/news/178143)
 
 本日新聞焦點
 ● APT駭客開始利用VMware vCenter重大漏洞
@@ -45,158 +174,21 @@ AI資安研究團隊Frontier 安全評測大型語言模型Kimi K3的資安能�
 
 - 📰 **iThome 科技**
 
-### 7. [Meta已封鎖逾75萬個未滿16歲的澳洲用戶帳號](https://www.ithome.com.tw/news/178141)
+### 28. [Meta已封鎖逾75萬個未滿16歲的澳洲用戶帳號](https://www.ithome.com.tw/news/178141)
 
 Meta周三（8/12）公布澳洲社交媒體禁令執行情況，指出截至今年6月底，已封鎖超過75萬個被判定屬於未滿16歲澳洲用戶的Facebook及Instagram帳號。
 
 - 📰 **iThome 科技**
 
-### 8. [中國駭客Jewelbug間諜與加密貨幣詐騙並行，共用控制平臺與伺服器](https://www.ithome.com.tw/news/178133)
+### 29. [中國駭客Jewelbug間諜與加密貨幣詐騙並行，共用控制平臺與伺服器](https://www.ithome.com.tw/news/178133)
 
 資安廠商Symantec威脅獵捕團隊揭露中國駭客組織Jewelbug的最新活動，發現該組織一面入侵中東、東南亞與南亞的政府及軍事單位從事間諜活動，一面經營鎖定華語使用者的加密貨幣詐騙，兩邊共用控制平臺、伺服器與受害者資料庫。
 
 - 📰 **iThome 科技**
 
-### 9. [美國首度可授權民間公司，參與打擊境外網路犯罪集團](https://www.ithome.com.tw/news/178140)
+### 30. [美國首度可授權民間公司，參與打擊境外網路犯罪集團](https://www.ithome.com.tw/news/178140)
 
 美國總統川普（Donald Trump）周三（8/12）簽署總統備忘錄，建立一項新的網路行動計畫，首度以正式制度授權經審核的美國民間公司，在聯邦政府指揮及監督下，對境外網路犯罪集團執行監控甚至攻擊行動。
-
-- 📰 **iThome 科技**
-
-### 10. [OpenAI預覽Ultrafast模式，GPT-5.6 Sol速度最高快14倍](https://www.ithome.com.tw/news/178139)
-
-OpenAI周四（8/13）預覽新的API服務層級Ultrafast，號稱執行GPT-5.6 Sol可比標準模式快最高14倍。
-Ultrafast採用Cerebras提供的運算基礎架構，最高可以每秒750 token的速度輸出生成結果，可讓最強大的OpenAI模型支援高時效應用和工作流任務，包括運算基礎架構的事件回應系統、財務分析、安全研究、技術支援或客服中心、電商平臺及即時研究和實驗等。
-
-- 📰 **iThome 科技**
-
-### 11. [LiteLLM供應鏈攻擊恐波及逾2,500家企業組織](https://www.ithome.com.tw/news/178138)
-
-今年3月開源大型語言模型串接套件LiteLLM遭遇供應鏈攻擊，本週資安公司CloudSEK公布最新調查結果，指出這起攻擊可能波及全球超過2,500家企業，以及約43.4萬個CI/CD工作流程，是2026年迄今規模最大的AI供應鏈安全事件之一，可能受影響的組織涵蓋科技、金融、電信、製造、物流及資安等產業，其中包含N
-
-- 📰 **iThome 科技**
-
-### 12. [雲端安全聯盟揭2026年11大雲端威脅，AI強化攻擊與AI系統遭入侵首度進榜](https://www.ithome.com.tw/news/178137)
-
-隨著企業加速採用AI與雲端服務，並讓更多系統彼此整合，雲端資安風險也出現變化。雲端安全聯盟（雲端 安全 Alliance，CSA）公布2026年雲端運算重大威脅調查，有兩項AI相關風險首度進入前11名，分別為排名第2的AI強化攻擊（AI-Enhanced Attacks），以及排名第6的AI系統遭入侵（AI 系統 Compromise）。
-
-- 📰 **iThome 科技**
-
-### 13. [攻擊行動City-Forum鎖定Salesforce與ServiceNow，利用自製工具大規模蒐集公開資料](https://www.ithome.com.tw/news/178136)
-
-鎖定Salesforce用戶發動的攻擊行動不時傳出，其中一組最常出現在新聞版面的駭客組織是ShinyHunters，他們曾利用Salesloft Drift、Gainsight等第三方應用程式權杖，竊取Salesforce用戶資料，如今有資安公司發現，有其他駭客組織以自製工具低調犯案一年半。
-
-- 📰 **iThome 科技**
-
-### 14. [政府系統淪AI 代理攻擊實戰場，TeamT5執行長蔡松廷：自動化攻擊早已進入下一個時代](https://www.ithome.com.tw/news/178135)
-
-今年8月中旬，英國金融時報《Financial Times》引述資安新創公司Dreams 安全的最新報告，揭露一套完整的自主式AI攻擊框架，在2026年7月1日至4日期間，針對亞洲某國政府機關發動長達四天、共12波的入侵行動。
-這套建立在Hermes與OpenClaw這兩個代理執行框架之上的系統，不僅完成偵察、初始入侵、橫向移動到資料外洩的整條攻擊鏈，還在過程中自主研究新漏洞、自我修正錯誤判斷，最終產出超過160 MB、共1,395個檔案的作業封存資料。
-
-- 📰 **iThome 科技**
-
-### 15. [F5調整漏洞修補政策，更新放緩為每6週發布一次並暫停定期安全通知](https://www.ithome.com.tw/news/178134)
-
-網路安全與應用交付大廠F5於8月13日更新技術公告與部落格，宣布自9月2日起，旗下軟體強化版本（Hardened Release）更新週期調整為每6週發布一次，同時宣布暫停原定隨版本發布的定期安全性通知（安全 Notifications）。
-
-- 📰 **iThome 科技**
-
-### 16. [殭屍網路Kimwolf v7利用HTTP/2隱匿DDoS流量](https://www.ithome.com.tw/news/178132)
-
-殭屍網路Aisuru從2024年出現後不斷發動大規模DDoS攻擊引起注意，背後的駭客後續又經營另一個殭屍網路Kimwolf持續犯案，如今傳出這些駭客打造威力更強大的新版本，引起研究人員提出警告。
-資安公司Palo Alto Networks指出，經營Aisuru和Kimwolf的駭客團體近期打造Kimwolf最新版本v7，進一步提升DDoS攻擊能力，並重新C2架構，使其在面對執法機關查緝及基礎設施查封時，仍具備高度存活能力。
-
-- 📰 **iThome 科技**
-
-### 17. [OpenAI挖角Google旗下Wiz營運長，出任全球營收長](https://www.ithome.com.tw/news/178131)
-
-OpenAI周四（8/13）宣布，任命Dali Rajic為營收長（Chief Revenue Officer，CRO），負責全球營收組織，接替上任僅約8個月的Denise Dresser。Rajic原為雲端資安業者Wiz總裁暨營運長，該公司近期已被Google收購；Dresser則將在完成交接後離開OpenAI。
-
-- 📰 **iThome 科技**
-
-### 18. [VMware vCenter重大漏洞遭利用，攻擊範圍橫跨47國、361個IP位址](https://www.ithome.com.tw/news/178130)
-
-7月底博通修補VMware產品5個資安漏洞，其中一個重大等級的CVE-2026-59310（CVSS風險評為9.8分），現在傳出遭大規模利用。
-
-- 📰 **iThome 科技**
-
-### 19. [傳甲骨文將再裁員，可能接近1,000人](https://www.ithome.com.tw/news/178129)
-
-Business Insider報導，甲骨文預計啟動新一波裁員，部分團隊裁員比例可能達兩位數。
-報導引述消息人士指出，甲骨文經理們被要求挑選裁減員工，目標是在甲骨文會計年度2027年第2季開始前完成裁員。但甲骨文公司拒絕評論此事。
-截至2026年5月31日，甲骨文全職員工為14.1萬人。如果消息為真，這意謂著新���波裁員可能人數超過1,000人。
-
-- 📰 **iThome 科技**
-
-### 20. [微軟整併消費、企業版Copilot功能，為超級App鋪路](https://www.ithome.com.tw/news/178128)
-
-微軟本周宣布更新Copilot介面，將把Copilot消費版和商務功能整合，同時將終止Deep Research、Podcast等功能。
-新的Copilot將提供更簡單、全面的使用體驗，適用所有人。用戶可以選擇用私人帳號、公司或學校帳號登入改版後的Copilot App。登入後會看到Copilot App介面的變更，包括外觀和瀏覽動線、功能及登入方式的變更。
-
-- 📰 **iThome 科技**
-
-### 21. [Ramp調查顯示Anthropic企業採用率領先OpenAI](https://www.ithome.com.tw/news/178127)
-
-美國企業支出管理平臺Ramp周三（8/12）公布最新AI Index調查，顯示美國企業持續增加AI支出，但對價格昂貴的最新模型接受度有限。而Anthropic自今年4月首度超越OpenAI以來，已連續4個月保持領先。
-Ramp為美國企業支出管理平臺，提供企業信用卡、費用管理及帳款支付等服務，目前服務逾7萬家企業，年化交易金額約2,000億美元；該公司在2025年4月首次推出AI Index，此後每月根據客戶匿名化的公司卡及帳款支付資料，統計企業付費訂閱AI服務或購買API token的情況。
-
-- 📰 **iThome 科技**
-
-### 22. [Google公布Gemini 3.7 Flash，以前代半價促銷](https://www.ithome.com.tw/news/178126)
-
-Google周四（8/13）公布號稱最強大程式撰寫及代理人開發模型Gemini 3.7 Flash，提供更強的軟工、開發及推理能力，在年底前提供3.6 Flash半價。
-相較於3周前公布的3.6 Flash版，Google宣稱3.7 Flash回應了開發人員意見並加入演算法創新，而在軟體工程、知識工作及網頁開發工作流上效能進一步提升，而且每百萬token價格僅前代的一半。
-
-- 📰 **iThome 科技**
-
-### 23. [Adobe Commerce重大漏洞恐被用於挾持顧客帳號](https://www.ithome.com.tw/news/178125)
-
-本週Adobe發布8月上半更新，修補電子商務平臺Adobe Commerce與Magento 開源漏洞，Adobe將其修補的優先程度評為等級2（Priority 2）。
-
-- 📰 **iThome 科技**
-
-### 24. [併購三商壽之後如何大膽用AI，玉山揭金控2.0的科技發展藍圖](https://www.ithome.com.tw/news/178124)
-
-玉山金控昨天發表了併購三商美邦人壽後的未來戰略，也公開了玉山金控2.0時代的新科技發展藍圖。
-去年，玉山金控先併購了保德信投信，今年，三商美邦人壽即將在9月1日正式併入玉山金控，12月1日改名玉山人壽。這意味著玉山金控逐漸完備了銀行、保險和證券三大業務獲利引擎的新架構，正式進入玉山金控2.0的時代。
-早在去年第四季，玉山金控新任策略長譚宏上任後，玉山金控董事長黃男州交給他的第一個任務是，「大膽」專案 （Digital &amp;amp; AI Roadmap for Execution，簡稱DARE），要他訂定玉山邁向金控2.0時代的數位與AI戰略執行藍圖。經過3個月規劃，今年陸續開始推動這份
-
-- 📰 **iThome 科技**
-
-### 25. [開放模型正式部署仍落後封閉模型，工具成熟度成主要瓶頸](https://www.ithome.com.tw/news/178123)
-
-開放模型已獲大量AI應用開發者採用，但正式環境部署率仍低於封閉模型。Mozilla近期發布首份開放原始碼AI現況評估，開發者調查結果顯示，在為應用程式加入AI功能的開發者中，79%使用開放模型，但使用開放模型的團隊只有53%將模型部署到正式環境，低於封閉模型團隊的63%。
-
-- 📰 **iThome 科技**
-
-### 26. [CrowdStrike取得XM Cyber智財，補強曝險管理與攻擊路徑分析](https://www.ithome.com.tw/news/178122)
-
-資安業者CrowdStrike將取得XM Cyber超過45項專利與專有原始碼，藉此補強旗下Falcon資安平臺的曝
-
-- 📰 **iThome 科技**
-
-### 27. [Mate 安全完成3,500萬美元A輪募資，擴展AI代理式資安營運](https://www.ithome.com.tw/news/178121)
-
-主打讓AI代理依據企業資安脈絡執行資安營運工作的Mate 安全，去年11月完成1,550萬美元種子輪募資並結束隱身階段，近期再完成3,500萬美元A輪募資，使公司累計募資超過5,000萬美元。
-
-- 📰 **iThome 科技**
-
-### 28. [美國資安日誌政策轉向，聚焦威脅偵測、事件調查與成本控管](https://www.ithome.com.tw/news/178115)
-
-美國行政管理和預算局（OMB）今年5月發布M-26-14備忘錄，調整美國聯邦機構的資安日誌政策，讓各機構依任務需求與資安風險，決定日誌蒐集、管理及保存的優先順序。
-對企業資安團隊而言，M-26-14雖然是美國聯邦政府的政策，但其中的管理思路也可用來檢查企業現有作法，包括重要資產是否都已納入資產清冊與日誌監控、蒐集的日誌能否協助發現及追查攻擊，以及是否保存過多對資安工作幫助有限的資料。
-
-- 📰 **iThome 科技**
-
-### 29. [737款Chrome VPN擴充套件遭揭共用代理網路，274款冒充66個知名品牌](https://www.ithome.com.tw/news/178120)
-
-資安業者Socket揭露一波大規模Chrome VPN與代理擴充套件活動，共追蹤737款擴充套件，Chrome 網頁 Store顯示的安裝數合計逾7.5萬次，其中274款冒充66個知名VPN及隱私服務品牌。Socket分析取得的擴充套件程式碼，發現其中絕大多數會把使用者的瀏覽器流量送往同一套SOCKS5代理基礎設施。
-
-- 📰 **iThome 科技**
-
-### 30. [Windows PnP自動安裝存在風險，攻擊者可模擬USB裝置以系統權限執行程式碼](https://www.ithome.com.tw/news/178117)
-
-資安研究人員Alejandro Hernando與Borja Martínez在資安大會DEF CON 34公開Plug and Pwn漏洞研究，展示如何偽裝USB裝置，觸發Windows隨插即用（Plug and Play，PnP）安裝流程，讓系統在符合條件時自動取得並安裝對應的廠商套件，再利用其中弱點取得系統權限。研究團隊指出，攻擊不需要系統管理員權限，實體USB攻擊甚至能在沒有使用者登入的情況下完成。
 
 - 📰 **iThome 科技**
 
