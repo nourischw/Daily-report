@@ -4,200 +4,210 @@
 
 ---
 
-### 1. [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
+### 1. [Claude 代碼 weekly limits reduce by a third tomorrow](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
 
-- ⭐ 249 分｜💬 75 留言｜👤 flaburgan
+- ⭐ 157 分｜💬 94 留言｜👤 tyre
 
-### 2. [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+### 2. [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
-- ⭐ 143 分｜💬 73 留言｜👤 pseudolus
+- ⭐ 81 分｜💬 58 留言｜👤 cwwc
 
-### 3. [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+### 3. [Using the railway 網絡 as a flatbed scanner](https://philo.gay/linecam/)
 
-- ⭐ 576 分｜💬 372 留言｜👤 gavide
+- ⭐ 290 分｜💬 52 留言｜👤 otherayden
 
-### 4. [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
+### 4. [Fixing a bricked Framework laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
 
-- ⭐ 509 分｜💬 327 留言｜👤 Topfi
+- ⭐ 238 分｜💬 149 留言｜👤 jp_sc
 
-### 5. [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+### 5. [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
 
-- ⭐ 387 分｜💬 171 留言｜👤 shdon
+- ⭐ 8 分｜💬 0 留言｜👤 fittingopposite
 
-### 6. [Rethinking 資料庫 程式設計](https://acadia.engineering/blog/rethinking-database-programming)
+### 6. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
 
-- ⭐ 101 分｜💬 48 留言｜👤 honungsburk
+- ⭐ 532 分｜💬 372 留言｜👤 herbertl
 
-### 7. [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+### 7. [Cursor 推出 Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting)
 
-- ⭐ 670 分｜💬 390 留言｜👤 DeepLogin
+- ⭐ 250 分｜💬 202 留言｜👤 tomasreimers
 
-### 8. [As Wisconsin cities flee Flock, its shared camera 網絡 loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
+### 8. [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
 
-- ⭐ 28 分｜💬 3 留言｜👤 xoa
+Hi HN! I’m Barnaby, founder of machine0 (https:&#x2F;&#x2F;machine0.io). I’m building a CLI for long horizon 代理 compute: `machine0 新 mybox` gives your 代理 a persistent 雲端 VM, billed by the m
 
-### 9. [Teaching my kid to 代碼 with a modern MUD](https://tau.dev/2026/08/07/canon)
+- ⭐ 23 分｜💬 15 留言｜👤 bwm
 
-- ⭐ 9 分｜💬 0 留言｜👤 andrewjanke
+### 9. [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
 
-### 10. [Finger: Social 網絡 that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
+- ⭐ 430 分｜💬 191 留言｜👤 flaburgan
 
-- ⭐ 35 分｜💬 14 留言｜👤 andros
+### 10. [Python Polars Cheatsheet (based on our O'Reilly book)](https://opensource.posit.co/resources/cheatsheets/polars/)
 
-### 11. [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+- ⭐ 104 分｜💬 16 留言｜👤 jeroenjanssens
 
-- ⭐ 237 分｜💬 53 留言｜👤 pizzaiolo
+### 11. [We've flown a radiation-blocking vest to the Moon and back, and it worked](https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/)
 
-### 12. [IBM Simon (1994): the original smartphone, explained in its own ad [video]](https://www.youtube.com/watch?v=xoTFywZpPcc)
+- ⭐ 23 分｜💬 4 留言｜👤 rbanffy
 
-- ⭐ 49 分｜💬 16 留言｜👤 kls0e
+### 12. [Splitting a Git Commit](https://blog.gnoack.org/post/git-history-split)
 
-### 13. [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
+- ⭐ 75 分｜💬 35 留言｜👤 signa11
 
-- ⭐ 663 分｜💬 117 留言｜👤 ibotty
+### 13. [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
 
-### 14. [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)
+- ⭐ 18 分｜💬 21 留言｜👤 edbernays
 
-- ⭐ 41 分｜💬 3 留言｜👤 moultano
+### 14. [Teaching my kid to 代碼 with a modern MUD](https://tau.dev/2026/08/07/canon)
 
-### 15. [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
+- ⭐ 169 分｜💬 50 留言｜👤 andrewjanke
 
-- ⭐ 54 分｜💬 21 留言｜👤 newsomix9xl
+### 15. [Memory prices climb 500% in 12 months](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399)
 
-### 16. [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
+- ⭐ 207 分｜💬 157 留言｜👤 haunter
 
-- ⭐ 129 分｜💬 37 留言｜👤 cyndunlop
+### 16. [Ask HN: I've quit six systems for tracking my illness. What works?](https://news.ycombinator.com/item?id=49313346)
 
-### 17. [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+Hey everyone, I am a 20 year old college student who was recently diagnosed with seronegative spondyloarthropathy. Over the last 3 years, Ive tried apps, paper journal, Google Sheets, and notes to tra
 
-- ⭐ 392 分｜💬 149 留言｜👤 galnagli
+- ⭐ 32 分｜💬 34 留言｜👤 Abh1Works
 
-### 18. [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
+### 17. [Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)
 
-- ⭐ 480 分｜💬 85 留言｜👤 inigyou
+Hey HN,I&#x27;ve been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn&#x27;t a good way to use the modern macOS Data Protection Keychain.Electron&#x2
 
-### 19. [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
+- ⭐ 4 分｜💬 0 留言｜👤 biwills
 
-- ⭐ 228 分｜💬 47 留言｜👤 linggen
+### 18. [Babies born under sugar rationing grew into adults with lower cancer risk](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
 
-### 20. [An 更新 on leaving Gmail for Fastmail](https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/)
+- ⭐ 159 分｜💬 37 留言｜👤 zeristor
 
-- ⭐ 267 分｜💬 165 留言｜👤 neogodless
+### 19. [Evolve: An incremental game about evolving a civilization](https://pmotschmann.github.io/Evolve/)
 
-### 21. [The Road to MS-DOS 2.0](https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2)
+- ⭐ 5 分｜💬 1 留言｜👤 frozenseven
 
-- ⭐ 87 分｜💬 37 留言｜👤 whobre
+### 20. [Fairphone is now officially available in the United States](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more)
 
-### 22. [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
+- ⭐ 278 分｜💬 135 留言｜👤 Vinnl
 
-- ⭐ 138 分｜💬 28 留言｜👤 rglover
+### 21. [Show HN: Openleetcode – local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)
 
-### 23. [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet)
+You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your 代碼 against local 測試 cases, and shows the result.It current
 
-- ⭐ 79 分｜💬 52 留言｜👤 hermitcrab
+- ⭐ 17 分｜💬 6 留言｜👤 therepanic
 
-### 24. [GPT 5.6 Sol is the 最佳 "vision" 模型 OpenAI ever 發布](https://blog.roboflow.com/openai-gpt-5-6/)
+### 22. [代碼-native generation of highly programmable 3D assets (2026)](https://arxiv.org/abs/2607.22738)
 
-- ⭐ 346 分｜💬 163 留言｜👤 plurby
+- ⭐ 34 分｜💬 34 留言｜👤 baigy
 
-### 25. [如何 disable or avoid intrusive AI](https://www.librarian.net/notoai/)
+### 23. [Universal health coverage could save $1T and 114k lives a year: study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
 
-- ⭐ 312 分｜💬 184 留言｜👤 ColinWright
+- ⭐ 478 分｜💬 589 留言｜👤 karakoram
 
-### 26. [Sun Clock](https://sunclock.net/)
+### 24. [Google has acquired the data of failed US airline Spirit](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
-- ⭐ 253 分｜💬 81 留言｜👤 Gecko4072
+- ⭐ 491 分｜💬 344 留言｜👤 pseudolus
 
-### 27. [Climbing Guide as a Shared Infrastructure](https://irz.fr/en/articles/openclimbing-open-guide-en/)
+### 25. [California's 新 tire efficiency rules could save drivers $1B a year](https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/)
 
-- ⭐ 27 分｜💬 12 留言｜👤 zbycz
+- ⭐ 77 分｜💬 106 留言｜👤 littlexsparkee
 
-### 28. [Judge sets framework for Nine PBS to retrieve archival data](https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/)
+### 26. [Columbia House, Mail-Order Media Company, Is Shuttering](https://consequence.net/2026/08/columbia-house-closing-down/)
 
-- ⭐ 173 分｜💬 67 留言｜👤 qingcharles
+- ⭐ 5 分｜💬 0 留言｜👤 speckx
 
-### 29. [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+### 27. [Meta Files Patent for Facial Recognition, Automatic Recording of People](https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/)
 
-- ⭐ 955 分｜💬 582 留言｜👤 mooreds
+- ⭐ 207 分｜💬 128 留言｜👤 DeepLogin
 
-### 30. [Los Puesteros, solitary men who look after ranches and livestock in Patagonia](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
+### 28. [Rethinking 資料庫 程式設計](https://acadia.engineering/blog/rethinking-database-programming)
 
-- ⭐ 154 分｜💬 58 留言｜👤 bookofjoe
+- ⭐ 195 分｜💬 102 留言｜👤 honungsburk
+
+### 29. [Ask HN: GitHub employees what's going on? 為什麼?](https://news.ycombinator.com/item?id=49332495)
+
+Pretty self explanatory. Could you folks shed some light on 為什麼 these issues keep happening?I’ve noticed most posts and replies are just people coming to their own conclusions based on whatever publis
+
+- ⭐ 138 分｜💬 102 留言｜👤 sharts
+
+### 30. [Diesel Margins 熱門 $100 a Barrel to Reach Record High as Supply Crunch Grows](https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows)
+
+- ⭐ 31 分｜💬 12 留言｜👤 toomuchtodo
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- India has paved the way for charging merchants a fee on UPI transactions
-- Launch HN: Speko (YC S26) – OpenRouter for Voice AI
-- A particle made of force: physicists say they've found mysterious 'glueball'
-- A digestion of the proof of Sendov's conjecture
-- Ask HN: Alternatives to GitHub
-- I built a golf 職業 management SIM (like Basketball GM, but golf)
-- scScript for Linux
-- 25 Years of Haiku: From "Ok, Let's Start" to the Present
-- Democracy vs. the machine: birth of digital age,the warnings that were ignored
-- Show HN: Desktopcolors.com – A museum for solid background colors of classic OS
-- 如何 put 170 atoms in an atom
-- On AI regulation and messaging
-- OpenAI disbanded the team that assessed catastrophic 模型 risks
-- The oldest bar in every state
-- Dial-up internet – made a thing that lets you do it again
-- Qwen 3.8 27B is excellent, but it defaults to overthinking things
-- Roboflow Playground: Try and Compare 30 Computer Vision Models
-- A simple fix for 大型語言模型 tail latency
-- Linear algebra done right
-- Qwen3.8 27B scores 52 on Artificial Analysis
-- How I developed an Am29000 C compiler and 網頁 browser
-- Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028
-- Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing
-- GitHub degradation affects Cursor Origin, its 新 Git platform
-- How do functions like alloca allocate memory from the stack?
-- NVIDIA discloses $21B stake in SpaceX
-- How do I permanently disable random Google Photos popup to backup photos? (2024)
-- Expert Witness to ChatGPT: "Show how 3M is 0 percent at fault"
-- AI writes dead 代碼 – the Go team's deadcode tool finds it in one command
-- We Are Forking dotenvy into dotenv-ng
-- AGI-64 Brings Sierra Adventures to the Commodore 64
-- Ghosts of the Past and Devils of the Present
-- A third world 工程師 responds to “RISC-V: They should have known better”
-- Intriguing stories in computer science
-- Mexico crackdown on coastal development
-- Google wins bankruptcy auction for Spirit Airlines emails, chats, documents
-- 新 York utilities now want to 構建 solar and wind farms
-- 如何 ship a 資料庫 every day
-- Rhombus 1.1 is now available
-- Theory of Fluids Enters the 21st Century
-- Tangled: The next-generation social coding platform
-- Show HN: Learn Flags Quiz
-- 新 Spanish nanomaterial cools surfaces by up to 12.9C without electricity
-- Claude: 系統 Prompts
-- Near 1,400 live streams from Japan
-- Apple's App Tracking Transparency treated its own apps better than rivals
-- Tasklet (YC P26) Is 招聘 a Head of Design Engineering
-- Puppy PPE
-- What's Better Than Binary? – Advent of Computing Episode 187
-- My friends all hate AI; I just joined an AI startup
-- Show HN: Sokoban AI Solver
-- Tell HN: Cloudflare silently injects its analytics when you switch nameservers
-- Protobuf has LSP support
-- GPS and the Lost Art of Getting Lost
-- Applying a photosynthetic process to treat “dry eye”
-- Incident with Github.com [resolved]
-- Gakutensoku
-- Reticulum – Decentralized Mesh 網絡
-- Red queen hypothesis – A 新 way forward for self-improving AI
+- Finger: Social 網絡 that never died
+- 為什麼 your Amazon order confirmation emails have become so unhelpful
+- Baking a 模型: A Metaphor for 大型語言模型 訓練
+- Degraded performance for multiple models
+- Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized
+- Show HN: Shoehorn – Quantize any 模型 down to run on your machine
+- Claude writing a macOS driver for my obscure HP printer built only for Windows
+- US Government is pushing to gain unprecedented access to your medical records
+- How I Under-Engineered my Book
+- Mojo is now 開源!
+- Exercise intensity modulates interorgan communication and is associated with
+- The coolest anti-surveillance tools at Defcon [video]
+- IBM Simon (1994): the original smartphone, explained in its own ad [video]
+- AI won't solve the work-theater problem
+- Humans aren't the only animals that seem to like having pets
+- Show HN: Go CLI for website health checks, zero dependencies
+- Deus Ex creator Warren Spector is retiring from game development
+- JPEG XL converter and .jxl viewer
+- How Bluesky draws its logo on screenshots
+- Composable Tests
+- The Size of the World Wide 網頁
+- The Benchmarkpocalypse
+- The market for used EVs 'is so hot'
+- Repair Cafe – Fix Your Broken Items
+- 3D 模型 Markets Are Being Flooded with AI Sellers, but No One's Buying
+- The Road to MS-DOS 2.0
+- typ.ing
+- The National Park Service Is Using Flock. Rangers Are Pissed
+- The 新 Framework 12 [video]
+- Quake Shareware, a CD-ROM just a little too full
+- Shattered skeleton is first confirmed death from trebuchet
+- Ranking the Most Brilliantly Colored Birds with Data
+- AI;DR (AI; Didn't Read)
+- Oxford Electric Bell
+- ChatGPT has almost stopped citing Reddit
+- Meta pays pro-Meta influencers when countries look into teen safety on Instagram
+- U.S. Declared an Energy Emergency, Then Paid $4B for Less Energy
+- Los Puesteros, solitary men who look after ranches and livestock in Patagonia
+- GPT-5.6 Sol Pricing Cut by 50% on OpenRouter
+- Israel creates fake think tank in likely attempt to dupe AI chatbots
 - Wellington second-hand bookstore's mysterious orders
-- 30-year Treasury yield tops 5.31%, the highest in 19 years
-- Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression
-- Stripe will reportedly acquire OpenRouter for $7B+
-- 構建 a Stratum 1 PTP Grandmaster on a Budget
-- Chestnut – eGPU dock with open-source firmware
-- 大型語言模型 City – 3D render of all Kimi K3's weights as 2.5mm tiles
-- Qwen 3.8 27B
-- MathCode, Mathematical Coding 代理
-- Google to buy Spirit Airlines business data for $10M
-- A True Telnet BBS on a Casio Calculator
+- A Preview of DuckDB v2.0
+- Climbing Guide as a Shared Infrastructure
+- Launch HN: Speko (YC S26) – OpenRouter for Voice AI
+- A Green Light for Crooks
+- 遠端 work benefits are much bigger than a paycheck
+- Fairphone 6 and PostmarketOS working main camera
+- India has paved the way for charging merchants a fee on UPI transactions
+- Olo (Color)
+- Ask HN: Alternatives to GitHub
+- How do functions like alloca allocate memory from the stack?
+- AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira
+- 25 Years of Haiku: From "Ok, Let's Start" to the Present
+- A particle made of force: physicists say they've found mysterious 'glueball'
+- Tasklet (YC P26) Is 招聘 a Head of Design Engineering
+- Git at Any Scale
+- Show HN: A local MitM proxy to control TLS fingerprints
+- CDC: U.S. kindergarten vaccine exemptions hit record high as coverage falls
+- Firefox and Exa Partnership
+- A digestion of the proof of Sendov's conjecture
+- GPU Offload in Rust: Portable, Safe, and Fast
+- Show HN: Desktopcolors.com – A museum for solid background colors of classic OS
+- On AI regulation and messaging
+- GPT 5.6 Sol is the 最佳 "vision" 模型 OpenAI ever 發布
+- The Origin of Consciousness (2008)
+- 如何 put 170 atoms in an atom
+- An 更新 on leaving Gmail for Fastmail
+- Qwen 3.8 27B is excellent, but it defaults to overthinking things
+- Linear algebra done right
+- scScript for Linux
 
 
 ---
