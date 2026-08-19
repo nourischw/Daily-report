@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [新型Python惡意程式濫用SharePoint與Teams藏匿指揮控制，還能竊���與橫向移動](https://www.ithome.com.tw/news/178278)
+### 1. [新型Python惡意程式濫用SharePoint與Teams藏匿指揮控制，還能竊密與橫向移動](https://www.ithome.com.tw/news/178278)
 
 資安業者Ontinue旗下資安營運團隊Cyber Defense Center在7月調查一波攻擊活動時，發現先前未公開的Python惡意植入框架TWINLOOT。攻擊者利用SharePoint Online、Microsoft Teams與受害電腦上的Edge瀏覽器隱藏指揮控制通訊，同時竊取Windows登入憑證，並把受害電腦當成進入企業內網其他系統的跳板。
 
@@ -25,7 +25,7 @@
 
 ### 4. [WordPress外掛Forminator存在任意檔案上傳漏洞，逾60萬個網站受影響](https://www.ithome.com.tw/news/178275)
 
-資安業者Wordfence於8月17日揭露，WordPress外掛程式Forminator Forms存在重大的任意檔案上傳漏洞，該外掛用於建立聯絡、付款、問卷及其他自訂表單，全球有逾60萬個啟用安裝量，所有1.56.1及以前版本都受前述漏���影響。
+資安業者Wordfence於8月17日揭露，WordPress外掛程式Forminator Forms存在重大的任意檔案上傳漏洞，該外掛用於建立聯絡、付款、問卷及其他自訂表單，全球有逾60萬個啟用安裝量，所有1.56.1及以前版本都受前述漏洞影響。
 
 - 📰 **iThome 科技**
 
@@ -37,7 +37,7 @@
 
 ### 6. [Oracle發布2026年8月關鍵安全修補更新，共修補925個漏洞，含多個CVSS滿分重大漏洞](https://www.ithome.com.tw/news/178271)
 
-Oracle於8月18日發布2026年8月份關鍵安全修補更新（Critical 安全 Patch 更新，CSPU），包含與943項更新程式，相較今年上一次CSPU（6月份發布）的245項更新程式，修補��模一口氣增加近4倍。
+Oracle於8月18日發布2026年8月份關鍵安全修補更新（Critical 安全 Patch 更新，CSPU），包含與943項更新程式，相較今年上一次CSPU（6月份發布）的245項更新程式，修補規模一口氣增��近4倍。
 
 - 📰 **iThome 科技**
 
@@ -78,7 +78,7 @@ Threema說明，8月11日當地時間Threema及其託管合作夥伴Nine遭到�
 
 ### 12. [Apple發布macOS Tahoe 26.6.2，修補28個漏洞](https://www.ithome.com.tw/news/178265)
 
-Apple在8月17日除了發布iOS與iPadOS的更新外，也同步推出macOS Tahoe最新的26.6.2版，修補28個漏洞，涵蓋Audio、ImageIO、Kernel與WebKit等系統元件。
+Apple在8月17日���了發布iOS與iPadOS的更新外，也同步推出macOS Tahoe最新的26.6.2版，修補28個漏洞，涵蓋Audio、ImageIO、Kernel與WebKit等系統元件。
 
 - 📰 **iThome 科技**
 
@@ -96,13 +96,13 @@ OpenAI周二（8/18）公布新的前沿模型安全措施，指出目前的AI�
 
 ### 15. [幫助企業獲取自身ASM情資，韓國KISA推動客製化攻擊面威脅通知服務](https://www.ithome.com.tw/news/178258)
 
-面對不斷出現的大量網路威脅資訊，企業往往難以從中找出與自身環境直接相關的風險，韓國網路安全振興院（KISA）在情資分享面提出新解法。KISA宣布將與其主管機關科學技術資訊通信部合作，試辦「攻擊面客製化威脅通知服務」，讓原先加入C-TAS威脅情資共享系統的企業，也能依據自身暴露的攻擊面，獲得曝險識別的關鍵資訊。
+面對不斷出現的大量網路威脅資訊，企業往往難以從中找出與自身環境直接相關的風險，韓國網路安全振興院（KISA）在情資分享面提出新解法。KISA宣布將與其主管機關科學技術資訊通信部合作，試辦「攻擊面客製化威脅通知服務」（공격표면 맞춤형 위협 알림 서비스），讓原先加入C-TAS威脅情資共享系統的企業，也能依據自身暴露的攻擊面，獲得曝險識別的關鍵資訊。
 
 - 📰 **iThome 科技**
 
 ### 16. [全球物流業者CEVA被駭事件影響擴大，英、德Pokémon Center資料外洩、取消訂單](https://www.ithome.com.tw/news/178260)
 
-物流巨擘CEVA Logistics本月初被駭事件影響範圍繼續擴大。英國、德國寶可夢中心（Pokémon Center）本週公告用戶資料���洩，且因出貨延宕將被迫取消用戶訂單。
+物流巨擘CEVA Logistics本月初被駭事件影響範圍繼續擴大。英國、德國寶可夢中心（Pokémon Center）本週公告用戶資料外洩，且因出貨延宕將被迫取消用戶訂單。
 
 - 📰 **iThome 科技**
 
@@ -144,7 +144,7 @@ Google發布Chrome瀏覽器新版本，將Windows與Mac平臺穩定版更新至1
 
 ### 23. [英國警告Citrix NetScaler高風險漏洞遭積極利用](https://www.ithome.com.tw/news/178253)
 
-Citrix於6月底修補NetScaler高風險阻斷服務（DoS）漏洞CVE-2026-8452，上週資安公司watchTowr公布漏洞細節，指出此弱點實際風險相當高，攻擊者可在未經身分驗證的情況下，遠端執行任意程式碼（RCE）。
+Citrix於6月底修補NetScaler高風險阻斷服務（DoS）漏洞CVE-2026-8452，上週資安公司watchTowr公布漏洞細節，指出此弱點實際風險相當高，攻擊者可在未經身分驗證的情況下��遠端執行任意程式碼（RCE）。
 
 - 📰 **iThome 科技**
 
@@ -168,7 +168,7 @@ Citrix於6月底修補NetScaler高風險阻斷服務（DoS）漏洞CVE-2026-8452
 
 ### 27. [開放權重AI模型能力逼近封閉模型，抵禦攻擊表現未同步提升](https://www.ithome.com.tw/news/178248)
 
-開放權重AI模型正快速縮小與頂尖封閉模型的能力差距。網路應用與資安業者F5旗下研究團隊F5 Labs指出，根據AI研究機構Epoch AI分析，自2026年1月以來，最強開放權重模型的能���平均落後頂尖封閉模型約4個月；不過F5的AI安全評測顯示，部分開放權重模型雖躋身能力排名前段，在抵禦提示注入與越獄攻擊的評測中卻排名後段。
+開放權重AI模型正快速縮小與頂尖封閉模型的能力差距。網路應用與資安業者F5旗下研究團隊F5 Labs指出，根據AI研究機構Epoch AI分析，自2026年1月以來，最強開放權重模型的能力平均落後頂尖封閉模型約4個月；不過F5的AI安全評測顯示，部分開放權重模型雖躋身能力排名前段，在抵禦提示注入與越獄攻擊的評測中卻排名後段。
 
 - 📰 **iThome 科技**
 
@@ -180,7 +180,7 @@ Citrix於6月底修補NetScaler高風險阻斷服務（DoS）漏洞CVE-2026-8452
 
 ### 29. [Amazon傳拆卸珍本書，以取得AI模型訓練資料集](https://www.ithome.com.tw/news/178221)
 
-404 Media報導，以賣書起家的Amazon購入大量珍本書籍，將拆卸開來掃描，用以訓練AI模型。
+404 Media報導，以賣書起家的Amazon購入大量珍本書籍，將拆卸開來���描，用以訓練AI模型。
 404 Media是以調查報導方式，在書本內置入追蹤裝置，最後查到書本運抵Amazon於拉斯維加斯，名為VGT3的物流中心。
 Amazon以簡單聲明回覆媒體說，該公司透過商業通路購買書本，是為了提升客戶使用的產品和服務。
 
@@ -197,6 +197,10 @@ PQC遷移不只是單純的軟體升級，同時也在要求企業對整個網�
 
 ### 更多 AI 新聞 (70則)
 
+- Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks (**Wired**)
+- Google Pixel Watch 5 Review: More Health, More AI (**Wired**)
+- Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart 軟體, Small Upgrade (**Wired**)
+- 為什麼 Is It Absolute Hell to Buy a Movie Ticket Now? (**Wired**)
 - The 最佳 Digital Wall Calendar (2026): Skylight, Everblog, Apolosign (**Wired**)
 - I Tried a Window-Cleaning Robot: Do Not Recommend (**Wired**)
 - ‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport (**Wired**)
@@ -234,19 +238,15 @@ PQC遷移不只是單純的軟體升級，同時也在要求企業對整個網�
 - Hydrow Discount 代碼: Save Up to $150 | August 2026 (**Wired**)
 - SteelSeries Coupon Codes: 15% Off in August 2026 (**Wired**)
 - Vivid Seats Promo Codes and Deals: Get 10% Off (**Wired**)
-- Womanizer Coupons: Save 15% in August (**Wired**)
-- Ring Promo 代碼: 50% Off (**Wired**)
-- Logitech Promo Codes and Deals: Up to $100 Off (**Wired**)
 - Western Digital Promo 代碼: 15% Off (**Wired**)
+- Ring Promo 代碼: 50% Off (**Wired**)
+- Womanizer Coupons: Save 15% in August (**Wired**)
+- Logitech Promo Codes and Deals: Up to $100 Off (**Wired**)
 - 什麼是 El Niño, and What Does It Mean for Weather, Water, and the Global Economy? (**Wired**)
 - This R-Rated Film Studio Wants to Be the HBO of AI (**Wired**)
 - 7 最佳 Cheap Laptops to Buy in 2026 (and Some to Avoid) (**Wired**)
 - CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals (**Wired**)
 - Skylight Buddy Review (2026): Kid Routines Just Got Easy (**Wired**)
-- El Niño and Saharan Dust Silence Atlantic Hurricane Season (**Wired**)
-- Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms (**Wired**)
-- There’s a 新 Link Between Gut Health and Alzheimer’s Disease (**Wired**)
-- Astronomers Discover the Existence of a Black Hole Star (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
