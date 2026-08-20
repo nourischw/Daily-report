@@ -4,202 +4,204 @@
 
 ---
 
-### 1. [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
+### 1. [為什麼 Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 
-- ⭐ 52 分｜💬 11 留言｜👤 cocacola1
+- ⭐ 27 分｜💬 4 留言｜👤 tybulewicz
 
-### 2. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+### 2. [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana/)
+
+- ⭐ 15 分｜💬 19 留言｜👤 tosh
+
+### 3. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
 
 Previously: Stripe will reportedly acquire OpenRouter for $7B+ https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49323381
 
-- ⭐ 599 分｜💬 317 留言｜👤 rvz
+- ⭐ 782 分｜💬 394 留言｜👤 rvz
 
-### 3. [Go 1.27](https://go.dev/blog/go1.27)
+### 4. [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
-- ⭐ 421 分｜💬 102 留言｜👤 database64128
+- ⭐ 131 分｜💬 58 留言｜👤 mayoff
 
-### 4. [Google replaced Git tags for certain source 代碼 with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+### 5. [Go 1.27](https://go.dev/blog/go1.27)
 
-- ⭐ 272 分｜💬 108 留言｜👤 Animux
+- ⭐ 571 分｜💬 143 留言｜👤 database64128
 
-### 5. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+### 6. [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
 
-- ⭐ 122 分｜💬 33 留言｜👤 1e1a
+- ⭐ 96 分｜💬 10 留言｜👤 gavide
 
-### 6. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+### 7. [Google has stopped pushing Git tags for some Android source 代碼](https://grapheneos.social/@GrapheneOS/117057099753905023)
 
-- ⭐ 174 分｜💬 64 留言｜👤 jonesy827
+- ⭐ 424 分｜💬 172 留言｜👤 Animux
 
-### 7. [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
+### 8. [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
 
-- ⭐ 37 分｜💬 24 留言｜👤 jggonz
+- ⭐ 100 分｜💬 12 留言｜👤 surprisetalk
 
-### 8. [Sol Loves to Cheat](https://jumploops.com/blog/sol-loves-to-cheat/)
+### 9. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
 
-- ⭐ 65 分｜💬 36 留言｜👤 jumploops
+- ⭐ 184 分｜💬 44 留言｜👤 1e1a
 
-### 9. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
+### 10. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 
-- ⭐ 734 分｜💬 112 留言｜👤 kareiva
+- ⭐ 834 分｜💬 129 留言｜👤 kareiva
 
-### 10. [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
+### 11. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
 
-- ⭐ 265 分｜💬 212 留言｜👤 __fst__
+- ⭐ 230 分｜💬 87 留言｜👤 jonesy827
 
-### 11. [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
+### 12. [Sol loves to cheat](https://jumploops.com/blog/sol-loves-to-cheat/)
 
-- ⭐ 67 分｜💬 7 留言｜👤 mike-the-brain
+- ⭐ 130 分｜💬 81 留言｜👤 jumploops
 
-### 12. [Geolocating a random island using geometry and CUDA 程式設計](https://yassa9.github.io/osint/gralhix-004/)
+### 13. [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 
-- ⭐ 394 分｜💬 75 留言｜👤 yassa9
+- ⭐ 202 分｜💬 112 留言｜👤 fg137
 
-### 13. [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
+### 14. [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
 
-- ⭐ 70 分｜💬 15 留言｜👤 ingve
+- ⭐ 332 分｜💬 275 留言｜👤 __fst__
 
-### 14. [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
+### 15. [Geolocating a random island using geometry and CUDA 程式設計](https://yassa9.github.io/osint/gralhix-004/)
 
-- ⭐ 120 分｜💬 65 留言｜👤 fg137
+- ⭐ 453 分｜💬 77 留言｜👤 yassa9
 
-### 15. [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/)
+### 16. [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 
-- ⭐ 3 分｜💬 0 留言｜👤 fetzu
+- ⭐ 75 分｜💬 37 留言｜👤 jggonz
 
-### 16. [為什麼 travellers are obsessed with foreign supermarkets](https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction)
+### 17. [Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)](https://github.com/cesarblum/sectorforth)
 
-- ⭐ 12 分｜💬 4 留言｜👤 edward
+- ⭐ 16 分｜💬 2 留言｜👤 sigalor
 
-### 17. [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753)
+### 18. [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
 
-- ⭐ 116 分｜💬 110 留言｜👤 jonbaer
-
-### 18. [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
-
-- ⭐ 6 分｜💬 0 留言｜👤 surprisetalk
+- ⭐ 53 分｜💬 109 留言｜👤 animalcule
 
 ### 19. [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
 
-- ⭐ 296 分｜💬 183 留言｜👤 karlmush
+- ⭐ 342 分｜💬 210 留言｜👤 karlmush
 
-### 20. [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
+### 20. [fx :Tiny, open, native coding 代理.](https://fx.sh)
 
-- ⭐ 37 分｜💬 34 留言｜👤 willmeyers
+- ⭐ 233 分｜💬 97 留言｜👤 handfuloflight
 
-### 21. [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
+### 21. [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
 
-- ⭐ 165 分｜💬 57 留言｜👤 CommonGuy
+- ⭐ 106 分｜💬 26 留言｜👤 ingve
 
-### 22. [fx :Tiny, open, native coding 代理.](https://fx.sh)
+### 22. [Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simulation)
 
-- ⭐ 167 分｜💬 85 留言｜👤 handfuloflight
+- ⭐ 55 分｜💬 22 留言｜👤 soupspaces
 
-### 23. [Xwayland 26.1.0 rc1](https://lists.x.org/archives/xorg/2026-August/062280.html)
+### 23. [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753)
 
-- ⭐ 47 分｜💬 35 留言｜👤 ErenayDev
+- ⭐ 150 分｜💬 182 留言｜👤 jonbaer
 
-### 24. [A portable, sensitive, low power, analog Geiger counter (2025)](https://ludens.cl/Electron/geiger2/geiger2.html)
+### 24. [Launch HN: OneCLI (YC S26) – OSS sandboxed 代理 harness for teams](https://github.com/onecli/onecli)
 
-- ⭐ 38 分｜💬 1 留言｜👤 crorella
+Hi HN, Jonathan &amp; Guy here from OneCLI, an 代理 harness built for teams, giving every employee a secured, sandboxed personal 代理.Here’s what you can do with it:1. get a sandboxed 代理, with al
 
-### 25. [Extensible 軟體 in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
+- ⭐ 73 分｜💬 21 留言｜👤 guyb3
 
-- ⭐ 102 分｜💬 48 留言｜👤 coloneltcb
+### 25. [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
 
-### 26. [IDE Nostalgia (2022)](https://davidsmaynard.com/blog/keyset)
+- ⭐ 70 分｜💬 39 留言｜👤 tobr
 
-- ⭐ 32 分｜💬 1 留言｜👤 dmaynard
+### 26. [Extensible 軟體 in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
 
-### 27. [Collaborative Human 代理 Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
+- ⭐ 140 分｜💬 54 留言｜👤 coloneltcb
 
-- ⭐ 17 分｜💬 3 留言｜👤 arsalanshahid
+### 27. [Air Theremin – A browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 
-### 28. [Air Theremin – A browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
+- ⭐ 267 分｜💬 90 留言｜👤 gurov
 
-- ⭐ 244 分｜💬 83 留言｜👤 gurov
+### 28. [Rewriting in Rust](https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/)
 
-### 29. [The Future of CSS: Target Multiple Classes with the Class Prefix Selector](https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/)
+- ⭐ 23 分｜💬 9 留言｜👤 worik
 
-- ⭐ 13 分｜💬 8 留言｜👤 cdrnsf
+### 29. [Pacing 模型 development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
 
-### 30. [遠端 workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
+- ⭐ 146 分｜💬 217 留言｜👤 j4mie
 
-- ⭐ 478 分｜💬 237 留言｜👤 downbad_
+### 30. [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
+
+- ⭐ 187 分｜💬 61 留言｜👤 CommonGuy
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Pacing 模型 development in an era of cyber-critical capabilities
-- Aluminum Frame PC Fan Corsi-Rosenthal 構建 (2023)
-- Launch HN: OneCLI (YC S26) – OSS sandboxed 代理 harness for teams
-- How Kubernetes Probes Work
+- DFlash 2: Keep Drafting Parallel
+- Universality of Gradient Descent 神經網絡 網絡 訓練
+- Pressed Penny Machine Map
+- Error by AI scribe during medical appointment leaves patient devastated
+- Zuckerberg encouraged growth over child safety, ex-Meta executive testifies
+- 遠端 workers report the highest well-being in study of 7,700 employees
+- OpenLogi
+- Children's stunted lungs show recovery in ultra low emission zone
+- A portable, sensitive, low power, analog Geiger counter (2025)
+- Xwayland 26.1.0 rc1
 - Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma
+- IDE Nostalgia (2022)
+- A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)
+- Aluminum Frame PC Fan Corsi-Rosenthal 構建 (2023)
 - MicroGPT-C in pure C hits 10M TPS on Apple M5
 - Devices with GrapheneOS support should be available in 2027
-- OpenLogi
-- A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)
-- Children's stunted lungs show recovery in ultra low emission zone
-- Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025)
-- Introducing MicroLighter
-- Rules of good social skills (2025)
-- Digital Immortality
-- A revisit of 遠端 Spectre attacks on Cloudflare Workers
-- Rick Scott Walked Away from $1.7B Health Care Fraud Case, Then Got a Senate Seat
-- Taffy: A flexible, high-performance, cross-platform UI layout library
-- From Quantum Relative Entropy to the Semiclassical Einstein Equations (2025)
 - Supersonic Trebuchet [video]
+- How Kubernetes Probes Work
+- How do payments work in the US, China, and Brazil?
 - Rings forged from meteorites may have been fashionable among ancient Greek elite
 - Activation Energy is a good 模型 for a lot of things
-- Turning molecules into reliable electronic devices
-- Palomar: A registry of Lean verified mathematics
-- Technical leaders should have the largest AI exhaust
+- Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo
+- Taffy: A flexible, high-performance, cross-platform UI layout library
+- Collaborative Human 代理 Protocol (CHAP)
+- Samsung hikes chipmaking prices by up to 15% for 新 orders, on demand spike
+- Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025)
 - Claude writing a macOS driver for my obscure HP printer built only for Windows
-- Where Human Sleep Went Wrong
-- U.S. government debt passes $40T, more than doubling in a decade
+- Palomar: A registry of Lean verified mathematics
+- Turning molecules into reliable electronic devices
+- A revisit of 遠端 Spectre attacks on Cloudflare Workers
 - The Amazon tax
-- Being ambitious and being a dad
 - Bun 1.4 Rust rewrite is not looking good?
+- Introducing MicroLighter
+- Where Human Sleep Went Wrong
 - AI usage patterns in 軟體 teams
-- How China Saved the Global Oil Market
-- Cerebras CS-4
-- Show HN: Frugal Tokens – explore costs and usage across coding agents
+- Being ambitious and being a dad
+- ADHD charity complains about Channel 4 documentary
+- The Future of CSS: Target Multiple Classes with the Class Prefix Selector
+- Rules of good social skills (2025)
 - Turbovec – Google's TurboQuant for vector search in Rust
-- λλ: A 程式設計 Language for Silicon Photonics
+- Cerebras CS-4
 - Apple 宣布 changes for apps in the European Union
-- If your 代理 commits a crime, who is responsible?
-- The Two Factions of C++ (2024)
-- Show HN: Automatically detect and patch walking-dead states in Sierra games
-- Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces
+- Digital Immortality
+- From Quantum Relative Entropy to the Semiclassical Einstein Equations (2025)
 - Ask HN: GitHub employees what's going on? 為什麼?
-- Civic Hygiene – avoid building technologies that could be used by a police state (2013)
-- A recipe for drone racing with reinforcement learning
-- Show HN: Nikon F100 Film Camera Repair Notes
-- The Mojo language (by Modular, now Qualcomm) is now open-source
-- I Became a Pediatrician Because I Wanted to Be a Good Adult
-- The Vietnam Binh Chau (Chau Tan) Late Tang Wreck
-- Japan to require AI firms to disclose 訓練 data
+- The Two Factions of C++ (2024)
+- Rick Scott Walked Away from $1.7B Health Care Fraud Case, Then Got a Senate Seat
+- Show HN: Automatically detect and patch walking-dead states in Sierra games
+- The US national debt now stands at $40T
+- λλ: A 程式設計 Language for Silicon Photonics
+- If your 代理 commits a crime, who is responsible?
+- Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces
 - Teaching my kid to 代碼 with a modern MUD
-- A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+- Semantica, the 開源 Palantir for AI Agents
 - California's 新 tire efficiency rules could save drivers $1B a year
-- Router by Ramp
-- How does IKEA come up with names for its products?
-- HTML Can Do That
-- Human brain organoids record the passage of time over multiple years
-- NASA's rescue mission for the Swift space telescope has failed
-- Memory prices climb 500% in 12 months
+- 為什麼 travellers are obsessed with foreign supermarkets
+- Show HN: Frugal Tokens – explore costs and usage across coding agents
+- A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+- The Vietnam Binh Chau (Chau Tan) Late Tang Wreck
 - Universal health coverage could save $1T and 114k lives a year: study
-- 最佳 Buy 'Repaired' a 64GB Laptop by Making It 32GB
+- The Mojo language (by Modular, now Qualcomm) is now open-source
+- How does IKEA come up with names for its products?
+- Memory prices climb 500% in 12 months
 - Python Polars Cheatsheet (based on our O'Reilly book)
+- Show HN: Nikon F100 Film Camera Repair Notes
+- Claude 代碼 adds 新 "concise" output style setting
 - Beware Management Consultants
 - Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI
-- Show HN: Interactive, animated architecture of any HuggingFace models
+- Dear researchers: Is AI all you've got?
 - Finger: the 1971 social 網絡 that never died
-- Looking for Missed Alarm Bugs in a Formal Verification Tool
-- Home batteries are suddenly cheap and everywhere. Here's 為什麼
-- A 25-year-old video patent just expired, ending a legal headache for Linux
-- Cursor 推出 Origin, GitHub alternative
-- Rethinking 資料庫 程式設計
 
 
 ---
