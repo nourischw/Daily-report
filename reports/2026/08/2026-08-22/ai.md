@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [研究人員揭露NASA地面控制軟體AIT-GUI重大漏洞，可能導致未經身分認證攻擊者對太空船發送指令](https://www.ithome.com.tw/news/178350)
+### 1. [研究人員揭露NASA地面控制軟體AIT-GUI重大漏洞，可能導致未��身分認證攻擊者對太空船發送指令](https://www.ithome.com.tw/news/178350)
 
 資安業者Cycode研究人員於8月18日揭露，NASA地面資料系統框架AMMOS Instrument Toolkit的網頁控制介面AIT-GUI存在重大漏洞，這套由NASA與JPL（噴射推進實驗室）開發的開源軟體，被用於地面站與太空船、科學儀器之間的指令上傳與遙測資料下載等功能，2.5.1及以前版本都受前述漏洞影響，AIT-GUI專案已於8月12日發布修補的2.5.2版。
 
@@ -48,7 +48,7 @@ Node.js沙箱函式庫isolated-vm被揭露重大沙箱逃逸漏洞GHSA-864f-rcv7
 
 ### 7. [BeyondTrust修補EPM高風險漏洞，未更新可能導致攻擊者提升權限並執行任意程式碼](https://www.ithome.com.tw/news/178344)
 
-資安業者BeyondTrust於8月17日發布資安公告，修補端點權限管理產品Endpoint Privilege Management（EPM）Windows版兩個高風險漏洞，包括涉及記憶體越界存取問題的CVE-2026-40144，以及涉及存取控制不足的CVE-2026-40145，用戶應升級至已修補完成的26.1.2版。
+資安業者BeyondTrust��8月17日發布資安公告，修補端點權限管理產品Endpoint Privilege Management（EPM）Windows版兩個高風險漏洞，包括涉及記憶體越界存取問題的CVE-2026-40144，以及涉及存取控制不足的CVE-2026-40145，用戶應升級至已修補完成的26.1.2版。
 
 - 📰 **iThome 科技**
 
@@ -60,7 +60,7 @@ Google周四（8/20）宣布，旗下開放AI模型Gemma家族累計下載次數
 
 ### 9. [WordPress外掛W3 Total Cache傳出CVSS滿分漏洞，逾90萬網站受影響](https://www.ithome.com.tw/news/178342)
 
-資安研究機構WPScan於8月17日揭露，擁有逾90萬活躍安裝量WordPress網站快取與效能最佳化外掛W3 Total Cache，存在CVSS評分達10.0滿分的重大漏洞CVE-2026-18051，影響2.10.4以前版本，WPScan已驗證漏洞，預計9月17日公開PoC，該外掛程式開發商BoldGrid也已發布完成修補的2.10.5版，用戶應立即更新。
+資安研究機構WPScan於8月17日揭露，擁有逾90萬活躍安裝量WordPress網站快取與效能最佳化外掛W3 Total Cache，存在CVSS評分達10.0滿分���重大漏洞CVE-2026-18051，影響2.10.4以前版本，WPScan已驗證漏洞，預計9月17日公開PoC，該外掛程式開發商BoldGrid也已發布完成修補的2.10.5版，用戶應立即更新。
 
 - 📰 **iThome 科技**
 
@@ -72,7 +72,7 @@ Google周四（8/20）宣布，旗下開放AI模型Gemma家族累計下載次數
 
 ### 11. [數字科技旗下591網站遭駭客繞過登入機制，已完成漏洞修補與密鑰輪替](https://www.ithome.com.tw/news/178340)
 
-數字科技（5287）於8月20日晚間，在股市公開觀測站發布資安重訊，揭露網站遭異常存取的資安事件。該公司發現旗下591網站出現登入行為異���，經調查確認外部攻擊者利用登入機制弱點，繞過正常驗證程序進行未經授權登入。
+數字科技（5287）於8月20日晚間，在股市公開觀測站發布資安重訊，揭露網站遭異常存取的資安事件。該公司發現旗下591網站出現登入行為異常，經調查確認外部攻擊者利用登入機制弱點，繞過正常驗證程序進行未經授權登入。
 
 - 📰 **iThome 科技**
 
@@ -84,7 +84,7 @@ G7國家的資安徵才正加速納入AI技能要求。由思科（Cisco）等�
 
 ### 13. [光纖元件廠上詮資訊系統遭駭客攻擊，部分主機與電腦中毒](https://www.ithome.com.tw/news/178339)
 
-光纖元件廠商上詮（3363）在8月19日晚間，於股市資訊公開觀測站發布重大訊息，指出該公��的資訊系統遭受駭客網路攻擊，部分主機與電腦遭到病毒攻擊。
+光纖元件廠商上詮（3363）在8月19日晚間，於股市資訊公開觀測站發布重大訊息���指出該公司的資訊系統遭受駭客網路攻擊，部分主機與電腦遭到病毒攻擊。
 
 - 📰 **iThome 科技**
 
@@ -96,7 +96,7 @@ G7國家的資安徵才正加速納入AI技能要求。由思科（Cisco）等�
 
 ### 15. [思科發布工作負載安全平臺Secure Workload更新，修補2個滿分漏洞](https://www.ithome.com.tw/news/178336)
 
-8月19日思科針對網路自動化與協同管理平臺Crosswork發布更新，修補滿分與近滿分的重大漏洞，同一天該公司也更新工作負載安全平臺Secure Workload，公布與修補多個資���漏洞，影響4.0與3.10以前的所有版本。
+8月19日思科針對網路自動化與協同管理平臺Crosswork發布更新，修補滿分與近滿分的重大漏洞，同一天該公司也更新工作負載安全平臺Secure Workload，公布與修補多個資安漏洞，影響4.0與3.10以前的所有版本。
 
 - 📰 **iThome 科技**
 
@@ -108,7 +108,7 @@ Cursor公開程式碼託管服務Origin的底層Git儲存系統Continuity，採�
 
 ### 17. [GitHub揭露8月大當機原因，基礎設施容量未跟上使用成長](https://www.ithome.com.tw/news/178335)
 
-GitHub周四（8/20）公布8月17日大規模服務中斷事故調查結果，指出事故並非程式或組態變更造成，而是基礎設施容量未能跟上平臺使用量成長。當天流量創下新高後，美國中部資料���心一項關鍵元件超出負荷，最終造成多項服務中斷7小時47分鐘。
+GitHub周四（8/20）公布8月17日大規模服務中斷事故調查結果，指出事故並非程式或組態變更造成，而是基礎設施容量未能跟上平臺使用量成長。當天流量創下新高後，美國中部資料中心一項關鍵元件超出負荷，最終造成多項服務中斷7小時47分鐘。
 
 - 📰 **iThome 科技**
 
@@ -120,7 +120,7 @@ GitHub周四（8/20）公布8月17日大規模服務中斷事故調查結果，�
 
 ### 19. [Google兩天內二度更新Chrome 151，再修補7個資安漏洞](https://www.ithome.com.tw/news/178332)
 
-Google才於8月18日發布Chrome 151更新，短短兩天後又於8月20日再次推出修補版本，將Windows與Mac平臺穩定版更新至151.0.7922.173與151.0.7922.174，Linux版本更新至151.0.7922.173，同時Android版也更新為151.0.7922.173。
+Google才於8月18日發布Chrome 151更新，短短兩天後又於8月20日再次推出修補版本，將Windows與Mac平臺穩定版更新至151.0.7922.173與151.0.7922.174，Linux���本更新至151.0.7922.173，同時Android版也更新為151.0.7922.173。
 
 - 📰 **iThome 科技**
 
@@ -133,7 +133,7 @@ Slack過去已能整合各種AI代理人，但相關功能主要用於對話及�
 
 ### 21. [Apache HttpComponents Client存在可讓攻擊者偽造伺服器回應的重大漏洞](https://www.ithome.com.tw/news/178330)
 
-Apache HttpComponents Client存在一項重大風險漏洞，風險值高達CVSS 9.1，可讓攻擊者以有效憑證偽造伺服器回應，但這項漏洞不影響經典版HttpClient。
+Apache HttpComponents Client存在一項重大風險漏洞，風險值高達CVSS 9.1，可讓攻擊者以有效憑證偽造伺服器回應，但��項漏洞不影響經典版HttpClient。
 Apache HttpComponents Client（簡稱HttpClient）是一個開源Java函式庫，專門用於處理HTTP協定的客戶端請求與回應。這項編號CVE-2026-71290的漏洞屬於TLS主機名稱驗證不當漏洞，出現在使用HttpClient非同步版本時，HostnameVerificationPolicy#BUILTIN設定不會生效。
 
 - 📰 **iThome 科技**
@@ -152,7 +152,7 @@ Apache HttpComponents Client（簡稱HttpClient）是一個開源Java函式庫�
 
 ### 24. [PQC轉型不能只盤點TLS憑證，企業還要掌握完整密碼學資產](https://www.ithome.com.tw/news/178326)
 
-企業因應後量子密碼學（PQC）轉型時，第一步不是直接更換演算法，而是先掌握現有密碼學資產。應用交付與資安業者F5近期在一篇探討公開金鑰基礎建設（PKI）的技術文章中指出，憑證有效期限縮短、PQC轉型與FIPS驗證相關期限雖然涉及不同工作，但都必須先完成密碼學資產盤點。企業需要釐清憑證與演算法部署在哪些系統，以及FIPS實際驗證邊界涵蓋哪些元件或設備，才能進一步更新憑證、替換演算法或確認驗證狀態。
+企業因應後量子密碼學（PQC）轉型時，第一步不是直接更換演算法，而是先掌握現有密碼學資產。應用交付與資安業者F5近期在一篇探討公開金鑰基礎建設（PKI）的技術文章中指出，憑證有效期限縮短、PQC轉型與FIPS驗證相關期限雖然涉及不同工作，但都必須先完成密碼學資產盤點。企業需要釐清憑證與演算法部署在哪些系統，以及FIPS實際驗證邊界涵蓋哪些元件或設備，才能進一步更新憑證、替換演算��或確認驗證狀態。
 
 - 📰 **iThome 科技**
 
@@ -164,7 +164,7 @@ Apache HttpComponents Client（簡稱HttpClient）是一個開源Java函式庫�
 
 ### 26. [全球首座SEMI E187資安檢測實驗室在臺啟用，為半導體設備做好資安把關工作](https://www.ithome.com.tw/news/178323)
 
-資策會8月20日正式啟用全球首座SEMI E187資安檢測實驗室，將半導體設備資安標準與認驗證制度轉化為實際檢測能力。數發部長林宜敬表示，SEMI E187由數發部、SEMI及台積電共同推動，���降低半導體供應鏈資安風險，協助設備商爭取訂單及拓展海外市場，同時減少臺灣廠商對歐美檢測機構的依賴；資策會董事長黃仲銘則指出，這座實驗室的啟用，代表臺灣從資安標準的遵循者，進一步成為制度建立者與把關者。
+資策會8月20日正式啟用全球首座SEMI E187資安檢測實驗室，將半導體設備資安標準與認驗證制度轉化為實際檢測能力。數發部長林宜敬表示，SEMI E187由數發部、SEMI及台積電共同推動，可降低半導體供應鏈資安風險，協助設備商爭取訂單及拓展海外市場，同時減少臺灣廠商對歐美檢測機構的依賴；資策會董事長黃仲銘則指出，這座實驗室的啟用，代表臺灣從資安標準的遵循者，進一步成為制度建立者與把關者。
 
 - 📰 **iThome 科技**
 
@@ -189,7 +189,7 @@ macOS版ChatGPT及Codex本周加入數項功能，包括能為用戶傳送Apple�
 
 ### 30. [Unsloth更新Dynamic v3.0 GGUF量化方法，相同檔案尺寸下提高量化模型精度](https://www.ithome.com.tw/news/178318)
 
-開源AI新創Unsloth更新Dynamic v3.0 GGUF量化方法，先推出Qwen3.8-27B的Dynamic v3.0量化版本。新版重新調整量化校準資料、模型層選擇方式與量化策略，希望在模型檔案大小不變的情況下，減少量化造成的精度損失。Unsloth自行測試顯示，相同檔案尺寸下，部分Dynamic v3.0版本的首選輸出（熱門-1）準確率比其他量化版本高逾10%。
+開源AI新創Unsloth更新Dynamic v3.0 GGUF量化方法，先推出Qwen3.8-27B的Dynamic v3.0量化版本。新版重新調整量化校準資料、模型層選擇方式與量化策略，希望在模型��案大小不變的情況下，減少量化造成的精度損失。Unsloth自行測試顯示，相同檔案尺寸下，部分Dynamic v3.0版本的首選輸出（熱門-1）準確率比其他量化版本高逾10%。
 
 - 📰 **iThome 科技**
 
@@ -208,17 +208,17 @@ macOS版ChatGPT及Codex本周加入數項功能，包括能為用戶傳送Apple�
 - The Super El Niño Won’t Fix the West’s Water Crisis (**Wired**)
 - 最佳 Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More (**Wired**)
 - The Single English County Saying No to Palantir (**Wired**)
-- Ray-Ban Promo Codes: Save 50% in August 2026 (**Wired**)
-- Meta Quest Promo Codes and Coupons for August 2026 (**Wired**)
 - Paramount+ Coupon Codes and Deals for August 2026 (**Wired**)
 - Zoro Coupon Codes: 55% Off August (**Wired**)
-- B&amp;H Photo Promo Codes and Deals This August 2026 (**Wired**)
-- Lenovo Coupon Codes: 15% Off in August 2026 (**Wired**)
-- Valvoline Coupons and Promo Codes for August 2026 (**Wired**)
 - NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026 (**Wired**)
-- Home Depot Promo Codes: 30% Off in August 2026 (**Wired**)
 - Ruggable Discount 代碼: 30% Off Rugs | August 2026 (**Wired**)
+- Ray-Ban Promo Codes: Save 50% in August 2026 (**Wired**)
+- Home Depot Promo Codes: 30% Off in August 2026 (**Wired**)
+- B&amp;H Photo Promo Codes and Deals This August 2026 (**Wired**)
+- Meta Quest Promo Codes and Coupons for August 2026 (**Wired**)
 - Hoka Coupon Codes: 30% Off in August 2026 (**Wired**)
+- Valvoline Coupons and Promo Codes for August 2026 (**Wired**)
+- Lenovo Coupon Codes: 15% Off in August 2026 (**Wired**)
 - 30% Off Canon Promo Codes | August 2026 (**Wired**)
 - Squarespace Promo Codes: 20% Off in August 2026 (**Wired**)
 - Google Pixel 11 Review: Minor Upgrade (**Wired**)
@@ -235,8 +235,8 @@ macOS版ChatGPT及Codex本周加入數項功能，包括能為用戶傳送Apple�
 - TurboTax Full Service Coupons This August (**Wired**)
 - Booking.com Promo Codes: 20% Off | August 2026 (**Wired**)
 - Nike Promo Codes and Discounts: 30% for August 2026 (**Wired**)
-- Dell Coupon Codes: 20% Off for August 2026 (**Wired**)
 - Chewy Promo Codes: $20 Off August 2026 (**Wired**)
+- Dell Coupon Codes: 20% Off for August 2026 (**Wired**)
 - H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist (**Wired**)
 - T-行動 Promo Codes: 25% Off | August 2026 (**Wired**)
 - eBay Coupons: 20% Off in August 2026 (**Wired**)
