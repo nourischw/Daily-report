@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [【AX轉型實例：新呈工業下篇】新呈四階段AI轉型心法大公開，企業流程���示詞化是關鍵](https://www.ithome.com.tw/people/178354)
+### 1. [【AX轉型實例：新呈工業下篇】新呈四階段AI轉型心法大公開，企業流程提示詞化是關鍵](https://www.ithome.com.tw/people/178354)
 
 參考【AX轉型實例：新呈工業上篇】董事長帶頭推動AI轉型，從營運管理到工廠產線優化都能善用GAI
 新呈工業早在2023年，就開始培訓員工學習提示工程，2024年再次找來顧問提供新一代AI工具的培訓，員工雖然熟悉了AI和提示指令，還是沒有普遍運用到工作上。
@@ -15,7 +15,7 @@
 
 走進新呈工業位於臺北汐止區康寧街的工廠，七樓靠窗辦公室裡，桌上3臺筆電同時運作，一臺正打開ChatGPT分析營運策略，中間那臺執行Claude 代碼最新收到的開發任務。還有一臺部署開源AI代理Hermes 代理，24小時監控行銷數據和客戶來信。
 這是新呈工業董事長陳泳睿的辦公室，對他來說，企業推動AI轉型，經營者不能只要求員工採用，自己也必須成為第一線的實踐者。
-去年Vibe Coding技術爆紅，���年前的工程師魂讓他一時手癢，動手用AI開發了一套客服系統，「以前用嘴叫IT部門寫程式，現在改叫AI寫程式。」他笑著說。
+去年Vibe Coding技術爆紅，多年前的工程師魂讓他一時手癢，動手用AI開發了一套客服系統，「以前用嘴叫IT部門寫程式，現在改叫AI寫程式。」他笑著說。
 
 - 📰 **iThome 科技**
 
@@ -34,7 +34,7 @@ Node.js沙箱函式庫isolated-vm被揭露重大沙箱逃逸漏洞GHSA-864f-rcv7
 ### 5. [從自動化走向自主化，NVIDIA Physical AI成自動化大展焦點，台達、所羅門大秀機器人新應用](https://www.ithome.com.tw/news/178346)
 
 2026台北國際自動化工業大展今年聚焦AI、智慧製造與工業5.0，在機器人應用方面，NVIDIA近年積極推動的Physical AI成為展出的焦點，如台達電、所羅門業者展示相關的應用發展。
-過去工業用的機器人強調自動化，依照固定程式執行重複作業，NVIDIA推動的Physical AI技術，強調機器人結合AI模型、視覺感知及數位孿生，使其具備理解環境、自主規畫、執行任務與持續學習能力。今年自動化展出的內容可看到3項趨勢，包括「��位孿生協助產線規畫及Physical AI落地的重要基礎，「AI Vision成為Physical AI的感知能力」，以及「工廠逐步從自動化走向自主化」。
+過去工業用的機器人強調自動化，依照固定程式執行重複作業，NVIDIA推動的Physical AI技術，強調機器人結合AI模型、視覺感知及數位孿生，使其具備理解環境、自主規畫、執行任務與持續學習能力。今年自動化展出的內容可看到3項趨勢，包括「數位孿生協助產線規畫���Physical AI落地的重要基礎，「AI Vision成為Physical AI的感知能力」，以及「工廠逐步從自動化走向自主化」。
 
 - 📰 **iThome 科技**
 
@@ -49,7 +49,7 @@ Node.js沙箱函式庫isolated-vm被揭露重大沙箱逃逸漏洞GHSA-864f-rcv7
 
 ### 7. [Android惡意軟體Manic讓感染手機接力傳送資料，斷開網際網路仍可能外洩](https://www.ithome.com.tw/news/178345)
 
-資安業者ThreatFabric揭露新型Android惡意軟體Manic，除了可竊取銀行帳密、驗證碼並遠端控制手機，還能讓受感染裝置彼此轉送資料。當其中一支手機無法直接連上命令與控制（C2）伺服器時，可透過Wi-Fi Direct或藍牙把資料交給附近其他感染手機，再由能上網的裝置代為送出，預設最多可中繼4次。
+資安業者ThreatFabric揭露新型Android惡意軟體Manic，除了可竊取銀行帳密、驗證碼並遠端控制手機，還能讓受感染裝置彼此轉送資料。當其中一支手機無法直接連上命令與控制（C2）伺服器時，可透過Wi-Fi Direct或藍牙把資料交給附近其他感��手機，再由能上網的裝置代為送出，預設最多可中繼4次。
 
 - 📰 **iThome 科技**
 
@@ -167,7 +167,7 @@ Apache HttpComponents Client（簡稱HttpClient）是一個開源Java函式庫�
 
 ### 26. [PQC轉型不能只盤點TLS憑證，企業還要掌握完整密碼學資產](https://www.ithome.com.tw/news/178326)
 
-企業因應後量子密碼學（PQC）轉型時，第一步不是直接更換演算法��而是先掌握現有密碼學資產。應用交付與資安業者F5近期在一篇探討公開金鑰基礎建設（PKI）的技術文章中指出，憑證有效期限縮短、PQC轉型與FIPS驗證相關期限雖然涉及不同工作，但都必須先完成密碼學資產盤點。企業需要釐清憑證與演算法部署在哪些系統，以及FIPS實際驗證邊界涵蓋哪些元件或設備，才能進一步更新憑證、替換演算法或確認驗證狀態。
+企業因應後量子密碼學（PQC）轉型時，第一步不是直接更換演算法，而是先掌握現有密碼���資產。應用交付與資安業者F5近期在一篇探討公開金鑰基礎建設（PKI）的技術文章中指出，憑證有效期限縮短、PQC轉型與FIPS驗證相關期限雖然涉及不同工作，但都必須先完成密碼學資產盤點。企業需要釐清憑證與演算法部署在哪些系統，以及FIPS實際驗證邊界涵蓋哪些元件或設備，才能進一步更新憑證、替換演算法或確認驗證狀態。
 
 - 📰 **iThome 科技**
 
@@ -186,7 +186,7 @@ Apache HttpComponents Client（簡稱HttpClient）是一個開源Java函式庫�
 ### 29. [Mac版ChatGPT新增Apple Messages外掛、歐盟地區加入電腦使用紀錄](https://www.ithome.com.tw/news/178320)
 
 macOS版ChatGPT及Codex本周加入數項功能，包括能為用戶傳送Apple訊息、Codex用戶可分享對話串給他人、歐盟地區用戶還能獲得電腦使用紀錄。
-本周OpenAI為macOS版ChatGPT及代理式開發工具Codex加入的���一項功能是新增Apple Messages外掛。現在各方案的ChatGPT macOS版App都能安裝，不過只有Codex和ChatGPT Work才能啟用新功能。安裝完成後，ChatGPT就能讀取和搜尋iMessages、簡訊或RCS訊息，還能代用戶從Messages App傳送訊息。
+本周OpenAI為macOS版ChatGPT及代理式開發工具Codex加入的第一項功能是新增Apple Messages外掛。現在各方案的ChatGPT macOS版App都能安裝，不過只有Codex和ChatGPT Work才能啟用新功能。安裝完成後，ChatGPT就能讀取和搜尋iMessages、簡訊或RCS訊息，還能代用戶從Messages App傳送訊息。
 
 - 📰 **iThome 科技**
 
@@ -222,13 +222,13 @@ macOS版ChatGPT及Codex本周加入數項功能，包括能為用戶傳送Apple�
 - NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026 (**Wired**)
 - Ruggable Discount 代碼: 30% Off Rugs | August 2026 (**Wired**)
 - Home Depot Promo Codes: 30% Off in August 2026 (**Wired**)
-- B&amp;H Photo Promo Codes and Deals This August 2026 (**Wired**)
-- Lenovo Coupon Codes: 15% Off in August 2026 (**Wired**)
-- Meta Quest Promo Codes and Coupons for August 2026 (**Wired**)
 - Ray-Ban Promo Codes: Save 50% in August 2026 (**Wired**)
-- 30% Off Canon Promo Codes | August 2026 (**Wired**)
+- B&amp;H Photo Promo Codes and Deals This August 2026 (**Wired**)
+- Meta Quest Promo Codes and Coupons for August 2026 (**Wired**)
+- Lenovo Coupon Codes: 15% Off in August 2026 (**Wired**)
 - Valvoline Coupons and Promo Codes for August 2026 (**Wired**)
 - Hoka Coupon Codes: 30% Off in August 2026 (**Wired**)
+- 30% Off Canon Promo Codes | August 2026 (**Wired**)
 - Squarespace Promo Codes: 20% Off in August 2026 (**Wired**)
 - Google Pixel 11 Review: Minor Upgrade (**Wired**)
 - The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole (**Wired**)
@@ -246,10 +246,10 @@ macOS版ChatGPT及Codex本周加入數項功能，包括能為用戶傳送Apple�
 - Nike Promo Codes and Discounts: 30% for August 2026 (**Wired**)
 - Dell Coupon Codes: 20% Off for August 2026 (**Wired**)
 - Chewy Promo Codes: $20 Off August 2026 (**Wired**)
-- eBay Coupons: 20% Off in August 2026 (**Wired**)
 - H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist (**Wired**)
 - T-行動 Promo Codes: 25% Off | August 2026 (**Wired**)
-- 20% Off Samsung Promo 代碼 | August 2026 (**Wired**)
+- eBay Coupons: 20% Off in August 2026 (**Wired**)
+- iRobot Promo 代碼: 15% Off (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
