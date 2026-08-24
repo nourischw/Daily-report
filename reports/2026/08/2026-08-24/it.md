@@ -4,202 +4,204 @@
 
 ---
 
-### 1. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+### 1. [SeL4 安全 proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
+
+- ⭐ 23 分｜💬 2 留言｜👤 snvzz
+
+### 2. [Omacom Foundation funding hits $10M](https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/)
+
+- ⭐ 36 分｜💬 20 留言｜👤 tosh
+
+### 3. [I were 17, I'd learn 如何 構建 LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
+
+https:&#x2F;&#x2F;xcancel.com&#x2F;paulg&#x2F;status&#x2F;2091544343589060625
+
+- ⭐ 228 分｜💬 330 留言｜👤 bilsbie
+
+### 4. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 
 https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...
 
-- ⭐ 616 分｜💬 192 留言｜👤 schlarpc
+- ⭐ 1062 分｜💬 291 留言｜👤 schlarpc
 
-### 2. [Anthropic's 最佳 AI 模型 struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+### 5. [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
 
-- ⭐ 419 分｜💬 365 留言｜👤 naves
+- ⭐ 19 分｜💬 15 留言｜👤 Bluestein
 
-### 3. [How I find problems to solve as a staff 工程師](https://lalitm.com/post/find-problems-staff-engineer/)
+### 6. [FDA clears blood 測試 to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
-- ⭐ 372 分｜💬 123 留言｜👤 vanpra
+- ⭐ 73 分｜💬 26 留言｜👤 dabinat
 
-### 4. [I were 17, I'd learn 如何 構建 LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
+### 7. [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)
 
-- ⭐ 5 分｜💬 5 留言｜👤 bilsbie
+- ⭐ 37 分｜💬 22 留言｜👤 georgestrakhov
 
-### 5. [My 代理.md to improve 大型語言模型-assisted 代碼 quality](https://fabiensanglard.net/agent.md/index.html)
+### 8. [Executable Is a SQLite 資料庫](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 
-- ⭐ 277 分｜💬 108 留言｜👤 ibobev
+- ⭐ 164 分｜💬 19 留言｜👤 setheron
 
-### 6. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
+### 9. [代理 Is Not the 模型](https://code.joejag.com/2026/your-agent-is-not-the-model.html)
 
-- ⭐ 260 分｜💬 78 留言｜👤 el1s7
+- ⭐ 7 分｜💬 0 留言｜👤 joejag
 
-### 7. [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
+### 10. [Anthropic's 最佳 AI 模型 struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
-- ⭐ 39 分｜💬 34 留言｜👤 soheilpro
+- ⭐ 589 分｜💬 527 留言｜👤 naves
 
-### 8. [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
+### 11. [Fast drilldown dashboards from a single Parquet file](https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/)
 
-- ⭐ 87 分｜💬 14 留言｜👤 pantelisk
+- ⭐ 45 分｜💬 0 留言｜👤 v3gas
 
-### 9. [什麼是 a Harness?](https://earendil.com/posts/what-is-a-harness/)
+### 12. [OCR It – pull text out of un-copyable documents for your 大型語言模型](https://github.com/thiagotigaz/ocr-it)
 
-- ⭐ 403 分｜💬 146 留言｜👤 tosh
+- ⭐ 68 分｜💬 11 留言｜👤 thiagolima
 
-### 10. [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
+### 13. [How I find problems to solve as a staff 工程師](https://lalitm.com/post/find-problems-staff-engineer/)
 
-- ⭐ 294 分｜💬 66 留言｜👤 shortcrct
+- ⭐ 443 分｜💬 136 留言｜👤 vanpra
 
-### 11. [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
+### 14. [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)
 
-- ⭐ 230 分｜💬 119 留言｜👤 campuscodi
+- ⭐ 276 分｜💬 98 留言｜👤 reasonableklout
 
-### 12. [Elevated Errors for Multiple Models](https://status.claude.com/incidents/vgz5psbjmt1h)
+### 15. [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
 
-- ⭐ 15 分｜💬 2 留言｜👤 rob
+- ⭐ 203 分｜💬 41 留言｜👤 pantelisk
 
-### 13. [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)
+### 16. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 
-- ⭐ 72 分｜💬 45 留言｜👤 simonebrunozzi
+- ⭐ 330 分｜💬 111 留言｜👤 el1s7
 
-### 14. [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+### 17. [什麼是 a Harness?](https://earendil.com/posts/what-is-a-harness/)
 
-- ⭐ 221 分｜💬 81 留言｜👤 bwb
+- ⭐ 479 分｜💬 157 留言｜👤 tosh
 
-### 15. [為什麼 Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
+### 18. [My 代理.md to improve 大型語言模型-assisted 代碼 quality](https://fabiensanglard.net/agent.md/index.html)
 
-- ⭐ 172 分｜💬 100 留言｜👤 the-mitr
+- ⭐ 329 分｜💬 143 留言｜👤 ibobev
 
-### 16. [Explain it to me like I'm ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
+### 19. [Woman stranded in Spain after UK's eVisa 系統 mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
 
-- ⭐ 120 分｜💬 46 留言｜👤 bookofjoe
+- ⭐ 77 分｜💬 63 留言｜👤 giuliomagnifico
 
-### 17. [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
+### 20. [新 EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
 
-- ⭐ 69 分｜💬 14 留言｜👤 porridgeraisin
+- ⭐ 160 分｜💬 97 留言｜👤 austinallegro
 
-### 18. [Nearly 3M Teslas recalled in China over hidden door handles](https://www.bbc.com/news/articles/c4g6ggdg030o)
+### 21. [Anthropic candidates face blunt money question](https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question)
 
-- ⭐ 83 分｜💬 77 留言｜👤 chicken-stew
+- ⭐ 11 分｜💬 7 留言｜👤 samizdis
 
-### 19. [A website for debloated 開源 alternatives](https://debloat.dev/)
+### 22. [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
 
-- ⭐ 310 分｜💬 96 留言｜👤 ryanvogel
+- ⭐ 334 分｜💬 72 留言｜👤 shortcrct
 
-### 20. [The first search engine for Internet-connected devices](https://www.shodan.io/)
+### 23. [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
 
-- ⭐ 15 分｜💬 0 留言｜👤 momentmaker
+- ⭐ 247 分｜💬 126 留言｜👤 campuscodi
 
-### 21. [新 EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
+### 24. [AI Chip Architectures](https://www.jepeake.com/ai-chip-architectures)
 
-- ⭐ 12 分｜💬 0 留言｜👤 austinallegro
+- ⭐ 98 分｜💬 35 留言｜👤 Finbarr
 
-### 22. [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
+### 25. [Fable and the end of the free lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
 
-- ⭐ 46 分｜💬 22 留言｜👤 root-parent
+- ⭐ 174 分｜💬 162 留言｜👤 dbreunig
 
-### 23. [Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency](https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency)
+### 26. [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
 
-- ⭐ 41 分｜💬 20 留言｜👤 billybuckwheat
+- ⭐ 74 分｜💬 28 留言｜👤 simonebrunozzi
 
-### 24. [Kodak DC50 now usable on the Apple II](https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/)
+### 27. [Mourning Steve French](https://lwn.net/Articles/1090098/)
 
-- ⭐ 56 分｜💬 9 留言｜👤 ibobev
+- ⭐ 26 分｜💬 0 留言｜👤 mfrw
 
-### 25. [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
+### 28. [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 
-- ⭐ 230 分｜💬 107 留言｜👤 tchalla
+- ⭐ 246 分｜💬 92 留言｜👤 bwb
 
-### 26. [The 遠端 Work Challenge: Lessons from 5 Cities](https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities)
+### 29. [Explain it to me like I'm ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
 
-- ⭐ 53 分｜💬 28 留言｜👤 softwaredoug
+- ⭐ 155 分｜💬 57 留言｜👤 bookofjoe
 
-### 27. [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
+### 30. [The treasury bond mess: is this the demise of the US as a safe haven?](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt)
 
-- ⭐ 125 分｜💬 112 留言｜👤 henryaj
-
-### 28. [Declarative WebGPU with S-Expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
-
-- ⭐ 36 分｜💬 4 留言｜👤 hugodan
-
-### 29. [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
-
-- ⭐ 47 分｜💬 36 留言｜👤 oogali
-
-### 30. [AI and Infrastructure Engineering](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
-
-- ⭐ 66 分｜💬 28 留言｜👤 0megion
+- ⭐ 35 分｜💬 18 留言｜👤 fittingopposite
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- 為什麼 Sal Khan't: On Learning by Making but Teaching by Telling
+- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel
+- 為什麼 is Anthropic's public writing style so unlike Claude's?
+- A website for debloated 開源 alternatives
+- Elevated Errors for Multiple Models
+- Implementation of GPT-2 in pure CMake
+- A For-Profit Hospital Slashed Costs. Then a Patient Froze to Death on Its Roof
+- Anthropic Claude and API service outages
+- The Sloppification of Peptides
+- The first search engine for Internet-connected devices
+- Kodak DC50 now usable on the Apple II
+- Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?
+- Declarative WebGPU with S-Expressions
+- Decoding silent reading from non-invasive EEG
+- Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi
+- The 遠端 Work Challenge: Lessons from 5 Cities
 - Death to px, long live ch
 - Things I want in a modern relational query language
+- To become a better writer, read as much as you can
 - The Vibe Tax
 - Coconut oil jet fuel matches kerosene's efficiency in engine tests
-- Attention is all we have: A conjectural theory of cognitive inequality
-- AI Chip Architectures
-- Worldwide animated weather map, with easy to use layer and precise spot forecast
-- To become a better writer, read as much as you can
-- Fable and the end of the free lunch
-- The planet now has more trees than it did 35 years ago (2018)
-- How I Use Git Worktrees (2024)
-- Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
 - JIT Compiling 代碼 in 5μs
+- Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency
+- Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
 - I dream of quieter computing
 - I set a trap for a book-marketing scammer (2025)
 - 訓練 AI to Paint with 代碼
+- 'Cookies' made from plastic may be on the menu for future astronauts
 - I gave Qwen 3.8 27B a reverse-engineering 工作 and it finished in 30 minutes
-- I run a pizzeria out of my Smart car in NYC [video]
-- I turned Unix talk from 1983 into the interface for my AI
-- Show HN: Neostatic, a tiny site/blog generator for neocities
-- The End of an Athlon
+- Rural Village in Spain Is Welcoming Digital Nomads with Open Arms
+- Hugging Face has been fielding M&A interest for a deal worth at least $13B
+- How I Use Git Worktrees (2024)
+- AI and Infrastructure Engineering
 - 為什麼 your local 大型語言模型 feels dumber than it is
-- Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
+- The End of an Athlon
+- I turned Unix talk from 1983 into the interface for my AI
 - Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
-- Risk of transmission of amyloid β pathology via transfused blood products
-- GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win in Benchmark
-- A complex structure on S^6 [pdf]
-- I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
-- Wrong antibody used in over 50 cell aging studies
-- Etched Sohu vs. NVIDIA: Transformer ASIC vs. GPU (2026)
-- Tesla discontinues its Solar Roof tiles, not economically viable
-- Slovakia finds Russian backdoor in traffic speed cameras
-- Fast and Hard 代碼
-- Rust 1.98 got a P-critical miscompilation
-- I made a byte-range cache for object storage
-- Scrap (2006)
-- 為什麼 Comfortable People Don't Revolt: Propaganda, Debt, and Control
-- Mathematicians will probably become obsolete before anyone else [pdf] (2004)
-- Canada will match US tariffs 'dollar for dollar' as trade talks break down
-- Fixable Things That Make Life Harder for the Elderly, the Sick, and the Poor
-- Hister – A private, full content search index that you control
+- Worldwide animated weather map, with easy to use layer and precise spot forecast
 - Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)
-- Predicting AI 模型 release dates with stats
-- MartyPC is a cross-platform emulator of early PCs written in Rust
-- The Art and Beauty of Blade Runner (2015)
-- LinkedIn Has Accidentally Become a Dating Site
-- One night in Uzbekistan: 為什麼 was this one data point so influential?
+- Risk of transmission of amyloid β pathology via transfused blood products
+- Casio's Bluetooth F-B100W-1A with step-tracker sells out again
+- Canada will match US tariffs 'dollar for dollar' as trade talks break down
+- The planet now has more trees than it did 35 years ago (2018)
+- Some of Russia's A.I. Drones Are Powered by NVIDIA
+- Mathematicians will probably become obsolete before anyone else [pdf] (2004)
+- Scrap (2006)
+- Rust 1.98 got a P-critical miscompilation
+- Hister – A private, full content search index that you control
+- Fast and Hard 代碼
 - Early-life stress leaves a 'scar' inside brain cells in mice
-- ElevenLabs, TwelveLabs, ThirteenLabs
-- I'm Done Coding with AI
-- typ.ing
-- Tracker in rare book ends up in Amazon facility destroying books to train AI
+- Your 開源 模型 Could Have a Hidden Time-Release Backdoor
+- One night in Uzbekistan: 為什麼 was this one data point so influential?
 - Zig’s Io.Threaded is neat
-- A Friendly 介紹 Racket
 - Felony Bench
 - Felony charges for citizen deleting phone data at US Border
 - AI companies destroy physical books – let's scan rare books before it's too late
+- typ.ing
+- I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
+- The Art and Beauty of Blade Runner (2015)
+- Ask HN: Those making $500/month on side projects in 2026 – Show and tell
+- SalesPatriot (YC W25) Is 招聘 Forward Deployed Engineers
+- MartyPC is a cross-platform emulator of early PCs written in Rust
+- ElevenLabs, TwelveLabs, ThirteenLabs
+- A Friendly 介紹 Racket
+- A week of using Codex more than Claude
+- Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
+- I made a byte-range cache for object storage
 - 新 MCP Roadmap
 - RF Cafe
-- Show HN: Dev // Cyber Toolkit – a free floating dev/cybersecurity widget
-- A week of using Codex more than Claude
-- Thinking in Python
-- SalesPatriot (YC W25) Is 招聘 Forward Deployed Engineers
-- A Kantian Critique of "Sorry" by Justin Bieber
-- Conway's Game of Life in real life
-- I found 為什麼 Qwen3.8-27B was 14× slower on my 4070 Super
-- Kobo can run apps now
-- Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI 模型)
-- How a Texas student blew the whistle on a rogue AI hacking attempt
-- Isometric Plotter
+- Slovakia finds Russian backdoor in traffic speed cameras
 
 
 ---
