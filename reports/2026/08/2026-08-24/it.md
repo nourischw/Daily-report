@@ -8,198 +8,198 @@
 
 https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...
 
-- ⭐ 189 分｜💬 55 留言｜👤 schlarpc
+- ⭐ 616 分｜💬 192 留言｜👤 schlarpc
 
-### 2. [How I find problems to solve as a staff 工程師](https://lalitm.com/post/find-problems-staff-engineer/)
+### 2. [Anthropic's 最佳 AI 模型 struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
-- ⭐ 249 分｜💬 94 留言｜👤 vanpra
+- ⭐ 419 分｜💬 365 留言｜👤 naves
 
-### 3. [Anthropic's 最佳 AI 模型 struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+### 3. [How I find problems to solve as a staff 工程師](https://lalitm.com/post/find-problems-staff-engineer/)
 
-- ⭐ 172 分｜💬 138 留言｜👤 naves
+- ⭐ 372 分｜💬 123 留言｜👤 vanpra
 
-### 4. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
+### 4. [I were 17, I'd learn 如何 構建 LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
 
-- ⭐ 157 分｜💬 36 留言｜👤 el1s7
+- ⭐ 5 分｜💬 5 留言｜👤 bilsbie
 
-### 5. [AI Chip Architectures](https://www.jepeake.com/ai-chip-architectures)
+### 5. [My 代理.md to improve 大型語言模型-assisted 代碼 quality](https://fabiensanglard.net/agent.md/index.html)
 
-- ⭐ 30 分｜💬 1 留言｜👤 Finbarr
+- ⭐ 277 分｜💬 108 留言｜👤 ibobev
 
-### 6. [My 代理.md to improve 大型語言模型-assisted 代碼 quality](https://fabiensanglard.net/agent.md/index.html)
+### 6. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 
-- ⭐ 139 分｜💬 71 留言｜👤 ibobev
+- ⭐ 260 分｜💬 78 留言｜👤 el1s7
 
-### 7. [什麼是 a Harness?](https://earendil.com/posts/what-is-a-harness/)
+### 7. [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
 
-- ⭐ 284 分｜💬 129 留言｜👤 tosh
+- ⭐ 39 分｜💬 34 留言｜👤 soheilpro
 
-### 8. [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
+### 8. [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
 
-- ⭐ 228 分｜💬 61 留言｜👤 shortcrct
+- ⭐ 87 分｜💬 14 留言｜👤 pantelisk
 
-### 9. [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
+### 9. [什麼是 a Harness?](https://earendil.com/posts/what-is-a-harness/)
 
-- ⭐ 19 分｜💬 7 留言｜👤 porridgeraisin
+- ⭐ 403 分｜💬 146 留言｜👤 tosh
 
-### 10. [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
+### 10. [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
 
-- ⭐ 206 分｜💬 105 留言｜👤 campuscodi
+- ⭐ 294 分｜💬 66 留言｜👤 shortcrct
 
-### 11. [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+### 11. [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
 
-- ⭐ 188 分｜💬 66 留言｜👤 bwb
+- ⭐ 230 分｜💬 119 留言｜👤 campuscodi
 
-### 12. [A website for debloated 開源 alternatives](https://debloat.dev/)
+### 12. [Elevated Errors for Multiple Models](https://status.claude.com/incidents/vgz5psbjmt1h)
 
-- ⭐ 251 分｜💬 87 留言｜👤 ryanvogel
+- ⭐ 15 分｜💬 2 留言｜👤 rob
 
-### 13. [為什麼 Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
+### 13. [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)
 
-- ⭐ 125 分｜💬 78 留言｜👤 the-mitr
+- ⭐ 72 分｜💬 45 留言｜👤 simonebrunozzi
 
-### 14. [Explain it to me like I'm ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
+### 14. [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 
-- ⭐ 75 分｜💬 35 留言｜👤 bookofjoe
+- ⭐ 221 分｜💬 81 留言｜👤 bwb
 
-### 15. [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
+### 15. [為什麼 Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
 
-- ⭐ 23 分｜💬 11 留言｜👤 root-parent
+- ⭐ 172 分｜💬 100 留言｜👤 the-mitr
 
-### 16. [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)
+### 16. [Explain it to me like I'm ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
 
-- ⭐ 20 分｜💬 7 留言｜👤 simonebrunozzi
+- ⭐ 120 分｜💬 46 留言｜👤 bookofjoe
 
-### 17. [Declarative WebGPU with S-Expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
+### 17. [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
 
-- ⭐ 18 分｜💬 0 留言｜👤 hugodan
+- ⭐ 69 分｜💬 14 留言｜👤 porridgeraisin
 
-### 18. [AI and Infrastructure Engineering](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
+### 18. [Nearly 3M Teslas recalled in China over hidden door handles](https://www.bbc.com/news/articles/c4g6ggdg030o)
 
-- ⭐ 37 分｜💬 8 留言｜👤 0megion
+- ⭐ 83 分｜💬 77 留言｜👤 chicken-stew
 
-### 19. [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
+### 19. [A website for debloated 開源 alternatives](https://debloat.dev/)
 
-- ⭐ 298 分｜💬 236 留言｜👤 taubek
+- ⭐ 310 分｜💬 96 留言｜👤 ryanvogel
 
-### 20. [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
+### 20. [The first search engine for Internet-connected devices](https://www.shodan.io/)
 
-- ⭐ 154 分｜💬 61 留言｜👤 tchalla
+- ⭐ 15 分｜💬 0 留言｜👤 momentmaker
 
-### 21. [Kodak DC50 now usable on the Apple II](https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/)
+### 21. [新 EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
 
-- ⭐ 31 分｜💬 5 留言｜👤 ibobev
+- ⭐ 12 分｜💬 0 留言｜👤 austinallegro
 
-### 22. [The planet now has more trees than it did 35 years ago (2018)](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
+### 22. [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
 
-- ⭐ 45 分｜💬 27 留言｜👤 bookofjoe
+- ⭐ 46 分｜💬 22 留言｜👤 root-parent
 
-### 23. [The Vibe Tax](https://insufferable.dev/posts/vibe-tax/)
+### 23. [Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency](https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency)
 
-- ⭐ 99 分｜💬 77 留言｜👤 allisdust
+- ⭐ 41 分｜💬 20 留言｜👤 billybuckwheat
 
-### 24. [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
+### 24. [Kodak DC50 now usable on the Apple II](https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/)
 
-- ⭐ 13 分｜💬 5 留言｜👤 oogali
+- ⭐ 56 分｜💬 9 留言｜👤 ibobev
 
-### 25. [Fable and the end of the free lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
+### 25. [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
 
-- ⭐ 103 分｜💬 87 留言｜👤 dbreunig
+- ⭐ 230 分｜💬 107 留言｜👤 tchalla
 
 ### 26. [The 遠端 Work Challenge: Lessons from 5 Cities](https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities)
 
-- ⭐ 29 分｜💬 10 留言｜👤 softwaredoug
+- ⭐ 53 分｜💬 28 留言｜👤 softwaredoug
 
-### 27. [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
+### 27. [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 
-- ⭐ 83 分｜💬 79 留言｜👤 zdw
+- ⭐ 125 分｜💬 112 留言｜👤 henryaj
 
-### 28. [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
+### 28. [Declarative WebGPU with S-Expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
 
-- ⭐ 44 分｜💬 14 留言｜👤 robinhouston
+- ⭐ 36 分｜💬 4 留言｜👤 hugodan
 
-### 29. [Coconut oil jet fuel matches kerosene's efficiency in engine tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
+### 29. [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
 
-- ⭐ 140 分｜💬 159 留言｜👤 mdp2021
+- ⭐ 47 分｜💬 36 留言｜👤 oogali
 
-### 30. [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
+### 30. [AI and Infrastructure Engineering](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
 
-- ⭐ 60 分｜💬 41 留言｜👤 Brajeshwar
+- ⭐ 66 分｜💬 28 留言｜👤 0megion
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- The Sloppification of Peptides
-- 訓練 AI to Paint with 代碼
+- Death to px, long live ch
+- Things I want in a modern relational query language
+- The Vibe Tax
+- Coconut oil jet fuel matches kerosene's efficiency in engine tests
+- Attention is all we have: A conjectural theory of cognitive inequality
+- AI Chip Architectures
+- Worldwide animated weather map, with easy to use layer and precise spot forecast
 - To become a better writer, read as much as you can
-- Wrong antibody used in over 50 cell aging studies
-- I dream of quieter computing
-- Residential proxies scraping your site? Drain their bandwidth
-- GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win in Benchmark
+- Fable and the end of the free lunch
+- The planet now has more trees than it did 35 years ago (2018)
+- How I Use Git Worktrees (2024)
+- Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
 - JIT Compiling 代碼 in 5μs
-- I gave Qwen 3.8 27B a reverse-engineering 工作 and it finished in 30 minutes
+- I dream of quieter computing
 - I set a trap for a book-marketing scammer (2025)
+- 訓練 AI to Paint with 代碼
+- I gave Qwen 3.8 27B a reverse-engineering 工作 and it finished in 30 minutes
+- I run a pizzeria out of my Smart car in NYC [video]
 - I turned Unix talk from 1983 into the interface for my AI
-- Predicting AI 模型 release dates with stats
-- Etched Sohu vs. NVIDIA: Transformer ASIC vs. GPU (2026)
+- Show HN: Neostatic, a tiny site/blog generator for neocities
 - The End of an Athlon
-- I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
-- Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
-- LinkedIn Has Accidentally Become a Dating Site
-- Slovakia finds Russian backdoor in traffic speed cameras
-- Fixable Things That Make Life Harder for the Elderly, the Sick, and the Poor
-- OpenStar demonstrates dipole fusion reactor concept
-- Tracker in rare book ends up in Amazon facility destroying books to train AI
-- I ran out of space extracting a RAR so I built ReclaimArc
-- Risk of transmission of amyloid β pathology via transfused blood products
 - 為什麼 your local 大型語言模型 feels dumber than it is
-- Isometric Plotter
-- Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi
+- Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
 - Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
-- Rust 1.98 got a P-critical miscompilation
-- I'm Done Coding with AI
+- Risk of transmission of amyloid β pathology via transfused blood products
+- GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win in Benchmark
+- A complex structure on S^6 [pdf]
+- I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
+- Wrong antibody used in over 50 cell aging studies
+- Etched Sohu vs. NVIDIA: Transformer ASIC vs. GPU (2026)
+- Tesla discontinues its Solar Roof tiles, not economically viable
+- Slovakia finds Russian backdoor in traffic speed cameras
 - Fast and Hard 代碼
-- Powerful extensions do not need powerful 代碼
+- Rust 1.98 got a P-critical miscompilation
+- I made a byte-range cache for object storage
 - Scrap (2006)
-- MartyPC is a cross-platform emulator of early PCs written in Rust
-- PC Tweaker
+- 為什麼 Comfortable People Don't Revolt: Propaganda, Debt, and Control
 - Mathematicians will probably become obsolete before anyone else [pdf] (2004)
-- The Art and Beauty of Blade Runner (2015)
-- Hister – A private, full content search index that you control
-- A Friendly 介紹 Racket
-- Across Nashville, Parked Waymos Are Recording Your Neighborhood
 - Canada will match US tariffs 'dollar for dollar' as trade talks break down
-- ElevenLabs, TwelveLabs, ThirteenLabs
-- typ.ing
-- One night in Uzbekistan: 為什麼 was this one data point so influential?
-- Show HN: Mnemosyne Local hierarchical memory engine for AI agents (MCP Native)
+- Fixable Things That Make Life Harder for the Elderly, the Sick, and the Poor
+- Hister – A private, full content search index that you control
 - Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)
-- Vintage Computer Fair West 2026
-- Thinking in Python
+- Predicting AI 模型 release dates with stats
+- MartyPC is a cross-platform emulator of early PCs written in Rust
+- The Art and Beauty of Blade Runner (2015)
+- LinkedIn Has Accidentally Become a Dating Site
+- One night in Uzbekistan: 為什麼 was this one data point so influential?
 - Early-life stress leaves a 'scar' inside brain cells in mice
-- SalesPatriot (YC W25) Is 招聘 Forward Deployed Engineers
-- RF Cafe
-- 新 MCP Roadmap
+- ElevenLabs, TwelveLabs, ThirteenLabs
+- I'm Done Coding with AI
+- typ.ing
+- Tracker in rare book ends up in Amazon facility destroying books to train AI
 - Zig’s Io.Threaded is neat
-- My Obituary for Dr Tim King, Tripos, AmigaOS, Helios and UK Online Pioneer
-- Show HN: Dev // Cyber Toolkit – a free floating dev/cybersecurity widget
-- Conway's Game of Life in real life
-- Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI 模型)
+- A Friendly 介紹 Racket
 - Felony Bench
-- A week of using Codex more than Claude
-- A Kantian Critique of "Sorry" by Justin Bieber
-- Vit D assoc w better cognition in those w sleep disturb + mild cognitive impair
-- Hell has more than 7 circles you guys (2022)
 - Felony charges for citizen deleting phone data at US Border
-- IBM PC XT (模型 5160) emulator in the browser
-- Does Chess Make You Smarter? What Chess Can Teach Us
 - AI companies destroy physical books – let's scan rare books before it's too late
-- How a Texas student blew the whistle on a rogue AI hacking attempt
-- The WWI Plan to Turn America's Trees into Telephones
-- Hacker News in Uncompromised Detail
-- 為什麼 it might be time to rethink the human family tree
+- 新 MCP Roadmap
+- RF Cafe
+- Show HN: Dev // Cyber Toolkit – a free floating dev/cybersecurity widget
+- A week of using Codex more than Claude
+- Thinking in Python
+- SalesPatriot (YC W25) Is 招聘 Forward Deployed Engineers
+- A Kantian Critique of "Sorry" by Justin Bieber
+- Conway's Game of Life in real life
+- I found 為什麼 Qwen3.8-27B was 14× slower on my 4070 Super
 - Kobo can run apps now
+- Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI 模型)
+- How a Texas student blew the whistle on a rogue AI hacking attempt
+- Isometric Plotter
 
 
 ---
