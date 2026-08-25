@@ -13,7 +13,7 @@
 
 ### 2. [研究人員揭露針對中亞政府的SilkParasite網路間諜活動，散布5種新型RAT](https://www.ithome.com.tw/news/178431)
 
-資安業者Bitdefender於8月19日揭露網路間諜活動SilkParasite，攻擊者透過魚叉式釣魚郵件散布加密RAR檔案，誘使受害者開啟偽裝成政府相關文件的Office檔案，進而植入RAT，研究人員最��於2025年10月在中亞一個負責經濟決策的機關發現感染事件，後續又在烏茲別克、土庫曼、吉爾吉斯、塔吉克及哈薩克等國政府機關發現相關誘餌檔案。
+資安業者Bitdefender於8月19日揭露網路間諜活動SilkParasite，攻擊者透過魚叉式釣魚郵件散布加密RAR檔案，誘使受害者開啟偽裝成政府相關文件的Office檔案，進而植入遠端存取木馬（RAT），研究人員最早於2025年10月在中亞一個負責經濟決策的機關發現感染事件，後續又在烏茲別克、土庫曼、吉爾吉斯、塔吉克及哈薩克等國政府機關發現相關誘餌檔案。
 
 - 📰 **iThome 科技**
 
@@ -25,7 +25,7 @@
 
 ### 4. [微軟8月.NET更新釀WPF列印異常，PDF/XPS輸出也受影響](https://www.ithome.com.tw/news/178426)
 
-微軟確認2026年8月釋出的.NET Framework累積更新，可能造成部分使用UI框架WPF的Windows應用程式���法正常列印，或在產生PDF、XPS文件時失敗。
+微軟確認2026年8月釋出的.NET Framework累積更新，可能造成部分使用UI框架WPF的Windows應用程式無法正常列印，或在產生PDF、XPS文件時失敗。
 
 - 📰 **iThome 科技**
 
@@ -65,7 +65,7 @@ AI模型業者OpenAI與Anthropic今年7月先後揭露AI資安能力評估事故
 
 - 📰 **iThome 科技**
 
-### 11. [【資安日報】8月25日，安卓車載��統遭惡意軟體攻擊，駭客企圖將其用於非法代理伺服器服務及廣告詐騙](https://www.ithome.com.tw/news/178421)
+### 11. [【資安日報】8���25日，安卓車載系統遭惡意軟體攻擊，駭客企圖將其用於非法代理伺服器服務及廣告詐騙](https://www.ithome.com.tw/news/178421)
 
 本日新聞焦點
 ● 安卓車載系統遭惡意軟體攻擊，用於非法代理伺服器及廣告詐騙
@@ -77,7 +77,7 @@ AI模型業者OpenAI與Anthropic今年7月先後揭露AI資安能力評估事故
 ### 12. [紐西蘭擬禁16歲以下使用社群，AI陪伴服務也設年齡門檻](https://www.ithome.com.tw/news/178420)
 
 紐西蘭政府8月24日提出兒童線上安全法案，擬禁止未滿16歲兒少在受年齡限制的社群平臺持有帳號，並要求業者採取合理措施確認使用者年齡。法案也要求相關平臺定期評估兒童安全風險，社交型AI陪伴服務同樣納入年齡限制，違規企業最高可處全球年營收10%的罰款。
-紐西蘭政府以Instagram、TikTok、Snapchat與臉書等高風險社群平臺為例，業者可利用既有帳戶資料、臉部年齡估算、數位身分服務或正式身分證件等方式，確認使用者是否��滿16歲。
+紐西蘭政府以Instagram、TikTok、Snapchat與臉書等高風險社群平臺為例，業者可利用既有帳戶資料、臉部年齡估算、數位身分服務或正式身分證件等方式��確認使用者是否年滿16歲。
 
 - 📰 **iThome 科技**
 
@@ -107,7 +107,7 @@ NVIDIA於周一（8/24）舉行的Hot Chips大會上宣布，專為AI代理（Ag
 
 ### 17. [人形機器人首度打破100米及400米短跑人類紀錄](https://www.ithome.com.tw/news/178403)
 
-第二屆世界人形機器人運動會上周��（8/22）在北京開幕，由北京人形機器人創新中心所研發的天工Ultra在100米預賽跑出9.39秒的成績，超越Usain Bolt保持的9.58秒人類男子百米世界紀錄；隔天同款天工Ultra參加400米大型組決賽，再以38.15秒奪冠，亦快於南非選手Wayde van Niekerk於2016年里約奧運所創下的43.03秒紀錄。這是首次有人形機器人在短跑上贏過人類世界紀錄。
+第二屆世界人形��器人運動會上周六（8/22）在北京開幕，由北京人形機器人創新中心所研發的天工Ultra在100米預賽跑出9.39秒的成績，超越Usain Bolt保持的9.58秒人類男子百米世界紀錄；隔天同款天工Ultra參加400米大型組決賽，再以38.15秒奪冠，亦快於南非選手Wayde van Niekerk於2016年里約奧運所創下的43.03秒紀錄。這是首次有人形機器人在短跑上贏過人類世界紀錄。
 
 - 📰 **iThome 科技**
 
@@ -118,7 +118,7 @@ IBM週一在Hot Chips大會上發布雙架構處理器（Dual-Architecture Proce
 
 - 📰 **iThome 科技**
 
-### 19. [Microsoft 365免費授權用戶傳被刪除OneDrive資料，影響規模傳達17.1萬個非營利組織](https://www.ithome.com.tw/news/178397)
+### 19. [Microsoft 365免費授權用戶傳被刪除OneDrive資料，影響規模傳達17.1萬��非營利組織](https://www.ithome.com.tw/news/178397)
 
 Slate報導，微軟將Microsoft 365部分免費授權方案用戶資料刪除。相關影響規模目前主要來自個案當事人轉述微軟客服說法，尚非微軟正式公布的受影響組織數。
 
@@ -132,7 +132,7 @@ Slate報導，微軟將Microsoft 365部分免費授權方案用戶資料刪除�
 
 ### 21. [Android銀行木馬ToxicPanda 2.0擴大攻擊，瞄準349款金融應用](https://www.ithome.com.tw/news/178394)
 
-行動資安業者Zimperium發現新版Android銀行木馬ToxicPanda 2.0，攻擊者可透過167種遠端指令控制受感染手機，並針對分布在16國的349款銀行、金融、電子錢包及加密貨幣應用，顯示仿冒登入或交易畫面，竊取帳密與個人識別碼（PIN）。惡意程式還能偽造Android鎖定畫面，取得手機解鎖PIN碼、圖形或密碼。
+��動資安業者Zimperium發現新版Android銀行木馬ToxicPanda 2.0，攻擊者可透過167種遠端指令控制受感染手機，並針對分布在16國的349款銀行、金融、電子錢包及加密貨幣應用，顯示仿冒登入或交易畫面，竊取帳密與個人識別碼（PIN）。惡意程式還能偽造Android鎖定畫面，取得手機解鎖PIN碼、圖形或密碼。
 
 - 📰 **iThome 科技**
 
@@ -150,7 +150,7 @@ Slate報導，微軟將Microsoft 365部分免費授權方案用戶資料刪除�
 
 ### 24. [新光醫院麻醉科用AI讀病歷、揪出術前麻醉風險因子，下一步瞄準術中預測](https://www.ithome.com.tw/news/178315)
 
-新光吳火獅紀念醫院（簡稱新光醫院）麻醉科主治醫師張正熹8月12日揭露麻醉科智慧醫療應用進展，他們從麻醉記錄數位化起步，將複雜的關鍵資訊塞進13吋平板中、還打造出高難度的麻醉電子記錄中央站。同時，他們也用BI管理101項麻醉品質指標，後來還用AI Coding自���開發多套看板系統，更導入大型語言模型（大型語言模型），從龐雜病歷中搜尋術前麻醉風險因子。下一步，麻醉科團隊瞄準術中AI預測，要透過即時分析生理訊號，提早發現病況變化、及早介入。
+新光吳火獅紀念醫院（簡稱新光醫院）麻醉科主治醫師張正熹8月12日揭露麻醉科智慧醫療應用進展，他們從麻醉記錄數位化起步，將複雜的關鍵資訊塞進13吋平板中、還打造出高難度的麻醉電子記錄中央站。同時，他們也用BI管理101項麻醉品質指標，���來還用AI Coding自行開發多套看板系統，更導入大型語言模型（大型語言模型），從龐雜病歷中搜尋術前麻醉風險因子。下一步，麻醉科團隊瞄準術中AI預測，要透過即時分析生理訊號，提早發現病況變化、及早介入。
 
 - 📰 **iThome 科技**
 
@@ -162,7 +162,7 @@ Slate報導，微軟將Microsoft 365部分免費授權方案用戶資料刪除�
 
 ### 26. [波蘭CERT再揭去年底能源設施遭攻擊細節，首見攻擊者利用Private APN橫向移動入侵OT網路的手法](https://www.ithome.com.tw/news/178393)
 
-波蘭電腦緊急應變團隊（CERT Polska）近期針��去年12月底波蘭電網遭大規模攻擊事件發布後續調查報告，當中特別指出該小組首度在實際網路攻擊中，觀察到攻擊者透過私有APN（Private APN）取得OT網路存取權限的案例，並提醒採用這類通訊架構的組織重新檢視相關安全配置。
+波蘭電腦緊急應變團隊（CERT Polska）近期針對去年12月底波蘭電網遭大規模攻擊事件發布後續調查報告，當中特別指出該小組首度在實際網路攻擊中，觀察到攻擊者透過私有APN（Private APN）取得OT網路存取權限的案例，並提醒採用這類通訊架構的組織重新檢視相關安全配置。
 
 - 📰 **iThome 科技**
 
@@ -195,6 +195,9 @@ Slate報導，微軟將Microsoft 365部分免費授權方案用戶資料刪除�
 
 ### 更多 AI 新聞 (70則)
 
+- The US Just Recorded Its First 2 Measles Deaths This Year (**Wired**)
+- The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms (**Wired**)
+- Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date (**Wired**)
 - I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026) (**Wired**)
 - The 4 最佳 Car Phone Mounts I’ve Tried (2026): Belkin, Andery, Andobil (**Wired**)
 - The County Prosecutors Who Became ICE Informants (**Wired**)
@@ -242,9 +245,6 @@ Slate報導，微軟將Microsoft 365部分免費授權方案用戶資料刪除�
 - Zoro Coupon Codes: 55% Off August (**Wired**)
 - NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026 (**Wired**)
 - Ruggable Discount 代碼: 30% Off Rugs | August 2026 (**Wired**)
-- Meta Quest Promo Codes and Coupons for August 2026 (**Wired**)
-- Home Depot Promo Codes: 30% Off in August 2026 (**Wired**)
-- 30% Off Canon Promo Codes | August 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
