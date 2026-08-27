@@ -4,208 +4,210 @@
 
 ---
 
-### 1. [NVIDIA agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+### 1. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+
+- ⭐ 331 分｜💬 92 留言｜👤 TangerineDream
+
+### 2. [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+
+- ⭐ 315 分｜💬 138 留言｜👤 tosh
+
+### 3. [507 Mechanical Movements](https://507movements.com/)
+
+Book (1868): https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala
+
+- ⭐ 404 分｜💬 61 留言｜👤 helloplanets
+
+### 4. [NVIDIA Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
+
+- ⭐ 79 分｜💬 34 留言｜👤 rarisma
+
+### 5. [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
+
+- ⭐ 105 分｜💬 80 留言｜👤 dclavijo
+
+### 6. [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
+
+- ⭐ 150 分｜💬 91 留言｜👤 saretup
+
+### 7. [Microduck](https://pollen-robotics.com/microduck/)
+
+- ⭐ 434 分｜💬 167 留言｜👤 robotswantdata
+
+### 8. [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/)
+
+- ⭐ 140 分｜💬 65 留言｜👤 knackers
+
+### 9. [M5Stack 推出 PaperMono](https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects)
+
+- ⭐ 63 分｜💬 22 留言｜👤 marksully
+
+### 10. [Afterglow: Run classic After Dark screen savers on modern macOS](https://morphing.cloud/afterglow/)
+
+- ⭐ 54 分｜💬 19 留言｜👤 NaOH
+
+### 11. [The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med)
+
+- ⭐ 139 分｜💬 412 留言｜👤 nanna
+
+### 12. [Previewing the 模型 硬體 Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+
+- ⭐ 45 分｜💬 22 留言｜👤 surprisetalk
+
+### 13. [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
+
+- ⭐ 45 分｜💬 12 留言｜👤 k9294
+
+### 14. [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31)
+
+- ⭐ 134 分｜💬 55 留言｜👤 RahulMJ
+
+### 15. [Bild AI (YC W25) is 招聘 product and AI engineers](https://www.bild.ai/jobs)
+
+- ⭐ 1 分｜💬 0 留言｜👤 rooppal
+
+### 16. [Suica, Japan's First IC Transit Card](https://www.tokyodev.com/articles/the-story-of-suica)
+
+- ⭐ 138 分｜💬 105 留言｜👤 zdw
+
+### 17. [Show HN: Voronoi Go](https://voronoigo.com/)
+
+I posted once before but wanted to share again because a lot has changed. There&#x27;s now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The co
+
+- ⭐ 42 分｜💬 9 留言｜👤 igpay
+
+### 18. [Engineered yeast for converting plastic and biomass compounds into food](https://acs.digitellinc.com/live/37/session/586399)
+
+- ⭐ 52 分｜💬 34 留言｜👤 ehwa37
+
+### 19. [Show HN: The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/)
+
+- ⭐ 249 分｜💬 122 留言｜👤 Labo333
+
+### 20. [NVIDIA agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
 
 https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;NVIDIA-agrees-buy-op... (paywalled)https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in...
 
-- ⭐ 748 分｜💬 313 留言｜👤 mfiguiere
+- ⭐ 1795 分｜💬 836 留言｜👤 mfiguiere
 
-### 2. [CEO fired developers to make room for AI. Developers create 開源 AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
+### 21. [The terrifying mechanics of the Nepali flash flood](https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood)
 
-- ⭐ 365 分｜💬 217 留言｜👤 GrumpySciGuy
+- ⭐ 50 分｜💬 7 留言｜👤 vinni2
 
-### 3. [Mechanical Turk shutting down September 30](https://www.mturk.com/)
+### 22. [Launching Route 53 Files](https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html)
 
-- ⭐ 262 分｜💬 80 留言｜👤 tmp10423288442
+- ⭐ 82 分｜💬 29 留言｜👤 louis-paul
 
-### 4. [Pnpm 12.0](https://pnpm.io/blog/releases/12.0)
+### 23. [Launch HN: Salem Robotics (YC S26) – 軟體 for industrial inspection robots](https://news.ycombinator.com/item?id=49466715)
 
-- ⭐ 20 分｜💬 8 留言｜👤 jcbhmr
+Hi HN, we&#x27;re the founders of Salem Robotics (https:&#x2F;&#x2F;salemroboticsinc.com). We give existing 行動 robots the task-specific intelligence to carry out surveys and physically interactive
 
-### 5. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
+- ⭐ 31 分｜💬 18 留言｜👤 Salem_robotics
 
-https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49450353
+### 24. [Aphantasia Beginner's Guide](https://aphantasia.com/guide)
 
-- ⭐ 962 分｜💬 490 留言｜👤 Philpax
+- ⭐ 91 分｜💬 220 留言｜👤 ksec
 
-### 6. [Kusama Yayoi Dies at 97](https://news.jp/i/1465528042000662661)
+### 25. [A curmudgeon tries a language 伺服器](https://entropicthoughts.com/curmudgeon-tries-language-server)
 
-- ⭐ 122 分｜💬 9 留言｜👤 phantomathkg
+- ⭐ 96 分｜💬 63 留言｜👤 crescit_eundo
 
-### 7. [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat)
+### 26. [Humanity has the debate about AI consciousness backwards](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)
 
-- ⭐ 528 分｜💬 96 留言｜👤 nderjung
+https:&#x2F;&#x2F;archive.ph&#x2F;uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;08&#x2F;20&#x2F;dont-mist..
 
-### 8. [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
+- ⭐ 64 分｜💬 207 留言｜👤 semiquaver
 
-- ⭐ 188 分｜💬 50 留言｜👤 pizzaiolo
+### 27. [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
 
-### 9. [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
+- ⭐ 62 分｜💬 62 留言｜👤 slantedview
 
-- ⭐ 125 分｜💬 54 留言｜👤 totetsu
+### 28. [Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform](https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/)
 
-### 10. [Laion Big Video Dataset](https://projects.laion.ai/bvd/)
+- ⭐ 19 分｜💬 1 留言｜👤 ano-ther
 
-- ⭐ 41 分｜💬 6 留言｜👤 ks2048
+### 29. [$900M paid out to end wind farm project going to firm run by Mar-a-Lago neighbor](https://www.independent.co.uk/news/world/americas/us-politics/trump-windfarm-money-neighbors-florida-b3040628.html)
 
-### 11. [U.S. State Department pauses immigrant visa applications](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23)
+- ⭐ 15 分｜💬 0 留言｜👤 pseudolus
 
-- ⭐ 426 分｜💬 641 留言｜👤 sss111
+### 30. [Trade (and Tariffs)](https://xkcd.com/3290/)
 
-### 12. [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/)
-
-- ⭐ 370 分｜💬 165 留言｜👤 Velocifyer
-
-### 13. [Stripe acquires Clerky](https://www.clerky.com/blog/clerky-is-joining-stripe)
-
-https:&#x2F;&#x2F;twitter.com&#x2F;darbyw&#x2F;status&#x2F;2092718828405096955
-
-- ⭐ 139 分｜💬 24 留言｜👤 zakshay
-
-### 14. [Zohran and the Short Link](https://iamwillwang.com/notes/zohran-and-the-short-link/)
-
-- ⭐ 163 分｜💬 55 留言｜👤 wxw
-
-### 15. [Twitter Viewer – View Twitter Without Account](https://twitterwebviewer.com/)
-
-- ⭐ 385 分｜💬 215 留言｜👤 motownphilly
-
-### 16. [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
-
-- ⭐ 235 分｜💬 272 留言｜👤 amrrs
-
-### 17. [CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela](https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/)
-
-- ⭐ 243 分｜💬 53 留言｜👤 gedankenstuecke
-
-### 18. [Actinide is first startup to produce high-assay low-enriched uranium (HALEU)](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu)
-
-- ⭐ 151 分｜💬 77 留言｜👤 dsalzman
-
-### 19. [FDA approves first in class targeted therapy for metastatic pancreatic cancer](https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer)
-
-- ⭐ 200 分｜💬 49 留言｜👤 leopoldj
-
-### 20. [IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone)
-
-- ⭐ 115 分｜💬 80 留言｜👤 porridgeraisin
-
-### 21. [Nebula Sans](https://www.nebulasans.com)
-
-- ⭐ 384 分｜💬 143 留言｜👤 GavinAnderegg
-
-### 22. [The Harness Is the Thing](https://scott-fryxell.github.io/blog/the-harness-is-the-thing/)
-
-- ⭐ 87 分｜💬 23 留言｜👤 sfryxell
-
-### 23. [Mold: A Massively Parallel Linker](https://arxiv.org/abs/2608.23228)
-
-- ⭐ 108 分｜💬 15 留言｜👤 matt_d
-
-### 24. [Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/)
-
-- ⭐ 114 分｜💬 67 留言｜👤 tilt
-
-### 25. [Taylor Farms: How One Company's Reach Became a National Risk](https://farmaction.us/taylorfarmsreport/)
-
-- ⭐ 264 分｜💬 181 留言｜👤 speckx
-
-### 26. [GitHub Outage Tracker: Is GitHub Cooked?](https://isgithubcooked.com/)
-
-- ⭐ 219 分｜💬 142 留言｜👤 toomanyrichies
-
-### 27. [The turbulent AI era is here](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
-
-- ⭐ 208 分｜💬 183 留言｜👤 LVB
-
-### 28. [Getting video models to learn better, faster](https://www.linum.ai/field-notes/data-filtering-gen-video)
-
-- ⭐ 18 分｜💬 8 留言｜👤 schopra909
-
-### 29. [Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies](https://www.risklytics.ai/)
-
-Hi HN, we&#x27;re Sam and Alex, founders of Risklytics (https:&#x2F;&#x2F;risklytics.AI). We&#x27;re both on leave from Harvard, and we run an insurance brokerage for companies building robots, drones
-
-- ⭐ 48 分｜💬 19 留言｜👤 AlexRisio
-
-### 30. [AWS Acquires DuckLabs](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
-
-- ⭐ 1019 分｜💬 300 留言｜👤 onderkalaci
+- ⭐ 414 分｜💬 182 留言｜👤 throw0101d
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Tim Curry has died
-- The Tariff Cost: analysis of the costs to Americans from 新 tariffs on Canada
-- It’s so hard to finish an idea that is not yours and is just suggested by AI
-- Show HN: 構建 your own theme park
+- Show HN: Restoredrill – proves your Postgres backups restore
+- Markdown 資料庫 Pattern
+- Two German airport workers die of malaria after 'mosquito arrives on plane'
+- CoMaps integration with the wider FLOSS ecosystem
+- MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research 訓練
+- Zohran and the Short Link
+- Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out 為什麼
+- Silicon Valley is in denial in face of widespread backlash
+- Flock CEO gets his house blurred out on Google Maps and Zillow
+- Show HN: A lightweight, stateless 資料庫 for 代理 memory
+- Americans are cheering for vigilantes who take down Flock cameras
+- Show HN: Yet another minimal and lightweight terminal multiplexer written in Go.
+- CMS with AI, Not AI CMS: Wagtail 8.0's 新 API
+- Canada Hires 48 Scholars Away from 熱門 U.S. Universities
+- Dyna-2: A 1M-Hour Scaling Law for World-Action Models
+- Harness Engineering
+- CEO fired developers to make room for AI. Developers create 開源 AI CEO
+- Omarchy distro gains serious backing
+- Tmp.0ut Volume 5
+- 為什麼 HPSC Is a Big Deal for Space Exploration
+- Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)
+- French CII's Mitra-15 in SIMH. Work in Progress
+- The broadcast squeezeback, rebuilt with CSS Grid and WebVTT
+- Tell HN: PayPal blocks GrapheneOS
+- Compromising Signal's Contact Discovery Enclave (SGX)
+- The turbulent AI era is here
+- Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85
+- GitHub Outage Tracker: Is GitHub Cooked?
+- Gemma 4 E2B 推論 in 700 lines of C
+- Needle: The benchmark your search engine can't memorize
+- Show HN: See fiber breaks linked to a map
+- Mechanical Turk shutting down September 30
+- US Aims to Revive Civil War-Era Court to Claim Iran Oil as Prize
+- Writing for Developers Book
+- GLM-5.3-Flash
+- U.S. State Department pauses immigrant visa applications
+- US attempts to take noblogs offline
+- First patient to undergo live AI-assisted brain surgery has tumor removed
+- NVIDIA projects $673B in sales as AI demand widens
 - RAG Is Simpler Than You Think
-- YouTube Format IDs
-- VMs won't contain cyber-capable agents
-- Qwen3.8-Flash-Next
-- PiLFS Linux from Scratch on the Raspberry Pi
+- AWS Acquires DuckLabs
+- Hit anything. Discover how it rings
+- Dwarf Fortress is getting the mother of all magic updates
+- Laion Big Video Dataset
+- Rob Pike's 5 Rules of 程式設計
+- It’s so hard to finish an idea that is not yours and is just suggested by AI
+- Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies
+- Amazon now hides all customer reviews on products
+- Two Alleged 'TeamPCP' Hackers Arrested in Australia
+- Ads and tracking infiltrated TVs. Now they're coming for monitors
+- Tailcat – Like netcat, but over Tailscale’s data plane
+- An ongoing 3D-printer AGPL violation
+- Asahi Linux Progress Report: Linux 7.2
+- Kusama Yayoi has died
+- Reverse Engineering My ADHD 測試
+- Corporate political donations shatter record at $646M so far for US midterms
+- The Tariff Cost: analysis of the costs to Americans from 新 tariffs on Canada
+- Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft
+- US Patriot missile stocks in Europe are 'beyond critical' due to Iran war
 - Access to Urban Woodlands Linked with Lower Use of Antidepressants
-- Panix, the oldest commercial Internet provider in 新 York, started in 1989
-- Proliferate (YC S25) Is 招聘
-- PageRank explained
+- VMs won't contain cyber-capable agents
+- Sanitizing Kubernetes and Terraform Manifests Before Committing
+- Qwen3.8-Flash-Next
+- Show HN: Proval – Self-hosted 代碼 review 代理 for GitLab, Forgejo, and GitHub
 - 11,000-year-old sculpture of man riding a leopard found in Turkey
-- High-Resolution Imaging for Statistical Validation of TESS Planet Candidates
-- GitHub Publishes IPv6 Addresses for Git SSH remotes
-- Technical Writing Style Guide
-- Meta reaches $17B settlement over social media harms to children
-- Just say something people want
-- Infrastructure as Raclette
-- CDs vs. NIMBY
-- Radiation link in flight attendant's breast cancer, French court finds
-- Show HN: We built the smallest dual-band aircraft tracker
-- Queryable Executables
-- 1,000 missing after catastrophic floods caused by a glacial collapse
-- Oldinsurancemaps.net is now a Charter Project
-- The Performance Inequality Gap, 2026
-- Disruption with Some GitHub Services – Resolved
-- A Man Who Saw Humanity from Two Billion Years Away
-- The risks of AI are real but manageable (2023)
-- Memory Ordering in CPUs
-- Apple 引進 M6 and M5 Ultra
-- FreeSocks – A 新 VPN for Internet Freedom
-- Beyond Recall and the Illusion of Competence
-- WebMCP Challenge – OpenAI
-- What will be left for us to work on
-- Z.AI confirms Ox Alpha is a 新 GLM-series 模型 and will release its weights
-- A Thread-Register Decoupled GPU Execution 模型 for Efficient Tensor Computation
-- Man gripping his phallus is oldest known narrative scene
-- Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War
-- Change MIR to use block arguments instead of phis – LLVM 代碼 Generation RFC
-- Six government passport CAs that Python rejects and OpenSSL accepts
-- Meta's self-inflicted resignation-wave
-- Value Classes Still Need Compiler Sympathy
-- A Citation to Asimov
-- How HN: Qisutu – an open-source, self-hosted ticketing and service desk
-- Processing in Memory: DRAM Is About to Do Math
-- How credit card rewards became a $9.2B wealth transfer
-- Show HN: Devx – Autonomous AI coding 代理 built for Android Termux and desktop
-- The turbulent AI era is here. The choices we make now are critical
-- FDA authorizes first wearable device that monitors ketone and blood sugar levels
-- US sanctions Italian hosting provider Autistici Inventati
-- Bomb fishing is wreaking havoc on Indonesia's coral reefs
-- Graze Joins Flipboard
-- Disenchantment with the Post-AI Internet
-- Don't Wordle
-- Yay? All my feeds are getting boring
-- Qwen3.8-Flash-Next Technical Report [pdf]
-- AI Lessons from Driving 200M Autonomous Miles
-- A scooter is cheating, a cargo bike is rude, the car is fine
-- OpenAI Jalapeño: Better than NVIDIA Blackwell
-- Show HN: Every push-up becomes an attack in a camera-counted RPG game
-- 新 Mac Studio with M5 Max and M5 Ultra
-- Google's Sergey Brin: You'll ride in robot cars within 5 years (2012)
-- Meta Just Paid Nearly $17B to Write the Kid Safety Rules for Every Platform
-- Patience Is Required for Local AI
-- Show HN: I wrote a BASIC interpreter that boots on UEFI machines
-- Apple Silicon's Surprisingly Speedy SIMD
-- In Hilbert Space, All Things Are Quantumly Possible
-- My 開源 project's donations no longer go through my bank account
+- Numerical (In)Stability of Recurrence Relations
+- Stripe acquires Clerky
+- YouTube Format IDs
+- PageRank explained
+- The Hugging Face incident and the road ahead
 
 
 ---
