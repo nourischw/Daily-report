@@ -4,212 +4,210 @@
 
 ---
 
-### 1. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+### 1. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
 
-- ⭐ 708 分｜💬 212 留言｜👤 TangerineDream
+- ⭐ 440 分｜💬 230 留言｜👤 ckardaris
 
-### 2. [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+### 2. [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
 
-- ⭐ 610 分｜💬 279 留言｜👤 tosh
+- ⭐ 132 分｜💬 89 留言｜👤 randycupertino
 
-### 3. [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
+### 3. [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
 
-- ⭐ 68 分｜💬 28 留言｜👤 eigenspace
+- ⭐ 32 分｜💬 20 留言｜👤 speckx
 
-### 4. [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
+### 4. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
 
-- ⭐ 151 分｜💬 37 留言｜👤 elyosh
+- ⭐ 399 分｜💬 99 留言｜👤 rmsaksida
 
-### 5. [507 Mechanical Movements](https://507movements.com/)
+### 5. [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
 
-Book (1868): https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala
+- ⭐ 183 分｜💬 62 留言｜👤 avsm
 
-- ⭐ 562 分｜💬 72 留言｜👤 helloplanets
+### 6. [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
 
-### 6. [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
+Earlier:US Government designates host of noblogs.org a &quot;global terrorist&quot; - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49464391 -  (131 comments)US sanctions Italian hosting provide
 
-- ⭐ 259 分｜💬 82 留言｜👤 k9294
+- ⭐ 402 分｜💬 353 留言｜👤 exiguus
 
-### 7. [Microduck](https://pollen-robotics.com/microduck/)
+### 7. [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
 
-- ⭐ 630 分｜💬 209 留言｜👤 robotswantdata
+- ⭐ 358 分｜💬 123 留言｜👤 smoser
 
-### 8. [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
+### 8. [Curvature Beziers: Improving on a timeless recipe](https://acko.net/blog/curvature-beziers/)
 
-- ⭐ 228 分｜💬 173 留言｜👤 dclavijo
+- ⭐ 40 分｜💬 9 留言｜👤 leephillips
 
-### 9. [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/)
+### 9. [Autonomous Mathematical Discovery in an Open-World Multi-代理 Environment](https://arxiv.org/abs/2608.23691)
 
-https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260826205502&#x2F;https:&#x2F;&#x2F;www.newsc...https:&#x2F;&#x2F;archive.ph&#x2F;zahjc
+- ⭐ 59 分｜💬 12 留言｜👤 stephenchung
 
-- ⭐ 100 分｜💬 92 留言｜👤 eutropheon
+### 10. [GLM-5.3 is now open-weight](https://huggingface.co/zai-org/GLM-5.3)
 
-### 10. [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)
+https:&#x2F;&#x2F;twitter.com&#x2F;Zai_org&#x2F;status&#x2F;2093354097122455713https:&#x2F;&#x2F;z.AI&#x2F;blog&#x2F;glm-5.3
 
-- ⭐ 73 分｜💬 23 留言｜👤 matt_d
+- ⭐ 483 分｜💬 176 留言｜👤 jeudesprits
 
-### 11. [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
+### 11. [Visual Analysis of Binary Files](https://binvis.io/#/)
 
-- ⭐ 237 分｜💬 163 留言｜👤 saretup
+- ⭐ 41 分｜💬 10 留言｜👤 vismit2000
 
-### 12. [Show HN: We built open OpenRouter that turns usage into a better 模型](https://github.com/experientiallabs/experiential)
+### 12. [The Twelve-Factor App (2025)](https://12factor.net/)
 
-Hi HN, we built an 開源 模型 gateway. It&#x27;s a single place to manage our own self hosted, frontier, and 開源 models in one place.It’s is rust native, built for concurrency, and impl
+- ⭐ 188 分｜💬 96 留言｜👤 jxmorris12
 
-- ⭐ 167 分｜💬 31 留言｜👤 SilenN
+### 13. [Judge rules Trump administration’s blacklisting of Anthropic was illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html)
 
-### 13. [AI 工程師 Notebooks – free, framework-free RAG/agents/evals on Colab](https://github.com/calmrocks/ai-engineer-notebooks)
+https:&#x2F;&#x2F;archive.ph&#x2F;ni6I3https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.cand.46...
 
-- ⭐ 97 分｜💬 9 留言｜👤 calmrocks
+- ⭐ 437 分｜💬 325 留言｜👤 jbegley
 
-### 14. [GoGoGrandparent (YC S16) is 招聘 back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+### 14. [Show HN: Sesame - a local-first, open-source password 經理](https://usesesame.app/)
 
-- ⭐ 1 分｜💬 0 留言｜👤 davidchl
+I have been working on Sesame, an open-source password 經理 that keeps your vault local by default. You don&#x27;t need an account to create or use a vault, and the hosted service never receives th
 
-### 15. [Show HN: The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/)
+- ⭐ 13 分｜💬 7 留言｜👤 d0mkaaa
 
-- ⭐ 473 分｜💬 231 留言｜👤 Labo333
+### 15. [Attimet (YC F24) Is 招聘 Members of Technical Staff – Engineering and Research](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering)
 
-### 16. [The turbulent AI era is here](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
+- ⭐ 1 分｜💬 0 留言｜👤 kbanothu
 
-- ⭐ 281 分｜💬 528 留言｜👤 nanna
+### 16. [Verschlimmbesserung: The Word Your 軟體 Updates Need](https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/)
 
-### 17. [Bootstrappable Builds: How and 為什麼](https://lwn.net/Articles/1088279/)
+- ⭐ 90 分｜💬 52 留言｜👤 speckx
 
-- ⭐ 35 分｜💬 14 留言｜👤 signa11
+### 17. [Barrier lake continues to pose flood risk, China warns](https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns)
 
-### 18. [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/)
+- ⭐ 78 分｜💬 17 留言｜👤 r721
 
-- ⭐ 229 分｜💬 134 留言｜👤 knackers
+### 18. [Processing in Memory: DRAM Is About to Do Math](https://ben3d.ca/blog/processing-in-memory)
 
-### 19. [Select * from Internet.blogposts](https://pfrazee.leaflet.pub/3mu3p2smmis22)
+- ⭐ 21 分｜💬 4 留言｜👤 bhouston
 
-- ⭐ 80 分｜💬 37 留言｜👤 mmattbtw
+### 19. [The Analytical AI Handbook](https://handbook.sutro.sh)
 
-### 20. [Afterglow: Run classic After Dark screen savers on modern macOS](https://morphing.cloud/afterglow/)
+- ⭐ 36 分｜💬 2 留言｜👤 sethkim
 
-- ⭐ 143 分｜💬 42 留言｜👤 NaOH
+### 20. [Sloc Cloc and 代碼 4.0 (scc) – Finding the files that need the most attention](https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/)
 
-### 21. [Stripe said to abandon $50B pursuit of PayPal](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal)
+- ⭐ 14 分｜💬 0 留言｜👤 boyter
 
-https:&#x2F;&#x2F;archive.ph&#x2F;qdE54
+### 21. [Global demand for sand spawned a worldwide boom in illegal mining (2015)](https://www.wired.com/2015/03/illegal-sand-mining/)
 
-- ⭐ 126 分｜💬 145 留言｜👤 1986
+https:&#x2F;&#x2F;archive.ph&#x2F;vyzt8
 
-### 22. [NVIDIA agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+- ⭐ 46 分｜💬 18 留言｜👤 EndXA
 
-https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;NVIDIA-agrees-buy-op... (paywalled)https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in...
+### 22. [Hilariously fast volume computation with the divergence theorem (2018)](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
 
-- ⭐ 1884 分｜💬 870 留言｜👤 mfiguiere
+- ⭐ 237 分｜💬 62 留言｜👤 luu
 
-### 23. [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31)
+### 23. [Show HN: Conduct, open-source guardrails for 大型語言模型 and MCP tool calls](https://github.com/sseshachala/conductai)
 
-- ⭐ 174 分｜💬 70 留言｜👤 RahulMJ
+- ⭐ 17 分｜💬 3 留言｜👤 sudhendra1
 
-### 24. [Previewing the 模型 硬體 Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+### 24. [EasyEffects can massively improve laptop speaker sound quality](https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/)
 
-- ⭐ 111 分｜💬 42 留言｜👤 surprisetalk
+- ⭐ 75 分｜💬 37 留言｜👤 birdculture
 
-### 25. [Suica, Japan's First IC Transit Card](https://www.tokyodev.com/articles/the-story-of-suica)
+### 25. [Luanti removed from Google Play due to baseless AI copyright notice](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
 
-- ⭐ 233 分｜💬 201 留言｜👤 zdw
+- ⭐ 381 分｜💬 120 留言｜👤 miniBill
 
-### 26. [M5Stack 推出 PaperMono](https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects)
+### 26. [Get your Windows license refund](https://en.refund4freedom.org/)
 
-- ⭐ 129 分｜💬 49 留言｜👤 marksully
+- ⭐ 605 分｜💬 245 留言｜👤 smartmic
 
-### 27. [Show HN: Voronoi Go](https://voronoigo.com/)
+### 27. [Smaller reactors bring nuclear power closer to fulfilling its promise](https://www.nature.com/articles/d41586-026-02506-4)
 
-I posted once before but wanted to share again because a lot has changed. There&#x27;s now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The co
+- ⭐ 100 分｜💬 131 留言｜👤 sohkamyung
 
-- ⭐ 126 分｜💬 16 留言｜👤 igpay
+### 28. [Some conservationists are helping to restore Africa’s wild dog populations](https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/)
 
-### 28. [Engineered yeast for converting plastic and biomass compounds to food additives](https://acs.digitellinc.com/live/37/session/586399)
+- ⭐ 60 分｜💬 20 留言｜👤 speckx
 
-- ⭐ 103 分｜💬 77 留言｜👤 ehwa37
+### 29. [State of the Map 2026](https://2026.stateofthemap.org/)
 
-### 29. [Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)
+- ⭐ 125 分｜💬 48 留言｜👤 lode
 
-- ⭐ 17 分｜💬 6 留言｜👤 mandarinclips
+### 30. [An investigation into the state of corvid–human relations](https://www.audubon.org/magazine/are-crows-really-our-friends)
 
-### 30. [USDA recalls 30k pounds of Argentine beef sold in Texas and Florida](https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida)
-
-- ⭐ 88 分｜💬 46 留言｜👤 cocacola1
+- ⭐ 101 分｜💬 56 留言｜👤 speckx
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Climate change is strengthening El Niño, coral records suggest
-- MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research 訓練
-- Launch HN: Salem Robotics (YC S26) – 軟體 for industrial inspection robots
-- Aphantasia Beginner's Guide
-- Humanity has the debate about AI consciousness backwards
-- Show HN: Watches user sessions, finds bugs that matter, and fixes them
-- Rubio Uses Terrorism Law to Ban Secure Email Service
-- The mechanics of the Nepali flash flood
-- Launching Route 53 Files
+- Bye, Bye GitHub
+- Migrating to HTTPX2
+- Racter (1984)
+- Debugging my 新 網絡, when 10 Gigabit Ethernet Runs at 300 Megabits
+- Bhartrhari's Paradox
+- “It works better in the app”
+- Aspirational Clownmaxxing and Joey's cadillac todo list
+- HTTPX2 – A next-generation HTTP client for Python
+- Intel's Wildcat Lake
+- “Weird” is a weird word
+- How Dactyl Works
+- Show HN: SubSmith – Turn your own videos into language-learning material
+- Interactive Warhammer 40k Galaxy Map
+- Run Qwen3.8 27B locally: real numbers from my Mac Studio
+- Police officer arrested after tracking ex-girlfriend on Flock over 2k times
+- Don't use musl if you care about performance
+- Secrets of the Atomic City
+- Corporate profits hit highest share since WWII, as worker payouts wilt
+- Flock CEO's Address Spread Online as Surveillance Backlash Explodes
+- Doctors are finally learning to manage antidepressant withdrawal
+- I used AWS cognito for a startup. I wouldn't do it again
+- Service Discontinued
+- Interactive pattern discovery in binaries (FF-16-TUI)
+- ALMA Reveals Long-Lived Hotspots on Betelgeuse's Bubbling Surface
+- A society that runs on stimulants is badly broken
+- AutoSaddler: Automatic Harness Optimization
+- The Loss of Changelogs
+- Sovereign Tech Agency invests €500k in Flatpak
+- NVIDIA agrees to acquire Hugging Face for $13B
+- Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+- Show HN: Passively Earn BTC/Sol/Anthropic for Using Claude 代碼
+- Zig to remove support for wasi-libc
+- Superhuman Attention
+- Isitdoneyet.gg is a website I made to figure out if games are complete
+- Terminal-Bench-Science: Evaluating AI agents on scientific research workflows
+- KHMS – a file-based long-term memory an 大型語言模型 代理 installs into itself
+- Small Models Have Arrived
+- A Badass Way to Connect Programs Togther 什麼是 OSC?
+- AI 代理 Has Root
+- Show HN: Blast – Open-source sandbox-as-a-service
+- The teenage girls behind a $25 minimum wage fight in rural Alaska
+- Select * from Internet.blogposts
+- Data centers' 'oh s–t' moment
+- 507 Mechanical Movements
+- Autistici/Inventati case sets a 新 counterterrorism precedent, Irdi says
+- 'We are broken': One family's fight against gambling addiction
+- The data center backlash is here – and Big Tech is spending big to combat it
+- Microduck
+- LibreOffice 26.8 is out – local first, and with no AI
+- Show HN: FeatureFlags.app – Feature Management for .NET
+- Compiling 代理 Experience into Persistent Knowledge for Skill Evolution
+- Gemini-3.5-Transcribe
 - Zohran and the Short Link
-- A Looming Rare Earth Shortage Threatens Critical Tech
-- Please stop flooding our projects with AI slop to furnish your CV
-- Alphabet stock sheds $700B as AI bills climb
-- The "I don't know, Claude wrote this" pandemic
-- Sanjeev Gupta’s family takes out £24mn mortgage on Belgravia mansion
-- A curmudgeon tries a language 伺服器
-- 為什麼 Are Rivers So Mathematical?
-- CEO fired developers to make room for AI. Developers create 開源 AI CEO
-- Trade (and Tariffs)
-- Grand Theft Auto VI: An Extended Look [video]
-- My Business Is Dying
-- Tmp.0ut Volume 5
-- GLM-5.3-Flash
-- GitHub Outage Tracker: Is GitHub Cooked?
-- Autism mutations drive neurodevelopmental pathology
-- U.S. State Department pauses immigrant visa applications
-- Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out 為什麼
-- Show HN: A lightweight, stateless 資料庫 for 代理 memory
-- The cause of most wildfires? People
-- RAG Is Simpler Than You Think
-- Show HN: Restoredrill – proves your Postgres backups restore
-- Mechanical Turk shutting down September 30
-- CoMaps integration with the wider FLOSS ecosystem
-- Intel previews future instruction-set documentaton
-- Markdown 資料庫 Pattern
-- AWS Acquires DuckLabs
-- WindFoil – algorithm for computing winding and anti-aliasing of 2D vector shapes
-- Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal
+- Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance
+- Suica, Japan's First IC Transit Card
+- Previewing the 模型 硬體 Standard
+- Terry Rozier and the Teleprompt Operator
 - Hy4 Preview
-- It’s so hard to finish an idea that is not yours and is just suggested by AI
-- CMS with AI, Not AI CMS: Wagtail 8.0's 新 API
-- Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies
-- $900M paid out to end wind farm project going to firm run by Mar-a-Lago neighbor
-- Tailcat – Like netcat, but over Tailscale’s data plane
-- Harness Engineering
-- Poka-Yoke
-- Laion Big Video Dataset
-- Judge blocks Pentagon blacklist of Anthropic as supply chain risk
-- An ongoing 3D-printer AGPL violation
-- Asahi Linux Progress Report: Linux 7.2
-- Qwen3.8-Flash-Next
-- Access to Urban Woodlands Linked with Lower Use of Antidepressants
-- The Tariff Cost: analysis of the costs to Americans from 新 tariffs on Canada
-- West Point Professor Fired for Refusing to Lie About Climate Change
-- VMs won't contain cyber-capable agents
-- Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)
-- Tell HN: PayPal blocks GrapheneOS
-- 11,000-year-old sculpture of man riding a leopard found in Turkey
-- SK Hynix CEO: Memory Shortage to Persist Through the End of 2030
-- Gemma 4 E2B 推論 in 700 lines of C
-- Writing for Developers Book
-- French CII's Mitra-15 in SIMH. Work in Progress
-- Two German airport workers die of malaria after 'mosquito arrives on plane'
-- Kusama Yayoi has died
-- Queryable Executables
-- First patient to undergo live AI-assisted brain surgery has tumor removed
-- YouTube Format IDs
-- Apple 引進 M6 and M5 Ultra
-- Dyna-2: A 1M-Hour Scaling Law for World-Action Models
-- PageRank explained
+- Show HN: The load-bearing vocabulary of Claude
+- Single CRISPR Treatment Slashed LDL Cholesterol for a Year
+- We found a division by zero bug in FFmpeg with a vibecoded fuzzer
+- The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot
+- MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research 訓練
+- Humanity has the debate about AI consciousness backwards
+- EPA says power for data centers can sidestep pollution laws
+- NVIDIA Insists It Can Keep Printing Money to Fund the AI Boom
+- Gemini Omni 1.1 Flash
+- Aphantasia Beginner's Guide
+- I Asked 100 Companies for My Data. I Got Deletion Notices Instead
+- Launch HN: Salem Robotics (YC S26) – 軟體 for industrial inspection robots
 
 
 ---
