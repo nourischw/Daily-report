@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
+### 1. [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
 
-- ⭐ 31 分｜💬 8 留言｜👤 tosh
+- ⭐ 235 分｜💬 130 留言｜👤 ibobev
 
-### 2. [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+### 2. [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
 
-- ⭐ 130 分｜💬 44 留言｜👤 ingve
+- ⭐ 31 分｜💬 20 留言｜👤 shenli3514
 
-### 3. [Europe's last regular standard-gauge steam passenger service](https://parowozowniawolsztyn.pl/?page_id=2141)
+### 3. [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
 
-- ⭐ 58 分｜💬 18 留言｜👤 GungulSurm
+- ⭐ 13 分｜💬 2 留言｜👤 shenli3514
 
-### 4. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+### 4. [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
 
-- ⭐ 855 分｜💬 425 留言｜👤 ckardaris
+- ⭐ 181 分｜💬 89 留言｜👤 zackb
 
-### 5. [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
+### 5. [Calibrate Before You Accelerate: Bias Toward Action in a 新 Role](https://tucker.wales/writing/bias-towards-action/)
 
-- ⭐ 294 分｜💬 82 留言｜👤 hentrep
+- ⭐ 39 分｜💬 10 留言｜👤 tuckerwales
 
-### 6. [Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
+### 6. [SQLite as a Document 資料庫 (2020)](https://dgl.cx/2020/06/sqlite-json-support)
 
-- ⭐ 35 分｜💬 2 留言｜👤 birdculture
+- ⭐ 125 分｜💬 31 留言｜👤 lioeters
 
-### 7. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+### 7. [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0)
 
-- ⭐ 690 分｜💬 172 留言｜👤 rmsaksida
+- ⭐ 10 分｜💬 0 留言｜👤 mrrrcs
 
-### 8. [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
+### 8. [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 
-Earlier:US Government designates host of noblogs.org a &quot;global terrorist&quot; - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49464391 -  (131 comments)US sanctions Italian hosting provide
+- ⭐ 108 分｜💬 20 留言｜👤 gpi
 
-- ⭐ 627 分｜💬 610 留言｜👤 exiguus
+### 9. [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits)
 
-### 9. [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+- ⭐ 95 分｜💬 15 留言｜👤 firefax
 
-- ⭐ 116 分｜💬 53 留言｜👤 rgbimbochamp
+### 10. [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
 
-### 10. [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
+- ⭐ 53 分｜💬 29 留言｜👤 uecker
 
-- ⭐ 116 分｜💬 26 留言｜👤 thclpr
+### 11. [Sleepwalker: Passive Backdoor with Its Own Command Language](https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/)
 
-### 11. [I accidentally turned 大型語言模型 memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
+- ⭐ 40 分｜💬 3 留言｜👤 defrost
 
-- ⭐ 172 分｜💬 40 留言｜👤 matt_d
+### 12. [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io)
 
-### 12. [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
+Hey HN!I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like usin
 
-- ⭐ 521 分｜💬 176 留言｜👤 smoser
+- ⭐ 80 分｜💬 17 留言｜👤 andrewww-dev
 
-### 13. [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
+### 13. [Glacier Mice](https://en.wikipedia.org/wiki/Glacier_mice)
 
-- ⭐ 338 分｜💬 115 留言｜👤 avsm
+- ⭐ 206 分｜💬 43 留言｜👤 ostacke
 
-### 14. [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
+### 14. [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 
-- ⭐ 105 分｜💬 51 留言｜👤 dev_l1x_be
+- ⭐ 220 分｜💬 76 留言｜👤 ingve
 
-### 15. [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
+### 15. [Quantifying Colour](https://ekunazanu.foo/lab/quantifying-colour/)
 
-- ⭐ 579 分｜💬 326 留言｜👤 meetpateltech
+- ⭐ 44 分｜💬 3 留言｜👤 vismit2000
 
-### 16. [Queen Caroline turned King Arthur into an 18C royal PR strategy](https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244)
+### 16. [A better SQL in 11 lines of 代碼](https://prela-lang.org/tutorial/)
 
-- ⭐ 23 分｜💬 3 留言｜👤 samizdis
+- ⭐ 22 分｜💬 21 留言｜👤 remywang
 
-### 17. [Experiments with Plotter Art](https://sometimes.digital/posts/experiments-with-plotter-art/)
+### 17. [EVE Online moves to Python 3](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
 
-- ⭐ 63 分｜💬 3 留言｜👤 surprisetalk
+- ⭐ 235 分｜💬 118 留言｜👤 TylerJaacks
 
-### 18. [Monzo Stand-In](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)
+### 18. [Creating the Aetheryte Radio](https://haz.ee/posts/aetheryte-radio.html)
 
-- ⭐ 92 分｜💬 28 留言｜👤 coffeefuel
+- ⭐ 52 分｜💬 12 留言｜👤 wonger_
 
-### 19. [Glacier Mice](https://en.wikipedia.org/wiki/Glacier_mice)
+### 19. [Kmart Digicam Mod Part 2](https://mason.bearblog.dev/kmart-digicam-mod-part-2/)
 
-- ⭐ 17 分｜💬 2 留言｜👤 ostacke
+- ⭐ 5 分｜💬 0 留言｜👤 masoniamme
 
-### 20. [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
+### 20. [GrapheneOS project: pixel 11 no longer supports 硬體 memory tagging (MTE)](https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e)
 
-- ⭐ 63 分｜💬 37 留言｜👤 linuxkernal
+- ⭐ 169 分｜💬 60 留言｜👤 400thecat
 
-### 21. [Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?](https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/)
+### 21. [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
 
-- ⭐ 24 分｜💬 6 留言｜👤 gmays
+- ⭐ 84 分｜💬 29 留言｜👤 JumpCrisscross
 
-### 22. [Curvature Beziers: Improving on a timeless recipe](https://acko.net/blog/curvature-beziers/)
+### 22. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
 
-- ⭐ 125 分｜💬 15 留言｜👤 leephillips
+- ⭐ 786 分｜💬 196 留言｜👤 rmsaksida
 
-### 23. [Time complexity of operations on Python's built-in types](https://docs.python.org/3.16/library/time-complexity.html)
+### 23. [Trees for a Changing Climate and Resilient Urban Forest (2022)](https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest)
 
-- ⭐ 16 分｜💬 4 留言｜👤 theanonymousone
+- ⭐ 8 分｜💬 1 留言｜👤 mooreds
 
-### 24. [EasyEffects can improve laptop speaker sound quality](https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/)
+### 24. [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
 
-- ⭐ 166 分｜💬 66 留言｜👤 birdculture
+- ⭐ 360 分｜💬 95 留言｜👤 hentrep
 
-### 25. [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
+### 25. [Show HN: Galaxium, an experimental WebGPU space explorer](https://galaxium.app)
 
-- ⭐ 135 分｜💬 114 留言｜👤 hungryhobbit
+- ⭐ 84 分｜💬 28 留言｜👤 guillaumec
 
-### 26. [The Twelve-Factor App (2025)](https://12factor.net/)
+### 26. [Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
 
-- ⭐ 276 分｜💬 153 留言｜👤 jxmorris12
+- ⭐ 97 分｜💬 12 留言｜👤 birdculture
 
-### 27. [GLM-5.3 is now open-weight](https://huggingface.co/zai-org/GLM-5.3)
+### 27. [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
 
-https:&#x2F;&#x2F;twitter.com&#x2F;Zai_org&#x2F;status&#x2F;2093354097122455713https:&#x2F;&#x2F;z.AI&#x2F;blog&#x2F;glm-5.3
+- ⭐ 186 分｜💬 57 留言｜👤 thclpr
 
-- ⭐ 716 分｜💬 238 留言｜👤 jeudesprits
+### 28. [Time complexity of operations on Python's built-in types](https://docs.python.org/3.16/library/time-complexity.html)
 
-### 28. [Visual Analysis of Binary Files](https://binvis.io/#/)
+- ⭐ 83 分｜💬 33 留言｜👤 theanonymousone
 
-- ⭐ 89 分｜💬 24 留言｜👤 vismit2000
+### 29. [I accidentally turned 大型語言模型 memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
 
-### 29. [Verschlimmbesserung: The Word Your 軟體 Updates Need](https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/)
+- ⭐ 262 分｜💬 71 留言｜👤 matt_d
 
-- ⭐ 143 分｜💬 99 留言｜👤 speckx
+### 30. [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
 
-### 30. [Autonomous Mathematical Discovery in an Open-World Multi-代理 Environment](https://arxiv.org/abs/2608.23691)
-
-- ⭐ 109 分｜💬 32 留言｜👤 stephenchung
+- ⭐ 592 分｜💬 186 留言｜👤 smoser
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Europe's last regular standard-gauge steam passenger service
+- Just the rumour of a bug is enough to find an exploit these days
+- TurboKV: Insanely fast Rust key-value store
+- Debian votes to allow "responsible use of generative AI"
+- Manifesto – who we are and what do we want (2002)
+- Vim's UserGettingBored Autocmd
+- Parsing the Infamous Japanese Postal CSV
+- Monzo Stand-In
+- Our decision on Cursor following its acquisition by SpaceX
+- Experiments with Plotter Art
+- GUIs should be fully keyboard-driven
+- The Twelve-Factor App (2025)
+- Does the Sumerian King List Align with Paleoclimate Events?
+- Attimet (YC F24) Is 招聘 Members of Technical Staff – Engineering and Research
+- Queen Caroline turned King Arthur into an 18C royal PR strategy
+- Curvature Beziers: Improving on a timeless recipe
+- EasyEffects can improve laptop speaker sound quality
+- GLM-5.3 is now open-weight
+- Visual Analysis of Binary Files
+- Verschlimmbesserung: The Word Your 軟體 Updates Need
 - Migrating to HTTPX2
-- State of the Map 2026
-- Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo
 - Judge rules Trump administration’s blacklisting of Anthropic was illegal
 - Run Qwen3.8 27B locally: real numbers from my Mac Studio
+- Breaking persistent undo shows Neovim can't be trusted
+- Autonomous Mathematical Discovery in an Open-World Multi-代理 Environment
+- State of the Map 2026
+- U.S. sanctions against the A/I Collective
+- 9th Circuit sides with states in Kalshi gambling fight
+- Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?
 - Smaller reactors bring nuclear power closer to fulfilling its promise
-- An investigation into the state of corvid–human relations
-- Get your Windows license refund
-- Autistici/inventati: Manifesto – who we are and what do we want (2002)
-- Attimet (YC F24) Is 招聘 Members of Technical Staff – Engineering and Research
-- Show HN: Sesame - a local-first, open-source password 經理
-- Global demand for sand spawned a worldwide boom in illegal mining (2015)
-- HTTPX2 – A next-generation HTTP client for Python
+- Iceland votes on whether to restart talks on joining EU
 - Doctors are finally learning to manage antidepressant withdrawal
-- Identifying fake cosmetics using AI
-- Interactive Warhammer 40k Galaxy Map
-- Sloc Cloc and 代碼 4.0 (scc) – Finding the files that need the most attention
-- Some conservationists are helping to restore Africa’s wild dog populations
-- Debugging my 新 網絡, when 10 Gigabit Ethernet Runs at 300 Megabits
+- Don't enthusiastically agree to rewrite the 系統 at work
 - NVIDIA agrees to acquire Hugging Face for $13B
-- Processing in Memory: DRAM Is About to Do Math
-- You Know GDPR Is Good Based on Who Hates It
-- “It works better in the app”
-- Neovim Removes DHH Quote
-- Show HN: SubSmith – Turn your own videos into language-learning material
-- Aspirational Clownmaxxing and Joey's cadillac todo list
-- Bhartrhari's Paradox
+- Get your Windows license refund
+- Global demand for sand spawned a worldwide boom in illegal mining (2015)
+- Interactive Warhammer 40k Galaxy Map
+- HTTPX2 – A next-generation HTTP client for Python
+- Debugging my 新 網絡, when 10 Gigabit Ethernet Runs at 300 Megabits
+- SteamOS 3.9.0 Preview
+- An investigation into the state of corvid–human relations
+- Some conservationists are helping to restore Africa’s wild dog populations
+- Magnetic core memory USB drive used for sneakernet file transfer
 - Luanti removed from Google Play due to baseless AI copyright notice
-- “Weird” is a weird word
+- Sloc Cloc and 代碼 4.0 (scc) – Finding the files that need the most attention
+- Show HN: Sesame - a local-first, open-source password 經理
+- Identifying fake cosmetics using AI
 - Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
-- Hilariously fast volume computation with the divergence theorem (2018)
-- How Dactyl Works
-- Don't use musl if you care about performance
+- “It works better in the app”
+- Kumander Linux – A Linux Distro with a Windows 7 Desktop
+- Show HN: SubSmith – Turn your own videos into language-learning material
+- Processing in Memory: DRAM Is About to Do Math
+- “Weird” is a weird word
+- Bhartrhari's Paradox
+- Senator calls for criminal investigation of RFK Jr after Guardian report
+- Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo
 - Small Models Have Arrived
-- Stopping the smart TV from being used against you
-- ICANN de-accredits "bulletproof" domain registrar Trustname
-- Service Discontinued
-- Flyway for freeloaders, rollback implemented in Python
-- Sovereign Tech Agency invests €500k in Flatpak
-- Terminal-Bench-Science: Evaluating AI agents on scientific research workflows
+- Aspirational Clownmaxxing and Joey's cadillac todo list
+- ICE eyes spending up to $2M on Boston Dynamics robot dogs to up 'officer safety'
+- 介紹 Probability – 2nd Edition
+- Hilariously fast volume computation with the divergence theorem (2018)
+- Zohran and the Short Link
+- Show HN: Qwiksi a CLI tool for adding your signature to a PDFs
 - 507 Mechanical Movements
 - Microduck
-- Zohran and the Short Link
-- Dimethyl Mercury Exposure Incident at MIT
-- I used AWS cognito for a startup. I wouldn't do it again
-- The ArtQrCode a twist on the classic black and white Quick Response 代碼
-- Corporate profits hit highest share since WWII, as worker payouts wilt
-- Select * from Internet.blogposts
-- ALMA Reveals Long-Lived Hotspots on Betelgeuse's Bubbling Surface
-- Show HN: The load-bearing vocabulary of Claude
-- You've heard of CSV files, but have you heard of CCSV files?
-- The IBM PC, Part 2: Tsunami
-- Interactive pattern discovery in binaries (FF-16-TUI)
-- PPWR lands another blow to an precarious tabletop industry
-- Forgotten History of Small Nuclear Reactors
-- AutoSaddler: Automatic Harness Optimization
-- Suica, Japan's First IC Transit Card
-- Gemini-3.5-Transcribe
-- Humanity has the debate about AI consciousness backwards
-- Aphantasia Beginner's Guide
-- The Loss of Changelogs
-- MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research 訓練
-- Previewing the 模型 硬體 Standard
-- Initially delayed, the pass-through of tariffs to consumer prices has arrived
-- GLM-5.3-Flash
-- Police officer arrested after tracking ex-girlfriend on Flock over 2k times
-- We found a division by zero bug in FFmpeg with a vibecoded fuzzer
-- OpenAI and Anthropic are ruining San Francisco
-- Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance
-- RAG Is Simpler Than You Think
+- Terminal-Bench-Science: Evaluating AI agents on scientific research workflows
+- Service Discontinued
+- Sovereign Tech Agency invests €500k in Flatpak
+- Music publishers sue Anthropic, allege "blantant theft" of copyrighted music
+- How Dactyl Works
 
 
 ---
