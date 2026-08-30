@@ -194,6 +194,7 @@ AWS簽署最終協議，將收購開源分析型資料庫DuckDB背後的荷蘭�
 
 ### 更多 AI 新聞 (70則)
 
+- 最佳 Mesh Wi-Fi Systems (2026): I Tested Them All (**Wired**)
 - 為什麼 the Hottest 新 Wearables Want to Be Ignored (**Wired**)
 - The 最佳 Label Makers (2026): Brother, Niimbot, Dymo (**Wired**)
 - 如何 Escape Group Chat Hell (**Wired**)
@@ -218,10 +219,10 @@ AWS簽署最終協議，將收購開源分析型資料庫DuckDB背後的荷蘭�
 - I Asked 100 Companies for My Data. I Got Deletion Notices Instead (**Wired**)
 - There Are So Many Conspiracy Theories About Dolly Parton and Vaccines (**Wired**)
 - How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations (**Wired**)
-- Uber Eats Promo Codes: $15 Off │September 2026 (**Wired**)
-- Hotels.com Coupon Codes for September 2026 (**Wired**)
 - Gametime Promo 代碼: Save on Tickets in September 2026 (**Wired**)
 - Reebok Discount 代碼: Save 15%+ in September 2026 (**Wired**)
+- Uber Eats Promo Codes: $15 Off │September 2026 (**Wired**)
+- Hotels.com Coupon Codes for September 2026 (**Wired**)
 - 30% VistaPrint Coupon &amp; Promo Codes | September 2026 (**Wired**)
 - Maytag Promo Codes: 15% Off Appliances (**Wired**)
 - Chatbooks Promo 代碼: Save up to 40% on Photo Books in September 2026 (**Wired**)
@@ -243,7 +244,6 @@ AWS簽署最終協議，將收購開源分析型資料庫DuckDB背後的荷蘭�
 - Birdfy Discount Codes: 15% Off Sitewide (**Wired**)
 - Motley Fool Promo 代碼: $200 Off on Stock Advisor September 2026 (**Wired**)
 - Therabody Promo Codes: 15% Off September 2026 (**Wired**)
-- Alo Discount 代碼: 20% Off September 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
