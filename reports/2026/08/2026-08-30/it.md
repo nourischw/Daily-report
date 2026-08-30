@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [Bug Blindness](https://danluu.com/bug-blind/)
+### 1. [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389)
 
-- ⭐ 67 分｜💬 26 留言｜👤 davidmckenna
+- ⭐ 59 分｜💬 13 留言｜👤 joebig
 
-### 2. [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
+### 2. [Arbitrary 代碼 execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
 
-- ⭐ 29 分｜💬 14 留言｜👤 sashk
+- ⭐ 33 分｜💬 8 留言｜👤 vntok
 
-### 3. [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+### 3. [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/)
 
-- ⭐ 206 分｜💬 131 留言｜👤 shenli3514
+- ⭐ 13 分｜💬 1 留言｜👤 hskimse
 
-### 4. [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
+### 4. [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
 
-- ⭐ 29 分｜💬 2 留言｜👤 lumpa
+- ⭐ 73 分｜💬 35 留言｜👤 defrost
 
-### 5. [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
+### 5. [Everyone Should 構建 Their Own 網絡 Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/)
 
-- ⭐ 373 分｜💬 156 留言｜👤 zackb
+- ⭐ 8 分｜💬 1 留言｜👤 uneven9434
 
-### 6. [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
+### 6. [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
+
+- ⭐ 178 分｜💬 36 留言｜👤 lumpa
+
+### 7. [Xcena and Samsung's Near Memory Compute CXL Device](https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs)
+
+- ⭐ 14 分｜💬 1 留言｜👤 klelatti
+
+### 8. [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+
+- ⭐ 312 分｜💬 191 留言｜👤 shenli3514
+
+### 9. [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
+
+- ⭐ 106 分｜💬 61 留言｜👤 sashk
+
+### 10. [California lawmakers unanimously pass Linux exemption from age-verification law](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
+
+- ⭐ 316 分｜💬 138 留言｜👤 shscs911
+
+### 11. [Bug Blindness](https://danluu.com/bug-blind/)
+
+- ⭐ 269 分｜💬 161 留言｜👤 davidmckenna
+
+### 12. [The Einstein-Szilard Refrigerator](https://invention.si.edu/invention-stories/einstein-szilard-refrigerator)
+
+- ⭐ 37 分｜💬 9 留言｜👤 EndXA
+
+### 13. [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
+
+- ⭐ 466 分｜💬 184 留言｜👤 zackb
+
+### 14. [JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps](https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0)
+
+- ⭐ 23 分｜💬 3 留言｜👤 arjxn-py
+
+### 15. [Benjamin Franklin's Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
+
+- ⭐ 73 分｜💬 28 留言｜👤 cisc
+
+### 16. [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
 
 https:&#x2F;&#x2F;nextspaceflight.com&#x2F;推出&#x2F;details&#x2F;6983&#x2F;https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grac...https:&#x2F;&#x2F;en.w
 
-- ⭐ 135 分｜💬 66 留言｜👤 JumpCrisscross
+- ⭐ 201 分｜💬 80 留言｜👤 JumpCrisscross
 
-### 7. [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
+### 17. [Fair Work Commission condemns 'plain wrong' AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
 
-- ⭐ 130 分｜💬 44 留言｜👤 DeepLogin
+- ⭐ 8 分｜💬 0 留言｜👤 martyvis
 
-### 8. [Calibrate Before You Accelerate: Bias Toward Action in a 新 Role](https://tucker.wales/writing/bias-towards-action/)
+### 18. [Benchmarking Pocket-Scale 推論](https://artificialanalysis.ai/hardware-inference-stack/mobile-phones)
 
-- ⭐ 118 分｜💬 50 留言｜👤 tuckerwales
+- ⭐ 50 分｜💬 4 留言｜👤 sys42590
 
-### 9. [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger)
+### 19. [Creating Teensy ELF Executables for Linux (Or, "Size Is Everything") (1999)](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 
-- ⭐ 7 分｜💬 2 留言｜👤 gbin
+- ⭐ 48 分｜💬 11 留言｜👤 Bluestein
 
-### 10. [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
+### 20. [Orbs](https://ampcode.com/notes/orbs-explained)
 
-- ⭐ 59 分｜💬 6 留言｜👤 AlarQ
+- ⭐ 12 分｜💬 6 留言｜👤 tosh
 
-### 11. [SQLite as a Document 資料庫 (2020)](https://dgl.cx/2020/06/sqlite-json-support)
+### 21. [SQLite as a Document 資料庫 (2020)](https://dgl.cx/2020/06/sqlite-json-support)
 
-- ⭐ 177 分｜💬 46 留言｜👤 lioeters
+- ⭐ 216 分｜💬 53 留言｜👤 lioeters
 
-### 12. [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958)
+### 22. [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
 
-- ⭐ 55 分｜💬 14 留言｜👤 matt_d
+- ⭐ 313 分｜💬 176 留言｜👤 DeepLogin
 
-### 13. [Is it safe to call print in a Python signal handler?](https://iafisher.com/2026/08/sigprint)
+### 23. [EVE Online moves to Python 3](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
 
-- ⭐ 20 分｜💬 2 留言｜👤 hellerve
+- ⭐ 365 分｜💬 197 留言｜👤 TylerJaacks
 
-### 14. [Glacier Mice](https://en.wikipedia.org/wiki/Glacier_mice)
+### 24. [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958)
 
-- ⭐ 267 分｜💬 51 留言｜👤 ostacke
+- ⭐ 92 分｜💬 36 留言｜👤 matt_d
 
-### 15. [EVE Online moves to Python 3](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
+### 25. [Glacier Mice](https://en.wikipedia.org/wiki/Glacier_mice)
 
-- ⭐ 313 分｜💬 162 留言｜👤 TylerJaacks
+- ⭐ 305 分｜💬 60 留言｜👤 ostacke
 
-### 16. [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits)
+### 26. [Open Oscar 伺服器: open-source 伺服器 compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server)
 
-- ⭐ 323 分｜💬 53 留言｜👤 firefax
+- ⭐ 41 分｜💬 16 留言｜👤 gregsadetsky
 
-### 17. [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+### 27. [Is it safe to call print in a Python signal handler?](https://iafisher.com/2026/08/sigprint)
 
-- ⭐ 264 分｜💬 63 留言｜👤 gpi
+- ⭐ 52 分｜💬 28 留言｜👤 hellerve
 
-### 18. [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+### 28. [Calibrate Before You Accelerate: Bias Toward Action in a 新 Role](https://tucker.wales/writing/bias-towards-action/)
 
-- ⭐ 246 分｜💬 92 留言｜👤 ingve
+- ⭐ 165 分｜💬 66 留言｜👤 tuckerwales
 
-### 19. [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
+### 29. [Pop-2000, a lingua-franca POP-2 dialect](https://hitogata.neocities.org/POP-2000)
 
-- ⭐ 114 分｜💬 97 留言｜👤 measurablefunc
+- ⭐ 16 分｜💬 1 留言｜👤 surprisetalk
 
-### 20. [Defrag98: Windows 98 Disk Defragmenter Simulator Online](https://defrag98.com)
+### 30. [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 
-- ⭐ 96 分｜💬 52 留言｜👤 throw0101a
-
-### 21. [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
-
-- ⭐ 69 分｜💬 44 留言｜👤 uecker
-
-### 22. [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
-
-- ⭐ 384 分｜💬 103 留言｜👤 hentrep
-
-### 23. [Sleepwalker: Passive Backdoor with Its Own Command Language](https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/)
-
-- ⭐ 55 分｜💬 8 留言｜👤 defrost
-
-### 24. [Trees for a Changing Climate and Resilient Urban Forest (2022)](https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest)
-
-- ⭐ 35 分｜💬 5 留言｜👤 mooreds
-
-### 25. [Quantifying Colour](https://ekunazanu.foo/lab/quantifying-colour/)
-
-- ⭐ 72 分｜💬 7 留言｜👤 vismit2000
-
-### 26. [Creating the Aetheryte Radio](https://haz.ee/posts/aetheryte-radio.html)
-
-- ⭐ 69 分｜💬 14 留言｜👤 wonger_
-
-### 27. [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io)
-
-Hey HN!I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like usin
-
-- ⭐ 98 分｜💬 25 留言｜👤 andrewww-dev
-
-### 28. [I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
-
-- ⭐ 117 分｜💬 79 留言｜👤 lisper
-
-### 29. [Recovering Corrupt Zip Files](https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895)
-
-- ⭐ 32 分｜💬 12 留言｜👤 AshleysBrain
-
-### 30. [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
-
-- ⭐ 209 分｜💬 58 留言｜👤 thclpr
+- ⭐ 266 分｜💬 104 留言｜👤 ingve
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- A safe MySQL upgrade that wasn't so safe
-- The Wandering Yamamura Theater Troupe
+- NVIDIA's AI advantage is moving beyond the GPU
+- Boot a Virtual iPhone via Apple's Virtualization.framework
+- Algorithmic rent-pricing litigation expands under 新 state and local laws
+- Good Culture Is the Biggest Productivity Hack, Not AI
+- DHS is using obscure law to snoop on journalists, non-profits, unions
+- Recovering Corrupt Zip Files
 - I accidentally turned 大型語言模型 memory into program analysis
-- Just the rumour of a bug is enough to find an exploit these days
-- Show HN: Galaxium, an experimental WebGPU space explorer
+- StemDeck, a free, open-source and local AI stem separator
+- Daycare Pseudoscience
+- Memo to Ridley Scott: no one needs more Alien: Covenant movies
+- Sleepwalker: Passive Backdoor with Its Own Command Language
+- A few feral cats in an ALGOL trenchcoat.
+- Domain-Driven Agents
+- Trees for a Changing Climate and Resilient Urban Forest (2022)
+- The Rise and Fall of 代理 Civilizations
+- Quantifying Colour
+- Show HN: Typebase – A single-folder back end you write in TypeScript
+- Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter
+- Creating the Aetheryte Radio
+- TurboKV: Insanely fast Rust key-value store
+- My fat loss experiments with ChatGPT and water fasting
 - Time complexity of operations on Python's built-in types
 - Europe's last regular standard-gauge steam passenger service
 - Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems
-- TurboKV: Insanely fast Rust key-value store
-- Kmart Digicam Mod Part 2
-- What we want is a hunter gatherer lifestyle with space age tools (2022)
-- GrapheneOS project: pixel 11 no longer supports 硬體 memory tagging (MTE)
-- Manifesto – who we are and what do we want (2002)
-- vLLM v0.28.0
-- Htmx 4.0
+- Creepy Crawlies
+- A safe MySQL upgrade that wasn't so safe
+- Indirect Calling of Nested Functions on GCC Without Executable Stack
+- Show HN: Galaxium, an experimental WebGPU space explorer
 - The Twelve-Factor App (2025)
+- Htmx 4.0
 - GUIs should be fully keyboard-driven
-- Monzo Stand-In
+- Smartphone LED Detects Hidden Cameras with AI
+- The Internet Archive's Vintage AI Collection
+- Judge rules Trump administration’s blacklisting of Anthropic was illegal
 - EasyEffects can improve laptop speaker sound quality
+- Kmart Digicam Mod Part 2
+- Verschlimmbesserung: The Word Your 軟體 Updates Need
+- I Built a Free Printable Habit Tracker Because Most Habit Tracking Tools
+- NVIDIA agrees to acquire Hugging Face for $13B
+- Curvature Beziers: Improving on a timeless recipe
+- GLM-5.3 is now open-weight
+- Get up to $175 back for your pre-installed Windows 11 license
+- Monzo Stand-In
+- Does the Sumerian King List Align with Paleoclimate Events?
+- Attimet (YC F24) Is 招聘 Members of Technical Staff – Engineering and Research
+- Manifesto – who we are and what do we want (2002)
+- Inception-style curved map for turn-by-turn directions
+- Visual Analysis of Binary Files
 - Experiments with Plotter Art
 - Our decision on Cursor following its acquisition by SpaceX
-- Curvature Beziers: Improving on a timeless recipe
-- Does the Sumerian King List Align with Paleoclimate Events?
-- Judge rules Trump administration’s blacklisting of Anthropic was illegal
-- Verschlimmbesserung: The Word Your 軟體 Updates Need
-- GLM-5.3 is now open-weight
-- Visual Analysis of Binary Files
-- Debian and the Sirens
-- Inception-style curved map for turn-by-turn directions
-- Meta Project OT plan to replace employees with AI agents
-- Google translate is a better writer than me
-- Queen Caroline turned King Arthur into an 18C royal PR strategy
-- Run Qwen3.8 27B locally: real numbers from my Mac Studio
-- NVIDIA agrees to acquire Hugging Face for $13B
-- Attimet (YC F24) Is 招聘 Members of Technical Staff – Engineering and Research
-- State of the Map 2026
 - Doctors are finally learning to manage antidepressant withdrawal
+- Defrag98: Windows 98 Disk Defragmenter Simulator Online
+- Run Qwen3.8 27B locally: real numbers from my Mac Studio
+- GrapheneOS project: pixel 11 no longer supports 硬體 memory tagging (MTE)
+- State of the Map 2026
+- U.S. sanctions against the A/I Collective
+- The Wandering Yamamura Theater Troupe
+- Just the rumour of a bug is enough to find an exploit these days
 - Autonomous Mathematical Discovery in an Open-World Multi-代理 Environment
 - Smaller reactors bring nuclear power closer to fulfilling its promise
-- U.S. sanctions against the A/I Collective
-- Redesigning the 推論 Chip: From NVIDIA GPU's Flaws to OpenAI Jalapeño
-- Show HN: Flint – A minimal C/C++ package 經理 and 構建 tool written in C
-- GLM-5.3-Flash-GGUF
-- Zod v4.5 adds schema compilation (3-9x faster validation)
-- Animal Size Comparison
-- Debian votes to allow "responsible use of generative AI"
-- 9th Circuit sides with states in Kalshi gambling fight
+- Debian and the Sirens
+- Google translate is a better writer than me
+- What we want is a hunter gatherer lifestyle with space age tools (2022)
 - Interactive Warhammer 40k Galaxy Map
-- Marked Share – Markdown Publishing
+- You have to beat the models at something
+- Queen Caroline turned King Arthur into an 18C royal PR strategy
+- Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+- 9th Circuit sides with states in Kalshi gambling fight
 - Get your Windows license refund
 - HTTPX2 – A next-generation HTTP client for Python
-- Vim's UserGettingBored Autocmd
-- Debugging my 新 網絡, when 10 Gigabit Ethernet Runs at 300 Megabits
-- Global demand for sand spawned a worldwide boom in illegal mining (2015)
-- 為什麼 Everybody Hates Palantir
-- Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
-- Luanti removed from Google Play due to baseless AI copyright notice
-- The internet is kind of a predatory cesspit now
-- Laurie Anderson's manuscript to be locked away for 88 years in Future Library
-- Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting
-- Parsing the Infamous Japanese Postal CSV
-- Some conservationists are helping to restore Africa’s wild dog populations
-- An investigation into the state of corvid–human relations
-- China is fueling America's data center rage
-- “It works better in the app”
-- Show HN: SubSmith – Turn your own videos into language-learning material
-- Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?
-- Small Models Have Arrived
-- Sloc Cloc and 代碼 4.0 (scc) – Finding the files that need the most attention
-- Bhartrhari's Paradox
 
 
 ---
