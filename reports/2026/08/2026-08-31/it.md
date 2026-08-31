@@ -4,202 +4,212 @@
 
 ---
 
-### 1. [OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
+### 1. [Google Has Removed MV2 Extensions from the Chrome 網頁 Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
 
-- ⭐ 141 分｜💬 38 留言｜👤 metrofun
+- ⭐ 139 分｜💬 100 留言｜👤 twapi
 
-### 2. [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+### 2. [I turned my 安全 cameras into an automatic bird identification 系統](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
 
-- ⭐ 890 分｜💬 235 留言｜👤 zdw
+- ⭐ 301 分｜💬 82 留言｜👤 speckx
 
-### 3. [Breaking Claude 代碼 Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/)
+### 3. [Playa Phone](https://playaphone.com/)
 
-- ⭐ 124 分｜💬 34 留言｜👤 Recursing
+- ⭐ 427 分｜💬 164 留言｜👤 cutoff
 
-### 4. [代理 Memory as a File Format](https://calpaterson.com/memoryfields.html)
+### 4. [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
 
-- ⭐ 11 分｜💬 0 留言｜👤 ingve
+ASCII City: Traffic and Detail 更新 - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=DSRooHo_HSIASCII City 更新: Interiors, Elevation and Skyscrapers - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch
 
-### 5. [I Think the Military Commissary's Freezers Were Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
+- ⭐ 145 分｜💬 26 留言｜👤 keithcarolus
 
-- ⭐ 24 分｜💬 13 留言｜👤 jcurbo
+### 5. [Show HN: Laser Graffiti](https://laser.consti.de)
 
-### 6. [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+- ⭐ 89 分｜💬 21 留言｜👤 con
 
-- ⭐ 154 分｜💬 64 留言｜👤 dbalatero
+### 6. [Smartphone LED detects hidden cameras with AI](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/)
 
-### 7. [My hobby of building miniatures and taking pretty pictures](https://sandyuraz.com/blogs/tiny-cafe/)
+- ⭐ 101 分｜💬 31 留言｜👤 geox
 
-- ⭐ 190 分｜💬 28 留言｜👤 thecsw
+### 7. [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE)
 
-### 8. [uv: Deduplicate all files in the wheel cache](https://github.com/astral-sh/uv/pull/21327)
+- ⭐ 105 分｜💬 13 留言｜👤 matthewsinclair
 
-- ⭐ 74 分｜💬 16 留言｜👤 tosh
+### 8. [Autonomous (YC F25) Is 招聘 Engineers](https://news.ycombinator.com/item?id=49514781)
 
-### 9. [What I Learned About AI Trust from Reconciling over 100B Transactions](https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling)
+ATG (Autonomous Technologies Group) is an AI lab deploying frontier reasoning systems within financial markets. Autonomous (https:&#x2F;&#x2F;becomeautonomous.com) is an agentic wealth strategist buil
 
-- ⭐ 4 分｜💬 2 留言｜👤 Cellz
+- ⭐ 1 分｜💬 0 留言｜👤 dkobran
 
-### 10. [A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)
+### 9. [Dwarf Fortress is getting the mother of all magic updates](https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe)
 
-- ⭐ 43 分｜💬 5 留言｜👤 theanonymousone
+- ⭐ 230 分｜💬 91 留言｜👤 Tomte
 
-### 11. [A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
+### 10. ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html)
 
-- ⭐ 198 分｜💬 36 留言｜👤 WithinReason
+- ⭐ 57 分｜💬 42 留言｜👤 samizdis
 
-### 12. [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox)
+### 11. [Tmp.0ut, Vol. 5](https://tmpout.sh/5/)
 
-- ⭐ 141 分｜💬 42 留言｜👤 BirAdam
+- ⭐ 106 分｜💬 5 留言｜👤 kmstout
 
-### 13. [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
+### 12. [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
 
-- ⭐ 219 分｜💬 110 留言｜👤 gmays
+- ⭐ 235 分｜💬 264 留言｜👤 thm
 
-### 14. [Using floci to emulate 雲端 platforms (GCP, AWS, Azure)](https://flowg.cloud/blog/using-floci-local-emulators)
+### 13. [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
 
-- ⭐ 7 分｜💬 0 留言｜👤 linkdd
+- ⭐ 160 分｜💬 49 留言｜👤 ijidak
 
-### 15. [The AI-Native SDLC Starts with Your Infrastructure](https://metalbear.com/blog/ai-native-sdlc-infrastructure/)
+### 14. [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
 
-- ⭐ 4 分｜💬 0 留言｜👤 aviramha
+- ⭐ 134 分｜💬 91 留言｜👤 Bluestein
 
-### 16. [Haiku R1/beta6 has been 發布](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
+### 15. [I think the military commissary's freezers were hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
 
-- ⭐ 340 分｜💬 95 留言｜👤 metrofun
+- ⭐ 197 分｜💬 115 留言｜👤 jcurbo
 
-### 17. [What 2000 Buried Underpants Revealed About Where Soil Is Most Alive](https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/)
+### 16. [Claude × retrocomputing: emulating a QIC-117 tape drive](https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive)
 
-- ⭐ 41 分｜💬 7 留言｜👤 mdp2021
+- ⭐ 6 分｜💬 1 留言｜👤 zdw
 
-### 18. [如何 構建 a diffusion language 模型](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)
+### 17. [How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
 
-- ⭐ 117 分｜💬 13 留言｜👤 volodia
+- ⭐ 7 分｜💬 0 留言｜👤 __vivek
 
-### 19. [Highlighting My 代碼 Based on How Much I Care](https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/)
+### 18. [Reverse engineering my ADHD 測試](https://nullpt.rs/reverse-engineering-adhd-test)
 
-- ⭐ 83 分｜💬 45 留言｜👤 hankbond
+- ⭐ 99 分｜💬 25 留言｜👤 hazebooth
 
-### 20. [Malleable 軟體 = solid bases and custom 代碼](https://www.mdubakov.me/malleable-software-solid-bases-custom-code/)
+### 19. [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
 
-- ⭐ 4 分｜💬 0 留言｜👤 tablet
+Hi HN, I&#x27;m Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it mu
 
-### 21. [Study: Blue light impairs the eye's ability to distinguish fine detail most](https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/)
+- ⭐ 35 分｜💬 37 留言｜👤 kushagrchitkar
 
-- ⭐ 9 分｜💬 9 留言｜👤 giuliomagnifico
+### 20. [Internet centralization and the original sin of NAT](https://dreamstation.systems/personal/ntppost.html)
 
-### 22. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- ⭐ 150 分｜💬 109 留言｜👤 robinpie
 
-- ⭐ 1232 分｜💬 618 留言｜👤 zdw
+### 21. [Since it was stripped of planetary status, Pluto’s defenders have been fighting](https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake)
 
-### 23. [Show HN: NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/)
+- ⭐ 34 分｜💬 93 留言｜👤 ziofill
 
-- ⭐ 186 分｜💬 20 留言｜👤 WilsonHarper
+### 22. [The safest 工作 from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
 
-### 24. [Show HN: Floe – an open-source plugin for sample libraries – CLAP/VST3/AU](https://floe.audio/)
+- ⭐ 53 分｜💬 92 留言｜👤 ilreb
 
-I&#x27;m Sam, I make sample libraries (as FrozenPlain). These sample libraries run inside Floe, my audio plugin for Linux, macOS and Windows. It&#x27;s designed for musicians, composers and producers 
+### 23. [Launch HN: Hebbian Robotics (YC S26) – 構建 scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow)
 
-- ⭐ 4 分｜💬 0 留言｜👤 windell
+Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow (https:&#x2F;&#x2F;github.com&#x2F;Hebbian-Robotics&#x2F;hflow), an SDK that turns multimodal recordings from robots
 
-### 25. [Formalization of the Solution to the Hopf Problem](https://github.com/plby/HopfProblem)
+- ⭐ 33 分｜💬 10 留言｜👤 kstonekuan
 
-- ⭐ 13 分｜💬 7 留言｜👤 robinhouston
+### 24. [Euphemisation of Taboo Areas [pdf]](https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf)
 
-### 26. [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)
+- ⭐ 26 分｜💬 0 留言｜👤 Eridanus2
 
-- ⭐ 116 分｜💬 19 留言｜👤 pwg
+### 25. [Show HN: We built the smallest dual-band aircraft tracker](https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/)
 
-### 27. [It takes 5 雲端 services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/)
+We&#x27;ve been building 開源 embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a 新 chip from Semtech. Ask me anything about ADSB o
 
-- ⭐ 194 分｜💬 176 留言｜👤 vghaisas
+- ⭐ 63 分｜💬 20 留言｜👤 CoolNamesAllTkn
 
-### 28. [Artie (YC S23) Is 招聘 Technical AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
+### 26. [Dimethyl Mercury Exposure Incident at MIT](https://twitter.com/andrew_n_carr/status/2093524390390694232)
 
-- ⭐ 1 分｜💬 0 留言｜👤 j-cheong
+https:&#x2F;&#x2F;whdh.com&#x2F;news&#x2F;first-on-7-patient-brought-to-mgh-for-...https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;mit&#x2F;comments&#x2F;1w12gb9&#x2F;dimethyl_mercu...
 
-### 29. [The startling 1960s theory that Stonehenge was a prehistoric computer](https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer)
+- ⭐ 95 分｜💬 61 留言｜👤 notRobot
 
-- ⭐ 5 分｜💬 0 留言｜👤 dabinat
+### 27. ['Stunning' percolation proof solves decades-old puzzle about phase transitions](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
 
-### 30. [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+- ⭐ 42 分｜💬 13 留言｜👤 tzury
 
-- ⭐ 330 分｜💬 245 留言｜👤 greenlightning
+### 28. [No country for mediocre mathematicians](https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians)
+
+- ⭐ 103 分｜💬 63 留言｜👤 reasonableklout
+
+### 29. [OpenShot 4.0 – Open-source video editor](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
+
+- ⭐ 503 分｜💬 115 留言｜👤 metrofun
+
+### 30. [Breaking Claude 代碼 Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/)
+
+- ⭐ 327 分｜💬 110 留言｜👤 Recursing
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Sort branches by last commit date
-- 為什麼 開源 rocks – a 新 SM750 (Silicon Motion GPU) HDMI Driver
-- Relm4 makes developing beautiful cross-platform applications idiomatic
-- Continuous Diffusion Language Models (CDLM's)
-- OpenClaw 2.0, Accidentally
-- Coordination Headwind: How Organizations Are Like Slime Molds
-- ReactOS 0.4.16
-- Libertix installs Linux with 3 mouse clicks for Windows users
-- Early 2000s were peak of humanity
-- Dad’s Custom Atari Peripherals
-- Arbitrary 代碼 execution in QubesOS via copy-to-VM error reporting backchannel
-- Zig: Pointer Stability for ArrayLists
-- Longest Straight Line Paths on Water or Land on the Earth (2018)
-- DeepSeek-V4-Flash-Vision-Exp
+- Accidental Aesthetics and Romance of Power Wires
+- C++26: Standard Library Hardening Experiments
+- Show HN: Markdown Viewer and Editor
+- Konrad Zuse Museum shutting down due to lack of funding
+- DNS abuse and criminal infrastructure
+- Kids These Days
+- 代理 memory as a file format
+- uv: Deduplicate all files in the wheel cache
+- Damn fine tiny cafe
+- Malleable 軟體 = solid bases and custom 代碼
+- Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme
+- Show HN: SlideOps – slides from a repo that flag when they drift from the 代碼
+- Separating logic and language
+- 為什麼 are rivers so mathematical?
+- I attended the State of the Map conference
+- Show HN: FnScribe – Open-source, offline dictation for macOS
+- Study: Blue light impairs the eye's ability to distinguish fine detail most
+- Infrastructure as Raclette
+- “I just chose words carefully”
+- I built a forgetting curve for an 代理 with one user
 - Transfer files over an Ethernet patch cable
-- SK Hynix CEO sees memory chip shortage lasting until 2030
-- Racter (1984)
-- Lean Explained with TypeScript
+- Navigation app for people with blindness and low vision
+- Google Maps Now Shows 'Lake America' in US, Not 'Lake Ontario'
+- Show HN: Floe – an open-source plugin for sample libraries – CLAP/VST3/AU
+- The art of CHIP-8
+- P99 0 ms* autocomplete for 240M domain names
+- Show HN: An HN client that summarises long threads and lets you chat with them
+- The Snow/Leavis ‘two cultures’ clash
+- The broadcast squeezeback, rebuilt with CSS Grid and WebVTT
+- 如何 構建 a diffusion language 模型
+- Notes on Private Trackers
+- Matrox: Graphics for Professionals
+- Tim Cook's Last Day as CEO of Apple
+- Creepy Crawlies
+- A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history
+- Cheap GPS jammers are filling the world with navigation dead zones
+- LeanDB a strongly Typed SQL front end
+- 1960s theory that Stonehenge was a prehistoric computer
+- Understanding ChatGPT Work
+- Hit anything. Discover how it rings
+- Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP
+- Dropbox Got Hacked
+- What 2000 Buried Underpants Revealed About Where Soil Is Most Alive
+- Using floci to emulate 雲端 platforms (GCP, AWS, Azure)
+- Dropbox Data Breach
+- A CVE Dispute
+- You probably own this 7-Eleven (and that's 為什麼 it looks so sad)
+- ReactOS 0.4.16
+- A milestone in expanding access to AI
+- All CERN accelerators now on the road to HiLumi
+- Continuous Diffusion Language Models (CDLM's)
+- Relm4 makes developing beautiful cross-platform applications idiomatic
+- Undocumented Atari Slapstic side-channel in a Marble Madness reimplementation
+- Interviewing IBM's Christian Zoellin and Christian Jacobi
+- Libertix installs Linux with 3 mouse clicks for Windows users
+- Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude
+- When Japan Tried to Create 人工智慧 in the 1980s
+- Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs
+- Apple used to be weirder and maybe more fun
+- Zig: Pointer Stability for ArrayLists
+- Formalization of the Solution to the Hopf Problem
+- Haiku R1/beta6 has been 發布
+- How much of a problem is AI's water use?
+- Highlighting My 代碼 Based on How Much I Care
 - Unlimited Codex, Inside ChatGPT
-- Electric rain can eat through metal
-- Claude 代碼 reduces it's weekly limit by 17% – compared to today
-- Automating Immersive Reading
-- European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy
-- Free Image Upscale
-- Local AI Is Dead. You Are at the Funeral
-- Fifty Shades of Klinker: The Bricks That Shaped Hamburg
-- The Rise and Fall of 代理 Civilizations
-- California lawmakers unanimously pass Linux exemption from age-verification law
-- Leica Freedom Train
-- Europe's summer drought is so extreme that desertification is a growing threat
-- An implementation of Conway's Game of Life for Windows 3.1x and later
-- Synchronisation and SMPTE timecode (time 代碼)
-- Startup Anti-Patterns
-- Berlin is being blackmailed by hackers
-- METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack
-- FreeCORE TrueNAS Core – Continued
-- JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps
-- When fruit is scarce, these monkeys hunt animals
-- What my dad taught me about AI coding in the 90s
-- Commercially Available Bike Generators Are Not Sustainable (2011)
-- The Einstein-Szilard Refrigerator (2020)
-- Quest for the Eternal Dock – Lambdock
-- How would you know whether an ancient culture had zero?
-- Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]
-- Orbs
-- Are We Sixel Yet?
-- What We Tell AI
-- RISC-V is now officially supported by CPython
-- Email Reactions
-- Domestic cats kill 1.3–4.0B birds and 6.3–22.3B mammals annually
-- Harvard Professor on 為什麼 You Should Learn C in 2026 [video]
-- Congratulations on Your Ten Milliseconds
-- Bug Blindness
-- Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter
-- One Nix flake to rule them all
-- After a rough stretch, mRNA gets a boost from cancer vaccines
-- Claude Session URL appended to commit messages and PR descriptions by default
-- Pentagon installs military influencers in civilian roles
-- Hy4 preview
-- Functional State Machines in Rust: Typestate and Newtype Patterns
-- Adding a directional cost bias to a TSP heuristic reveals better local optima
-- Meta 安全 Researcher's AI 代理 Accidentally Deleted Her Emails
-- monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter
-- Benchmarking Pocket-Scale 推論
-- Internet centralization and the original sin of NAT
-- Russian strikes destroy 12M books ahead of Ukraine's first week back at school
-- SolarWindow 推出 0.85 mm-thick, self-adhesive solar film
-- Xcena and Samsung's Near Memory Compute CXL Device
-- Lambs grazing under an Oregon solar farm put on the same weight to the gram
-- Creating Teensy ELF Executables for Linux (Or, "Size Is Everything") (1999)
+- Apple's Phil Schiller Scales Back Role as John Ternus Era Begins
+- SpaceX designed an orbital Vera Rubin. Radiation comes next
+- Kalshi bans ex-Congressman for life concluding he likely was insider trading
+- OpenClaw 2.0, Accidentally
+- My experience has nuance, yours is a data point
 
 
 ---
