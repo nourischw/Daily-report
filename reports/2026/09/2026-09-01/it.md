@@ -4,207 +4,221 @@
 
 ---
 
-### 1. [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+### 1. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 
-- ⭐ 524 分｜💬 143 留言｜👤 hexa555
+What&#x27;s 新 in Claude Fable 5.1
+ – https:&#x2F;&#x2F;platform.Claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...系統 Card: https:&#x2F;&#x2F;www-cdn.Anthropic.com&#x2F;0339e
 
-### 2. [Ask HN: Who is 招聘? (September 2026)](https://news.ycombinator.com/item?id=49522897)
+- ⭐ 565 分｜💬 522 留言｜👤 denysvitali
+
+### 2. [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)
+
+- ⭐ 388 分｜💬 154 留言｜👤 erikvanoosten
+
+### 3. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+
+- ⭐ 113 分｜💬 75 留言｜👤 jatins
+
+### 4. [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
+
+Hey HN, I’m Antonio from Nori Robotics (https:&#x2F;&#x2F;norirobotics.com). We 構建 a $1,688 bimanual 行動 robot in San Francisco for robotics developers and researchers.I started working on Nori 
+
+- ⭐ 72 分｜💬 21 留言｜👤 AntonioLi
+
+### 5. [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+
+- ⭐ 743 分｜💬 211 留言｜👤 hexa555
+
+### 6. [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)
+
+I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter 模型 that would need 100GB+ memory&#x2F;RAM, thanks to expert-offloading&#x2F;ssd-st
+
+- ⭐ 89 分｜💬 62 留言｜👤 carloslfu
+
+### 7. [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/)
+
+- ⭐ 136 分｜💬 53 留言｜👤 kikkupico
+
+### 8. [Ask HN: Who is 招聘? (September 2026)](https://news.ycombinator.com/item?id=49522897)
 
 Please state the location and include 遠端 for 遠端 work, 遠端 (US)
 or similar if the country is restricted, and ONSITE when 遠端 work is not an option.Please only post if you personally are p
 
-- ⭐ 36 分｜💬 28 留言｜👤 whoishiring
+- ⭐ 150 分｜💬 157 留言｜👤 whoishiring
 
-### 3. [Io_uring Without Readahead](https://frn.sh/io-uring/)
+### 9. [Movie Scene Map – 13,312 films, series, games, anime and manga](https://moviescenemap.com/)
 
-- ⭐ 53 分｜💬 3 留言｜👤 porridgeraisin
+- ⭐ 82 分｜💬 21 留言｜👤 Flightmussy
 
-### 4. [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
+### 10. [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/)
 
-- ⭐ 242 分｜💬 69 留言｜👤 porridgeraisin
+- ⭐ 450 分｜💬 133 留言｜👤 porridgeraisin
 
-### 5. [American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year 職業](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/)
+### 11. [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
 
-- ⭐ 247 分｜💬 98 留言｜👤 NaOH
+- ⭐ 7 分｜💬 3 留言｜👤 jwise0
 
-### 6. [Fastpotify](https://fastpotify.rocks/)
+### 12. [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)
 
-- ⭐ 664 分｜💬 424 留言｜👤 nreece
+- ⭐ 115 分｜💬 96 留言｜👤 steveklabnik
 
-### 7. [Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10](https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/)
+### 13. [Quill (YC W20) Is 招聘 a Fullstack SWE](https://news.ycombinator.com/item?id=49524704)
 
-- ⭐ 44 分｜💬 26 留言｜👤 haunter
+Quill | Fullstack SWE | Full-time | 遠端, PT&#x2F;ET hours preferred | $150 - 210K USD + equity | https:&#x2F;&#x2F;quill.co&#x2F;I’m a co-founder of Quill, a fullstack SDK for adding customer-facin
 
-### 8. [EFF to Governor Newsom: Veto California's AB 1709](https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709)
+- ⭐ 1 分｜💬 0 留言｜👤 R_R
 
-- ⭐ 41 分｜💬 24 留言｜👤 mdp2021
+### 14. [Ask HN: Who wants to be hired? (September 2026)](https://news.ycombinator.com/item?id=49522896)
 
-### 9. [A browser-based viewer for Office Open XML documents](https://ooxml.silurus.dev/)
+Share your information if you are looking for work. Please use this format:  Location:
+  遠端:
+  Willing to relocate:
+  Technologies:
+  Résumé&#x2F;CV:
+  Email:
 
-- ⭐ 3 分｜💬 0 留言｜👤 mathiaswp
+Please only post if you are personal
 
-### 10. [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
+- ⭐ 39 分｜💬 167 留言｜👤 whoishiring
 
-- ⭐ 48 分｜💬 22 留言｜👤 rbanffy
+### 15. [Magic eye tube](https://en.wikipedia.org/wiki/Magic_eye_tube)
 
-### 11. [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
+- ⭐ 33 分｜💬 13 留言｜👤 peter_d_sherman
 
-- ⭐ 62 分｜💬 23 留言｜👤 HieronymusBosch
+### 16. [How bicycle coaster brakes work (2018)](https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html)
 
-### 12. [We Are Rebuilding Monica](https://www.monicahq.com/en/blog/we-are-rebuilding-monica/)
+- ⭐ 16 分｜💬 15 留言｜👤 Vedor
 
-- ⭐ 20 分｜💬 8 留言｜👤 robinhood
+### 17. [American Airlines mechanic Azriel “Al” Blackman has died](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/)
 
-### 13. [Urban Congestion Pricing and the Response Times of Emergency Medical Services](https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services)
+- ⭐ 344 分｜💬 142 留言｜👤 NaOH
 
-- ⭐ 39 分｜💬 43 留言｜👤 ceejayoz
+### 18. [Io_uring Without Readahead](https://frn.sh/io-uring/)
 
-### 14. [Fractal Jittered Voronoi Partitions](https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/)
+- ⭐ 94 分｜💬 28 留言｜👤 porridgeraisin
 
-- ⭐ 41 分｜💬 3 留言｜👤 jp3141
+### 19. [Atlas: A World 模型 for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)
 
-### 15. [Tmp.0ut Volume 5](https://tmpout.sh/5/)
+- ⭐ 69 分｜💬 6 留言｜👤 johnsutor
 
-- ⭐ 155 分｜💬 33 留言｜👤 ghuntley
+### 20. [Fastpotify](https://fastpotify.rocks/)
 
-### 16. [Restroom Archive](https://restroomarchive.com)
+- ⭐ 776 分｜💬 503 留言｜👤 nreece
 
-- ⭐ 266 分｜💬 60 留言｜👤 jcalx
+### 21. [There Is No AI](https://wadler.blogspot.com/2026/08/there-is-no-ai.html)
 
-### 17. [GPU World](https://www.gpuworld.org/)
+- ⭐ 15 分｜💬 0 留言｜👤 speckx
 
-- ⭐ 341 分｜💬 205 留言｜👤 simonpure
+### 22. [Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation](https://ucsfhealthcardiology.ucsf.edu/facstaff/spotlight/dr-melvin-scheinman-40th-anniversary-catheter-ablation)
 
-### 18. [Playa Phone](https://playaphone.com/)
+- ⭐ 52 分｜💬 12 留言｜👤 efavdb
 
-- ⭐ 704 分｜💬 221 留言｜👤 cutoff
+### 23. [Specifications Don't Exist](https://www.galois.com/articles/specifications-dont-exist)
 
-### 19. [I turned my 安全 cameras into an automatic bird identification 系統](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- ⭐ 4 分｜💬 0 留言｜👤 surprisetalk
 
-- ⭐ 572 分｜💬 151 留言｜👤 speckx
+### 24. [Physically Immutable Optical Archive Libraries](https://savartus.com/solutions/enterprise-laser-storage/)
 
-### 20. [CollectWise (YC F24) Is 招聘](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
+- ⭐ 27 分｜💬 11 留言｜👤 thunderbong
 
-- ⭐ 1 分｜💬 0 留言｜👤 OBrien_1107
+### 25. [We are rebuilding Monica](https://www.monicahq.com/en/blog/we-are-rebuilding-monica/)
 
-### 21. [A Genealogy of Freudenthal's Lincos](https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/)
+- ⭐ 87 分｜💬 57 留言｜👤 robinhood
 
-- ⭐ 3 分｜💬 0 留言｜👤 akkartik
+### 26. [Dwarf Fortress' creator says the industry's in shambles over AI](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
 
-### 22. [DIY – 構建 a Potato Box (2022)](https://www.rebootedmom.com/build-a-potato-box/)
+- ⭐ 150 分｜💬 130 留言｜👤 Limb
 
-- ⭐ 27 分｜💬 6 留言｜👤 akkartik
+### 27. [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
 
-### 23. [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE)
+- ⭐ 206 分｜💬 81 留言｜👤 HieronymusBosch
 
-- ⭐ 543 分｜💬 72 留言｜👤 matthewsinclair
+### 28. [Restroom Archive](https://restroomarchive.com)
 
-### 24. [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
+- ⭐ 348 分｜💬 80 留言｜👤 jcalx
 
-- ⭐ 129 分｜💬 35 留言｜👤 jombib
+### 29. [Keenable SELECT: an 代理 that searches the 網頁 in SQL](https://keenableai.github.io/select-showcase/)
 
-### 25. [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+- ⭐ 45 分｜💬 12 留言｜👤 phoenix120
 
-ASCII City: Traffic and Detail 更新 - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=DSRooHo_HSIASCII City 更新: Interiors, Elevation and Skyscrapers - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch
+### 30. [A browser-based viewer for Office Open XML documents](https://ooxml.silurus.dev/)
 
-- ⭐ 374 分｜💬 55 留言｜👤 keithcarolus
-
-### 26. [Dwarf Fortress is getting the mother of all magic updates](https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe)
-
-- ⭐ 478 分｜💬 217 留言｜👤 Tomte
-
-### 27. [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
-
-- ⭐ 472 分｜💬 545 留言｜👤 thm
-
-### 28. [Cheap GPS jammers are filling the world with navigation dead zones](https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261)
-
-https:&#x2F;&#x2F;archive.is&#x2F;zUA3D
-
-- ⭐ 194 分｜💬 201 留言｜👤 vinnyglennon
-
-### 29. [Show HN: Laser Graffiti](https://laser.consti.de)
-
-- ⭐ 238 分｜💬 51 留言｜👤 con
-
-### 30. [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)
-
-- ⭐ 13 分｜💬 0 留言｜👤 gmays
+- ⭐ 46 分｜💬 12 留言｜👤 mathiaswp
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Smartphone LED detects hidden cameras with AI
+- What's the Scam?
+- Tmp.0ut Volume 5
+- Playa Phone
+- I turned my 安全 cameras into an automatic bird identification 系統
+- Faiss vs. Turbovec vs. Infino: Comparing 4-bit vector quantization
+- Terence Tao explains 6 essential mathematical concepts [video]
+- Fractal Jittered Voronoi Partitions
+- Has early Scratch experience led to fulfilling careers?
+- The EU's repair policies are changing the way tech is designed
+- Dwarf Fortress is getting the mother of all magic updates
+- James Dyson Sold Us on a $400 Hair Dryer. Now He's Trying a $499 Toothbrush
+- A walkable ASCII cyberpunk city in one HTML file [video]
+- Apple caught off guard by AI demand for Mac Mini and Mac Studio
+- RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3
+- Cheap GPS jammers are filling the world with navigation dead zones
+- GPU World
+- Show HN: Laser Graffiti
+- Morning cancer treatment could boost chances of survival
+- 17-year-old wins $250k after algorithm solves decades-old geometry puzzle
+- DIY – 構建 a Potato Box (2022)
 - Reverse engineering my ADHD 測試
-- Evidence of Fraud in an Influential Study About Procrastination
-- Borges Labyrinth in Venice reopens to the public
-- Roget's Thesaurus
+- Smartphone LED detects hidden cameras with AI
+- Thanks to Lake Ontario, MapQuest is popular all over again
 - RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
-- Codes – typed 應用 outcomes for Kotlin and Java
-- Flat vs. segmented memory – it's recursive
-- Polishing Cloth Updated
+- Borges Labyrinth in Venice reopens to the public
 - ChatGPT Work Tool and Skill Reference
-- GrapheneOS may skip Pixel 11 over missing 硬體 安全 feature
-- Lion-man
-- EFF to Courts: Don't Rewrite Copyright over AI Hype
-- No country for mediocre mathematicians
+- Cascading pipelines with DSPy are kind of good
+- Flat vs. segmented memory – it's recursive
+- Evidence of Fraud in an Influential Study About Procrastination
+- NASA's Perseverance Rover Captures Mars Vista as Clear as Day
+- A Genealogy of Freudenthal's Lincos
 - Breaking Claude 代碼 Opus 5 Auto Mode
-- The asteroid currently hitting front end 網頁 development
-- Run macOS 軟體 on Linux
+- No country for mediocre mathematicians
+- Roget's Thesaurus
+- Codes – typed 應用 outcomes for Kotlin and Java
+- State of Open Models: Summer 2026 Observations
 - Damn fine tiny cafe
+- Lion-man
+- Vivaldi for Android now supports some Chrome extensions
+- OpenShot 4.0 – Open-source video editor
+- uv: Deduplicate all files in the wheel cache
+- Scientists Hunting Dark Matter Found Something Strange
+- Run macOS 軟體 on Linux
+- “I just chose words carefully”
+- 'Mad honey' that can stop your heart is being sold online
+- Launch HN: Almanac (YC S26) – AI that knows your company
+- The asteroid currently hitting front end 網頁 development
+- Transfer files over an Ethernet patch cable
+- Saab has unveiled its A3 collaborative combat aircraft concept
+- Show HN: We built the smallest dual-band aircraft tracker
 - 2004 RuneScape fit a multiplayer RPG into 56k dial-up
 - Interactive pattern discovery in binaries (FF-16-TUI)
-- OpenShot 4.0 – Open-source video editor
-- 'Mad honey' that can stop your heart is being sold online
-- When Russia Colonised California
-- uv: Deduplicate all files in the wheel cache
 - Not Becoming a Cyborg
-- Launch HN: Almanac (YC S26) – AI that knows your company
-- “I just chose words carefully”
-- NASA: Fill in a name, and you can have an exclusive coordinate in the universe
-- Google Maps renames "Lake Ontario" to "Lake America" faster than US Government
-- Show HN: We built the smallest dual-band aircraft tracker
+- Polishing Cloth Updated
+- 模型 Arena: Qwen3-ASR vs. faster-whisper in real time (the WER is not enough)
+- GrapheneOS may skip Pixel 11 over missing 硬體 安全 feature
 - Launch HN: Hebbian Robotics (YC S26) – 構建 scalable robotics data pipelines
-- Transfer files over an Ethernet patch cable
 - I think the military commissary's freezers were hacked
-- Mklinux Multikernel: Run several Linux kernels at once, bare metal, no VT-x
-- Visualizing Combos in Judo in R
-- TimesFM-3: A zero-shot foundation 模型 for multivariate forecasting
+- A thousand years older than Stonehenge: Archaeologists explore a Czech sanctuary
 - Dimethyl Mercury Exposure Incident at MIT
 - 代理 memory as a file format
-- Global Trade and the United States Navy
-- Since it was stripped of planetary status, Pluto’s defenders have been fighting
-- Develop Cross-Platform CLI and GUI Tools with Tcl/Tk
-- The safest 工作 from AI may be writing
-- DNS abuse and criminal infrastructure
 - Creepy Crawlies
+- John Ternus Replaces Tim Cook as Apple CEO
+- GCP us-central1 having major issues
 - Malleable 軟體 = solid bases and custom 代碼
-- AI Can Make You Suck Faster Too
-- Delulu Is the Solulu
-- 'Stunning' percolation proof solves decades-old puzzle about phase transitions
-- Internet centralization and the original sin of NAT
-- Google Has Removed MV2 Extensions from the Chrome 網頁 Store, Including UBO
+- 如何 get a free .arpa domain
 - 如何 構建 a diffusion language 模型
 - Matrox: Graphics for Professionals
-- Study: Blue light impairs the eye's ability to distinguish fine detail most
-- Accidental Aesthetics and Romance of Power Wires
-- Google Antigravity 引進 Boost deep reasoning (/boost)
-- Vermell – Minimal, dependency-free C++ 網頁 framework using epoll
-- P99 0 ms* autocomplete for 240M domain names
-- DoltLite: A SQLite fork with Git-style version control, built with 2k 代理 PRs
-- C++26: Standard Library Hardening Experiments
-- A Cyanometer and a 雲端 Colourimeter
-- I attended the State of the Map conference
-- Euphemisation of Taboo Areas (2023) [pdf]
-- Wendell Berry, Kentucky-born author who advocated a simpler life, has died at 92
-- 如何 get a free .arpa domain
-- 為什麼 are rivers so mathematical?
-- Firefox 155.0
-- How we configured OpenTelemetry logs in Rails
-- Claude × retrocomputing: emulating a QIC-117 tape drive
-- Separating logic and language
-- The art of CHIP-8
+- DNS abuse and criminal infrastructure
+- Visualizing Combos in Judo in R
 
 
 ---
