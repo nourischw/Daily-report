@@ -16,7 +16,7 @@ Anthropic調整AI程式開發工具Claude 代碼的每周用量上限，9月14�
 
 - 📰 **iThome 科技**
 
-### 3. [FSB警告AI可能會破壞全球金融穩��](https://www.ithome.com.tw/news/178584)
+### 3. [FSB警告AI可能會破壞全球金融穩定](https://www.ithome.com.tw/news/178584)
 
 負責制定國際金融監理標準的金融穩定委員會（Financial Stability Board，FSB）主席Andrew Bailey周一（8/31）警告，指出隨著具備高自主性的「前沿AI模型」崛起，結合市場日益高漲的槓桿，正讓全球金融體系的風險版圖更趨複雜，恐衝擊市場信心與金融穩定。
 
@@ -45,7 +45,7 @@ OpenAI周一（8/31）宣布，旗下廣告業務ChatGPT Ads上線約200天以�
 
 ### 7. [繼Gemini後，OpenAI ChatGPT與Grok進駐美軍AI平臺GenAI.mil](https://www.ithome.com.tw/news/178576)
 
-美國戰爭部（Department of War���DoW）周一（8/31）宣布，OpenAI的ChatGPT Mil與Grok for Gover
+美國���爭部（Department of War，DoW）周一（8/31）宣布，OpenAI的ChatGPT Mil與Grok for Gover
 
 - 📰 **iThome 科技**
 
@@ -57,7 +57,7 @@ OpenAI周一（8/31）宣布，旗下廣告業務ChatGPT Ads上線約200天以�
 
 ### 9. [研究人員Nightmare Eclipse公開NVIDIA記憶體中斷漏洞GreenSection](https://www.ithome.com.tw/news/178574)
 
-從今年4月開始多次公布微軟零時差漏洞的資安研究人員Nightmare Eclipse（Chaotic Eclipse），近期開始針對其他廠牌的系統挖掘零時差漏洞，其中包括存在於卡巴斯基、Avast防毒軟體的權限提升漏洞HardBreacher、PrettyPrague，該名研究員本週也揭露存在於NVIDIA元件的零時差漏洞。
+從今年4月開始多次公布微軟零時差漏洞的資���研究人員Nightmare Eclipse（Chaotic Eclipse），近期開始針對其他廠牌的系統挖掘零時差漏洞，其中包括存在於卡巴斯基、Avast防毒軟體的權限提升漏洞HardBreacher、PrettyPrague，該名研究員本週也揭露存在於NVIDIA元件的零時差漏洞。
 
 - 📰 **iThome 科技**
 
@@ -69,7 +69,7 @@ OpenAI周一（8/31）宣布，旗下廣告業務ChatGPT Ads上線約200天以�
 
 ### 11. [FTC攜22州控告Amazon廣告拍賣「暗藏加價」逾7年](https://www.ithome.com.tw/news/178572)
 
-美國聯邦交易委員會（Federal Trade Commission，FTC）本周一（8/31）聯合阿拉斯加、亞利桑那、加州、科羅拉多、佛羅里達、華盛頓州等22州檢察長，向亞馬遜（Amazon）提起訴訟，指控其電商廣告拍賣機制長期暗藏隱形加價，涉及超過100萬名品牌與賣家，認為Amazon可能因此非法多賺逾200億美元。
+美國聯邦交���委員會（Federal Trade Commission，FTC）本周一（8/31）聯合阿拉斯加、亞利桑那、加州、科羅拉多、佛羅里達、華盛頓州等22州檢察長，向亞馬遜（Amazon）提起訴訟，指控其電商廣告拍賣機制長期暗藏隱形加價，涉及超過100萬名品牌與賣家，認為Amazon可能因此非法多賺逾200億美元。
 
 - 📰 **iThome 科技**
 
@@ -87,7 +87,7 @@ OpenAI周一（8/31）宣布，旗下廣告業務ChatGPT Ads上線約200天以�
 
 ### 14. [應對AI漏洞挑戰，FIRST國際資安應變組織擴大漏洞研討會規模](https://www.ithome.com.tw/news/178563)
 
-當AI打破漏洞修補節奏，過往資安團隊尚有餘裕應對的漏洞修補時程，如今正被大幅壓縮，如何在漏洞被發現或遭AI加速利用之前重新調整應對策略，已成為產業界迫切需要解決的課題，最近FIRST國際資安應變組織宣布，將於9月23日至25日召開VulnOptiCON 2026，將原本的Vuln4Cast研討會更名並擴大舉辦，不僅將會期拉長為3日，議程主軸也從原本以漏洞預測技術為核心，擴大納入漏洞追蹤、CVE計畫前景，以及AI如何改變漏洞發現及利用等議題，以涵蓋更廣泛���漏洞生態系統主題。
+當AI打破漏洞修補節奏，過往資安團隊尚有餘裕應對的漏洞修補時程，如今正被大幅壓縮，如何在漏洞被發現或遭AI加速利用之前重新調整應對策略，已成為產業界迫切需要解決的課題，最近FIRST國際資安應變組織宣布，將於9月23日至25日召開VulnOptiCON 2026，將原本的Vuln4Cast研討會更名並擴大舉辦，不僅將會期拉長為3日，議程主軸也從原本以漏洞預測技術為核心，擴大納入漏洞追蹤、CVE計畫前景，以及AI如何改變漏洞發現及利用��議題，以涵蓋更廣泛的漏洞生態系統主題。
 
 - 📰 **iThome 科技**
 
@@ -99,7 +99,7 @@ OpenAI周一（8/31）宣布，旗下廣告業務ChatGPT Ads上線約200天以�
 
 ### 16. [PaperCut零時差漏洞疑似被用於竊取資料](https://www.ithome.com.tw/news/178566)
 
-列印管理系統供應商PaperCut於8月27日警告，有人利用零時差漏洞攻擊PaperCut NG與PaperCut MF用戶，這些弱點後來被登記為CVE-2026-82078、CVE-2026-81578，這段期間有多家資安公司揭露漏洞遭到利用的情形，
+列印管理系統供應商PaperCut於8月27日警告，有人利用零時差漏洞攻擊PaperCut NG與PaperCut MF用戶，這些弱點後來被登記為CVE-2026-82078、CVE-2026-81578，這段期間有多家資安公司揭露漏洞遭到���用的情形，
 
 - 📰 **iThome 科技**
 
@@ -130,7 +130,7 @@ OpenAI周一（8/31）宣布，旗下廣告業務ChatGPT Ads上線約200天以�
 
 ### 21. [Android 17強化網路隱私與2G防護，降低網路追蹤與偽基地臺攻擊風險](https://www.ithome.com.tw/news/178557)
 
-Google公布Android 17新一波網���隱私與連線安全措施，重點防範網路追蹤、App未經授權存取區域網路，以及偽基地臺攻擊等風險。
+Google公布Android 17新一波網路隱私與連線安全措施，重點防範網路追蹤、App未經授權存取區域網路，以及偽基地臺攻擊等風險。
 
 - 📰 **iThome 科技**
 
@@ -142,7 +142,7 @@ Google公布Android 17新一波網���隱私與連線安全措施，重點�
 
 ### 23. [CISA揭近兩年CVE數量翻倍，逾4成已知遭利用漏洞涉及長期軟體弱點](https://www.ithome.com.tw/news/178542)
 
-美國網路安全暨基礎設施安全局（CISA）公布2024至2025會計年度漏洞分析結果。近兩年CVE新增數量快速攀升，���實際遭利用的漏洞仍反覆涉及長年存在的軟體弱點，其中41.5%的已知遭利用漏洞（KEV）涉及MITRE長期追蹤的弱點。
+美國網路安全暨基礎設施安全局（CISA）公布2024至2025會計年度漏洞分析結果。近兩年CVE新增數量快速攀升，但實際遭利用的漏洞仍反覆涉及長年存在的軟體弱點，其中41.5%的已知遭利用漏洞（KEV）涉及MITRE長期追蹤的弱點。
 
 - 📰 **iThome 科技**
 
@@ -154,7 +154,7 @@ Google公布Android 17新一波網���隱私與連線安全措施，重點�
 
 ### 25. [SonicWall修補NetExtender重大漏洞，若未更新可能導致攻擊者以root權限寫入任意檔案](https://www.ithome.com.tw/news/178559)
 
-SonicWall於8月26日發布資安公告，修補VPN用戶端軟體NetExtender Linux Client兩個漏洞，包含可能導致攻擊者寫入任意檔案的重大漏洞，10.3.5及以前版本均受影響，用戶應升級至已修補的10.3.6以上版本。
+SonicWall於8月26日發布���安公告，修補VPN用戶端軟體NetExtender Linux Client兩個漏洞，包含可能導致攻擊者寫入任意檔案的重大漏洞，10.3.5及以前版本均受影響，用戶應升級至已修補的10.3.6以上版本。
 
 - 📰 **iThome 科技**
 
@@ -186,7 +186,7 @@ SonicWall於8月26日發布資安公告，修補VPN用戶端軟體NetExtender Li
 ### 30. [AI生成詐騙內容成新威脅，數發部與Meta、Google等四大平臺聯手建立AI源頭阻詐防線](https://www.ithome.com.tw/news/178552)
 
 隨著生成式AI普及，詐騙集團可大量生成詐騙文案、快速建立假帳號，甚至利用AI製作更具可信度的內容，使網路平臺成為詐騙資訊擴散的重要管道。數發部今天(8/31)宣布將深化和四大平臺業者合作，定期與平臺業者研商與情資交換機制，由政府提供最新詐騙樣態，協助平臺將其轉化為AI模型訓練資料及偵測規則，提升主動辨識能力，讓防詐機制從事後下架轉向事前預防。
-「詐欺犯罪危害防制條例」在2024年三讀通過，2025年底立法院三讀通過其修正草案，四大網路廣告平臺依法須建立詐欺風險評估、防制計畫、廣告主實名制及廣告資訊揭露制度，並配合主動或依政府通知下架涉詐廣告，以提升廣告透明度並避免冒用他人身分投放廣告。
+「詐欺��罪危害防制條例」在2024年三讀通過，2025年底立法院三讀通過其修正草案，四大網路廣告平臺依法須建立詐欺風險評估、防制計畫、廣告主實名制及廣告資訊揭露制度，並配合主動或依政府通知下架涉詐廣告，以提升廣告透明度並避免冒用他人身分投放廣告。
 
 - 📰 **iThome 科技**
 
@@ -194,9 +194,14 @@ SonicWall於8月26日發布資安公告，修補VPN用戶端軟體NetExtender Li
 
 ### 更多 AI 新聞 (70則)
 
+- Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a 新 App: Everything Sonos Just Announced (**Wired**)
+- Using High-Energy Laser, US Shoots Down Drones Near Mexico Border (**Wired**)
+- 5 最佳 Folding Phones (2026): Samsung, Google, Motorola (**Wired**)
+- Sennheiser Momentum 5 Wireless Headphones Review (2026) (**Wired**)
 - 3 最佳 Sleep Tracker Picks for Optimizing Your Sleep (2026) (**Wired**)
 - Inside the Perimenopause Industrial Complex (**Wired**)
 - Dyson’s Next Act Is an Electric Toothbrush With a Camera (**Wired**)
+- Chewy Promo Codes: $20 Off September 2026 (**Wired**)
 - LG Promo Codes and Coupons for September 2026 (**Wired**)
 - 50% Off DoorDash Promo 代碼 | September 2026 (**Wired**)
 - Nike Promo Codes and Discounts: 30% for September 2026 (**Wired**)
@@ -205,7 +210,6 @@ SonicWall於8月26日發布資安公告，修補VPN用戶端軟體NetExtender Li
 - Wayfair Coupons: Up to 80% Off September 2026 (**Wired**)
 - Home Depot Promo Codes: 30% Off in September 2026 (**Wired**)
 - Paramount+ Coupon Codes and Deals for September 2026 (**Wired**)
-- Chewy Promo Codes: $20 Off September 2026 (**Wired**)
 - 20% Off Samsung Promo 代碼 | September 2026 (**Wired**)
 - AT&amp;T Promo Codes: $50 Off This September 2026 (**Wired**)
 - Newegg Promo Codes and Coupons for September 2026 (**Wired**)
@@ -240,10 +244,6 @@ SonicWall於8月26日發布資安公告，修補VPN用戶端軟體NetExtender Li
 - AI Has Human Doctors Asking: What’s Left for Us? (**Wired**)
 - The 31 最佳 Deals From the REI Labor Day Sale (**Wired**)
 - 最佳 Laptops (2026): My 熱門 Recommendations After Testing Hundreds (**Wired**)
-- He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them (**Wired**)
-- Inside Meta’s Push to Put Robots to Work in Data Centers (**Wired**)
-- The Easiest Ways to Share Anything Between Android and iOS (**Wired**)
-- XGIMI Vibe One Battery-Powered Projector Review (2026) (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
