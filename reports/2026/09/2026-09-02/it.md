@@ -4,214 +4,200 @@
 
 ---
 
-### 1. [Commodore 64 發布 September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
+### 1. [A Note from LWN](https://lwn.net/Articles/1090585/)
 
-- ⭐ 61 分｜💬 7 留言｜👤 giuliomagnifico
+- ⭐ 387 分｜💬 76 留言｜👤 rwky
 
-### 2. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+### 2. [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/)
 
-What&#x27;s 新 in Claude Fable 5.1
- – https:&#x2F;&#x2F;platform.Claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...系統 Card: https:&#x2F;&#x2F;www-cdn.Anthropic.com&#x2F;0339e
+- ⭐ 48 分｜💬 20 留言｜👤 bratao
 
-- ⭐ 1255 分｜💬 1173 留言｜👤 denysvitali
+### 3. [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle)
 
-### 3. [The Emergent Symbolic Structure of Artificial 神經網絡 Networks](https://arxiv.org/abs/2608.29530)
+- ⭐ 84 分｜💬 10 留言｜👤 randycupertino
 
-- ⭐ 150 分｜💬 46 留言｜👤 schmuhblaster
+### 4. [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
 
-### 4. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+- ⭐ 68 分｜💬 49 留言｜👤 user_7832
 
-- ⭐ 714 分｜💬 782 留言｜👤 jatins
+### 5. [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
 
-### 5. [Fine, I'll 構建 my own text editor](https://dbushell.com/2026/09/01/text-editor/)
+- ⭐ 127 分｜💬 69 留言｜👤 teekert
 
-- ⭐ 128 分｜💬 115 留言｜👤 Alephinitesimal
+### 6. [Three sites made 215,128 “最佳 軟體” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 
-### 6. [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+- ⭐ 111 分｜💬 58 留言｜👤 jakobgreenfeld
 
-- ⭐ 226 分｜💬 95 留言｜👤 tatersolid
+### 7. [Poisson Disk Sampling](https://stripeacross.com/posts/poisson-disk-sampling/)
 
-### 7. [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
+- ⭐ 48 分｜💬 5 留言｜👤 vismit2000
 
-- ⭐ 479 分｜💬 161 留言｜👤 HieronymusBosch
+### 8. [Exit the Cave](https://turtlespace.blog/p/exit-the-cave)
 
-### 8. [WebFPGA](https://webfpga.io/)
+- ⭐ 35 分｜💬 6 留言｜👤 akkartik
 
-- ⭐ 81 分｜💬 32 留言｜👤 gurjeet
+### 9. [WebLLM: high-performance in-browser 大型語言模型 推論 engine](https://github.com/mlc-ai/web-llm)
 
-### 9. [Telli (YC F24) is 招聘 engineers and designers [Berlin, on-site]](https://careers.telli.com/)
+- ⭐ 17 分｜💬 7 留言｜👤 saikatsg
+
+### 10. [Commodore 64 發布 September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
+
+- ⭐ 228 分｜💬 116 留言｜👤 giuliomagnifico
+
+### 11. [Aging Brains Blend Memories Together Instead of Just Forgetting Them](https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/)
+
+- ⭐ 57 分｜💬 20 留言｜👤 mdp2021
+
+### 12. [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
+
+- ⭐ 71 分｜💬 23 留言｜👤 goobreee
+
+### 13. [A third of Perplexity's citations don't contain the number they're cited for](https://hausresearch.com/reports/perplexity-citation-audit/)
+
+- ⭐ 27 分｜💬 4 留言｜👤 jakobgreenfeld
+
+### 14. [A Selection of Los Alamos Rolodex Business Cards](https://clui.org/collections/los-alamos-business-cards/selection-cards)
+
+- ⭐ 21 分｜💬 4 留言｜👤 1970-01-01
+
+### 15. [Check if a file was made with Claude](https://claude.com/check-content)
+
+- ⭐ 54 分｜💬 37 留言｜👤 frexs
+
+### 16. [LLMs: Intelligence vs. Cost](https://openteams.com/intelligence-vs-cost/)
+
+- ⭐ 32 分｜💬 16 留言｜👤 theanonymousone
+
+### 17. [Dutch central bank moves share of gold from U.S., Canada to London](https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability)
+
+- ⭐ 140 分｜💬 117 留言｜👤 TechTechTech
+
+### 18. [Ending my elixir exploratory writing](https://lucassifoni.info/blog/the-end-of-this-elixir-log/)
+
+- ⭐ 51 分｜💬 30 留言｜👤 ffin
+
+### 19. [The Emergent Symbolic Structure of Artificial 神經網絡 Networks](https://arxiv.org/abs/2608.29530)
+
+- ⭐ 233 分｜💬 80 留言｜👤 schmuhblaster
+
+### 20. [Telli (YC F24) is 招聘 engineers and designers [Berlin, on-site]](https://careers.telli.com/)
 
 - ⭐ 1 分｜💬 0 留言｜👤 sebselassie
 
-### 10. [Sonic Pi](https://sonic-pi.net/)
+### 21. [9000 RPM is faster than your screen refreshes](https://ma.ttias.be/9000-rpm/)
 
-- ⭐ 167 分｜💬 34 留言｜👤 Bluestein
+- ⭐ 26 分｜💬 11 留言｜👤 Mojah
 
-### 11. [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
+### 22. [Using jq to format JSON on the clipboard](https://chris48s.github.io/blogmarks/posts/2021/jsontidy/)
 
-I&#x27;m the 開發者. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTub
+- ⭐ 33 分｜💬 8 留言｜👤 stefanvdw1
 
-- ⭐ 145 分｜💬 65 留言｜👤 masteranza
+### 23. [Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It](https://sabot.media/post/banca-etica-statement-english)
 
-### 12. [My local 模型 setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
+- ⭐ 46 分｜💬 26 留言｜👤 rendx
 
-- ⭐ 210 分｜💬 124 留言｜👤 raybb
+### 24. [It's OK to hardcode feature flags (2025)](https://code.mendhak.com/hardcode-feature-flags/)
 
-### 13. [Open Battery Information](https://github.com/mnh-jansson/open-battery-information)
+- ⭐ 56 分｜💬 31 留言｜👤 biscuits1
 
-- ⭐ 4 分｜💬 1 留言｜👤 toomuchtodo
+### 25. [The Cables That Connect the World](https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/)
 
-### 14. [The efficient frontier of 大型語言模型 推論](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+- ⭐ 24 分｜💬 5 留言｜👤 surprisetalk
 
-- ⭐ 124 分｜💬 30 留言｜👤 philipkiely
+### 26. [為什麼 humanoid robots won't catch up to human workers any time soon](https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up)
 
-### 15. [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
+- ⭐ 19 分｜💬 30 留言｜👤 speckx
 
-Hey HN, I’m Antonio from Nori Robotics (https:&#x2F;&#x2F;norirobotics.com). We 構建 a $1,688 bimanual 行動 robot in San Francisco for robotics developers and researchers.I started working on Nori 
+### 27. [Move in C++ without a std:move](https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/)
 
-- ⭐ 173 分｜💬 52 留言｜👤 AntonioLi
+- ⭐ 28 分｜💬 35 留言｜👤 dalvrosa
 
-### 16. [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/)
+### 28. [Quasar 438B: Europe's Leading AI 模型](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
 
-- ⭐ 276 分｜💬 82 留言｜👤 kikkupico
+- ⭐ 102 分｜💬 84 留言｜👤 amunozo
 
-### 17. [Movie Scene Map – 13,312 films, series, games, anime and manga](https://moviescenemap.com/)
+### 29. [Fine, I'll 構建 my own text editor](https://dbushell.com/2026/09/01/text-editor/)
 
-- ⭐ 258 分｜💬 38 留言｜👤 Flightmussy
+- ⭐ 209 分｜💬 199 留言｜👤 Alephinitesimal
 
-### 18. [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
+### 30. [A Beginner's Deep Dive Guide to Entra Passkeys](https://emsroute.com/2026/03/19/passkeys-beginners-101/)
 
-- ⭐ 159 分｜💬 69 留言｜👤 jithinraj
-
-### 19. [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
-
-- ⭐ 413 分｜💬 190 留言｜👤 timpera
-
-### 20. [True Rate of Unemployment](https://www.lisep.org/tru)
-
-- ⭐ 235 分｜💬 196 留言｜👤 ptrhvns
-
-### 21. [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)
-
-- ⭐ 238 分｜💬 176 留言｜👤 steveklabnik
-
-### 22. [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
-
-- ⭐ 127 分｜💬 55 留言｜👤 jwise0
-
-### 23. [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's 招聘?"](https://hnmatchmaker.com/)
-
-Hi!Every month the &quot;Who Wants to Be Hired?&quot; and &quot;Who&#x27;s 招聘?&quot; Threads come through I would think to myself, &quot;there should be a match maker for these two threads&quot;.S
-
-- ⭐ 91 分｜💬 39 留言｜👤 all2
-
-### 24. [How bicycle coaster brakes work (2018)](https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html)
-
-- ⭐ 64 分｜💬 53 留言｜👤 Vedor
-
-### 25. [A Genealogy of Freudenthal's Lincos](https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/)
-
-- ⭐ 10 分｜💬 1 留言｜👤 akkartik
-
-### 26. [Ask HN: Who is 招聘? (September 2026)](https://news.ycombinator.com/item?id=49522897)
-
-Please state the location and include 遠端 for 遠端 work, 遠端 (US)
-or similar if the country is restricted, and ONSITE when 遠端 work is not an option.Please only post if you personally are p
-
-- ⭐ 218 分｜💬 243 留言｜👤 whoishiring
-
-### 27. [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)
-
-I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter 模型 that would need 100GB+ memory&#x2F;RAM, thanks to expert-offloading&#x2F;ssd-st
-
-- ⭐ 213 分｜💬 97 留言｜👤 carloslfu
-
-### 28. [Forgotten History of Small Nuclear Reactors (2015)](https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors)
-
-- ⭐ 41 分｜💬 27 留言｜👤 derriz
-
-### 29. [熱門 網頁 Design Styles of 1993](https://contemporary-home-computing.org/prof-dr-style/)
-
-- ⭐ 49 分｜💬 9 留言｜👤 luu
-
-### 30. [Building an interactive instrument for a one-of-a-kind festival](https://benholmen.com/blog/halfmoon-chimes/)
-
-- ⭐ 53 分｜💬 5 留言｜👤 tjwds
+- ⭐ 16 分｜💬 15 留言｜👤 speckx
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Crossing Boundaries with Integration Events
+- Open Battery Information
+- Claude Fable 5.1 and Claude Mythos 5.1
+- B200 Attention Kernel from Scratch to Near-SOTA in 60 Diagrams
+- FBI Probes Service Selling 153M+ Drivers Licenses
+- Sonic Pi
+- You Know Who Hates AI? Insurance Claims Adjusters
+- Solar Power Is Booming in Emerging Markets
+- Uber is laying off 10% of staff
+- Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
+- A Small Telescope That Surprised Me
+- Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain
+- WebFPGA (2019)
+- Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development
+- The efficient frontier of 大型語言模型 推論
+- How accurate have Ed Zitron's AI skeptic predictions been?
+- Bugs happen: The easy way to compare solo PQ to ECC+PQ
+- 為什麼 are there no flow batteries with symmetric ferrocyanide electrolytes?
+- Refurbishing a Tektronix TDS7104 Oscilloscope
+- The ChatGPT/Codex app bundles a full copy of LibreOffice
+- Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's 招聘?"
+- How bicycle coaster brakes work (2018)
+- True Rate of Unemployment
+- Introducing Ad Blocker for Firefox on iOS
+- It turns out that Orion's much-maligned heat shield performed well
 - Atlas: A World 模型 for Spatial Intelligence
-- Building Autonomous Goal Loops That Deliver
+- Show HN: Windrunner – AI-powered project collaboration workspace
+- My local 模型 setup on an M4 Pro Mac Mini
 - AnkiDroid: Google Play no longer allowing Open Collective donation link
+- Path to Astra: critical capabilities and frontier safeguards
+- Bassfinity for iOS – AI guide built on solunar data, weather, and bathymetry
+- Building an interactive instrument for a one-of-a-kind festival
+- VibeGuard – 安全 linter for AI-generated 代碼
+- 熱門 網頁 Design Styles of 1993
 - Play Store blocks AuroraStore, hurting GrapheneOS users
-- Solving the Flat Cube
-- Mayor says 'large chunks' of Wellington council Deloitte report written by AI
+- Samsung is randomly deactivating some accounts for '安全 reasons'
+- Building Autonomous Goal Loops That Deliver
 - Magic eye tube
-- When Claude 代碼 went rogue, years of Bengaluru heritage work disappeared
-- Ask HN: Who wants to be hired? (September 2026)
-- Laurie Anderson’s next manuscript to be locked away for 88 years
 - Qwen3.8-Max
+- Ask HN: Who wants to be hired? (September 2026)
 - I trained a small transformer in 1.5hrs and it beats many LLMs
-- Fluorescent lamps (don't) have ears
+- BGP hijack infecting networks caused by a comedy of errors
+- Solving the Flat Cube
 - We are rebuilding Monica
-- The Starfish and the Spider [pdf]
 - Show HN: I Have Been Clawed – Index of coding 代理 incidents
-- Hang on to Your Firefox
-- AI Isn't Making Everyone a Creator
-- Io_uring Without Readahead
-- Make a Portable Wide-screen Mechanical TV
-- Enough! Open Letter from Jewish Pros in Defense of Mark Ruffalo [on Ellison]
-- Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit
-- Tmp.0ut Volume 5
-- AI Coding 代理 Skills for Real Engineers
 - What's within a 10-minute walk in 50 European cities
-- I used Fable to rewrite 65kLoC of Go in Rust. It cost $400
-- AI is making back-office work extinct
-- Improving our alignment and 安全 efforts
+- Fluorescent lamps (don't) have ears
+- Io_uring Without Readahead
+- Movie Scene Map – 13,312 films, series, games, anime and manga
+- Laurie Anderson’s next manuscript to be locked away for 88 years
+- Tmp.0ut Volume 5
+- Ambient CSS v3 – Blender meets CSS
+- AI Coding 代理 Skills for Real Engineers
 - Has early Scratch experience led to fulfilling careers?
-- American Airlines mechanic Azriel “Al” Blackman has died
-- Google Pics is generally available starting today
-- Emily Wilson to retranslate the Odyssey from scratch
+- A Hidden Pattern in Your Saliva Can Predict Risk of Colorectal Cancer
+- The creator of Jujutsu has joined ERSC
+- Hang on to Your Firefox
+- Mayor says 'large chunks' of Wellington council Deloitte report written by AI
+- The Lost Art of Carrying Loads
+- The Telegram Scam That Steals Your Account with One 代碼
+- Even the oceans are struggling to keep their cool
+- I used Fable to rewrite 65kLoC of Go in Rust. It cost $400
+- A Genealogy of Freudenthal's Lincos
 - Fastpotify
 - AI Can Make You Suck Faster Too
-- Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation
-- Show HN: Newton's Orchard – Browser-based space/gravity playground
-- Physically Immutable Optical Archive Libraries
-- RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3
-- Swiss E-ID: Justice Minister Jans prevents secret Amazon deal
-- Smartphone LED detects hidden cameras with AI
-- Much Ado About Adenoids
-- Dwarf Fortress' creator says the industry's in shambles over AI
-- RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
-- Dyson CameraJet electric toothbrush
-- Breaking Claude 代碼 Opus 5 Auto Mode
-- A browser-based viewer for Office Open XML documents
-- Playa Phone
-- Show HN: Claude and ChatGPT need a datacenter. This runs on my phone
-- Decompiler Explorer
-- Fractal Jittered Voronoi Partitions
-- Damn fine tiny cafe
-- Java is memory efficient [audio]
-- Restroom Archive
-- Keenable SELECT: an 代理 that searches the 網頁 in SQL
-- FTC alleges Amazon illegally made $20B by rigging billions of ad auctions
-- I turned my 安全 cameras into an automatic bird identification 系統
-- GPU World
-- No country for mediocre mathematicians
-- “I just chose words carefully”
-- Terence Tao explains 6 essential mathematical concepts [video]
-- Borges Labyrinth in Venice reopens to the public
-- The ZX Spectrum sound chip hidden in a 1992 DOS game's Tandy driver
-- uv: Deduplicate all files in the wheel cache
-- DeepSeek-V3: From Roofline to Reality
-- OpenShot 4.0 – Open-source video editor
-- Salad Theory
-- DIY – 構建 a Potato Box (2022)
-- Transfer files over an Ethernet patch cable
-- Evidence of Fraud in an Influential Study About Procrastination
-- Apple caught off guard by AI demand for Mac Mini and Mac Studio
+- American Airlines mechanic Azriel “Al” Blackman has died
+- Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit
+- ChatGPT Linux GUI version updates redownload all files, require 1.4GB download
+- Ask HN: Who is 招聘? (September 2026)
+- Make a Portable Wide-screen Mechanical TV
 
 
 ---
