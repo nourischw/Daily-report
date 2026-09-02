@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [藥局藥師也有專用的代理！藥事AI 代理計畫正式啟動、首波瞄南部50家示範藥局](https://www.ithome.com.tw/news/178639)
+### 1. [藥局藥師也有專用的代理！藥事AI 代理計畫正式啟動、首波瞄南部50家示��藥局](https://www.ithome.com.tw/news/178639)
 
 為響應行政院大南方新矽谷推動方案，高通與華碩旗下台智雲、台生科今日宣布啟動藥事AI 代理計畫，首波預計導入嘉義、臺南、高雄、屏東50家示範藥局。這套代理結合AI筆電與邊緣AI推論平臺，在裝置端執行開源AI模型，還能透過OCR辨識處方箋、藥袋等資料，再搭配食藥署藥品仿單建立的RAG知識庫，提供28項用藥適切性安全檢核，包括藥物交互作用、重複用藥、不適當用藥等風險，並支援藥師進行病患用藥諮詢與衛教。
 
@@ -30,7 +30,7 @@
 
 ### 5. [PaperCut預告零時差漏洞可能還會有更多修補程式](https://www.ithome.com.tw/news/178627)
 
-上週列印管理軟體廠商PaperCut揭露��時差漏洞CVE-2026-82078、CVE-2026-81578的攻擊事故，但與其他廠商處理方式有所不同的是，該公司採取且戰且走的策略，不到一週的時間已三次發布緊急修補程式，對此，該公司共同創辦人暨執行長Chris Dance本週說明，相關決定源自2023年發生的漏洞利用活動的
+上週列印管��軟體廠商PaperCut揭露零時差漏洞CVE-2026-82078、CVE-2026-81578的攻擊事故，但與其他廠商處理方式有所不同的是，該公司採取且戰且走的策略，不到一週的時間已三次發布緊急修補程式，對此，該公司共同創辦人暨執行長Chris Dance本週說明，相關決定源自2023年發生的漏洞利用活動的
 
 - 📰 **iThome 科技**
 
@@ -52,7 +52,7 @@ Google釋出整合式開發環境（IDE）Android Studio Quail 4穩定版，該�
 
 - 📰 **iThome 科技**
 
-### 9. [半導體矽智財公司乾瞻ERP系統遭加密攻擊，強調研發環境未受波及](https://www.ithome.com.tw/news/178620)
+### 9. [半導體矽智財公司乾瞻ERP系統���加密攻擊，強調研發環境未受波及](https://www.ithome.com.tw/news/178620)
 
 9月1日晚間興櫃半導體矽智財公司乾瞻（7898）於股市公開資訊觀測站發布資安重訊，表示該公司的ERP系統遭駭客加密攻擊，資訊安全單位發現ERP出現異常後，經查證確認為加密攻擊，隨即展開全面性檢測、事件調查，以及防護作業，目前該公司仍持續進行影響範圍確認與根因分析。至於此次事件造成的影響，乾瞻初步評估對財務、業務及營運均無重大影響。
 
@@ -76,7 +76,7 @@ OpenAI周二（9/1）宣布，即將推出的新一代AI模型Astra已達該公�
 
 ### 12. [CrowdStrike SafeMind讓紅藍隊AI反覆攻防，防禦端自動產生偵測規則](https://www.ithome.com.tw/news/178610)
 
-CrowdStrike發表資安AI系統SafeMind，推出Red Tempest攻擊模型與Blue Solano防禦模型，讓AI代理反覆進行攻防測試。攻擊模型先尋找可利用的攻擊路徑，防禦模型再根據Falcon蒐集的系統活動資料找出防禦缺口、建立並驗證偵測規則，完成後再交給攻擊端重新測試。
+CrowdStrike發表資安AI系統SafeMind，推出Red Tempest攻擊模型與Blue Solano防禦模型，讓AI代理反覆進行攻防測試。攻擊模型先尋找可利用的攻擊���徑，防禦模型再根據Falcon蒐集的系統活動資料找出防禦缺口、建立並驗證偵測規則，完成後再交給攻擊端重新測試。
 
 - 📰 **iThome 科技**
 
@@ -101,7 +101,7 @@ Salesforce日前公布今年冬季產品更新Winter ’27，一口氣揭露15�
 
 ### 16. [近2.2萬臺Exchange 伺服器暴露於漏洞導致的接管風險，臺灣也有250臺](https://www.ithome.com.tw/news/178609)
 
-微軟在8月份例行更新修補的Exchange 伺服器高風險漏洞CVE-2026-62911，近日引發關注，該漏洞的CVSS評分���8.0分，屬於權限提升問題，可能導致攻擊者接管受害主機上的所有使用者郵箱，包括收發信件與下載附件，影響Exchange 伺服器 2016與2019版，以及Exchange 伺服器訂閱版（SE）。
+微軟在8月份例行更新修補的Exchange 伺服器高風險漏洞CVE-2026-62911，近日引發關注，該漏洞的CVSS評分達8.0分，屬於權限提升問題，可能導致攻擊者接管受害主機上的所有使用者郵箱，包括收發信件與下載附件，影響Exchange 伺服器 2016與2019版，以及Exchange 伺服器訂閱版（SE）。
 
 - 📰 **iThome 科技**
 
@@ -113,7 +113,7 @@ Apple再次提醒Mac開發者，macOS 27將是Rosetta一般用途支援的最後
 
 ### 18. [John Ternus正式接任蘋果執行長](https://www.ithome.com.tw/news/178608)
 
-蘋果本周二（9/1）正式完成備受矚目的執行長交接，由硬體工程資深副總裁John Ternus接替掌舵15年的Tim Cook，成為蘋果新任執行長，Cook則轉任董事會執行董事長。當天蘋果股價上漲了2.61%，以325.13美元作收。
+蘋果本周二（9/1）正式完成備受矚目的執行長交接，由硬體工程資深副總裁John Ternus接替掌舵15年的Tim Cook，��為蘋果新任執行長，Cook則轉任董事會執行董事長。當天蘋果股價上漲了2.61%，以325.13美元作收。
 現年51歲的Ternus自2001年加入蘋果產品設計團隊，2013年升任硬體工程副總裁，2021年進入執行團隊擔任硬體工程資深副總裁，在蘋果已服務25年。
 
 - 📰 **iThome 科技**
@@ -126,7 +126,7 @@ Apple再次提醒Mac開發者，macOS 27將是Rosetta一般用途支援的最後
 
 ### 20. [Google發布ChromeOS長期支援版更新，修補28個資安漏洞](https://www.ithome.com.tw/news/178606)
 
-ChromeOS作業系統長期支援版LTS-144的更新144.0.7559.261，於8月27日上線，並納入28個資安漏洞的修補，其中有26個漏洞被評為高風險，另兩個漏洞為中度風險。
+ChromeOS作業系��長期支援版LTS-144的更新144.0.7559.261，於8月27日上線，並納入28個資安漏洞的修補，其中有26個漏洞被評為高風險，另兩個漏洞為中度風險。
 
 - 📰 **iThome 科技**
 
@@ -138,7 +138,7 @@ Meta周二（9/1）正式推出由超級智慧實驗室（Meta Superintelligence
 
 ### 22. [Palo Alto Networks併購Console，擴充AI代理資安能力](https://www.ithome.com.tw/news/178603)
 
-資安業者Palo Alto Networks宣布完成併購AI原生平臺Console，並將進一步擴充旗下Cortex資���營運平臺的AI代理能力，讓安全團隊運用AI代理調查資安訊號、排定工作優先順序並採取行動。
+資安業者Palo Alto Networks宣布完成併購AI原生平臺Console，並將��一步擴充旗下Cortex資安營運平臺的AI代理能力，讓安全團隊運用AI代理調查資安訊號、排定工作優先順序並採取行動。
 
 - 📰 **iThome 科技**
 
@@ -150,7 +150,7 @@ Meta周二（9/1）正式推出由超級智慧實驗室（Meta Superintelligence
 
 ### 24. [Google更新Chrome 152穩定版，修補26個資安漏洞](https://www.ithome.com.tw/news/178601)
 
-Google於9月1日發布Chrome瀏覽器新版本，在桌面版方面，Windows與Linux平臺穩定版更新至152.0.7977.75，Mac平臺版本更新至152.0.7977.76；在行動裝置版方面���Android版本更新至152.0.7977.75，iOS
+Google於9月1日發布Chrome瀏覽器新版本，在桌面版方面，Windows與Linux平臺穩定版更新至152.0.7977.75，Mac平臺版本更新至152.0.7977.76；在行動裝置版方面，Android版本更新至152.0.7977.75，iOS
 
 - 📰 **iThome 科技**
 
@@ -162,7 +162,7 @@ Google於9月1日發布Chrome瀏覽器新版本，在桌面版方面，Windows�
 
 ### 26. [富驊企業偵測到網路攻擊．緊急啟動應變機制將受影響系統隔離](https://www.ithome.com.tw/news/178599)
 
-電腦及周邊設備商富驊企業（5465）於8月30日晚間，在股市公開資訊觀測站發布資安重訊指出，他們偵測到部分資訊系統遭網路攻擊的情況，在偵測到異常後立即啟動資安應變機制，迅速將受影響系統隔離，並採取風險控管措施，同時對全公司資訊系統進行盤點及持續監控，委託外部資安廠商協助系統復原、事件調查，以及相關強化作
+電腦及周邊設備商富驊企業（5465）於8月30日晚間，在股市公開資訊觀測站發布資安重訊指出，他們偵測到部分資訊系統遭網路攻擊的情況，在偵測到異常後立即啟動資���應變機制，迅速將受影響系統隔離，並採取風險控管措施，同時對全公司資訊系統進行盤點及持續監控，委託外部資安廠商協助系統復原、事件調查，以及相關強化作
 
 - 📰 **iThome 科技**
 
@@ -174,7 +174,7 @@ Google於9月1日發布Chrome瀏覽器新版本，在桌面版方面，Windows�
 
 ### 28. [OpenClaw 2.0擴充跨裝置與雲端代理工作，團隊可直接接手既有任務](https://www.ithome.com.tw/news/178597)
 
-開源AI代理平臺OpenClaw推出2.0版本，重新調整初次安裝與瀏覽器操作介面，並擴充AI代理工作的執行方式。使用��可將正在進行的工作連同相關檔案，移至其他已配對裝置或雲端工作節點繼續執行，團隊成員也能加入既有工作，在保留原有對話脈絡下共同處理或接手任務。
+開源AI代理平臺OpenClaw推出2.0版本，重新調整初次安裝與瀏覽器操作介面，並擴充AI代理工作的執行方式。使用者可將正在進行的工作連同相關檔案，移至其他已配對裝置或雲端工作節點繼續執行，團隊成員也能加入既有工作，在保留原有對話脈絡下共同處理或接手任務。
 OpenClaw 2.0修改範圍涵蓋安裝、訊息、記憶、技能、模型、自動化、瀏覽器與原生App、外掛及安全機制。官方表示，本次版本共有933名貢獻者參與，其中569人首次參與專案，累計整合超過1.6萬個程式碼變更請求。
 
 - 📰 **iThome 科技**
@@ -195,22 +195,26 @@ OpenClaw 2.0修改範圍涵蓋安裝、訊息、記憶、技能、模型、自�
 
 ### 更多 AI 新聞 (70則)
 
+- Trump Administration Sides With OpenAI in 新 York Times Copyright Lawsuit (**Wired**)
+- ICE Plans to Pay $5 Million to Create National Voting 資料庫 (**Wired**)
+- These Russian Mathematicians Taught AI Models 如何 Talk to Each Other Without Using Words (**Wired**)
+- The Logical End Point of AI 工作 Interviews Is Two Bots Talking to Each Other (**Wired**)
 - The Cybercab Is Almost Here. Now Comes the Hard Part (**Wired**)
 - 最佳 Sony Headphone Deals: WH-1000XM5 and More (2026) (**Wired**)
 - Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It? (**Wired**)
 - The 42 最佳 Deals From the REI Labor Day Sale (**Wired**)
 - A Prop 65 Crash Course: What You Need to Know (2026) (**Wired**)
-- Hoka Coupon Codes: 30% Off in September 2026 (**Wired**)
 - Booking.com Promo Codes: 20% Off | September 2026 (**Wired**)
 - Priceline Promo Codes &amp; Coupons: 10% Off September 2026 (**Wired**)
 - NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026 (**Wired**)
 - B&amp;H Photo Promo Codes and Deals This September 2026 (**Wired**)
 - Columbia Promo Codes: 15% Off | September 2026 (**Wired**)
+- Hoka Coupon Codes: 30% Off in September 2026 (**Wired**)
 - 30% Off Canon Promo Codes | September 2026 (**Wired**)
-- Altra Running Promo Codes: 10% Off September 2026 (**Wired**)
 - Verizon Promo Codes: $200 Verizon Gift Cards | September 2026 (**Wired**)
 - Whoop Promo Codes: 20% Off This September 2026 (**Wired**)
 - eBay Coupons: 20% Off in September 2026 (**Wired**)
+- Altra Running Promo Codes: 10% Off September 2026 (**Wired**)
 - Uplift Promo Codes: $300 Off (**Wired**)
 - The Range Rover Electric: Specs, Price, Availability (**Wired**)
 - The Diamond Moon and Other Astronomical Events to See in September 2026 (**Wired**)
@@ -227,24 +231,20 @@ OpenClaw 2.0修改範圍涵蓋安裝、訊息、記憶、技能、模型、自�
 - Nike Promo Codes and Discounts: 30% for September 2026 (**Wired**)
 - Peacock Promo Codes: 40% Off September 2026 (**Wired**)
 - Paramount+ Coupon Codes and Deals for September 2026 (**Wired**)
-- Home Depot Promo Codes: 30% Off in September 2026 (**Wired**)
-- Dell Coupon Codes: 20% Off for September 2026 (**Wired**)
 - Wayfair Coupons: Up to 80% Off September 2026 (**Wired**)
+- Dell Coupon Codes: 20% Off for September 2026 (**Wired**)
 - Chewy Promo Codes: $20 Off September 2026 (**Wired**)
+- Home Depot Promo Codes: 30% Off in September 2026 (**Wired**)
 - LG Promo Codes and Coupons for September 2026 (**Wired**)
+- AT&amp;T Promo Codes: $50 Off This September 2026 (**Wired**)
 - Newegg Promo Codes and Coupons for September 2026 (**Wired**)
 - 50% Off Blue Apron Promo Codes | September 2026 (**Wired**)
 - Squarespace Promo Codes: 30% Off in September 2026 (**Wired**)
-- AT&amp;T Promo Codes: $50 Off This September 2026 (**Wired**)
 - Dyson Promo Codes: 25% Off in September 2026 (**Wired**)
 - 20% Off Samsung Promo 代碼 | September 2026 (**Wired**)
 - The 最佳 Labor Day Mattress Deals on Beds We’ve Tried in Our Homes (**Wired**)
 - 最佳 Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More (**Wired**)
 - Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All (**Wired**)
-- Tempo Promo Codes: Get up to 60% Off Healthy Meals (**Wired**)
-- George Santos Just Got Hit With Kalshi’s First-Ever Lifetime Ban (**Wired**)
-- 為什麼 Food Keeps Making Everybody Sick This Summer (**Wired**)
-- You Know Who Really Hates AI? Insurance Claims Adjusters (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
