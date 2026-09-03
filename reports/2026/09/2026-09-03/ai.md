@@ -4,190 +4,189 @@
 
 ---
 
-### 1. [Proofpoint擬併購資料安全業者Varonis](https://www.ithome.com.tw/news/178651)
+### 1. [碳費制度新增首次納管緩衝機制，環境部：非擴大徵收，企業須先完成盤查建立排放基線](https://www.ithome.com.tw/news/178682)
+
+我國碳費徵收制度於2025年正式上路，首波納管的徵收對象涵蓋電力業、燃氣供應業及製造業（如鋼鐵、水泥、半導體、化學材料等）中，年溫室氣體排放量達2.5萬公噸CO₂e以上的事業，今年5月共計240家企業、461家工廠已完成首次碳費繳納。
+為讓制度推動更順利，同時因應明年碳費徵收，企業可能因為排放量達到門檻而首次被納入徵收對象，環境部近期修正「碳費收費辦法」及「自主減量計畫管理辦法」，為首次納管事業提供碳費繳納的準備期。
+在修正之前，依規定，企業首次達標的當年，就必須依前一年的排放量來申報繳納碳費。
+
+- 📰 **iThome 科技**
+
+### 2. [Cursor擴大雲端 Agents自架部署，新增8家基礎設施與團隊資源池](https://www.ithome.com.tw/news/178679)
+
+AI程式開發工具Cursor擴充Self-Hosted Machines功能，讓雲端 Agents可在企業自行管理的機器或雲端環境執行，並支援AWS Lambda、Cloudflare、Coder、Daytona、E2B、Modal、Namespace及Vercel等8家���礎設施供應商。企業仍從Cursor啟動與管理AI代理，但執行指令、修改檔案及操作程式碼儲存庫等工作，可改由企業指定的環境處理。
+
+- 📰 **iThome 科技**
+
+### 3. [川普政府在OpenAI與紐時著作權爭議中力挺OpenAI](https://www.ithome.com.tw/news/178681)
+
+美國司法部（Department of Justice）周二（9/1）向紐約南區聯邦法院提交「利益聲明」（Statement of Interest），在OpenAI著作權侵權合併訴訟中，明確表態支持OpenAI以受著作權保護的文章訓練AI模型屬於合理使用(Fair Use)，讓美國聯邦政府的立場首度浮上檯面。
+
+- 📰 **iThome 科技**
+
+### 4. [23年Sality殭屍網路遭國際聯手瓦解，P2P協定弱點反成切斷控制突破口](https://www.ithome.com.tw/news/178677)
+
+美國司法部9月1日宣布，跨國執法機關與資安業者聯手干擾運作超過20年的Sality殭屍網路。
+
+- 📰 **iThome 科技**
+
+### 5. [Google推出Gemini 3.8 Flash與資安專用版，同步啟動Fairwind防禦計畫](https://www.ithome.com.tw/news/178676)
+
+Google周三（9/2）發布新一代模型Gemini 3.8 Flash與其資安強化版Gemini 3.8 Flash Cyber，同時宣布啟動限量開放的資安防禦計畫Fairwind Program，讓政府與企業夥伴優先取得自動找漏洞及自動修補的模型能力。
+
+- 📰 **iThome 科技**
+
+### 6. [【資安日報】9月3日，Dropbox傳出遭駭，5千個帳號外洩](https://www.ithome.com.tw/news/178675)
+
+本日新聞焦點
+● Dropbox傳出遭駭，5千個帳號外洩
+● 美國財政部成立金融業PQC工作小組，聚焦供應商整備
+● CrowdStrike SafeMind讓紅藍隊AI反覆攻防，自動產生防禦偵測規則
+
+- 📰 **iThome 科技**
+
+### 7. [Meta發表Muse Spark 1.3��強調主動確認與長時多工能力](https://www.ithome.com.tw/news/178674)
+
+Meta周三（9/2）發布新一代模型Muse Spark 1.3，可透過Muse 代碼與Meta 模型 API存取。此次更新的重點放在代理型任務與程式撰寫能力，並讓模型更貼近實際應用場景。
+
+- 📰 **iThome 科技**
+
+### 8. [NGINX開源版路由不再只看網址，1.31.5可先解析JSON請求內容再分流](https://www.ithome.com.tw/news/178665)
+
+網頁伺服器與反向代理NGINX釋出1.31.5版本，擴充開源版的請求路由能力，現在可在將請求交給後端服務前，先讀取JSON格式的HTTP請求內容，擷取指定欄位，再依內容選擇對應的後端服務，另外，新版也將原先提供給NGINX Plus的Control API帶入開源版。
+
+- 📰 **iThome 科技**
+
+### 9. [Rapid7揭露ASTERIX攻擊活動，駭客透過語音網釣結合假錢包竊取加密貨幣](https://www.ithome.com.tw/news/178663)
+
+為了更精準鎖定受害對象，提高詐騙成功率，當前的駭客往往不再無差別地投放誘餌，而會先透過篩選機制，找出符合條件的目標，資安業者Rapid7近日揭露的Operation ASTERIX攻擊活動，便是這類精準篩選受害目標的典型案例。
+
+- 📰 **iThome 科技**
+
+### 10. [美國法院裁決Google不必拆分廣告業務](https://www.ithome.com.tw/news/178661)
+
+美國司法部（DoJ）在2023年1月聯同美國多州的檢察長控告Google壟斷數位廣告技術，繼之美國聯邦法院在2025年4月裁定Google在網路廣告及廣告技術市場的主導地位構成壟斷，不過，本周美國聯邦法院法官Leonie Brinkema周三（9/2）
+
+- 📰 **iThome 科技**
+
+### 11. [WatchGuard修補5項重大漏洞，3項可讓未經身分驗證的攻擊者遠端執行程式碼](https://www.ithome.com.tw/news/178658)
+
+網路防火牆廠商WatchGuard於8月27日修補多項安全漏洞，其中部分漏洞可讓未經身分驗證的遠端攻擊者在受影響設備上執行任意程式碼，官方呼籲用戶儘速更新。
+
+- 📰 **iThome 科技**
+
+### 12. [Dropbox傳出遭駭，5千個帳號外洩](https://www.ithome.com.tw/news/178659)
+
+根據路透社報導，雲端檔案共享平臺Dropbox於8月31日向約5千名用戶發出通知，他們的帳號曾在8月4日至21日期間出現未經授權的存取，其中有不到三分之一的用戶檔案遭到駭客存取。
+
+- 📰 **iThome 科技**
+
+### 13. [CISA警告SonicWall、JFrog Artifactory、LiteLLM等系統的已知漏洞遭到利用](https://www.ithome.com.tw/news/178657)
+
+9月2日美國網路安全與基礎設施安全局（CISA）更新已遭利用的漏洞名單（KEV），指出他們掌握7個新漏洞遭到積極利用的證據，這些漏洞是：VoIP電話管理平臺Sangoma Switchvox的SQL注入漏洞CVE-2026-9586，非同步伺服器閘道介面（ASGI）網頁框架Kludex Starlette的HTTP請求或回應走私漏洞CVE-2026-48710，資料、AI與基礎架構工作流程事件驅動調度平臺Kestra的作業系統指令注入漏洞CVE-2026-49869，AI閘道BerriAI LiteLLM
+
+- 📰 **iThome 科技**
+
+### 14. [Nakivo更新Backup &amp;amp; Replication 11，擴展vSphere、Linux與Windows平臺的保護涵蓋範圍](https://www.ithome.com.tw/news/178656)
+
+資料保護軟體廠商Nakivo繼上半年發布Backup &amp;amp; Replication 11.2與11.2.1版之後，近日又推出最新11.2.2版，進一步擴展對於虛擬化平臺與作業系統的備份保護支援。
+
+- 📰 **iThome 科技**
+
+### 15. [上櫃公司創新服務遭勒索病毒攻擊，導致ERP等資訊系統無法運作](https://www.ithome.com.tw/news/178655)
+
+9月2日晚間上櫃半導體設備廠創新服務（7828）於股市公開資訊觀測站發布資安重訊，該公司偵測到部分伺服器遭到勒索病毒攻擊，察覺異常的第一時間已立即啟動防禦機制與斷網隔離措施，並啟動相關資安應變機制，全面檢視資安系統與加強相關防護。創新服務指出，這起事故造成ERP在內的部分資訊系統無法正常運作。
+
+- 📰 **iThome 科技**
+
+### 16. [curl發布8.22.0版，修補10個資安漏洞](https://www.ithome.com.tw/news/178654)
+
+開源命令列網路資料傳輸工具curl於9月2日發布8.22.0版，修補10個漏洞，其中9個影響curl與libcurl，另有1個則影響基於libcurl的輕量傳輸工具wcurl，涵蓋驗證繞過、記憶體安全、TLS憑證驗證與Cookie處理等問題。curl或libcurl用戶應升級至8.22.0版，wcurl則應升級至2026.08.30版。
+
+- 📰 **iThome 科技**
+
+### 17. [Sangoma Switchvox重大SQL注入漏洞遭利用](https://www.ithome.com.tw/news/178652)
+
+威脅情報公司Horizon3.AI警告，他們在今年4月向VoIP電話管理解決方案廠商Sangoma通報12個Switchvox平臺的弱點，其中最嚴重的是CVE-2026-9586，攻擊者可透過SQL注入手法，於未經身分驗證的情況下遠端在Switchvox執行任意程式碼，CVSS v4.0嚴重程度評為
+
+- 📰 **iThome 科技**
+
+### 18. [Proofpoint擬併購資料安全業者Varonis](https://www.ithome.com.tw/news/178651)
 
 私募股權業者Thoma Bravo旗下資安業者Proofpoint傳出正在洽談併購資料安全業者Varonis Systems。Varonis目前市值約50億美元。
 
 - 📰 **iThome 科技**
 
-### 2. [Qt AI 助手將退役，開發工具轉向ACP、MCP與代理 Skills](https://www.ithome.com.tw/news/178647)
+### 19. [Qt AI 助手將退役，開發工具轉向ACP、MCP與代理 Skills](https://www.ithome.com.tw/news/178647)
 
 Qt宣布9月30日後不再隨Qt Creator提供或發布Qt AI 助手，技術支援則在12月31日結束。Qt後續將開發資源轉向可處理多步驟工作的AI代理，讓Claude 代碼、Codex、Qwen 代碼及GitHub Copilot等既有工具串接Qt Creator，再搭配MCP與Qt專用代理技能，取得開發環境的操作能力及Qt、QML相關知識。
 
 - 📰 **iThome 科技**
 
-### 3. [Gogs重大路徑穿越漏洞可導致遠端程式碼執行](https://www.ithome.com.tw/news/178648)
+### 20. [Gogs重大路徑穿越漏洞可導致遠端程式碼執行](https://www.ithome.com.tw/news/178648)
 
 輕量化自架Git服務Gogs被揭露一項CVSS滿分的重大遠端程式碼執行漏洞。資安業者Aikido 安全近日公開CVE-2026-52813完整攻擊流程，攻擊者可利用組織名稱驗證不完整造成的路徑穿越漏洞，將Git儲存庫建立在原定目錄之外，進一步竄改Git hook並在伺服器執行任意命令。
 
 - 📰 **iThome 科技**
 
-### 4. [SonicWall修補SMA1000遭積極利用的零時差漏洞](https://www.ithome.com.tw/news/178649)
+### 21. [甫修補的JFrog Artifactory身分驗證繞過漏洞已遭濫用](https://www.ithome.com.tw/news/178650)
 
-9月1日SonicWall發布資安公告，指出SMA1000系列的防火牆設備CVE-2026-83548、CVE-2026-83549，影響6210、7210、8200V等多個型號，該公司發布12.4.3-03526與12.5.0-02952版更新修補，由於沒有緩解措施，加上漏洞已遭到積極利用，該公司呼籲用戶要儘速更新因應。
-
-- 📰 **iThome 科技**
-
-### 5. [美國財政部成立金融業PQC工作小組，聚焦供應商整備](https://www.ithome.com.tw/news/178613)
-
-美國財政部成立量子整備工作小組（Quantum-Readiness Task Force），以公私協作方式加速金融產業後量子密碼學（Post-Quantum Cryptography��PQC）轉型。相較美國政府今年6月已針對聯邦政府高價值資產與高影響系統訂出明確PQC轉型期限，這次則進一步把金融機構、金融市場基礎設施及科技供應商納入協作，處理跨機構轉型、系統互通與供應商整備等問題。
+8月28日資安公司JFrog發布軟體供應鏈儲存庫Artifactory更新，修補重大等級身分驗證繞過漏洞CVE2026-82329，呼籲本地建置的用戶儘速升級7.161.20、7.146.38、7.133.29等新版因應，9月1日威脅情報公司watchTowr警告
 
 - 📰 **iThome 科技**
 
-### 6. [英國NCSC示警全球OT網攻活動升溫](https://www.ithome.com.tw/news/178598)
+### 22. [SonicWall修補SMA1000遭積極利用的零時差漏洞](https://www.ithome.com.tw/news/178649)
+
+9月1日SonicWall發布資安公告，指出SMA1000系列的SSL VPN閘道設備CVE-2026-83548、CVE-2026-83549，影響6210、7210、8200V等多個型號，該公司發布12.4.3-03526與12.5.0-02952版更新修補，由於沒有緩解措施，加上漏洞已遭到積極利用，該公司呼籲用戶要儘速更新因應。
+
+- 📰 **iThome 科技**
+
+### 23. [美國財政部成立金融業PQC工作小組，聚焦供應商整備](https://www.ithome.com.tw/news/178613)
+
+美國財政部成立量子整備工作小組（Quantum-Readiness Task Force），以公私協作方式加速金融產業後量子密碼學（Post-Quantum Cryptography，PQC）轉型。相較美國政府今年6月已針對聯邦政府高價值資產與高影響系統訂出明確PQC轉型期限，這次則進一步把金融機構、金融市場基礎設施及科技供應商納入協作，處理跨機構轉型、系統互通與供應商整備等問題。
+
+- 📰 **iThome 科技**
+
+### 24. [英國NCSC示警全球OT網攻活動升溫](https://www.ithome.com.tw/news/178598)
 
 英國國家網路安全中心（NCSC）近日警告，全球多個產業的營運技術（OT）系統面臨的網路攻擊威脅升高，部分事件甚至已干擾實際營運。
 NCSC特別提醒，OT設備若可直接從網際網路存取，就可能成為這類攻擊的目標。組織應檢查可程式化邏輯控制器（PLC）、人機介面（HMI）等設備是否仍對外開放，避免因錯誤組態、既有連線或未納入管理的設備，讓OT系統意外暴露於公開網路。
 
 - 📰 **iThome 科技**
 
-### 7. [藥局藥師也有專用的代理！藥事AI 代理計畫正式啟動、首波瞄南部50家示範藥局](https://www.ithome.com.tw/news/178639)
+### 25. [藥局藥師也有專用的代理！藥事AI 代理計畫正式啟動、首波瞄南部50家示範藥局](https://www.ithome.com.tw/news/178639)
 
-為響應行政院大南方新矽谷推動方案，高通與華碩旗下台智雲、台生科今日宣布啟動藥事AI 代理計畫，首波預計導入嘉義、臺南、高雄、屏東50家示範藥局。這套代理結合AI筆電與邊緣AI推論平臺，在裝置端執行開源AI模型，還能透過OCR辨識處方箋、藥袋等資料，再搭配食藥署藥品仿單建立的RAG知識庫，提供28項用藥適切性安全檢核，包括藥物交互作用、重複用藥、不適當用藥等風險，並支援藥師進行病患用藥諮詢與衛教。
+為響應行政院大南方新矽谷推動方案，高通與華碩旗下台智雲、台生科今日宣布啟動藥事AI 代理計畫，首波預計導入嘉義、臺南、高雄、屏東50家示範藥��。這套代理結合AI筆電與邊緣AI推論平臺，在裝置端執行開源AI模型，還能透過OCR辨識處方箋、藥袋等資料，再搭配食藥署藥品仿單建立的RAG知識庫，提供28項用藥適切性安全檢核，包括藥物交互作用、重複用藥、不適當用藥等風險，並支援藥師進行病患用藥諮詢與衛教。
 
 - 📰 **iThome 科技**
 
-### 8. [Diraq將8量子位元矽自旋量子電腦搬進Equinix，驗證商用資料中心部署](https://www.ithome.com.tw/news/178625)
+### 26. [Diraq將8量子位元矽自旋量子電腦搬進Equinix，驗證商用資料中心部署](https://www.ithome.com.tw/news/178625)
 
 澳洲量子運算業者Diraq與Equinix宣布，將在雪梨的Equinix資料中心部署8量子位元矽自旋量子電腦，預計10月完成安裝。整套設備包含低溫冷卻與控制系統，功耗低於20千瓦，可放在既有商用資料中心與一般伺服器共同運作。雙方將測試量子電腦的網路連線、遠端監控，以及與CPU、GPU等現有運算設備整合。
 
 - 📰 **iThome 科技**
 
-### 9. [微軟開源AI代理自動化框架UFO存在重大漏洞，攻擊者可直接遠端控制Android裝置](https://www.ithome.com.tw/news/178636)
+### 27. [微軟開源AI代理自動化框架UFO存在重大漏���，攻擊者可直接遠端控制Android裝置](https://www.ithome.com.tw/news/178636)
 
 微軟開源的AI代理自動化框架專案UFO近日發布資安公告，揭露其存在重大漏洞CVE-2026-73296。
 
 - 📰 **iThome 科技**
 
-### 10. [數發部AIEC公布國內外通用模型主權AI評測結果，模型不只要懂繁中、社會環境，還要懂臺灣價值觀](https://www.ithome.com.tw/news/178626)
+### 28. [數發部AIEC公布國內外通用模型主權AI評測結果，模型不只要懂繁中、社會環境，還要懂臺灣價值觀](https://www.ithome.com.tw/news/178626)
 
 數發部今天(9/2)公布AI產品與系統評測中心（AIEC）的
 
 - 📰 **iThome 科技**
 
-### 11. [PaperCut預告零時差漏洞可能還會有更多修補程式](https://www.ithome.com.tw/news/178627)
+### 29. [PaperCut預告零時差漏洞可能還會有更多修補程式](https://www.ithome.com.tw/news/178627)
 
 上週列印管理軟體廠商PaperCut揭露零時差漏洞CVE-2026-82078、CVE-2026-81578的攻擊事故，但與其他廠商處理方式有所不同的是，該公司採取且戰且走的策略，不到一週的時間已三次發布緊急修補程式，對此，該公司共同創辦人暨執行長Chris Dance本週說明，相關決定源自2023年發生的漏洞利用活動的
 
 - 📰 **iThome 科技**
 
-### 12. [李飛飛發布Atlas，世界模型進入新時代](https://www.ithome.com.tw/news/178624)
+### 30. [李飛飛發布Atlas，世界模型進入新時代](https://www.ithome.com.tw/news/178624)
 
 由著名AI科學家李飛飛創辦的World Labs周二（9/1）正式發表新一代世界模型Atlas，這是一款從零開始預訓練的「全模態模型」，可原生處理文字、圖像、影片與3D四種資料型態。World Labs表示，Atlas將驅動未來版本的Marble及其他產品，標誌著空間智能技術邁入新階段。
-
-- 📰 **iThome 科技**
-
-### 13. [Android Studio Quail 4預載23個代理技能，強化建置、效能診斷與跨裝置開發自動化](https://www.ithome.com.tw/news/178621)
-
-Google釋出整合式開發環境（IDE）Android Studio Quail 4穩定版，該工具直接預載23個由Android團隊整理的代理技能，AI代理收到開發指令後，會依工作內容自動找出適合的技能並套用。新版也整合Gemma 4本機模型，可在沒有網路連線的情況下處理跨多個檔案的修改，程式碼不必傳送到雲端。
-
-- 📰 **iThome 科技**
-
-### 14. [全球仍有近200臺PaperCut伺服器尚未修補零時差漏洞](https://www.ithome.com.tw/news/178622)
-
-上週列印管理軟體廠商PaperCut警告，零時差漏洞CVE-2026-82078與CVE-2026-81578被用於實際攻擊，該公司三度發布緊急更新因應，然而根據Shadowserver基金會的調查，截至8月31日，全球仍有近200臺尚未修補，其中美國有60臺最多，英國17臺居次，德國、義大利各有11臺，加拿大、荷蘭各有9臺。
-
-- 📰 **iThome 科技**
-
-### 15. [半導體矽智財公司乾瞻ERP系統遭加密攻擊，強調研發環境未受波及](https://www.ithome.com.tw/news/178620)
-
-9月1日晚間興櫃半導體矽智財公司乾瞻（7898）於股市公開資訊觀測站發布資安重訊，表示該公司的ERP系統遭駭客加密攻擊，資訊安全單位發現ERP出現異常後，經查證確認為加密攻擊，隨即展開全面性檢測、事件調查，以及防護作業，目前該公司仍持續進行影響範圍確認與根因分析。至於此次事件造成的影響，乾瞻初步評估對財務、業務及營運均無重大影響。
-
-- 📰 **iThome 科技**
-
-### 16. [【資安日報】9月2日，近2.2萬臺Exchange 伺服器暴露於漏洞導致的接管風險，臺灣也有250臺](https://www.ithome.com.tw/news/178617)
-
-本日新聞焦點
-● 近2.2萬臺Exchange 伺服器暴露於漏洞導致的接管風險
-● 為因應零時差漏洞攻擊活動，PaperCut三度發布緊急修補程式
-● TerminalFix社交工程攻擊將受害主機變成存取企業內網的跳板
-
-- 📰 **iThome 科技**
-
-### 17. [OpenAI宣布新模型Astra已具備重大網路安全能力](https://www.ithome.com.tw/news/178616)
-
-OpenAI周二（9/1）宣布，即將推出的新一代AI模型Astra已達該公司《準備框架》（Preparedness Framework）中所定義的「重大」（Critical）網路安全能力閾值。這是OpenAI首次有模型被評定為這一最高風險等級。
-根據OpenAI的定義，模型滿足以下兩項條件之一就算是達到重大門檻。一是模型可自行找出零時差漏洞，且自己寫程式發動攻擊，二是只要給定一個高層級目標，它就會自行規畫並執行完整的網路攻擊策略。上述兩者分屬不同能力，但凡做到其中任何一種，就是重大等級。
-
-- 📰 **iThome 科技**
-
-### 18. [CrowdStrike SafeMind讓紅藍隊AI反覆攻防，防禦端自動產生偵測規則](https://www.ithome.com.tw/news/178610)
-
-CrowdStrike發表資安AI系統SafeMind，推出Red Tempest攻擊模型與Blue Solano防禦模型，讓AI代理反覆進行攻防測試。攻擊模型先尋找可利用的攻擊路徑，防禦模型再根據Falcon蒐集的系統活動資料找出防禦缺口、建立並驗證偵測規則，完成後再交給攻擊端重新測試。
-
-- 📰 **iThome 科技**
-
-### 19. [Anthropic Fable 5.1首度開放抓漏，仍禁止開發攻擊程式](https://www.ithome.com.tw/news/178615)
-
-Anthropic周二（9/1）發表新一代旗艦模型Claude Fable 5.1與Mythos 5.1。在提升性能與優化成本之外，Anthropic首度對一般使用者放寬安全護欄，開放Fable 5.1用於發掘軟體漏洞，但依然禁止開發攻擊程式。
-Fable與Mythos採用完全相同的基礎模型，核心差異在於安全防護等級。Mythos僅提供給特定機構使用，Fable則面向所有一般用戶。兩者皆支援100萬token上下文，單次輸出上限達12.8萬token。
-
-- 📰 **iThome 科技**
-
-### 20. [Salesforce強化企業代理服務，推百套Skills、支援第三方代理協作，AI Coding也進入Slack](https://www.ithome.com.tw/news/178614)
-
-Salesforce日前公布今年冬季產品更新Winter ’27，一口氣揭露15項產品更新，從客服案件處理、預約派工、商品搜尋到軟體開發都有代理介入，預計10月12日正式推出。
-
-- 📰 **iThome 科技**
-
-### 21. [PaperCut揭露零時差漏洞發現過程，該公司借助客戶通報的情資掌握攻擊鏈](https://www.ithome.com.tw/news/178612)
-
-列印管理系統供應商PaperCut於8月27日，揭露鎖定旗下的PaperCut NG與PaperCut MF系統的零時差漏洞（CVE-2026-82078、CVE-2026-81578）攻擊，迄今已三次發布緊急修補程式，同一天該公司共同創辦人暨執行長Chris Dance說明，他們處理這起事故的發生經過。
-
-- 📰 **iThome 科技**
-
-### 22. [近2.2萬臺Exchange 伺服器暴露於漏洞導致的接管風險，臺灣也有250臺](https://www.ithome.com.tw/news/178609)
-
-微軟在8月份例行更新修補的Exchange 伺服器高風險漏洞CVE-2026-62911，近日引發關注，該漏洞的CVSS評分達8.0分，屬於權限提升問題，可能導致攻擊者接管受害主機上的所有使用者郵箱，包括收發信件與下載附件，影響Exchange 伺服器 2016與2019版，以及Exchange 伺服器訂閱版（SE）。
-
-- 📰 **iThome 科技**
-
-### 23. [Apple再促淘汰Intel Mac應用，macOS 27將成Rosetta通用支援最後一版](https://www.ithome.com.tw/news/178604)
-
-Apple再次提醒Mac開發者，macOS 27將是Rosetta一般用途支援的最後一版。使用Apple silicon晶片的Mac升級至macOS 27後，仍可透過Rosetta執行僅提供Intel版本的應用程式，但從macOS 28起，除部分舊遊戲外，一般Intel版應用程式將無法繼續執行。
-
-- 📰 **iThome 科技**
-
-### 24. [John Ternus正式接任蘋果執行長](https://www.ithome.com.tw/news/178608)
-
-蘋果本周二（9/1）正式完成備受矚目的執行長交接，由硬體工程資深副總裁John Ternus接��掌舵15年的Tim Cook，成為蘋果新任執行長，Cook則轉任董事會執行董事長。當天蘋果股價上漲了2.61%，以325.13美元作收。
-現年51歲的Ternus自2001年加入蘋果產品設計團隊，2013年升任硬體工程副總裁，2021年進入執行團隊擔任硬體工程資深副總裁，在蘋果已服務25年。
-
-- 📰 **iThome 科技**
-
-### 25. [為因應零時差漏洞攻擊活動，PaperCut三度發布緊急修補程式](https://www.ithome.com.tw/news/178607)
-
-上週列印管理系統供應商PaperCut警告，旗下的PaperCut NG與PaperCut MF系統存在零時差漏洞CVE-2026-82078、CVE-2026-81578，並在兩天內兩度發布緊急修補程式，隨後有多家資安公司揭露相關攻擊活動，美國網路安全與基礎設施安全局（CISA）也表示掌握漏洞遭積極利用
-
-- 📰 **iThome 科技**
-
-### 26. [Google發布ChromeOS長期支援版更新，修補28個資安漏洞](https://www.ithome.com.tw/news/178606)
-
-ChromeOS作業系統長期支援版LTS-144的更新144.0.7559.261，於8月27日上線，並納入28個資安漏洞的修補，其中有26個漏洞被評為高風險，另兩個漏洞為中度風險。
-
-- 📰 **iThome 科技**
-
-### 27. [Meta推出即時音訊模型Muse Voice Transcribe，Mac按住Fn鍵即可系統級語音輸入](https://www.ithome.com.tw/news/178605)
-
-Meta周二（9/1）正式推出由超級智慧實驗室（Meta Superintelligence Labs，MSL）所開發的首個即時音訊感知模型Muse Voice Transcribe。該模型將串流式自動語音辨識、說話者分離（Diarization）與端點偵測（Endpointing）整合於單一模型之中，用戶說話時系統可同步輸出文字，無需等待完整錄音結束後再進行後製處理。
-
-- 📰 **iThome 科技**
-
-### 28. [Palo Alto Networks併購Console，擴充AI代理資安能力](https://www.ithome.com.tw/news/178603)
-
-資安業者Palo Alto Networks宣布完成併購AI��生平臺Console，並將進一步擴充旗下Cortex資安營運平臺的AI代理能力，讓安全團隊運用AI代理調查資安訊號、排定工作優先順序並採取行動。
-
-- 📰 **iThome 科技**
-
-### 29. [偉訓部分資訊系統遭網路安全事件，已隔離受影響系統並啟動調查](https://www.ithome.com.tw/news/178602)
-
-上市電子零組件廠偉訓（3032）於8月30日晚間，在股市公開資訊觀測站發布資安重訊，表示已偵測到部分資訊系統遭受網路安全事件，在發現異常後立即啟動資安應變機制，隔離受影響的資訊系統並進行風險控管，同時委請外部專業資安廠商協助系統復原及事件調查。
-
-- 📰 **iThome 科技**
-
-### 30. [Google更新Chrome 152穩定版，修補26個資安漏洞](https://www.ithome.com.tw/news/178601)
-
-Google於9月1日發布Chrome瀏覽器新版本，在桌面版方面，Windows與Linux平臺穩定版更新至152.0.7977.75，Mac平��版本更新至152.0.7977.76；在行動裝置版方面，Android版本更新至152.0.7977.75，iOS
 
 - 📰 **iThome 科技**
 
@@ -195,6 +194,23 @@ Google於9月1日發布Chrome瀏覽器新版本，在桌面版方面，Windows�
 
 ### 更多 AI 新聞 (70則)
 
+- Is It Even Possible to Understand Quantum Mechanics? (**Wired**)
+- This Is Flock’s AI Search Tool for Cops (**Wired**)
+- Smart Toilets Are Already Using AI to Analyze Your Poop (**Wired**)
+- Face Recognition Is Becoming the Norm for Dating Apps (**Wired**)
+- The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen (**Wired**)
+- HBO Max Promo 代碼: 50% Off | September 2026 (**Wired**)
+- We-Vibe Discount Codes and Deals: Up to 60% Off (**Wired**)
+- Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans (**Wired**)
+- Instacart Promo 代碼: $15 Off | September 2026 (**Wired**)
+- Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts (**Wired**)
+- Lowe’s Promo Codes and Deals: Up to $300 Off Appliances (**Wired**)
+- Vimeo Promo Codes and Discounts: Up to 40% Off This September 2026 (**Wired**)
+- Expedia Coupons: 40% Off (**Wired**)
+- KitchenAid Promo Codes: Save Up to 20% (**Wired**)
+- ABT Promo Codes &amp; Discounts for September 2026 (**Wired**)
+- ExpressVPN Coupons: 73% Off (**Wired**)
+- Home Chef Promo Codes for September 2026 (**Wired**)
 - Meta Pushes Its 新 AI 代理 on Employees—but Eases Off on Tokenmaxxing (**Wired**)
 - Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are (**Wired**)
 - Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations (**Wired**)
@@ -211,14 +227,14 @@ Google於9月1日發布Chrome瀏覽器新版本，在桌面版方面，Windows�
 - Priceline Promo Codes &amp; Coupons: 10% Off September 2026 (**Wired**)
 - NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026 (**Wired**)
 - B&amp;H Photo Promo Codes and Deals This September 2026 (**Wired**)
+- 30% Off Canon Promo Codes | September 2026 (**Wired**)
 - Columbia Promo Codes: 15% Off | September 2026 (**Wired**)
 - Hoka Coupon Codes: 30% Off in September 2026 (**Wired**)
-- 30% Off Canon Promo Codes | September 2026 (**Wired**)
-- Altra Running Promo Codes: 10% Off September 2026 (**Wired**)
-- Verizon Promo Codes: $200 Verizon Gift Cards | September 2026 (**Wired**)
 - Whoop Promo Codes: 20% Off This September 2026 (**Wired**)
 - eBay Coupons: 20% Off in September 2026 (**Wired**)
+- Verizon Promo Codes: $200 Verizon Gift Cards | September 2026 (**Wired**)
 - Uplift Promo Codes: $300 Off (**Wired**)
+- Altra Running Promo Codes: 10% Off September 2026 (**Wired**)
 - The Range Rover Electric: Specs, Price, Availability (**Wired**)
 - The Diamond Moon and Other Astronomical Events to See in September 2026 (**Wired**)
 - OpenAI Is About to Release Its First AI 模型 With ‘Critical’ Cyber Abilities (**Wired**)
@@ -228,23 +244,6 @@ Google於9月1日發布Chrome瀏覽器新版本，在桌面版方面，Windows�
 - 5 最佳 Folding Phones (2026): Samsung, Google, Motorola (**Wired**)
 - Sennheiser Momentum 5 Wireless Headphones Review (2026) (**Wired**)
 - 3 最佳 Sleep Tracker Picks for Optimizing Your Sleep (2026) (**Wired**)
-- Inside the Perimenopause Industrial Complex (**Wired**)
-- Dyson’s Next Act Is an Electric Toothbrush With a Camera (**Wired**)
-- 50% Off DoorDash Promo 代碼 | September 2026 (**Wired**)
-- Nike Promo Codes and Discounts: 30% for September 2026 (**Wired**)
-- Peacock Promo Codes: 40% Off September 2026 (**Wired**)
-- Paramount+ Coupon Codes and Deals for September 2026 (**Wired**)
-- LG Promo Codes and Coupons for September 2026 (**Wired**)
-- Chewy Promo Codes: $20 Off September 2026 (**Wired**)
-- Dell Coupon Codes: 20% Off for September 2026 (**Wired**)
-- Home Depot Promo Codes: 30% Off in September 2026 (**Wired**)
-- Wayfair Coupons: Up to 80% Off September 2026 (**Wired**)
-- Newegg Promo Codes and Coupons for September 2026 (**Wired**)
-- 50% Off Blue Apron Promo Codes | September 2026 (**Wired**)
-- Squarespace Promo Codes: 30% Off in September 2026 (**Wired**)
-- AT&amp;T Promo Codes: $50 Off This September 2026 (**Wired**)
-- Dyson Promo Codes: 25% Off in September 2026 (**Wired**)
-- 20% Off Samsung Promo 代碼 | September 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
