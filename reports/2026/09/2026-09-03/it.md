@@ -4,210 +4,212 @@
 
 ---
 
-### 1. [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+### 1. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 
-- ⭐ 626 分｜💬 149 留言｜👤 ClydeN
+系統 Card: https:&#x2F;&#x2F;deploymentsafety.OpenAI.com&#x2F;GPT-6-astra
 
-### 2. [ChatGPT Is Throwing 404](https://chatgpt.com/)
+- ⭐ 478 分｜💬 268 留言｜👤 kibae
 
-- ⭐ 262 分｜💬 191 留言｜👤 stacktrace
+### 2. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
 
-### 3. [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
+- ⭐ 251 分｜💬 83 留言｜👤 altertable
 
-- ⭐ 31 分｜💬 12 留言｜👤 thinkingemote
+### 3. [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 
-### 4. [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
+- ⭐ 972 分｜💬 287 留言｜👤 pavel_lishin
 
-- ⭐ 158 分｜💬 133 留言｜👤 __vivek
+### 4. [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/)
 
-### 5. [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+- ⭐ 193 分｜💬 63 留言｜👤 karimf
 
-- ⭐ 305 分｜💬 100 留言｜👤 komape
+### 5. [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
 
-### 6. [Grok Outage](https://status.x.ai/)
+- ⭐ 312 分｜💬 140 留言｜👤 thinkingemote
 
-- ⭐ 9 分｜💬 4 留言｜👤 samaysharma
+### 6. [Porting my 1993 Amiga game to Godot, with an 大型語言模型 reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/)
 
-### 7. [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
+These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting th
 
-- ⭐ 268 分｜💬 90 留言｜👤 kciter
+- ⭐ 90 分｜💬 33 留言｜👤 rabahs
 
-### 8. [Invisible Companies](https://colossus.com/article/invisible-companies/)
+### 7. [GPT-6 Astra makes major gains in the Artificial Analysis Coding 代理 Index](https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra)
 
-- ⭐ 95 分｜💬 31 留言｜👤 ltononro
+- ⭐ 6 分｜💬 1 留言｜👤 wertyk
 
-### 9. [What I Learned from My Mom (1941-2026)](https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026)
+### 8. [Ask HN: 為什麼 were OpenAI, Claude, and Grok simultaneously down?](https://news.ycombinator.com/item?id=49551096)
 
-- ⭐ 171 分｜💬 8 留言｜👤 NaOH
+https:&#x2F;&#x2F;status.OpenAI.comhttps:&#x2F;&#x2F;status.Claude.comhttps:&#x2F;&#x2F;status.x.aiChatGPT outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614 (315 comment
 
-### 10. [Intrusive Linked Lists](https://www.data-structures-in-practice.com/intrusive-linked-lists/)
+- ⭐ 261 分｜💬 472 留言｜👤 halcdev
 
-- ⭐ 48 分｜💬 24 留言｜👤 tripdout
+### 9. [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california)
 
-### 11. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+- ⭐ 55 分｜💬 10 留言｜👤 speckx
 
-https:&#x2F;&#x2F;deepmind.Google&#x2F;models&#x2F;模型-cards&#x2F;Gemini-3-8-flash&#x2F;
+### 10. [Unusual Suspects](https://neal.fun/unusual-suspects/)
 
-- ⭐ 1118 分｜💬 629 留言｜👤 bratao
+- ⭐ 34 分｜💬 11 留言｜👤 beeperboy95
 
-### 12. [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+### 11. [The true horror of Edgar Allan Poe’s stories lies in their confessions](https://yalereview.org/article/emily-ogden-edgar-allan-poe)
 
-https:&#x2F;&#x2F;research.Meta.AI&#x2F;blog&#x2F;introducing-muse-spark-1-3
+- ⭐ 18 分｜💬 3 留言｜👤 lermontov
 
-- ⭐ 652 分｜💬 427 留言｜👤 bvaldivielso
+### 12. [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
 
-### 13. [9 Mothers (YC P26) Is 招聘 in Austin, TX](https://9mothers.com/careers)
+- ⭐ 16 分｜💬 4 留言｜👤 vignesh_warar
 
-- ⭐ 1 分｜💬 0 留言｜👤 ukd1
+### 13. [Gooseworks (YC W23) Is 招聘 – Founding Creative 工程師](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer)
 
-### 14. [NVIDIA to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
+- ⭐ 1 分｜💬 0 留言｜👤 shivsak
 
-- ⭐ 153 分｜💬 44 留言｜👤 tosh
+### 14. [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)
 
-### 15. [Codex Is Down](https://github.com/openai/codex/issues/28756)
+https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-e...
 
-- ⭐ 61 分｜💬 30 留言｜👤 armcat
+- ⭐ 14 分｜💬 8 留言｜👤 feb
 
-### 16. [Amazon Stonehenge: Parque Arqueológico do Solstício](https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio)
+### 15. [GPS glitched across the US by as much as 33 feet](https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before)
 
-- ⭐ 21 分｜💬 6 留言｜👤 nycdatasci
+- ⭐ 39 分｜💬 6 留言｜👤 thread_id
 
-### 17. [Three sites made 215,128 “最佳 軟體” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+### 16. [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 
-- ⭐ 490 分｜💬 239 留言｜👤 jakobgreenfeld
+- ⭐ 80 分｜💬 13 留言｜👤 surprisetalk
 
-### 18. [Anatomy of a Browser](https://medium.com/@Koukyosyumei/anatomy-of-a-browser-95014ab378f8)
+### 17. [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
 
-- ⭐ 6 分｜💬 0 留言｜👤 syumei
+- ⭐ 945 分｜💬 210 留言｜👤 ClydeN
 
-### 19. [Ask HN: 為什麼 are OpenAI, Claude, and Grok simultaneously down? Coincidence?](https://news.ycombinator.com/item?id=49551096)
+### 18. [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://news.ycombinator.com/item?id=49552616)
 
-https:&#x2F;&#x2F;status.OpenAI.com
-https:&#x2F;&#x2F;status.Claude.com
-https:&#x2F;&#x2F;status.x.AI
+Hi HN, I&#x27;m Ansh, founder of Mireye (https:&#x2F;&#x2F;www.mireye.com). I&#x27;m building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and sig
 
-- ⭐ 13 分｜💬 9 留言｜👤 halcdev
+- ⭐ 23 分｜💬 1 留言｜👤 anshchokshi
 
-### 20. [The Computer Museum of America reclamation project](https://computer-museum.org/wp/)
+### 19. [VC isn't VC anymore](https://www.anildash.com/2026/09/02/cancer-capital/)
 
-- ⭐ 82 分｜💬 33 留言｜👤 rbanffy
+- ⭐ 97 分｜💬 116 留言｜👤 cdrnsf
 
-### 21. [Fish Bad, Sugar Good and Other Medieval Ideas About Food](https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/)
+### 20. [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent)
 
-- ⭐ 68 分｜💬 49 留言｜👤 mooreds
+- ⭐ 39 分｜💬 20 留言｜👤 yurivish
 
-### 22. [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
+### 21. [Gloria Steinem has died](https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92)
 
-https:&#x2F;&#x2F;archive.ph&#x2F;rlAbYhttps:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;litigation&#x2F;Google-defeats-us-b...
+https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;03&#x2F;us&#x2F;politics&#x2F;gloria-steine..., https:&#x2F;&#x2F;archive.ph&#x2F;cfC1K
 
-- ⭐ 445 分｜💬 318 留言｜👤 donohoe
+- ⭐ 55 分｜💬 19 留言｜👤 mellosouls
 
-### 23. [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
+### 22. [“We want it to really confuse people, but also really make people happy”](https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/)
 
-- ⭐ 205 分｜💬 44 留言｜👤 ColinWright
+- ⭐ 38 分｜💬 11 留言｜👤 zdw
 
-### 24. [Florida revokes permits for license plate readers on state highways](https://www.wusf.org/transportation/2026-08-31/fdot-revokes-permits-for-flock-cameras-installed-on-state-land-next-to-roads)
+### 23. [The death of San Francisco's Market Street](https://www.noahpinion.blog/p/the-death-of-market-street)
 
-- ⭐ 54 分｜💬 15 留言｜👤 ilamont
+- ⭐ 11 分｜💬 1 留言｜👤 A_D_E_P_T
 
-### 25. [Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere](https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere)
+### 24. [Xanadu was waiting for agents](https://zed.dev/blog/agentic-xanadu)
 
-- ⭐ 29 分｜💬 4 留言｜👤 jjgreen
+- ⭐ 12 分｜💬 4 留言｜👤 nsm
 
-### 26. [Can I opt out of my input or output data being used for 訓練?](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
+### 25. [Google Antigravity TOS: 3rd party usage can get Google account suspended](https://twitter.com/GergelyOrosz/status/2095453567955968398)
 
-- ⭐ 479 分｜💬 227 留言｜👤 teekert
+- ⭐ 211 分｜💬 148 留言｜👤 tosh
 
-### 27. [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
+### 26. [如何 get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain)
 
-- ⭐ 307 分｜💬 88 留言｜👤 surreal_
+- ⭐ 70 分｜💬 8 留言｜👤 ethanhawksley
 
-### 28. [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
+### 27. [The asteroid currently hitting front end 網頁 development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
 
-- ⭐ 125 分｜💬 51 留言｜👤 DamonHD
+- ⭐ 16 分｜💬 11 留言｜👤 codechicago277
 
-### 29. [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/)
+### 28. [Go grandmaster Shin defeats AI KataGo with a two-stone handicap](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
 
-- ⭐ 241 分｜💬 46 留言｜👤 carlos-menezes
+- ⭐ 80 分｜💬 18 留言｜👤 gmays
 
-### 30. [Aging brains blend memories together instead of just forgetting them](https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/)
+### 29. [Unified Arabic](https://worksthatwork.com/6/unified-arabic)
 
-- ⭐ 326 分｜💬 130 留言｜👤 mdp2021
+- ⭐ 50 分｜💬 2 留言｜👤 spacebuffer
+
+### 30. [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+
+- ⭐ 364 分｜💬 120 留言｜👤 komape
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Biggest dark matter detector spots a single weird particle
+- Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere
+- My practical approach to surfing the 網頁 safely
+- A thousand years older than Stonehenge: Archaeologists explore a Czech sanctuary
+- The browser's main thread is expensive
+- Three-大型語言模型: Three.js-based WebGPU 大型語言模型 推論 engine
+- NVIDIA to acquire Hugging Face
+- Prime Gaps at Most 186
+- Invisible Companies
+- OpenAI begins rolling out GPT-6 Astra
+- Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB
+- What I learned from my mom (1941-2026)
+- Old Directions: Reviving the spirit of revival
+- Parque Arqueológico do Solstício
+- Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2014)
+- 如何 bring up the Linux Kernel on a 新 platform
+- Intrusive linked lists (2019)
+- 120 days until Google restricts side-loading, declaring war on Android freedom
+- GPT-6 Astra 系統 Card
+- The Double Matthew Walker Knot by Fable 5.1
+- LLMs and self-referentiality
+- 新 York Times and The Athletic workers demand company scrap Kalshi deal
+- Fish bad, sugar good, and other medieval ideas about food
+- The paradox of diffusion distillation (2024)
+- My BC-250 Journey (With 40 CUs Unlocked)
+- GoPro acquired, getting into 'defense, government, robotics and aerospace'
 - Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
-- Wendell Berry has died
-- Engineering of the fastest WebAssembly interpreters
-- Google Antigravity TOS: 3rd party usage can get Google account suspended
+- The Computer Museum of America reclamation project
+- Florida bans highway license-plate readers as backlash over surveillance spreads
+- Claude for Commerce Agents
+- Mom gets 6-month suspended sentence for letting 5-year-old walk to the pond
+- Cheap Desktop 400GbE Switch MikroTik CRS804-4DDQ-HRM Review
+- Instrument clusters are now paid extras in two Hyundai models
+- Microsoft 宣布 Change to Xbox 雲端 Gaming, Switches to Monthly Hour Limits
+- Renowned NYC Washington Square Park Chess Hustler 'Chichi' Detained by ICE
+- Grok outage
+- Gemini 3.8 Flash and 3.8 Flash Cyber
+- MapQuest tops Apple, Google Maps downloads after refusing 'Lake America' change
+- Muse Spark 1.3
+- Yes, no (built-in) AI is now a feature – LibreOffice blog
+- Winter 2026/2027 First Forecast: Super El Niño Drives a Major Weather Divide
 - Higher Multipoles of the Cow
-- Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond
-- A dark horse enters China's AI race: StartLux
+- Claude Fable 5.1 decoded a centuries-old royalist message hidden in since 1653
+- Sony makes bold claim about game ownership
+- Google WeatherNext 3
+- 為什麼 office workers are turning against AI
+- Three sites made 215,128 “最佳 軟體” pages for AI. Perplexity cites them
+- Show HN: Real-time AI news aggregator with daily digest
 - Qantas Airbus A380 engine failure in 2010 (2023)
-- Exit the Cave
-- UK's Online Safety Act has made 'absolutely no difference,' kids say
-- A Selection of Los Alamos Rolodex Business Cards
-- Elevated errors across ChatGPT and Codex
-- Poisson Disk Sampling
-- We could save petabytes of cache storage with Zstandard and Pingora
-- WebLLM: high-performance in-browser 大型語言模型 推論 engine
-- Async Rust vs RTOS showdown (2022)
-- Altair Basic Interpreter Source 代碼 (1975) [pdf]
-- Quasar 438B: Europe's Leading AI 模型
-- Show HN: The cheapest GPU 雲端 – H100s at $2.04/HR, H200s at $3/HR
-- Claude Fable 5.1 and Claude Mythos 5.1
-- Reasons robotics is hard
-- A note on subscription prices from LWN
-- How the Hell Did an Island Suddenly Appear, Then Vanish?
-- My local 模型 setup on an M4 Pro Mac Mini
-- Fuck Off as a Service (Foaas)
-- Fine, I'll 構建 my own text editor
-- Six curl CVEs after OpenAI and Anthropic came back with zero
-- Commodore 64 發布 September 1, 1982
-- The Silo · interactive 3D cutaway
-- I wanna live an NPC life
-- LLMs: Intelligence vs. Cost
-- FBI Probes Service Selling 153M+ Drivers Licenses
-- Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development
-- Paid Phones
-- Making the Internet Boring
-- How accurate have Ed Zitron's AI skeptic predictions been?
-- UN warns of 'supersized' El Niño as countries prepare for impact
-- SteamdDB Joins Nexus Mods
-- Paint.net 5.2 alpha now runs on Linux
-- AnkiDroid: Google Play no longer allowing Open Collective donation link
-- Introducing Ad Blocker for Firefox on iOS
-- Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form
-- The race to 工程師 新 knobs for the human brain
-- How bicycle coaster brakes work (2018)
-- GrapheneOS says Pixel 11 has MTE support after all
-- The Emergent Symbolic Structure of Artificial 神經網絡 Networks
-- Atlas: A World 模型 for Spatial Intelligence
-- Unified Arabic
-- The efficient frontier of 大型語言模型 推論
-- Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds
-- The shrinking landscape of linguistic diversity in the age of LLMs
-- Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's 招聘?"
-- Check if a file was made with Claude
-- Selling 軟體 Worldwide from Europe
-- WebFPGA (2019)
 - Show HN: OwnTime – a chess clock for your day's priorities
-- AI is stopping startups from completing puberty
-- Denmark versus UK: which country gets more health for their money?
-- Mamdani Bans AI in NYC Schools
-- Play Store blocks AuroraStore, hurting GrapheneOS users
-- Syria, eyeing role as Middle East hub, offers options to bypass Hormuz
-- A docs page is a search query to find AI agents and route them to your company
-- Product Backlog Problems: 為什麼 Your Hierarchy Is Broken
-- Using jq to format JSON on the clipboard
-- Open Battery Information
-- It's Like Having 150 Extra Engineers (1951)
-- I trained a small transformer in 1.5hrs and it beats many LLMs
-- AI, ex-Soviet engineers, and the Holy Grail of rocketry
-- Uber shuts operations in Nigeria and Uganda with immediate effect
+- WebLLM: high-performance in-browser 大型語言模型 推論 engine
+- We could save petabytes of cache storage with Zstandard and Pingora
+- OpenAI's 新 reasoning technique alarms AI safety experts
+- Google avoids a breakup of its ad tech business
+- Async Rust vs RTOS showdown (2022)
+- Ask HN: Founders that raised funding and shutdown, did you raise again?
+- Holden's Lightning Flight
+- Quasar 438B: Europe's Leading AI 模型
+- Altair Basic Interpreter Source 代碼 (1975) [pdf]
+- Ig Nobel Prize Winners
+- Can I opt out of my input or output data being used for 訓練?
+- Inside Google’s $200bn Wall Street finance machine for Anthropic
+- 為什麼 has Peter Thiel moved to Argentina?
+- Claude Fable 5.1 and Claude Mythos 5.1
+- My local 模型 setup on an M4 Pro Mac Mini
+- Fable 5.1 World Modeling
+- What if everything we know about recycling is wrong?
+- A dark horse enters China's AI race: StartLux
+- A note on subscription prices from LWN
+- Fine, I'll 構建 my own text editor
+- Aging brains blend memories together instead of just forgetting them
 
 
 ---
