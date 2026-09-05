@@ -16,7 +16,7 @@ GitHub強化靜態應用程式安全測試（SAST）工具CodeQL對GitHub Action
 
 - 📰 **iThome 科技**
 
-### 3. [【資安週報】0831~0904，臺灣新創Zeabur爆資料外洩��高權限AWS憑證失守，用戶急需輪替API金鑰與密碼](https://www.ithome.com.tw/news/178716)
+### 3. [【資安週報】0831~0904，臺灣新創Zeabur爆資料外洩，高權限AWS憑證失守，���戶急需輪替API金鑰與密碼](https://www.ithome.com.tw/news/178716)
 
 回顧2026年9月第一週的資安動態，臺灣雲端平臺Zeabur因高權限AWS憑證外洩遭駭，迫使用戶緊急輪替API金鑰與密碼，事故消息一出便引發相關用戶高度關注，後續影響仍待持續追蹤。此外，本週另有5家上市櫃公司發布資安重訊，其中2家特別指出是ERP系統遭到攻擊，這方面的威脅態勢同樣值得留意。
 高階資安攻防能力正逐漸成為先進AI模型的共通能力。繼Anthropic在4月公開Mythos Preview的資安能力後，9月初，OpenAI發布GPT-6 Astra，Google也推出Gemini 3.8 Flash Cyber並啟動Fairwind防禦計畫。
@@ -53,7 +53,7 @@ WordPress資安業者Wordfence揭露，Elementor Pro外掛重大漏洞CVE-2026-3
 ### 8. [G20成員國支持卡羅萊納原則，主張放寬AI監管](https://www.ithome.com.tw/news/178704)
 
 美國於北卡羅萊納州舉辦G20創新部長級會議，在美國商務部長Howard Lutnick與白宮官員主導下，包含中、俄等20個成員國一致背書美國所推動的「卡羅萊納原則」（Carolina Principles），為全球AI治理奠定輕度監管的共識。
-該原則鼓勵各國採用領域專屬的彈性規範，避免設立疊床架屋的新機構，並與民間合作評估���術；美國官員強調其核心訴求是在合理管控風險的同時，最大程度地促進全球經濟的成長與創新。
+該原則鼓勵各國採用領域專屬的彈性規範，避免設立疊床架屋的新機構，並與民間合作評估技術；美國官員強調其核心訴求是在合理管控風險的同時，最大程度地促進全球經濟的成長與創新。
 
 - 📰 **iThome 科技**
 
@@ -131,7 +131,7 @@ Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perpl
 
 ### 21. [英國NCSC整理PQC轉型實務，供應鏈整備成企業推動關鍵](https://www.ithome.com.tw/news/178638)
 
-英國政府資安機構國家網路安全中心（NCSC）今年7月公布PQC轉型工作坊成果，指出企業推動後量子密碼學（Post-Quantum Cryptography，PQC）轉型，除了盤點內部系統與密碼學資產，也要及早掌握供應商的產品升級進度。如果設備、軟體或服務無法如期支援PQC，即使企業已展開準備，轉型進���仍可能受到影響。
+英國政府資安機構國家網路安全中心（NCSC）今年7月公布PQC轉型工作坊成果，指出企業推動後量子密碼學（Post-Quantum Cryptography，PQC）轉型，除了盤點內部系統與密碼學資產，也要及早掌握供應商的產品升級進度。如果設備、軟體或服務無法如期支援PQC，即使企業已展開準備，轉型進度仍可能受到影響。
 
 - 📰 **iThome 科技**
 
@@ -143,9 +143,9 @@ Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perpl
 
 ### 23. [臺灣首款自研並支援3項PQC標準的密碼學應用晶片出爐！匯智攜手工研院共同催生，且已達量產等級](https://www.ithome.com.tw/news/178680)
 
-由於量子運算技術可能將導致既有加密防護失效的狀況，後量子密碼學（PQC）成為當前資安發展的重大議題，除了各界關注的PQC遷移進度與時程規畫，關係到抗量子破密技術普及的另一個關鍵，則是PQC晶片的發展，亦受到全世界的矚目，為了彰顯臺灣技術研發實力，在國際半導體展SEMICON Taiwan 2026大會上，匯智安全科技與工研院SecPaaS平臺共同發表國產後量子晶片最新成果。
+由於量子運算技術可能將導致既有加密防護失效的狀況，後量子密碼學（PQC）成為當前資安發展的重大議題，除了各界關注的PQC遷移進度與時程規畫，關係到抗量子破密技術普及的另一個關鍵，則是PQC晶片的發展，亦受到全世界的矚目，為了彰顯臺灣技術研發實力，在國際半導體展SEMICON Taiwan 2026大會上，匯智安全科技與工研院SecPaaS平臺共同發表國��後量子晶片最新成果。
 匯智鎖定企業級HSM的應用領域，推出新一代WAP晶片
-匯智表示，他們這次推出的產品，是首批結合3項後量子密碼學（PQC）標準，而且是可量產、達到商用等級的安全晶片，此舉展現臺灣在PQC晶片研發與落地應用上的技術能量與產業布
+匯智表示，他們這次推出的產品，是首批結合3項後量子密碼學（PQC）標準，而且是可量產、達到商用等級的安全晶片，此舉展現臺灣在PQC晶片研發與落地應用上的技術能量與產業
 
 - 📰 **iThome 科技**
 
@@ -165,7 +165,7 @@ Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perpl
 
 ### 26. [Cursor擴大雲端 Agents自架部署，新增8家基礎設施與團隊資源池](https://www.ithome.com.tw/news/178679)
 
-AI程式開發工具Cursor擴充Self-Hosted Machines功能���讓雲端 Agents可在企業自行管理的機器或雲端環境執行，並支援AWS Lambda、Cloudflare、Coder、Daytona、E2B、Modal、Namespace及Vercel等8家基礎設施供應商。企業仍從Cursor啟動與管理AI代理，但執行指令、修改檔案及操作程式碼儲存庫等工作，可改由企業指定的環境處理。
+AI程式開發工具Cursor擴充Self-Hosted Machines功能，讓雲端 Agents可在企業自行管理的機器或雲端環境執行，並支援AWS Lambda、Cloudflare、Coder、Daytona、E2B、Modal、Namespace及Vercel等8家基礎設施供應商。企業仍從Cursor啟動與管理AI代理，但執行指令、修改檔案及操作程式碼儲存庫等工作，可改由企業指定的環境處理。
 
 - 📰 **iThome 科技**
 
@@ -177,7 +177,7 @@ AI程式開發工具Cursor擴充Self-Hosted Machines功能���讓雲端 Age
 
 ### 28. [23年Sality殭屍網路遭國際聯手瓦解，P2P協定弱點反成切斷控制突破口](https://www.ithome.com.tw/news/178677)
 
-美國司法部9月1日宣布，跨國執法機關與資安業者聯手干擾運作超過20年的Sality殭屍網路。
+美國司法部9月1���宣布，跨國執法機關與資安業者聯手干擾運作超過20年的Sality殭屍網路。
 
 - 📰 **iThome 科技**
 
@@ -220,10 +220,10 @@ Google周三（9/2）發布新一代模型Gemini 3.8 Flash與其資安強化版G
 - AI Use in the 工作 Market Is Creating an Infinite Doom Loop (**Wired**)
 - What the Heck? Another Perfect Geometric Shape Has Been Detected on Saturn (**Wired**)
 - Silicon Valley Is Having a ‘Hot Girl Renaissance’ (**Wired**)
-- Mattress Firm Coupons: Save up to $700 (**Wired**)
 - Foreo Discount Codes and Deals: Up to 50% Off (**Wired**)
 - Sportsman's Warehouse Promo 代碼: Save in September 2026 (**Wired**)
 - Medicube Coupon 代碼: 40% Off for September 2026 (**Wired**)
+- Mattress Firm Coupons: Save up to $700 (**Wired**)
 - Purple Promo Codes and Deals: Up to 30% Off (**Wired**)
 - Tuft &amp; Needle Promo Codes: 30% Off | September 2026 (**Wired**)
 - Dermstore Coupons: 25% Off for September 2026 (**Wired**)

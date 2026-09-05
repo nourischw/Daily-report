@@ -4,210 +4,208 @@
 
 ---
 
-### 1. [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+### 1. [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
 
-- ⭐ 28 分｜💬 8 留言｜👤 networked
+- ⭐ 113 分｜💬 37 留言｜👤 tosh
 
-### 2. [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+### 2. [Learn 程式設計 with OCaml](https://usr.lmf.cnrs.fr/lpo/)
 
-- ⭐ 615 分｜💬 340 留言｜👤 negura
+- ⭐ 50 分｜💬 13 留言｜👤 elvis70
 
-### 3. [Discovery of a 新 OpenAI 代理 message board](https://collusion.wiki/)
+### 3. [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+
+- ⭐ 195 分｜💬 61 留言｜👤 networked
+
+### 4. [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
+
+- ⭐ 47 分｜💬 0 留言｜👤 torutofu
+
+### 5. [Discovery of a 新 OpenAI 代理 message board](https://collusion.wiki/)
 
 https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;OpenAI-agents-hijacked-...
 
-- ⭐ 1841 分｜💬 1407 留言｜👤 moultano
+- ⭐ 1992 分｜💬 1477 留言｜👤 moultano
 
-### 4. [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+### 6. [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
 
-- ⭐ 383 分｜💬 147 留言｜👤 Cider9986
+- ⭐ 708 分｜💬 406 留言｜👤 negura
 
-### 5. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+### 7. [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+
+- ⭐ 542 分｜💬 222 留言｜👤 Cider9986
+
+### 8. [Terpstra Keyboard](http://terpstrakeyboard.com/)
+
+- ⭐ 88 分｜💬 40 留言｜👤 cl3misch
+
+### 9. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 
 https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-Anthropic-h...
 
-- ⭐ 667 分｜💬 421 留言｜👤 jlebar
+- ⭐ 721 分｜💬 458 留言｜👤 jlebar
 
-### 6. [Pentagon rescinds 新 testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
+### 10. [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
 
-- ⭐ 59 分｜💬 37 留言｜👤 ndsipa_pomu
+- ⭐ 178 分｜💬 66 留言｜👤 robin_reala
 
-### 7. [Terpstra Keyboard](http://terpstrakeyboard.com/)
+### 11. [Steffen's Polyhedron – Greg Egan](https://www.gregegan.net/SCIENCE/Steffen/Steffen.html)
 
-- ⭐ 22 分｜💬 7 留言｜👤 cl3misch
+- ⭐ 22 分｜💬 1 留言｜👤 pavel_lishin
 
-### 8. [Netherlands pulls gold out of the US for fears of 'geopolitical unrest'](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)
+### 12. [Singapore subway (mrt) information display types](https://www.sgtrains.com/technology-infosys.html)
 
-- ⭐ 167 分｜💬 103 留言｜👤 daniel_iversen
+- ⭐ 31 分｜💬 5 留言｜👤 gregorvand
 
-### 9. [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+### 13. [A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads](https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/)
 
-- ⭐ 244 分｜💬 209 留言｜👤 sylvainkalache
+- ⭐ 50 分｜💬 3 留言｜👤 rfarley04
 
-### 10. [Statichost.eu – European static site hosting](https://www.statichost.eu/)
+### 14. [Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber](https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable)
 
-- ⭐ 354 分｜💬 157 留言｜👤 p4bl0
+- ⭐ 21 分｜💬 2 留言｜👤 crescit_eundo
 
-### 11. [Kale: A Transformation-Safe Spreadsheet 系統](https://arxiv.org/abs/2608.26345)
+### 15. [Delidded Intel I9-14900KS CT Scan](https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks)
 
-- ⭐ 37 分｜💬 13 留言｜👤 zdw
+- ⭐ 9 分｜💬 0 留言｜👤 willx86
 
-### 12. [Global warming will exceed 1.5-degree limit, UN says](https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone)
+### 16. [A Million Falcons Went Missing. Here’s How They Were Found](https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis)
 
-- ⭐ 17 分｜💬 0 留言｜👤 ijidak
+- ⭐ 52 分｜💬 19 留言｜👤 bryanrasmussen
 
-### 13. [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+### 17. [Statichost.eu – European static site hosting](https://www.statichost.eu/)
 
-- ⭐ 297 分｜💬 177 留言｜👤 iopapa
+- ⭐ 410 分｜💬 188 留言｜👤 p4bl0
 
-### 14. [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+### 18. [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 
-- ⭐ 260 分｜💬 167 留言｜👤 Topfi
+- ⭐ 337 分｜💬 198 留言｜👤 iopapa
 
-### 15. [Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
+### 19. [.gitignore Everything by Default](https://packagemain.tech/p/gitignore-everything-by-default)
 
-- ⭐ 6 分｜💬 0 留言｜👤 mkl
+- ⭐ 100 分｜💬 111 留言｜👤 der_gopher
 
-### 16. [Git hosting that never leaves Europe](https://pushin.eu)
+### 20. [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
 
-- ⭐ 148 分｜💬 86 留言｜👤 sevenseacat
+- ⭐ 322 分｜💬 286 留言｜👤 sylvainkalache
 
-### 17. [Portal by Spotify cut my Claude 代碼 token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
+### 21. [Write 軟體 in Latin (2025) [video]](https://www.youtube.com/watch?v=fGZpaqMha0o)
 
-- ⭐ 184 分｜💬 92 留言｜👤 cebert
+- ⭐ 26 分｜💬 9 留言｜👤 akkartik
 
-### 18. [A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads](https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/)
+### 22. [Meet the Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
 
-- ⭐ 3 分｜💬 1 留言｜👤 rfarley04
+- ⭐ 81 分｜💬 20 留言｜👤 mkl
 
-### 19. [Ask HN: Resources to get good at soldering?](https://news.ycombinator.com/item?id=49533840)
+### 23. [Git hosting that never leaves Europe](https://pushin.eu)
 
-Hello. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.Right
+- ⭐ 256 分｜💬 136 留言｜👤 sevenseacat
 
-- ⭐ 169 分｜💬 97 留言｜👤 tosmatos
+### 24. [The moral panic over data centres is foolish](https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish)
 
-### 20. [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
+- ⭐ 38 分｜💬 58 留言｜👤 andsoitis
+
+### 25. [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
 
 Hey all, i just launched my Eink Bike computer project and think it is cool.Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in 
 
-- ⭐ 326 分｜💬 108 留言｜👤 stingrae
+- ⭐ 368 分｜💬 114 留言｜👤 stingrae
 
-### 21. [Git Submodules as a Package 經理](https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html)
+### 26. [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
 
-- ⭐ 70 分｜💬 11 留言｜👤 ErenayDev
+- ⭐ 422 分｜💬 209 留言｜👤 mywacaday
 
-### 22. [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
+### 27. [How the Disaster of "Forever Chemicals" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
 
-- ⭐ 383 分｜💬 179 留言｜👤 mywacaday
+- ⭐ 236 分｜💬 68 留言｜👤 stevenwoo
 
-### 23. [Pointing at the error: compiler-style diagnostics in uutils coreutils](https://uutils.org/blog/2026-08-error-diagnostics/)
+### 28. [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
 
-- ⭐ 31 分｜💬 3 留言｜👤 ingve
+- ⭐ 290 分｜💬 212 留言｜👤 Topfi
 
-### 24. [IBM Bob](https://bob.ibm.com/)
+### 29. [Ask HN: Resources to get good at soldering?](https://news.ycombinator.com/item?id=49533840)
 
-- ⭐ 298 分｜💬 306 留言｜👤 artpar
+Hello. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.Right
 
-### 25. [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
+- ⭐ 211 分｜💬 132 留言｜👤 tosmatos
 
-- ⭐ 103 分｜💬 28 留言｜👤 wibbily
+### 30. [Dogs can distinguish between fearful and angry or sad human faces](https://www.theguardian.com/world/2026/aug/10/dogs-distinguish-fearful-angry-sad-human-faces-brain-scans)
 
-### 26. [Fermat's Last Theorem in Lean 4](https://github.com/anthropics/fermats-last-theorem)
-
-- ⭐ 129 分｜💬 25 留言｜👤 aaraujo002
-
-### 27. [The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/)
-
-- ⭐ 155 分｜💬 41 留言｜👤 acusti
-
-### 28. [Show HN: TERMy – A fast terminal 助手 that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md)
-
-I love research and development, you may have heard of me because of PJON (Padded Jittering Operative 網絡). It is a 網絡 protocol I started developing in 2010, which was recently implemented in
-
-- ⭐ 161 分｜💬 42 留言｜👤 gioscarab
-
-### 29. [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
-
-- ⭐ 131 分｜💬 54 留言｜👤 nojs
-
-### 30. [Pushdown automata in statistical machine translation (2014)](https://dl.acm.org/doi/abs/10.1162/coli_a_00197)
-
-- ⭐ 5 分｜💬 0 留言｜👤 brandonb
+- ⭐ 8 分｜💬 0 留言｜👤 howard941
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Sky Map 2000 – Star Atlas and Planetarium
+- How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)
+- Pointing at the error: compiler-style diagnostics in uutils coreutils
+- IBM Bob
+- Portal by Spotify cut my Claude 代碼 token usage by 90%
 - GPT-6 Astra
-- An open DNS recursive service for free 安全 and high privacy
-- Government Rails Site Hit Hours After CVE Patch
+- Show HN: TERMy – A fast terminal 助手 that does not use LLMs
+- Git Submodules as a Package 經理
+- Can guitar frets perform multiplication?
+- Artificial Analysis Intelligence Index v4.2
+- The Rust React Compiler is now native in Vite
 - Decompiler Explorer
-- deSEC – Free Secure DNS
-- Twenty Years of jQuery: How a Little Library Rewired 網頁 Development
-- Claude's 新 系統 prompt doesn't want to reproduce song lyrics
-- LG TVs aren't the only ones spying on you [video]
-- RSA-260 Factorized
-- GPT-6 Astra in 代碼 review: Gains, privacy, and cost
+- Kale: A Transformation-Safe Spreadsheet 系統
+- An open DNS recursive service for free 安全 and high privacy
+- Google skates
 - .name Termination
-- Record-High 89% in U.S. Say Government Corruption Widespread
+- deSEC – Free Secure DNS
+- Government Rails Site Hit Hours After CVE Patch
+- Netherlands pulls gold out of the US
+- AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores
 - “Next-token predictor” is the wrong mental 模型 for LLMs
-- Icons as a Service
 - Elevator of the Year: Modernization of the Metropolis Trust Building
+- SubImage (YC W25) Is 招聘 a Founding 工程師 in SF
+- Sky Map 2000 – Star Atlas and Planetarium
+- Icons as a Service
+- RSA-260 Factorized
 - Updates on HEIR, the Homomorphic Encryption Compiler Project
 - Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive
-- 如何 Create a Tor Exit Node (2015)
-- SubImage (YC W25) Is 招聘 a Founding 工程師 in SF
-- The Two Abstractions of 系統 Design: Hide or Reduce
+- Twenty Years of jQuery: How a Little Library Rewired 網頁 Development
+- Pushdown automata in statistical machine translation (2014)
 - Project HydraFusion: Frontier quality via multi-模型 orchestration
+- The Two Abstractions of 系統 Design: Hide or Reduce
+- 如何 Create a Tor Exit Node (2015)
 - Ok, but does it scale?
-- Connecting every app to every other app
+- Record-High 89% in U.S. Say Government Corruption Widespread
+- Flock used >100 times to track veteran who recorded traffic stop
+- LG TVs aren't the only ones spying on you [video]
 - Fomu An FPGA board that fits inside your USB port
-- Solving the Jane Street reverse engineering challenge
-- Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain
-- Show HN: Moadim.io – A scheduler for agents
-- 入門 with AT Protocol
-- Corporate America is getting hooked on open-source AI
+- Connecting every app to every other app
+- Colonialism for clicks: influencers trying to film most isolated tribes
 - Qwen 3.8 27B available on Cerebras at 1500 tokens/s
-- Without 新 landers or rovers, it's helicopters or bust for NASA's Mars program
-- Bugs happen: The easy way to compare solo PQ to ECC+PQ
-- Deadpan Photography: Enjoying the Pretence
-- Claude 代碼 skills for advanced context engineering techniques and patterns
+- Solving the Jane Street reverse engineering challenge
+- The Pelican comparison grid for Astra is pretty interesting
+- Fermat's Last Theorem in Lean 4
+- 入門 with AT Protocol
 - Ask HN: Who is using MCP in production?
-- Google AI Mode shows same products 21.6% more expensive than traditional search
-- Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region
+- Corporate America is getting hooked on open-source AI
+- GPT-6 Astra in 代碼 review: Gains, privacy, and cost
+- Claude 代碼 skills for advanced context engineering techniques and patterns
+- Biologist Andrew Newhouse on the genetic revival of the American chestnut
+- Deadpan Photography: Enjoying the Pretence
+- Rebuilding a 1995 GPS Time 伺服器 so I don't get Telstra'd
 - Xanadu was waiting for agents
-- Tetris issues legal warning after White House releases arcade of parody games
-- The asteroid currently hitting front end 網頁 development
+- Google AI Mode shows same products 21.6% more expensive than traditional search
 - Unusual Suspects
-- CSS for Printing to Paper (2025)
-- 新 type of dice guarantees no tie when deciding who goes first
+- The asteroid currently hitting front end 網頁 development
+- Show HN: Moadim.io – A scheduler for agents
+- Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region
+- Without 新 landers or rovers, it's helicopters or bust for NASA's Mars program
 - The largest electric aircraft just flew [video]
-- ExactTex. A gradually-typed superset of LaTeX
+- 新 type of dice guarantees no tie when deciding who goes first
+- Global warming will exceed 1.5-degree limit, UN says
+- Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain
 - Project Xanadu: Even More Hindsight (2025)
-- 新 Zealand is determined not to keep China's espionage a secret
 - Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%
 - Go grandmaster Shin defeats AI KataGo with a two-stone handicap
-- SwiftTUI
-- Thinking in 代碼
-- 為什麼 are European countries moving their gold out of North America?
+- Bugs happen: The easy way to compare solo PQ to ECC+PQ
 - 如何 get a free .arpa domain
-- How Fairphone built the Fairphone Gen 6+
 - The true horror of Edgar Allan Poe’s stories lies in their confessions
-- Leading Theory for How Life on Earth Began Is 'Highly Unlikely'
-- US Military disables ad trackers on troops' phones
-- Show HN: Reactor Atlas
 - Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
-- Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2014)
-- Gimlet's Series B
-- Gemini 3.8 Flash and 3.8 Flash Cyber
-- Searching for the 最佳 Silicone USB Cable
-- Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere
-- Virtual Threads for a scripting language in Java 8 without Loom
-- Invisible Companies
-- Porting my 1993 Amiga game to Godot, with an 大型語言模型 reading the 68000 assembly
-- Ask HN: 為什麼 were OpenAI, Claude, and Grok simultaneously down?
-- Any Human Ever – One life, drawn at random from all who have ever lived
+- SwiftTUI
 
 
 ---
