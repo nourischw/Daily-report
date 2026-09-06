@@ -4,202 +4,202 @@
 
 ---
 
-### 1. [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
+### 1. [Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
 
-- ⭐ 124 分｜💬 10 留言｜👤 mpweiher
+- ⭐ 193 分｜💬 108 留言｜👤 cyb0rg0
 
-### 2. [Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/)
+### 2. [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)
 
-- ⭐ 42 分｜💬 17 留言｜👤 rzk
+- ⭐ 135 分｜💬 74 留言｜👤 shubhamjain
 
-### 3. [雲端 in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+### 3. [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
 
-- ⭐ 402 分｜💬 189 留言｜👤 zplizzi
+- ⭐ 361 分｜💬 105 留言｜👤 mpweiher
 
-### 4. [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
+### 4. [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
 
-- ⭐ 132 分｜💬 55 留言｜👤 birdculture
+- ⭐ 16 分｜💬 1 留言｜👤 andsoitis
 
-### 5. [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+### 5. [M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years](https://en.wikipedia.org/wiki/M-DISC)
 
-- ⭐ 357 分｜💬 146 留言｜👤 chmaynard
+- ⭐ 88 分｜💬 37 留言｜👤 gurjeet
 
-### 6. [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
+### 6. [The pencil case 模型 of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
 
-- ⭐ 53 分｜💬 11 留言｜👤 vrganj
+- ⭐ 27 分｜💬 3 留言｜👤 jruohonen
 
-### 7. [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/)
+### 7. [雲端 in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
 
-- ⭐ 62 分｜💬 9 留言｜👤 sohkamyung
+- ⭐ 508 分｜💬 256 留言｜👤 zplizzi
 
-### 8. [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+### 8. [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 
-- ⭐ 58 分｜💬 21 留言｜👤 firexcy
+- ⭐ 468 分｜💬 218 留言｜👤 chmaynard
 
-### 9. [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
+### 9. [I'm teaching an introductory 12 week course on Quantum Oracle Engineering](https://shukla.io/quantum-oracle-engineering/)
 
-- ⭐ 61 分｜💬 12 留言｜👤 zdw
+- ⭐ 8 分｜💬 2 留言｜👤 BinRoo
 
-### 10. [IBM Quantum Nighthawk R2](https://www.ibm.com/quantum/blog/nighthawk-r2)
+### 10. [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
 
-- ⭐ 8 分｜💬 0 留言｜👤 fuglede_
+- ⭐ 233 分｜💬 132 留言｜👤 birdculture
 
-### 11. [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
+### 11. [什麼是 Nueralese and 為什麼 is it Bad](https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad)
 
-- ⭐ 51 分｜💬 4 留言｜👤 vermaden
+- ⭐ 6 分｜💬 0 留言｜👤 tristanMatthias
 
-### 12. [Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark](https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html)
+### 12. [IBM Quantum Nighthawk R2](https://www.ibm.com/quantum/blog/nighthawk-r2)
 
-- ⭐ 25 分｜💬 31 留言｜👤 bookofjoe
+- ⭐ 46 分｜💬 24 留言｜👤 fuglede_
 
-### 13. [Discovery of a 新 OpenAI 代理 message board](https://collusion.wiki/)
+### 13. [Household Laser Cuts](https://cceckman.com/writing/household-laser-cuts/)
+
+- ⭐ 18 分｜💬 3 留言｜👤 evakhoury
+
+### 14. [Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats](https://www.phoronix.com/news/Asahi-Linux-Official-M3)
+
+- ⭐ 15 分｜💬 1 留言｜👤 mdp2021
+
+### 15. [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/)
+
+- ⭐ 100 分｜💬 18 留言｜👤 sohkamyung
+
+### 16. [The Empire of Information](https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/)
+
+- ⭐ 21 分｜💬 6 留言｜👤 Petiver
+
+### 17. [Fileregister: Tagging and reference layer for your files, in plain text](https://github.com/rhsev/fileregister)
+
+- ⭐ 9 分｜💬 1 留言｜👤 ingve
+
+### 18. [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
+
+- ⭐ 86 分｜💬 9 留言｜👤 vermaden
+
+### 19. [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+
+- ⭐ 104 分｜💬 45 留言｜👤 firexcy
+
+### 20. [Discovery of a 新 OpenAI 代理 message board](https://collusion.wiki/)
 
 https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;OpenAI-agents-hijacked-...
 
-- ⭐ 2187 分｜💬 1545 留言｜👤 moultano
+- ⭐ 2227 分｜💬 1564 留言｜👤 moultano
 
-### 14. [Learn 程式設計 with OCaml](https://usr.lmf.cnrs.fr/lpo/)
+### 21. [I Changed My License](https://bergie.iki.fi/blog/eupl/)
 
-- ⭐ 255 分｜💬 93 留言｜👤 elvis70
+- ⭐ 108 分｜💬 123 留言｜👤 jllyhill
 
-### 15. [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
+### 22. [2026 Hugo Awards](https://www.thehugoawards.org/)
 
-- ⭐ 403 分｜💬 61 留言｜👤 ExMachina73
+- ⭐ 23 分｜💬 5 留言｜👤 signa11
 
-### 16. [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+### 23. [Learn 程式設計 with OCaml](https://usr.lmf.cnrs.fr/lpo/)
 
-- ⭐ 343 分｜💬 99 留言｜👤 networked
+- ⭐ 288 分｜💬 120 留言｜👤 elvis70
 
-### 17. [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+### 24. [新 all in one 6502 computer (Neo6502kbd)](https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/)
 
-- ⭐ 604 分｜💬 318 留言｜👤 bookmtn
+- ⭐ 24 分｜💬 11 留言｜👤 AlexeyBrin
 
-### 18. [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+### 25. [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
 
-- ⭐ 775 分｜💬 467 留言｜👤 negura
+- ⭐ 332 分｜💬 225 留言｜👤 canjobear
 
-### 19. [A Computer History Time Capsule](https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/)
+### 26. [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
 
-- ⭐ 7 分｜💬 0 留言｜👤 mooreds
+- ⭐ 361 分｜💬 106 留言｜👤 networked
 
-### 20. [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+### 27. ['Old Person Smell'](https://www.theguardian.com/wellness/2026/sep/03/old-person-smell)
 
-- ⭐ 679 分｜💬 345 留言｜👤 Cider9986
+- ⭐ 44 分｜💬 21 留言｜👤 bookofjoe
 
-### 21. [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
+### 28. [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
 
-- ⭐ 173 分｜💬 33 留言｜👤 torutofu
+- ⭐ 500 分｜💬 88 留言｜👤 ExMachina73
 
-### 22. [Topologist's Map of the World](https://www.futilitycloset.com/2026/09/01/small-world-20/)
+### 29. [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
 
-- ⭐ 91 分｜💬 25 留言｜👤 beardyw
+- ⭐ 76 分｜💬 16 留言｜👤 zdw
 
-### 23. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
+### 30. [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
 
-- ⭐ 181 分｜💬 136 留言｜👤 Anon84
-
-### 24. [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
-
-- ⭐ 271 分｜💬 198 留言｜👤 canjobear
-
-### 25. [RecurseCenter.return()](https://mm-dev.rocks/series/recursecenter.return/)
-
-- ⭐ 50 分｜💬 8 留言｜👤 evakhoury
-
-### 26. [How Swiss tables work in Go built-in map](https://victoriametrics.com/blog/go-swiss-table-map/index.html)
-
-- ⭐ 79 分｜💬 5 留言｜👤 valyala
-
-### 27. [Site Is Closed on Sundays](https://v7.robweychert.com/)
-
-- ⭐ 84 分｜💬 96 留言｜👤 edent
-
-### 28. [Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor](https://github.com/iczelia/balrogg)
-
-- ⭐ 83 分｜💬 11 留言｜👤 palaiologos
-
-### 29. [Delidded Intel I9-14900KS CT Scan](https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks)
-
-- ⭐ 105 分｜💬 9 留言｜👤 willx86
-
-### 30. [Matching Puzzle Pieces and Disappointing Benchmarks](https://llogiq.github.io/2026/03/20/case.html)
-
-- ⭐ 5 分｜💬 0 留言｜👤 speckx
+- ⭐ 670 分｜💬 362 留言｜👤 bookmtn
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Statichost.eu – European static site hosting
+- Schemy Lisp En DOS
+- Visualizing Rust's Vtables: How dyn Trait Works In Memory
+- Topologist's Map of the World
+- How Swiss tables work in Go built-in map
+- RecurseCenter.return()
+- 大型語言模型 representations have implicit symbolic structure
+- Delidded Intel I9-14900KS CT Scan
+- A Computer History Time Capsule
+- Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor
+- AI Slop
+- GPT-6 Astra on robot arms
 - Terpstra Keyboard
-- Can AI design circuit boards yet?
+- Don't Use a gmail.com Address
+- Actively exploited sandbox RCE in all Chromium versions
 - ISAR Aerospace 5 Sept Mission Onward and Upward
-- Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)
-- Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber
-- A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads
+- Nitter has more working instances than before the takedowns
 - Ask HN: Resources to get good at soldering?
-- Singapore subway (mrt) information display types
-- Show HN: Open-Source eInk Bike Computer
+- Decapitating a MacBook
 - GPT-6 Astra
-- Steffen's Polyhedron
-- Show HN: Fly By – retro biplane flying game
+- Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)
+- Show HN: Open-Source eInk Bike Computer
+- Matching Puzzle Pieces and Disappointing Benchmarks
+- A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads
+- Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber
 - Formalizing Fermat's Last Theorem
+- Singapore subway (mrt) information display types
 - GPT-6 Astra on OpenRouter
-- .gitignore Everything by Default
-- Obscura: Native rendering is here. No Chromium required
-- A Million Falcons Went Missing. Here’s How They Were Found
-- Git hosting that never leaves Europe
-- CHC5: Open Camera 系統 – Image Sensor Specification Comparison
 - .name Termination
-- Shutting down our public encrypted DNS
+- Steffen's Polyhedron
+- Git hosting that never leaves Europe
+- A Million Falcons Went Missing. Here’s How They Were Found
+- "Catching Crumbs from the Table"
+- OKF 代理 Memory – Git-native persistent memory for AI coding agents
 - AI handles incidents, engineers lose touch with their systems
 - Show HN: TERMy – A fast terminal 助手 that does not use LLMs
-- Isar Aerospace launch into orbit [video]
-- OKF 代理 Memory – Git-native persistent memory for AI coding agents
-- Responsive Windows for Workgroups 3.11
+- Shutting down our public encrypted DNS
+- .gitignore Everything by Default
+- Obscura: Native rendering is here. No Chromium required
+- SubImage (YC W25) Is 招聘 a Founding 工程師 in SF
+- Show HN: Fly By – retro biplane flying game
+- Statichost.eu – European static site hosting
+- An open DNS recursive service for free 安全 and high privacy
 - Pointing at the error: compiler-style diagnostics in uutils coreutils
 - Portal by Spotify cut my Claude 代碼 token usage by 90%
-- An open DNS recursive service for free 安全 and high privacy
-- Can guitar frets perform multiplication?
 - The Rust React Compiler is now native in Vite
+- Can guitar frets perform multiplication?
 - deSEC – Free Secure DNS
-- Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA
+- CHC5: Open Camera 系統 – Image Sensor Specification Comparison
 - Decompiler Explorer
 - Artificial Analysis Intelligence Index v4.2
-- Git Submodules as a Package 經理
-- 34 arrests made for drug trafficking at Burning Man as of Friday
+- Can AI design circuit boards yet?
 - Elevator of the Year: Modernization of the Metropolis Trust Building
+- Git Submodules as a Package 經理
+- Responsive Windows for Workgroups 3.11
+- Isar Aerospace launch into orbit [video]
 - Anthropic & friends caught paying religious NGO's 3.3M for propaganda
 - Government Rails Site Hit Hours After CVE Patch
-- Write 軟體 in Latin (2025) [video]
+- Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA
+- Site Is Closed on Sundays
 - “Next-token predictor” is the wrong mental 模型 for LLMs
-- South African diamond mines are closing due to weak sales and lab-grown stones
 - RSA-260 Factorized
-- The Real Luxuries In Life
 - Qwen 3.8 27B available on Cerebras at 1500 tokens/s
-- The Pelican comparison grid for Astra is pretty interesting
-- Icons as a Service
-- SubImage (YC W25) Is 招聘 a Founding 工程師 in SF
+- Write 軟體 in Latin (2025) [video]
+- South African diamond mines are closing due to weak sales and lab-grown stones
 - The Two Abstractions of 系統 Design: Hide or Reduce
-- Kale: A Transformation-Safe Spreadsheet 系統
+- Ask HN: Who is using MCP in production?
 - Updates on HEIR, the Homomorphic Encryption Compiler Project
+- The Pelican comparison grid for Astra is pretty interesting
 - Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive
 - Ok, but does it scale?
-- Ask HN: Who is using MCP in production?
-- Project HydraFusion: Frontier quality via multi-模型 orchestration
-- IBM Bob
-- Xanadu was waiting for agents
-- Latent Powers
-- 如何 Create a Tor Exit Node (2015)
-- Solving the Jane Street reverse engineering challenge
-- Unusual Suspects
-- The asteroid currently hitting front end 網頁 development
-- How the Disaster of "Forever Chemicals" Was Kept Secret
-- Meet the Ig Nobel Prize Winners
-- The largest electric aircraft just flew [video]
-- 入門 with AT Protocol
-- Fomu An FPGA board that fits inside your USB port
-- Corporate America is getting hooked on open-source AI
 
 
 ---
