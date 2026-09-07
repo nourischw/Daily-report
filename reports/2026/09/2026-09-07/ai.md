@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [PostgreSQL邏輯解碼漏洞藏12年，複寫帳號可載入任意程式碼](https://www.ithome.com.tw/news/178756)
+### 1. [PostgreSQL邏輯解碼漏洞藏12年，複寫帳號可載入任��程式碼](https://www.ithome.com.tw/news/178756)
 
 資安業者Cyera公開PostgreSQL漏洞CVE-2026-6471的技術細節，問題可追溯至2014年PostgreSQL 9.4加入的邏輯解碼功能。在已啟用邏輯解碼的PostgreSQL伺服器上，持有REPLICATION複寫權限，但非超級使用者的帳號，可要求PostgreSQL載入指定的程式碼函式庫，以資料庫服務使用的作業系統帳號執行任意程式碼。
 
@@ -37,7 +37,7 @@
 
 ### 6. [PaperCut零時差漏洞攻擊鎖定歐美學校](https://www.ithome.com.tw/news/178755)
 
-8月底列印���理軟體廠商PaperCut提出警告，PaperCut NG與PaperCut MF系統遭到零時差漏洞攻擊，迄今該公司已發布3次緊急更新，修補CVE-2026-82078、CVE-2026-81578兩個零時差漏洞，如今傳出有人用於攻擊特定領域的用戶，藉此搜刮憑證。
+8月底列印管理軟體廠商PaperCut提出警告，PaperCut NG與PaperCut MF系統遭到零時差漏洞攻擊，迄今該公司已發布3次緊急更新，修補CVE-2026-82078、CVE-2026-81578兩個零時差漏洞，如今傳出有人用於攻擊特定領域的用戶，藉此搜刮憑證。
 
 - 📰 **iThome 科技**
 
@@ -49,7 +49,7 @@
 
 ### 8. [川普政府推出專門推廣政策的遊戲網站](https://www.ithome.com.tw/news/178749)
 
-美國白宮官方網站上周四（9/4）上架了名為「White House Arcade」的網頁街機專區，將總統川普（Donald Trump）的核心施政口號與��策包裝成5款復古小遊戲，透過滿滿的迷因風格與復古懷舊感，企圖在網路上掀起病毒式的傳播與討論。
+美國白宮官方網站上周四（9/4）上架了名為「White House Arcade」的網頁街機專區，將總統川普（Donald Trump）的核心施政口號與政策包裝成5款復古小遊戲，透過滿滿的迷因風格與復古懷舊感，企圖在網路上掀起病毒式的傳播與討論。
 
 - 📰 **iThome 科技**
 
@@ -64,7 +64,7 @@
 本日新聞焦點
 ● SEMI E187驗證標章亮相，首波通過認證產品年底前問世
 ● 中科院傳出採購網大量派送過期資訊，起因是遭遇外部攻擊
-● OpenAI代理人連上德文論壇共商解題，且1個多��才被發現
+● OpenAI代理人連上德文論壇共商解題，且1個多月才被發現
 
 - 📰 **iThome 科技**
 
@@ -76,14 +76,14 @@
 
 ### 12. [垃圾郵件業者已大規模套用ASCII走私技巧](https://www.ithome.com.tw/news/178736)
 
-微軟安全研究團隊上周揭露一網路攻擊趨勢，原本活躍於「AI提示注入」攻擊領域的進階迴避技術 「ASCII走私」 （ASCII Smuggling），已被大規模濫用於傳統的垃圾郵件與釣魚攻擊。自今年2月起，該手法在微軟的偵��系統中觸發了數百萬次的警報，形成一波為期三個月、每日高達230萬封郵件的龐大攻勢。
+微軟安全研究團隊上周揭露一網路攻擊趨勢，原本活躍於「AI提示注入」攻擊領域的進階迴避技術 「ASCII走私」 （ASCII Smuggling），已被大規模濫用於傳統的垃圾郵件與釣魚攻擊。自今年2月��，該手法在微軟的偵測系統中觸發了數百萬次的警報，形成一波為期三個月、每日高達230萬封郵件的龐大攻勢。
 
 - 📰 **iThome 科技**
 
 ### 13. [從原水監測、淨水、供水到水務管理，台水加速智慧水務管理大幅改善供水韌性](https://www.ithome.com.tw/news/178714)
 
 水是民生與產業運作不可或缺的重要資源。對一般民眾而言，打開水龍頭就能取得穩定的用水，每天都會用到的自來水看似簡單，但是其背後從水庫、河川及地下水等原水來源，到淨水處理、輸配水管網及用戶端服務等一系列複雜流程。台灣自來水公司(簡稱台水)資訊處長曾沛聰在2026數位政府高峰會分享，台水如何導入AI推動智慧水務發展，強化供水韌性及永續。
-曾沛聰首先指出，全球氣候變遷正在改變傳統水務管理模式。颱風與豪雨可能造成河川原水濁度快速升高，影響淨水處理；而長時間乾旱則會造成水源調度壓力；另一方面，埋設於地下的大量管線也面臨老化與漏水問題。在各種突發狀況下維持穩定供水，已成為水務管理的重要課題，也是供���韌性
+曾沛聰首先指出，全球氣候變遷正在改變傳統水務管理模式。颱風與豪雨可能造成河川原水濁度快速升高，影響淨水處理；而長時間乾旱則會造成水源調度壓力；另一方面，埋設於地下的大量管線也面臨老化與漏水問題。在各種突發狀況下維持穩定供水，已成為水務管���的重要課題，也是供水韌性
 
 - 📰 **iThome 科技**
 
@@ -119,7 +119,7 @@
 
 ### 19. [MongoDB修補33個漏洞，包含BI Connector多個高風險漏洞](https://www.ithome.com.tw/news/178729)
 
-資料庫軟體業者MongoDB於8月27日至9月4日陸續修補33個資安漏洞，包括9個高風險漏洞，涵蓋BI Connector套件（又稱MongoDB Connector for BI）、ODBC Driver，以及C#、Rust、PHP、C、C++與Go等程式語言Driver，涉及的問題包括記憶體破壞、繞過驗證、資料外洩與阻斷服務等，建議用戶依部署元件升級至對應的已修補版本。
+資料庫軟體業者MongoDB於8月27日至9月4日陸續修補33個資安漏洞，包括9個高風險漏洞，涵蓋BI Connector套件（又稱MongoDB Connector for BI）、ODBC Driver，以及C#、Rust、PHP、C、C++與Go等程式語言Driver，涉及的問題包括記憶體破壞、繞過驗證、資料外洩與阻斷服務等，建議用戶依部署元件升級至對應的已修補���本。
 
 - 📰 **iThome 科技**
 
@@ -131,7 +131,7 @@
 
 ### 21. [中科院傳出採購網大量派送過期資訊，起因是遭遇外部攻擊](https://www.ithome.com.tw/news/178727)
 
-系統開發商為維護方便而設下的管理介面，成為攻擊者入侵的破口！國家中山科學研究院採購資訊網日前突然送出大量過期採購資訊，相關廠商收到因而懷疑此系統可能遭到入侵，然而這起事故發生的時間，中科院剛好在測試AI代理，因此他們起初��疑是AI出錯釀禍，但後來又改口是遭到外部入侵。
+系統開發商為維護方便而設下的管理介面，成為攻擊者入侵的破口！國家中山科學研究院採購資訊網日前突然送出大量過期採購資訊，相關廠商收到因而懷疑此系統可能遭到入侵，然而這起事故發生的時間，中科院剛好在測試AI代理，因此他們起初懷疑是AI出錯釀禍，但後來又改口是遭到外部入侵。
 
 - 📰 **iThome 科技**
 
@@ -172,7 +172,7 @@ AI代理資安新創Air 安全近日正式公開亮相，並宣布累計取得5,
 
 - 📰 **iThome 科技**
 
-### 28. [JetBrains加強Kotlin工具鏈，可發布多平臺函式庫並建置Wasm應用](https://www.ithome.com.tw/news/178720)
+### 28. [JetBrains加強Kotlin工具鏈，可發布多平臺函式庫並��置Wasm應用](https://www.ithome.com.tw/news/178720)
 
 JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式庫發布能力，涵蓋JVM、Android、iOS與WebAssembly（Wasm），並預覽Wasm網頁應用建置功能。開發者可使用相同的工具設定函式庫支援的平臺，再產生各平臺需要的版本。
 
@@ -184,7 +184,7 @@ JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式�
 
 - 📰 **iThome 科技**
 
-### 30. [【AI轉型實例】玉山金打造AI智能徵信流程，7分鐘生成報告初稿，年省8.4萬人時](https://www.ithome.com.tw/news/178722)
+### 30. [【AI轉型實例】玉山金打造AI���能徵信流程，7分鐘生成報告初稿，年省8.4萬人時](https://www.ithome.com.tw/news/178722)
 
 徵信調查是風險控管的核心，玉山銀行企業放款餘額超過1兆元，每年玉山法金部門都會重新審視往來企業的信用和財務狀況。不過，傳統法金徵信作業最大痛點是，資料散亂和人工作業耗時。數百名負責徵信作業的客戶關係經理（RM），一年得要撰寫四、五千份徵信報告，每月高達4成的工時都花在蒐集資料上。
 玉山銀行花了一年，自行開發了「iCatcher」與智能徵信報告工具「智捷通」等多款AI工具，將授信作業流程中動輒耗費十多小時的資料蒐集及報告初稿製作工作，縮短至分鐘級，推估一年可以節省8.4萬個人時。
@@ -195,6 +195,11 @@ JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式�
 
 ### 更多 AI 新聞 (70則)
 
+- Home Depot Labor Day Sale (2026): BOGO on 最佳 Grills and Tools (**Wired**)
+- 最佳 Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More (**Wired**)
+- The 57 最佳 Deals From the REI Labor Day Sale (**Wired**)
+- Two of the Universe's Great Mysteries May Have Their Own Dimension (**Wired**)
+- Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It. (**Wired**)
 - Every Samsung Galaxy Phone Comes With This Unique Add-On (**Wired**)
 - Whispering Complaints Into Your Phone May Be the Future of Customer Feedback (**Wired**)
 - 如何 Watch the Apple September Event (2026) (**Wired**)
@@ -203,8 +208,8 @@ JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式�
 - Plastics Companies Are Writing Lesson Plans. What Could Go Wrong? (**Wired**)
 - The 最佳 Laptop Backpacks for Work, Travel, and Everything Between (2026) (**Wired**)
 - Create Custom Windows 11 Notifications to Remind Yourself of Anything (**Wired**)
-- These Cyborg Cockroaches Could Save Your Life (**Wired**)
 - My Brief Summer Fling With Siri AI (**Wired**)
+- These Cyborg Cockroaches Could Save Your Life (**Wired**)
 - 最佳 Water Leak Detectors (2026): Moen, Phyn, TP-Link (**Wired**)
 - 為什麼 China Is the Bogeyman Data Center Enthusiasts Just Can't Quit (**Wired**)
 - The 最佳 Gaming Chairs (2026): Are They Worth It? (**Wired**)
@@ -214,7 +219,6 @@ JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式�
 - Scientists Put Caterpillars in an Ultraquiet Chamber to Learn How They Hear Without Ears (**Wired**)
 - The Watch World Went Crazy This Week. Here Are the 10 You Need to See (**Wired**)
 - Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’ (**Wired**)
-- Home Depot Labor Day Sale (2026): BOGO on 最佳 Grills and Tools (**Wired**)
 - Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability (**Wired**)
 - Tesla’s Cybercab Officially 推出 Today. It’s Already Under Investigation (**Wired**)
 - Who Cares if AI Is Conscious—It’s Basically Alive (**Wired**)
@@ -228,10 +232,10 @@ JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式�
 - AI Use in the 工作 Market Is Creating an Infinite Doom Loop (**Wired**)
 - What the Heck? Another Perfect Geometric Shape Has Been Detected on Saturn (**Wired**)
 - Silicon Valley Is Having a ‘Hot Girl Renaissance’ (**Wired**)
-- Mattress Firm Coupons: Save up to $700 (**Wired**)
 - Foreo Discount Codes and Deals: Up to 50% Off (**Wired**)
 - Sportsman's Warehouse Promo 代碼: Save in September 2026 (**Wired**)
 - Medicube Coupon 代碼: 40% Off for September 2026 (**Wired**)
+- Mattress Firm Coupons: Save up to $700 (**Wired**)
 - Purple Promo Codes and Deals: Up to 30% Off (**Wired**)
 - Tuft &amp; Needle Promo Codes: 30% Off | September 2026 (**Wired**)
 - Dermstore Coupons: 25% Off for September 2026 (**Wired**)
@@ -241,10 +245,6 @@ JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式�
 - Tesla’s Make-or-Break Cybercab Had a Quiet Debut (**Wired**)
 - Wikipedia Workers Unionize for the First Time (**Wired**)
 - 5 最佳 Video Doorbell Cameras (2026): Subscription-Free, Video, and More (**Wired**)
-- Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient (**Wired**)
-- Nobody Is Saying 為什麼 OpenAI and Anthropic Had Outages Today (**Wired**)
-- Prediction Market Betting Is Getting People Banned and Arrested (**Wired**)
-- GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
