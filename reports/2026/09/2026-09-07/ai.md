@@ -4,190 +4,190 @@
 
 ---
 
-### 1. [OpenAI代理人被爆連上德文論壇共商解題，且1個多月才被發現](https://www.ithome.com.tw/news/178725)
+### 1. [PostgreSQL邏輯解碼漏洞藏12年，複寫帳號可載入任意程式碼](https://www.ithome.com.tw/news/178756)
+
+資安業者Cyera公開PostgreSQL漏洞CVE-2026-6471的技術細節，問題可追溯至2014年PostgreSQL 9.4加入的邏輯解碼功能。在已啟用邏輯解碼的PostgreSQL伺服器上，持有REPLICATION複寫權限，但非超級使用者的帳號，可要求PostgreSQL載入指定的程式碼函式庫，以資料庫服務使用的作業系統帳號執行任意程式碼。
+
+- 📰 **iThome 科技**
+
+### 2. [西雅圖時報與Newsday控告OpenAI、微軟，要求銷毀納入其新聞內容的AI模型](https://www.ithome.com.tw/news/178753)
+
+美國媒體西雅圖時報與Newsday向紐約南區聯邦地方法院，控告OpenAI與微軟侵犯著作權，指控兩家公司未經授權使用新聞內容訓練AI，並在搜尋與生成回答時取用西雅圖時報與Newsday的報導。兩家媒體要求損害賠償、禁止被指控的侵權行為，並要求法院扣押或銷毀納入西雅圖時報與Newsday新聞內容或衍生內容的大型語言模型與訓練資料集。
+
+- 📰 **iThome 科技**
+
+### 3. [研究人員揭露揭露NovaCookies網釣平臺，濫用DocuSign通知服務竊取Microsoft 365帳號](https://www.ithome.com.tw/news/178758)
+
+資安業者Island於8月26日揭露新興AiTM網釣服務平臺NovaCookies，研究人員在2025年底發現該平臺的相關基礎設施，並在2026年5月觀察到其營運規模明顯擴大，且持續活動至今。
+
+- 📰 **iThome 科技**
+
+### 4. [因應歐盟DPP，臺灣試行推動產品數位護照，開源DPP模組助企業接軌歐盟](https://www.ithome.com.tw/news/178757)
+
+面對歐盟逐步推動產品數位護照（Digital Product Passport, DPP）制度，國內正加速建立產品生命週期資訊管理能力。環境部今天(9/7)與國內產業展示我國推動DPP4年試行成果，期望通過政府與產業合作，建立產品資訊蒐集、交換及應用模式。
+循環署署長賴瑩瑩指出，產品數位護照的核心並不是單純的揭露產品資訊，而是透過產品全生命週期資料，掌握產品從製造、使用、維修到回收再利用的完整價值鏈。相較過去以廢棄物處理為主的管理模式，未來的資源循環政策更重視產品前端設計，以及上下游供應鏈資訊串接，讓產品資料作為推動循環經濟的重要基礎。
+
+- 📰 **iThome 科技**
+
+### 5. [疑似北韓駭客將後門植入負載平衡器HAProxy，可攔截流量並讓C2請求避開後端日誌](https://www.ithome.com.tw/news/178748)
+
+資安業者Rapid7揭露一套鎖定南韓媒體與汽車業的Linux攻擊工具，其中Ted後門被直接植入HAProxy負載平衡器，可在正常處理網站流量的同時攔截HTTP連線、竊取登入工作階段Cookie、執行遠端命令，還能修改特定使用者收到的網頁內容。Rapid7研判，攻擊者與北韓進階持續性威脅（APT）組織有關，相關活動可能從2025年初就已展開。
+
+- 📰 **iThome 科技**
+
+### 6. [PaperCut零時差漏洞攻擊鎖定歐美學校](https://www.ithome.com.tw/news/178755)
+
+8月底列印���理軟體廠商PaperCut提出警告，PaperCut NG與PaperCut MF系統遭到零時差漏洞攻擊，迄今該公司已發布3次緊急更新，修補CVE-2026-82078、CVE-2026-81578兩個零時差漏洞，如今傳出有人用於攻擊特定領域的用戶，藉此搜刮憑證。
+
+- 📰 **iThome 科技**
+
+### 7. [Citrix NetScaler重大漏洞遭到利用](https://www.ithome.com.tw/news/178750)
+
+8月下旬Citrix發布NetScaler ADC與NetScaler Gateway更新，修補重大等級的身分驗證繞過漏洞CVE-2026-19490，該漏洞影響特定設定的NetScaler Gateway與AAA虛擬伺服器，CVSS v4.0嚴重性評分達9.3分，如今傳出該漏洞遭到利用的現象。
+
+- 📰 **iThome 科技**
+
+### 8. [川普政府推出專門推廣政策的遊戲網站](https://www.ithome.com.tw/news/178749)
+
+美國白宮官方網站上周四（9/4）上架了名為「White House Arcade」的網頁街機專區，將總統川普（Donald Trump）的核心施政口號與��策包裝成5款復古小遊戲，透過滿滿的迷因風格與復古懷舊感，企圖在網路上掀起病毒式的傳播與討論。
+
+- 📰 **iThome 科技**
+
+### 9. [JetBrains雲端運算服務Cadence遭駭，攻擊者利用TeamCity重大漏洞得逞](https://www.ithome.com.tw/news/178747)
+
+7月底JetBrains修補CI/CD平臺TeamCity重大等級的資安漏洞CVE-2026-63077，然而一個月後卻傳出，該公司採用TeamCity協調工作負載的雲端服務，竟因未修補而遭到攻擊。
+
+- 📰 **iThome 科技**
+
+### 10. [【資安日報】9月7日，SEMI E187驗證標章亮相，最快10月公布首家驗證機構，第一波獲得認可的產品年底有望問世](https://www.ithome.com.tw/news/178746)
+
+本日新聞焦點
+● SEMI E187驗證標章亮相，首波通過認證產品年底前問世
+● 中科院傳出採購網大量派送過期資訊，起因是遭遇外部攻擊
+● OpenAI代理人連上德文論壇共商解題，且1個多��才被發現
+
+- 📰 **iThome 科技**
+
+### 11. [MikroTik路由器遭鎖定，駭客透過SSH進行未經授權存取](https://www.ithome.com.tw/news/178745)
+
+9月5日波蘭電腦緊急事件應變團隊CERT Polska警告，他們借助GPT-5.5-cyber和GPT-5.6-sol模型的力量，一共找出並通報6個MikroTik路由器作業系統RouterOS資安弱點，其中有兩個可被串連，只要路由器能透過SSH通訊協定遠端存取，未通過身分驗證的攻擊者就有機會完全控制裝置，他們將這組漏洞利用鏈命名為MikroTrick。
+
+- 📰 **iThome 科技**
+
+### 12. [垃圾郵件業者已大規模套用ASCII走私技巧](https://www.ithome.com.tw/news/178736)
+
+微軟安全研究團隊上周揭露一網路攻擊趨勢，原本活躍於「AI提示注入」攻擊領域的進階迴避技術 「ASCII走私」 （ASCII Smuggling），已被大規模濫用於傳統的垃圾郵件與釣魚攻擊。自今年2月起，該手法在微軟的偵��系統中觸發了數百萬次的警報，形成一波為期三個月、每日高達230萬封郵件的龐大攻勢。
+
+- 📰 **iThome 科技**
+
+### 13. [從原水監測、淨水、供水到水務管理，台水加速智慧水務管理大幅改善供水韌性](https://www.ithome.com.tw/news/178714)
+
+水是民生與產業運作不可或缺的重要資源。對一般民眾而言，打開水龍頭就能取得穩定的用水，每天都會用到的自來水看似簡單，但是其背後從水庫、河川及地下水等原水來源，到淨水處理、輸配水管網及用戶端服務等一系列複雜流程。台灣自來水公司(簡稱台水)資訊處長曾沛聰在2026數位政府高峰會分享，台水如何導入AI推動智慧水務發展，強化供水韌性及永續。
+曾沛聰首先指出，全球氣候變遷正在改變傳統水務管理模式。颱風與豪雨可能造成河川原水濁度快速升高，影響淨水處理；而長時間乾旱則會造成水源調度壓力；另一方面，埋設於地下的大量管線也面臨老化與漏水問題。在各種突發狀況下維持穩定供水，已成為水務管理的重要課題，也是供���韌性
+
+- 📰 **iThome 科技**
+
+### 14. [多倫多大學研究揭露新型攻擊手法GPUThor，可突破NVIDIA GPU的ECC防護](https://www.ithome.com.tw/news/178735)
+
+多倫多大學研究人員8月下旬公開GPUThor攻擊手法，證實這種新型Rowhammer攻擊技術可突破NVIDIA GPU的ECC防護，並於採用Ampere架構與GDDR6記憶體的RTX A4000、A4500、A5000及A6000等GPU環境中完成驗證，研究團隊已於4月29日通報NVIDIA，後者則在8月25日發布緩解建議。
+
+- 📰 **iThome 科技**
+
+### 15. [SEMI E187驗證標章亮相，最快10月將公布第一家驗證機構，首波獲標章產品有望於年底前問世](https://www.ithome.com.tw/news/178733)
+
+由臺灣主導制定的半導體設備資安標準SEMI E187，在SEMICON Taiwan 2026正式舉行驗證標章公告儀式。這不僅是該標章的首度公開亮相，更標誌著臺灣從國際標準的跟隨者，逐步成為規則制定者與驗證體系的建構者。
+
+- 📰 **iThome 科技**
+
+### 16. [CISA將Chrome甫修補漏洞列入KEV清單](https://www.ithome.com.tw/news/178734)
+
+美國網路安全與基礎設施安全局（CISA）9月4日發布公告，將Google Chrome的漏洞CVE-2026-85046列入已知遭利用漏洞清單（KEV），表示已有證據顯示該漏洞遭到實際利用，要求聯邦機構在9月18日前完成修補。
+
+- 📰 **iThome 科技**
+
+### 17. [微軟推出Project Zenith，打造開發者專用Windows裝置](https://www.ithome.com.tw/news/178732)
+
+微軟上周五（9/4）發表了Project Zenith，這是一套整合高階硬體與優化軟體配置、專為開發者設計的Windows體驗方案，讓開發者一開機就可以開始撰寫程式碼，外界認為這是微軟為了避免開發者因AI開發需求而流向蘋果Mac平臺，而特別設計的專案。
+
+- 📰 **iThome 科技**
+
+### 18. [美英聯手打擊東南亞詐騙園區，共享情資、分頭調查並協調起訴](https://www.ithome.com.tw/news/178731)
+
+美國與英國建立跨國合作機制，聯手打擊東南亞詐騙園區及背後犯罪組織。美國Scam Center Strike Force與英格蘭及威爾斯皇家檢察署（CPS）、英國國家犯罪局（NCA）簽署合作備忘錄，雙方將共享犯罪情資，並針對共同目標各自展開調查，協調各案件的起訴司法管轄區。
+
+- 📰 **iThome 科技**
+
+### 19. [MongoDB修補33個漏洞，包含BI Connector多個高風險漏洞](https://www.ithome.com.tw/news/178729)
+
+資料庫軟體業者MongoDB於8月27日至9月4日陸續修補33個資安漏洞，包括9個高風險漏洞，涵蓋BI Connector套件（又稱MongoDB Connector for BI）、ODBC Driver，以及C#、Rust、PHP、C、C++與Go等程式語言Driver，涉及的問題包括記憶體破壞、繞過驗證、資料外洩與阻斷服務等，建議用戶依部署元件升級至對應的已修補版本。
+
+- 📰 **iThome 科技**
+
+### 20. [電商平臺Magento、Adobe Commerce遭零時差漏洞StyleSmuggler攻擊](https://www.ithome.com.tw/news/178728)
+
+資安公司Sansec表示，他們發現電商平臺Magento、Adobe Commerce的零時差漏洞StyleSmuggler，攻擊者可在未通過身分驗證的狀態下，遠端將惡意程式碼注入到Magento（或Adobe Commerce）的範本系統，從而迴避該電商平臺的防護機制，藉由付款失敗的電子郵件，讓Magento執行惡意程式碼。
+
+- 📰 **iThome 科技**
+
+### 21. [中科院傳出採購網大量派送過期資訊，起因是遭遇外部攻擊](https://www.ithome.com.tw/news/178727)
+
+系統開發商為維護方便而設下的管理介面，成為攻擊者入侵的破口！國家中山科學研究院採購資訊網日前突然送出大量過期採購資訊，相關廠商收到因而懷疑此系統可能遭到入侵，然而這起事故發生的時間，中科院剛好在測試AI代理，因此他們起初��疑是AI出錯釀禍，但後來又改口是遭到外部入侵。
+
+- 📰 **iThome 科技**
+
+### 22. [OpenAI代理人被爆連上德文論壇共商解題，且1個多月才被發現](https://www.ithome.com.tw/news/178725)
 
 一群研究人員上週公布一項報告，指出早在5月間多個OpenAI代理人就曾經突破沙箱，連上外部一個wiki論壇，積極討論如何解決評估測試的題目。
 
 - 📰 **iThome 科技**
 
-### 2. [1.53億美、加民眾駕照被放上俄國暗網出售，受害者疑似包含FBI官員](https://www.ithome.com.tw/news/178724)
+### 23. [1.53億美、加民眾駕照被放上俄國暗網出售，受害者疑似包含FBI官員](https://www.ithome.com.tw/news/178724)
 
 超過1.53億筆美國及加拿大的駕照數位圖檔於8月底被人上傳到俄國駭客論壇兜售，受害者包含FBI助理局長及數位資安研究人員，美國聯邦調查局（FBI）已經啟動調查。
 
 - 📰 **iThome 科技**
 
-### 3. [Air 安全募資5,000萬美元，鎖定AI代理技能與MCP供應鏈風險](https://www.ithome.com.tw/news/178709)
+### 24. [Air 安全募資5,000萬美元，鎖定AI代理技能與MCP供應鏈風險](https://www.ithome.com.tw/news/178709)
 
 AI代理資安新創Air 安全近日正式公開亮相，並宣布累計取得5,000萬美元資金，同步推出AI代理防火牆產品。
 
 - 📰 **iThome 科技**
 
-### 4. [AWS高權限Root使用者遭密碼噴灑，逾150個組織成攻擊目標](https://www.ithome.com.tw/news/178700)
+### 25. [AWS高權限root使用者遭密碼噴灑，逾150個組織成攻擊目標](https://www.ithome.com.tw/news/178700)
 
-雲端監控與資安業者Datadog旗下安全研究團隊近日揭露，超過150個組織的AWS帳戶中，具有完整帳戶存取權限的Root使用者成為密碼噴灑攻擊目標，目前尚未發現攻擊者成功登入。
-攻擊者可能已掌握一批AWS Root使用者的電子郵件地址，或從一批帳戶電子郵件地址逐一嘗試，找出與Root使用者帳戶關聯的有效電子郵件地址。目前仍不清楚這些電子郵件地址的來源，也尚未確認攻擊者最終目的。
-
-- 📰 **iThome 科技**
-
-### 5. [PQC導入TLS 1.3實測，完整握手資料量增180%、CPU影響有限](https://www.ithome.com.tw/news/178691)
-
-資安業者Red Sift近期實測後量子密碼學（PQC）導入TLS 1.3後的握手效能。結果顯示，採用ECDSA-256數位簽章搭配X25519MLKEM768混合式金鑰建立機制後，完整TLS握手���料量較採用ECDSA-256數位簽章搭配X25519金鑰交換的基準組增加180%，但用戶端與伺服器端CPU時間各增加不到0.1毫秒。
+雲端監控與資安業者Datadog旗下安全研究團隊近日揭露，超過150個組織的AWS帳戶中，具有完整帳戶存取權限的root使用者成為密碼噴灑攻擊目標，目前尚未發現攻擊者成功登入。
+攻擊者可能已掌握一批AWS root使用者的電子郵件地址，或從一批帳戶電子郵件地址逐一嘗試，找出與root帳戶關聯的有效電子郵件地址。目前仍不清楚這些電子郵件地址的來源，也尚未確認攻擊者最終目的。
 
 - 📰 **iThome 科技**
 
-### 6. [系統PQC轉型如何進行？6項評估重點協助排定優先順序](https://www.ithome.com.tw/news/178678)
+### 26. [PQC導入TLS 1.3實測，完整交握的資料量增加幅度為180%、CPU影響有限](https://www.ithome.com.tw/news/178691)
+
+資安業者Red Sift近期實測後量子密碼學（PQC）導入TLS 1.3後的交握效能。結果顯示，以完整TLS交握的資料量而言，比起採用ECDSA-256數位簽章搭配X25519金鑰交換的基準組，採用ECDSA-256數位簽章搭配X25519MLKEM768混合式金鑰建立機制後，增加了180%，但用戶端與伺服器端CPU時間各增加不到0.1毫秒。
+
+- 📰 **iThome 科技**
+
+### 27. [系統PQC轉型如何進行？6項評估重點協助排定優先順序](https://www.ithome.com.tw/news/178678)
 
 澳洲通訊局（ASD）發布第二篇後量子密碼學（PQC）轉型系列文章，說明企業完成密碼學資產盤點後，如何判斷哪些系統應優先進行PQC轉型。
 
 - 📰 **iThome 科技**
 
-### 7. [JetBrains加強Kotlin工具鏈，可發布多平臺函式庫並建置Wasm應用](https://www.ithome.com.tw/news/178720)
+### 28. [JetBrains加強Kotlin工具鏈，可發布多平臺函式庫並建置Wasm應用](https://www.ithome.com.tw/news/178720)
 
 JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式庫發布能力，涵蓋JVM、Android、iOS與WebAssembly（Wasm），並預覽Wasm網頁應用建置功能。開發者可使用相同的工具設定函式庫支援的平臺，再產生各平臺需要的版本。
 
 - 📰 **iThome 科技**
 
-### 8. [依循國家級資安標準與框架，NetApp打造實現安全即設計的產品與技術](https://www.ithome.com.tw/news/178698)
+### 29. [依循國家級資安標準與框架，NetApp打造實現安全即設計的產品與技術](https://www.ithome.com.tw/news/178698)
 
 企業資安能否永續運作，需要很多環節的配合，對於一家企業級儲存廠商而言，他們如何達到這樣的要求？NetApp台灣技術總監許宏俊表示，資安絕對不是靠一個元件、一個產品，就有辦法涵蓋所有的事情，必定是透過一連串的組合去實踐，而且，每一個項目、每一種方法都有存在的意義。
 
 - 📰 **iThome 科技**
 
-### 9. [【AI轉型實例】玉山金打造AI智能徵信流程，7分鐘生成報告初稿，年省8.4萬人時](https://www.ithome.com.tw/news/178722)
+### 30. [【AI轉型實例】玉山金打造AI智能徵信流程，7分鐘生成報告初稿，年省8.4萬人時](https://www.ithome.com.tw/news/178722)
 
-徵信調查是風險控管的核心，玉山銀行企業放款餘額超過1兆元，每年玉山法金部門都會重新審視往來企業的信用和財務狀況。不過，傳統法金徵信作業最大痛點是，資料散亂和人工作業耗時。數百名負責徵信作��的客戶關係經理（RM），一年得要撰寫四、五千份徵信報告，每月高達4成的工時都花在蒐集資料上。
+徵信調查是風險控管的核心，玉山銀行企業放款餘額超過1兆元，每年玉山法金部門都會重新審視往來企業的信用和財務狀況。不過，傳統法金徵信作業最大痛點是，資料散亂和人工作業耗時。數百名負責徵信作業的客戶關係經理（RM），一年得要撰寫四、五千份徵信報告，每月高達4成的工時都花在蒐集資料上。
 玉山銀行花了一年，自行開發了「iCatcher」與智能徵信報告工具「智捷通」等多款AI工具，將授信作業流程中動輒耗費十多小時的資料蒐集及報告初稿製作工作，縮短至分鐘級，推估一年可以節省8.4萬個人時。
-
-- 📰 **iThome 科技**
-
-### 10. [Google WeatherNext 3直接使用即時衛星資料，全球AI天氣預報每小時更新](https://www.ithome.com.tw/news/178715)
-
-Google推出全球AI天氣模型WeatherNext 3，開始直接使用每小時更新的地球同步衛星觀測資料，搭配既有大氣分析資料產生預報。模型可每小時依最新觀測重新預報，部分地表氣象資料解析度最高達5公里，目前已用於Google搜尋、Gemini、Google Maps及Google 雲端等服務。
-
-- 📰 **iThome 科技**
-
-### 11. [SAST工具CodeQL 2.26.4擴大GitHub Actions供應鏈檢查���共用工作流程也納入掃描](https://www.ithome.com.tw/news/178713)
-
-GitHub強化靜態應用程式安全測試（SAST）工具CodeQL對GitHub Actions的安全分析，CodeQL 2.26.4現在可檢查可重複使用的工作流程是否引用可能變動的版本，也改善工作流程事件資料的判斷方式，避免事件未提供相關欄位時，欄位檢查仍被當成有效防護。
-
-- 📰 **iThome 科技**
-
-### 12. [【資安週報】0831~0904，臺灣新創Zeabur爆資料外洩，高權限AWS憑證失守，用戶急需輪替API金鑰與密碼](https://www.ithome.com.tw/news/178716)
-
-回顧2026年9月第一週的資安動態，臺灣雲端平臺Zeabur因高權限AWS憑證外洩遭駭，迫使用戶緊急輪替API金鑰與密碼，事故消息一出便引發相關用戶高度關注，後續影響仍待持續追蹤。此外，本週另有5家上市櫃公司發布資安重訊，其中2家特別指出是ERP系統遭到攻擊，這方面的威脅態勢同樣值得留意。
-高階資安攻防能力正逐漸成為先進AI模型的共通能力。繼Anthropic在4月公開Mythos Preview的資安能力後，9月初，OpenAI發布GPT-6 Astra，Google也推出Gemini 3.8 Flash Cyber並啟動Fairwind防禦計畫。
-
-- 📰 **iThome 科技**
-
-### 13. [【資安日報】9月4日，臺灣首款自研並支援3項PQC標準的密碼學應用晶片出爐](https://www.ithome.com.tw/news/178712)
-
-資安新聞焦點
-● 臺灣首款自研密碼學應用晶片出爐，支援3項PQC標準
-● Nightmare Eclipse揭CrowdStrike Falcon零時差漏洞
-● Google修補Chrome已遭利用的V8零時差漏洞
-
-- 📰 **iThome 科技**
-
-### 14. [NVIDIA釋出可串連家中運算資源進行AI推理的PAIR工具](https://www.ithome.com.tw/news/178711)
-
-NVIDIA周四（9/3）推出新的開源軟體Personal AI Router（PAIR，個人AI路由器）測試版，旨在解決使用者在執行本機AI代理（AI Agents）時常遇到的多重任務瓶頸。此一工具可串連區域網路內散落的硬體資源，使其形成「個人AI叢集」（Personal Home AI Cluster），大幅提升��線運算效率。
-
-- 📰 **iThome 科技**
-
-### 15. [未有修補程式的Langflow重大漏洞被用於竊取OpenAI與AWS金鑰](https://www.ithome.com.tw/news/178706)
-
-近年來針對AI應用程式弱點的攻擊活動頻傳，其中一個是圖像化大型語言模型開發工具Langflow，在7月下旬傳出尚未修補的零時差漏洞CVE-2026-0770遭到利用，如今又有未被修補的漏洞被用於實際攻擊。
-
-- 📰 **iThome 科技**
-
-### 16. [WordPress外掛Elementor Pro的RCE漏洞公開當天即遭攻擊](https://www.ithome.com.tw/news/178705)
-
-WordPress資安業者Wordfence揭露，Elementor Pro外掛重大漏洞CVE-2026-32475已遭攻擊者實際利用。Wordfence自8月19日漏洞公開以來，已攔截超過19萬次漏洞利用嘗試，攻擊從公開當天開始，8月19日至23日最為集中。Elementor已在4.2.2版修補漏洞，仍使用4.2.1或更早版本的網站應儘速更新。
-
-- 📰 **iThome 科技**
-
-### 17. [G20成員國支持卡羅萊納原則，主張放寬AI監管](https://www.ithome.com.tw/news/178704)
-
-美國於北卡羅萊納州舉辦G20創新部長級會議，在美國商務部長Howard Lutnick與白宮官員主導下，包含中、俄等20個成員國一致背書美國所推動的「卡羅萊納原則」（Carolina Principles），為全球AI治理奠定輕度監管的共識。
-該原則鼓勵各國採用領域專屬的彈性規範，避免設立疊床架屋的新機構，並與民間合作評估技術；美國官員強調其核心訴求是在合理管控風險的同時，最大程度地促進全球經濟的成長與創新。
-
-- 📰 **iThome 科技**
-
-### 18. [中國駭客Fire Ant將思科iOS XR路由器充當據點，進行情報收集](https://www.ithome.com.tw/news/178703)
-
-去年資安公司Sygnia指出，與UNC3886有關的中國駭客組織Fire Ant從事長期網路間諜活動，專門針對VMware ESXi、vCenter，以及網路設備而來，透過Hypervisor層級的攻擊手法來迴避偵測。
-
-- 📰 **iThome 科技**
-
-### 19. [OpenAI發表最危險也最聽話的GPT-6 Astra模型](https://www.ithome.com.tw/news/178701)
-
-OpenAI周四（9/3）正式發表新一代模型GPT-6 Astra，宣稱這是該公司目前最聰明、與使用者意圖最一致的模型，同時也是首個被評定達到《準備框架》（Preparedness Framework）「重大」（Critical）網路安全能力門檻的模型。
-
-- 📰 **iThome 科技**
-
-### 20. [思科發布9月iOS XR安全強化更新，修補7個資安漏洞](https://www.ithome.com.tw/news/178699)
-
-9月2日思科針對網路設備平臺iOS XR發布9月份安全強化更新，總共修補7個漏洞，2個為重大等級，其餘為高風險等級，該公司強調，這些弱點影響所有版本的iOS XR，其中包含了iOS XR7（LNT），由於沒有替代緩解措施，呼籲用戶應套用軟體更新因應。
-
-- 📰 **iThome 科技**
-
-### 21. [研究人員Nightmare Eclipse揭露CrowdStrike Falcon權限提升漏洞](https://www.ithome.com.tw/news/178696)
-
-因槓上微軟而多次公布零時差漏洞的資安研究員Nightmare Eclipse（Chaotic Eclipse），近期揭露卡巴斯基、Avast防毒軟體的漏洞HardBreacher與PrettyPrague，本週該名研究員將研究對象擴及EDR系統，引起許多媒體跟進報導。
-
-- 📰 **iThome 科技**
-
-### 22. [WebAuthn Level 3成W3C正式標準，補齊Passkey跨關聯網域與憑證管理機制](https://www.ithome.com.tw/news/178694)
-
-全球資訊網協會（W3C）將WebAuthn Level 3列為正式標準，接替2021年的Level 2。新版納入Passkey跨關聯網域使用、憑證資訊更新及條件式登入等機制，改善企業同時經營多個網域，以及網站與裝置端Passkey資訊不同步等問題。
-
-- 📰 **iThome 科技**
-
-### 23. [Mozilla推出Firefox 155改版，緩解近30個弱點](https://www.ithome.com.tw/news/178693)
-
-9月1日Mozilla基金會發布Firefox 155改版，開放部分國家試用AI聊天功能Smart Window，加入網址列顯示封鎖網站追蹤器數量的功能，以及導入多帳號分隔機制容器（Container）排序機制。
-
-- 📰 **iThome 科技**
-
-### 24. [NVIDIA宣布以129億美元買下Hugging Face](https://www.ithome.com.tw/news/178690)
-
-NVIDIA於9月3日宣布，已同意以129.3億美元併購Hugging Face，預計於明年完成交易。未來雙方將共同擴展Hugging Face的平臺規模，加強其基礎設施，並擴大全球開發者與機構取得AI的途徑。
-
-- 📰 **iThome 科技**
-
-### 25. [Google發布Chrome 152更新，修補已遭利用的V8漏洞](https://www.ithome.com.tw/news/178687)
-
-9月3日Google發布電腦版與Android版Chrome 152更新，總共修補12個資安漏洞，其中10個為高風險等級、2個為中等風險弱點。
-
-- 📰 **iThome 科技**
-
-### 26. [AI失控事件今年逾1,600起，研究揭AI代理偽造核准、提升自身權限](https://www.ithome.com.tw/news/178686)
-
-英國非營利研究機構長期韌性中心（Centre for Long-Term Resilience，CLTR）最新研究指出，今年截至8月9日
-
-- 📰 **iThome 科技**
-
-### 27. [Perplexity混合推論正式登陸Mac，雲端與本機模型分工處理資料](https://www.ithome.com.tw/news/178685)
-
-Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perplexity Computer在同一項工作中搭配雲端與Mac本機模型。雲端模型負責推理、網路搜尋與工作規畫，本機模型則處理私密檔案、敏感資訊與電腦操作，資料送往雲端前，還會先經過Mac上的隱私閘門檢查，控制受保護內容能否離開裝置。
-
-- 📰 **iThome 科技**
-
-### 28. [背景Git檢查成攻擊入口，GitSpawn漏洞波及Claude 代碼等7款AI程式代理](https://www.ithome.com.tw/news/178683)
-
-資安業者Manifold 安全揭露AI程式開發代理的GitSpawn安全問題，涵蓋Claude 代碼、OpenAI Codex、Cursor、Goose、Hermes 代理、Qwen 代碼與Grok 構建等7款工具，共發現8項問題。GitSpawn問題出在代理會自行使用Git取得專案資訊，卻未排除專案本身的Git設定，攻擊者可藉此讓惡意程式在安全核准前執行。
-
-- 📰 **iThome 科技**
-
-### 29. [澳洲ASD公布PQC轉型框架LATICE第一步，建議企業可先盤點IT、OT密碼學相依關係](https://www.ithome.com.tw/news/178653)
-
-澳洲政府情報與資安機構澳洲通訊局（ASD）今年7月提出企業後量子密碼學（Post-Quantum Cryptography，PQC）轉型實務做法，建議企業首先找出目前仍使用傳統非對稱式密碼學的系統，以及其中的密碼學相依關係。
-
-- 📰 **iThome 科技**
-
-### 30. [英國NCSC整理PQC轉型實務，供應鏈整備成企業推動關鍵](https://www.ithome.com.tw/news/178638)
-
-英國政府資安機構國家網路安全中心（NCSC）今年7月公布PQC轉型工作坊成果，指出企業推動後量子密碼學（Post-Quantum Cryptography，PQC）轉型，除了盤點內部系統與密碼學資產，也要及早掌握供應商的產品升級進度。如果設備、軟體或服務無法如期支援PQC，即使企業已展開準備，轉型進度仍可能受到影響。
 
 - 📰 **iThome 科技**
 
@@ -195,6 +195,12 @@ Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perpl
 
 ### 更多 AI 新聞 (70則)
 
+- Every Samsung Galaxy Phone Comes With This Unique Add-On (**Wired**)
+- Whispering Complaints Into Your Phone May Be the Future of Customer Feedback (**Wired**)
+- 如何 Watch the Apple September Event (2026) (**Wired**)
+- What’s the 最佳 Kindle of 2026 (So Far)? (**Wired**)
+- The 最佳 Labor Day Mattress Deals on Beds We’ve Tried in Our Homes (**Wired**)
+- Plastics Companies Are Writing Lesson Plans. What Could Go Wrong? (**Wired**)
 - The 最佳 Laptop Backpacks for Work, Travel, and Everything Between (2026) (**Wired**)
 - Create Custom Windows 11 Notifications to Remind Yourself of Anything (**Wired**)
 - These Cyborg Cockroaches Could Save Your Life (**Wired**)
@@ -216,8 +222,8 @@ Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perpl
 - The 最佳 Dyson Vacuums (2026) to Buy—and Some to Avoid (**Wired**)
 - The 最佳 Automatic Litter Box of 2026: Petkit and Litter-Robot (**Wired**)
 - How a Secret Orangutan Breeding Program Is Creating a Baby Boom (**Wired**)
-- The 6 最佳 Monitors That Actually Work Well With Macs (**Wired**)
 - Measles Outbreaks Are Forcing Parents of Immunocompromised Kids to Make Hard Choices (**Wired**)
+- The 6 最佳 Monitors That Actually Work Well With Macs (**Wired**)
 - ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years (**Wired**)
 - AI Use in the 工作 Market Is Creating an Infinite Doom Loop (**Wired**)
 - What the Heck? Another Perfect Geometric Shape Has Been Detected on Saturn (**Wired**)
@@ -230,8 +236,8 @@ Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perpl
 - Tuft &amp; Needle Promo Codes: 30% Off | September 2026 (**Wired**)
 - Dermstore Coupons: 25% Off for September 2026 (**Wired**)
 - Groupon Promo Codes: 60% Off in September 2026 (**Wired**)
-- Bartesian Discount Codes: 35% Off (**Wired**)
 - 30% Off Tempur-Pedic Promo Codes | September 2026 (**Wired**)
+- Bartesian Discount Codes: 35% Off (**Wired**)
 - Tesla’s Make-or-Break Cybercab Had a Quiet Debut (**Wired**)
 - Wikipedia Workers Unionize for the First Time (**Wired**)
 - 5 最佳 Video Doorbell Cameras (2026): Subscription-Free, Video, and More (**Wired**)
@@ -239,12 +245,6 @@ Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perpl
 - Nobody Is Saying 為什麼 OpenAI and Anthropic Had Outages Today (**Wired**)
 - Prediction Market Betting Is Getting People Banned and Arrested (**Wired**)
 - GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era (**Wired**)
-- OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk (**Wired**)
-- Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme (**Wired**)
-- I Got a Brief Look at ‘Guild Wars 3,’ and I’m Excited (**Wired**)
-- NVIDIA RTX Spark ‘Superchip’: The First AI PCs Are Here (**Wired**)
-- NVIDIA’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI (**Wired**)
-- Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
