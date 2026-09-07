@@ -4,210 +4,214 @@
 
 ---
 
-### 1. [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+### 1. [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
 
-- ⭐ 349 分｜💬 140 留言｜👤 DanielVZ
+- ⭐ 100 分｜💬 35 留言｜👤 rustywasm
 
-### 2. [bzip3](https://github.com/iczelia/bzip3)
+### 2. [Finding a bug in Dummit and Foote's Abstract Algebra](https://kallus.org/blog/dummit_and_foote.html)
 
-- ⭐ 167 分｜💬 53 留言｜👤 tosh
+- ⭐ 25 分｜💬 2 留言｜👤 evakhoury
 
-### 3. [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+### 3. [WeatherNext 3](https://deepmind.google/science/weathernext/)
 
-- ⭐ 780 分｜💬 197 留言｜👤 sonicrocketman
+Paper [pdf]: https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weather...
 
-### 4. [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+- ⭐ 96 分｜💬 14 留言｜👤 matthieu_bl
 
-- ⭐ 140 分｜💬 29 留言｜👤 astroanax
+### 4. [Trusting-Trust Attack against an Entire Linux Distribution](https://arxiv.org/abs/2607.24888)
 
-### 5. [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
+- ⭐ 43 分｜💬 5 留言｜👤 signa11
 
-- ⭐ 65 分｜💬 19 留言｜👤 zdw
+### 5. [Methods for Random Gradients (2024)](https://justinjay.wang/methods-for-random-gradients/)
 
-### 6. [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
+- ⭐ 30 分｜💬 3 留言｜👤 nickswalker
 
-- ⭐ 137 分｜💬 61 留言｜👤 coinfused
+### 6. [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
 
-### 7. [The Dataflow 模型 Revisited](https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited)
+- ⭐ 147 分｜💬 46 留言｜👤 zdw
 
-- ⭐ 8 分｜💬 2 留言｜👤 scott_s
+### 7. [Decoding the NEC V20 Microcode](https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html)
 
-### 8. [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
+- ⭐ 80 分｜💬 4 留言｜👤 mariuz
 
-https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=6IFVTcM28KA
+### 8. [Scientists observe Einstein's gravity in the quantum world](https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world)
 
-- ⭐ 859 分｜💬 423 留言｜👤 chris_overseas
+https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CfjnTJos_no
 
-### 9. [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+- ⭐ 31 分｜💬 6 留言｜👤 mudil
 
-- ⭐ 163 分｜💬 89 留言｜👤 u1hcw9nx
+### 9. [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
 
-### 10. [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
+- ⭐ 5 分｜💬 0 留言｜👤 apophatic
 
-- ⭐ 93 分｜💬 31 留言｜👤 ankitg12
+### 10. [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
 
-### 11. [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
+- ⭐ 195 分｜💬 60 留言｜👤 astroanax
 
-- ⭐ 194 分｜💬 112 留言｜👤 mdp2021
+### 11. [bzip3](https://github.com/iczelia/bzip3)
 
-### 12. [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
+- ⭐ 332 分｜💬 95 留言｜👤 tosh
 
-- ⭐ 32 分｜💬 21 留言｜👤 neogodless
+### 12. [216M Spy TVs – The LG Smart TV Problem [video]](https://www.youtube.com/watch?v=6IFVTcM28KA)
 
-### 13. [Impedance Matching (2017)](https://www.edge.org/response-detail/27238)
+https:&#x2F;&#x2F;www.notebookcheck.net&#x2F;LG-smart-TVs-caught-logging-au...
 
-- ⭐ 58 分｜💬 18 留言｜👤 muti
+- ⭐ 290 分｜💬 608 留言｜👤 treve
 
-### 14. [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+### 13. [The Dataflow 模型 Revisited](https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited)
 
-In case you&#x27;re wondering 為什麼 the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.
+PDF: https:&#x2F;&#x2F;www.vldb.org&#x2F;pvldb&#x2F;vol19&#x2F;p4953-fernandez-moctezuma.p...
 
-- ⭐ 5 分｜💬 2 留言｜👤 spwa4
+- ⭐ 66 分｜💬 12 留言｜👤 scott_s
 
-### 15. [Whistle Synth](https://www.jefftk.com/p/whistle-synth-mac-app)
+### 14. [Icy Moons Are Ocean Worlds](https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds)
 
-- ⭐ 15 分｜💬 5 留言｜👤 luu
+- ⭐ 80 分｜💬 10 留言｜👤 worldvoyageur
 
-### 16. [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
+### 15. [Decapitating a MacBook (2025)](https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/)
 
-- ⭐ 43 分｜💬 20 留言｜👤 highfrequency
+- ⭐ 26 分｜💬 13 留言｜👤 luu
 
-### 17. [If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one](https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/)
+### 16. [Academia as a d-index measuring contest](https://kevinmunger.substack.com/p/introducing-the-k-index)
 
-- ⭐ 30 分｜💬 19 留言｜👤 jijojv
+- ⭐ 22 分｜💬 2 留言｜👤 surprisetalk
 
-### 18. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+### 17. [This Month in Ladybird – August 2026](https://ladybird.org/newsletter/2026-08-31/)
 
-- ⭐ 288 分｜💬 101 留言｜👤 azhenley
+- ⭐ 82 分｜💬 7 留言｜👤 exploraz
 
-### 19. [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129)
+### 18. [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
 
-I have a self playing piano, using a 系統 called PianoDisc Protigy. They have an online store which sells music for their 系統, from various modern artists along with classics such as Bach and Bee
+- ⭐ 905 分｜💬 223 留言｜👤 sonicrocketman
 
-- ⭐ 235 分｜💬 137 留言｜👤 jmpman
+### 19. [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
 
-### 20. [Unified Arabic](https://worksthatwork.com/6/unified-arabic)
+- ⭐ 17 分｜💬 0 留言｜👤 mooreds
 
-- ⭐ 92 分｜💬 27 留言｜👤 spacebuffer
+### 20. [My practical approach to surfing the 網頁 safely](https://molily.de/safe-websurfing/)
 
-### 21. [Tiny $70 Xteink X3 e-reader](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
+- ⭐ 34 分｜💬 11 留言｜👤 ethanhawksley
 
-- ⭐ 148 分｜💬 149 留言｜👤 samizdis
+### 21. [Whistle Synth Mac App](https://www.jefftk.com/p/whistle-synth-mac-app)
 
-### 22. [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+- ⭐ 48 分｜💬 12 留言｜👤 luu
 
-- ⭐ 333 分｜💬 168 留言｜👤 xena
+### 22. [Show HN: HomeCat – Design your backyard office](https://myhomecat.com)
 
-### 23. [Ask HN: How do you manage skills files?](https://news.ycombinator.com/item?id=49589914)
+Hey HN! Ilya and Nikita here. We’re building HomeCat, a tool that lets you design a backyard office space - https:&#x2F;&#x2F;myhomecat.comWe started out by helping people design sheds, and quickly re
 
-How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?I believe skills will eventually be eating by 模型 capabilities, but until then I&#
+- ⭐ 17 分｜💬 9 留言｜👤 dearilos
 
-- ⭐ 246 分｜💬 231 留言｜👤 imadtaieber
+### 23. [如何 bring up the Linux Kernel on a 新 platform](https://werwolv.net/posts/linux_bringup/)
 
-### 24. [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
+- ⭐ 37 分｜💬 4 留言｜👤 WerWolv
 
-- ⭐ 367 分｜💬 232 留言｜👤 Cider9986
+### 24. [Schemy Lisp En DOS](https://sled.neocities.org/)
 
-### 25. [I Connected My Withings Body+ to Home 助手 with an ESP32](https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud)
+- ⭐ 19 分｜💬 1 留言｜👤 AlexeyBrin
 
-- ⭐ 59 分｜💬 19 留言｜👤 sabatesduran
+### 25. [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
 
-### 26. [VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
+- ⭐ 169 分｜💬 72 留言｜👤 coinfused
 
-- ⭐ 74 分｜💬 35 留言｜👤 joozio
+### 26. [Catching Crumbs from the Table (2000)](https://www.nature.com/articles/35014679)
 
-### 27. [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
+https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20150719010624&#x2F;http:&#x2F;&#x2F;www.nature...https:&#x2F;&#x2F;www.scribd.com&#x2F;document&#x2F;893921964&#x2F;CHIANG-Catching-Cr...
 
-They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective 網絡&#x2F;Response tab) even before one s
+- ⭐ 8 分｜💬 3 留言｜👤 stefanpie
 
-- ⭐ 84 分｜💬 39 留言｜👤 maxim-fin
+### 27. [Bill Gates tries to install MovieMaker (2003)](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
 
-### 28. [Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/)
+- ⭐ 281 分｜💬 183 留言｜👤 highfrequency
 
-- ⭐ 102 分｜💬 120 留言｜👤 _alternator_
+### 28. [Show HN: Wg-admin – 網頁 UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)
 
-### 29. [為什麼 are there no flow batteries with symmetric ferrocyanide electrolytes?](https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/)
+Reads &#x2F;etc&#x2F;wireguard, lets you add&#x2F;edit&#x2F;remove peers, applies with wg syncconf (no interface bounce). Does not install WireGuard or rewrite your PostUp&#x2F;NAT. That&#x27;s all
 
-- ⭐ 46 分｜💬 30 留言｜👤 DamonHD
+- ⭐ 15 分｜💬 3 留言｜👤 vsergione
 
-### 30. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
+### 29. [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
 
-- ⭐ 260 分｜💬 181 留言｜👤 cianmm
+- ⭐ 123 分｜💬 41 留言｜👤 ankitg12
+
+### 30. [Rebuilding a 1995 GPS Time 伺服器 so I don't get Telstra'd](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/)
+
+- ⭐ 15 分｜💬 6 留言｜👤 Brajeshwar
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Nitter and XCancel resume service after legal advice
+- Smartphone makers don't bother to comply with EU repairability requirements
+- De-Brainrot Vacations
+- Every novel is boring until it isn't
+- Initial effects of AI technology on employment look positive
+- Searching for the 最佳 silicone USB cable
+- She Also Found It at the Movies
+- Impedance Matching (2017)
+- Germany Power Grid Sabotage: Launch Devices Found Near Weisweiler Plant
+- Splash-free urinals (2025)
+- Ask HN: Fable hacked my piano, can I release the results?
+- AI Cold Showers
+- The NX bit is not just about 安全
+- C Is Not a Low-Level Language (2018)
 - I'm a seeing-eye dog for a computer
-- 程式設計 is Art
-- Harnessing the Universal Geometry of Embeddings
-- Show HN: I made a word building game supporting anagrams and one handed use
+- Making a Python interpreter in 1024 bytes
+- A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on
+- Ask HN: How do you manage skills files?
+- Coop – Isolated VM Environments for Running Claude 代碼 and Codex
+- I Connected My Withings Body+ to Home 助手 with an ESP32
+- Unified Arabic
+- Tiny $70 Xteink X3 e-reader
+- Is mathematics about to enter the conservatory?
+- Opalite Health (YC W26) Is 招聘 – Founding GTM
+- Apparently CodePen 2.0 sends data to their servers as you type
 - Show HN: GET Together – A social 網絡 where you don't need POST to Post
-- Asahi Linux on M3
+- VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent
+- Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set
+- 為什麼 are there no flow batteries with symmetric ferrocyanide electrolytes?
+- Tell HN: OpenAI brings back 5 hour limit for plus and business standard users
+- Tesla killing Solar Roof is leaving installers with six-figure losses
+- Harnessing the Universal Geometry of Embeddings
+- Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs
+- A Modest Proposal
 - Research acceleration: The view inside OpenAI
 - Your intellectual fly is open when you use an 大型語言模型 to author a post (2025)
-- Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)
-- Opalite Health (YC W26) Is 招聘 – Founding GTM
 - NetBSD 9.5 發布 and EOL for NetBSD-9
+- 程式設計 is Art
 - An Alien Mind
+- Show HN: Send flowers from your AI 代理 and make your mum happy
 - Switzerland's Federal Government Is Replacing Microsoft on 3k Computers
-- TiVo to charge money for skipping commercials in your own recordings
-- Nördlinger Ries Impact Crater
-- Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs
-- Has anybody seen my keys? A key-hierarchy strategy for rack-level 安全
-- Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)
+- Show HN: I made a word building game supporting anagrams and one handed use
 - Isar Aerospace reaches orbit and deploys payloads on second flight
+- It took a year to ship WebAssembly in Anubis
+- TiVo to charge money for skipping commercials in your own recordings
+- Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)
 - Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
 - Reverse engineering the storage format for an undocumented 資料庫
-- A/I shuts down
+- Has anybody seen my keys? A key-hierarchy strategy for rack-level 安全
 - Babylonian Lamb Stew with Beets (1750–1730 BCE)
-- Ask HN: Would you read a statistics textbook?
-- Please don't rearrange our shoes when we turn up, paramedics in Japan urge
-- The NX bit is not just about 安全
+- A/I shuts down
+- Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)
+- GrapheneOS Overhauled Default Apps and Secure Clipboard
+- 'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes
+- PostgreSQL 19 Interactive Tour
+- Nördlinger Ries Impact Crater
 - Vidact – a compiler that turns React into direct DOM operations
-- Research carried out using NetBSD
-- Electronic skin for prosthetics to sense temperature and pressure
-- 2026 Hugo Awards
-- D2 Is Non-Profit
 - Gotham Silicon: 1μ CMOS process that will ship custom chips for –$100 in <24hrs
+- Research carried out using NetBSD
+- Please don't rearrange our shoes when we turn up, paramedics in Japan urge
+- 2026 Hugo Awards
+- Electronic skin for prosthetics to sense temperature and pressure
+- D2 Is Non-Profit
+- Nitter and XCancel resume service after legal advice
 - IBM Quantum Nighthawk R2
-- Finder is so frustrating and has been since day one
-- Coop – Isolated VM Environments for Running Claude 代碼 and Codex
-- Doomscrolling ourselves to death
-- 25 years ago, two strangers met in the twin towers and escaped on 9/11
+- If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one
 - Discovery of a 新 OpenAI 代理 message board
-- AMD Based FreeBSD Desktop Reloaded
+- Finder is so frustrating and has been since day one
+- Proton protocols: The next chapter of WireGuard at Proton VPN
+- Liquid 網絡 Pauses After $320M Bitcoin Withdrawal
 - The revolt of the reader
-- AI, Tools and Transformation
-- Show HN: Forget Rigid Stock Screeners – A Universal Query API for Financial Data
-- Is There I/O After Death? What Happens to Io_uring When a Process Dies
-- 雲端 in a Bottle: making self-hosting accessible to everyone
-- Mmuko Boot Sequence – a tiny freestanding C kernel that boots in QEMU
-- The Untold Pre-History of 9/11
-- Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet
-- Study Math with Kusama
-- Tinkering with J Space
-- Icy Moons Are Ocean Worlds
-- Music Theory for Programmers
-- Chrome again exempts Google from user site data settings
-- Is Advertising Morally Justifiable?
-- The pencil case 模型 of creativity
-- British Museum faces question over Peter Thiel's private Bayeux Tapestry viewing
-- GPT-6 Astra
-- M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years
-- OpenAI 2025 financials $38.5B loss ahead of IPO
-- Household Laser Cuts
-- US Republicans revolt against Flock AI surveillance as backlash intensifies
-- .name Termination
-- OpenBSD Stories: Strange Medieval Devices
-- Terpstra Keyboard
-- Delidded Intel I9-14900KS CT Scan
-- Actively exploited sandbox RCE in all Chromium versions
-- How Swiss tables work in Go built-in map
-- Nitter has more working instances than before the takedowns
-- Every Novel Is Boring–Until It Isn't
-- Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS
 
 
 ---
