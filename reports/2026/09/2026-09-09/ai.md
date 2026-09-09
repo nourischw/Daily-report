@@ -26,7 +26,7 @@
 ### 4. [WeChat零點擊蠕蟲利用好友來電擴散，可跨iOS與Android接管帳號](https://www.ithome.com.tw/news/178812)
 
 資安廠商Calif揭露WeChat通話功能漏洞WeWorm，攻擊者只要從受害者好友名單中的帳號發起通話，就能在手機響鈴期間觸發漏洞，受害者不必接聽或操作手機。攻擊成功可取得WeChat帳號控制權，再利用受害者帳號撥打好友，形成可跨iOS與Android傳播的零點擊蠕蟲。
-WeWorm��洞出現在WeChat處理網路語音通話的程式，攻擊者必須使用受害者好友名單中的帳號撥打電話，來電響起便能發動攻擊。受害者拒接會中止當次攻擊，接聽電話則無法阻止漏洞遭到利用。
+WeWorm漏洞出現��WeChat處理網路語音通話的程式，攻擊者必須使用受害者好友名單中的帳號撥打電話，來電響起便能發動攻擊。受害者拒接會中止當次攻擊，接聽電話則無法阻止漏洞遭到利用。
 
 - 📰 **iThome 科技**
 
@@ -38,7 +38,7 @@ WeWorm��洞出現在WeChat處理網路語音通話的程式，攻擊者必�
 
 ### 6. [Adobe發布9月第一次例行更新，呼籲用戶應優先安排修補ColdFusion、Campaign Classic](https://www.ithome.com.tw/news/178820)
 
-9月8日Adobe發布本月上半的��行更新，修補旗下9款應用系統，包含網頁應用程式開發平臺ColdFusion、行銷自動化平臺Campaign Classic，以及
+9月8日Adobe發布本月上半的例行更新��修補旗下9款應用系統，包含網頁應用程式開發平臺ColdFusion、行銷自動化平臺Campaign Classic，以及
 
 - 📰 **iThome 科技**
 
@@ -78,7 +78,7 @@ Muse奠基在Muse Spark模型上。每位使用者在雲端擁有專屬的Muse S
 
 ### 12. [銀行迎戰虛擬資產新業務，資安業者共組「穩定幣暨虛擬資產安全聯盟」，協助打造自主可控數位金融安全](https://www.ithome.com.tw/news/178804)
 
-隨著全球穩定幣與虛擬資產監管浪潮興起，臺灣《虛擬資產服務法》今年6月三讀通過、7月正式公布，虛擬資產監管制度逐步成形，銀行等金融機構要如何安全接軌虛擬資產業務，也帶動新的資安需求。9月8日，台灣資訊安全協��宣布成立「穩定幣暨虛擬資產安全聯盟」，首波集結中華資安國際、博士旺創新、凱特納科技與普鴻資訊4家業者，從數位金融安全基礎建設所需的不同關鍵能力切入，希望整合臺灣產業能量，逐步打造具國際競爭力的數位金融產業合作模式。
+隨著全球穩定幣與虛擬資產監管浪潮興起，臺灣《虛擬資產服務法》今年6月三讀通過、7月正式公布，虛擬資產監管制度逐步成形，銀行等金融機構要如何安全接軌虛擬資產業務，也帶動新的資安需求。9月8日，台灣資訊安全協會宣布成��「穩定幣暨虛擬資產安全聯盟」，首波集結中華資安國際、博士旺創新、凱特納科技與普鴻資訊4家業者，從數位金融安全基礎建設所需的不同關鍵能力切入，希望整合臺灣產業能量，逐步打造具國際競爭力的數位金融產業合作模式。
 
 - 📰 **iThome 科技**
 
@@ -90,7 +90,7 @@ Muse奠基在Muse Spark模型上。每位使用者在雲端擁有專屬的Muse S
 
 ### 14. [資安業者揭露逾9,300個外洩AWS金鑰仍可用，其中數百個具備企業帳號完整控制權限](https://www.ithome.com.tw/news/178805)
 
-資安公司Truffle 安全近日發布報告，指出研究人員追蹤與驗證2022年8月至2026年8月間公開洩漏的AWS存取金鑰後，發現超過9,300個至今仍有效，其中還有數百個金鑰��有企業AWS帳號完整管理權限。研究人員從Git儲存庫、Git歷史紀錄、Hugging Face資料集、Docker映像檔、套件註冊庫及CI日誌等公開來源，找到64,024個AWS金鑰，對應50,654個AWS帳號。
+資安公司Truffle 安全近日發布報告，指出研究人員追蹤與驗證2022年8月至2026年8月間公開洩漏的AWS存取金鑰後，發現超過9,300個至今仍有效，其中還有數百個金鑰擁有企業AWS帳號完整管理權限。研究人員從Git儲存庫、Git歷史紀錄、Hugging Face資料集、Docker映像檔、套件註冊庫及CI日誌等公開來源，找到64,024個AWS金鑰，對應50,654個AWS帳號。
 
 - 📰 **iThome 科技**
 
@@ -102,7 +102,7 @@ OpenAI周二（9/8）宣布，尚未公開的內部AI模型解出千禧年數學
 
 ### 16. [SAP發布9月例行更新，修補4個重大漏洞](https://www.ithome.com.tw/news/178801)
 
-9月8日SAP發布本月例行更新（安全 Patch Day），修補19個資安弱點，並更新一則資安公告的內容。從危險程度來看，重大等級與高風險各有4個，中度風險有10個，低風險漏洞1個。根據CVSS嚴重程度評分，最危險的是記憶體中斷漏洞CVE-2026-44756，CVSS評分達到滿分10分，影響Extended Passport（EPP），未通過身分驗證的攻擊者可在特定情境下，利用含有惡意EPP標頭的特製請求觸發漏洞，有可能引起未定義的行為，或是造成程式異常終止。
+9月8日SAP發布本月例行更新（安全 Patch Day），修補19個資安弱點，並更新一則資安公告的內容。從危險程度來看，重大等級與高風險各有4個，中度風險有10個，低風險漏洞1個。根據CVSS嚴重程���評分，最危險的是記憶體中斷漏洞CVE-2026-44756，CVSS評分達到滿分10分，影響Extended Passport（EPP），未通過身分驗證的攻擊者可在特定情境下，利用含有惡意EPP標頭的特製請求觸發漏洞，有可能引起未定義的行為，或是造成程式異常終止。
 
 - 📰 **iThome 科技**
 
@@ -126,7 +126,7 @@ HPE於9月2日發布資安公告，修補ArubaOS-CX網路作業系統（AOS-CX�
 
 ### 20. [微軟9月例行更新破記錄！修補近1,000個自家產品漏洞](https://www.ithome.com.tw/news/178797)
 
-9月9日微軟發布本月例行更新（Patch Tuesday），其中最受到關注的部分，就是這次修補的漏洞數量，他們一共修補974個該公司登記CVE編號的漏洞，相較於上個月421個多出一倍。若再加上25個第三方元件的資安弱點，漏洞總數將達到999個。
+9月9日微軟發布本月例行更新（Patch Tuesday），其中最受到關注的部分，就是這次修補的漏洞數量，他們一共修補974個該公���登記CVE編號的漏洞，相較於上個月421個多出一倍。若再加上25個第三方元件的資安弱點，漏洞總數將達到999個。
 
 - 📰 **iThome 科技**
 
@@ -138,7 +138,7 @@ HPE於9月2日發布資安公告，修補ArubaOS-CX網路作業系統（AOS-CX�
 
 ### 22. [原估需數年，Claude多代理系統11天完成費馬最後定理形式化證明](https://www.ithome.com.tw/news/178794)
 
-Anthropic公布費馬最後定理形式化（Formalizing）成果，以Claude 代碼為基礎的多代理系統花11天，第一次完成可由Lean證明助理從頭���尾檢查的形式化證明。整項工程產生約1,300萬行Lean程式碼，完成30,300項定理證明，最終證明使用29,500項。
+Anthropic公布費馬最後定理形式化（Formalizing）成果，以Claude 代碼為基礎的多代理系統花11天，第一次完成可由Lean證明助理從頭到尾檢查���形式化證明。整項工程產生約1,300萬行Lean程式碼，完成30,300項定理證明，最終證明使用29,500項。
 
 - 📰 **iThome 科技**
 
@@ -150,7 +150,7 @@ Anthropic公布費馬最後定理形式化（Formalizing）成果，以Claude �
 
 ### 24. [美加法院案件管理平臺資料外洩，敏感個資與機密資料恐受影響](https://www.ithome.com.tw/news/178774)
 
-資訊與專業服務業者Thomson Reuters旗下法院案件管理平臺C-Track發生資料外洩，有第三方未經授權取得部分法院檔案。遭取得的資料可能包含姓名、社��安全碼、駕照號碼、出生日期、醫療及健康保險資訊，部分法院的機密資料、經遮蔽或封存的資訊也可能受到影響。
+資訊與專業服務業者Thomson Reuters旗下法院案件管理平臺C-Track發生資料外洩，有第三方未經授權取得部分法院檔案。遭取得的資料可能包含姓名、社會安全碼��駕照號碼、出生日期、醫療及健康保險資訊，部分法院的機密資料、經遮蔽或封存的資訊也可能受到影響。
 
 - 📰 **iThome 科技**
 
@@ -162,7 +162,7 @@ Google近日宣布調整Android數位憑證布局，將2021年成立、原本聚
 
 ### 26. [企業如何排定PQC轉型優先順序？系統風險、影響與轉型難度都要評估](https://www.ithome.com.tw/news/178723)
 
-哪些系統應優先進行PQC轉型？澳洲政府情報與資安機構澳洲通訊局（ASD）指出，企業完成系統與資料評估後，下一步是依風險、可能造成的影響及轉型可行性，排出各系統的PQC轉型優先順序，而不是一次���理所有系統。
+哪些系統應優先進行PQC轉型？澳洲政府情報與資安機構澳洲通訊局（ASD）指出，企業完成系統與資料評估後，下一步是依風險、可能造成的影響及轉型可行性，排出各系統的PQC轉型優先順序，而不是一次處理所有���統。
 
 - 📰 **iThome 科技**
 
@@ -174,7 +174,7 @@ Palo Alto Networks研究人員於9月2日揭露一起企業網路入侵事件，
 
 ### 28. [台灣大哥大發表MyAgent平臺，加速從AI助理走向數位員工](https://www.ithome.com.tw/news/178790)
 
-生成式 AI 技術熱炒了兩年，市場正從「問答聊天」迅速轉向能代勞實際工作流程的 AI 代理。台灣大哥大今天（9/8）舉辦「D.E.E.P. Tech Day 2026」硬科技日，發表其自研的企業級AI 代理平臺MyAgent��並和精誠資訊聯手，試圖解決企業導入AI時面臨的算力成本、模型選擇、資料安全與系統整合等問題。
+生成式 AI 技術熱炒了兩年，市場正從「問答聊天」迅速轉向能代勞實際工作流程的 AI 代理。台灣大哥大今天（9/8）舉辦「D.E.E.P. Tech Day 2026」硬科技日，發表其自研的企業級AI 代理平臺MyAgent，並和精��資訊聯手，試圖解決企業導入AI時面臨的算力成本、模型選擇、資料安全與系統整合等問題。
 
 - 📰 **iThome 科技**
 
@@ -194,6 +194,13 @@ Palo Alto Networks研究人員於9月2日揭露一起企業網路入侵事件，
 
 ### 更多 AI 新聞 (70則)
 
+- Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5 (**Wired**)
+- Apple Doesn’t Want You to Worry About the 新 Apple Watch’s Listening Features (**Wired**)
+- UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos (**Wired**)
+- I Let an AI 代理 Hack All My Gadgets—and I’d Do It Again (**Wired**)
+- Apple Debuts the iPhone Duo, Its First Folding iPhone (**Wired**)
+- Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date (**Wired**)
+- You Can Now Destroy Flock Cameras for Cash in GTA V (**Wired**)
 - A Stealth Startup Thinks It Just Hacked the Memory Shortage (**Wired**)
 - Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More (**Wired**)
 - MS NOW Wants to Turn Its Viewers Into a Fandom (**Wired**)
@@ -237,13 +244,6 @@ Palo Alto Networks研究人員於9月2日揭露一起企業網路入侵事件，
 - The 最佳 Labor Day Mattress Deals on Beds We’ve Tried in Our Homes (**Wired**)
 - Plastics Companies Are Writing Lesson Plans. What Could Go Wrong? (**Wired**)
 - The 最佳 Laptop Backpacks for Work, Travel, and Everything Between (2026) (**Wired**)
-- Create Custom Windows 11 Notifications to Remind Yourself of Anything (**Wired**)
-- My Brief Summer Fling With Siri AI (**Wired**)
-- These Cyborg Cockroaches Could Save Your Life (**Wired**)
-- 最佳 Water Leak Detectors (2026): Moen, Phyn, TP-Link (**Wired**)
-- 為什麼 China Is the Bogeyman Data Center Enthusiasts Just Can’t Quit (**Wired**)
-- The 最佳 Gaming Chairs (2026): Are They Worth It? (**Wired**)
-- 4 最佳 Alexa Speakers I’ve Tested (2026) (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
