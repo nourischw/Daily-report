@@ -4,204 +4,206 @@
 
 ---
 
-### 1. [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
+### 1. [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
 
-- ⭐ 20 分｜💬 1 留言｜👤 jodacola
+- ⭐ 68 分｜💬 47 留言｜👤 theanonymousone
 
 ### 2. [Muse – Meta’s personal AI 代理](https://ai.meta.com/muse/)
 
-- ⭐ 331 分｜💬 328 留言｜👤 yks
+- ⭐ 521 分｜💬 556 留言｜👤 yks
 
-### 3. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+### 3. [On Really Trying (2009)](https://gwern.net/on-really-trying)
 
-- ⭐ 100 分｜💬 49 留言｜👤 paimapi
+- ⭐ 56 分｜💬 30 留言｜👤 whoami_nr
 
-### 4. [如何 構建 a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+### 4. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
 
-- ⭐ 154 分｜💬 37 留言｜👤 cat-whisperer
+Further discussion: https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Sep&#x2F;8&#x2F;on-navier-stokes&#x2F;, https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49621697
 
-### 5. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- ⭐ 1705 分｜💬 711 留言｜👤 procedurecall
 
-- ⭐ 1293 分｜💬 557 留言｜👤 procedurecall
+### 5. [Tension wood: A 'muscle' that can both bend and straighten plants](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
 
-### 6. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+- ⭐ 121 分｜💬 31 留言｜👤 mdp2021
+
+### 6. [Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme](https://codeberg.org/jjba23/maak.el)
+
+- ⭐ 11 分｜💬 2 留言｜👤 jjba23
+
+### 7. [如何 構建 a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+
+- ⭐ 341 分｜💬 72 留言｜👤 cat-whisperer
+
+### 8. [Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field](https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/)
+
+- ⭐ 47 分｜💬 21 留言｜👤 cisc
+
+### 9. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
 
 https:&#x2F;&#x2F;deepmind.Google&#x2F;blog&#x2F;alphagenome-atlas-a-predictive-...https:&#x2F;&#x2F;deepmind.Google.com&#x2F;science&#x2F;alphagenome&#x2F;atlas
 
-- ⭐ 498 分｜💬 115 留言｜👤 utiiiD
+- ⭐ 566 分｜💬 122 留言｜👤 utiiiD
 
-### 7. [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+### 10. [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
 
-- ⭐ 357 分｜💬 157 留言｜👤 tosh
+- ⭐ 55 分｜💬 13 留言｜👤 porridgeraisin
 
-### 8. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+### 11. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 
-- ⭐ 1137 分｜💬 978 留言｜👤 tedsanders
+- ⭐ 168 分｜💬 88 留言｜👤 paimapi
 
-### 9. [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
+### 12. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
 
-- ⭐ 218 分｜💬 109 留言｜👤 stared
+- ⭐ 203 分｜💬 31 留言｜👤 Topfi
 
-### 10. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
+### 13. [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
 
-- ⭐ 157 分｜💬 107 留言｜👤 _alternator_
+- ⭐ 97 分｜💬 55 留言｜👤 progval
 
-### 11. [The Microeconomics of 人工智慧 (2025)](https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence)
+### 14. [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
 
-- ⭐ 31 分｜💬 11 留言｜👤 neehao
+- ⭐ 406 分｜💬 182 留言｜👤 tosh
 
-### 12. [I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd)
+### 15. [I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd)
 
-- ⭐ 324 分｜💬 256 留言｜👤 domhudson
+- ⭐ 456 分｜💬 311 留言｜👤 domhudson
 
-### 13. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+### 16. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
 
-- ⭐ 9 分｜💬 2 留言｜👤 bpierre
+- ⭐ 86 分｜💬 27 留言｜👤 bpierre
 
-### 14. [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
+### 17. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
 
-- ⭐ 213 分｜💬 113 留言｜👤 Argonautlabs
+- ⭐ 373 分｜💬 325 留言｜👤 _alternator_
 
-### 15. [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html)
+### 18. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
 
-- ⭐ 6 分｜💬 1 留言｜👤 saikatsg
+Further discussion:https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Sep&#x2F;8&#x2F;on-navier-stokes&#x2F;, https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49621697https:&#x2F;&#x2F;twitter.com&
 
-### 16. [Getting phpBB 1.4.4 working in Docker](https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html)
+- ⭐ 1265 分｜💬 1014 留言｜👤 tedsanders
 
-- ⭐ 25 分｜💬 11 留言｜👤 HeckFeck
+### 19. [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
 
-### 17. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
+- ⭐ 253 分｜💬 124 留言｜👤 stared
 
-- ⭐ 55 分｜💬 7 留言｜👤 mathgenius
+### 20. [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html)
 
-### 18. [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
+- ⭐ 61 分｜💬 31 留言｜👤 saikatsg
 
-- ⭐ 46 分｜💬 3 留言｜👤 ibobev
+### 21. [Interactive demo of MINIX1-like O/S on emulated CPU](https://swtos.softwarewrighter.com/)
 
-### 19. [Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?](https://news.ycombinator.com/item?id=49598009)
+- ⭐ 4 分｜💬 2 留言｜👤 softwarewright
 
-My first attempt at restoring 1991 Learning Company Spellbound for DOS for my children is dubious. Despite being stored nowhere near magnetic sources, there are read errors on the 3.5 inch floppies an
+### 22. [We built our house for LAN parties (2024)](https://lanparty.house/)
 
-- ⭐ 11 分｜💬 16 留言｜👤 rietta
+- ⭐ 525 分｜💬 339 留言｜👤 fittingopposite
 
-### 20. [Show HN: 大型語言模型 Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)
+### 23. [The Microeconomics of 人工智慧 (2025)](https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence)
 
-- ⭐ 131 分｜💬 22 留言｜👤 ifz
+- ⭐ 62 分｜💬 32 留言｜👤 neehao
 
-### 21. [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+### 24. [The origins of Partner’s computer case](https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/)
 
-- ⭐ 125 分｜💬 16 留言｜👤 Topfi
+- ⭐ 34 分｜💬 4 留言｜👤 markostamcar
 
-### 22. [Implementation of GCC's Nested Functions (vs. C++ Lambdas)](https://uecker.codeberg.page/2026-09-05.html)
+### 25. [Ganon's Mysterious Origins (Revisited)](https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider)
 
-- ⭐ 60 分｜💬 9 留言｜👤 uecker
+- ⭐ 34 分｜💬 18 留言｜👤 tobr
 
-### 23. [Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster](https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/)
+### 26. [Carmakers Have a 新 Idea to Boost EV Range: Add a Gas Engine](https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34)
 
-- ⭐ 89 分｜💬 41 留言｜👤 metrofun
+- ⭐ 5 分｜💬 1 留言｜👤 bookofjoe
 
-### 24. [Tracing np.add, all the way down](https://blog.veitheller.de/numpy.html)
+### 27. [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
 
-- ⭐ 39 分｜💬 2 留言｜👤 luu
+- ⭐ 107 分｜💬 11 留言｜👤 mathgenius
 
-### 25. [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/)
+### 28. [Into the depths of C: Elaborating the de facto standards (2016)](https://dl.acm.org/doi/10.1145/2980983.2908081)
 
-- ⭐ 148 分｜💬 46 留言｜👤 zdw
+- ⭐ 21 分｜💬 1 留言｜👤 rramadass
 
-### 26. [We built our house for LAN parties (2024)](https://lanparty.house/)
+### 29. [Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster](https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/)
 
-- ⭐ 425 分｜💬 314 留言｜👤 fittingopposite
+- ⭐ 130 分｜💬 48 留言｜👤 metrofun
 
-### 27. [Show HN: Copperhead – Cursor for circuit boards](https://copperhead.sh/)
+### 30. [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
 
-- ⭐ 209 分｜💬 82 留言｜👤 animeshchouhan
-
-### 28. [Reverse Engineering an ASIC](https://kjartanvandriel.github.io/asic/)
-
-- ⭐ 36 分｜💬 4 留言｜👤 burekqueen
-
-### 29. [The 92-Year-Old Mathematician and the Teenage Apprentice](https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html)
-
-- ⭐ 144 分｜💬 11 留言｜👤 robinhouston
-
-### 30. [C*: Unifying 程式設計 and Verification in C (2025)](https://arxiv.org/abs/2504.02246)
-
-- ⭐ 71 分｜💬 41 留言｜👤 rramadass
+- ⭐ 344 分｜💬 420 留言｜👤 vertigoruntime
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- The two Christian saints who are the Buddha
-- AlphaGenome Atlas predictive map of every DNA letter change in the human genome
-- FreeBSD 14.5-Release
-- Connecting the machines
-- ZX Spectrum: Experimenting with 1-Bit Sound
+- The Helicopter with Radioactive Blades
+- Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs
+- Show HN: Copperhead – Cursor for circuit boards
+- Copyright does more harm than good and should be abolished
+- Implementation of GCC's Nested Functions (vs. C++ Lambdas)
+- Getting phpBB 1.4.4 working in Docker
+- Show HN: 大型語言模型 Attention Visualization
+- Animation in Bevy: The Big Picture
+- Tracing np.add, all the way down
 - Getting your hands dirty is good for you
-- Embedding a bitmap font in your HyperCard stack
+- The 92-Year-Old Mathematician and the Teenage Apprentice
+- Gambling with our lives: AI researcher quits Anthropic with warning about safety
+- FreeBSD 14.5-Release
+- AlphaGenome Atlas predictive map of every DNA letter change in the human genome
+- Reverse Engineering an ASIC
+- Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?
+- ZX Spectrum: Experimenting with 1-Bit Sound
+- The two Christian saints who are the Buddha
 - GrapheneOS on AI Usage
-- Function Arguments Are Not Function Colors
-- Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones
-- Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger
+- Connecting the machines
 - Antiquated HTML Snippets and Artefacts
-- AI Responsibility – OpenAI and Anthropic
-- Iran says it captured US submarine drone in Strait of Hormuz
+- Law schools tell students to put AI away
+- C*: Unifying 程式設計 and Verification in C (2025)
 - Mistral raises €3B
-- Disappointed Optimists
-- LG TV shown scanning LAN for third-party phones and other devices
-- Flock worker calls police on investigator filming public camera installation
-- I Rewrote My Back End in Go in 72 Hours and Cut My AWS Bill by 94%
-- Space Force Uniform Is Inspired by Quasi-Satirical Film 'Starship Troopers'
-- US to ban Canadian dairy, alcohol, motor vehicle imports on September 29
-- Cognition (Devin) raises $2B at $48B valuation
-- DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits
-- Extracting Steering Vectors from J space
-- Picolibrary: A Small Press
-- How well do agents use 測試/verification techniques?
-- There's a 新 "Google Jail" for independent wikis
-- Our GitHub Actions bill kept climbing, so we moved CI to one box
-- Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?
-- I've factored the RSA keys of a Certificate Authority from the 90s
-- Arm Mali G2-Ultra NX GPU: desktop-class 行動 gameplay with AI-native graphics
-- Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]
-- "Please Remove All Mannered Prose" and Other 大型語言模型 Incantations
-- ChatGPT Images 2.5
-- Y Combinator Early Access 網絡
-- End-to-end infrastructure for 訓練 and inferencing open weight models
-- Real photos of young girls were in nudify-app ads on Facebook, Instagram
-- LG TVs caught spying even when offline or on standby
-- Reverse engineering the 2008 LogiCola, a logic drill program
-- Meta Failed to Catch Hundreds of AI Child Abuse Ads
-- Emacs Bedrock 2.0
-- Keep Our Servers Running
-- John Margolies' photographs of roadside America
-- Jellyfin 12.0
-- Flights cancelled at UK airports due to ATC issue
-- Trey Parker and Matt Stone Are Changing the Name of South Park to South America
-- This Month in Ladybird – August 2026
-- What Happened to Compuserve?
-- Introducing CUDA Rust: Two Tracks for Writing GPU Kernels
-- 216M Spy TVs – The LG Smart TV Problem [video]
+- Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger
 - I resigned from Anthropic today
-- The VMs Powering 行動 Agents (Instinct, Claude 代碼)
-- Multi-Agents 大型語言模型 Financial Trading Framework
-- Do you think it happened? Research stolen from their Codex private chats
-- EV batteries last longer than drivers feared
-- Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite
+- How well do agents use 測試/verification techniques?
+- I'm going back to coding by hand
+- There's a 新 "Google Jail" for independent wikis
+- Steam now requires Australian users to verify their age with a credit card
+- Disappointed Optimists
+- Function Arguments Are Not Function Colors
+- AI Has a Discovery Problem
+- Extracting Steering Vectors from J space
+- I've factored the RSA keys of a Certificate Authority from the 90s
+- YouTube cracks down on 'AI ghost creators'
+- Picolibrary: A Small Press
+- Keep Our Servers Running
+- Embedding a bitmap font in your HyperCard stack
+- Harvard study predicts most suicide attempts a week in advance
+- Arm Mali G2-Ultra NX GPU: desktop-class 行動 gameplay with AI-native graphics
+- Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?
+- Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones
+- Emacs Bedrock 2.0
+- John Margolies' photographs of roadside America
+- Cognition (Devin) raises $2B at $48B valuation
+- End-to-end infrastructure for 訓練 and inferencing open weight models
+- "Please Remove All Mannered Prose" and Other 大型語言模型 Incantations
+- This Month in Ladybird – August 2026
+- 216M Spy TVs – The LG Smart TV Problem [video]
+- LG TV shown scanning LAN for third-party phones and other devices
+- Y Combinator Early Access 網絡
+- The Adults Aren't Coming
+- Our GitHub Actions bill kept climbing, so we moved CI to one box
+- Jellyfin 12.0
 - Simple Is Not Small
+- The Navier–Stokes Millennium Prize Problem
+- Reverse engineering the 2008 LogiCola, a logic drill program
+- Going Home – What would it take to make housing a human right?
+- Flock worker calls police on investigator filming public camera installation
 - Decoding the NEC V20 Microcode
+- The VMs Powering 行動 Agents (Instinct, Claude 代碼)
+- LG TVs caught spying even when offline or on standby
+- Space Force Uniform Is Inspired by Quasi-Satirical Film 'Starship Troopers'
 - TALA Is Open-Source
-- Testing race conditions with memory access tracing & stack-based delay injection
+- Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite
 - Leaving VMware just got harder after Broadcom pulled VDDK downloads
-- LibreOffice breaks download records after declaring it has no AI features
+- DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits
 - Watch Los Angeles get built, one building at a time (1880–2026)
-- Show HN: Jigsaw Haiku
-- Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare
-- Super Smash Brothers Melee has been 100% decompilated with the help of LLMs
-- Opalite Health (YC W26) Is 招聘 – Founding GTM
-- Show HN: Interactive Tree of Life
-- WeatherNext 3
-- Robot writes in languages it has never seen before (2019)
+- The NX bit is not just about 安全
 
 
 ---
