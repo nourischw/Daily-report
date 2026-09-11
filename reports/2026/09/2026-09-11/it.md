@@ -4,206 +4,208 @@
 
 ---
 
-### 1. [Houthis 'take control' of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
+### 1. [A misalignment of AI in mathematics](https://mathandai.org/)
 
-- ⭐ 199 分｜💬 182 留言｜👤 consumer451
+https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;..., https:&
 
-### 2. [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
+- ⭐ 213 分｜💬 311 留言｜👤 meredydd
 
-- ⭐ 277 分｜💬 217 留言｜👤 JohnHammersley
+### 2. [GrapheneOS' rewritten Messages app is 發布](https://github.com/GrapheneOS/Messaging/releases/tag/13)
 
-### 3. [Logo 程式設計 Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
+- ⭐ 44 分｜💬 17 留言｜👤 microtonal
 
-- ⭐ 61 分｜💬 24 留言｜👤 azhenley
+### 3. [Λ Snap – An inviting 程式設計 language for kids and adults for CS study](https://snap.berkeley.edu/)
 
-### 4. [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
+- ⭐ 65 分｜💬 41 留言｜👤 dr_kiszonka
 
-Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.I noticed that because the
+### 4. [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
 
-- ⭐ 541 分｜💬 272 留言｜👤 cromka
+- ⭐ 40 分｜💬 14 留言｜👤 kennethwolters
 
-### 5. [HuggingFace: 安全.txt](https://huggingface.co/security.txt)
+### 5. [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
 
-- ⭐ 48 分｜💬 2 留言｜👤 yarapavan
+- ⭐ 462 分｜💬 517 留言｜👤 Muhammad523
 
-### 6. [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
+### 6. [The EPA is planning to scrap public review rules for data center pollution](https://capitalbnews.org/data-centers-permit-rules-epa/)
 
-- ⭐ 429 分｜💬 111 留言｜👤 player85
+- ⭐ 165 分｜💬 99 留言｜👤 doener
 
-### 7. [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
+### 7. [AlphaGenome maps 9B DNA variants](https://spectrum.ieee.org/alphagenome-atlas)
 
-- ⭐ 9 分｜💬 8 留言｜👤 postalcoder
+- ⭐ 25 分｜💬 1 留言｜👤 ltononro
 
-### 8. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+### 8. [Mind-altering drugs played key role in rise of Andean civilization](https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization)
 
-- ⭐ 157 分｜💬 81 留言｜👤 andsoitis
+- ⭐ 30 分｜💬 11 留言｜👤 geneticdrifts
 
-### 9. [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/)
+### 9. [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse)
 
-- ⭐ 6 分｜💬 0 留言｜👤 zdw
+- ⭐ 133 分｜💬 49 留言｜👤 adastral
 
-### 10. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
+### 10. [Rune is now 開源](https://rune.build/blog/rune-is-now-open-source)
 
-- ⭐ 1185 分｜💬 876 留言｜👤 fnthawar2
+- ⭐ 78 分｜💬 26 留言｜👤 ernestrc
 
-### 11. [Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
+### 11. [118M Queries per Second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki)
 
-- ⭐ 14 分｜💬 5 留言｜👤 losgehts
+- ⭐ 70 分｜💬 33 留言｜👤 joshmgross
 
-### 12. [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+### 12. [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
 
-- ⭐ 83 分｜💬 50 留言｜👤 michalwarda
+- ⭐ 617 分｜💬 168 留言｜👤 player85
 
-### 13. [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse)
+### 13. [Zep AI (YC W24) Is 招聘 a Head of Forward Deployed Engineering](https://www.getzep.com/careers/)
 
-- ⭐ 14 分｜💬 2 留言｜👤 adastral
+- ⭐ 1 分｜💬 0 留言｜👤 roseway4
 
-### 14. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
+### 14. [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
 
-- ⭐ 692 分｜💬 418 留言｜👤 Brajeshwar
+I wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to learn more). The base inspiration was tmux - simply allow spa
 
-### 15. [iPod Classic 6G in QEMU](https://www.reddit.com/r/emulation/s/VL4Au2HGxq)
+- ⭐ 64 分｜💬 35 留言｜👤 1nv1n
 
-- ⭐ 100 分｜💬 19 留言｜👤 dmonterocrespo
+### 15. [Logo 程式設計 Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
 
-### 16. [RISC-V Emulator and Linux 系統 from Scratch](https://github.com/WerWolv/riscv-emulator)
+- ⭐ 178 分｜💬 79 留言｜👤 azhenley
 
-- ⭐ 31 分｜💬 2 留言｜👤 Bluestein
+### 16. [Global Glacier Extinction Explorer](https://glacierextinction.com)
 
-### 17. [CSS Curiosities of the Past](https://vale.rocks/posts/css-relics)
+- ⭐ 130 分｜💬 47 留言｜👤 guillego
 
-- ⭐ 56 分｜💬 32 留言｜👤 robin_reala
+### 17. [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
 
-### 18. [Working with Git Worktrees in Magit](https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/)
+- ⭐ 128 分｜💬 60 留言｜👤 michalwarda
 
-- ⭐ 94 分｜💬 39 留言｜👤 srijan4
+### 18. [Room 641A](https://en.wikipedia.org/wiki/Room_641A)
 
-### 19. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+- ⭐ 83 分｜💬 13 留言｜👤 paimapi
 
-- ⭐ 311 分｜💬 166 留言｜👤 aquir
+### 19. [Show HN: Bodily Oddities](https://vester.si/bodily-oddities/)
 
-### 20. [If coding is solved, what now?: Measuring the sloppiness of 代碼](https://earendil.com/posts/measuring-code-sloppiness/)
+When I was about 11 years old, my 最佳 friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudde
 
-- ⭐ 103 分｜💬 130 留言｜👤 doppp
+- ⭐ 109 分｜💬 93 留言｜👤 vesterde
 
-### 21. [An interactive tour of the spanning tree protocol](https://vincent.bernat.ch/en/blog/2026-spanning-tree)
+### 20. [Eating Fruit Skins](https://pgadey.ca/blog/eating-fruit-skins/)
 
-- ⭐ 58 分｜💬 5 留言｜👤 zdw
+- ⭐ 11 分｜💬 6 留言｜👤 surprisetalk
 
-### 22. [Experiment – Projectional Viewer](https://programmingsimplicity.substack.com/p/experiment-projectional-viewer)
+### 21. [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
 
-- ⭐ 12 分｜💬 1 留言｜👤 surprisetalk
+https:&#x2F;&#x2F;www.cia.gov&#x2F;stories&#x2F;story&#x2F;cia-releases-presidents-da...
 
-### 23. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+- ⭐ 30 分｜💬 7 留言｜👤 stmw
 
-- ⭐ 332 分｜💬 107 留言｜👤 rguiscard
+### 22. [Measuring the sloppiness of 代碼](https://earendil.com/posts/measuring-code-sloppiness/)
 
-### 24. [新 York thoracic surgeon: "For many patients 9/11 is not over"](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/)
+- ⭐ 197 分｜💬 209 留言｜👤 doppp
 
-- ⭐ 25 分｜💬 8 留言｜👤 EA-3167
+### 23. [Copper lined vest to help penguins with recovery](https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881)
 
-### 25. [Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images)
+- ⭐ 38 分｜💬 13 留言｜👤 ninju
 
-https:&#x2F;&#x2F;dstretch.com&#x2F;DecorrelationStretch.pdfhttps:&#x2F;&#x2F;www.nasa.gov&#x2F;technology&#x2F;tech-transfer-spinoffs&#x2F;nasa-...
+### 24. [Stop making swap partitions—use swap files instead](https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43)
 
-- ⭐ 362 分｜💬 62 留言｜👤 gumby
+- ⭐ 70 分｜💬 121 留言｜👤 jenders
 
-### 26. [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
+### 25. [HuggingFace: 安全.txt](https://huggingface.co/security.txt)
 
-- ⭐ 272 分｜💬 358 留言｜👤 Muhammad523
+- ⭐ 203 分｜💬 51 留言｜👤 yarapavan
 
-### 27. [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/)
+### 26. [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/)
 
-- ⭐ 251 分｜💬 167 留言｜👤 auberonedu
+- ⭐ 58 分｜💬 46 留言｜👤 zdw
 
-### 28. [Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)
+### 27. [How the Chorleywood Bread Process transformed British bread](https://edconway.substack.com/p/the-little-holes-in-your-bread-are)
 
-- ⭐ 154 分｜💬 52 留言｜👤 nasutton12
+- ⭐ 70 分｜💬 82 留言｜👤 baud147258
 
-### 29. [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+### 28. [Show HN: Hacker News, Without AI](https://www.unslop.news/)
 
-- ⭐ 270 分｜💬 128 留言｜👤 aanet
+- ⭐ 138 分｜💬 60 留言｜👤 otherayden
 
-### 30. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
+### 29. [Google will buy half the electricity from one of Finland's nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)
 
-https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;sta
+- ⭐ 274 分｜💬 271 留言｜👤 lukaspetersson
 
-- ⭐ 845 分｜💬 787 留言｜👤 pred_
+### 30. [Cherenkov Radiation](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+
+- ⭐ 209 分｜💬 92 留言｜👤 andsoitis
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- iPod Classic 6G in QEMU
+- Show HN: Toast, a beautiful by default in terminal IDE
+- Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK
+- Creatine improves muscle mass and cognitive function even without exercise
+- Houthis 'take control' of key island in global shipping route
+- Kenyans Did College Students' Homework for Years. Then A.I. Arrived
+- An interactive tour of the spanning tree protocol
+- Working with Git Worktrees in Magit
+- RISC-V Emulator and Linux 系統 from Scratch
+- GPT-6 Astra does 3D camera tracking and VFX in Blender
+- Shopify is moving from React Native back to Swift and Kotlin
+- The Netherlands, Spain push for EU-wide minimum age on social media
+- NAZA a Devastating Exposé of Israeli Genocidal Policy in Gaza
+- Show HN: Clawfight.AI MCP-driven agentic game play
+- Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally
+- Show HN: Extension to filter 大型語言模型 written articles
+- 新 York thoracic surgeon: "For many patients 9/11 is not over"
+- 如何 構建 a $20B Semiconductor Fab (2024)
+- CSS Curiosities of the Past
+- Don't let anyone take away your big box of cables
+- Nine coding harnesses vs. your laptop
+- The Deathray: A simple way for an untrusted site to freeze a Mac
+- Open-weights world models' parameter size doubles every ~6 months
+- How I Prompt
 - NTSB issues investigative 更新 on B-767 runway excursion accident in Miami
-- Neki – Sharded Postgres
-- Forgejo <=16.0.3 Critical RCE
-- Cognition 推出 新 SWE-2 模型, Rivaling Fable 5.1 and GPT-Astra
+- Agents on Rails: 最佳 模型 solves 35% of feature benchmark runs
+- Show HN: Hacker News, without AI
 - Proof of Capture: Apple Reference Image, but 開源 and using steganography
-- Neijuan
-- Douglas Hofstadter: Analogy as the Core of Cognition [video]
+- Instagram's head says engagement falls by half without the algorithm
+- I recently went through a translation of Musashi's Book of Five Rings
+- Experiment – Projectional Viewer
+- Governor Newsom signs the strongest child safety chatbot and social media laws
+- Hacker News with reduced priority for AI driven content
 - Rust is tier-1 language at Microsoft
+- OpenAI Agents API
 - Detecting and countering misuse of AI: September 2026
-- My HTML Boilerplate
-- Recursion into madness
-- JEP 544: Ahead-of-Time 代碼 Compilation
 - List of references on Sony websites to players "owning" their digital games
+- JEP 544: Ahead-of-Time 代碼 Compilation
+- Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster
+- Can humans learn to hibernate? [video]
+- Recursion into madness
+- The Cretan Method
+- Moonshot serves Claude instead of Kimi and collects exchanges for 模型 訓練
+- Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)
+- To write non-fiction, draw the trunk, then the rest of the tree
+- Neijuan
+- Testing race conditions with mem access tracing and stack-based delay injection
 - Silicon Valley is transforming the military-industrial complex? (2024)
+- AI Is Breaking This Thing We Call Trust
 - Apple A20 Pro Geekbench Result
 - DeepSeek 4.1 Flash
-- Testing race conditions with mem access tracing and stack-based delay injection
-- To write non-fiction, draw the trunk, then the rest of the tree
-- 為什麼 Bullshit Jobs Are (Finally) Dying [video]
 - What Comes After Git
-- Exercise intensity is associated with cardiometabolic health
-- AI Is Breaking This Thing We Call Trust
 - Python sets and dictionaries can have quadratic-time performance
-- Show HN: Vertumnus – printable posters of farmers' market produce seasonality
-- What happens when a GPU writes memory
 - DeepSeek v4.1 Flash
-- Customizing my Compaq MX-11800 keyboard
-- Instagram's head says engagement falls by half without the algorithm
-- Compute-efficient pretraining and scaling to trillion-parameter models
-- Show HN: Foldelight – the iPhone Duo folding effect the MacBook was owed
-- Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1
+- What happens when a GPU writes memory
+- The Waymo effect: how AI is quietly making research less collaborative
+- Helion Moves Fusion Goalposts
 - iPhone Duo
-- Thelio Mira AI Linux Workstation: 192 GB GPU Memory
-- Larger Pacific striped octopus
-- YuE2 · Frontier Music with Symbolic Planning
-- Roame (YC S23) Is 招聘 Viral Content Editor
+- AI made 16 新 viruses
+- Music Theory for the 21st-Century Classroom
+- Show HN: Vertumnus – printable posters of farmers' market produce seasonality
+- More questions about whether researchers can trust OpenAI with unpublished math
+- Compute-efficient pretraining and scaling to trillion-parameter models
+- Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1
 - Shopify acquires Tailwind
-- Julia 1.13 Highlights
-- Astra for Coding: 為什麼 Are We Doing This Again?
-- DeepSeek v4.1 Flash Uncensored
-- Knap – Turn Data into Markdown
-- Herdr Studio
-- OpenAI’s Navier-Stokes release included a Lean 4 formal proof
-- Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics
-- Creativity is the 新 moat
-- Macbeth and His Problems
-- Bitap: My favorite string matching algorithm
-- Embedding a bitmap font in your HyperCard stack
-- What algorithm did Windows XP use to choose your initial user picture?
-- Show HN: DOOM in the kernel, or fibers in eBPF
-- Show HN: What if the speed of light was 5 km/h?
-- Show HN: MultiMatte, a Promptable Image Background Removal 模型
-- What do Visa and Mastercard do? An intro to card networks
-- Stockfish 19
-- Hitachi 推出 CO2 heat pump water heaters with solar-friendly tariff controls
-- Automattic's board forces CEO Matt Mullenweg into leave of absence
-- The UN challenges five centuries of cartography
-- Thinking with Looped Flows
-- Apple Watch Series 12
-- GNU Radio in the browser
-- The Four-Color Theorem Gets a Rare 新 Proof
-- The Gemini app is now available for Windows
-- GIMP 3.2.6 發布 with Some Early Preparations Toward Eventual GTK4 Port
-- Diesel prices in U.S. 熱門 $6 a gallon for first time
-- Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets
-- On Next-Gen Transformer: Loops Are Not What You Need
-- Casablanca: How an unproduced play marched into movie history
-- Growing proof that autonomous cars save lives
-- Show HN: Compute polynomials twice as fast
-- A.I.'s warning shot... we might not get another one
+- Larger Pacific striped octopus
+- Ask HN: Can we please limit the AI news flood?
+- Neki – Sharded Postgres
+- Customizing my Compaq MX-11800 keyboard
+- Forgejo <=16.0.3 Critical RCE
 
 
 ---
