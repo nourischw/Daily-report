@@ -4,208 +4,206 @@
 
 ---
 
-### 1. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+### 1. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
 
-- ⭐ 43 分｜💬 34 留言｜👤 sexy_seedbox
+- ⭐ 46 分｜💬 33 留言｜👤 andsoitis
 
 ### 2. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
 
-- ⭐ 799 分｜💬 538 留言｜👤 fnthawar2
+- ⭐ 1076 分｜💬 751 留言｜👤 fnthawar2
 
-### 3. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
+### 3. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 
-https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;sta
+- ⭐ 539 分｜💬 350 留言｜👤 Brajeshwar
 
-- ⭐ 687 分｜💬 635 留言｜👤 pred_
+### 4. [Working with Git Worktrees in Magit](https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/)
 
-### 4. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
-
-- ⭐ 81 分｜💬 54 留言｜👤 lukaspetersson
+- ⭐ 52 分｜💬 17 留言｜👤 srijan4
 
 ### 5. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
 
-- ⭐ 139 分｜💬 89 留言｜👤 aquir
+- ⭐ 270 分｜💬 146 留言｜👤 aquir
 
 ### 6. [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/)
 
-- ⭐ 90 分｜💬 56 留言｜👤 auberonedu
+- ⭐ 200 分｜💬 123 留言｜👤 auberonedu
 
-### 7. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
-
-- ⭐ 335 分｜💬 258 留言｜👤 Brajeshwar
-
-### 8. [Cognition 推出 新 SWE-2 模型, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
-
-- ⭐ 357 分｜💬 150 留言｜👤 seelos
-
-### 9. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
-
-- ⭐ 33 分｜💬 25 留言｜👤 jonifico
-
-### 10. [Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images)
+### 7. [Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images)
 
 https:&#x2F;&#x2F;dstretch.com&#x2F;DecorrelationStretch.pdfhttps:&#x2F;&#x2F;www.nasa.gov&#x2F;technology&#x2F;tech-transfer-spinoffs&#x2F;nasa-...
 
-- ⭐ 277 分｜💬 42 留言｜👤 gumby
+- ⭐ 339 分｜💬 55 留言｜👤 gumby
 
-### 11. [NTSB issues investigative 更新 on B-767 runway excursion accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+### 8. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
 
-- ⭐ 62 分｜💬 94 留言｜👤 mckn1ght
+- ⭐ 219 分｜💬 79 留言｜👤 rguiscard
 
-### 12. [Customizing my Compaq MX-11800 keyboard](https://blog.webb.page/WM-102)
+### 9. [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
 
-- ⭐ 12 分｜💬 2 留言｜👤 NetOpWibby
+- ⭐ 48 分｜💬 39 留言｜👤 quysala12
 
-### 13. [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+### 10. [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
 
-- ⭐ 166 分｜💬 80 留言｜👤 aanet
+- ⭐ 20 分｜💬 14 留言｜👤 arittr
 
-### 14. [Neki – Sharded Postgres](https://planetscale.com/blog/introducing-neki)
+### 11. [Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)
 
-- ⭐ 203 分｜💬 113 留言｜👤 simon_weber
+- ⭐ 102 分｜💬 29 留言｜👤 nasutton12
 
-### 15. [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)
+### 12. [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
 
-- ⭐ 7 分｜💬 3 留言｜👤 etoxin
+- ⭐ 29 分｜💬 10 留言｜👤 vermilingua
 
-### 16. [Forgejo <=16.0.3 Critical RCE](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
+### 13. [CSS Curiosities of the Past](https://vale.rocks/posts/css-relics)
 
-- ⭐ 154 分｜💬 57 留言｜👤 weierstass
+- ⭐ 5 分｜💬 0 留言｜👤 robin_reala
 
-### 17. [Recursion into madness](https://blog.coredump.cx/p/recursion-into-madness)
+### 14. [NTSB issues investigative 更新 on B-767 runway excursion accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
 
-- ⭐ 39 分｜💬 9 留言｜👤 surprisetalk
+- ⭐ 105 分｜💬 182 留言｜👤 mckn1ght
 
-### 18. [Rust is tier-1 language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+### 15. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
 
-- ⭐ 609 分｜💬 350 留言｜👤 mmastrac
+https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;sta
 
-### 19. [Hitachi 推出 CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
+- ⭐ 814 分｜💬 745 留言｜👤 pred_
 
-- ⭐ 287 分｜💬 229 留言｜👤 thelastgallon
+### 16. [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
 
-### 20. [What happens when a GPU writes memory](https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory)
+- ⭐ 85 分｜💬 9 留言｜👤 player85
 
-- ⭐ 49 分｜💬 1 留言｜👤 ibobev
+### 17. [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 
-### 21. [JEP 544: Ahead-of-Time 代碼 Compilation](https://openjdk.org/jeps/544)
+- ⭐ 230 分｜💬 99 留言｜👤 aanet
 
-- ⭐ 79 分｜💬 26 留言｜👤 Skinney
+### 18. [Cognition 推出 新 SWE-2 模型, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
 
-### 22. [iPhone Duo](https://www.apple.com/iphone-duo/)
+- ⭐ 419 分｜💬 174 留言｜👤 seelos
 
-- ⭐ 1415 分｜💬 2441 留言｜👤 thecosmicfrog
+### 19. [Forgejo <=16.0.3 Critical RCE](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
 
-### 23. [Douglas Hofstadter: Analogy as the Core of Cognition [video]](https://www.youtube.com/watch?v=n8m7lFQ3njk)
+- ⭐ 188 分｜💬 68 留言｜👤 weierstass
 
-- ⭐ 147 分｜💬 74 留言｜👤 tosh
+### 20. [Neki – Sharded Postgres](https://planetscale.com/blog/introducing-neki)
 
-### 24. [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+- ⭐ 246 分｜💬 131 留言｜👤 simon_weber
+
+### 21. [Proof of Capture: Apple Reference Image, but 開源 and using steganography](https://merybenavente.me/blog/proof-of-capture)
+
+- ⭐ 111 分｜💬 60 留言｜👤 merybenavente
+
+### 22. [Testing race conditions with mem access tracing and stack-based delay injection](https://projectzero.google/2026/09/maccconc-race-condition.html)
+
+- ⭐ 9 分｜💬 0 留言｜👤 mfrw
+
+### 23. [Rust is tier-1 language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+
+- ⭐ 678 分｜💬 428 留言｜👤 mmastrac
+
+### 24. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
+
+- ⭐ 105 分｜💬 88 留言｜👤 jonifico
+
+### 25. [An interactive tour of the spanning tree protocol](https://vincent.bernat.ch/en/blog/2026-spanning-tree)
+
+- ⭐ 6 分｜💬 0 留言｜👤 zdw
+
+### 26. [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
 https:&#x2F;&#x2F;www-cdn.Anthropic.com&#x2F;e50be2e51e7695dc4b1366a37a245a...
 
-- ⭐ 86 分｜💬 159 留言｜👤 garo-pro
+- ⭐ 135 分｜💬 200 留言｜👤 garo-pro
 
-### 25. [Embedding a bitmap font in your HyperCard stack](https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html)
+### 27. [Douglas Hofstadter: Analogy as the Core of Cognition [video]](https://www.youtube.com/watch?v=n8m7lFQ3njk)
 
-- ⭐ 20 分｜💬 1 留言｜👤 zdw
+- ⭐ 184 分｜💬 79 留言｜👤 tosh
 
-### 26. [OpenAI’s Navier-Stokes release included a Lean 4 formal proof](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+### 28. [Astra for Coding: 為什麼 Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
 
-- ⭐ 139 分｜💬 138 留言｜👤 ibobev
+- ⭐ 334 分｜💬 242 留言｜👤 manojbajaj95
 
-### 27. [Proof of Capture: Apple Reference Image, but 開源 and using steganography](https://merybenavente.me/blog/proof-of-capture)
+### 29. [Recursion into madness](https://blog.coredump.cx/p/recursion-into-madness)
 
-- ⭐ 70 分｜💬 51 留言｜👤 merybenavente
+- ⭐ 73 分｜💬 17 留言｜👤 surprisetalk
 
-### 28. [Show HN: Vertumnus – printable posters of farmers' market produce seasonality](https://vertumnus.fyi)
+### 30. [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
 
-The origin of this project was me, as a casual farmers&#x27; market attendee, grossly misremembering the start date of early girl tomatoes. Ironically, I still haven&#x27;t achieved that goal, because
-
-- ⭐ 28 分｜💬 14 留言｜👤 perspectivezoom
-
-### 29. [Silicon Valley is transforming the military-industrial complex? (2024)](https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex)
-
-- ⭐ 153 分｜💬 306 留言｜👤 paimapi
-
-### 30. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-
-- ⭐ 4 分｜💬 0 留言｜👤 rguiscard
+- ⭐ 102 分｜💬 47 留言｜👤 qclibre22
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- JEP 544: Ahead-of-Time 代碼 Compilation
+- YuE2 · Frontier Music with Symbolic Planning
+- DeepSeek v4.1 Flash Uncensored
 - List of references on Sony websites to players "owning" their digital games
-- Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics
-- Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1
-- Creativity is the 新 moat
-- Details.so
-- Python sets and dictionaries can have quadratic-time performance
+- What happens when a GPU writes memory
+- What Comes After Git
+- Silicon Valley is transforming the military-industrial complex? (2024)
+- Customizing my Compaq MX-11800 keyboard
+- Apple A20 Pro Geekbench Result
+- Show HN: Vertumnus – printable posters of farmers' market produce seasonality
 - To write non-fiction, draw the trunk, then the rest of the tree
-- Compute-efficient pretraining and scaling to trillion-parameter models
-- Schemy Lisp En DOS
-- How My Students Think About AI
-- Show HN: MultiMatte, a Promptable Image Background Removal 模型
+- Python sets and dictionaries can have quadratic-time performance
 - AI Is Breaking This Thing We Call Trust
+- DeepSeek 4.1 Flash
+- Compute-efficient pretraining and scaling to trillion-parameter models
+- Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1
 - DeepSeek v4.1 Flash
-- Macbeth and His Problems
-- On Next-Gen Transformer: Loops Are Not What You Need
-- Show HN: DOOM in the kernel, or fibers in eBPF
-- Casablanca: How an unproduced play marched into movie history
-- I turned off my algorithm for 24 hours. Is this how social media used to be?
-- The Four-Color Theorem Gets a Rare 新 Proof
-- What algorithm did Windows XP use to choose your initial user picture?
-- Larger Pacific striped octopus
-- Stockfish 19
-- 1M+ German households have hung solar panels off their balcony railings
-- Hired to 代碼, He Built Hudson River Trading and a $27B Fortune
-- Shopify acquires Tailwind
-- Show HN: What if the speed of light was 5 km/h?
-- The Iron Heel by Jack London
-- I have a theory that 軟體 drives people insane
-- Show HN: Filament – Fast data movement engine in Go
-- Kagi Translate Is Back
-- Automattic's board forces CEO Matt Mullenweg into leave of absence
-- Anthropic details how Claude was misused for surveillance and weapons
-- Roame (YC S23) Is 招聘 Viral Content Editor
-- What do Visa and Mastercard do? An intro to card networks
-- Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators
-- Liesegang Rings
-- Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets
-- The UN challenges five centuries of cartography
-- Show HN: Compute polynomials twice as fast
-- Apple Watch Series 12
-- Galaxy Z Fold 8 get the same folding animation as iPhone Duo
-- I'm a Proud Luddite. That's 為什麼 I Use Linux
-- GNU Radio in the browser
+- OpenAI’s Navier-Stokes release included a Lean 4 formal proof
+- Google will buy half the electricity from one of Finland's nuclear power plants
+- Embedding a bitmap font in your HyperCard stack
+- Herdr Studio
+- Creativity is the 新 moat
+- Bitap: My favorite string matching algorithm
+- Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics
 - Knap – Turn Data into Markdown
-- Show HN: Nightshift – Your 代碼 gets better while you sleep
+- iPhone Duo
+- Macbeth and His Problems
+- Larger Pacific striped octopus
+- Setting up OpenCode with Ollama and sbx on Mac
+- Hitachi 推出 CO2 heat pump water heaters with solar-friendly tariff controls
+- Show HN: DOOM in the kernel, or fibers in eBPF
+- Show HN: MultiMatte, a Promptable Image Background Removal 模型
+- Shopify acquires Tailwind
+- What algorithm did Windows XP use to choose your initial user picture?
+- Thinking with Looped Flows
+- Julia 1.13 Highlights
+- Countries 15x10 Pixel Flags
+- On Next-Gen Transformer: Loops Are Not What You Need
+- Stockfish 19
+- Show HN: What if the speed of light was 5 km/h?
+- Automattic's board forces CEO Matt Mullenweg into leave of absence
+- The Four-Color Theorem Gets a Rare 新 Proof
+- Casablanca: How an unproduced play marched into movie history
+- What do Visa and Mastercard do? An intro to card networks
+- Microsoft Brings "Age Verification" 系統 to Windows
+- The UN challenges five centuries of cartography
+- How My Students Think About AI
+- Genome Duplication Is an Evolutionary Gamble
+- Apple Watch Series 12
+- Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets
+- GNU Radio in the browser
+- Roame (YC S23) Is 招聘 Viral Content Editor
+- Show HN: Filament – Fast data movement engine in Go
+- Show HN: Compute polynomials twice as fast
 - Growing proof that autonomous cars save lives
-- 訓練 a 3.8B 大型語言模型 to 0.384 CORE for $998
+- Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators
+- BasedAgents: Give your idle AI 代理 a paying 工作
+- We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower
+- Towards a taxonomy of cliches in Space Opera
+- Identity Verification in Japan: What Happens Behind the Scenes
 - Factoring RSA 260
-- A Crash Course in Predicate Logic
-- AI researchers leave Anthropic and Google: 'There are no adults in the room'
 - Planet Labs' open satellite feed
-- Rivian's gambit for full autonomy
-- Understanding the recent DDoS attack against Read the Docs
-- Who Dung It? (Turdle.fun)
-- GPT-6 Astra, looped transformers, and hidden reasoning
-- No Man's Sky Cosmos
+- The little holes in your bread are telling you something
+- Kagi Translate Is Back
 - Coyote v. Acme (1990)
-- Bodily Oddities
-- CERN Renounces RHEL in Favor of Debian
-- Hear Me Out: If We Find Life Out There Maybe We Should Kill It
-- Lotus Notes and the dangers of starting from scratch
-- Stop externalizing the cost of your AI use to me
-- Navier-Stokes – Tristan Buckmaster [pdf]
-- Tor VPN Beta: What we've learned building our own VPN for Android from scratch
-- Serverless DTLS
-- Muse – Meta’s personal AI 代理
-- AirPods 5
-- The first drink-driving conviction may have happened in London
-- iPhone 18 Pro and iPhone 18 Pro Max
-- The Age-Gating of History
+- GPT-6 Astra, looped transformers, and hidden reasoning
+- Liesegang Rings
+- Understanding the recent DDoS attack against Read the Docs
+- No Man's Sky Cosmos
+- 訓練 a 3.8B 大型語言模型 to 0.384 CORE for $998
 
 
 ---
