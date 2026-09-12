@@ -13,7 +13,7 @@
 
 ### 2. [【資安週報】0907~0911，歐盟CRA通報義務上路、SEMI E187驗證標章亮相，產品安全進入落地新階段](https://www.ithome.com.tw/news/178884)
 
-總覽2026年9月第二週的資安新聞焦點，直指AI資安領域的發展動向。微軟本月例行更新一口氣修補974個自家產品漏洞，創下單月新高，突顯防禦端正加速提升漏洞修補效率；另一方面，AI代理自主性與網路攻擊能力持續提升，相關失控風險、越權��作及安全治理議題也同步升溫，這些最新消息反映AI帶來的資安效益與風險正同時放大。
+總覽2026年9月第二週的資安新聞焦點，直指AI資安領域的發展動向。微軟本月例行更新一口氣修補974個自家產品漏洞，創下單月新高，突顯防禦端正加速提升漏洞修補效率；另一方面，AI代理自主性與網路攻擊能力持續提升，相關失控風險、越權操作及安全治理議題也���步升溫，這些最新消息反映AI帶來的資安效益與風險正同時放大。
 國內資安事件方面，中科院採購網異常派送事件的調查反轉——從原先認為是內部自研AI代理測試的權限疏失，到後續改判為委外廠商私設排程管理介面遭入侵釀禍；此外，商周集團與城邦集團旗下網站亦遭惡意攻擊，導致部分服務基於安全考量暫時關閉。
 
 - 📰 **iThome 科技**
@@ -97,7 +97,7 @@ DeepSeek周四（9/10）發表新一代AI模型V4.1-Flash，採用全新的Causa
 
 ### 15. [Check Point修補重大等級的VPN資安弱點](https://www.ithome.com.tw/news/178868)
 
-資安公司Check Point於9月9日公告修補兩個與VPN���關的重大漏洞，若不修補或緩解，可能導致未經身分驗證的攻擊者在特定情況下遠端執行程式碼，用戶儘速採取行動，部署最新的J
+資安公司Check Point於9月9日公告修補兩個與VPN有關的重大漏洞，若不修補或緩解，可能導致未經身分驗證的攻擊者在特定情況下遠端執行程式碼，用戶儘速採取行動，部署最新的J
 
 - 📰 **iThome 科技**
 
@@ -122,7 +122,7 @@ Anthropic本周公布了AI濫用威脅報告，揭露各界濫用其模型Claude
 ### 19. [因應加密勒索攻擊，卓榮泰要求重大駭侵案件納入通報、數發部擔任跨機關資安情資統籌角色](https://www.ithome.com.tw/news/178860)
 
 行政院長卓榮泰周四在行政院治安會報中表示，加密勒索事件已影響科技、製造、醫療、零售及旅遊等多元產業，不僅涉及企業營運安全，也攸關產業發展、社會安定，甚至是國家安全。
-卓榮泰要求數位發展部擔任跨機關資安情資統籌單位，針對民���企業資安防護需求研訂參考指引，並將民間企業發生的重大駭侵或加密勒索案件納入通報義務，建立政府、企業與執法機關間的情資交流與預警機制，提升整體資安防護與應變能力。
+卓榮泰要求數位發展部擔任跨機關資安情資統籌單位，針對民間企業資安防護需求研訂參考指引，並將民間企業發生的重大駭侵或加密勒索案件納入通報義務，建立政府、企業與執法機關間的情資交流與預警機制，提升整體資安防護與應變能力。
 
 - 📰 **iThome 科技**
 
@@ -144,7 +144,7 @@ Anthropic本周公布了AI濫用威脅報告，揭露各界濫用其模型Claude
 
 - 📰 **iThome 科技**
 
-### 23. [Cylake募資2.45億美元，軟硬體整合AI資安平臺年底推���Beta版](https://www.ithome.com.tw/news/178845)
+### 23. [Cylake募資2.45億美元，軟硬體整合AI資安平臺年底推出Beta版](https://www.ithome.com.tw/news/178845)
 
 近期Cylake宣布完成2.45億美元募資，這家資安新創由Palo Alto Networks創辦人Nir Zuk、SentinelOne共同創辦人Udi Shamir及Wilson Xu共同成立，這次募得資金將用於資安平臺開發與團隊擴充，產品預計2026年底推出Beta版，並於2027年正式推出。
 
@@ -168,7 +168,7 @@ Anthropic本周公布了AI濫用威脅報告，揭露各界濫用其模型Claude
 
 - 📰 **iThome 科技**
 
-### 27. [Huntress揭露北韓冒用身分假求職��擊擴大，從IT延伸至醫療與業務職務](https://www.ithome.com.tw/news/178855)
+### 27. [Huntress揭露北韓冒用身分假求職攻擊擴大，從IT延伸至��療與業務職務](https://www.ithome.com.tw/news/178855)
 
 資安業者Huntress近日揭露北韓駭客利用假求職手法滲透海外企業，範圍已從IT職務擴大至醫療、業務及行銷等領域。這些北韓人員使用竄改他人照片的身分文件，冒用或偽造他人身分，透過一般徵才管道應徵海外企業職缺，涵蓋遠距與現場職務。這些冒名應徵者成功受聘後，可合法取得企業提供的帳號、設備及內部系統權限，並將工作所得轉回北韓，Huntress今年便已協助確認5名疑似與北韓有關的工作人員，其中包括在澳洲醫療機構任職、後遭發現的3名人員。
 
@@ -176,14 +176,14 @@ Anthropic本周公布了AI濫用威脅報告，揭露各界濫用其模型Claude
 
 ### 28. [陽明海運推動智慧船舶轉型，以衛星、5G克服遠洋船舶通訊限制，導入AI無人機巡檢與船務管理](https://www.ithome.com.tw/news/178854)
 
-遠洋貨輪長時間航行於公海時，船舶與岸端間往往面臨通訊覆蓋不足、資料傳輸受限等問題，成為航運業推動數位、智慧轉型須先解決的挑戰。陽明海運近幾年持續推動智慧��隊發展，與大世科及伸波通訊合作，建置衛星、5G等網路通訊技術及AI數位應用平台，改善船岸通訊環境，並將船舶設備資料、巡檢影像與維運資訊導入數位化管理。
-這項應用是在國發會支持下進行，陽明海運以14,000 TEU級的貨櫃輪「承明輪」（YM Wisdom）及2,800 TEU級「好明輪」（YM Certainty）作為驗證場域，整合高低軌衛星、靠岸公網、船內5G專網與Wi-Fi網路，建立船舶的全時通訊架構，作為無人機AI巡檢、數位雙生管理、生
+遠洋貨輪長時間航行於公海時，船舶與岸端間往往面臨通訊覆蓋不足、資料傳輸受限等問題，成為航運業推動數位、智慧轉型須先解決的挑戰。陽明海運近幾年持續推動智慧船隊發展，與大世科及���波通訊合作，建置衛星、5G等網路通訊技術及AI數位應用平台，改善船岸通訊環境，並將船舶設備資料、巡檢影像與維運資訊導入數位化管理。
+這項應用是在國發會支持下進行，陽明海運以14,000 TEU級的貨櫃輪「承明輪」（YM Wisdom）及2,800 TEU級「好明輪」（YM Certainty）作為驗證場域，整合高低軌衛星、靠岸公網、船內5G專網與Wi-Fi網路，建立船舶的全時通訊架構，作為無人機AI巡檢、數位雙生管理、
 
 - 📰 **iThome 科技**
 
 ### 29. [資安業者揭露伊朗駭客組織假求職攻擊活動，鎖定軟體工程師散布跨平臺木馬](https://www.ithome.com.tw/news/178853)
 
-資安業者Kaspersky近日揭露伊朗駭客組織Mirage Kitten新一波攻擊活動，該組織又稱UNC1549、Smoke Sandstorm或Nimbus Manticore，在這波攻擊中冒充大型科技公司的招募人員，鎖定中東及非洲的航太與金融科技產業軟體工程師，透過LinkedIn等求職平臺接觸目標，要求應徵者完成限時的程式設計測驗，藉��向應徵者散布託管於Amazon雲端儲存空間，植入遠端存取木馬（RAT）的測驗用專案壓縮檔。
+資安業者Kaspersky近日揭露伊朗駭客組織Mirage Kitten新一波攻擊活動，該組織又稱UNC1549、Smoke Sandstorm或Nimbus Manticore，在這波攻擊中冒充大型科技公司的招募人員，鎖定中東及非洲的航太與金融科技產業軟體工程師，透過LinkedIn等求職平臺接觸目標，要求應徵者完成限時的程式設計測驗，藉此向應徵者散布託管於Amazon雲端儲存空間，植入遠端存取木馬（RAT）的測驗用專案壓縮檔。
 
 - 📰 **iThome 科技**
 
@@ -197,6 +197,7 @@ Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資
 
 ### 更多 AI 新聞 (70則)
 
+- You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules (**Wired**)
 - The 9 最佳 TV Shows to Stream This Month (September 2026) (**Wired**)
 - The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades (**Wired**)
 - Meta Sued Over 訓練 Data for Its AI and Face-Recognition Systems (**Wired**)
@@ -209,23 +210,23 @@ Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資
 - The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch (**Wired**)
 - How 9/11 Made Everyone a Conspiracy Theorist (**Wired**)
 - The US and Mexico Announce They’re Teaming Up Against Drones (**Wired**)
-- Samsung Galaxy S26 FE Review: Same as Before, but for More Money (**Wired**)
 - 為什麼 So Many AI Researchers Think the Machines Could Kill Everyone (**Wired**)
-- Lenovo Coupon Codes: 15% Off in September 2026 (**Wired**)
-- Ulta Promo Codes: Up to 20% Off in September 2026 (**Wired**)
-- Home Depot Promo Codes: 30% Off in September 2026 (**Wired**)
-- Chewy Promo Codes: $20 Off September 2026 (**Wired**)
+- Samsung Galaxy S26 FE Review: Same as Before, but for More Money (**Wired**)
 - 50% Off DoorDash Promo 代碼 | September 2026 (**Wired**)
 - 30% Off Canon Promo Codes | September 2026 (**Wired**)
 - Surfshark Promo Codes: 87% Off | September 2026 (**Wired**)
+- Ulta Promo Codes: Up to 20% Off in September 2026 (**Wired**)
+- Lenovo Coupon Codes: 15% Off in September 2026 (**Wired**)
+- Chewy Promo Codes: $20 Off September 2026 (**Wired**)
 - LG Promo Codes and Coupons for September 2026 (**Wired**)
+- Home Depot Promo Codes: 30% Off in September 2026 (**Wired**)
 - Corsair Discount 代碼: Up to 50% Off for September 2026 (**Wired**)
 - Stearns and Foster Promo Codes: $300 Off in September 2026 (**Wired**)
 - Sealy Promo Codes: $100 Off (**Wired**)
 - Castlery Promo Codes: 15% Off for September 2026 (**Wired**)
-- 20% Off Samsung Promo 代碼 | September 2026 (**Wired**)
-- Skullcandy Discount 代碼: 30% Off | September 2026 (**Wired**)
 - AT&amp;T Promo Codes: $50 Off This September 2026 (**Wired**)
+- Skullcandy Discount 代碼: 30% Off | September 2026 (**Wired**)
+- 20% Off Samsung Promo 代碼 | September 2026 (**Wired**)
 - OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal (**Wired**)
 - Is AI Actually Going to Kill Us All? (**Wired**)
 - August 2026 Was the Hottest Month Ever Recorded: Copernicus Data (**Wired**)
@@ -234,8 +235,8 @@ Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資
 - Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever (**Wired**)
 - 最佳 Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More (**Wired**)
 - ‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It (**Wired**)
-- 9 Windows Laptops That Give MacBooks a Run for Their Money (**Wired**)
 - Everything 新 You Can Do With Siri AI (**Wired**)
+- 9 Windows Laptops That Give MacBooks a Run for Their Money (**Wired**)
 - Book Excerpt: Emily St. John Mandel’s ‘Exit Party’ Imagines a Future Where a Spy Could Disappear (**Wired**)
 - Vari Electric Standing Desk Review (2026): Form and Value (**Wired**)
 - Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online (**Wired**)
@@ -245,8 +246,7 @@ Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資
 - Our Favorite GoPro 360 Camera Is Now 40 Percent Off (**Wired**)
 - Trump Probably Won’t Give $5,000 to Every US Adult if Republicans Win the Midterms (**Wired**)
 - Norton Coupon Codes: Up to 58% Off (**Wired**)
-- NZXT Discount Codes: 50% Off in September 2026 (**Wired**)
-- Govee Discount Codes and Deals: 30% Off (**Wired**)
+- Hungryroot Coupon Codes: 30% Off This September 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
