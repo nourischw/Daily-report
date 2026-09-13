@@ -13,7 +13,7 @@
 
 ### 2. [【資安週報】0907~0911，歐盟CRA通報義務上路、SEMI E187驗證標章亮相，產品安全進入落地新階段](https://www.ithome.com.tw/news/178884)
 
-總覽2026年9月第二週的資安新聞焦點，直指AI資安領域的發展動向。微軟本月例行更新一口氣修補974個自家產品漏洞，創下單月新高，突顯防禦端正加速提升漏洞修補效率；另一方面，AI代理自主性與網路攻擊能力持續提升，相關失控風險���越權操作及安全治理議題也同步升溫，這些最新消息反映AI帶來的資安效益與風險正同時放大。
+總覽2026年9月第二週的資安新聞焦點，直指AI資安領域的發展動向。微軟本月例行更新一口氣修補974個自家產品漏洞，創下單月新高，突顯防禦端正加速提升漏洞修補效率；另一方面，AI代理自主性與網路攻擊能力持續提升，相關失控風險、越權操作及安全治���議題也同步升溫，這些最新消息反映AI帶來的資安效益與風險正同時放大。
 國內資安事件方面，中科院採購網異常派送事件的調查反轉——從原先認為是內部自研AI代理測試的權限疏失，到後續改判為委外廠商私設排程管理介面遭入侵釀禍；此外，商周集團與城邦集團旗下網站亦遭惡意攻擊，導致部分服務基於安全考量暫時關閉。
 
 - 📰 **iThome 科技**
@@ -46,7 +46,7 @@ AI近年快速改變全球天氣預報技術發展方向，從過去主要依靠
 
 - 📰 **iThome 科技**
 
-### 7. [新增SIEM基本功能，Cynet年中改版主打多種��速處理特色](https://www.ithome.com.tw/review/178873)
+### 7. [新增SIEM基本功能，Cynet年中改版主打多種快速處理特色](https://www.ithome.com.tw/review/178873)
 
 可同時提供多種威脅偵測與應變系統功能的以色列資安業者Cynet，年初我們曾報導去年底更新的4.30版資安平臺功能，到了今年7月該公司發表SaaS雲端服務平臺的4.33版，新增功能聚焦處理規模、執行速度與互通性這三大層面的強化。
 
@@ -168,7 +168,7 @@ Anthropic本周公布了AI濫用威脅報告，揭露各界濫用其模型Claude
 
 - 📰 **iThome 科技**
 
-### 27. [Huntress揭露北韓冒用身分���求職攻擊擴大，從IT延伸至醫療與業務職務](https://www.ithome.com.tw/news/178855)
+### 27. [Huntress揭露北韓冒用身分假求職攻擊擴大，從IT延伸至醫療與業務職務](https://www.ithome.com.tw/news/178855)
 
 資安業者Huntress近日揭露北韓駭客利用假求職手法滲透海外企業，範圍已從IT職務擴大至醫療、業務及行銷等領域。這些北韓人員使用竄改他人照片的身分文件，冒用或偽造他人身分，透過一般徵才管道應徵海外企業職缺，涵蓋遠距與現場職務。這些冒名應徵者成功受聘後，可合法取得企業提供的帳號、設備及內部系統權限，並將工作所得轉回北韓，Huntress今年便已協助確認5名疑似與北韓有關的工作人員，其中包括在澳洲醫療機構任職、後遭發現的3名人員。
 
@@ -176,14 +176,14 @@ Anthropic本周公布了AI濫用威脅報告，揭露各界濫用其模型Claude
 
 ### 28. [陽明海運推動智慧船舶轉型，以衛星、5G克服遠洋船舶通訊限制，導入AI無人機巡檢與船務管理](https://www.ithome.com.tw/news/178854)
 
-遠洋貨輪長時間航行於公海時，船舶與岸端間往往面臨通訊覆蓋不足、資料傳輸受限等問題，成為航運業推動數位、智慧轉型須先解決的挑戰。陽明海運近幾年持續推���智慧船隊發展，與大世科及伸波通訊合作，建置衛星、5G等網路通訊技術及AI數位應用平台，改善船岸通訊環境，並將船舶設備資料、巡檢影像與維運資訊導入數位化管理。
+遠洋貨輪長時間航行於公海時，船舶與岸端間往往面臨通訊覆蓋不足、資料傳輸受限等問題，成為航運業推動數位、智慧轉型須先解決的挑戰。陽明海運近幾年持續推動智慧船隊發展，與���世科及伸波通訊合作，建置衛星、5G等網路通訊技術及AI數位應用平台，改善船岸通訊環境，並將船舶設備資料、巡檢影像與維運資訊導入數位化管理。
 這項應用是在國發會支持下進行，陽明海運以14,000 TEU級的貨櫃輪「承明輪」（YM Wisdom）及2,800 TEU級「好明輪」（YM Certainty）作為驗證場域，整合高低軌衛星、靠岸公網、船內5G專網與Wi-Fi網路，建立船舶的全時通訊架構，作為無人機AI巡檢、數位雙生管理、
 
 - 📰 **iThome 科技**
 
 ### 29. [資安業者揭露伊朗駭客組織假求職攻擊活動，鎖定軟體工程師散布跨平臺木馬](https://www.ithome.com.tw/news/178853)
 
-資安業者Kaspersky近日揭露伊朗駭客組織Mirage Kitten新一波攻擊活動，該組織又稱UNC1549、Smoke Sandstorm或Nimbus Manticore，在這波攻擊中冒充大型科技公司的招募人員，鎖定中東及非洲的航太與金融科技產業軟體工程師，透過LinkedIn等求職平臺接觸目標，要求應徵者完成限時的程式設計測���，藉此向應徵者散布託管於Amazon雲端儲存空間，植入遠端存取木馬（RAT）的測驗用專案壓縮檔。
+資安業者Kaspersky近日揭露伊朗駭客組織Mirage Kitten新一波攻擊活動，該組織又稱UNC1549、Smoke Sandstorm或Nimbus Manticore，在這波攻擊中冒充大型科技公司的招募人員，鎖定中東及非洲的航太與金融科技產業軟體工程師，透過LinkedIn等求職平臺接觸目標，要求應徵者完成限時的程式設計測驗，藉此向應徵者散���託管於Amazon雲端儲存空間，植入遠端存取木馬（RAT）的測驗用專案壓縮檔。
 
 - 📰 **iThome 科技**
 
@@ -197,6 +197,7 @@ Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資
 
 ### 更多 AI 新聞 (70則)
 
+- The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026) (**Wired**)
 - Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser (**Wired**)
 - 最佳 Indoor Garden Systems I’ve Been Testing All Year (2026) (**Wired**)
 - Coway Airmega Halo Review: Is Your Air Really Clean? (**Wired**)
@@ -236,8 +237,8 @@ Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資
 - Sealy Promo Codes: $100 Off (**Wired**)
 - Castlery Promo Codes: 15% Off for September 2026 (**Wired**)
 - AT&amp;T Promo Codes: $50 Off This September 2026 (**Wired**)
-- 20% Off Samsung Promo 代碼 | September 2026 (**Wired**)
 - Skullcandy Discount 代碼: 30% Off | September 2026 (**Wired**)
+- 20% Off Samsung Promo 代碼 | September 2026 (**Wired**)
 - OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal (**Wired**)
 - Is AI Actually Going to Kill Us All? (**Wired**)
 - August 2026 Was the Hottest Month Ever Recorded: Copernicus Data (**Wired**)
@@ -246,7 +247,6 @@ Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資
 - Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever (**Wired**)
 - 最佳 Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More (**Wired**)
 - ‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It (**Wired**)
-- Everything 新 You Can Do With Siri AI (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
