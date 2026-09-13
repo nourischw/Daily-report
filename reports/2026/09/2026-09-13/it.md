@@ -4,208 +4,206 @@
 
 ---
 
-### 1. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+### 1. [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
 
-- ⭐ 340 分｜💬 79 留言｜👤 juliantigler
+- ⭐ 132 分｜💬 67 留言｜👤 taubek
 
-### 2. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+### 2. [為什麼 are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 
-- ⭐ 125 分｜💬 65 留言｜👤 theanonymousone
+- ⭐ 238 分｜💬 312 留言｜👤 jonifico
 
-### 3. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
+### 3. [The Interim Computer Museum](https://icm.museum/)
 
-- ⭐ 13 分｜💬 1 留言｜👤 nitrogenpuddle
+- ⭐ 118 分｜💬 13 留言｜👤 mulmen
 
-### 4. [NVIDIA is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+### 4. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+
+- ⭐ 473 分｜💬 120 留言｜👤 juliantigler
+
+### 5. [Norton Neo Browser](https://neobrowser.ai/)
+
+- ⭐ 20 分｜💬 32 留言｜👤 phantomathkg
+
+### 6. [I Added a Non-Wi-Fi Mitsubishi AC to Home 助手](https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77)
+
+- ⭐ 85 分｜💬 43 留言｜👤 ichacas
+
+### 7. [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/)
+
+- ⭐ 227 分｜💬 57 留言｜👤 NaOH
+
+### 8. [NVIDIA is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 
 https:&#x2F;&#x2F;archive.ph&#x2F;kt50V
 
-- ⭐ 403 分｜💬 272 留言｜👤 tolugenius
+- ⭐ 490 分｜💬 343 留言｜👤 tolugenius
 
-### 5. [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/)
+### 9. [After Math](https://terrytao.wordpress.com/2026/09/12/after-math/)
 
-- ⭐ 133 分｜💬 29 留言｜👤 NaOH
+- ⭐ 88 分｜💬 65 留言｜👤 throwaway81523
 
-### 6. [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/)
+### 10. [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
 
-- ⭐ 13 分｜💬 3 留言｜👤 MayCXC
+- ⭐ 197 分｜💬 55 留言｜👤 cjd8
 
-### 7. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+### 11. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
 
-- ⭐ 132 分｜💬 45 留言｜👤 xena
+- ⭐ 503 分｜💬 301 留言｜👤 xena
 
-### 8. [Getting 50 GB/S Back from the Apple 神經網絡 Engine](https://eiln.github.io/posts/ane-dma.html)
+### 12. [Operation Smart Kettle – Börzels Blog](https://blog.boerzel.de/de/blog/operation-smart-kettle)
 
-- ⭐ 83 分｜💬 15 留言｜👤 eiln
+- ⭐ 14 分｜💬 6 留言｜👤 marbartolome
 
-### 9. [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
+### 13. [Aligned to whom?](https://hyperbo.la/w/aligned-to-whom/)
 
-- ⭐ 142 分｜💬 34 留言｜👤 cjd8
+- ⭐ 60 分｜💬 41 留言｜👤 lopopolo
 
-### 10. [為什麼 are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+### 14. [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)
 
-- ⭐ 7 分｜💬 2 留言｜👤 jonifico
+- ⭐ 62 分｜💬 29 留言｜👤 ZihuiGeorgia
 
-### 11. [No Atlantic hurricanes by Sept. 12 breaks a 60-year record](https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278)
+### 15. [Don't be the out of touch Kung Fu master](https://twitter.com/ID_AA_Carmack/status/2098443262214230095)
 
-- ⭐ 20 分｜💬 17 留言｜👤 RickJWagner
+- ⭐ 134 分｜💬 145 留言｜👤 dsubburam
 
-### 12. [Vintage Scientific Papers with LaTeX](https://github.com/Foadsf/vintage-latex)
+### 16. [Vintage Scientific Papers with LaTeX](https://github.com/Foadsf/vintage-latex)
 
-- ⭐ 26 分｜💬 1 留言｜👤 petalmind
+- ⭐ 74 分｜💬 6 留言｜👤 petalmind
 
-### 13. [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)
+### 17. [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
 
-- ⭐ 11 分｜💬 2 留言｜👤 ZihuiGeorgia
+- ⭐ 31 分｜💬 5 留言｜👤 mikemcquaid
 
-### 14. [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio)
+### 18. [A succession crisis that tore England apart (2023)](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+
+- ⭐ 35 分｜💬 26 留言｜👤 pepys
+
+### 19. [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio)
 
 https:&#x2F;&#x2F;www.lg.com&#x2F;global&#x2F;newsroom&#x2F;news&#x2F;statements&#x2F;statement...
 
-- ⭐ 445 分｜💬 363 留言｜👤 datakan
+- ⭐ 539 分｜💬 422 留言｜👤 datakan
 
-### 15. [We must pace the frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
+### 20. [Getting 50 GB/S Back from the Apple 神經網絡 Engine](https://eiln.github.io/posts/ane-dma.html)
 
-- ⭐ 557 分｜💬 786 留言｜👤 apsec112
+RTL performance erratum in the Apple M3 神經網絡 Engine throttles DRAM weight streaming throughput down to 17–19 GB&#x2F;s from the nominal 45–60 GB&#x2F;s. Avoiding the problematic path in the kernel D
 
-### 16. [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+- ⭐ 150 分｜💬 27 留言｜👤 eiln
 
-- ⭐ 84 分｜💬 143 留言｜👤 Betelbuddy
+### 21. [We must pace the frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
 
-### 17. [I made a 構建 visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/)
+- ⭐ 656 分｜💬 922 留言｜👤 apsec112
 
-- ⭐ 98 分｜💬 20 留言｜👤 lalitmaganti
+### 22. [P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)
 
-### 18. [Don't be the out of touch Kung Fu master – John Carmack](https://twitter.com/ID_AA_Carmack/status/2098443262214230095)
+- ⭐ 98 分｜💬 67 留言｜👤 lumpa
 
-- ⭐ 11 分｜💬 2 留言｜👤 dsubburam
+### 23. [Durable execution without history replay](https://trigora.dev/blog/durable-execution-without-history-replay/)
 
-### 19. [Tree Calculus](https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2)
+- ⭐ 22 分｜💬 9 留言｜👤 hypervs
 
-- ⭐ 16 分｜💬 3 留言｜👤 MelonUsk
+### 24. [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
 
-### 20. [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
+- ⭐ 22 分｜💬 8 留言｜👤 wglb
 
-- ⭐ 91 分｜💬 26 留言｜👤 pwg
+### 25. [Liesegang Rings](https://chillphysicsenjoyer.substack.com/p/liesegang-rings)
 
-### 21. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
+- ⭐ 39 分｜💬 4 留言｜👤 surprisetalk
 
-- ⭐ 204 分｜💬 62 留言｜👤 encyclopedism
+### 26. [Will there be a 7G?](https://arxiv.org/abs/2609.01877)
 
-### 22. [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
+- ⭐ 106 分｜💬 162 留言｜👤 Betelbuddy
 
-- ⭐ 176 分｜💬 80 留言｜👤 HelloUsername
+### 27. [I made a 構建 visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/)
 
-### 23. [Android NAT-T keepalive offload bypasses VPN lockdown](https://supuk.ch/papers/android-natt-keepalive-vpn-bypass)
+- ⭐ 135 分｜💬 25 留言｜👤 lalitmaganti
 
-https:&#x2F;&#x2F;mullvad.net&#x2F;en&#x2F;blog&#x2F;another-way-to-leak-traffic-on-a...
+### 28. [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
 
-- ⭐ 176 分｜💬 44 留言｜👤 mhitza
+- ⭐ 114 分｜💬 35 留言｜👤 pwg
 
-### 24. [I fixed a tractor using John Deere's self-repair service. Farmers aren't sold](https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/)
+### 29. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
 
-https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260911105205&#x2F;https:&#x2F;&#x2F;www.wired...https:&#x2F;&#x2F;archive.ph&#x2F;1xTJ3
+- ⭐ 245 分｜💬 136 留言｜👤 theanonymousone
 
-- ⭐ 106 分｜💬 108 留言｜👤 sbulaev
+### 30. [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 
-### 25. [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
-
-- ⭐ 86 分｜💬 17 留言｜👤 Bluestein
-
-### 26. [How Trail of Bits helps verify the integrity of Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/)
-
-- ⭐ 55 分｜💬 32 留言｜👤 dgroshev
-
-### 27. [Eating Fruit Skins](https://pgadey.ca/blog/eating-fruit-skins/)
-
-- ⭐ 85 分｜💬 182 留言｜👤 surprisetalk
-
-### 28. [P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)
-
-- ⭐ 7 分｜💬 0 留言｜👤 lumpa
-
-### 29. [Show HN: See Sounds on Your Webcam](https://soundmap.darebuild.com/)
-
-- ⭐ 9 分｜💬 3 留言｜👤 jimhi
-
-### 30. [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
-
-- ⭐ 427 分｜💬 123 留言｜👤 wcrichton
+- ⭐ 337 分｜💬 108 留言｜👤 encyclopedism
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- IKEA made a mod for Skyrim [video]
-- Performance of WebAssembly Runtimes in 2026
-- Scientists Create a 新 Form of Ice at More Than 2000°C
-- The worst spam emails: iLands AI 代理 hustle
-- LRU is harder to beat than the KV-cache papers suggest
-- The Magic Behind Cubacadabra
-- Google.com/goto: Google's anti-scraping 更新
+- I fixed a tractor using John Deere's self-repair service. Farmers aren't sold
+- A Design Space Exploration of Async/Await
+- Revolut confirms customer data breach through fake government requests
+- A Mathematical Framework for Transformer Circuits (2021)
+- From Git to Fossil (2025)
 - A misalignment of AI in mathematics
-- An Advanced 系統 Architecture Breakdown of OpenAI's Jalapeno Accelerator
-- How we manage and engage with our horses shapes their personality
-- A full-duplex AI phone 代理 that listens while speaking
-- Carney's Bid to Make Canada an 'Associate Member' of the EU
-- Financial Times' 404 Page not Found
-- OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026
-- Sam Altman: I agree with Dario that we need to pace the frontier
+- LG Says We're Fake News [video]
+- IKEA made a mod for Skyrim [video]
+- A Dick Smith VZ200 without the Dick Smith
+- Eating Fruit Skins
+- Google.com/goto: Google's anti-scraping 更新
+- 為什麼 So Many AI Researchers Think the Machines Could Kill Everyone
+- Performance of WebAssembly Runtimes in 2026
+- Günther Anders, the Philosopher at the End of the World
+- LRU is harder to beat than the KV-cache papers suggest
+- Texts Reveal Kash Patel Ordering Staff to Fight "Ifindretards" Account
+- The worst spam emails: iLands AI 代理 hustle
+- JWST finds extreme star-forming galaxies masquerading as faint quasars
 - I spent $220 on Google app ads and 60% of the installs were robots
 - A few good ideas in 程式設計 languages
-- Inverse Kinematics and Foot Locking
 - Usenet rewind archive search engine
-- Show HN: What If Donut.c but with Any ASCII Art
-- Zep AI (YC W24) Is 招聘 a Head of Forward Deployed Engineering
+- Show HN: See Sounds on Your Webcam
+- Android NAT-T keepalive offload bypasses VPN lockdown
+- How we manage and engage with our horses shapes their personality
+- Carney's Bid to Make Canada an 'Associate Member' of the EU
+- No Atlantic hurricanes by Sept. 12 breaks a 60-year record
+- Metamorphosis: Transformations in the Early Modern Flap Book (19th Century)
+- When anyone can 構建 軟體, who decides what not to 構建?
+- Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months
+- MacFileSizing – 什麼是 consuming my disk space?
 - Retrospectively Reverse-Engineering Apple's 神經網絡 Engine
-- Reconstructing Concurrency Invariants Through Medieval East Asian Logic
-- Vibe Coding Is the 新 Bootstrap
-- Japan's book scene is quietly moving from bookstores to libraries
-- Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"
-- Navier-Stokes Announcement
-- Fuck it, make it anyway
+- The Magic Behind Cubacadabra
 - Designing for Dual Screen and Foldable Devices with CSS (2023)
-- Forgotten Woodlands
-- Rune is now 開源
-- Plunging 測試 scores are a slow-moving catastrophe
-- Automattic confirms Mullenweg back as CEO after attempted ouster by board
-- AlphaGenome maps 9B DNA variants
-- Show HN: Bodily Oddities
+- Colliding the Sum Checksum (2019)
+- Navier-Stokes Announcement
+- Deepfakes are wrecking influencers' credibility, one fake ad at a time
+- How Trail of Bits helps verify the integrity of Signal chats
 - How the Chorleywood Bread Process transformed British bread
-- Europe's "Less" Is Doing More Than Anyone Gives It Credit For
-- λ Snap – An inviting 程式設計 language for kids and adults for CS study
+- Show HN: Bodily Oddities
 - Shopify is moving from React Native back to Swift and Kotlin
-- I refuse to let SPICE die
+- AlphaGenome maps 9B DNA variants
+- Zep AI (YC W24) Is 招聘 a Head of Forward Deployed Engineering
+- OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026
+- Reconstructing Concurrency Invariants Through Medieval East Asian Logic
 - GrapheneOS' rewritten Messages app is 發布
-- Apple A20 Pro 2nm Crushes Geekbench, Anthropic Cyber Misuse and Vision Pro 2
-- OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says
-- Booting straight into a local 大型語言模型 (no Linux) on my Raspberry Pi
-- A.I. Slopware Is Everywhere Now. Nobody Is Using It
-- Project Blinkenlights
-- Great Lakes sturgeon may be 400 years old:Scientists rethinking 如何 save them
-- Iran's Internet Blackout Is Almost Impossible to Escape
-- SystemIO conflicts are not firmware bugs
+- Show HN: What If Donut.c but with Any ASCII Art
+- λ Snap – An inviting 程式設計 language for kids and adults for CS study
+- Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"
+- Forgotten Woodlands
 - Logo 程式設計
-- Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues
-- Show HN: Determinstic 大型語言模型 推論 for lowest price Gemma 4, with Windows XP
+- Fuck it, make it anyway
 - So you want to use OpenRouter?
-- Revolut confirms customer data breach, falling for fake government requests
-- Stop making swap partitions—use swap files instead
-- Xkcd-Font: The Xkcd Font
 - Don't let anyone take away your big box of cables
-- Testing Race Conditions
-- We've followed their lives for six decades; now the stars of 7 Up are bowing out
+- AI agents tested by OpenAI involved in cyber-attack on service, say researchers
+- A full-duplex AI phone 代理 that listens while speaking
+- 新 Science Says Scrapping a Working Gas Car for an EV Is Usually Greener
+- Chimps beat people in memory task (2007)
+- Project Blinkenlights
+- Stop making swap partitions—use swap files instead
+- Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues
+- Great Lakes sturgeon may be 400 years old:Scientists rethinking 如何 save them
+- Japan's book scene is quietly moving from bookstores to libraries
+- Don't call yourself an artisanal programmer
+- Europe's "Less" Is Doing More Than Anyone Gives It Credit For
+- An Advanced 系統 Architecture Breakdown of OpenAI's Jalapeno Accelerator
+- Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to "AI 1"]
+- I refuse to let SPICE die
 - 118M Queries per Second on Neki
-- How we rebuilt complex permissions without migrating to Zanzibar
-- EU CYBER RESILIENCE ACT forces manufacturers to disclose exploited vulnerabilit
-- The EPA is planning to scrap public review rules for data center pollution
-- Psychoactive substances helped spur Andean civilization
-- Hepburn Romanization: 如何 Read Japanese in the Latin Alphabet
-- Show HN: Godot and Rust based multiplexer (terminal panes and more)
-- Working with Git Worktrees in Magit
-- Cherenkov Radiation
-- Sergey Brin pours more than $100M into fighting California's billionaire tax
-- The Fear Index [Book]
+- Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]
+- Testing Race Conditions
 
 
 ---
