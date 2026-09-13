@@ -4,206 +4,202 @@
 
 ---
 
-### 1. [Flock worker calls police on reporter filming public camera installation](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
+### 1. [為什麼 is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
 
-- ⭐ 219 分｜💬 147 留言｜👤 SanjayMehta
+- ⭐ 244 分｜💬 112 留言｜👤 iamflimflam1
 
 ### 2. [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
 
-- ⭐ 32 分｜💬 4 留言｜👤 Levitating
+- ⭐ 280 分｜💬 121 留言｜👤 Levitating
 
-### 3. [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+### 3. [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/)
 
-- ⭐ 322 分｜💬 123 留言｜👤 taubek
+- ⭐ 51 分｜💬 21 留言｜👤 mikhael
 
-### 4. ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+### 4. [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
 
-- ⭐ 44 分｜💬 16 留言｜👤 blincoln
+https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20260913134705&#x2F;https:&#x2F;&#x2F;www.theve...https:&#x2F;&#x2F;archive.ph&#x2F;TWEVZ
 
-### 5. [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](https://github.com/FeralFirmware/TailTalk/)
+- ⭐ 161 分｜💬 97 留言｜👤 bookofjoe
 
-- ⭐ 32 分｜💬 11 留言｜👤 zdw
+### 5. [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
 
-### 6. [為什麼 are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- ⭐ 449 分｜💬 175 留言｜👤 taubek
 
-- ⭐ 414 分｜💬 495 留言｜👤 jonifico
+### 6. [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
 
-### 7. [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
+- ⭐ 292 分｜💬 85 留言｜👤 robinpie
 
-- ⭐ 21 分｜💬 8 留言｜👤 kevvok
+### 7. [Sean Carroll explains the biggest ideas in the universe – Full Interview [video]](https://www.youtube.com/watch?v=_TBNJyztai0)
 
-### 8. [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)
+- ⭐ 37 分｜💬 6 留言｜👤 binyu
 
-- ⭐ 84 分｜💬 25 留言｜👤 vinhnx
+### 8. [為什麼 is the x86 undefined instruction called ud2? 為什麼 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
 
-### 9. [US Customs supervisor busted for stealing 硬體 from Homeland 安全 PCs](https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg)
+- ⭐ 137 分｜💬 36 留言｜👤 ibobev
 
-- ⭐ 61 分｜💬 38 留言｜👤 Levitating
+### 9. [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)
 
-### 10. [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
+- ⭐ 264 分｜💬 67 留言｜👤 vinhnx
 
-- ⭐ 51 分｜💬 38 留言｜👤 bookofjoe
+### 10. [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
 
-### 11. [為什麼 is the x86 undefined instruction called ud2? 為什麼 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
+- ⭐ 101 分｜💬 56 留言｜👤 chiassedu80
 
-- ⭐ 10 分｜💬 3 留言｜👤 ibobev
+### 11. [Making Startups Powerful](https://paulgraham.com/powerful.html)
 
-### 12. [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
+- ⭐ 85 分｜💬 33 留言｜👤 tosh
 
-- ⭐ 305 分｜💬 126 留言｜👤 mikemcquaid
+### 12. [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html)
 
-### 13. [On Binary Translation and Its Consequences](https://chipsandcheese.com/p/on-binary-translation-and-its-consequences)
+- ⭐ 12 分｜💬 1 留言｜👤 azhenley
 
-- ⭐ 22 分｜💬 7 留言｜👤 matt_d
+### 13. [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 
-### 14. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+- ⭐ 226 分｜💬 111 留言｜👤 TheJCDenton
 
-- ⭐ 530 分｜💬 133 留言｜👤 juliantigler
+### 14. [為什麼 are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 
-### 15. [Aligned to whom?](https://hyperbo.la/w/aligned-to-whom/)
+- ⭐ 528 分｜💬 614 留言｜👤 jonifico
 
-- ⭐ 124 分｜💬 65 留言｜👤 lopopolo
+### 15. [Cpak – OCI 應用 package format for Linux desktops, servers and devices](https://cpak.it/)
 
-### 16. [The Interim Computer Museum](https://icm.museum/)
+- ⭐ 31 分｜💬 11 留言｜👤 xlmnxp
 
-- ⭐ 144 分｜💬 17 留言｜👤 mulmen
+### 16. [Julia 1.13 Highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/)
 
-### 17. [Ode to Metadata](https://www.autodidacts.io/ode-to-metadata/)
+- ⭐ 10 分｜💬 2 留言｜👤 eigenspace
 
-- ⭐ 5 分｜💬 1 留言｜👤 surprisetalk
+### 17. [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](https://twitter.com/DavidSacks/status/2098973625252708460)
 
-### 18. [Houthis Used Claude 代碼 to Develop Missile Guidance 軟體: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)
+- ⭐ 145 分｜💬 104 留言｜👤 kolanos
 
-- ⭐ 18 分｜💬 15 留言｜👤 delichon
+### 18. [Flock cameras used to arrest a child for playing on a swing](https://www.youtube.com/watch?v=koclOnlde0E)
 
-### 19. [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/)
+- ⭐ 99 分｜💬 51 留言｜👤 chadgpt3
 
-- ⭐ 259 分｜💬 67 留言｜👤 NaOH
+### 19. ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
 
-### 20. [I Added a Non-Wi-Fi Mitsubishi AC to Home 助手](https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77)
+- ⭐ 93 分｜💬 35 留言｜👤 blincoln
 
-- ⭐ 127 分｜💬 63 留言｜👤 ichacas
+### 20. [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](https://github.com/FeralFirmware/TailTalk/)
 
-### 21. [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+- ⭐ 57 分｜💬 13 留言｜👤 zdw
 
-- ⭐ 110 分｜💬 73 留言｜👤 tdrz
+### 21. [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
 
-### 22. [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
+- ⭐ 38 分｜💬 26 留言｜👤 lumpa
 
-- ⭐ 13 分｜💬 0 留言｜👤 emerongi
+### 22. [Romania soccer 引進 black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
 
-### 23. [Don't be the out of touch Kung Fu master](https://twitter.com/ID_AA_Carmack/status/2098443262214230095)
+- ⭐ 62 分｜💬 43 留言｜👤 thunderbong
 
-- ⭐ 194 分｜💬 260 留言｜👤 dsubburam
+### 23. [Alan's Random Insult Generator (1999)](https://alanbellows.com/experiments/insult/index.html)
 
-### 24. [Key symbols we lost to time, pt. 1: The PC side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/)
+- ⭐ 53 分｜💬 23 留言｜👤 DamnInteresting
 
-- ⭐ 11 分｜💬 0 留言｜👤 leephillips
+### 24. [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
 
-### 25. [NVIDIA is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+- ⭐ 15 分｜💬 8 留言｜👤 dgellow
 
-https:&#x2F;&#x2F;archive.ph&#x2F;kt50V
+### 25. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
 
-- ⭐ 525 分｜💬 380 留言｜👤 tolugenius
+- ⭐ 573 分｜💬 138 留言｜👤 juliantigler
 
-### 26. [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
+### 26. [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
 
-- ⭐ 224 分｜💬 81 留言｜👤 cjd8
+- ⭐ 48 分｜💬 35 留言｜👤 kevvok
 
-### 27. [Show HN: Analyst Index – analysts who make money telling you good stock calls](https://www.analystidx.com/)
+### 27. [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
 
-Hi HN!What if analyst ratings could be relied on to help you find the next Sandisk, before it takes off?On Analyst Index, analysts publish price targets with a maturity date. Every call gets scored ag
+- ⭐ 489 分｜💬 194 留言｜👤 mikemcquaid
 
-- ⭐ 6 分｜💬 4 留言｜👤 haichuan
+### 28. [Reverse-Engineering Claude 網頁's MicroVM: Uncovering Anthropic's Hidden Antspace](https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace)
 
-### 28. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+- ⭐ 16 分｜💬 2 留言｜👤 rzk
 
-- ⭐ 645 分｜💬 380 留言｜👤 xena
+### 29. [On Binary Translation and Its Consequences](https://chipsandcheese.com/p/on-binary-translation-and-its-consequences)
 
-### 29. [Getting 50 GB/S Back from the Apple 神經網絡 Engine](https://eiln.github.io/posts/ane-dma.html)
+- ⭐ 39 分｜💬 16 留言｜👤 matt_d
 
-RTL performance erratum in the Apple M3 神經網絡 Engine throttles DRAM weight streaming throughput down to 17–19 GB&#x2F;s from the nominal 45–60 GB&#x2F;s. Avoiding the problematic path in the kernel D
+### 30. [A Brief Retrospective on the Sprite 網絡 Operating 系統](https://github.com/OSPreservProject/sprite/blob/master/sprite.txt)
 
-- ⭐ 195 分｜💬 29 留言｜👤 eiln
-
-### 30. [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
-
-- ⭐ 47 分｜💬 28 留言｜👤 wglb
+- ⭐ 15 分｜💬 10 留言｜👤 EvanAnderson
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Vintage Scientific Papers with LaTeX
+- Key symbols we lost to time, pt. 1: The PC side
+- The Interim Computer Museum
+- Docket – Per-commit evidence records for 代理-written 代碼
+- Don't be the out of touch Kung Fu master
+- Apple iPod Engraver (2019)
+- I Added a Non-Wi-Fi Mitsubishi AC to Home 助手
+- Aligned to whom?
+- NVIDIA is the central bank of AI
+- Stabilizing Rust's Never Type
+- How Google Sees Your Site
+- Everyone should slow down AI development except for me
 - LG denies TV spying claims, says tracking and snooping concerns 'not true'
-- Operation Smart Kettle – Börzels Blog
+- US Customs supervisor busted for stealing 硬體 from Homeland 安全 PCs
+- Getting 50 GB/S Back from the Apple 神經網絡 Engine
+- A wandering black hole caught feeding on the run
+- Revolut confirms customer data breach through fake government requests
+- Vintage Scientific Papers with LaTeX
+- Ode to Metadata
 - We must pace the frontier
-- Mars astronauts could live in houses made of yeast and jello, say scientists
-- Liesegang Rings
-- Will there be a 7G?
-- Durable execution without history replay
-- I made a 構建 visualizer to understand Bun's compile times
-- Microcode in Intel's 8087 floating-point chip: the scale instruction
-- AgentsDock: An IDE designed for agentic AI research
 - A Design Space Exploration of Async/Await
+- Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
+- Will there be a 7G?
+- Microcode in Intel's 8087 floating-point chip: the scale instruction
+- Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity
+- Liesegang Rings
 - I fixed a tractor using John Deere's self-repair service. Farmers aren't sold
+- I made a 構建 visualizer to understand Bun's compile times
+- A misalignment of AI in mathematics
+- Durable execution without history replay
 - Linux Zoom client proactively reading everything written to X11 clipboard
 - Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
-- 安全 through obscurity is dead, and AI delivered the fatal blow
-- Texts Reveal Kash Patel Ordering Staff to Fight "Ifindretards" Account
-- P(doom)
-- After Math
-- A misalignment of AI in mathematics
 - IKEA made a mod for Skyrim [video]
-- From Git to Fossil (2025)
-- First Naval Drone Duel Results in Ukrainian Success
 - Google.com/goto: Google's anti-scraping 更新
-- NVIDIA dismisses "circular financing", says every $1 it invests brings back $100
-- Eating Fruit Skins
-- A Mathematical Framework for Transformer Circuits (2021)
-- LG Says We're Fake News [video]
-- A Dick Smith VZ200 without the Dick Smith
-- Performance of WebAssembly Runtimes in 2026
-- LRU is harder to beat than the KV-cache papers suggest
-- A few good ideas in 程式設計 languages
+- AgentsDock: An IDE designed for agentic AI research
+- P(doom)
 - I spent $220 on Google app ads and 60% of the installs were robots
-- The worst spam emails: iLands AI 代理 hustle
-- AI models don't kill people – people kill people
-- Android NAT-T keepalive offload bypasses VPN lockdown
-- Usenet rewind archive search engine
+- Operation Smart Kettle – Börzels Blog
+- Eating Fruit Skins
+- LG Says We're Fake News [video]
+- From Git to Fossil (2025)
+- A Mathematical Framework for Transformer Circuits (2021)
 - Zep AI (YC W24) Is 招聘 a Head of Forward Deployed Engineering
+- Performance of WebAssembly Runtimes in 2026
+- A Dick Smith VZ200 without the Dick Smith
+- The worst spam emails: iLands AI 代理 hustle
+- Android NAT-T keepalive offload bypasses VPN lockdown
+- AI Tools Accelerates Coding, but Not Overall 軟體 Delivery – GitLab Research
+- Texts Reveal Kash Patel Ordering Staff to Fight "Ifindretards" Account
 - No Atlantic hurricanes by Sept. 12 breaks a 60-year record
-- Günther Anders, the Philosopher at the End of the World
+- LRU is harder to beat than the KV-cache papers suggest
+- First Naval Drone Duel Results in Ukrainian Success
+- A simple 模型 of AI-aided economic growth
 - How we manage and engage with our horses shapes their personality
-- Ask HN: 職業 paths to consider if I am better at supporting than creating?
-- Carney's Bid to Make Canada an 'Associate Member' of the EU
+- Houthis used Claude 代碼 to develop missile guidance 軟體: Anthropic
 - Shopify is moving from React Native back to Swift and Kotlin
+- Usenet rewind archive search engine
 - How the Chorleywood Bread Process transformed British bread
-- Retrospectively Reverse-Engineering Apple's 神經網絡 Engine
 - Show HN: Bodily Oddities
+- US Military tests quantum sensors for flight navigation without GPS over Pacific
 - Designing for Dual Screen and Foldable Devices with CSS (2023)
-- Show HN: See Sounds on Your Webcam
-- Irish, Scottish and Welsh leaders meet to plan break-up of United Kingdom
-- Navier-Stokes Announcement
-- Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months
 - AlphaGenome maps 9B DNA variants
-- A full-duplex AI phone 代理 that listens while speaking
-- JWST finds extreme star-forming galaxies masquerading as faint quasars
-- MacFileSizing – 什麼是 consuming my disk space?
-- The Magic Behind Cubacadabra
-- 如何 Use Three.js's 新 Native Gaussian Splats
-- Colliding the Sum Checksum (2019)
-- GrapheneOS' rewritten Messages app is 發布
-- Show HN: Everything a 網頁 page can learn about you, in plain English
+- Navier-Stokes Announcement
+- Carney's Bid to Make Canada an 'Associate Member' of the EU
+- Retrospectively Reverse-Engineering Apple's 神經網絡 Engine
+- A few good ideas in 程式設計 languages
+- Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown
+- Günther Anders, the Philosopher at the End of the World
 - Don't let anyone take away your big box of cables
-- How Trail of Bits helps verify the integrity of Signal chats
-- So you want to use OpenRouter?
-- Logo 程式設計
-- Stop making swap partitions—use swap files instead
-- OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026
-- λ Snap – An inviting 程式設計 language for kids and adults for CS study
-- Show HN: What If Donut.c but with Any ASCII Art
-- Reconstructing Concurrency Invariants Through Medieval East Asian Logic
+- After Math
+- Mars astronauts could live in houses made of yeast and jello, say scientists
 
 
 ---
