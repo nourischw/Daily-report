@@ -197,6 +197,8 @@ AI程式開發工具已成為軟體供應鏈攻擊目標。駭客不只鎖定開
 
 ### 更多 AI 新聞 (70則)
 
+- 新 York Seizes a Dozen Celebrity Deepfake Websites (**Wired**)
+- The 最佳 Air Purifier of 2026: Tested Picks for Every Room (**Wired**)
 - The 最佳 Soundbars (2026): Sonos, LG, TCL, Bose, and More (**Wired**)
 - AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them (**Wired**)
 - Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe (**Wired**)
@@ -245,8 +247,6 @@ AI程式開發工具已成為軟體供應鏈攻擊目標。駭客不只鎖定開
 - Castlery Promo Codes: 15% Off for September 2026 (**Wired**)
 - AT&amp;T Promo Codes: $50 Off This September 2026 (**Wired**)
 - 20% Off Samsung Promo 代碼 | September 2026 (**Wired**)
-- Skullcandy Discount 代碼: 30% Off | September 2026 (**Wired**)
-- OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
