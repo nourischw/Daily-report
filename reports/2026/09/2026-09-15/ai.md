@@ -197,6 +197,10 @@ Salesforce也提出AI控制層（AI Control Plane），讓企業盤點並註冊�
 
 ### 更多 AI 新聞 (70則)
 
+- AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’ (**Wired**)
+- The FBI Doubles Down on Easing ‘Bestiality’ 招聘 Standards (**Wired**)
+- ZuckOff Is a Free App That Sees Meta Glasses Before They See You (**Wired**)
+- Join WIRED@Night for an Uncanny Valley Live Recording on Women, Tech, and Power (**Wired**)
 - 10 最佳 Meal Delivery Services, Tested by an Ex-Restaurant Critic (**Wired**)
 - 為什麼 the Postpandemic Tech Bust Sent Billionaires to Trump (**Wired**)
 - ‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag (**Wired**)
@@ -243,10 +247,6 @@ Salesforce也提出AI控制層（AI Control Plane），讓企業盤點並註冊�
 - How 9/11 Made Everyone a Conspiracy Theorist (**Wired**)
 - The US and Mexico Announce They’re Teaming Up Against Drones (**Wired**)
 - 為什麼 So Many AI Researchers Think the Machines Could Kill Everyone (**Wired**)
-- Samsung Galaxy S26 FE Review: Same as Before, but for More Money (**Wired**)
-- 50% Off DoorDash Promo 代碼 | September 2026 (**Wired**)
-- Surfshark Promo Codes: 87% Off | September 2026 (**Wired**)
-- Home Depot Promo Codes: 30% Off in September 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
