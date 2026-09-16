@@ -13,7 +13,7 @@
 
 ### 2. [BengalSEO鎖定Bing搜尋結果，透過SEO投毒散布惡意軟體MayaBot](https://www.ithome.com.tw/news/178999)
 
-資安威脅情報業者DFIR Report今年3月發現一波針對Microsoft Bing的SEO投毒活動，將這波攻擊命名為BengalSEO，研判攻擊活動幕後涉及WeConnect Solutions及Garage2Global等兩家自稱提供網站、SEO等服務的IT廠商，相關人士至少自2015年起便在印度拉賈斯坦邦（Rajasthan）活動，近年則利用SEO技術讓偽造的防毒、遊戲、串流服務及技術支援頁面出現在搜尋結果前列，誘騙使用者下載軟體或聯絡詐騙客服。
+資安威脅情報業者DFIR Report今年3月發現一波針對Microsoft Bing的SEO投毒活動，將這波攻擊命名為BengalSEO，研判攻擊活動幕後涉及WeConnect Solutions及Garage2Global等兩家自稱提供網站、SEO等服務的IT廠商，相關人士至少自2015年起便在印度拉賈斯坦邦（Rajasthan）活動，近年則利用SEO技術讓偽造的防毒、遊戲、串流服務及技術��援頁面出現在搜尋結果前列，誘騙使用者下載軟體或聯絡詐騙客服。
 
 - 📰 **iThome 科技**
 
@@ -25,7 +25,7 @@
 
 ### 4. [澳洲警方逮捕涉及駭客組織TeamPCP的攻擊者，牽連逾千個組織的軟體供應鏈攻擊](https://www.ithome.com.tw/news/178998)
 
-澳洲聯��警察（AFP）公布，西澳兩名男子涉嫌參與駭客組織TeamPCP相關網路攻擊而遭逮捕並起訴。TeamPCP近年多次入侵開源軟體與開發平臺，植入惡意程式，竊取開發人員憑證、驗證資訊及原始碼，攻擊曾波及Trivy、LiteLLM、Telnyx、SAP及TanStack等軟體套件。
+澳洲聯邦警察（AFP）公布，西���兩名男子涉嫌參與駭客組織TeamPCP相關網路攻擊而遭逮捕並起訴。TeamPCP近年多次入侵開源軟體與開發平臺，植入惡意程式，竊取開發人員憑證、驗證資訊及原始碼，攻擊曾波及Trivy、LiteLLM、Telnyx、SAP及TanStack等軟體套件。
 
 - 📰 **iThome 科技**
 
@@ -150,7 +150,7 @@ Google於9月15日發布Chrome瀏覽器新版本，在桌面版方面，Windows�
 
 ### 24. [LiteSpeed 網頁 伺服器漏洞恐讓共享主機單一帳號取得root權限](https://www.ithome.com.tw/news/178968)
 
-網頁伺服器系統開發商LiteSpeed的LiteSpeed 網頁 伺服器 Enterprise存在重大權���提升漏洞，共享主機（shared-hosting servers）上的低權限網站使用者可能藉此繞過帳號隔離機制，取得伺服器root權限。所謂的共享主機是指，多個網站共同使用同一臺實體伺服器的資源。
+網頁伺服器系統開發商LiteSpeed的LiteSpeed 網頁 伺服器 Enterprise存在重大權限提升漏洞，共享主機（shared-hosting servers）上的低權限網站使用者可能藉此繞過帳號隔離機制，取得伺服器root權限。所謂的共享主機是指，多個網站共同使用同一臺實體伺服器的資源。
 
 - 📰 **iThome 科技**
 
@@ -162,7 +162,7 @@ Google於9月15日發布Chrome瀏覽器新版本，在桌面版方面，Windows�
 
 ### 26. [WordPress強化外掛更新安全審查，高風險版本自動阻止散布](https://www.ithome.com.tw/news/178939)
 
-WordPress.org外掛團隊強化自動化安全審查機制��新增高風險版本自動阻擋功能。每次外掛程式提交新版本後，在透過WordPress.org更新API散布前，系統都會先分析該版本的程式碼變更，檢查是否存在潛在資安問題；若該版本被評為高風險，系統將自動阻止該版本散布。
+WordPress.org外掛團隊強化自動化安全審查機制，新增高風險版本自動���擋功能。每次外掛程式提交新版本後，在透過WordPress.org更新API散布前，系統都會先分析該版本的程式碼變更，檢查是否存在潛在資安問題；若該版本被評為高風險，系統將自動阻止該版本散布。
 今年6月初，WordPress開始針對外掛與佈景主題的新版本實施等待機制，目前等待時間為6小時，期間會由多個AI模型與Jetpack Scan進行自動化安全審查。
 
 - 📰 **iThome 科技**
@@ -187,7 +187,7 @@ WordPress.org外掛團隊強化自動化安全審查機制��新增高風險�
 
 ### 30. [Apple發布iOS 27與iPadOS 27，修補126個資安漏洞](https://www.ithome.com.tw/news/178961)
 
-除了更新macOS外，Apple在9月14日也同步發布iOS 27與iPadOS 27，修補126個資安漏洞���相較於上個月的iOS與iPadOS更新，這次更新修補的方向有明顯不同。
+除了更新macOS外，Apple在9月14日也同步發布iOS 27與iPadOS 27，修補126個資安漏洞。相較於上個月的iOS與iPadOS更新，這次更新修補的方向有明顯不同。
 
 - 📰 **iThome 科技**
 
@@ -195,6 +195,11 @@ WordPress.org外掛團隊強化自動化安全審查機制��新增高風險�
 
 ### 更多 AI 新聞 (70則)
 
+- A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026) (**Wired**)
+- MacOS 27 Golden Gate: 熱門 新 Features (**Wired**)
+- I Trained a Fly’s Brain to Generate WIRED Story Ideas (**Wired**)
+- The 最佳 Movies to Stream This Month (September 2026) (**Wired**)
+- Chipotle Is Working With Palantir to Track Food Safety Risks (**Wired**)
 - Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends (**Wired**)
 - 7 最佳 Android Phones of 2026, Tested and Reviewed (**Wired**)
 - Hackers Got Inside a Flock Camera. Its Data Shows How the 系統 Really Works (**Wired**)
@@ -240,11 +245,6 @@ WordPress.org外掛團隊強化自動化安全審查機制��新增高風險�
 - The Census Bureau Is Overrun With Staffers From a MAGA Think Tank (**Wired**)
 - Lawmakers Want States to Crack Down on Flock Cameras—or Pay the Price (**Wired**)
 - If the US Collapses Soon, Don’t Blame Emily St. John Mandel (**Wired**)
-- A 新 Headset to Help With Depression Is Now Available in the US (**Wired**)
-- 系統 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop (**Wired**)
-- The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms (**Wired**)
-- The 熱門 新 Features in Apple’s iOS 27 and iPadOS 27 (**Wired**)
-- 新 York Seizes a Dozen Celebrity Deepfake Websites (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
