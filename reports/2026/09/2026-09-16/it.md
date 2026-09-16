@@ -6,208 +6,206 @@
 
 ### 1. [Introducing 系統 One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 
-- ⭐ 828 分｜💬 273 留言｜👤 albelfio
+- ⭐ 1422 分｜💬 403 留言｜👤 albelfio
 
-### 2. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+### 2. [Learning 程式設計 in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
+
+- ⭐ 31 分｜💬 13 留言｜👤 moneroloop2018
+
+### 3. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 
 See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)
 
-- ⭐ 1348 分｜💬 183 留言｜👤 arnemunthekaas
+- ⭐ 1666 分｜💬 208 留言｜👤 arnemunthekaas
 
-### 3. [An 更新 on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
+### 4. [Apple Reference Image: A 新 Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
 
-- ⭐ 409 分｜💬 219 留言｜👤 ChrisArchitect
+- ⭐ 268 分｜💬 196 留言｜👤 imwally
 
-### 4. [Cloudflare: Stay discoverable in search while disallowing AI 訓練](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
+### 5. [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
 
-- ⭐ 6 分｜💬 0 留言｜👤 djfergus
+- ⭐ 38 分｜💬 8 留言｜👤 vertigoruntime
 
-### 5. [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
+### 6. [Show HN: I made a flight simulator, except you're just a passenger](https://inflightsimulator.com)
 
-- ⭐ 321 分｜💬 197 留言｜👤 leumon
+Buckle your seatbelt, secure your tray table, and open your window shade. Now you can simulate flying anywhere in the world as a commercial passenger, from takeoff to touchdown. Terrain, weather, and 
 
-### 6. [German Rheinmetall open-sources its Battlesuite connected weapon 系統 protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+- ⭐ 207 分｜💬 109 留言｜👤 rkotcher
 
-- ⭐ 136 分｜💬 41 留言｜👤 summarity
+### 7. [An 更新 on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
 
-### 7. [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+- ⭐ 545 分｜💬 273 留言｜👤 ChrisArchitect
 
-- ⭐ 42 分｜💬 9 留言｜👤 zdw
+### 8. [Doing Everyone Else's 工作](https://yosefk.com/blog/doing-everyone-elses-job.html)
 
-### 8. [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
+- ⭐ 77 分｜💬 39 留言｜👤 luu
 
-- ⭐ 230 分｜💬 123 留言｜👤 bearsyankees
+### 9. [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
 
-### 9. [Sierra digital cameras on the Apple II](https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/)
+- ⭐ 421 分｜💬 273 留言｜👤 leumon
 
-- ⭐ 25 分｜💬 2 留言｜👤 ibobev
+### 10. [Negativland, Culture Jamming, and the Art of Making Something 新](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
 
-### 10. [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
+- ⭐ 84 分｜💬 20 留言｜👤 bananaboy
 
-- ⭐ 176 分｜💬 114 留言｜👤 ADevWithAnIdea
+### 11. [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
 
-### 11. [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
+- ⭐ 331 分｜💬 191 留言｜👤 ADevWithAnIdea
 
-- ⭐ 97 分｜💬 15 留言｜👤 jzox
+### 12. [German Rheinmetall open-sources its Battlesuite connected weapon 系統 protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 
-### 12. [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+- ⭐ 223 分｜💬 77 留言｜👤 summarity
 
-- ⭐ 37 分｜💬 15 留言｜👤 marklit
+### 13. [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
 
-### 13. [Chopping up books when they're physically too big](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html)
+- ⭐ 129 分｜💬 38 留言｜👤 zdw
 
-- ⭐ 130 分｜💬 130 留言｜👤 matt_kirkland
+### 14. [A 軟體 thing I built: GPS on a 25MHz 486-SX](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)
 
-### 14. [Learning to solve hard problems in RL for LLMs by never giving up](https://mnoukhov.github.io/posts/ngu/)
+- ⭐ 30 分｜💬 7 留言｜👤 JPLeRouzic
 
-https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2609.13443
+### 15. [為什麼 I'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)
 
-- ⭐ 47 分｜💬 0 留言｜👤 natolambert
+- ⭐ 235 分｜💬 264 留言｜👤 jaykru
 
-### 15. [The Beauty of Roundabouts](https://gruhn.me/blog/2026-09-14/)
+### 16. [MartyPC – A Cycle-Accurate IBM PC/XT Emulator](https://github.com/dbalsom/martypc)
 
-- ⭐ 19 分｜💬 24 留言｜👤 ngruhn
+- ⭐ 18 分｜💬 2 留言｜👤 yitchelle
 
-### 16. [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
+### 17. [Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 構建 1507](https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html)
 
-- ⭐ 116 分｜💬 45 留言｜👤 Liogra123
+- ⭐ 5 分｜💬 0 留言｜👤 ArneBab
 
-### 17. [Show HN: Capsule – Single-file 網頁 apps that save their data into SQLite](https://withcapsule.app/)
+### 18. [Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)
+
+- ⭐ 42 分｜💬 4 留言｜👤 pythonic_hell
+
+### 19. [We got admin access to Baseten's production GitHub](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
+
+- ⭐ 282 分｜💬 156 留言｜👤 bearsyankees
+
+### 20. [Datamimic – don't let your coding 代理 invent its own 測試 world](https://github.com/rapiddweller/datamimic)
+
+- ⭐ 40 分｜💬 7 留言｜👤 ake2l
+
+### 21. [Show HN: Capsule – Single-file 網頁 apps that save their data into SQLite](https://withcapsule.app/)
 
 Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, 
 
-- ⭐ 288 分｜💬 119 留言｜👤 bashtian
+- ⭐ 333 分｜💬 141 留言｜👤 bashtian
 
-### 18. [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/)
+### 22. [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
 
-- ⭐ 323 分｜💬 328 留言｜👤 ingve
+- ⭐ 96 分｜💬 49 留言｜👤 marklit
 
-### 19. [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
+### 23. [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/)
 
-- ⭐ 481 分｜💬 170 留言｜👤 yusufozkan
+- ⭐ 398 分｜💬 407 留言｜👤 ingve
 
-### 20. [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
+### 24. [Chopping up books when they're physically too big](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html)
 
-- ⭐ 444 分｜💬 396 留言｜👤 choult
+- ⭐ 180 分｜💬 168 留言｜👤 matt_kirkland
 
-### 21. [The madman's guide to stamp collecting](https://www.wsj.com/arts-culture/books/the-madmans-guide-to-stamp-collecting-review-sticking-to-what-they-know-e96da0e9?st=dT9wdV&reflink=desktopwebshare_permalink)
+### 25. [Learning to solve hard problems in RL for LLMs by never giving up](https://mnoukhov.github.io/posts/ngu/)
 
-https:&#x2F;&#x2F;archive.ph&#x2F;0DxNV
+https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2609.13443
 
-- ⭐ 6 分｜💬 0 留言｜👤 centrosphere
+- ⭐ 96 分｜💬 5 留言｜👤 natolambert
 
-### 22. [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot)
+### 26. [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
 
-Hi HN - long-time lurker (since 2012!), first time poster.Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-lik
+- ⭐ 495 分｜💬 437 留言｜👤 choult
 
-- ⭐ 33 分｜💬 16 留言｜👤 jd_
+### 27. [An interactive world map of the stories cultures have told](https://originmap.sunnyguha.com/)
 
-### 23. [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
+- ⭐ 49 分｜💬 6 留言｜👤 momentmaker
 
-- ⭐ 181 分｜💬 31 留言｜👤 bobili1234
+### 28. [The Beauty of Roundabouts](https://gruhn.me/blog/2026-09-14/)
 
-### 24. [Jiga (YC W21) Is 招聘 Product 工程師 (遠端/US)](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd)
+- ⭐ 61 分｜💬 126 留言｜👤 ngruhn
 
-- ⭐ 1 分｜💬 0 留言｜👤 grmmph
+### 29. [Jean-Pierre Serre turns 100](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 
-### 25. [Most people prefer traditional architecture](https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture)
+- ⭐ 135 分｜💬 24 留言｜👤 jzox
 
-- ⭐ 269 分｜💬 233 留言｜👤 alihm
+### 30. [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
 
-### 26. [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
-
-- ⭐ 28 分｜💬 2 留言｜👤 matt_d
-
-### 27. [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
-
-- ⭐ 95 分｜💬 78 留言｜👤 eustoria
-
-### 28. [The CSS Zen Garden dream, finally shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/)
-
-- ⭐ 130 分｜💬 69 留言｜👤 yosito
-
-### 29. [The 推論 硬體 Revolution of 2026](https://spectrum.ieee.org/inference-hardware-revolution)
-
-- ⭐ 113 分｜💬 12 留言｜👤 vinhnx
-
-### 30. [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
-
-- ⭐ 109 分｜💬 61 留言｜👤 sippingabonedry
+- ⭐ 163 分｜💬 58 留言｜👤 Liogra123
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- 25 years of mass surveillance is enough
+- Stay discoverable in search while disallowing AI 訓練
+- ZTE B860H: Getting Armbian into It
+- Sierra digital cameras on the Apple II
+- The 推論 硬體 Revolution of 2026
+- Jiga (YC W21) Is 招聘 Product 工程師 (遠端/US)
 - I can't stop thinking about Papua 新 Guinea
-- Giving up on smart rings
-- Java 27
-- 為什麼 I'm still bearish on LLMs after Navier-Stokes
-- America's Driver's License Breach Is a National 安全 Disaster
+- The CSS Zen Garden dream, finally shipped
+- Show HN: Hacking a $20 4G wireless hotspot into a texting device
+- Show HN: Pizza Bot – An inbox for AI agents that work in the background
+- 25 years of mass surveillance is enough
+- Cartesian – AI 3D Modeling for Design
 - CSS-Tricks in Limbo
+- A single firm is behind OpenAI, Anthropic, and Meta hacking scandals
 - Alternatives to MinIO for single-node local S3
+- GEFS on OpenBSD: A Early Preview
+- Java 27
+- Giving up on smart rings
+- OpenArm: An open-source 7DOF humanoid arm
+- Over 12% of links posted to Hacker News are Show HN projects now
 - Archiving pirate radio station Kool FM
+- Show HN: Pull every comment out of a Google Sheet, in the browser
+- Ask HN: What are you working on? (September 2026)
+- Most people prefer traditional architecture
+- America's Driver's License Breach Is a National 安全 Disaster
 - Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
 - Sony's First Computer – The SMC-70 from 1982 [video]
-- XLS: Accelerated HW Synthesis
-- Over 12% of links posted to Hacker News are Show HN projects now
-- OpenArm: An open-source 7DOF humanoid arm
-- A rough guide for going back to the Moon
 - How much of F-Droid is 大型語言模型 generated?
-- AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
-- US confirms for first time it has deployed space weapons
-- Show HN: Check if your IP has appeared in a residential proxy 網絡
-- Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)
-- The Two MMLU Scores: What a Benchmark Name Does Not Fix
-- Ask HN: What are you working on? (September 2026)
-- The k-伺服器 conjecture is true
+- A rough guide for going back to the Moon
 - Ubuntu 26.10 completes transition to Rust-based coreutils
+- US confirms for first time it has deployed space weapons
+- Piezoelectric effect in polycrystalline diamond membranes
+- AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
+- Deep Seek v4.1 M5 Max at 17 tokens/s
+- The madman's guide to stamp collecting
+- XLS: Accelerated HW Synthesis
+- More people are seeking emergency care for gambling and it's mostly men and boys
 - Linux from Scratch
-- Vibe Coding is the 新 Internet Dating?
-- Show HN: Panel – A research workspace where the 代理 can 構建 its own panes
-- Inverse-Square Law
-- OrangePi Zero 3W Review: Tiny yet Powerful
-- Fixing an NZXT Signal 4K30 part 2: the green/pink video bug
-- Show HN: Ordewell – turn one goal into an ordered plan of coding-代理 tasks
-- Show HN: Redis City – Explore how Redis works in an interactive 3D 模型
-- How do we prevent mathemathics from devolving into the Medieval Era of secrecy?
-- The Age of Wonders and Terrors
-- Rat and Mouse Gazette: Nursing Care (1996)
-- iOS 27, iPadOS 27, and macOS 27
-- Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)
+- The k-伺服器 conjecture is true
 - People who can't picture anything are rewriting the science of imagination
-- TSMC revealing details about next gen A14 node
-- Google copied our open-source 代碼, removed engineers' names without credit
-- How much oil-market buffer is left?
-- Hugging Face is billing OpenAI $100M for hacking it
-- Closing the IPv6 first-packet gap with GRAND
-- GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt
-- AWS Says It Can't Restore Some Data from Mideast Facilities Struck by Iran
-- 25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]
+- iOS 27, iPadOS 27, and macOS 27
+- Data races and the limits of ThreadSanitizer in C and Go
+- Show HN: Redis City – Explore how Redis works in an interactive 3D 模型
+- Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)
+- The structure and lasting impact of the Roman road 系統
+- OrangePi Zero 3W Review: Tiny yet Powerful
 - XCancel service is suspended until further notice
-- Pion, an 代理 designed to run any company autonomously
-- Coreutils – Rejected Feature Requests
-- There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)
-- OpenAI buys smartphone camera maker Glass Imaging for $300M
-- Forgotten Woodlands
-- Every invoice in Brazil's economy runs on SOAP 1.2
-- Backprop Alternative: Augmented Lagrangian Predictive Coding
-- Dario, Please
+- Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)
+- Inverse-Square Law
+- Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism
 - Apple's Dimensional Drawings
+- The Apple IIGS was introduced 40 years ago today
+- Pion, an 代理 designed to run any company autonomously
 - Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
-- Steam Frame starts at $1059
-- What we have learned at OpenShell applying formal methods to control AI agents
-- How my e-reader lost its stripes
-- High-performance garbage collection for C++
-- Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
-- Show HN: Loss. a tiny satire about AI progress
-- 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls
-- Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%
+- Sanders: "If AI is coming for workers, it should bring a 4-day workweek with it"
+- Show HN: Panel – A research workspace where the 代理 can 構建 its own panes
+- Dario, Please
+- Backprop Alternative: Augmented Lagrangian Predictive Coding
+- How do we prevent mathemathics from devolving into the Medieval Era of secrecy?
 - Spaceships (Reverse Asteroid)
+- Steam Frame starts at $1059
+- GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt
+- Senate Blocks Cryptocurrency Regulation
+- The Age of Wonders and Terrors
+- Every invoice in Brazil's economy runs on SOAP 1.2
+- Forgotten Woodlands
+- Fixing an NZXT Signal 4K30 part 2: the green/pink video bug
+- Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%
+- How my e-reader lost its stripes
 - Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama
-- Show HN: SCIP MIP solver bindings for Go, ported from russcip
-- OpenAI bots knew about the RubyGems caching vulnerability
-- AI is breaking our proxies for expertise
+- Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
 
 
 ---
