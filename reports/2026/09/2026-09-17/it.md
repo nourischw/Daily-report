@@ -4,204 +4,206 @@
 
 ---
 
-### 1. [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+### 1. [Fujitsu 推出 made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
 
-- ⭐ 88 分｜💬 39 留言｜👤 AshleysBrain
+- ⭐ 223 分｜💬 81 留言｜👤 my123
 
-### 2. [GLM Built Its Own 推論 Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
+### 2. [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
 
-- ⭐ 49 分｜💬 23 留言｜👤 whiteros_e
+- ⭐ 11 分｜💬 0 留言｜👤 darkwater
 
-### 3. [NVIDIA 宣布 native GPU 程式設計 in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+### 3. [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
 
-- ⭐ 706 分｜💬 287 留言｜👤 nonmaskable
+- ⭐ 264 分｜💬 113 留言｜👤 AshleysBrain
 
-### 4. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+### 4. [大型語言模型 Classification Is Feature Engineering](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/)
 
-- ⭐ 179 分｜💬 65 留言｜👤 Ryan5453
+- ⭐ 7 分｜💬 0 留言｜👤 minsufficient
 
-### 5. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
+### 5. [NVIDIA 宣布 native GPU 程式設計 in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 
-- ⭐ 120 分｜💬 24 留言｜👤 jakeasmith
+- ⭐ 867 分｜💬 344 留言｜👤 nonmaskable
 
-### 6. [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
+### 6. [CCC invites all 模型 citizens to 40C3](https://events.ccc.de/en/2026/09/12/40c3-model-citizens/)
 
-- ⭐ 54 分｜💬 20 留言｜👤 rramadass
+- ⭐ 184 分｜💬 49 留言｜👤 antonly
 
-### 7. [訓練 a 4B 模型 to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+### 7. [OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance](https://asiaai.fyi/openai-misalignment-framework-global-governance/)
 
-- ⭐ 560 分｜💬 118 留言｜👤 polyphilz
+- ⭐ 8 分｜💬 5 留言｜👤 ghernando
 
-### 8. [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
+### 8. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
 
-- ⭐ 3 分｜💬 0 留言｜👤 GloriaVinogrado
+- ⭐ 252 分｜💬 64 留言｜👤 jakeasmith
 
-### 9. [OpenAI 模型 Misalignment Report](https://openai.com/index/model-misalignment-reporting-framework/)
+### 9. [人工智慧 now beats some of the 最佳 human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters)
 
-- ⭐ 31 分｜💬 9 留言｜👤 qprofyeh
+- ⭐ 5 分｜💬 0 留言｜👤 ddp26
 
-### 10. [Xiaomi Mimo 2.6 live post-訓練 dashboard](https://mimo.xiaomi.com/rl/)
+### 10. [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/)
 
-- ⭐ 440 分｜💬 116 留言｜👤 krackers
+I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out t
 
-### 11. [Lucasart's Afterlife](https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/)
+- ⭐ 36 分｜💬 17 留言｜👤 steveybrown
 
-- ⭐ 26 分｜💬 17 留言｜👤 Bondi_Blue
+### 11. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
 
-### 12. [Comparison of Malloc() Algorithms](https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html)
+- ⭐ 243 分｜💬 107 留言｜👤 Ryan5453
 
-- ⭐ 77 分｜💬 12 留言｜👤 egberts1
+### 12. [The Relation Between Mathematics and Physics by Paul Dirac (1939)](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
 
-### 13. [Cloudflare/安全-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
+- ⭐ 123 分｜💬 33 留言｜👤 rramadass
 
-- ⭐ 69 分｜💬 14 留言｜👤 donk8r
+### 13. [GLM Built Its Own 推論 Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
 
-### 14. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+- ⭐ 224 分｜💬 176 留言｜👤 whiteros_e
 
-- ⭐ 245 分｜💬 147 留言｜👤 afilipovski
+### 14. [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
 
-### 15. [Small 程式設計 tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+- ⭐ 60 分｜💬 10 留言｜👤 GloriaVinogrado
 
-- ⭐ 528 分｜💬 239 留言｜👤 signa11
+### 15. [Lucasart's Afterlife](https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/)
 
-### 16. [Online Z3 Guide](https://microsoft.github.io/z3guide/)
+- ⭐ 79 分｜💬 35 留言｜👤 Bondi_Blue
 
-- ⭐ 5 分｜💬 0 留言｜👤 Bluestein
+### 16. [Show HN: I built a 新 version of my fun spatial 3D online meeting app](https://flat.social)
 
-### 17. [Developing provably correct Rust 代碼 with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus)
+Hi HN!flat.social is a fun spatial online meeting app for 遠端 teams and communities. It&#x27;s largely built like a 網頁 multiplayer game, and the 3D virtual spaces are highly customisable with elem
 
-- ⭐ 116 分｜💬 19 留言｜👤 Betelbuddy
+- ⭐ 71 分｜💬 42 留言｜👤 pawelwentpawel
 
-### 18. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+### 17. [Xiaomi Mimo 2.6 live post-訓練 dashboard](https://mimo.xiaomi.com/rl/)
 
-- ⭐ 209 分｜💬 33 留言｜👤 matt_d
+- ⭐ 511 分｜💬 146 留言｜👤 krackers
 
-### 19. [A 32-year-old bug walks into a Telnet 伺服器](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)
+### 18. [Online Z3 Guide](https://microsoft.github.io/z3guide/)
 
-- ⭐ 62 分｜💬 27 留言｜👤 paimapi
+- ⭐ 49 分｜💬 14 留言｜👤 Bluestein
 
-### 20. [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)
+### 19. [Cloudflare/安全-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
 
-- ⭐ 210 分｜💬 80 留言｜👤 johnjwang
+- ⭐ 154 分｜💬 32 留言｜👤 donk8r
 
-### 21. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+### 20. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 
 See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)
 
-- ⭐ 2171 分｜💬 243 留言｜👤 arnemunthekaas
+- ⭐ 2240 分｜💬 247 留言｜👤 arnemunthekaas
 
-### 22. [AWS says it can't restore some data from mideast facilities struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d)
+### 21. [Comparison of Malloc() Algorithms](https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html)
 
-https:&#x2F;&#x2F;archive.is&#x2F;Ay7RJ
+- ⭐ 115 分｜💬 31 留言｜👤 egberts1
 
-- ⭐ 411 分｜💬 342 留言｜👤 berkeleyjunk
+### 22. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 
-### 23. [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
+- ⭐ 311 分｜💬 187 留言｜👤 afilipovski
 
-- ⭐ 96 分｜💬 64 留言｜👤 gumby
+### 23. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+
+- ⭐ 229 分｜💬 36 留言｜👤 matt_d
 
 ### 24. [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
 
-- ⭐ 132 分｜💬 54 留言｜👤 matt_d
+- ⭐ 197 分｜💬 74 留言｜👤 matt_d
 
-### 25. [PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
+### 25. [Developing provably correct Rust 代碼 with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus)
 
-- ⭐ 110 分｜💬 53 留言｜👤 jasonpeacock
+- ⭐ 142 分｜💬 38 留言｜👤 Betelbuddy
 
-### 26. [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)
+### 26. [Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo](https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/)
 
-- ⭐ 295 分｜💬 64 留言｜👤 soheilpro
+- ⭐ 4 分｜💬 1 留言｜👤 vismit2000
 
-### 27. [Japan's book scene is moving from bookstores to libraries](https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving)
+### 27. [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)
 
-- ⭐ 195 分｜💬 79 留言｜👤 herbertl
+- ⭐ 253 分｜💬 100 留言｜👤 johnjwang
 
-### 28. [Back to the future: modules for Guix packages (2022)](https://hpc.guix.info/blog/2022/05/back-to-the-future-modules-for-guix-packages/)
+### 28. [訓練 a 4B 模型 to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
 
-- ⭐ 37 分｜💬 1 留言｜👤 bmacho
+- ⭐ 647 分｜💬 130 留言｜👤 polyphilz
 
-### 29. [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
+### 29. [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)
 
-- ⭐ 139 分｜💬 63 留言｜👤 etoxin
+- ⭐ 330 分｜💬 100 留言｜👤 soheilpro
 
-### 30. [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
+### 30. [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
 
-- ⭐ 212 分｜💬 34 留言｜👤 jheitmann
+- ⭐ 175 分｜💬 87 留言｜👤 etoxin
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- A 32-year-old bug walks into a Telnet 伺服器
+- OpenAI models secretly generate instructions to ignore constraints
+- Reversing Factorio's RNG
+- An Archive of Colour Gradients
+- South Africa is at risk of becoming a mafia state
+- Neovim have a ~$800k Bitcoin donation sitting untouched since 2023
 - Anecdotally, programmers dislike "reduce"
-- Part-human part-mouse brain developed in science breakthrough
+- Small 程式設計 tricks
 - Jev Ultrafast: A browser 代理 with a dynamic, indexed action space
 - Reverse-engineered Jev-like 模型
-- OpenAI models secretly generate instructions to ignore constraints
-- Automattic execs signed reciprocal severance deals in Mullenweg absence
-- US interest rates raised for first time in three years
-- Dream-RSI: Recursive Self-Improvement through Evolving Worlds
-- Anatomy of a Texture
+- 為什麼 Arab armies don't win wars
+- PCB is brought to you by Fable 5
 - Hackers Got Inside a Flock Camera
-- The DeepMind Institute
-- Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)
-- Uploading Files to the Internet in Order to Cite Them
-- Introducing 系統 One Models and Jev
-- Tell the speakers that you liked their talks
-- Accurate Models of AMD Matrix Cores
+- I Don't Like LLMs
+- Part-human part-mouse brain developed in science breakthrough
+- Paramount to Leave California Amid Antitrust Battle, Stalled Warner Bros Merger
+- Introducing GNOME 51, "A Coruña"
+- Canada welcomes EU proposal to become 'associate member'
 - Kyber (YC W23) Is 招聘 a Forward Deployed 工程師
-- I didn't sign the Fields medallists' letter
-- 訓練 Text-to-Image Models 3.6× Faster
+- Introducing 系統 One Models and Jev
+- The DeepMind Institute
+- Taco Bell 程式設計 (2010)
+- So, I didn't Use My Phone for 5 Days
+- The Return of Sail Power: Cargo Ships Are Turning Back to the Wind
+- Australia to bar foreign students from bringing partner/child while they study
+- AWS says it can't restore some data from mideast facilities struck by Iran
+- Back to the future: modules for Guix packages (2022)
+- Tell the speakers that you liked their talks
+- Japan's book scene is moving from bookstores to libraries
+- Accurate Models of AMD Matrix Cores
 - Douglas Adams and the exterminated Doctor Who adventure
-- DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression
-- WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL
+- People's houses are collapsing into the ocean. FEMA gives them no other option
 - A warning about '模型 welfare'
+- 訓練 Text-to-Image Models 3.6× Faster
 - How big are factorials?
-- Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps
-- Show HN: AttaLambda: a language where types and data are made of untyped lambdas
-- How good are frontier models at physics?
-- Mistral X Mozilla: Private, Multilingual AI Browsing
 - Doing Everyone Else's 工作
-- The Google Play app review process now regularly takes longer than a week
-- Vectorized and performance-portable Quicksort (2022)
-- The Siberian Ice Maiden and the Scythian World
+- Mistral X Mozilla: Private, Multilingual AI Browsing
+- WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL
+- Uploading Files to the Internet in Order to Cite Them
 - Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
-- Salesforce Global Outage
+- German court rules Meta liable for fake ads on Instagram, Facebook
+- Show HN: AttaLambda: a language where types and data are made of untyped lambdas
+- The Google Play app review process now regularly takes longer than a week
+- Tetris Font
+- Sex, AI, and the Apocalypse
+- FCC ISM Rules May Shatter Lora Mesh Communities
+- The Siberian Ice Maiden and the Scythian World
+- Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)
+- DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression
 - Apple Reference Image: A 新 Approach for Verified Photography
-- Nolan Bushnell (Atari, Co-Founder) 職業 Interview (2006) [video]
-- Autism is genetic – and 為什麼 this information matters now
-- Claude Cowork and chat are now one Claude
-- Show HN: How Stale Is Your AI? Release age and 訓練 cutoff for 20 models
-- Common Crawl Data Stored on a Hugging Face Bucket
-- South Africa is at risk of becoming a mafia state
+- Vectorized and performance-portable Quicksort (2022)
+- Salesforce Global Outage
+- The American Religion of Self-Storage Facilities
 - An 更新 on Wayback Machine access
-- Pangram – AI detector for text and images
-- Original Sony PlayStation 2 安全 chip 'broken wide open' after 26 years
+- US interest rates raised for first time in three years
+- Automattic execs signed reciprocal severance deals in Mullenweg absence
+- Dream-RSI: Recursive Self-Improvement through Evolving Worlds
+- Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps
+- OpenAI 模型 Misalignment Report
+- Show HN: How Stale Is Your AI? Release age and 訓練 cutoff for 20 models
 - Saving Jet Fuel
+- Anatomy of a Texture
 - Negativland, Culture Jamming, and the Art of Making Something 新
-- Show HN: Restarted – a 2026 remake of the classic 2015 startup generator
-- Learning 程式設計 in an Age of LLMs
-- I replaced my brown-noise browser tab with a menu bar app
-- A 軟體 thing I built: GPS on a 25MHz 486-SX
-- I can't stop thinking about Papua 新 Guinea
-- Tin: full-text search for Postgres
+- Claude Cowork and chat are now one Claude
 - Ask HN: What are you working on? (September 2026)
-- Scaling Golang CI by Replacing actions/setup-go
-- Gemini 3.8 Live and 3.8 Live Extended Thinking
-- We do modern frequentist statistics: Using fake-data simulation
-- WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages
-- The Beauty of Roundabouts
-- AI Safety Is Mostly a Sex Cult
-- Jean-Pierre Serre turns 100
-- Show HN: I made a flight simulator, except you're just a passenger
-- A single firm is behind OpenAI, Anthropic, and Meta hacking scandals
-- 為什麼 I'm still bearish on LLMs after Navier-Stokes
-- Learning to solve hard problems in RL for LLMs by never giving up
-- Can we stop with the uptime percentages?
-- 25 years of mass surveillance is enough
-- Show HN: Hacking a $20 4G wireless hotspot into a texting device
-- CSS-Tricks in Limbo
-- DeepSeek v4.1 Flash Is Now Our 最佳 Hacking 模型
-- Paramount 'Leaks' Study Saying California Will Suffer If Its Merger Is Blocked
+- I can't stop thinking about Papua 新 Guinea
+- Learning 程式設計 in an Age of LLMs
+- Court Upholds Belgian Pirate DNS Blocking Order, OpenDNS Exit Looms
+- Original Sony PlayStation 2 安全 chip 'broken wide open' after 26 years
+- A Letter from a 機器學習 工程師
 
 
 ---
