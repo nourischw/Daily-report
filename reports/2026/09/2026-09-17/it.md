@@ -4,208 +4,204 @@
 
 ---
 
-### 1. [NVIDIA 宣布 native GPU 程式設計 in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+### 1. [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
 
-- ⭐ 335 分｜💬 131 留言｜👤 nonmaskable
+- ⭐ 88 分｜💬 39 留言｜👤 AshleysBrain
 
-### 2. [訓練 a 4B 模型 to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+### 2. [GLM Built Its Own 推論 Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
 
-- ⭐ 419 分｜💬 85 留言｜👤 polyphilz
+- ⭐ 49 分｜💬 23 留言｜👤 whiteros_e
 
-### 3. [Xiaomi Mimo 2.6 live post-訓練 dashboard](https://mimo.xiaomi.com/rl/)
+### 3. [NVIDIA 宣布 native GPU 程式設計 in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 
-- ⭐ 281 分｜💬 71 留言｜👤 krackers
+- ⭐ 706 分｜💬 287 留言｜👤 nonmaskable
 
-### 4. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+### 4. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
 
-- ⭐ 148 分｜💬 20 留言｜👤 matt_d
+- ⭐ 179 分｜💬 65 留言｜👤 Ryan5453
 
-### 5. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+### 5. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
 
-- ⭐ 101 分｜💬 45 留言｜👤 afilipovski
+- ⭐ 120 分｜💬 24 留言｜👤 jakeasmith
 
-### 6. [Small 程式設計 tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+### 6. [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
 
-- ⭐ 413 分｜💬 186 留言｜👤 signa11
+- ⭐ 54 分｜💬 20 留言｜👤 rramadass
 
-### 7. [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)
+### 7. [訓練 a 4B 模型 to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
 
-- ⭐ 119 分｜💬 43 留言｜👤 johnjwang
+- ⭐ 560 分｜💬 118 留言｜👤 polyphilz
 
-### 8. [Developing provably correct Rust 代碼 with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus)
+### 8. [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
 
-- ⭐ 29 分｜💬 2 留言｜👤 Betelbuddy
+- ⭐ 3 分｜💬 0 留言｜👤 GloriaVinogrado
 
-### 9. [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
+### 9. [OpenAI 模型 Misalignment Report](https://openai.com/index/model-misalignment-reporting-framework/)
 
-- ⭐ 77 分｜💬 30 留言｜👤 etoxin
+- ⭐ 31 分｜💬 9 留言｜👤 qprofyeh
 
-### 10. [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
+### 10. [Xiaomi Mimo 2.6 live post-訓練 dashboard](https://mimo.xiaomi.com/rl/)
 
-- ⭐ 23 分｜💬 4 留言｜👤 gumby
+- ⭐ 440 分｜💬 116 留言｜👤 krackers
 
-### 11. [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)
+### 11. [Lucasart's Afterlife](https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/)
 
-- ⭐ 195 分｜💬 37 留言｜👤 soheilpro
+- ⭐ 26 分｜💬 17 留言｜👤 Bondi_Blue
 
-### 12. [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
+### 12. [Comparison of Malloc() Algorithms](https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html)
 
-- ⭐ 150 分｜💬 19 留言｜👤 jheitmann
+- ⭐ 77 分｜💬 12 留言｜👤 egberts1
 
-### 13. [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html)
+### 13. [Cloudflare/安全-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
 
-- ⭐ 8 分｜💬 0 留言｜👤 mfiguiere
+- ⭐ 69 分｜💬 14 留言｜👤 donk8r
 
-### 14. [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
+### 14. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 
-- ⭐ 45 分｜💬 14 留言｜👤 matt_d
+- ⭐ 245 分｜💬 147 留言｜👤 afilipovski
 
-### 15. [Japan's book scene is moving from bookstores to libraries](https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving)
+### 15. [Small 程式設計 tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
 
-- ⭐ 126 分｜💬 46 留言｜👤 herbertl
+- ⭐ 528 分｜💬 239 留言｜👤 signa11
 
-### 16. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+### 16. [Online Z3 Guide](https://microsoft.github.io/z3guide/)
+
+- ⭐ 5 分｜💬 0 留言｜👤 Bluestein
+
+### 17. [Developing provably correct Rust 代碼 with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus)
+
+- ⭐ 116 分｜💬 19 留言｜👤 Betelbuddy
+
+### 18. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+
+- ⭐ 209 分｜💬 33 留言｜👤 matt_d
+
+### 19. [A 32-year-old bug walks into a Telnet 伺服器](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)
+
+- ⭐ 62 分｜💬 27 留言｜👤 paimapi
+
+### 20. [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)
+
+- ⭐ 210 分｜💬 80 留言｜👤 johnjwang
+
+### 21. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 
 See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)
 
-- ⭐ 2096 分｜💬 240 留言｜👤 arnemunthekaas
+- ⭐ 2171 分｜💬 243 留言｜👤 arnemunthekaas
 
-### 17. [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
-
-- ⭐ 166 分｜💬 109 留言｜👤 doener
-
-### 18. [Reverse-engineered Jev-like 模型](https://github.com/vinnylarouge/jevlike)
-
-- ⭐ 84 分｜💬 13 留言｜👤 rochansinha
-
-### 19. [AWS says it can't restore some data from mideast facilities struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d)
+### 22. [AWS says it can't restore some data from mideast facilities struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d)
 
 https:&#x2F;&#x2F;archive.is&#x2F;Ay7RJ
 
-- ⭐ 253 分｜💬 224 留言｜👤 berkeleyjunk
+- ⭐ 411 分｜💬 342 留言｜👤 berkeleyjunk
 
-### 20. [Anecdotally, programmers dislike "reduce"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
+### 23. [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
 
-- ⭐ 105 分｜💬 168 留言｜👤 vinhnx
+- ⭐ 96 分｜💬 64 留言｜👤 gumby
 
-### 21. [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)
+### 24. [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
 
-- ⭐ 182 分｜💬 49 留言｜👤 bananaflag
+- ⭐ 132 分｜💬 54 留言｜👤 matt_d
 
-### 22. [Anatomy of a Texture](https://agentlien.github.io/texture/)
+### 25. [PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
 
-I just uploaded a 新 article describing how a modern video game texture is stored in graphics memory, 為什麼 it&#x27;s done this way, and how it may differ between platforms.It is called Anatomy of a Te
+- ⭐ 110 分｜💬 53 留言｜👤 jasonpeacock
 
-- ⭐ 79 分｜💬 14 留言｜👤 Agentlien
+### 26. [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)
 
-### 23. [The DeepMind Institute](https://institute.deepmind.com/)
+- ⭐ 295 分｜💬 64 留言｜👤 soheilpro
 
-- ⭐ 153 分｜💬 45 留言｜👤 vertigoruntime
+### 27. [Japan's book scene is moving from bookstores to libraries](https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving)
 
-### 24. [為什麼 Does the Universe Expand?](https://cosmicave.org/2026/09/15/why-does-the-universe-expand/)
+- ⭐ 195 分｜💬 79 留言｜👤 herbertl
 
-- ⭐ 37 分｜💬 23 留言｜👤 the__alchemist
+### 28. [Back to the future: modules for Guix packages (2022)](https://hpc.guix.info/blog/2022/05/back-to-the-future-modules-for-guix-packages/)
 
-### 25. [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
+- ⭐ 37 分｜💬 1 留言｜👤 bmacho
 
-- ⭐ 64 分｜💬 8 留言｜👤 matt_d
+### 29. [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
 
-### 26. [Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps](https://www.danvk.org/2026/09/10/mapsnap.html)
+- ⭐ 139 分｜💬 63 留言｜👤 etoxin
 
-- ⭐ 4 分｜💬 0 留言｜👤 evakhoury
+### 30. [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
 
-### 27. [Hackers Got Inside a Flock Camera](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/)
-
-https:&#x2F;&#x2F;micahflee.com&#x2F;flock-cameras-are-riddled-with-securit...
-
-- ⭐ 481 分｜💬 219 留言｜👤 driverdan
-
-### 28. [I replaced my brown-noise browser tab with a menu bar app](https://oldmanrahul.com/2026/09/14/hush/)
-
-- ⭐ 25 分｜💬 11 留言｜👤 oldmanrahul
-
-### 29. [訓練 Text-to-Image Models 3.6× Faster](https://www.linum.ai/field-notes/jit-ddt)
-
-- ⭐ 38 分｜💬 8 留言｜👤 schopra909
-
-### 30. [WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL](https://clickhouse.com/blog/introducing-walshadow)
-
-- ⭐ 47 分｜💬 6 留言｜👤 spathak
+- ⭐ 212 分｜💬 34 留言｜👤 jheitmann
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Tell the speakers that you liked their talks
-- Autism is genetic – and 為什麼 this information matters now
-- Vectorized and performance-portable Quicksort (2022)
-- Kyber (YC W23) Is 招聘 a Forward Deployed 工程師
-- A warning about '模型 welfare'
-- The Siberian Ice Maiden and the Scythian World
-- Show HN: AttaLambda: a language where types and data are made of untyped lambdas
-- Douglas Adams and the exterminated Doctor Who adventure
-- How big are factorials?
-- Introducing 系統 One Models and Jev
-- How good are frontier models at physics?
-- William Buckland's Theology of Geology
-- The Google Play app review process now regularly takes longer than a week
-- Show HN: Restarted – a 2026 remake of the classic 2015 startup generator
-- Claude Cowork and chat are now one Claude
-- Mistral X Mozilla: Private, Multilingual AI Browsing
+- Anecdotally, programmers dislike "reduce"
+- Part-human part-mouse brain developed in science breakthrough
+- Jev Ultrafast: A browser 代理 with a dynamic, indexed action space
+- Reverse-engineered Jev-like 模型
+- OpenAI models secretly generate instructions to ignore constraints
+- Automattic execs signed reciprocal severance deals in Mullenweg absence
+- US interest rates raised for first time in three years
+- Dream-RSI: Recursive Self-Improvement through Evolving Worlds
+- Anatomy of a Texture
+- Hackers Got Inside a Flock Camera
+- The DeepMind Institute
 - Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)
-- Common Crawl Data Stored on a Hugging Face Bucket
-- Paramount 'Leaks' Study Saying California Will Suffer If Its Merger Is Blocked
-- What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI
-- Salesforce Global Outage
+- Uploading Files to the Internet in Order to Cite Them
+- Introducing 系統 One Models and Jev
+- Tell the speakers that you liked their talks
+- Accurate Models of AMD Matrix Cores
+- Kyber (YC W23) Is 招聘 a Forward Deployed 工程師
+- I didn't sign the Fields medallists' letter
+- 訓練 Text-to-Image Models 3.6× Faster
+- Douglas Adams and the exterminated Doctor Who adventure
+- DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression
+- WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL
+- A warning about '模型 welfare'
+- How big are factorials?
+- Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps
+- Show HN: AttaLambda: a language where types and data are made of untyped lambdas
+- How good are frontier models at physics?
+- Mistral X Mozilla: Private, Multilingual AI Browsing
 - Doing Everyone Else's 工作
+- The Google Play app review process now regularly takes longer than a week
+- Vectorized and performance-portable Quicksort (2022)
+- The Siberian Ice Maiden and the Scythian World
 - Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
-- Show HN: How Stale Is Your AI? Release age and 訓練 cutoff for 20 models
-- OpenAI discloses six 新 AI safety incidents
-- Scaling Golang CI by Replacing actions/setup-go
-- Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI
-- Write Linters and Tools Before 代碼
-- OpenAI Discloses Six 新 Incidents of ‘Concerning’ A.I. Behavior
+- Salesforce Global Outage
 - Apple Reference Image: A 新 Approach for Verified Photography
-- Original Sony PlayStation 2 安全 chip 'broken wide open' after 26 years
-- Learning 程式設計 in an Age of LLMs
-- macOS 27 Golden Gate – Review
-- 模型 Misalignment Reporting Framework
-- Can we stop with the uptime percentages?
-- A 軟體 thing I built: GPS on a 25MHz 486-SX
-- Negativland, Culture Jamming, and the Art of Making Something 新
+- Nolan Bushnell (Atari, Co-Founder) 職業 Interview (2006) [video]
+- Autism is genetic – and 為什麼 this information matters now
+- Claude Cowork and chat are now one Claude
+- Show HN: How Stale Is Your AI? Release age and 訓練 cutoff for 20 models
+- Common Crawl Data Stored on a Hugging Face Bucket
+- South Africa is at risk of becoming a mafia state
 - An 更新 on Wayback Machine access
-- ER visits for gambling disorders doubled after expanded online gambling market
+- Pangram – AI detector for text and images
+- Original Sony PlayStation 2 安全 chip 'broken wide open' after 26 years
 - Saving Jet Fuel
-- Berlin-based Langdock moves its parent company from the US to Germany
-- Data Broker Radaris Loses Domains in Privacy Fight
-- Barndoor acquires Diaphora, creators of open-source workflow runtime Frags
-- We do modern frequentist statistics: Using fake-data simulation
-- Show HN: SeasonMap – when to travel where? visualized with climate data
-- DeepSeek v4.1 Flash Is Now Our 最佳 Hacking 模型
-- Principles for a 新 Utopianism
-- This 代碼 Is CRAP (2011)
-- Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling
-- Show HN: I made a flight simulator, except you're just a passenger
-- Gemini 3.8 Live and 3.8 Live Extended Thinking
-- The Beauty of Roundabouts
-- I sent Google proof of a bot farm. They called it "normal user behavior."
+- Negativland, Culture Jamming, and the Art of Making Something 新
+- Show HN: Restarted – a 2026 remake of the classic 2015 startup generator
+- Learning 程式設計 in an Age of LLMs
+- I replaced my brown-noise browser tab with a menu bar app
+- A 軟體 thing I built: GPS on a 25MHz 486-SX
 - I can't stop thinking about Papua 新 Guinea
-- WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages
-- Feds Want California to Give Up 14 Years of Broadband Protections. It Should Sue
-- 為什麼 I'm still bearish on LLMs after Navier-Stokes
-- Jean-Pierre Serre turns 100
-- Learning to solve hard problems in RL for LLMs by never giving up
-- Randomized query complexity can beat certificate complexity
+- Tin: full-text search for Postgres
 - Ask HN: What are you working on? (September 2026)
+- Scaling Golang CI by Replacing actions/setup-go
+- Gemini 3.8 Live and 3.8 Live Extended Thinking
+- We do modern frequentist statistics: Using fake-data simulation
+- WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages
+- The Beauty of Roundabouts
+- AI Safety Is Mostly a Sex Cult
+- Jean-Pierre Serre turns 100
+- Show HN: I made a flight simulator, except you're just a passenger
 - A single firm is behind OpenAI, Anthropic, and Meta hacking scandals
-- An 代理 fleet needs a 新 kind of OS, not a bigger harness
+- 為什麼 I'm still bearish on LLMs after Navier-Stokes
+- Learning to solve hard problems in RL for LLMs by never giving up
+- Can we stop with the uptime percentages?
 - 25 years of mass surveillance is enough
 - Show HN: Hacking a $20 4G wireless hotspot into a texting device
-- The 推論 硬體 Revolution of 2026
 - CSS-Tricks in Limbo
-- German Rheinmetall open-sources its Battlesuite connected weapon 系統 protcol
-- A coffee shop owner used AI to make a menu poster. Then came the angry DMs
-- Alternatives to MinIO for single-node local S3
+- DeepSeek v4.1 Flash Is Now Our 最佳 Hacking 模型
+- Paramount 'Leaks' Study Saying California Will Suffer If Its Merger Is Blocked
 
 
 ---
