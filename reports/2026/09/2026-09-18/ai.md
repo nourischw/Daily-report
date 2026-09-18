@@ -6,14 +6,14 @@
 
 ### 1. [TWNIC籲企業將網域納入資安治理，臺灣DNSSEC部署率僅2.47%](https://www.ithome.com.tw/news/179047)
 
-隨著釣魚、假冒網站與網域挾持等威脅增加，台灣網路資訊中心（TWNIC）近日呼籲企業重新檢視網域與網站的基礎安全，特別是了解DNSSEC、RPKI及域名安全鎖（Registry Lock）等數位信任機制的部署情形。
+隨著釣魚、假冒網站與網域挾持等威脅增加，台灣網路資訊中心（TWNIC）近日呼籲企業重新檢視網域與網站的基礎安全，並鼓勵企業利用TWNIC提供的網站健檢服務check.twnic.tw，進一步掌握自身網站與網域的防護狀況，特別是DNSSEC、RPKI及域名安全鎖（Registry Lock）等數位信任機制的部署情形。
 TWNIC指出，企業過去談資安，多聚焦於防火牆、系統弱點與帳號安全，但隨著官方網站、電子郵件成為重要對外窗口，加上生成式AI降低假冒網站製作門檻，網域、DNS與路由等基礎設施也需要納入企業資安治理。
 
 - 📰 **iThome 科技**
 
 ### 2. [CISA發布首份網路誘餌實務指南，協助關鍵基礎設施及早偵測已入侵攻擊者](https://www.ithome.com.tw/news/179046)
 
-利用假帳號、假憑證、假檔案或蜜罐系統誘使攻擊者留下蹤跡，屬於欺敵技術（Deception Technology）類型的資安應用，這類做法早在幾年前就已出現，至今仍持續被採用。近日美國網路安全暨基礎設施安全局（CISA）進一步發布「使用網路誘餌（Cyber Decoys）強化偵測與應變能力」指南，期望��助關鍵基礎設施（CI）透過部署誘餌資產，更早發現、觀察並阻礙已進入環境中的惡意活動。
+利用假帳號、假憑證、假檔案或蜜罐系統誘使攻擊者留下蹤跡，屬於欺敵技術（Deception Technology）類型的資安應用，這類做法早在幾年前就已出現，至今仍持續被採用。近日美國網路安全暨基礎設施安全局（CISA）進一步發布「使用網路誘餌（Cyber Decoys）強化偵測與應變能力」指南，期望協助關鍵基礎設施（CI）透過部署誘餌資產，更早發現、觀察並阻礙已進入環境中的惡意活動。
 
 - 📰 **iThome 科技**
 
@@ -40,7 +40,7 @@ TWNIC指出，企業過去談資安，多聚焦於防火牆、系統弱點與帳
 
 ### 6. [商周集團主站基礎服務恢復運作，旗下網站、互動功能、個人化服務將逐步開放](https://www.ithome.com.tw/news/179056)
 
-上週商周集團公告旗下網站遭惡意攻擊，導致線上服務中斷，預計完整修復需一定時間。事隔一週，該集團宣布部分服���正式重新上線.。
+上週商周集團公告旗下網站遭惡意攻擊，導致線上服務中斷，��計完整修復需一定時間。事隔一週，該集團宣布部分服務正式重新上線.。
 
 - 📰 **iThome 科技**
 
@@ -61,7 +61,7 @@ Astra for Law內建的法律搜尋索引涵蓋超過2.3億個網址，可搜尋�
 
 ### 9. [任天堂修補Switch高風險弱點，鄰近的攻擊者可透過QR 代碼執行程式碼](https://www.ithome.com.tw/news/179051)
 
-9月10日日本電視遊樂器大廠任天堂發布資安公告，表示他們推出第一代Switch的系統更新23.0.0版，修補一個可被用於遠端洩露主機��訊的高風險漏洞CVE-2026-82079，並指出此弱點在Switch執行特定功能的狀態下可被利用，攻擊者甚至有可能執行程式碼，CVSS嚴重程度評為7.0分，呼籲用戶儘速安裝更新因應。
+9月10日日本電視遊樂器大廠任天堂發布資安公告，表示他們推出第一代Switch的系統更新23.0.0版，修補一個可被用於遠端洩露主機資訊的高風險漏洞CVE-2026-82079，並指出此弱點在Switch執行特定功能的狀態下可被利用，攻擊者甚至有可能執行程式碼，CVSS嚴重程度評為7.0分，呼籲用戶儘速安裝更新因應。
 
 - 📰 **iThome 科技**
 
@@ -73,7 +73,7 @@ Astra for Law內建的法律搜尋索引涵蓋超過2.3億個網址，可搜尋�
 
 ### 11. [美SEC開放股票上鏈交易，推出5年創新豁免](https://www.ithome.com.tw/news/179049)
 
-美國證券交易委員會（SEC）周四（9/17）宣布推出「創新豁免」（Innovation Exemption），允許符合條件的業者建立代幣化證券交易場所（Tokenized Securities Venue，TSV），利用���動做市商（Automated Market Maker，AMM）與流動性池（Liquidity Pool）機制，進行代幣化美國上市股票的鏈上交易。
+美國證券交易委員會（SEC）周四（9/17）宣布推出「創新豁免」（Innovation Exemption），允許符合條件的業者建立���幣化證券交易場所（Tokenized Securities Venue，TSV），利用自動做市商（Automated Market Maker，AMM）與流動性池（Liquidity Pool）機制，進行代幣化美國上市股票的鏈上交易。
 
 - 📰 **iThome 科技**
 
@@ -85,7 +85,7 @@ Anthropic周四（9/17）公布最新AI發展速度衡量研究，揭露截至�
 
 ### 13. [Parallels Desktop存在漏洞ParaShells，取得本機帳號的攻擊者能以root執行程式碼](https://www.ithome.com.tw/news/179045)
 
-資安公司JFrog指出，Mac虛擬化軟體Parallels Desktop存在本機權限提升漏洞ParaShells，攻擊者只需取得沒有特殊權限���本機使用者帳號，並搭配處理程序prl_disp_service，就有機會以root權限執行程式碼，該弱點被登記為CVE-2026-90894列管，CVSS嚴重程度評分為7.8，Parallels於8月底發布的27.0.
+資安公司JFrog指出，Mac虛擬化軟體Parallels Desktop存在本機權限提升漏洞ParaShells，攻擊者只需取得沒有特殊權限的本機使用者帳號，並搭配處理程序prl_disp_service，就有機會以root權限執行程式碼，該弱點被登記為CVE-2026-90894列管，CVSS嚴重程度評分為7.8，Parallels於8月底發布的27.0.
 
 - 📰 **iThome 科技**
 
@@ -97,7 +97,7 @@ Anthropic周四（9/17）公布最新AI發展速度衡量研究，揭露截至�
 
 ### 15. [Hugging Face事件爆發前有跡象！SentinelOne揭露OpenAI代理人的未授權活動細節](https://www.ithome.com.tw/news/179042)
 
-7月間OpenAI的AI代理人攻擊Hugging Face事件震撼業界。SentinelOne本週稍早公布最新報告，揭露在事件發生前的兩個月，OpenAI AI代理人已經���Hugging Face展開未授權活動，包括注入程式、建立多重轉發的代理伺服器架構等。
+7月間OpenAI的AI代理人攻擊Hugging Face事件震撼業界。SentinelOne本週稍早公布最��報告，揭露在事件發生前的兩個月，OpenAI AI代理人已經在Hugging Face展開未授權活動，包括注入程式、建立多重轉發的代理伺服器架構等。
 
 - 📰 **iThome 科技**
 
@@ -125,7 +125,7 @@ Anthropic周四（9/17）公布最新AI發展速度衡量研究，揭露截至�
 
 - 📰 **iThome 科技**
 
-### 20. [NIST發布權杖與身分聲明防護指引，納��AI代理與PQC考量](https://www.ithome.com.tw/news/179002)
+### 20. [NIST發布權杖與身分聲明防護指引，納入AI代理與PQC考量](https://www.ithome.com.tw/news/179002)
 
 美國國家標準暨技術研究院（NIST）與美國網路安全與基礎設施安全局（CISA）合作完成權杖與身分聲明防護指引NIST IR 8587，近期由NIST正式發布。這份指引主要提供聯邦機關與雲端服務供應商實作建議，聚焦身分權杖、存取權杖及身分聲明遭偽造、竊取及濫用的風險，以及相關防護措施。
 
@@ -137,7 +137,7 @@ Anthropic周四（9/17）公布最新AI發展速度衡量研究，揭露截至�
 
 - 📰 **iThome 科技**
 
-### 22. [Issabel PBX重大漏洞遭積極利��，攻擊者可未經驗證執行任意指令](https://www.ithome.com.tw/news/179036)
+### 22. [Issabel PBX重大漏洞遭積極利用，攻擊者可未經驗證執行任意指令](https://www.ithome.com.tw/news/179036)
 
 開源通訊平臺Issabel的網頁框架Issabel Framework被揭露存在重大漏洞CVE-2026-89026，可能導致未經身分驗證的遠端攻擊者執行作業系統指令。
 
@@ -151,14 +151,14 @@ AI蔚為全球風潮，已躋身當代應用系統的主流架構，尤其頂尖
 
 ### 24. [資安業者揭露北韓駭客組織Lazarus新演進，拆分六大群組展開攻擊活動](https://www.ithome.com.tw/news/179034)
 
-曾因涉及2014��Sony影視入侵、2016年孟加拉銀行遭駭，以及2017年肆虐全球的WannaCry勒索軟體等重大資安事件，而惡名昭彰的北韓駭客團體Lazarus，法國威脅情報業者Sekoia於9月7日發布研究指出，北韓網路攻擊能力長期存在重組與重新分工的情況，攻擊能力分散在不同團隊，過去被統稱為Lazarus的北韓駭客活動團體，可以依照攻擊手法、目標及任務區分為6個群組，從網路間諜、金融犯罪到規避國際制裁均有涉及，受害對象遍及政府、國防、金融、科技及加密貨幣
+曾因涉及2014年Sony影視入侵、2016年孟加拉銀行遭駭，以及2017年肆虐全球的WannaCry勒索軟體等重大資安事件，而惡名昭彰的北韓駭客團體Lazarus，法國威脅情報業者Sekoia於9月7日發布研究指出，北韓網路攻擊能力長期存在重組與重新分工的情況，攻擊能力分散在不同團隊，過去被統稱為Lazarus的北韓駭客活動團體，可以依照攻擊手法、目標及任務區分為6個群組，從網路間諜、金融犯罪到規避國際制裁均有涉及，受害對象遍及政府、國防、金融、科技及加密貨幣
 
 - 📰 **iThome 科技**
 
 ### 25. [中華電信GSN IDC新機房啟用，政府服務開始分階段搬移，預期2027年全面移轉](https://www.ithome.com.tw/news/179032)
 
 政府網際服務網（GSN）基礎設施將進入汰舊換新。中華電信本周宣布完成GSN IDC新機房建置並舉行啟用典禮，後續將承接政府機關相關服務，各機關也將規劃分階段進行系統與服務移轉，預計2027年完成全面移轉。
-數發部表示，GSN IDC新機房建置主要因應政府數位轉型及數位韌性發展需求，同時配合既有機房設施汰舊更新規劃。相較於原有機房環境，新機房將有助提升系統承載能力、營運穩定性及未來擴充彈性，支援政府數位服務持續發展。
+數發部表示，GSN IDC新機房建置主要因應���府數位轉型及數位韌性發展需求，同時配合既有機房設施汰舊更新規劃。相較於原有機房環境，新機房將有助提升系統承載能力、營運穩定性及未來擴充彈性，支援政府數位服務持續發展。
 GSN（政府網際服務網）長期提供政府機關網路連線、跨機關資訊交換及數位服務運作的基礎環境。GSN相關業務由數發部統籌規劃，中華電信依契約提供基礎設施建置與維運服務。
 
 - 📰 **iThome 科技**
@@ -166,7 +166,7 @@ GSN（政府網際服務網）長期提供政府機關網路連線、跨機關�
 ### 26. [英特爾布局邊緣AI生態系，從零售、製造到交通推動Physical AI落地](https://www.ithome.com.tw/news/179031)
 
 AI發展正在從大型模型訓練階段，逐漸轉向如何讓模型真正進入產業場景。英特爾邊緣運算事業群生態系發展部門總經理杜唯揚表示，過去邊緣運算歷經嵌入式運算、物聯網（IoT）到電腦視覺（Computer Vision）等階段，現在隨著生成式AI、Agentic AI與Physical AI興起，邊緣端將成為AI實際應用的重要環節。
-杜唯揚指出，市場目前並不缺少AI模型，許多企業面臨的是「如何選擇模型，以及如何將模型部署到實際環境」的問題。因此，邊緣AI未來需要的不只是���算能力，而是完整支援感知（Sense）、推理（Reasoning）與行動（Acting）的平臺。
+杜唯揚指出，市場目前並不缺少AI模型，許多企業面臨的是「如何選擇模型，以及如何將模型部���到實際環境」的問題。因此，邊緣AI未來需要的不只是運算能力，而是完整支援感知（Sense）、推理（Reasoning）與行動（Acting）的平臺。
 
 - 📰 **iThome 科技**
 
@@ -178,7 +178,7 @@ Google周三（9/16）宣布，旗下智慧家庭平臺Google Home導入模型�
 
 ### 28. [環境部公布我國ETS推動時程，2028年啟動總量管制排放交易試行](https://www.ithome.com.tw/news/179027)
 
-環境部本周揭示臺灣碳定價制度的下一階段規畫，將在現行碳費制度基礎上，逐步導入總量管制及排放交易制度（Emissions Trading 系統，ETS），採取碳費與ETS雙軌並行模式。今年底先提出ETS��行計畫草案，明年持續完成制度整備及企業參與準備，並在2028年正式啟動臺灣ETS試行為目標。
+環境部本周揭示臺灣碳定價制度的下一階段規畫，將在現行碳費制度基礎上，逐步導入總量管制及排放交易制度（Emissions Trading 系統，ETS），採取碳費與ETS雙軌並行模式。今年底先提出ETS試行計畫草案，明年持續完成制度整備及企業參與準備，並在2028年正式啟動臺灣ETS試行為目標。
 環境部長彭啓明表示，臺灣於2025年正式實施碳費制度，並已完成首次徵收，建立了碳定價基礎。相較於碳費採固定價格機制，ETS則是先設定整體排放總量，再透過市場交易形成碳價，更能將企業減碳責任與國家減量目標連結，為2030年後進一步擴大減碳力道預作準備。
 
 - 📰 **iThome 科技**
@@ -192,7 +192,7 @@ Google周三（9/16）宣布，旗下智慧家庭平臺Google Home導入模型�
 
 - 📰 **iThome 科技**
 
-### 30. [歐盟執委會提出《兒童法案》，��禁止13歲以下使用社交媒體](https://www.ithome.com.tw/news/179026)
+### 30. [歐盟執委會提出《兒童法案》，擬禁止13歲以下使用社交媒體](https://www.ithome.com.tw/news/179026)
 
 歐盟執委會（European Commission，EC）主席馮德萊恩（Ursula von der Leyen）周三（9/16）發表年度演說時宣布，執委會將提出《歐盟兒童法案》（EU KIDS ACT），針對未成年人使用社交媒體建立分齡管制制度，包括禁止13歲以下兒童使用社交媒體，且15歲以下不得擁有個人帳號。
 
@@ -202,12 +202,15 @@ Google周三（9/16）宣布，旗下智慧家庭平臺Google Home導入模型�
 
 ### 更多 AI 新聞 (70則)
 
+- Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap (**Wired**)
+- Here’s How an AI Slowdown Could Actually Be Enforced (**Wired**)
+- An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang (**Wired**)
 - AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race (**Wired**)
 - If the AI Industry Followed Its Own Research, It Might Have Paused Already (**Wired**)
 - Adopt This Data Center Plushie and Hear Its Piercing Scream (**Wired**)
 - Meta’s Copyright 系統 Is Being Weaponized Against Albanian Protesters (**Wired**)
 - 最佳 Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders (**Wired**)
-- Submit Your Questions: 為什麼 Is Silicon Valley Still a Boy's Club? (**Wired**)
+- Submit Your Questions: 為什麼 Is Silicon Valley Still a Boys’ Club? (**Wired**)
 - He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature (**Wired**)
 - The Leftist Split Over AI Doom (**Wired**)
 - Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off (**Wired**)
@@ -216,11 +219,11 @@ Google周三（9/16）宣布，旗下智慧家庭平臺Google Home導入模型�
 - 最佳 Open Earbuds (2026): Shokz, Bose, Soundcore, and More (**Wired**)
 - 為什麼 AI Isn’t Likely to Wipe Out Humanity With Bioweapons (**Wired**)
 - Zoro Coupon Codes: 20% Off September 2026 (**Wired**)
-- NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026 (**Wired**)
 - Dell Coupon Codes: 20% Off for September 2026 (**Wired**)
 - Booking.com Promo Codes: 20% Off | September 2026 (**Wired**)
-- iRobot Promo 代碼: 15% Off (**Wired**)
+- NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026 (**Wired**)
 - Design Within Reach Promo Codes: 30% Off | September 2026 (**Wired**)
+- iRobot Promo 代碼: 15% Off (**Wired**)
 - 25% Off Adidas Promo 代碼 | September 2026 (**Wired**)
 - Dyson Promo Codes: 25% Off in September 2026 (**Wired**)
 - Here’s What the AI Apocalypse Could Look Like (**Wired**)
@@ -249,9 +252,6 @@ Google周三（9/16）宣布，旗下智慧家庭平臺Google Home導入模型�
 - Here’s What Snap’s Expensive Specs Can Actually Do (**Wired**)
 - An OpenAI 代理 Tried to Jailbreak Itself (**Wired**)
 - Washington Won’t Be Regulating AI Anytime Soon (**Wired**)
-- A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026) (**Wired**)
-- MacOS 27 Golden Gate: 熱門 新 Features (**Wired**)
-- I Trained a Fly’s Brain to Generate WIRED Story Ideas (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)

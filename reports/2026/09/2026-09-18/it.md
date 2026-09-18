@@ -4,202 +4,214 @@
 
 ---
 
-### 1. [AI Protest in Montreal](https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/)
+### 1. [Android 17 is the first since 3.x to add 新 APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
 
-- ⭐ 41 分｜💬 36 留言｜👤 hmokiguess
+- ⭐ 116 分｜💬 41 留言｜👤 theanonymousone
 
-### 2. [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
+### 2. [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
 
-- ⭐ 115 分｜💬 15 留言｜👤 wek
+- ⭐ 408 分｜💬 187 留言｜👤 jcbhmr
 
-### 3. [I Vibed a Proof of Conway's Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
+### 3. [Apple releases iPhone Duo simulator and Xcode 27.1 beta](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes)
 
-- ⭐ 51 分｜💬 35 留言｜👤 m-hodges
+- ⭐ 43 分｜💬 10 留言｜👤 CameronBanga
 
-### 4. [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
+### 4. [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
 
-- ⭐ 23 分｜💬 17 留言｜👤 jcbhmr
+- ⭐ 48 分｜💬 6 留言｜👤 f311a
 
-### 5. [North Korean nuclear 測試 sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
+### 5. [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/)
+
+- ⭐ 108 分｜💬 32 留言｜👤 synack
+
+### 6. [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://arxiv.org/abs/2510.03215)
+
+- ⭐ 19 分｜💬 0 留言｜👤 rochansinha
+
+### 7. [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle)
+
+Hey HN, Henry from Cactus here.We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to mo
+
+- ⭐ 108 分｜💬 55 留言｜👤 HenryNdubuaku
+
+### 8. [OpenJev](https://openjev.com/)
+
+- ⭐ 471 分｜💬 230 留言｜👤 ilreb
+
+### 9. [The Implications of Linguistic Illegibility for 大型語言模型 安全](https://arxiv.org/abs/2609.02852)
+
+- ⭐ 15 分｜💬 6 留言｜👤 tomjakubowski
+
+### 10. [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
+
+- ⭐ 104 分｜💬 137 留言｜👤 ibobev
+
+### 11. [North Korean nuclear 測試 sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
 
 https:&#x2F;&#x2F;archive.is&#x2F;xjmvA
 
-- ⭐ 18 分｜💬 3 留言｜👤 rbanffy
+- ⭐ 147 分｜💬 121 留言｜👤 rbanffy
 
-### 6. [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
+### 12. [Our brain evolved from two primitive nervous systems that merged: Study](https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/)
 
-- ⭐ 26 分｜💬 12 留言｜👤 ibobev
+https:&#x2F;&#x2F;archive.is&#x2F;1CFX9https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-...
 
-### 7. [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
+- ⭐ 47 分｜💬 24 留言｜👤 Jimmc414
 
-- ⭐ 261 分｜💬 180 留言｜👤 LiamPowell
+### 13. [I vibed a proof of Conway's conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
 
-### 8. [BeanShell3 in Development](https://beanshell.github.io/home.html)
+https:&#x2F;&#x2F;github.com&#x2F;gaearon&#x2F;conway-refinement#為什麼-i-think-its...
 
-- ⭐ 8 分｜💬 3 留言｜👤 jimjag
+- ⭐ 159 分｜💬 153 留言｜👤 m-hodges
 
-### 9. [OpenJev](https://openjev.com/)
+### 14. [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
 
-- ⭐ 324 分｜💬 186 留言｜👤 ilreb
+- ⭐ 247 分｜💬 183 留言｜👤 realsarm
 
-### 10. [The Shadows Lurking in the Equations – Underwater Islands](https://gods.art/articles/equation_shadows)
+### 15. [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
 
-- ⭐ 37 分｜💬 6 留言｜👤 vismit2000
+- ⭐ 74 分｜💬 46 留言｜👤 mmh0000
 
-### 11. [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+### 16. [Show HN: Ax-check.com – Can agents use your product?](https://www.ax-check.com/)
 
-- ⭐ 371 分｜💬 350 留言｜👤 ethanhawksley
+I&#x27;m the co-founder of Gauge, and I built ax-check.com to quickly 測試 how well coding agents can onboard to your product.You&#x27;ll get a scorecard, specific suggested fixes, and three full codi
 
-### 12. [Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
+- ⭐ 18 分｜💬 16 留言｜👤 0x63_Problems
 
-- ⭐ 178 分｜💬 117 留言｜👤 saimiam
+### 17. [The first 新 cat species discovered in 100 years](https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years)
 
-### 13. [Cekura (YC F24) Is 招聘](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
+https:&#x2F;&#x2F;archive.ph&#x2F;cgMTM
+
+- ⭐ 44 分｜💬 13 留言｜👤 ohjeez
+
+### 18. [Inside ZCode: Silently uploading your Git history to the 雲端](https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/)
+
+- ⭐ 208 分｜💬 83 留言｜👤 csmantle
+
+### 19. [A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](https://www.hacktron.ai/blog/hacking-openai)
+
+- ⭐ 454 分｜💬 192 留言｜👤 Handy-Man
+
+### 20. [Minimal Phone 2](https://minimalcompany.com/)
+
+- ⭐ 90 分｜💬 87 留言｜👤 nashashmi
+
+### 21. [A search-and-推論 資料庫 from scratch in pure Zig](https://antfly.io/research/antfly-zig)
+
+- ⭐ 25 分｜💬 5 留言｜👤 kingcauchy
+
+### 22. [Cekura (YC F24) Is 招聘](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
 
 - ⭐ 1 分｜💬 0 留言｜👤 atarus
 
-### 14. [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+### 23. [How SpaceX streamlined the Raptor engine](https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor)
 
-- ⭐ 261 分｜💬 63 留言｜👤 gkfasdfasdf
+- ⭐ 80 分｜💬 7 留言｜👤 JumpCrisscross
 
-### 15. [NATS publishes preliminary report on technical incident of 8 September](https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/)
+### 24. [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/)
 
-- ⭐ 14 分｜💬 4 留言｜👤 asplake
+Meet Scry, a 500 TB NVMe internet index in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auc
 
-### 16. [構建 Faster Feedback Loops Using Qualitative User Research](https://blog.nseldeib.com/p/build-faster-feedback-loops-using)
+- ⭐ 30 分｜💬 12 留言｜👤 Xyra
 
-- ⭐ 4 分｜💬 0 留言｜👤 nadis
+### 25. [Warez: The Infrastructure and Aesthetics of Piracy (2021)](https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157)
 
-### 17. [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/)
+- ⭐ 46 分｜💬 5 留言｜👤 succinct_ideas
 
-- ⭐ 3 分｜💬 0 留言｜👤 ssaboum
+### 26. [Mathematicians 構建 Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/)
 
-### 18. [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
+- ⭐ 49 分｜💬 13 留言｜👤 ibobev
 
-- ⭐ 223 分｜💬 57 留言｜👤 dagmx
+### 27. [如何 Write with an 大型語言模型](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
 
-### 19. [ZCode, the GLM coding 代理, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
+- ⭐ 297 分｜💬 209 留言｜👤 joeriddles
 
-- ⭐ 227 分｜💬 51 留言｜👤 cdnsteve
+### 28. [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
-### 20. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+- ⭐ 309 分｜💬 80 留言｜👤 gkfasdfasdf
 
-- ⭐ 523 分｜💬 170 留言｜👤 JonSchneider
+### 29. [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
 
-### 21. [Astra for Law](https://openai.com/index/astra-for-law/)
+- ⭐ 665 分｜💬 652 留言｜👤 ethanhawksley
 
-- ⭐ 550 分｜💬 647 留言｜👤 vertigoruntime
+### 30. [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
 
-### 22. [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
-
-- ⭐ 611 分｜💬 507 留言｜👤 pluc
-
-### 23. [Mathematicians 構建 Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/)
-
-- ⭐ 6 分｜💬 0 留言｜👤 ibobev
-
-### 24. [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
-
-- ⭐ 101 分｜💬 52 留言｜👤 vquemener
-
-### 25. [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
-
-- ⭐ 555 分｜💬 278 留言｜👤 nicolas-siplis
-
-### 26. [Second Circuit Allows Government to Search Electronic Devices at the Border](https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion)
-
-- ⭐ 29 分｜💬 15 留言｜👤 HotGarbage
-
-### 27. [Subnormal floating-point numbers are expensive on Intel processors](https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/)
-
-- ⭐ 53 分｜💬 40 留言｜👤 zdw
-
-### 28. [Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)
-
-- ⭐ 292 分｜💬 102 留言｜👤 jjcm
-
-### 29. [When the fractional part of a float fixes your shader](https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/)
-
-- ⭐ 80 分｜💬 14 留言｜👤 vinhnx
-
-### 30. [如何 Write with an 大型語言模型](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-
-- ⭐ 255 分｜💬 171 留言｜👤 joeriddles
+- ⭐ 260 分｜💬 72 留言｜👤 dagmx
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- NATS publishes preliminary report on technical incident of 8 September
+- How did AMD Ryzen get 50% faster in two years?
+- Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him
+- The Shadows Lurking in the Equations – Underwater Islands
+- Replacing Pull Requests with Delta
+- GrassLobster: AI Agentic Generation of Parametric Geometry Workflows
+- AI chatbots are becoming experts at changing people's minds
+- BeanShell3 in Development
+- Bend 2 and the Vibe-Coding Trap
+- An empirical study of harness design for coding agents
+- Europe can lower emissions without deindustrializing, say researchers
 - Pre-Greek: The lost language hidden within Ancient Greek
-- NATS Major Incident Preliminary Investigation Report [pdf]
-- Rabbit Hole: Minimum L-seams
+- Second Circuit allows government to search electronic devices at the border
+- When the fractional part of a float fixes your shader
+- Anthropic finally adds AGENTS.md support to Claude 代碼
+- Microsoft exec called AI scraping 'the largest theft of labor in human history'
+- 構建 Faster Feedback Loops Using Qualitative User Research
+- Hooli billboard off of 101
+- Systemd is a suite of basic building blocks
+- Speaking with the Mind – Neuralink [video]
 - 新 wild cat species discovered – with only one known living member
-- OpenAI 'ethically hacked' with help of Anthropic's Claude chatbot
-- HEIF Heist: image parser RCE exploit
-- A heap overflow and SSO misconfiguration to compromise OpenAI internal repos
-- Shapelearn Qwen 3.8 27B (13.1 GB VRAM)
-- Dr Julius Neubronner's Miniature Pigeon Camera
-- Telstra outage: The night a 網絡 decided the year was 2006
-- Diplodocus, Long Thought Exclusively American, Turns Up in Spain
-- Flet 1.0 – 構建 cross-platform apps in Python
-- Ask A Monk – A digital wilderness for thoughts with no immediate answer
-- Show HN: Quokka – a self-hosting, deterministic 程式設計 language
-- AI is an elite crime spree
-- The most important product decision is what you don't 構建
-- With a Shovel of Salt: AI Success Stories and the Retraction Gap
-- 'My Husband Has No Friends'
-- Human brain is two separate organs, research finds
-- Hister: A private search engine for the pages you visit and the files you keep
 - Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+- Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
+- Diplodocus, Long Thought Exclusively American, Turns Up in Spain
+- Astra for Law
+- Singapore is paying people to read books – can it fix the reading crisis?
+- Hackers Used Anthropic's Claude to Break into OpenAI
+- We made Playwright 2x faster and 80% more token efficient
+- Subnormal floating-point numbers are expensive on Intel processors
+- Gov. Newsom signs executive order targeting AI safety 'before it's too late'
+- Flet 1.0 – 構建 cross-platform apps in Python
+- Hister: A private search engine for the pages you visit and the files you keep
+- Rabbit Hole: Minimum L-seams
+- The most important product decision is what you don't 構建
+- Qwen 3.8 Omni Flash
 - Wax motor
-- Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote
-- Speeding up gearhash on ARM64
-- Show HN: Navier-Stokes Visualized as 1kB i386 demos
-- CrowdSec Source 代碼 Leak
+- Shapelearn Qwen 3.8 27B (13.1 GB VRAM)
+- Telstra outage: The night a 網絡 decided the year was 2006
 - Fujitsu 推出 made-in-Japan next-generation CPU FUJITSU-MONAKA
-- The American Religion of Self-Storage Facilities
-- Show HN: Snapdrop: Instantly share files between devices. No setup, no signup
-- DJ Shadow looks back at "Entroducing" and other early work
-- How do we prevent mathemathics from devolving into the Medieval Era of secrecy?
-- How Uber Protects Against Retry Storms
-- India's Clean Energy Boom Halts Coal Power Growth
-- Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data
-- Inside ZCode: Silently Uploading Your Git History to the 雲端
-- Rate limits on GitLab.com are changing
-- Apple detectives solved mystery of ancient tree and rewrote the history of fruit
-- A curated list of 開源 projects used in nuclear science and engineering
-- TSMC revealing details about next gen A14 node
-- Show HN: Share your AI Setup, Learn from others
-- How SpaceX Streamlined the Raptor Engine
-- Fixing an NZXT Signal 4K30 part 2: the green/pink video bug
-- 為什麼 Does the Universe Expand?
-- US judge denies OpenAI bid to review X Corp's settlement with Apple
+- Ask A Monk – A digital wilderness for thoughts with no immediate answer
 - What Using AI Therapy Gets Wrong
-- Running Ubuntu on the Lenovo IdeaPad Duet
+- The American Religion of Self-Storage Facilities
+- DJ Shadow looks back at "Entroducing" and other early work
+- Stratasys awarded 27.6M in damages in first of 2 cases against bambu lab
+- Show HN: Snapdrop: Instantly share files between devices. No setup, no signup
+- Bend – a language that blocks AI mistakes via proof and runs on GPUs
+- Rate limits on GitLab.com are changing
+- Show HN: Microsoft Office running with Wine on Linux with no virtualization
+- Virginia governor creates an AI task force and moves to restrain data centers
+- Who's a Better Writer: A.I. Or Humans? NYTimes Quiz
+- How Uber Protects Against Retry Storms
+- Show HN: Share your AI Setup, Learn from others
 - NVIDIA 宣布 native GPU 程式設計 in Rust
+- My Thoughts on AI and LLMs
+- Trump says he is banning CNN, MSNOW and Politico from the White House
+- Apple detectives solved mystery of ancient tree and rewrote the history of fruit
+- TSMC revealing details about next gen A14 node
+- Dr Julius Neubronner's Miniature Pigeon Camera
+- Running Ubuntu on the Lenovo IdeaPad Duet
+- Speeding up gearhash on ARM64
 - Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents
-- 代碼 Scans
-- The Relation Between Mathematics and Physics by Paul Dirac (1939)
-- Khipu (Quipu) Field Guide
 - Better Icon and Label Alignment
-- 大型語言模型 Classification Is Feature Engineering
+- 為什麼 Does the Universe Expand?
 - Grand MS-DOS Gaming General MIDI Showdown
-- I Put Nam A2-Lite Inside an iRig HD X
-- How GLM built its own 推論 infrastructure
-- Researchers used Claude to hack OpenAI
-- André Weil and the Hodge Conjecture
-- 為什麼 I didn’t sign the Fields medallists’ letter
+- The Origins of Peanut Allergy
+- Khipu (Quipu) Field Guide
 - CCC invites all 模型 citizens to 40C3
-- The Return of Sail Power: Cargo Ships Are Turning Back to the Wind
-- Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo
-- Cloudflare/安全-Audit-Skill
-- 訓練 a 4B 模型 to produce 81% faster query plans than Postgres
-- OpenAI models secretly generate instructions to ignore constraints
-- T. Rex Had a Body Temperature of 97°F
-- Towards Self-Driving Codebases
-- Developing provably correct Rust 代碼 with Verus
-- One year of sponsored Servo development
-- Key Alzheimer's study cancelled amid Trump attacks on science
+- How GLM built its own 推論 infrastructure
+- 新 Species of Cat Discovered for First Time in a Century
+- OpenAI 'ethically hacked' with help of Anthropic's Claude chatbot
 
 
 ---
