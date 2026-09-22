@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [攻擊者利用假冒LastPass驗證器散布竊資程式Rapuncel，濫用微軟簽署驅動程���關閉防毒軟體](https://www.ithome.com.tw/news/179147)
+### 1. [攻擊者利用假冒LastPass驗證器散布竊資程式Rapuncel，濫用微軟簽署驅動程式關閉防毒軟體](https://www.ithome.com.tw/news/179147)
 
 密碼管理服務商LastPass與資安威脅情報業者Delphos Labs於8月13日發現假冒LastPass驗證器的駭客組織，並於9月17日公布調查結果，指出攻擊者以同一套基礎設施至少冒用40個軟體品牌，誘騙搜尋相關軟體的Windows使用者下載惡意程式。攻擊者透過SEO讓仿冒GitHub頁面出現在搜尋結果前列，下載連結再重新導向至攻擊者控制的伺服器。研究人員研判惡意程式載入器疑似來自Cruciferra的PUROSANGUE crypter，但尚無足夠證據確認攻擊者身分。
 
@@ -12,7 +12,7 @@
 
 ### 2. [AWS開源Strands Harness，預組代理最佳化設定降低詞元成本達28%](https://www.ithome.com.tw/news/179146)
 
-AWS開源AI代理專案Strands Agents發布Strands Harness，提供一套已預先配置的通用AI代理執行框架，開發者不必自行組合工具、記憶及上下文管理機制即可開始使用。官方使用相同Claude或GPT模型進行六項基準測試，Strands Harness相較Claude 代碼、Codex等代理框架詞元（Token）成本低28%���測試分數大致相近。
+AWS開源AI代理專案Strands Agents發布Strands Harness，提供一套已預先配置的通用AI代理執行框架，開發者不必自行組合工具、記憶及上下文管理機制即可開始使用。官方使用相同Claude或GPT模型進行六項基準測試，Strands Harness相較Claude 代碼、Codex等代理框架詞元（Token）成本低28%，測試分數大致相近。
 
 - 📰 **iThome 科技**
 
@@ -38,7 +38,7 @@ Rust開發者可將程式功能封裝成套件，透過官方套件登錄網站c
 ### 6. [【AI轉型實戰上篇】玉山銀行GENIE每月處理14億Token，模型調用成本不到5萬元](https://www.ithome.com.tw/news/179111)
 
 也可參考【AI轉型實戰下篇】玉山打造全行AI代理入口，首度揭露新一代GENIE關鍵Agentic技術框架
-今年9月底，玉山銀行即將推出第三代GENIE，作為內部統一AI入口，全面導入Agentic AI，要從AI輔助轉為人機協作，進一步邁向代理式銀行（Agentic Banking）願景發展。
+今年9月底，玉山銀行即將推出第三代GENIE，作為內部統一AI���口，全面導入Agentic AI，要從AI輔助轉為人機協作，進一步邁向代理式銀行（Agentic Banking）願景發展。
 
 - 📰 **iThome 科技**
 
@@ -53,7 +53,7 @@ Rust開發者可將程式功能封裝成套件，透過官方套件登錄網站c
 
 ### 8. [繼紐約後德州也踩煞車，暫停核發資料中心許可](https://www.ithome.com.tw/news/179138)
 
-美國德州州長Greg Abbott周一（9/21）下令暫停核發資料中心相關許可，在完成電網及用水稽核前，不得繼續核准相關開發案。使德州成為繼紐約之後，美國第二個暫停資料中心許可的州別。
+美國德州州長Greg Abbott周一（9/21）下令暫停核發資料中心相關許可，在完成電網及用水稽核前，不得繼續核准相關開發案。使德州成為繼紐約之後，美國第二個暫停資料中心許可的��別。
 
 - 📰 **iThome 科技**
 
@@ -65,7 +65,7 @@ Rust開發者可將程式功能封裝成套件，透過官方套件登錄網站c
 
 ### 10. [對抗使郵件呈現看似正常的新型內容混淆手法，網擎郵件安全閘道新增隱形字元偵測功能](https://www.ithome.com.tw/news/179091)
 
-9月初微軟發布警示，呼籲各界注意ASCII走私（ASCII Smuggling），因為這類手法在去年AI提示注入攻擊就已反覆出現，如今又擴展至網路釣魚郵件，攻擊者將同樣手法轉用於傳統釣魚郵件，單日高峰可達230萬封。
+9月初微軟發布警示，呼籲各界注意ASCII走私（ASCII Smuggling），因為這類手法���去年AI提示注入攻擊就已反覆出現，如今又擴展至網路釣魚郵件，攻擊者將同樣手法轉用於傳統釣魚郵件，單日高峰可達230萬封。
 
 - 📰 **iThome 科技**
 
@@ -77,7 +77,7 @@ Rust開發者可將程式功能封裝成套件，透過官方套件登錄網站c
 
 ### 12. [微軟Edge IE模式至少支援至2029年底，籲企業提前規畫轉型](https://www.ithome.com.tw/news/179126)
 
-微軟近日再��提醒，Edge的IE模式（IE Mode）至少支援至2029年底，呼籲企業管理員更新網頁或應用程式到最新技術。
+微軟近日再次提醒，Edge的IE模式（IE Mode）至少支援至2029年底，呼籲企業管理員更新網頁或應用程式到最新技術。
 Edge瀏覽器的IE模式（Internet Explorer Mode）是Microsoft Edge為了解決企業與舊版網頁相容性問題所設計的內建功能。它讓使用者能直接在Edge瀏覽器分頁中開啟需要為舊版Internet Explorer（IE）瀏覽器開發的舊版網站或內部系統。
 
 - 📰 **iThome 科技**
@@ -114,7 +114,7 @@ Google周一（9/21）連同5家品牌業者宣布整合Gemini Intelligence的�
 
 ### 18. [互動教學平臺Mathspace遭駭，逾107萬人個資外洩](https://www.ithome.com.tw/news/179116)
 
-隨著台灣各級學校陸續開學，學校及教育機構使用的數位教學與資訊系統也重新進入運作高峰期，系統內儲存的大量師生個資也成為資安防護的重要對象。近期澳洲互動式數學教學���臺Mathspace遭駭、逾百萬名使用者個資外洩，也凸顯教育服務業者及其後端資訊系統的資安風險。
+隨著台灣各級學校陸續開學，學校及教育機構使用的數位教學與資訊系統也重新進入運作高峰期，系統內儲存的大量師生個資也成為資安防護的重要對象。近期澳洲互動式數學教學平臺Mathspace遭駭、逾百萬名使用者個資外洩，也凸顯教育服務業者及其後端資訊系統的資安風險。
 
 - 📰 **iThome 科技**
 
@@ -126,7 +126,7 @@ Google周一（9/21）連同5家品牌業者宣布整合Gemini Intelligence的�
 
 ### 20. [歐盟公布資料中心共同評等制度，PUE、WUE納入A至G分級](https://www.ithome.com.tw/news/179113)
 
-生成式AI、高效能運算與雲端服務需求快速成長，使資料中心耗電與資源使用成為歐盟數位政策的重要議題。歐盟執委會本周公布資料中心共同評等制度（Common Union Rating Scheme for Data Centres），希望建立一套適用於歐盟各會員國的資料中心能源與永續表現評估方式，讓不同資料中心具備可比較性。
+生成式AI、高效能運算與雲端服務需求快速成長，使資料中心耗電與資源使用成為歐盟數位政策的重要議題。歐盟執委會本��公布資料中心共同評等制度（Common Union Rating Scheme for Data Centres），希望建立一套適用於歐盟各會員國的資料中心能源與永續表現評估方式，讓不同資料中心具備可比較性。
 
 - 📰 **iThome 科技**
 
@@ -148,7 +148,7 @@ Cloudflare旗下無伺服器運算平臺Workers的Python執行環境Python Worke
 
 - 📰 **iThome 科技**
 
-### 24. [資安公司CrowdSec坦承原始碼遭竊，疑與TanStack供應鏈攻擊有關](https://www.ithome.com.tw/news/179110)
+### 24. [資安公司CrowdSec坦承���始碼遭竊，疑與TanStack供應鏈攻擊有關](https://www.ithome.com.tw/news/179110)
 
 今年5月網頁應用程式框架TanStack遭遇NPM套件供應鏈攻擊，OpenAI、Grafana皆透露受到波及，近日有資安公司坦承，他們的GitHub儲存庫疑似因此發生資料外洩。
 
@@ -172,7 +172,7 @@ AWS更新Amazon Bedrock AgentCore Runtime，重新設計記憶體管理及啟動
 
 - 📰 **iThome 科技**
 
-### 28. [與中國駭客Red Heron有關的攻擊者滲透近1,000臺GS1900兆勤交換器，臺灣受害數量排名���3](https://www.ithome.com.tw/news/179106)
+### 28. [與中國駭客Red Heron有關的攻擊者滲透近1,000臺GS1900兆勤交換器，臺灣受害數量排名第3](https://www.ithome.com.tw/news/179106)
 
 美國網路安全與基礎設施安全局（CISA）於9月21日，將兆勤（Zyxel）GS1900系列交換器資安漏洞CVE-2026-7273列入已遭利用的漏洞名單（KEV），並要求聯邦機構緊急於3天內完成修補。
 
@@ -186,7 +186,7 @@ AWS更新Amazon Bedrock AgentCore Runtime，重新設計記憶體管理及啟動
 
 ### 30. [萬達寵物客戶傳出個資外洩](https://www.ithome.com.tw/news/179103)
 
-上櫃寵物零售公司萬達寵物（6968）在9月19日，於股市公開資訊觀測站發布重大訊息表示，該公司接獲客戶反映���疑似有第三人取得消費資料並透過電子郵件聯繫，初步研判可能涉及個資外洩，對此該公司已針對相關系統進行資料保存，並著手調查。
+上櫃寵物零售公司萬達寵物（6968）在9月19日，於股市公開資訊觀測站發布重大訊息表示，該公司接獲客戶反映，疑似有第三人取得消費資料並透過電子郵件聯繫，初步研判可能涉及個資外洩，對此該公司已針對相關系統進行資料保存，並著手調查。
 
 - 📰 **iThome 科技**
 
@@ -194,6 +194,8 @@ AWS更新Amazon Bedrock AgentCore Runtime，重新設計記憶體管理及啟動
 
 ### 更多 AI 新聞 (70則)
 
+- 如何 Claim Your Cut of Apple’s $250 Million Siri Settlement (**Wired**)
+- Rabbit Is Back, This Time With an AI 代理 App (**Wired**)
 - Viture’s Vonder Glasses Are Meant to Map Your Mind (**Wired**)
 - Adobe Premiere, One of the iPhone’s 最佳 Video-Editing Apps, Is Now on Android (**Wired**)
 - AI Models Built From Rat Brains Just Got Closer to Reality (**Wired**)
@@ -242,8 +244,6 @@ AWS更新Amazon Bedrock AgentCore Runtime，重新設計記憶體管理及啟動
 - Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening (**Wired**)
 - Tired of Cluttered Productivity Apps? This One’s Just a Text Document (**Wired**)
 - Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score (**Wired**)
-- An Editor’s Picks: The 最佳 Gifts for Bird Lovers (**Wired**)
-- Mathematicians Hate AI. They Can’t Quit It (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
