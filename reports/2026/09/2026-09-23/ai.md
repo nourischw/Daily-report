@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [行銷平臺Brevo高權限Cloudflare API金鑰遭竊，客戶網站被注入ClickFix惡意程式](https://www.ithome.com.tw/news/179189)
+### 1. [行銷平臺Brevo高權限Cloudflare API金鑰遭竊，客戶網站被注入ClickFix惡意程��](https://www.ithome.com.tw/news/179189)
 
 電子郵件行銷平臺Brevo發生供應鏈攻擊，攻擊者取得可控制Brevo Cloudflare帳號的API金鑰，在Cloudflare傳送網頁內容給訪客的過程中插入惡意JavaScript程式碼。使用Brevo表單、聊天元件等服務的客戶網站也受到影響，訪客可能看到ClickFix假驗證頁面，已登入WordPress管理員帳號的訪客還可能遭安裝攻擊者提供的外掛。Brevo記錄的整體影響時間約5個半小時。
 
@@ -16,7 +16,7 @@
 
 - 📰 **iThome 科技**
 
-### 3. [環境部與金管會聯手調整IFRS永續揭露準則，將強制適用企業縮減至560家、優先聚焦高排放與大型企業](https://www.ithome.com.tw/news/179184)
+### 3. [環境部與金管會聯手調整IFRS永續揭露準則，將強制適用企業縮減至560家、優先聚焦高排放與大��企業](https://www.ithome.com.tw/news/179184)
 
 金管會與環境部今天（9/23）共同宣布調整上市櫃公司接軌IFRS永續揭露準則的相關規定，在國家永續目標不變的前提下，參考歐盟及亞洲近期簡化永續揭露要求的趨勢，改採較符合企業準備程度的分層推動方式。此次的調整，強制適用IFRS永續揭露準則的上市櫃公司，將由原規劃約1,970家縮減至約560家，主要鎖定實收資本額20億元以上，以及受環境部納管、需進行溫室氣體盤查及查驗的企業。
 金管會表示，雖然強制適用的家數降低，但納入企業的市值仍占全體上市櫃公司逾87%，涵蓋資本市場主要企業。這次調整並非降低永續揭露要求，而是重新安排接軌順序，先協助大型企業建立符合國際準則的永續資訊揭露能力，再逐步推動其他企業提
@@ -25,7 +25,7 @@
 
 ### 4. [Check Point警告兩個重大漏洞遭積極利用](https://www.ithome.com.tw/news/179183)
 
-美國網路安全與基礎設施安全局（CISA）於9月22日表示，已掌握4個重大漏洞遭積極利用的情況，其中有兩個漏洞CVE-2026-85102、CVE-2026-93616存在於Check Point系統而受到關注。
+美國網路安全與基礎設施安全局（CISA）於9月22日表示，已掌握4個���大漏洞遭積極利用的情況，其中有兩個漏洞CVE-2026-85102、CVE-2026-93616存在於Check Point系統而受到關注。
 
 - 📰 **iThome 科技**
 
@@ -38,7 +38,7 @@ AI 領域最新動態。
 ### 6. [玉山AI轉型瞄準Agentic Banking，全面改造新一代AI代理平臺](https://www.ithome.com.tw/news/179148)
 
 2026年的玉山銀行，並不是第一次發起AI轉型。他們曾用資料探勘發掘大數據裡的細節，也押寶預測型AI、大力發展上百支應用。但這次，他們思考的是——AI能不能不只給答案，還真正完成一段工作？
-這是玉山現階段想實現的代理式銀行（Agentic Banking）。玉山金控科技長張智星、玉山銀行智能金融處副總工程師廖子慧日前受訪時揭露，使用者只需告訴自家AI平臺要完成什麼任務，系統就會理解需求，再把任務交給相應的代理執行；這套架構背後，則以記憶��、Skill與工具目錄（Tool Registry）和MCP閘道，串起模型、知識庫、工具和內部系統，銜接一段段的工作流程。
+這是玉山現階段想實現的代理式銀行（Agentic Banking）。玉山金控科技長張智星、玉山銀行智能金融處副總工程師廖子慧日前受訪時揭露，使用者只需告訴自家AI平臺要完成什麼任務，系統就會理解需求，再把任務交給相應的代理執行；這套架構背後，則以記憶庫、Skill與工具目錄（Tool Registry）和MCP閘道，串起模型、知識庫、工具和內部系統，銜接一段段的工作流程。
 
 - 📰 **iThome 科技**
 
@@ -50,7 +50,7 @@ Node.js專案發布Node.js 26.10.0，新增兩種函式呼叫控制能力，開�
 
 ### 8. [思科開源CAIRN工具，透過AI使用痕跡追蹤新型惡意程式](https://www.ithome.com.tw/news/179176)
 
-思科（Cisco）旗下資安研究團隊Talos周二（9/22）宣布開源AI惡意程式研究工具CAIRN，可透過AI提示詞、API端點及其他使用痕跡，搜尋、分類及追蹤整合AI功能的惡意程���，無須下載或執行惡意程式檔案即可進行初步分析。
+思科（Cisco）旗下資安研究團隊Talos周二（9/22）宣布開源AI惡意程式研究工具CAIRN，可透過AI提示詞、API端點及其他使用痕跡，搜尋、分類及追���整合AI功能的惡意程式，無須下載或執行惡意程式檔案即可進行初步分析。
 
 - 📰 **iThome 科技**
 
@@ -62,7 +62,7 @@ Node.js專案發布Node.js 26.10.0，新增兩種函式呼叫控制能力，開�
 
 ### 10. [重大食安事件催生數位治理改革，政院研議建立全國食品產品識別與跨部會資料交換機制](https://www.ithome.com.tw/news/179172)
 
-近期國內爆發的食用油品安全事件引發社會大眾的關注，暴露現行食品安全管理在數位治理上的不足。行政院長卓榮泰周二在食品安全會議上指出，政府除已提��《食品安全衛生管理法》部分條文修正草案外，也將推動食安數位治理改革，以資料整合與跨部會系統介接為核心，來提升食品安全管理及事件應變能力。
+近期國內爆發的食用油品安全事件引發社會大眾的關注，暴露現行食品安全管理在數位治理上的不足。行政院長卓榮泰周二在食品安全會議上指出，政府除已提出《食品安全衛生管理法》部分條文修正草案外，也將推動食安數位治理改革，以資料整合與跨部會系統介接為核心，來提升食品安全管理及事件應變能力。
 強化數位治理為食安法修法5大面向之一
 
 - 📰 **iThome 科技**
@@ -73,7 +73,7 @@ Node.js專案發布Node.js 26.10.0，新增兩種函式呼叫控制能力，開�
 
 - 📰 **iThome 科技**
 
-### 12. [【資安日報】9月23日，ShinyHunters傳駭入FBI，宣稱竊得���員個資及應徵者資料](https://www.ithome.com.tw/news/179171)
+### 12. [【資安日報】9月23日，ShinyHunters傳駭入FBI，宣稱竊得探員個資及應徵者資料](https://www.ithome.com.tw/news/179171)
 
 本日新聞焦點
 ● ShinyHunters傳駭入FBI，宣稱竊得探員個資及應徵者資料
@@ -139,7 +139,7 @@ OpenAI隨著快取和推論能力的提升，使其得以更低成本提供強�
 
 - 📰 **iThome 科技**
 
-### 22. [MongoDB修補14��漏洞，包含可能導致刪除資料與破壞記憶體的重大漏洞](https://www.ithome.com.tw/news/179159)
+### 22. [MongoDB修補14個漏洞，包含可能導致刪除資料與破壞記憶體的重大漏洞](https://www.ithome.com.tw/news/179159)
 
 資料庫軟體業者MongoDB於9月18日及19日陸續揭露並修補14個資安漏洞，包含兩個重大漏洞，涵蓋Mongoid、MongoDB C Driver及Entity Framework Core Provider等元件，使用者應依所採用元件升級至修補版本，其中Mongoid應更新至7.6.2、8.0.13、8.1.13、9.0.12或9.1.1以上版本，Windows平臺C Driver則應更新至1.30.11或2.5.4以上版本。
 
@@ -165,7 +165,7 @@ OpenAI隨著快取和推論能力的提升，使其得以更低成本提供強�
 
 ### 26. [60萬網站採用的WordPress行事曆外掛曝兩項重大RCE漏洞](https://www.ithome.com.tw/news/179153)
 
-資安業者Wordfence揭露WordPress行事��外掛The Events Calendar兩項重大遠端程式碼執行（RCE）漏洞。
+資安業者Wordfence揭露WordPress行事曆外掛The Events Calendar兩項重大遠端程式碼執行（RCE）漏洞。
 
 - 📰 **iThome 科技**
 
@@ -177,7 +177,7 @@ OpenAI隨著快取和推論能力的提升，使其得以更低成本提供強�
 
 ### 28. [F5揭露及修補已遭利用的BIG-IP APM重大漏洞](https://www.ithome.com.tw/news/179151)
 
-9月22日F5發布資安公告，指出BIG-IP元件Access Policy 經理（APM）在特定配置會下會受到資安漏���CVE-2026-94127影響，此為記憶體堆積緩衝區溢位類型的弱點，存在於將APM設置為OAuth授權伺服器的模式，當APM的存取政策與OAuth設定檔同時出現在虛擬伺服器，攻擊者就有機會利用惡意流量遠端執行任意程式碼（RCE），CVSS嚴重程度評為9.8分（CVSS v4.0為9.3分）。
+9月22日F5發布資安公告，指出BIG-IP元件Access Policy 經理（APM）在特定��置會下會受到資安漏洞CVE-2026-94127影響，此為記憶體堆積緩衝區溢位類型的弱點，存在於將APM設置為OAuth授權伺服器的模式，當APM的存取政策與OAuth設定檔同時出現在虛擬伺服器，攻擊者就有機會利用惡意流量遠端執行任意程式碼（RCE），CVSS嚴重程度評為9.8分（CVSS v4.0為9.3分）。
 
 - 📰 **iThome 科技**
 
@@ -189,7 +189,7 @@ OpenAI隨著快取和推論能力的提升，使其得以更低成本提供強�
 
 ### 30. [企業AI程式開發助手工作階段遭劫持，Shai-Hulud蠕蟲擴散至約百個內部程式碼儲存庫](https://www.ithome.com.tw/news/179145)
 
-Google旗下資安業者Mandiant揭露一起AI程式開發工具相關攻擊事件。���擊者入侵一家未具名的軟體即服務（SaaS）業者後，劫持開發人員正在使用的AI程式開發助手工作階段。這起攻擊最終讓Shai-Hulud蠕蟲擴散至約100個內部程式碼儲存庫。
+Google旗下資安業者Mandiant揭露一起AI程式開��工具相關攻擊事件。攻擊者入侵一家未具名的軟體即服務（SaaS）業者後，劫持開發人員正在使用的AI程式開發助手工作階段。這起攻擊最終讓Shai-Hulud蠕蟲擴散至約100個內部程式碼儲存庫。
 
 - 📰 **iThome 科技**
 
@@ -197,6 +197,9 @@ Google旗下資安業者Mandiant揭露一起AI程式開發工具相關攻擊事�
 
 ### 更多 AI 新聞 (70則)
 
+- AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot (**Wired**)
+- Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV (**Wired**)
+- The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs (**Wired**)
 - YouTube’s Custom Feeds Give You More Control Over the Algorithm (**Wired**)
 - Meta’s Muse AI 助手 Rolled Out With a Serious 安全 Flaw (**Wired**)
 - The 最佳 Samsung Phones of 2026: Ultra, Fold, Budget (**Wired**)
@@ -244,9 +247,6 @@ Google旗下資安業者Mandiant揭露一起AI程式開發工具相關攻擊事�
 - 1Password Coupon: Score a Free Trial in September 2026 (**Wired**)
 - Loop Earplugs Discount Codes: 40% Off (**Wired**)
 - Logitech Promo Codes and Deals: Up to $100 Off (**Wired**)
-- SelectBlinds Promo Codes &amp; Coupons: 10% Off (**Wired**)
-- T-行動 Promo Codes: 25% Off | September 2026 (**Wired**)
-- Acer Promo Codes: 40% Off (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
