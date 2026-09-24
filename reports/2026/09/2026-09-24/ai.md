@@ -24,7 +24,7 @@
 
 ### 4. [【資安週報】0921~0924，首屆「台灣資安日」登場，倡議從實體防災延伸至數位防災](https://www.ithome.com.tw/news/179217)
 
-適逢中秋連假前夕，本週最受矚目的資安焦點，莫過於中國駭客組織Red Heron近期的一連串攻擊，例如利用Gitea重大漏洞CVE-2026-60004發動攻擊，臺灣、加拿大、美國等多國組織受害，其中臺灣一���工業自動化業者更遭竊取數百個程式碼儲存庫；GreyNoise也揭露另一波利用兆勤（Zyxel）GS1900交換器漏洞CVE-2026-7273的攻擊，疑與Red Heron有關，全球996臺設備遭入侵，臺灣受害數量排名第三。
+適逢中秋連假前夕，本週最受矚目的資安焦點，莫過於中國駭客組織Red Heron近期的一連串攻擊，例如利用Gitea重大漏洞CVE-2026-60004發動攻擊，臺灣、加拿大、美國等多國組織受害，其中臺灣一家工業自動化業者更遭竊取數百個程式碼儲存庫；GreyNoise也揭露另一波利用兆勤（Zyxel）GS1900交換器漏洞CVE-2026-7273的攻擊，疑與Red Heron有關，全球996臺設備遭入侵，臺灣受害數量排名第三。
 
 - 📰 **iThome 科技**
 
@@ -36,7 +36,7 @@
 
 ### 6. [Next.js修補ImageResponse元件重大漏洞](https://www.ithome.com.tw/news/179215)
 
-9月22日Next.js開發團隊發布緊急安全更新，修補重大等級的遠端程式碼執行漏洞CVE-2026-94545，該弱點形成的原因與Next.js實作ImageResponse元件有關，在特定環境下，該元件採用的程式庫Satori會在生成SVG圖檔時出現逃逸的現象，而有可能導致攻擊者遠端執行程式碼，CVSS v4.0嚴
+9月22日Next.js開發團隊發布緊急安全更新，修補重大等級的遠端程式碼執行漏洞CVE-2026-94545，該弱點形成的原因與Next.js實作ImageResponse元件有關，在特定環境下，該元件採用的程式庫Satori會在��成SVG圖檔時出現逃逸的現象，而有可能導致攻擊者遠端執行程式碼，CVSS v4.0嚴
 
 - 📰 **iThome 科技**
 
@@ -48,7 +48,7 @@
 
 ### 8. [VS 代碼讓AI代理在遠端Dev Container執行，擴及SSH、Tunnel與WSL主機](https://www.ithome.com.tw/news/179212)
 
-微軟發布Visual Studio 代碼 1.139穩定版，擴充AI代理使用Dev Container的範圍，代理工作階段可在SSH、Tunnel與WSL主機上的Dev Container執行，使用專案容器內的工具與相依套件建置及測試程式。新版並改善大量代理工作階段的載入速度與管理介面。
+微軟發布Visual Studio 代碼 1.139穩定版，擴充AI代理使用Dev Container的範圍，代理工作階段可在SSH、Tunnel與WSL主機上的Dev Container執行，使用專���容器內的工具與相依套件建置及測試程式。新版並改善大量代理工作階段的載入速度與管理介面。
 
 - 📰 **iThome 科技**
 
@@ -63,7 +63,7 @@
 
 ### 10. [ChatGPT Voice升級，可用語音操作AI代理人](https://www.ithome.com.tw/news/179210)
 
-OpenAI周四（9/24）宣布升級ChatGPT Voice，除了支援GPT-6系列模型，也能透過語音使用外掛（Plugins），並整合ChatGPT Work，讓使用者直接以說話的方式交辦AI代理人執行工作，包括建立文件、簡報、網站及試算表，或操作瀏覽器完��複雜任務。新功能即日起陸續開放給全球用戶。
+OpenAI周四（9/24）宣布升級ChatGPT Voice，除了支援GPT-6系列模型，也能透過語音使用外掛（Plugins），並整合ChatGPT Work，讓使用者直接以說話的方式交辦AI代理人執行工作，包括建立文件、簡報、網站及試算表，或操作瀏覽器完成複雜任務。新功能即���起陸續開放給全球用戶。
 
 - 📰 **iThome 科技**
 
@@ -87,7 +87,7 @@ OpenAI周四（9/24）宣布升級ChatGPT Voice，除了支援GPT-6系列模型�
 
 ### 14. [駭客用3套AI工具大規模攻擊電商，竊取超過60萬筆信用卡資料](https://www.ithome.com.tw/news/179205)
 
-資安業者Gambit 安全揭露一波利用AI代理發動的大規模網路攻擊，攻擊者使用3套開源AI工具鎖定線上零售商，攻擊活動從7月延續至今，Gambit 安全發布報告時表示活動仍在進行。光是9月10日至15日就啟動105個攻擊專案，至少27家公司遭入侵，攻擊者還從兩家受害企業竊取超過60萬筆尚未到期的信用卡資料，並在多個電商網站植入信用卡資料竊取程式。
+資安業者Gambit 安全揭露一波利用AI代理發動的大規模網路攻擊，攻擊者使用3套開源AI工具鎖定線上零售商，攻擊活動從7月延續至今，Gambit 安全發布報告時表示活動仍在進行。光是9月10日至15日就啟動105個攻擊專案，至少27家公司遭入侵，攻擊者還��兩家受害企業竊取超過60萬筆尚未到期的信用卡資料，並在多個電商網站植入信用卡資料竊取程式。
 
 - 📰 **iThome 科技**
 
@@ -111,7 +111,7 @@ OpenAI周四（9/24）宣布升級ChatGPT Voice，除了支援GPT-6系列模型�
 
 ### 18. [Meta預覽AI裝置Muse Charm](https://www.ithome.com.tw/news/179199)
 
-Meta創辦人暨執行長祖克柏（Mark Zuckerberg）周三（9/23）在一年一度的Meta Connect技術發表大會上展示了（影片53分處）全新的AI裝置Muse Charm，它看起來就像是一個由錶面與掛繩組成的鑰匙圈，可與使用者即時語音交流，預計會在今年12月的聖誕���物季發售。
+Meta創辦人暨執行長祖克柏（Mark Zuckerberg）周三（9/23）在一年一度的Meta Connect技術發表大會上展示了（影片53分處）全新的AI裝置Muse Charm，它看起來就像是一個由錶面與掛繩組成的鑰匙圈，可與使用者即時語音交流，預計會在今年12月的聖誕購物季發售。
 
 - 📰 **iThome 科技**
 
@@ -135,7 +135,7 @@ GitLab將於10月19日起調整GitLab.com流量限制，Free方案與未經驗�
 
 ### 22. [微軟測試新的OneDrive依用量計費儲存方案](https://www.ithome.com.tw/news/179195)
 
-微軟目前正在測試，將為OneDrive新增依用量付費的（Pay-as-you-go，PAYG）計費服務。根據微軟的產品藍圖網頁，這項服務已在今年7月推出預覽版，預計11月正式上線。
+微軟目前正在測試，將為OneDrive新增依用量付費的（Pay-as-you-go，PAYG）計費服務。根據微軟的產品藍圖網頁，這項服務已在今年7月推出預覽版，預計11月正��上線。
 
 - 📰 **iThome 科技**
 
@@ -147,7 +147,7 @@ GitLab將於10月19日起調整GitLab.com流量限制，Free方案與未經驗�
 
 ### 24. [Red Hat OpenShift 4.22導入ML-KEM，下一步推進抗量子數位簽章ML-DSA](https://www.ithome.com.tw/news/179173)
 
-企業開源軟體業者Red Hat（紅帽）公布OpenShift的後量子密碼學（PQC）最新進展，OpenShift 4.22已預設支援模組格基式金鑰封裝機制（ML-KEM），讓支援相關能力的TLS 1.3連線可採用抗量子密碼演算法建立金鑰，降低攻擊者現在先擷取加密流量，未來再利用量子電腦解密的風險。
+企業開源軟體業者Red Hat（紅帽）公布OpenShift的後量子密碼學（PQC）最新進展，OpenShift 4.22已預設支援模組格基式金鑰封裝機制（ML-KEM），讓支援相關能力的TLS 1.3連線可採用抗量子密碼演算法建立金��，降低攻擊者現在先擷取加密流量，未來再利用量子電腦解密的風險。
 
 - 📰 **iThome 科技**
 
@@ -159,7 +159,7 @@ Google旗下資安業者Mandiant研究人員曾以臥底身分進入駭客組織
 
 ### 26. [NIST投入逾170萬美元培育資安人才，美國8州新增9項RAMPS計畫](https://www.ithome.com.tw/news/179152)
 
-美國國家標準暨技術研究院（NIST）於9月18日宣布，將投入超過170萬美元，在美國8州資助9項RAMPS資安人才培育計畫，透過地方雇主、教育機構及社群組織合作，培養符合當地需求的資安人才。
+美國國家標準暨技術研究院（NIST）於9月18日宣布，將投入超過170萬美元，在美國8州資助9項RAMPS資安人才培育計畫，透過地方雇主、教育機構及社群組織合作，培養符合當地需求���資安人才。
 
 - 📰 **iThome 科技**
 
@@ -183,8 +183,8 @@ Google旗下資安業者Mandiant研究人員曾以臥底身分進入駭客組織
 
 ### 30. [環境部與金管會聯手調整IFRS永續揭露準則，將強制適用企業縮減至560家、優先聚焦高排放與大型企業](https://www.ithome.com.tw/news/179184)
 
-金管會與環境部今天（9/23）共同宣布調整上市櫃公司接軌IFRS永續揭露準則的相關規定，在國家永續目標不變的前提下，參考歐盟及亞洲近期簡化永續揭露要求的趨勢，改採較符合企業準備程度的分層推動方式。此次的調整，強制適用IFRS永續揭露準則的上市櫃公司，將由原規劃約1,970家縮減至約560家，主要鎖定實收資本額20億元以上，以及受環境部納管、需進行溫室氣體盤查及查驗的企業。
-金管會表示，雖然強制適用的家數降低，但納入企業的市值仍占全體上市櫃公司逾87%，涵蓋資本市場主要企業。這次調整並非降低永續揭露要求，而是重新安排接軌順序，先協助大型企業建立符合國際準則的永續資訊揭露能力，再逐步推動其他企業提
+金管會與環境部今天（9/23）共同宣布調整上市櫃公司接軌IFRS永續揭露準則的相關規定，在國家永續目標不變的前提下，��考歐盟及亞洲近期簡化永續揭露要求的趨勢，改採較符合企業準備程度的分層推動方式。此次的調整，強制適用IFRS永續揭露準則的上市櫃公司，將由原規劃約1,970家縮減至約560家，主要鎖定實收資本額20億元以上，以及受環境部納管、需進行溫室氣體盤查及查驗的企業。
+金管會表示，雖然強制適用的家數降低，但納入企業的市值仍占全體上市櫃公司逾87%，涵蓋資本市場主要企業。這次調整並非降低永續揭露要求，而是重新安排接軌順序，先協助大型企業建立符合國際準則的永續資訊揭露能力，再逐步推動其他企業
 
 - 📰 **iThome 科技**
 
@@ -192,7 +192,9 @@ Google旗下資安業者Mandiant研究人員曾以臥底身分進入駭客組織
 
 ### 更多 AI 新聞 (70則)
 
-- An OpenAI 代理 Hacked Australia's Health Service. Their Government Found Out Months Later. (**Wired**)
+- Google’s Gemini Can Now Make Calls for You on Pixel Phones (**Wired**)
+- Bose Ultra Open Earbuds Are $100 Off Right Now (**Wired**)
+- An OpenAI 代理 Hacked Australia’s Health Service. Their Government Found Out Months Later (**Wired**)
 - SeaWorld Wants to Make You Horny (**Wired**)
 - The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out 為什麼 (**Wired**)
 - 為什麼 This Weekend’s Nor’easter Is Like a Hurricane (**Wired**)
@@ -213,7 +215,7 @@ Google旗下資安業者Mandiant研究人員曾以臥底身分進入駭客組織
 - Vitamix Promo Codes and Deals: $25 Off + Free Shipping (**Wired**)
 - Meta Pinky Promises Its Smart Glasses Will Be Private Soon (**Wired**)
 - Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices (**Wired**)
-- A US-China AI Hotline Won't Be Ready For a While (**Wired**)
+- A US-China AI Hotline Won’t Be Ready for a While (**Wired**)
 - AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot (**Wired**)
 - Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV (**Wired**)
 - The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs (**Wired**)
@@ -237,11 +239,9 @@ Google旗下資安業者Mandiant研究人員曾以臥底身分進入駭客組織
 - LG Promo Codes and Coupons for September 2026 (**Wired**)
 - Nomad Goods Promo Codes: Get 25% Off in September 2026 (**Wired**)
 - Valvoline Coupons and Promo Codes for September 2026 (**Wired**)
-- Ray-Ban Promo Codes: Save 50% in September 2026 (**Wired**)
 - 30% Off Canon Promo Codes | September 2026 (**Wired**)
+- Ray-Ban Promo Codes: Save 50% in September 2026 (**Wired**)
 - Hostinger Promo 代碼: 79% Off for September 2026 (**Wired**)
-- Squarespace Promo Codes: 20% Off in September 2026 (**Wired**)
-- AT&amp;T Promo Codes: $50 Off This September 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
