@@ -4,200 +4,214 @@
 
 ---
 
-### 1. [F-Droid 2.0: A 新 Chapter for Android Freedom](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+### 1. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
 
-- ⭐ 163 分｜💬 45 留言｜👤 daveoc64
+- ⭐ 696 分｜💬 200 留言｜👤 daveoc64
 
-### 2. [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)
+### 2. [Show HN: Make cursed fonts like Times 新 Bastard](https://bastardica.mitpit.com)
 
-- ⭐ 71 分｜💬 19 留言｜👤 phatak-dev
+A joke tool that abuses OpenType&#x27;s ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.
 
-### 3. [The science of Monkey Island: can grog dissolve a metal mug that fast?](https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/)
+- ⭐ 249 分｜💬 41 留言｜👤 MitPitt
 
-- ⭐ 53 分｜💬 8 留言｜👤 zdw
+### 3. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful 軟體 design](https://github.com/devdotfast/whiteboard)
 
-### 4. [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich)
+Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard, an open-source desktop app where humans and agents can architect 軟體 together in a common workspace. Here’s our repo: https:&#
 
-- ⭐ 107 分｜💬 46 留言｜👤 NaOH
+- ⭐ 129 分｜💬 49 留言｜👤 sidharthkmenon
 
-### 5. [Disney+ and Hulu raise prices by up to 13 percent after doubling profits](https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/)
+### 4. [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)
 
-- ⭐ 69 分｜💬 46 留言｜👤 Brajeshwar
+- ⭐ 109 分｜💬 18 留言｜👤 verdagon
 
-### 6. [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
+### 5. [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)
 
-- ⭐ 163 分｜💬 85 留言｜👤 pillars
+- ⭐ 148 分｜💬 134 留言｜👤 an0malous
 
-### 7. [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+### 6. [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
 
-- ⭐ 557 分｜💬 232 留言｜👤 aaronday
+- ⭐ 23 分｜💬 4 留言｜👤 benbreen
 
-### 8. [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+### 7. [My weird 新 hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/)
 
-- ⭐ 306 分｜💬 352 留言｜👤 signa11
+- ⭐ 128 分｜💬 46 留言｜👤 ahmedhossamdev
 
-### 9. [Japanese used bookstores see 5x sales surge as books are being bought by the ton](https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities)
+### 8. [The forgotten battle of East Lansing](https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/)
 
-- ⭐ 45 分｜💬 22 留言｜👤 speckx
+- ⭐ 63 分｜💬 6 留言｜👤 rmason
 
-### 10. [Claude discovers a novel enzyme 系統 with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+### 9. [Book review: Is parallel 程式設計 hard, and, if so, what can you do about it?](https://ahelwer.ca/post/2026-09-21-concurrency-textbook/)
 
-- ⭐ 741 分｜💬 740 留言｜👤 raahelb
+- ⭐ 57 分｜💬 13 留言｜👤 ahelwer
 
-### 11. [Tutoring company tells parents to save their money and 'use AI instead'](https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r)
+### 10. [為什麼 is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
 
-- ⭐ 32 分｜💬 34 留言｜👤 theanonymousone
+- ⭐ 117 分｜💬 91 留言｜👤 jbotz
 
-### 12. [RAM: the forgotten history (2024)](https://blog.coredump.cx/p/memory-the-forgotten-history)
+### 11. [Stable (YC W20) Is 招聘 Product Engineers](https://www.usestable.com/careers/product-engineer)
 
-- ⭐ 85 分｜💬 2 留言｜👤 Luc
+- ⭐ 1 分｜💬 0 留言｜👤 collinpham
 
-### 13. [最佳 大型語言模型 for every budget, updated daily](https://bestmodelforyourbudget.terrydjony.com/)
+### 12. [Sourcehut account takeover via 構建 logs (XSS in ansi2html)](https://blog.arusekk.pl/posts/srht-account-takeover/)
 
-- ⭐ 114 分｜💬 72 留言｜👤 terryds
+- ⭐ 16 分｜💬 1 留言｜👤 arusekk
 
-### 14. [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+### 13. [Google’s Project Suncatcher to put ML infrastructure in space](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/)
 
-- ⭐ 271 分｜💬 32 留言｜👤 JohnHammersley
+https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;24&#x2F;technology&#x2F;Google-suncatc... (https:&#x2F;&#x2F;archive.ph&#x2F;BGFnP)
 
-### 15. [什麼是 RLCD? The Secret Behind Jev](https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/)
+- ⭐ 54 分｜💬 92 留言｜👤 xnx
 
-- ⭐ 20 分｜💬 1 留言｜👤 tnspacetime
+### 14. [Forging 1024-bit RSA signatures in nearly SNFS time [pdf]](https://eprint.iacr.org/2026/2131.pdf)
 
-### 16. [OpenAI 代理 hacked Australian government website, PM says](https://www.bbc.com/news/live/cvgl73pxgndwt)
+https:&#x2F;&#x2F;arstechnica.com&#x2F;安全&#x2F;2026&#x2F;09&#x2F;theres-a-新-way-to...
 
-- ⭐ 236 分｜💬 166 留言｜👤 rudy6912
+- ⭐ 35 分｜💬 5 留言｜👤 int0x29
 
-### 17. [The newest ESP32 can run Linux and it's getting close to a Raspberry Pi](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
+### 15. [Two-tier encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/)
 
-- ⭐ 142 分｜💬 56 留言｜👤 adunk
+- ⭐ 332 分｜💬 343 留言｜👤 ReturnoftheHack
 
-### 18. [When the Debugger Lies](https://danielmangum.com/posts/when-the-debugger-lies/)
+### 16. [Geothermal heat map of US hot springs](https://www.soakingsprings.com/hot-springs/geothermal-map)
 
-- ⭐ 42 分｜💬 14 留言｜👤 hasheddan
+- ⭐ 51 分｜💬 19 留言｜👤 armenarmen
 
-### 19. [Coulomb's law remains tricky to 測試 at home](https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test)
+### 17. [WaveDigger: Dig into wireless signals to discover their physical locations](https://github.com/christianrowlands/wavedigger)
 
-- ⭐ 12 分｜💬 8 留言｜👤 surprisetalk
+- ⭐ 72 分｜💬 11 留言｜👤 882542F3884314B
 
-### 20. [VSCode's SSH 代理 Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/)
+### 18. [Creatine uptake enhances antitumor immunity](https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4)
 
-- ⭐ 288 分｜💬 182 留言｜👤 Rapzid
+- ⭐ 118 分｜💬 141 留言｜👤 lormayna
 
-### 21. [Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection](https://macanorak.com/two-tier-encryption-in-the-uk/)
+### 19. [安全 auditing in the age of (good enough) AI](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/)
 
-- ⭐ 219 分｜💬 202 留言｜👤 ReturnoftheHack
+- ⭐ 40 分｜💬 1 留言｜👤 aray07
 
-### 22. [Meta takes down a critical video about Meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+### 20. [A Million Agents Is a Distributed 系統 Problem](https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem)
 
-- ⭐ 518 分｜💬 309 留言｜👤 pieterr
+- ⭐ 22 分｜💬 6 留言｜👤 tonychang430
 
-### 23. [Contrastive Language Models](https://contrastive-lm.notion.site/)
+### 21. [網頁-based IBM 1620 emulator and IPL-V from 1963](https://github.com/pkimpel/retro-1620)
 
-- ⭐ 132 分｜💬 38 留言｜👤 erichocean
+- ⭐ 44 分｜💬 11 留言｜👤 abrax3141
 
-### 24. [Owners mourn spoiled food after firmware 更新 bricks Samsung smart fridges](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
+### 22. [Early rogue AI 代理 activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
 
-- ⭐ 181 分｜💬 184 留言｜👤 nonfamous
+- ⭐ 216 分｜💬 196 留言｜👤 snikolaev
 
-### 25. [WaveDigger: Dig into wireless signals to discover their physical locations](https://github.com/christianrowlands/wavedigger)
+### 23. [Show HN: Treepeat – 代碼 similarity detection using Tree-sitter](https://github.com/dsummersl/treepeat)
 
-- ⭐ 3 分｜💬 0 留言｜👤 882542F3884314B
+treepeat is a tool that finds similarities in your codebase.Find duplicate 代碼 blocks meaningful to the language (classes&#x2F;functions), not just lines.Find near-duplicates: ignore whitespace, stri
 
-### 26. [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/)
+- ⭐ 35 分｜💬 1 留言｜👤 91awebsi
 
-- ⭐ 205 分｜💬 42 留言｜👤 doubletwoyou
+### 24. [Opus 5.5 is good at explainer videos](https://launchvideo.io)
 
-### 27. [The Year of Internal Tools](https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools)
+- ⭐ 3 分｜💬 1 留言｜👤 iacguy
 
-- ⭐ 46 分｜💬 11 留言｜👤 thecodemonkey
+### 25. [Nokia Design Archive (2025)](https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c)
 
-### 28. [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
+- ⭐ 199 分｜💬 107 留言｜👤 pillars
 
-- ⭐ 502 分｜💬 111 留言｜👤 avidly
+### 26. [August 27 TCRF DDoS Attack Postmortem](https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/)
 
-### 29. [Hackers influence ChatGPT and Gemini to direct users to scam centers](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)
+- ⭐ 7 分｜💬 0 留言｜👤 panic
 
-- ⭐ 86 分｜💬 26 留言｜👤 ArielSimon
+### 27. [Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun)
 
-### 30. [Virtio-nvgpu: Near-native NVIDIA GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
+Hi HN,I just open sourced the DSL that our harness in grep.AI uses to turn repeatable parts of 代理 work into workflows. You can combine tool calls, 代碼, Jev-powered 系統 one decisions for things 
 
-- ⭐ 140 分｜💬 56 留言｜👤 WanjohiRyan
+- ⭐ 31 分｜💬 3 留言｜👤 miguelrios
+
+### 28. [Motor Characterization for Small Running Robots (2016)](https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/)
+
+- ⭐ 19 分｜💬 0 留言｜👤 loughnane
+
+### 29. [Lambda MicroEgg](https://www.philipzucker.com/lambda_miller_egg/)
+
+- ⭐ 53 分｜💬 5 留言｜👤 philzook
+
+### 30. [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/)
+
+Air-gapped file encryption packed into a single, self-decrypting HTML page. Repo: https:&#x2F;&#x2F;github.com&#x2F;ApelegHQ&#x2F;ts-cms-ep-sfxI was inspired by self-extracting archives. I wanted to s
+
+- ⭐ 28 分｜💬 13 留言｜👤 emurlin
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Search – A small, fast WebKit browser for macOS
+- Mamdani is the most popular elected official in NYC: poll
+- GitHub has not removed malicious imitation 軟體 after 3 weeks
+- Experiencing writing at our recent Chinese calligraphy workshop
+- B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023)
+- The science of Monkey Island: can grog dissolve a metal mug that fast?
+- RAM: the forgotten history (2024)
+- 新 Jersey fines data center $1.1M after drone pics expose 62 gas generators
+- When the Debugger Lies
+- AI Workers' Inquiry 2026
+- Fixing the Portobello Police Station Clock
+- Contrastive Language Models
+- If you don't have the factories, you lose the expertise
+- The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
+- Linux support is coming to Snapdragon X2 series
+- AI safety is mostly a sex cult in Berkeley
 - 為什麼 'What's Opera, Doc?' looks like that
-- Women Who Sold Books Door to Door
-- Early rogue AI 代理 activity and attempts to hack found on urlquery.net
-- Making Tailscale Faster
-- Humans Are Reading Your ChatGPT Chats, Lawsuit Claims
-- Making portable my unportable transputer C compiler
+- Oracle cites 'force majeure' to shield itself on controversial data center
+- Coulomb's law remains tricky to 測試 at home
+- African elephants putatively self-medicate with medicinal plants
+- Ideas on modernizing the open-source desktop
+- The Year of Internal Tools
+- Claude discovers a novel enzyme 系統 with CRISPR-like repeats
+- Where's the Beef?: The lab-grown-meat revolution that wasn't
+- Show HN: Most Hated Tools
+- Hackers influence ChatGPT and Gemini to direct users to scam centers
+- Owners mourn spoiled food after firmware 更新 bricks Samsung smart fridges
+- Toyota is taking the Corolla electric
+- Tech leaders to UN: For sake of humanity, please control the AI tech we created
 - Mercury 2.5 大型語言模型 hits 770 tokens per second
+- Enjoy Every Sandwich
+- GPT-6 Sol is like GPT-5.6 Terra, GPT-6 Luna is like GPT-5.6 Asteroid
 - Meta VR Glasses
-- The Antennagate Q&A, which has never been available, has been posted today [video]
-- Automated optimization of a molecular simulation program
-- Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center
+- Making portable my unportable transputer C compiler
+- Women Who Sold Books Door to Door
+- ArXiv receives multiyear commitments to support it as an independent nonprofit
 - The mystery animal on an ancient god's head
 - A brief history of Windows scroll bar shortcuts
-- Unknown number of Texas voter registrations went unprocessed due to DPS error
-- QuestDB (YC S20) Is 招聘 a Sales 工程師
-- Solving for faster SHA-1 collision detection
-- Gemini 3.8 text-to-speech
+- 程式設計 Tutorials Are Dead
+- Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering
+- Apple iPhone 4 “Antennagate” Q&A (2010) [video]
+- The AI 構建-Out Is Becoming the Biggest Economic Bet in U.S. History
+- VSCode's SSH 代理 Is Bananas (2025)
 - GPT-6 Sol and Luna
+- Automated optimization of a molecular simulation program
 - Strands Harness
+- Gemini 3.8 text-to-speech
+- The "Windows XP Box" (2003)
+- Claude Opus 5.5
+- Europe Must Choose Between Power and Dependence
 - Radicle: Disclosure of Vulnerability in the 網絡 Protocol
-- Nori 大型語言模型: Achieving Over 1M tok / s
-- Search – A small, fast WebKit browser for macOS, by Office Commun
+- LinkedIn wins court order blocking mass scraping of user data
+- Solving for faster SHA-1 collision detection
+- Is A.I. Above the Law?
 - We just shipped support for the ugliest part of HTTP: Vary
+- 最佳 大型語言模型 for every budget, updated daily
 - LensVLM: Compressing long context as images, expanding only relevant pages
 - Italian parliament votes for return to nuclear energy
-- Claude Opus 5.5
 - Swap, ZRAM, Zswap and Hibernate on NixOS
-- Nesbox: A fast MicroVM with GPU sharing
-- 雲端 Agents Are Inevitable AI Prisons
 - I don't want the details
-- OpenAI breaches Medicare, Albanese reveals
-- The Curious Power of Punctuation
+- 雲端 Agents Are Inevitable AI Prisons
+- Making Tailscale Faster
 - Claude 代碼 reads AGENTS.md only when telemetry is on [fixed]
-- Feds Target AI Critics as "Foreign Agents"
+- OpenAI breaches Medicare, Albanese reveals
+- 什麼是 RLCD? The Secret Behind Jev
+- Meta takes down a critical video about Meta AI Glasses after filming at Meta
 - GPT-6 Astra has gained the ability to drive a car
-- Data liberation: Apache Kafka's native cluster mirroring
-- Starlink ground station in Poland hit by fire in suspected arson attack
-- Lambda MicroEgg
-- Jev Can't Be Calibrated
-- Jev in 25 Lines of Python
-- Seattle City Council votes to ban surveillance pricing in sale of groceries
+- The Curious Power of Punctuation
+- Feds Target AI Critics as "Foreign Agents"
 - Pentagon says overreliance on AI contributed to missile strike on Iran school
-- Tokens too cheap to meter
-- FLAWED's Flaws and What This Means for Industry Research
-- ReBarUEFI: Resizable BAR for almost any UEFI 系統
-- Novel Arbitrary Write in SQLite
-- Augustofaces: Pareidolia Fine Art
-- 28% of 工作 postings on company 職業 sites have been open over 90 days
-- Google Takes the A.I. Data Center Race to Outer Space
-- A refined phylochronology of the second plague pandemic in Western Eurasia
-- Show HN: Trader News – Hacker News for Finance
-- OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
-- Oracle sent 'force majeure' notice about data center project
-- Unreal 代理
-- Show HN: An open-source manufacturing ERP/MES/QMS
-- Stripe's Knowledge AI Platform
-- Once Claude can measure something, it can make it faster
-- Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes
-- Exfiltrate your Weights
-- OpenAI is well positioned to fast-follow Jev
-- Modern Object Pascal Introduction for Programmers – Castle Game Engine
-- AMD's random number generator can't generate a 0?
-- Data-only attacks are easier than you think (2024)
-- Obscura: VPN that can't log your activity
-- 網頁-based IBM 1620 emulator and IPL-V from 1963
-- Nuros – AI study tools from notes, PDFs, videos, and links
-- Katamari Object Library
-- MiMo v2.6
-- Apple has added persistent 'ads' to iOS, and it's driving users crazy
-- UK military jamming other nations' satellites to defend itself, BBC told
 
 
 ---
