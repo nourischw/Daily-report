@@ -4,206 +4,204 @@
 
 ---
 
-### 1. [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
+### 1. [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
 
-- ⭐ 235 分｜💬 95 留言｜👤 fjfaase
+- ⭐ 174 分｜💬 51 留言｜👤 yurivish
 
-### 2. [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+### 2. [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
 
-- ⭐ 73 分｜💬 26 留言｜👤 hugh4life
+- ⭐ 155 分｜💬 40 留言｜👤 alentred
 
-### 3. [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/)
+### 3. [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 
-- ⭐ 26 分｜💬 1 留言｜👤 iFreilicht
+- ⭐ 50 分｜💬 19 留言｜👤 sunils34
 
-### 4. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+### 4. [Classified Estimates Show the NSA Is Paying Billions to 測試 AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
 
-- ⭐ 1261 分｜💬 363 留言｜👤 daveoc64
+- ⭐ 53 分｜💬 28 留言｜👤 rdmuser
 
-### 5. [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
+### 5. [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
 
-- ⭐ 54 分｜💬 14 留言｜👤 safateam
+- ⭐ 180 分｜💬 80 留言｜👤 hugh4life
 
-### 6. [Special Projects (2016)](https://openai.com/index/special-projects/)
+### 6. [Allow Carriers on Planes](https://www.jefftk.com/p/allow-carriers-on-planes)
 
-- ⭐ 21 分｜💬 6 留言｜👤 vinhnx
+- ⭐ 125 分｜💬 131 留言｜👤 surprisetalk
 
-### 7. [Show HN: Make cursed fonts like Times 新 Bastard](https://bastardica.mitpit.com)
+### 7. [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/)
+
+- ⭐ 128 分｜💬 19 留言｜👤 iFreilicht
+
+### 8. [Jevmem – automatic project memory for Claude 代碼, built on Jev](https://github.com/Avinash-jetwani/jevmem)
+
+- ⭐ 5 分｜💬 0 留言｜👤 avinashjetwani
+
+### 9. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+
+- ⭐ 1375 分｜💬 396 留言｜👤 daveoc64
+
+### 10. [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
+
+- ⭐ 763 分｜💬 434 留言｜👤 fjfaase
+
+### 11. [Factorio that you can touch](https://factorio.com/blog/post/fff-447)
+
+- ⭐ 73 分｜💬 6 留言｜👤 ibobev
+
+### 12. [Gravity Seems Holographic. What Does That Mean for Reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
+
+- ⭐ 3 分｜💬 2 留言｜👤 ibobev
+
+### 13. [Boards of Casio](https://www.ambionix.com/blog/boards-of-casio/)
+
+- ⭐ 60 分｜💬 18 留言｜👤 fidotron
+
+### 14. [Show HN: Make cursed fonts like Times 新 Bastard](https://bastardica.mitpit.com)
 
 A joke tool that abuses OpenType&#x27;s ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.
 
-- ⭐ 716 分｜💬 95 留言｜👤 MitPitt
+- ⭐ 803 分｜💬 112 留言｜👤 MitPitt
 
-### 8. [The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy)
+### 15. [Amiga Screens: A Primer](https://www.datagubbe.se/amscr/)
 
-- ⭐ 7 分｜💬 1 留言｜👤 runeks
+- ⭐ 76 分｜💬 11 留言｜👤 msephton
 
-### 9. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful 軟體 design](https://github.com/devdotfast/whiteboard)
+### 16. [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
+
+- ⭐ 90 分｜💬 23 留言｜👤 safateam
+
+### 17. [Special Projects (2016)](https://openai.com/index/special-projects/)
+
+- ⭐ 62 分｜💬 36 留言｜👤 vinhnx
+
+### 18. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful 軟體 design](https://github.com/devdotfast/whiteboard)
 
 Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;), an open-source desktop app where humans and agents can architect 軟體 together in
 
-- ⭐ 320 分｜💬 118 留言｜👤 sidharthkmenon
+- ⭐ 364 分｜💬 126 留言｜👤 sidharthkmenon
 
-### 10. [為什麼 is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
+### 19. [The 測試](https://tante.cc/2026/09/24/the-test/)
 
-- ⭐ 422 分｜💬 215 留言｜👤 jbotz
+- ⭐ 92 分｜💬 24 留言｜👤 latexr
 
-### 11. [2DWillNeverDie](https://2dwillneverdie.com/)
+### 20. [為什麼 is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
 
-- ⭐ 252 分｜💬 56 留言｜👤 surprisetalk
+- ⭐ 499 分｜💬 255 留言｜👤 jbotz
 
-### 12. [Tech Needs Humanists More](https://passo.uno/tech-needs-humanists-more-than-ever/)
+### 21. [Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
 
-- ⭐ 62 分｜💬 64 留言｜👤 eigenBasis
+- ⭐ 25 分｜💬 15 留言｜👤 sbulaev
 
-### 13. [What About Rails?](https://jardo.dev/what-about-rails)
+### 22. [2DWillNeverDie](https://2dwillneverdie.com/)
 
-- ⭐ 69 分｜💬 27 留言｜👤 jrochkind1
+- ⭐ 291 分｜💬 72 留言｜👤 surprisetalk
 
-### 14. [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)
+### 23. [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)
 
-- ⭐ 264 分｜💬 37 留言｜👤 verdagon
+- ⭐ 393 分｜💬 421 留言｜👤 an0malous
 
-### 15. [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)
+### 24. [Opus 5.5 is good at explainer videos](https://launchvideo.io)
 
-- ⭐ 341 分｜💬 374 留言｜👤 an0malous
+- ⭐ 347 分｜💬 191 留言｜👤 iacguy
 
-### 16. [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)
+### 25. [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)
 
-- ⭐ 340 分｜💬 609 留言｜👤 cisc
+- ⭐ 393 分｜💬 703 留言｜👤 cisc
 
-### 17. [My weird 新 hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/)
+### 26. [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)
 
-- ⭐ 342 分｜💬 155 留言｜👤 ahmedhossamdev
+- ⭐ 289 分｜💬 47 留言｜👤 verdagon
 
-### 18. [Oracle on the hook to pay data centre investors even if site has no electricity](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016)
+### 27. [Patrick Boyle: The Copy-Paste Professor](https://www.youtube.com/watch?v=Za5IfIbWNEk)
 
-- ⭐ 11 分｜💬 5 留言｜👤 Betelbuddy
+- ⭐ 11 分｜💬 7 留言｜👤 galkk
 
-### 19. [Opus 5.5 is good at explainer videos](https://launchvideo.io)
+### 28. [My weird 新 hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/)
 
-- ⭐ 281 分｜💬 141 留言｜👤 iacguy
+- ⭐ 385 分｜💬 169 留言｜👤 ahmedhossamdev
 
-### 20. [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
+### 29. [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
 
-- ⭐ 136 分｜💬 29 留言｜👤 benbreen
+- ⭐ 9 分｜💬 0 留言｜👤 cramer4next
 
-### 21. [Google’s Project Suncatcher to put ML infrastructure in space](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/)
+### 30. [Topcoat is pushing the boundary of 伺服器 applications with Rust](https://tokio.rs/blog/2026-09-24-topcoat-server-applications)
 
-https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;24&#x2F;technology&#x2F;Google-suncatc... (https:&#x2F;&#x2F;archive.ph&#x2F;BGFnP)
-
-- ⭐ 190 分｜💬 383 留言｜👤 xnx
-
-### 22. [Two-tier encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/)
-
-- ⭐ 464 分｜💬 409 留言｜👤 ReturnoftheHack
-
-### 23. [Uproar in France over award-winning author accused of using AI](https://www.bbc.com/news/articles/ck7v4y45893go)
-
-- ⭐ 5 分｜💬 0 留言｜👤 harscoat
-
-### 24. [Writing Parquet files using Haskell](https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html)
-
-- ⭐ 67 分｜💬 18 留言｜👤 cosmic_quanta
-
-### 25. [Book review: Is parallel 程式設計 hard, and, if so, what can you do about it?](https://ahelwer.ca/post/2026-09-21-concurrency-textbook/)
-
-- ⭐ 125 分｜💬 56 留言｜👤 ahelwer
-
-### 26. [Sourcehut account takeover via 構建 logs (XSS in ansi2html)](https://blog.arusekk.pl/posts/srht-account-takeover/)
-
-- ⭐ 121 分｜💬 23 留言｜👤 arusekk
-
-### 27. [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
-
-- ⭐ 90 分｜💬 48 留言｜👤 neonate
-
-### 28. [The Bayeux Tapestry: Woven by the Victors](https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors)
-
-- ⭐ 35 分｜💬 15 留言｜👤 prismatic
-
-### 29. [Nokia Design Archive (2025)](https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c)
-
-- ⭐ 236 分｜💬 128 留言｜👤 pillars
-
-### 30. [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
-
-- ⭐ 249 分｜💬 664 留言｜👤 idbnstra
+- ⭐ 92 分｜💬 75 留言｜👤 sagacity
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- WaveDigger: Dig into wireless signals to discover their physical locations
-- Show HN: Air-gapped file encryption as self-decrypting HTML page
-- The forgotten battle of East Lansing
+- Two-tier encryption in the UK
+- Using LLMs to trace alchemical knowledge and decode 17th century letters
 - Stable (YC W20) Is 招聘 Product Engineers
-- Amiga Screens: A Primer
+- What About Rails?
+- Google’s Project Suncatcher to put ML infrastructure in space
+- Oracle on the hook to pay data centre investors even if site has no electricity
+- Show HN: Agentic CUDA Kernel Optimizer
+- The Mafia may be keeping fentanyl out of Italy
+- Writing Parquet files using Haskell
+- I'm Tired of Being on the 網絡
+- Nokia Design Archive (2025)
+- Book review: Is parallel 程式設計 hard, and, if so, what can you do about it?
+- The Board Game of the Alpha Nerds (2014)
+- Sourcehut account takeover via 構建 logs (XSS in ansi2html)
+- WaveDigger: Dig into wireless signals to discover their physical locations
+- The Age of Personalized 硬體
+- California is chasing wealth that has feet
 - Geothermal heat map of US hot springs
-- Running local LLMs on your Mac: what fits, what's free, and what's overkill
+- The forgotten battle of East Lansing
+- 'That's so AI ' What gen Alpha's biggest insult tells us
+- The Bayeux Tapestry: Woven by the Victors
 - Tutoring company tells parents to save their money and 'use AI instead'
+- Fixing the Portobello Police Station Clock
+- Starcraft Brood War self-play RL bot beats strong human [video]
 - Forging 1024-bit RSA signatures in nearly SNFS time [pdf]
+- Show HN: Air-gapped file encryption as self-decrypting HTML page
+- An SR-71 Blackbird Has Vanished (Updated)
 - Show HN: Koi.rest – watch some fish and regain your balance
 - 安全 auditing in the age of (good enough) AI
-- 'That's so AI ' What gen Alpha's biggest insult tells us
 - Motor Characterization for Small Running Robots (2016)
-- Fixing the Portobello Police Station Clock
-- The Appocalypse
-- Show HN: AgentRun: DSL to turn agents into workflows
-- 網頁-based IBM 1620 emulator and IPL-V from 1963
 - Early rogue AI 代理 activity and attempts to hack found on urlquery.net
-- Netanyahu calls Israel's war in Gaza 'opposite of genocide' in UN speech
-- Show HN: Treepeat – 代碼 similarity detection using Tree-sitter
-- Show HN: Avoid smooth spinners, use low-FPS spinners
-- Linux support is coming to Snapdragon X2 series
-- Docker releases 雲端 sandboxes, enabling safe agentic workloads in the 雲端
 - MentalHealthBench
-- Contrastive Language Models
+- Linux support is coming to Snapdragon X2 series
 - Claude discovers a novel enzyme 系統 with CRISPR-like repeats
+- 網頁-based IBM 1620 emulator and IPL-V from 1963
+- Contrastive Language Models
 - 為什麼 'What's Opera, Doc?' looks like that
+- Show HN: AgentRun: DSL to turn agents into workflows
+- Nobody Asked for a Crab Chair
+- Show HN: Treepeat – 代碼 similarity detection using Tree-sitter
 - Owners mourn spoiled food after firmware 更新 bricks Samsung smart fridges
-- Biology Might Not Be Quantum, but Its Math Is Quantumlike
 - RAM: the forgotten history (2024)
-- GitLab Outage
-- Ideas on modernizing the open-source desktop
-- Creatine uptake enhances antitumor immunity
-- Search – A small, fast WebKit browser for macOS
-- When the Debugger Lies
+- Theranos founder reportedly to be transferred to halfway home next year
 - GPT-6 Sol and Luna
-- Lambda MicroEgg
-- Where's the Beef?: The lab-grown-meat revolution that wasn't
-- A brief history of Windows scroll bar shortcuts
-- August 27 TCRF DDoS Attack Postmortem
-- The Year of Internal Tools
-- The science of Monkey Island: can grog dissolve a metal mug that fast?
-- Meta VR Glasses
+- Show HN: Hamilton – a no-internet Android health dashboard, named after my dog
+- Ideas on modernizing the open-source desktop
 - Claude Opus 5.5
-- Unexplained objects in 1950s sky correlate with nuclear tests and UAP reports
-- The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
-- GitHub has not removed malicious imitation 軟體 after 3 weeks
+- Docker releases 雲端 sandboxes, enabling safe agentic workloads in the 雲端
+- Show HN: Avoid smooth spinners, use low-FPS spinners
+- A brief history of Windows scroll bar shortcuts
+- When the Debugger Lies
+- Where's the Beef?: The lab-grown-meat revolution that wasn't
+- Search – A small, fast WebKit browser for macOS
+- Creatine uptake enhances antitumor immunity
+- Meta VR Glasses
+- Lambda MicroEgg
+- The Year of Internal Tools
+- August 27 TCRF DDoS Attack Postmortem
 - ArXiv receives multiyear commitments to support it as an independent nonprofit
-- Experiencing writing at our recent Chinese calligraphy workshop
 - The mystery animal on an ancient god's head
-- Show HN: Most Hated Tools
+- GitLab Outage
+- The science of Monkey Island: can grog dissolve a metal mug that fast?
+- The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
+- Jensen Huang Thinks A.I. Alarmism Has Gone Too Far
 - Making portable my unportable transputer C compiler
-- B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023)
-- SkillOpt: 訓練 Loop for 代理 Skills
-- VSCode's SSH 代理 Is Bananas (2025)
-- 新 Jersey fines data center $1.1M after drone pics expose 62 gas generators
-- Women Who Sold Books Door to Door
+- Biology Might Not Be Quantum, but Its Math Is Quantumlike
 - Strands Harness
+- GitHub has not removed malicious imitation 軟體 after 3 weeks
 - Radicle: Disclosure of Vulnerability in the 網絡 Protocol
-- 最佳 大型語言模型 for every budget, updated daily
-- Enjoy Every Sandwich
 - Gemini 3.8 text-to-speech
-- Unknown number of Texas voter registrations went unprocessed due to DPS error
-- Back and shoulder surgery is often worse than useless
-- Starlink ground station in Poland hit by fire in suspected arson attack
-- Oracle cites 'force majeure' to shield itself on controversial data center
-- Show HN: Critic – Review 代碼 with the 代理 that wrote it
-- I don't want the details
-- The "Windows XP Box" (2003)
-- Pentagon says overreliance on AI contributed to missile strike on Iran school
 
 
 ---
