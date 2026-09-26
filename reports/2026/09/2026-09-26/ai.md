@@ -30,7 +30,7 @@ Docker推出雲端 Sandboxes雲端沙箱服務，將原本在開發者電腦執�
 
 ### 5. [AWS CloudWatch Omni納入AI代理品質測試，可比較模型與提示詞表現](https://www.ithome.com.tw/news/179226)
 
-AWS擴充Amazon CloudWatch可觀測性服務，推出CloudWatch Omni，將AI代理與應用程式監控整合到同一環境。除了記錄延遲、詞元（Token）用量與工具呼叫等執行情況，CloudWatch Omni還能評估代理回答品質，並比較不同提示詞、模型與代理設定的結果，協助開發團隊找出版本變更後的品質退化問題。
+AWS擴充Amazon CloudWatch可觀測性服���，推出CloudWatch Omni，將AI代理與應用程式監控整合到同一環境。除了記錄延遲、詞元（Token）用量與工具呼叫等執行情況，CloudWatch Omni還能評估代理回答品質，並比較不同提示詞、模型與代理設定的結果，協助開發團隊找出版本變更後的品質退化問題。
 
 - 📰 **iThome 科技**
 
@@ -40,7 +40,7 @@ Anthropic公開生命科學研究團隊首批成果，近950個Claude AI代理�
 
 - 📰 **iThome 科技**
 
-### 7. [Google AI代理PageBreak找出自家網頁應用程���逾500個XSS漏洞](https://www.ithome.com.tw/news/179224)
+### 7. [Google AI代理PageBreak找出自家網頁應用程式逾500個XSS漏洞](https://www.ithome.com.tw/news/179224)
 
 Google近日公布內部AI代理PageBreak的漏洞研究成果，這套AI代理由Google產品安全團隊開發，用於尋找Google第一方網頁應用程式的安全漏洞。目前PageBreak已在這些網頁應用程式找出超過500個跨站指令碼（XSS）漏洞，部分漏洞出現在敏感網域。PageBreak找出疑似漏洞後，會交由專門的驗證工具執行實際酬載，確認漏洞能否成功利用。Google表示，這項驗證機制讓PageBreak的誤判率接近零。
 
@@ -60,7 +60,7 @@ Google近日公布內部AI代理PageBreak的漏洞研究成果，這套AI代理�
 
 ### 10. [CRA全面適用倒數15個月，西班牙Applus+帶來CRA協調標準與公告機構最新一線進展，呼籲臺灣企業及早展開產品分類與合規準備](https://www.ithome.com.tw/news/179218)
 
-歐盟《網路韌性法》（Cyber Resilience Act，CRA）將於2027年12月11日全���適用，對產品銷往歐洲的臺灣業者而言，如何因應CRA已成為迫切課題。目前正申請成為CRA公告機構（NB）的西班牙業者Applus+ Laboratories，近日在臺說明CRA在歐洲的最新進展與第一線觀察。
+歐盟《網路韌性法》（Cyber Resilience Act，CRA）將於2027年12月11日全面適用，對產品銷往歐���的臺灣業者而言，如何因應CRA已成為迫切課題。目前正申請成為CRA公告機構（NB）的西班牙業者Applus+ Laboratories，近日在臺說明CRA在歐洲的最新進展與第一線觀察。
 
 - 📰 **iThome 科技**
 
@@ -84,7 +84,7 @@ Google近日公布內部AI代理PageBreak的漏洞研究成果，這套AI代理�
 
 ### 14. [英國擴大Google搜尋監管，ChatGPT、Perplexity有望成為預設選項](https://www.ithome.com.tw/news/179214)
 
-英國競爭與市場管理局（Competition and Markets Authority，CMA）周三（9/23）公布強化版Google搜尋監管提案，擬要求Google在Android手機及Chrome瀏覽器提供預設搜尋服務選擇畫面，並納入符合條件的AI助理，讓使用者未來有機會選擇ChatGPT、Perplexity等AI服務，取代傳統搜尋引擎作為預設搜尋入口。
+英國競爭與市場管理���（Competition and Markets Authority，CMA）周三（9/23）公布強化版Google搜尋監管提案，擬要求Google在Android手機及Chrome瀏覽器提供預設搜尋服務選擇畫面，並納入符合條件的AI助理，讓使用者未來有機會選擇ChatGPT、Perplexity等AI服務，取代傳統搜尋引擎作為預設搜尋入口。
 
 - 📰 **iThome 科技**
 
@@ -111,7 +111,7 @@ OpenAI周四（9/24）宣布升級ChatGPT Voice，除了支援GPT-6系列模型�
 
 ### 18. [OpenAI代理人也駭進了澳洲政府網站](https://www.ithome.com.tw/news/179208)
 
-澳洲總理Anthony Albanese週四（9/24）在紐約出席聯合國大會期間召開記者會，���露OpenAI旗下AI代理人於6月18日未經授權進入澳洲政府的Medicare醫療服務網站，繞過網站安全限制，存取公開及非公開資料，甚至在內部伺服器寫入檔案。Albanese已親自致電OpenAI執行長Sam Altman表達嚴重關切，並宣布成立專案小組調查事件。
+澳洲總理Anthony Albanese週四（9/24）在紐約出席聯合國大會期間召開記者會，揭露OpenAI旗下AI代理人��6月18日未經授權進入澳洲政府的Medicare醫療服務網站，繞過網站安全限制，存取公開及非公開資料，甚至在內部伺服器寫入檔案。Albanese已親自致電OpenAI執行長Sam Altman表達嚴重關切，並宣布成立專案小組調查事件。
 
 - 📰 **iThome 科技**
 
@@ -159,7 +159,7 @@ Meta創辦人暨執行長祖克柏（Mark Zuckerberg）周三（9/23）在一年
 
 ### 26. [Meta發表100公克VR眼鏡，支援虛擬多螢幕與AI操作](https://www.ithome.com.tw/news/179198)
 
-Meta周三（9/23）發表新一代虛擬實境眼鏡Meta VR Glasses，將原本笨重的VR頭戴裝置縮小成約100公克的��鏡，讓使用者可隨時在眼前開啟虛擬電影院或工作空間。新產品預計2027年春季上市，售價1,299.99美元。
+Meta周三（9/23）發表新一代虛擬實境眼鏡Meta VR Glasses，將原本笨重的VR頭戴裝置縮小成約100公克的眼鏡，讓使用者可隨時��眼前開啟虛擬電影院或工作空間。新產品預計2027年春季上市，售價1,299.99美元。
 
 - 📰 **iThome 科技**
 
@@ -171,7 +171,7 @@ GitLab將於10月19日起調整GitLab.com流量限制，Free方案與未經驗�
 
 ### 28. [WordPress發布7.1.2版，修補重大層級的路徑遍歷漏洞](https://www.ithome.com.tw/news/179196)
 
-9月22日WordPress開發團隊發布安全性更新7.1.2版，修補一個嚴重程度達到重大等級的���徑遍歷弱點，在特定條件下，未通過身分驗證的攻擊者可讓網頁範本解析包含一個本機PHP檔案，該檔案存放於已啟用的佈景主題資料夾外部，而且能夠被讀取，如此一來，攻擊者就能透過伺服器環境與啟用的佈景主題，遠端執行任意程式碼（RCE），該弱點由資安研究員Robert Ressl通報，
+9月22日WordPress開發團隊發布安全性更新7.1.2版，修補一個嚴重程度達到重大等級的路徑遍歷弱點，在特定���件下，未通過身分驗證的攻擊者可讓網頁範本解析包含一個本機PHP檔案，該檔案存放於已啟用的佈景主題資料夾外部，而且能夠被讀取，如此一來，攻擊者就能透過伺服器環境與啟用的佈景主題，遠端執行任意程式碼（RCE），該弱點由資安研究員Robert Ressl通報，
 
 - 📰 **iThome 科技**
 
@@ -191,6 +191,10 @@ GitLab將於10月19日起調整GitLab.com流量限制，Free方案與未經驗�
 
 ### 更多 AI 新聞 (70則)
 
+- Meta’s Muse Is Adults-Only. 為什麼 Does It Look Like a Kids’ Toy? (**Wired**)
+- This Browser Extension Lets You Snooze Open Tabs Until Later (**Wired**)
+- A Gravitational Battle Within the Earth Is Changing the Length of Days (**Wired**)
+- The 最佳 Early Prime Day Deals Ahead of Amazon’s Second Sale (2026) (**Wired**)
 - Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026) (**Wired**)
 - Thieves Stole ‘NVIDIA’ Trailers. They Got 20 Tons of Sand (**Wired**)
 - Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk (**Wired**)
@@ -208,15 +212,15 @@ GitLab將於10月19日起調整GitLab.com流量限制，Free方案與未經驗�
 - Reebok Discount 代碼: 15% Off - September 2026 (**Wired**)
 - Gametime Promo 代碼: Save on Tickets in September 2026 (**Wired**)
 - Birdfy Discount Codes: 15% Off Sitewide (**Wired**)
-- Ulta Promo Codes: Up to 20% Off in September 2026 (**Wired**)
-- Hoka Coupon Codes: 30% Off in September 2026 (**Wired**)
 - Therabody Promo Codes: 15% Off September 2026 (**Wired**)
+- Hoka Coupon Codes: 30% Off in September 2026 (**Wired**)
+- Ulta Promo Codes: Up to 20% Off in September 2026 (**Wired**)
 - Chatbooks Promo 代碼: 40% Off | September 2026 (**Wired**)
 - TopResume Packages (**Wired**)
 - 30% VistaPrint Coupon &amp; Promo Codes | September 2026 (**Wired**)
 - LegalZoom Promo 代碼: Exclusive 10% Off LLC Formations (**Wired**)
-- Litter-Robot Promo Codes: Up to $150 Off (**Wired**)
 - Maytag Promo Codes: 15% Off Appliances (**Wired**)
+- Litter-Robot Promo Codes: Up to $150 Off (**Wired**)
 - Altra Running Promo Codes: 10% Off September 2026 (**Wired**)
 - Anonymous Men Have Turned Cyberharassment Into a Group Sport—Here’s One Woman’s Side of the Story (**Wired**)
 - I Think I Found an AI 代理 Worth the Risk (**Wired**)
@@ -231,16 +235,12 @@ GitLab將於10月19日起調整GitLab.com流量限制，Free方案與未經驗�
 - Venus May Have Devoured Its Moon (**Wired**)
 - The 最佳 Linux Laptops (2026): System76, Framework, and More (**Wired**)
 - Scientists Detect Radio Signals From an Exoplanet for the First Time in History (**Wired**)
-- TurboTax Full Service Coupons This September 2026 (**Wired**)
 - Motley Fool Promo 代碼: $200 Off on Stock Advisor September 2026 (**Wired**)
 - AirDoctor Coupon Codes: 40% Off | September 2026 (**Wired**)
 - 50% Off DoorDash Promo 代碼 | September 2026 (**Wired**)
+- TurboTax Full Service Coupons This September 2026 (**Wired**)
 - Peacock Promo Codes: 40% Off September 2026 (**Wired**)
-- Chewy Promo Codes: $20 Off September 2026 (**Wired**)
 - Wayfair Coupons: Up to 80% Off September 2026 (**Wired**)
-- H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist (**Wired**)
-- Starz Promo Codes: $5 Off for September 2026 (**Wired**)
-- Vitamix Promo Codes and Deals: $25 Off + Free Shipping (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)

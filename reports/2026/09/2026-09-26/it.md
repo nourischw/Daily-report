@@ -4,216 +4,208 @@
 
 ---
 
-### 1. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+### 1. [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
 
-- ⭐ 241 分｜💬 152 留言｜👤 specked-citrus
+- ⭐ 13 分｜💬 0 留言｜👤 ksec
 
-### 2. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+### 2. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
 
-- ⭐ 350 分｜💬 101 留言｜👤 Ardakilic
+- ⭐ 495 分｜💬 301 留言｜👤 specked-citrus
 
-### 3. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
+### 3. [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+
+- ⭐ 79 分｜💬 20 留言｜👤 allanrbo
+
+### 4. [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+
+- ⭐ 142 分｜💬 172 留言｜👤 srcreigh
+
+### 5. [如何 keep enjoying 程式設計 in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
+
+- ⭐ 44 分｜💬 45 留言｜👤 signa11
+
+### 6. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+
+- ⭐ 337 分｜💬 313 留言｜👤 jmvldz
+
+### 7. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+
+- ⭐ 466 分｜💬 117 留言｜👤 Ardakilic
+
+### 8. [Floci: Locally emulating any 雲端 service](https://floci.io)
+
+- ⭐ 11 分｜💬 2 留言｜👤 theanonymousone
+
+### 9. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
 
 Hey HN! Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more compl
 
-- ⭐ 162 分｜💬 71 留言｜👤 pancomplex
+- ⭐ 203 分｜💬 85 留言｜👤 pancomplex
 
-### 4. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+### 10. [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)
 
-- ⭐ 91 分｜💬 157 留言｜👤 fratellobigio
+- ⭐ 27 分｜💬 9 留言｜👤 vira28
 
-### 5. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+### 11. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
 
-- ⭐ 113 分｜💬 128 留言｜👤 jmvldz
+- ⭐ 203 分｜💬 285 留言｜👤 fratellobigio
 
-### 6. [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
+### 12. [16GB iPod Nano 3G Upgrade](https://tuckerosman.com/projects/16gb-ipod-nano)
 
-- ⭐ 51 分｜💬 5 留言｜👤 pseudolus
+- ⭐ 23 分｜💬 2 留言｜👤 Ivoah
 
-### 7. [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment)
+### 13. [The Murky History of Soviet-Born Tetris](https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/)
 
-- ⭐ 365 分｜💬 136 留言｜👤 yurivish
+- ⭐ 50 分｜💬 12 留言｜👤 EA-3167
 
-### 8. [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
+### 14. [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
 
-- ⭐ 317 分｜💬 101 留言｜👤 alentred
+- ⭐ 237 分｜💬 56 留言｜👤 pseudolus
 
-### 9. [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide)
+### 15. [Gravity seems holographic. What does that mean for reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
 
-- ⭐ 50 分｜💬 17 留言｜👤 HotGarbage
+- ⭐ 204 分｜💬 173 留言｜👤 ibobev
 
-### 10. [為什麼 didn't anybody tell me about Redis hash slots?](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/)
+### 16. [Ask HN: Who's still keeping a DOS machine up because the business depends on it?](https://news.ycombinator.com/item?id=49848955)
 
-- ⭐ 22 分｜💬 5 留言｜👤 badrequest
+Do you currently work with or know anyone who is still using:* dBase&#x2F;Clipper&#x2F;CLARION&#x2F;Paradox&#x2F;other DOS RAD environments on period 硬體 to run business processes?* CNC mills&#x2
 
-### 11. [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395)
+- ⭐ 126 分｜💬 118 留言｜👤 mlaux
+
+### 17. [Scientists 構建 most accurate atomic clock](https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html)
+
+- ⭐ 17 分｜💬 7 留言｜👤 wglb
+
+### 18. [Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML](https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html)
+
+- ⭐ 32 分｜💬 0 留言｜👤 jjba23
+
+### 19. [Fourier Analysis: Drawing Llamas with Circles](https://adekau.github.io/posts/2020/llamas.html)
+
+- ⭐ 42 分｜💬 3 留言｜👤 cebert
+
+### 20. [From Thin Air to Bootable Images: The Tine 構建 系統](https://amutable.com/blog/tine-build-system)
+
+- ⭐ 16 分｜💬 0 留言｜👤 Levitating
+
+### 21. [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395)
 
 Related: https:&#x2F;&#x2F;techcommunity.Microsoft.com&#x2F;blog&#x2F;excelblog&#x2F;excel-now...
 
-- ⭐ 109 分｜💬 83 留言｜👤 luispa
+- ⭐ 192 分｜💬 139 留言｜👤 luispa
 
-### 12. [Gravity seems holographic. What does that mean for reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
+### 22. [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 
-- ⭐ 123 分｜💬 133 留言｜👤 ibobev
+- ⭐ 266 分｜💬 112 留言｜👤 sunils34
 
-### 13. [Remembering Johannes Doerfert](https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/)
+### 23. [The far side of the Moon provides clues to a previous magnetic field](https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html)
 
-- ⭐ 61 分｜💬 2 留言｜👤 sdko
+- ⭐ 5 分｜💬 0 留言｜👤 croes
 
-### 14. [Show HN: Hacker Atlas - A map of what Hacker News talks about](https://hackeratlas.com/)
+### 24. [HomelabFest will be in St. Louis in September 2027](https://www.homelabfest.org)
+
+- ⭐ 32 分｜💬 16 留言｜👤 geerlingguy
+
+### 25. [A 新 world airport and its baggage](https://computer.rip/2026-09-20-denver-baggage.html)
+
+- ⭐ 25 分｜💬 2 留言｜👤 firloop
+
+### 26. [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
+
+- ⭐ 44 分｜💬 11 留言｜👤 marc__1
+
+### 27. [I wrote a ray tracer in Brainfuck](https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/)
+
+- ⭐ 74 分｜💬 18 留言｜👤 epestr
+
+### 28. [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide)
+
+- ⭐ 180 分｜💬 78 留言｜👤 HotGarbage
+
+### 29. [Show HN: Hacker Atlas - A map of what Hacker News talks about](https://hackeratlas.com/)
 
 I built a tool to explore HN topics and how they change over time.Currently covers 2024 to today. Is it useful? What&#x27;s missing?
 
-- ⭐ 16 分｜💬 6 留言｜👤 andrearitossa
+- ⭐ 62 分｜💬 20 留言｜👤 andrearitossa
 
-### 15. [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
+### 30. [Remembering Johannes Doerfert](https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/)
 
-- ⭐ 225 分｜💬 99 留言｜👤 sunils34
-
-### 16. [I wrote a ray tracer in Brainfuck](https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/)
-
-- ⭐ 37 分｜💬 12 留言｜👤 epestr
-
-### 17. [Show HN: A game about fake news and memes](https://unspin.app/)
-
-I made this game to help me with media literacy. View it like Wordle but for fake news.I would appreciate your honest feedback since I&#x27;m serious about making it way better.
-
-- ⭐ 8 分｜💬 4 留言｜👤 azermite
-
-### 18. [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
-
-- ⭐ 400 分｜💬 711 留言｜👤 cramer4next
-
-### 19. [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale)
-
-- ⭐ 5 分｜💬 1 留言｜👤 KraftyOne
-
-### 20. [Fourier Analysis: Drawing Llamas with Circles](https://adekau.github.io/posts/2020/llamas.html)
-
-- ⭐ 6 分｜💬 0 留言｜👤 cebert
-
-### 21. [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
-
-- ⭐ 12 分｜💬 1 留言｜👤 marc__1
-
-### 22. [How video games inspire great UX (2019)](https://jenson.org/games/)
-
-- ⭐ 101 分｜💬 16 留言｜👤 andsoitis
-
-### 23. [Show HN: Ekselio – Loveable for finance workflows (local first)](https://www.gptbeyond.com/try?home=1)
-
-Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picke
-
-- ⭐ 9 分｜💬 2 留言｜👤 kdautaj
-
-### 24. [How we learned to stop worrying and love campus surveillance](https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/)
-
-- ⭐ 127 分｜💬 78 留言｜👤 cdrnsf
-
-### 25. [Show HN: Make math automatic with Mathy](https://gmays.com/making-math-automatic-with-mathy/)
-
-https:&#x2F;&#x2F;mathy.game&#x2F;https:&#x2F;&#x2F;mathy.game&#x2F;apphttps:&#x2F;&#x2F;apps.Apple.com&#x2F;us&#x2F;app&#x2F;mathy-構建-math-automaticity&#x2F;...
-
-- ⭐ 74 分｜💬 20 留言｜👤 gmays
-
-### 26. [What happens when you analyze your favorite college football team like the CIA?](https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia)
-
-- ⭐ 43 分｜💬 25 留言｜👤 adam
-
-### 27. [TiddlyInstall: A universal, reusable, install 系統](https://robertsdotpm.github.io/_static/tiddlyinstall.html)
-
-- ⭐ 3 分｜💬 2 留言｜👤 Uptrenda
-
-### 28. [An airport cooled by natural ventilation](https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion)
-
-- ⭐ 50 分｜💬 26 留言｜👤 Geekette
-
-### 29. [Microsoft abandons personal AI chatbot race with Copilot reboot](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
-
-https:&#x2F;&#x2F;archive.ph&#x2F;XJG5V
-
-- ⭐ 86 分｜💬 81 留言｜👤 sbulaev
-
-### 30. [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
-
-The following explanation is taken from https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49622607:Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, 
-
-- ⭐ 127 分｜💬 24 留言｜👤 behoove
+- ⭐ 96 分｜💬 3 留言｜👤 sdko
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Meta's Muse appears to use an OpenAI 模型 labeled muse-special
-- Ask HN: Who's still keeping a DOS machine up because the business depends on it?
+- Alberta's image as world's only rat-free region shattered by discovery of rat
+- U.S. appeals court upholds designation of Anthropic as supply chain risk
+- Postgres SELECT DISTINCT Does Not Scale
+- Microsoft abandons personal AI chatbot race with Copilot reboot
+- How video games inspire great UX (2019)
+- What happens when you analyze your favorite college football team like the CIA?
+- How we learned to stop worrying and love campus surveillance
+- Show HN: Make math automatic with Mathy
+- Platform-independent SIMD in Go
+- Two and a half years without a gallbladder
+- Git-bug: Distributed, offline-first bug tracker embedded in Git
 - Boards of Casio
-- Bwbach, My Guardian Goblin
-- Factorio that you can touch
-- Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals
+- CAPTCHAs don't prove you're human – they prove you're American
 - Entering and Breaking the Avast Antivirus Sandbox Part 2
-- Hype Is a Business Tool
-- Show HN: Recurse – Develop and 部署 specialist agents faster
-- We All Hated Busy Work. Now That It's Disappearing, It Turns Out We Miss It
-- FTC chair suggests AI developers should be liable for conduct of agents
-- Tell HN: Codex Is Down [fixed]
-- Show HN: I discovered roads in the US across > 1000 themes
-- Teaching a World 模型 to Play Pokemon
-- Show HN: Jevgpt – reinventing the wheel with another wheel
-- Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
-- Initial DIY cleanroom experimentation
-- Typst makes big strides
-- Ink and Switch interactive homepage
-- Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls?
-- Ask HN: Any nerds out there who've read a lot of research papers?
-- OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites
-- Using LLMs to trace alchemical knowledge and decode 17th century letters
-- Tesla workers balk at 訓練 Optimus humanoid robots as replacements
-- A History of the Chiming Machines at Gloucester's Cathedral and Churches (2017) [pdf]
-- Dutch governments builds alternative for Microsoft based on NixOS
-- Astronomer watches Starlink satellites sinking to 構建 a 'planetary barometer'
-- Stable (YC W20) Is 招聘 Product Engineers
-- Common cleaning sponge found to release trillions of microplastic fibers
-- Letterboxd Is Up for Sale, and A24, Sony and the 新 York Times Are Bidding
-- Amiga Screens: A Primer
-- Malicious Twitch chat messages can trigger 代碼 execution on OBS Studio
-- The stupidity and arrogance of GNOME developers (2024)
-- 為什麼 is the liver so weirdly regenerative?
-- What About Rails?
 - Pilots and Flight Attendants Have the Highest Radiation-Related Cancer Mortality
-- North Korea 'Likely' Behind $388M Hack of Crypto Exchange Bitget
-- Book review: Is parallel 程式設計 hard, and, if so, what can you do about it?
-- Tell HN: OpenAI $500 ProMax plan listed in API
+- Alan Kay: Shannon gave us a way of dealing with noisy channels [video]
+- Show HN: Ekselio – Loveable for finance workflows (local first)
+- Generate fonts where every 大型語言模型 token is the same width
+- Factorio that you can touch
+- TiddlyInstall: A universal, reusable, install 系統
+- How I changed teaching after AI managed to do all my homework assignments
+- Hype Is a Business Tool
+- Show HN: A game about fake news and memes
+- Using LLMs to trace alchemical knowledge and decode 17th century letters
+- Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
+- Meta's Muse appears to use an OpenAI 模型 labeled muse-special
+- Linguistic humor, Foreign hotel signs
+- Ink and Switch interactive homepage
+- US DOE will give $5.25B to upgrade the grid for AI datacenters
+- Bwbach, My Guardian Goblin
 - Fixing the Portobello Police Station Clock
-- Sherline Auction of Its Manufacturing Machines
+- 為什麼 is the liver so weirdly regenerative?
+- FTC chair suggests AI developers should be liable for conduct of agents
+- Dutch governments builds alternative for Microsoft based on NixOS
+- Book review: Is parallel 程式設計 hard, and, if so, what can you do about it?
+- Amiga Screens: A Primer
+- Typst makes big strides
 - WaveDigger: Dig into wireless signals to discover their physical locations
-- Ask HN: IEEE expulsion of Fei-Yue Wang?
-- Show HN: Doom or Bloom, map your AI worldview
+- What About Rails?
+- Stable (YC W20) Is 招聘 Product Engineers
+- Initial DIY cleanroom experimentation
+- An airport cooled by natural ventilation
+- Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals
+- Tell HN: OpenAI $500 ProMax plan listed in API
 - Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful 軟體 design
-- Brazil Bans Online Betting
-- Forging 1024-bit RSA signatures in nearly SNFS time
+- OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites
 - Sourcehut account takeover via 構建 logs (XSS in ansi2html)
+- Bob Mackie dressed stars–if they were brave enough
+- Time Measurement in Game 程式設計
 - Rails World 2026 Opening Keynote [video]
-- The Board Game of the Alpha Nerds (2014)
 - Toyota is taking the Corolla electric
-- Writing Parquet files using Haskell
+- The Board Game of the Alpha Nerds (2014)
+- Tutoring company tells parents to save their money and 'use AI instead'
+- 'That's so AI ' What gen Alpha's biggest insult tells us
 - Opus 5.5 is good at explainer videos
 - 2DWillNeverDie
-- Tutoring company tells parents to save their money and 'use AI instead'
-- Automattic has a 新 board after failed attempt to put CEO on leave
+- Writing Parquet files using Haskell
+- Claude discovers a novel enzyme 系統 with CRISPR-like repeats
+- My weird 新 hobby: Wandering around Tokyo on Google Maps
 - Fearless SIMD v1.0
 - California is chasing wealth that has feet
-- Advice to a Beginning Graduate Student (2001)
-- 'That's so AI ' What gen Alpha's biggest insult tells us
-- My weird 新 hobby: Wandering around Tokyo on Google Maps
+- Linux support is coming to Snapdragon X2 series
 - The forgotten battle of East Lansing
-- Show HN: Hamilton – a no-internet Android health dashboard, named after my dog
-- The 測試
-- Bug: Border radius has infected VSCode editor
+- Show HN: Jevgpt – reinventing the wheel with another wheel
 - F-Droid 2.0
 - Geothermal heat map of US hot springs
+- GPT-6 Sol and Luna
+- Show HN: Recurse – Develop and 部署 specialist agents faster
 - Forging 1024-bit RSA signatures in nearly SNFS time [pdf]
-- We're Gonna Need More Mathematicians
-- Contrastive Language Models: A Fast, Generalizable 系統 One 模型
+- Ask HN: Any nerds out there who've read a lot of research papers?
 
 
 ---
