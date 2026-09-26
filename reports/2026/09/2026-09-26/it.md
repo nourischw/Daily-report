@@ -4,206 +4,208 @@
 
 ---
 
-### 1. [Breaking Up with Google Play: 為什麼 Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+### 1. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
 
-- ⭐ 334 分｜💬 129 留言｜👤 ezst
+- ⭐ 216 分｜💬 101 留言｜👤 Qision
 
-### 2. [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+### 2. [Drawgent: Coding 代理 on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
 
-- ⭐ 173 分｜💬 25 留言｜👤 ksec
+- ⭐ 68 分｜💬 22 留言｜👤 parasitid
 
-### 3. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+### 3. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
 
-- ⭐ 589 分｜💬 377 留言｜👤 specked-citrus
+I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don&#x27;t let me decide how the diagram looks), or (B) soft
 
-### 4. [Modern Object Pascal Introduction for Programmers – Castle Game Engine](https://castle-engine.io/modern_pascal)
+- ⭐ 49 分｜💬 12 留言｜👤 jpwalsh234
 
-- ⭐ 39 分｜💬 19 留言｜👤 birdculture
+### 4. [A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/)
 
-### 5. [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+- ⭐ 44 分｜💬 10 留言｜👤 momentmaker
 
-- ⭐ 234 分｜💬 331 留言｜👤 srcreigh
+### 5. [The Lost Atomic 更新 on Loongson CPU](https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/)
 
-### 6. [Analyzing Frontier 模型 Progress with My Favourite Game: Prince of Persia](https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html)
+- ⭐ 74 分｜💬 4 留言｜👤 jiegec
 
-- ⭐ 10 分｜💬 3 留言｜👤 msephton
+### 6. [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
 
-### 7. [Earth is tearing apart beneath the Pacific Northwest](https://www.sciencedaily.com/releases/2026/09/260924231343.htm)
+- ⭐ 296 分｜💬 63 留言｜👤 ksec
 
-- ⭐ 21 分｜💬 4 留言｜👤 emot
+### 7. [Modern Object Pascal Introduction for Programmers](https://castle-engine.io/modern_pascal)
 
-### 8. [Reflections on 1,000 Days of Math](https://gmays.com/reflections-on-1000-days-of-math/)
+- ⭐ 108 分｜💬 37 留言｜👤 birdculture
 
-- ⭐ 13 分｜💬 4 留言｜👤 gmays
+### 8. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
 
-### 9. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+- ⭐ 669 分｜💬 425 留言｜👤 specked-citrus
 
-- ⭐ 436 分｜💬 394 留言｜👤 jmvldz
+### 9. [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
 
-### 10. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- ⭐ 322 分｜💬 424 留言｜👤 srcreigh
 
-- ⭐ 524 分｜💬 128 留言｜👤 Ardakilic
+### 10. [Reflections on 1,000 Days of Math](https://gmays.com/reflections-on-1000-days-of-math/)
 
-### 11. [Floci: Locally emulating any 雲端 service](https://floci.io)
+- ⭐ 67 分｜💬 29 留言｜👤 gmays
 
-- ⭐ 90 分｜💬 15 留言｜👤 theanonymousone
+### 11. [Breaking Up with Google Play: 為什麼 Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 
-### 12. [Understanding the Impact of 大型語言模型 Watermarking on AI 代理 Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
+- ⭐ 578 分｜💬 225 留言｜👤 ezst
 
-- ⭐ 54 分｜💬 48 留言｜👤 nisosguy
+### 12. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
 
-### 13. [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+- ⭐ 9 分｜💬 2 留言｜👤 shenli3514
 
-- ⭐ 110 分｜💬 30 留言｜👤 allanrbo
+### 13. [Analyzing Frontier 模型 Progress with My Favourite Game: Prince of Persia](https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html)
 
-### 14. [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)
+- ⭐ 40 分｜💬 30 留言｜👤 msephton
 
-- ⭐ 84 分｜💬 25 留言｜👤 vira28
+### 14. [The Rise of Audio AR](https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html)
 
-### 15. [16GB iPod Nano 3G Upgrade](https://tuckerosman.com/projects/16gb-ipod-nano)
+- ⭐ 14 分｜💬 2 留言｜👤 dbreunig
 
-- ⭐ 84 分｜💬 9 留言｜👤 Ivoah
+### 15. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
 
-### 16. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
+- ⭐ 518 分｜💬 450 留言｜👤 jmvldz
+
+### 16. [Plunging 測試 scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)
+
+https:&#x2F;&#x2F;archive.ph&#x2F;n8Akh
+
+- ⭐ 124 分｜💬 236 留言｜👤 vinni2
+
+### 17. [如何 keep enjoying 程式設計 in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
+
+- ⭐ 101 分｜💬 150 留言｜👤 signa11
+
+### 18. [Banks and Credit Unions to Team Up Against Apple Pay Fees](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/)
+
+- ⭐ 87 分｜💬 57 留言｜👤 Brajeshwar
+
+### 19. [The Murky History of Soviet-Born Tetris](https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/)
+
+- ⭐ 95 分｜💬 23 留言｜👤 EA-3167
+
+### 20. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+
+- ⭐ 574 分｜💬 138 留言｜👤 Ardakilic
+
+### 21. [Experiencing writing at our recent Chinese calligraphy workshop](https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/)
+
+- ⭐ 27 分｜💬 1 留言｜👤 surprisetalk
+
+### 22. [OpenAI bots meddled with multiple US Government agency sites](https://www.bbc.com/news/articles/cw62jje658dlo)
+
+- ⭐ 66 分｜💬 94 留言｜👤 Betelbuddy
+
+### 23. [Automattic has a 新 board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
+
+- ⭐ 81 分｜💬 86 留言｜👤 ilamont
+
+### 24. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
 
 Hey HN! Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more compl
 
-- ⭐ 229 分｜💬 93 留言｜👤 pancomplex
+- ⭐ 249 分｜💬 105 留言｜👤 pancomplex
 
-### 17. [Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML](https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html)
+### 25. [Floci: Locally emulating any 雲端 service](https://floci.io)
 
-- ⭐ 57 分｜💬 10 留言｜👤 jjba23
+- ⭐ 134 分｜💬 27 留言｜👤 theanonymousone
 
-### 18. [Calculating atmospheric drag on satellites for a Cubesat [pdf]](https://www.osti.gov/servlets/purl/1124870)
+### 26. [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)
 
-- ⭐ 20 分｜💬 7 留言｜👤 walrus01
+- ⭐ 111 分｜💬 38 留言｜👤 vira28
 
-### 19. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+### 27. [16GB iPod Nano 3G Upgrade](https://tuckerosman.com/projects/16gb-ipod-nano)
 
-- ⭐ 240 分｜💬 343 留言｜👤 fratellobigio
+- ⭐ 128 分｜💬 16 留言｜👤 Ivoah
 
-### 20. [Ask HN: Who's still keeping a DOS machine up because the business depends on it?](https://news.ycombinator.com/item?id=49848955)
+### 28. [Show HN: A Claude 代碼 skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)
 
-Do you currently work with or know anyone who is still using:* dBase&#x2F;Clipper&#x2F;CLARION&#x2F;Paradox&#x2F;other DOS RAD environments on period 硬體 to run business processes?* CNC mills&#x2
+Hello HN,It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.The next experiment was to see whether Claude + Stockfish could explain a
 
-- ⭐ 184 分｜💬 185 留言｜👤 mlaux
+- ⭐ 67 分｜💬 46 留言｜👤 brumar
 
-### 21. [Gravity seems holographic. What does that mean for reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
+### 29. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
 
-- ⭐ 246 分｜💬 192 留言｜👤 ibobev
+- ⭐ 280 分｜💬 425 留言｜👤 fratellobigio
 
-### 22. [The Murky History of Soviet-Born Tetris](https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/)
+### 30. [I'm the mom in that viral Giants clip. Let me tell you about my husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
 
-- ⭐ 72 分｜💬 15 留言｜👤 EA-3167
-
-### 23. [Scientists 構建 most accurate atomic clock](https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html)
-
-- ⭐ 39 分｜💬 20 留言｜👤 wglb
-
-### 24. [ASML currently sells no chipmaking machines in Europe, executive says](https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says)
-
-- ⭐ 91 分｜💬 93 留言｜👤 doener
-
-### 25. [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
-
-- ⭐ 320 分｜💬 84 留言｜👤 pseudolus
-
-### 26. [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-
-- ⭐ 138 分｜💬 144 留言｜👤 saibotk
-
-### 27. [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
-
-- ⭐ 57 分｜💬 31 留言｜👤 bj-rn
-
-### 28. [Fourier Analysis: Drawing Llamas with Circles](https://adekau.github.io/posts/2020/llamas.html)
-
-- ⭐ 61 分｜💬 7 留言｜👤 cebert
-
-### 29. [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395)
-
-Related: https:&#x2F;&#x2F;techcommunity.Microsoft.com&#x2F;blog&#x2F;excelblog&#x2F;excel-now...
-
-- ⭐ 229 分｜💬 156 留言｜👤 luispa
-
-### 30. [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
-
-- ⭐ 58 分｜💬 20 留言｜👤 marc__1
+- ⭐ 334 分｜💬 138 留言｜👤 minimaxir
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- A single function Jev-like wrapper for LLMs, including vision models
+- Ask HN: Who's still keeping a DOS machine up because the business depends on it?
+- Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML
+- Gravity seems holographic. What does that mean for reality?
+- Calculating atmospheric drag on satellites for a Cubesat [pdf]
+- 新 Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely
+- Scientists 構建 most accurate atomic clock
+- Jury finds Facebook liable for deceiving users in Cambridge Analytica case
+- I built my daughter a custom alarm clock because everything on Amazon sucked
+- My brother's 新 high rise apartment doesn't allow individual internet services
+- Excel now supports multiple values in a single cell
+- Lab on a Contact Lens Can Measure Stress Through Serotonin
 - From Thin Air to Bootable Images: The Tine 構建 系統
-- The far side of the Moon provides clues to a previous magnetic field
+- Fourier Analysis: Drawing Llamas with Circles
+- A 新 world airport and its baggage
 - First Principles Thinking
 - U.S. appeals court upholds designation of Anthropic as supply chain risk
-- Remembering Johannes Doerfert
-- A 新 world airport and its baggage
 - I wrote a ray tracer in Brainfuck
-- One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days
+- Remembering Johannes Doerfert
 - Microsoft abandons personal AI chatbot race with Copilot reboot
+- The far side of the Moon provides clues to a previous magnetic field
 - Show HN: Hacker Atlas - A map of what Hacker News talks about
-- How video games inspire great UX (2019)
 - Postgres SELECT DISTINCT Does Not Scale
-- What happens when you analyze your favorite college football team like the CIA?
+- One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days
+- US jury says Apple owes record $5.7B in haptic technology patent case
+- How video games inspire great UX (2019)
 - Platform-independent SIMD in Go
-- Show HN: Make math automatic with Mathy
+- What happens when you analyze your favorite college football team like the CIA?
 - Git-bug: Distributed, offline-first bug tracker embedded in Git
+- Washington Heights Man Cleans One NYC Block a Day for 100 Days,Neighbors Join In
 - Boards of Casio
-- How we learned to stop worrying and love campus surveillance
-- Alberta's image as world's only rat-free region shattered by discovery of rat
+- The Copilot+ PC brand is dead
+- ASML says it sold 'absolutely nothing' in Europe in 2026
 - Entering and Breaking the Avast Antivirus Sandbox Part 2
-- Uncle's frozen Mac says it's infected after viewing a Google ad. Now what?
+- Some Supabase customers are publicly exposing reams of people's data to the 網頁
+- How we learned to stop worrying and love campus surveillance
+- Show HN: Make math automatic with Mathy
 - Using LLMs to trace alchemical knowledge and decode 17th century letters
-- Two and a half years without a gallbladder
-- Pilots and Flight Attendants Have the Highest Radiation-Related Cancer Mortality
-- Factorio that you can touch
-- Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
-- Hype Is a Business Tool
-- Alan Kay: Shannon gave us a way of dealing with noisy channels [video]
-- Show HN: Ekselio – Loveable for finance workflows (local first)
+- The AI Bubble Explained
+- Stable (YC W20) Is 招聘 Product Engineers
 - Fixing the Portobello Police Station Clock
-- Meta's Muse appears to use an OpenAI 模型 labeled muse-special
-- Ink and Switch interactive homepage
+- Pilots and Flight Attendants Have the Highest Radiation-Related Cancer Mortality
+- Hype Is a Business Tool
+- ASML currently sells no chipmaking machines in Europe, executive says
+- Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
+- Factorio that you can touch
+- Broken promises, confiscated land: the hyperscale AI datacentre being built
+- Show HN: Ekselio – Loveable for finance workflows (local first)
+- Alberta's image as world's only rat-free region shattered by discovery of rat
 - 為什麼 is the liver so weirdly regenerative?
-- How I changed teaching after AI managed to do all my homework assignments
-- HomelabFest will be in St. Louis in September 2027
+- Reading’s Bayeux Tapestry
 - Book review: Is parallel 程式設計 hard, and, if so, what can you do about it?
 - WaveDigger: Dig into wireless signals to discover their physical locations
-- Dutch governments builds alternative for Microsoft based on NixOS
+- Alan Kay: Shannon gave us a way of dealing with noisy channels [video]
+- One Month Without AI
+- Ink and Switch interactive homepage
+- Meta's Muse appears to use an OpenAI 模型 labeled muse-special
 - Generate fonts where every 大型語言模型 token is the same width
-- TiddlyInstall: A universal, reusable, install 系統
+- Uncle's frozen Mac says it's infected after viewing a Google ad. Now what?
+- Two and a half years without a gallbladder
 - What About Rails?
-- Amiga Screens: A Primer
-- FTC chair suggests AI developers should be liable for conduct of agents
+- Dutch governments builds alternative for Microsoft based on NixOS
 - Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful 軟體 design
-- Stable (YC W20) Is 招聘 Product Engineers
-- Bwbach, My Guardian Goblin
 - Toyota is taking the Corolla electric
 - Sourcehut account takeover via 構建 logs (XSS in ansi2html)
-- Rails World 2026 Opening Keynote [video]
-- 'That's so AI ' What gen Alpha's biggest insult tells us
-- Linguistic humor, Foreign hotel signs
-- The Board Game of the Alpha Nerds (2014)
-- Tutoring company tells parents to save their money and 'use AI instead'
-- Typst makes big strides
-- Initial DIY cleanroom experimentation
-- Claude discovers a novel enzyme 系統 with CRISPR-like repeats
 - GPT-6 Sol and Luna
-- Linux support is coming to Snapdragon X2 series
-- 2DWillNeverDie
-- Opus 5.5 is good at explainer videos
-- My weird 新 hobby: Wandering around Tokyo on Google Maps
-- Fearless SIMD v1.0
-- F-Droid 2.0
-- Geothermal heat map of US hot springs
-- The forgotten battle of East Lansing
-- Writing Parquet files using Haskell
-- California is chasing wealth that has feet
-- An airport cooled by natural ventilation
-- Claude Opus 5.5
-- Forging 1024-bit RSA signatures in nearly SNFS time [pdf]
+- 'That's so AI ' What gen Alpha's biggest insult tells us
+- Rails World 2026 Opening Keynote [video]
+- Tutoring company tells parents to save their money and 'use AI instead'
+- Claude discovers a novel enzyme 系統 with CRISPR-like repeats
 
 
 ---
