@@ -4,202 +4,208 @@
 
 ---
 
-### 1. ["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
+### 1. [When did Google get so f-ing weird?](https://sancho.bearblog.dev/google-weird/)
 
-- ⭐ 148 分｜💬 97 留言｜👤 jandeboevrie
+- ⭐ 37 分｜💬 2 留言｜👤 sancho-panza
 
-### 2. [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+### 2. [Ember-1](https://fireworks.ai/blog/ember-1)
 
-- ⭐ 51 分｜💬 19 留言｜👤 danso
+- ⭐ 191 分｜💬 112 留言｜👤 gmays
 
-### 3. [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
+### 3. [Alan Kay's answer to "Did the ENIAC have a BIOS"?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
 
-- ⭐ 17 分｜💬 1 留言｜👤 pxx
+- ⭐ 17 分｜💬 9 留言｜👤 midnightfish
 
-### 4. [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
+### 4. [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
 
-- ⭐ 54 分｜💬 17 留言｜👤 surprisetalk
+- ⭐ 34 分｜💬 5 留言｜👤 verdagon
 
-### 5. [Writing Efficient C++ 代碼](https://asawicki.info/articles/writing_efficient_cpp_code.php)
+### 5. [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)
 
-- ⭐ 27 分｜💬 4 留言｜👤 ibobev
+- ⭐ 69 分｜💬 20 留言｜👤 safaelmali
 
-### 6. [Font where each token is equal-width](https://twitter.com/amplifiedamp/status/2103535129503383700)
+### 6. [In an $80 motel room, a discovery to shed light on the origins of life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
 
-- ⭐ 18 分｜💬 5 留言｜👤 ampdot
+- ⭐ 169 分｜💬 65 留言｜👤 danso
 
-### 7. [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
+### 7. [Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)
 
-- ⭐ 259 分｜💬 17 留言｜👤 blutack
+https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;John_Chowning
 
-### 8. [Fakecloud: Local AWS 雲端 emulator for integration tests](https://fakecloud.dev/)
+- ⭐ 19 分｜💬 3 留言｜👤 Rochus
 
-- ⭐ 41 分｜💬 19 留言｜👤 theanonymousone
+### 8. [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
 
-### 9. [Ten Lines of 代碼 That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
+https:&#x2F;&#x2F;hex.pm&#x2F;packages&#x2F;imphttps:&#x2F;&#x2F;dspy.AI&#x2F;current&#x2F;
 
-- ⭐ 18 分｜💬 3 留言｜👤 dimonomid
+- ⭐ 13 分｜💬 4 留言｜👤 mpweiher
 
-### 10. [Show HN: A CC0 museum of retro 3D tricks you can paste into a page](https://3d-retro.com/)
+### 9. [Don't couple your Go 代碼 to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 
-- ⭐ 28 分｜💬 7 留言｜👤 SouthWestAtlas
+- ⭐ 43 分｜💬 20 留言｜👤 birdculture
 
-### 11. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+### 10. [Writing Efficient C++ 代碼 (2013)](https://asawicki.info/articles/writing_efficient_cpp_code.php)
 
-- ⭐ 456 分｜💬 350 留言｜👤 silveraxe93
+- ⭐ 117 分｜💬 62 留言｜👤 ibobev
 
-### 12. [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+### 11. [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
 
-- ⭐ 538 分｜💬 476 留言｜👤 papergirl
+- ⭐ 108 分｜💬 56 留言｜👤 surprisetalk
 
-### 13. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+### 12. [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/)
 
-- ⭐ 308 分｜💬 134 留言｜👤 chmaynard
+Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 g
 
-### 14. [Finally, A True Blue Rose Exists](https://www.sciencenews.org/article/true-blue-rose-pigment-copigment)
+- ⭐ 78 分｜💬 36 留言｜👤 hp6
 
-- ⭐ 65 分｜💬 26 留言｜👤 bookofjoe
+### 13. [What I did at Recurse Center](https://thill.me/2026/09/11/what-i-did-at-rc.html)
 
-### 15. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
+- ⭐ 7 分｜💬 1 留言｜👤 bingden
 
-- ⭐ 466 分｜💬 250 留言｜👤 Qision
+### 14. [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
 
-### 16. [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/)
+- ⭐ 203 分｜💬 77 留言｜👤 pxx
 
-- ⭐ 78 分｜💬 40 留言｜👤 matt_d
+### 15. [The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers](https://generalroboticslab.com/cartesian_handv1)
 
-### 17. [Rusty thoughts on "Parse, don't validate"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
+- ⭐ 27 分｜💬 6 留言｜👤 AareyBaba
 
-- ⭐ 35 分｜💬 11 留言｜👤 ingve
+### 16. [Fragment of oldest known peace treaty found in Turkey](https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey)
 
-### 18. [postmarketOS Rebrand: Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
+- ⭐ 31 分｜💬 5 留言｜👤 gmays
 
-- ⭐ 13 分｜💬 0 留言｜👤 HotGarbage
+### 17. [John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes](https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes)
 
-### 19. [10 Tells of a Slop UI](https://hereticpleb.vercel.app/blog/10-tells-of-slop)
+- ⭐ 29 分｜💬 6 留言｜👤 gregsadetsky
 
-- ⭐ 159 分｜💬 126 留言｜👤 theanonymousone
+### 18. [On caring for user data: NeoVim caused Vim undo files to be deleted](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
 
-### 20. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
+- ⭐ 314 分｜💬 271 留言｜👤 jandeboevrie
 
-- ⭐ 299 分｜💬 94 留言｜👤 shenli3514
+### 19. [Kicki: A DECsystem1060 – Interim Computer Museum](https://icm.museum/blog/?p=207)
 
-### 21. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
+- ⭐ 11 分｜💬 1 留言｜👤 rbanffy
 
-I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don&#x27;t let me decide how the diagram looks), or (B) soft
+### 20. [Allegations of US interference in Quebec election](https://globalnews.ca/news/12073854/quebec-election-u-s-interference/)
 
-- ⭐ 360 分｜💬 95 留言｜👤 jpwalsh234
+- ⭐ 9 分｜💬 1 留言｜👤 Teever
 
-### 22. [ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand)
+### 21. [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
 
-- ⭐ 367 分｜💬 788 留言｜👤 MC995
+- ⭐ 325 分｜💬 22 留言｜👤 blutack
 
-### 23. ["As a Language 模型": Chat Template Switches 大型語言模型 Self-Referential Voice](https://arxiv.org/abs/2609.25021)
+### 22. [Fakecloud: Local AWS 雲端 emulator for integration tests](https://fakecloud.dev/)
 
-- ⭐ 83 分｜💬 90 留言｜👤 yu3zhou4
+- ⭐ 86 分｜💬 43 留言｜👤 theanonymousone
 
-### 24. [Biology might not be quantum, but its math is quantumlike](https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/)
+### 23. [Video CDs Break Windows Explorer](https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html)
 
-- ⭐ 104 分｜💬 41 留言｜👤 pseudolus
+- ⭐ 62 分｜💬 21 留言｜👤 ClydeN
 
-### 25. [A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/)
+### 24. [Wiki Deep dive into Standard diving dress](https://en.wikipedia.org/wiki/Standard_diving_dress)
 
-- ⭐ 197 分｜💬 26 留言｜👤 momentmaker
+- ⭐ 8 分｜💬 0 留言｜👤 sans_souse
 
-### 26. [An 代理 used DNS to reach an external chatbot](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/)
+### 25. [Faster prompt lookup drafting in llama.cpp](https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/)
 
-- ⭐ 141 分｜💬 141 留言｜👤 apsec112
+- ⭐ 44 分｜💬 7 留言｜👤 pptadversary
 
-### 27. [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+### 26. [Show HN: Building a Markdown editor for Mac, iOS and 網頁](https://www.markdown.beauty/)
 
-- ⭐ 421 分｜💬 110 留言｜👤 ksec
+I&#x27;ve spent the last 10 months building Beauty: a local, powerful greco-roman Markdown editor where the page looks finished while you type. It runs on the Mac, iPhone and in the browser, and the b
 
-### 28. [How I changed teaching after AI managed to do all my homework assignments](https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed)
+- ⭐ 52 分｜💬 37 留言｜👤 thiagoperes
 
-- ⭐ 264 分｜💬 251 留言｜👤 azhenley
+### 27. [Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)
 
-### 29. [Exploding variance of means of exponentials: least-squares to the rescue](https://francisbach.com/spectral_log_density_estimation/)
+- ⭐ 71 分｜💬 59 留言｜👤 torutofu
 
-- ⭐ 55 分｜💬 0 留言｜👤 matt_d
+### 28. [Walgit: A Git 伺服器 that is one binary in front of an object store](https://github.com/rgodha24/walgithub)
 
-### 30. [Promising discoveries about the potential for life on one of Saturn’s icy moons](https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html)
+- ⭐ 64 分｜💬 7 留言｜👤 handfuloflight
 
-- ⭐ 87 分｜💬 51 留言｜👤 geox
+### 29. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+
+- ⭐ 355 分｜💬 159 留言｜👤 chmaynard
+
+### 30. [C's Flexible Integer Sizes Were Not a Design Mistake](https://pikuma.com/blog/c-integer-sizes-not-a-mistake)
+
+- ⭐ 57 分｜💬 94 留言｜👤 ibobev
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Drawgent: Coding 代理 on a live Excalidraw canvas
-- Accelerated Out of Core Shuffling
-- Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
-- 如何 keep enjoying 程式設計 in a world of LLMs
-- Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC
-- Turning GLM-5.3-Flash into a Jev-like decision 模型
-- 什麼是 the size of Yemen? (2024)
-- Generate fonts where every 大型語言模型 token is the same width
-- Modern Object Pascal Introduction for Programmers
-- Teaching a World 模型 to Play Pokemon
-- Evolving 程式設計 languages in the AI era
-- Show HN: Jev Plays Pokémon Red
-- Welcome to the Medical Clinic at the Interplanetary Relay Station
-- Fragment of oldest known peace treaty found in Turkey
-- We Should Be Able to Change Our Languages
-- The Lost Atomic 更新 on Loongson CPU
-- Ask HN: Who's still keeping a DOS machine up because the business depends on it?
-- The Evolution of Vending Machines
-- Floci: Locally emulating any 雲端 service
-- I Posed as a Problem Gambler. DraftKings Made Me a VIP
-- Revealing the details of how OpenAI agents hacked Hugging Face
-- Rust for C# and .NET developers guide by Microsoft
-- Breaking Up with Google Play: 為什麼 Conversations Is Now Free
-- 16GB iPod Nano 3G Upgrade
-- HomeBody: A humanoid that explores, remembers, and acts on its own
-- A single function Jev-like wrapper for LLMs, including vision models
-- Improving site performance by shipping more CSS
-- How one Twitch chat message became 代碼 execution on a streamer’s PC
-- Introducing Casita: A content-addressed store for source 代碼 and 構建 artifact
-- LA Metro has some of the slowest escalators
-- Dutch designer made DE9: Closer to the Edit into a playable 網頁-based instrument
-- We're gonna need a lot more mathematicians
-- The Rise of Audio AR (2024)
-- Show HN: Ekselio – Loveable for finance workflows (local first)
-- Is your Postgres migration safe or not safe?
-- Plan mode is dead
-- Snap Wants to be a State Actor??–Kansas v. Snap
-- Real-time feedback: My closing move in every interview
-- Bob Mackie dressed stars–if they were brave enough
-- Ollaya – Ollama for open-source, Jev-style decision models
-- Plunging 測試 scores are a slow-moving catastrophe
-- Japan moves to tighten rules for foreigners
-- I Found a $113,337 Af_alg Linux Local Privilege Escalation Before Copy Fail
-- OpenAI bots meddled with multiple US Government agency sites
-- Analyzing Frontier 模型 Progress with My Favourite Game: Prince of Persia
-- LP Voting and Investor Consent for AIFs
-- Jury finds Facebook liable for deceiving users in Cambridge Analytica case
-- Video CDs Break Windows Explorer
-- Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML
-- Excel now supports multiple values in a single cell
-- U.S. appeals court upholds designation of Anthropic as supply chain risk
-- Microsoft abandons personal AI chatbot race with Copilot reboot
-- Lab on a Contact Lens Can Measure Stress Through Serotonin
-- Fourier Analysis: Drawing Llamas with Circles
-- Automattic has a 新 board after failed attempt to put CEO on leave
-- Calculating atmospheric drag on satellites for a Cubesat [pdf]
-- Scientists 構建 most accurate atomic clock
-- Reflections on 1,000 Days of Math
-- I'm the mom in that viral Giants clip. Let me tell you about my husband
-- I wrote a ray tracer in Brainfuck
-- The Murky History of Soviet-Born Tetris
-- Experiencing writing at our recent Chinese calligraphy workshop
+- PostmarketOS is rebranding as Nura
+- Ten lines of 代碼 that changed my world
+- There are no "rogue" AI agents
+- PipePipe: NewPipe hard fork implementing SponsorBlock
+- Rusty thoughts on "Parse, don't validate"
+- Finally, A True Blue Rose Exists
+- Show HN: Reladraw – A diagram language where you decide where to place things
+- DeepSeek Elastic Compute (DSec)
 - Reading’s Bayeux Tapestry
-- Stable (YC W20) Is 招聘 Product Engineers
-- Fixing the Portobello Police Station Clock
-- Remembering Johannes Doerfert
-- A 新 world airport and its baggage
-- What even is an OS now?
-- Platform-independent SIMD in Go
-- Gravity seems holographic. What does that mean for reality?
+- Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI
+- Biology might not be quantum, but its math is quantumlike
+- A searchable library of forgotten public-domain film clips from 1915 onward
+- An 代理 used DNS to reach an external chatbot
+- The internet discovers TLA+. Now what?
+- The Greatest Pun in JavaScript
+- Show HN: A CC0 museum of retro 3D tricks you can paste into a page
+- Exploding variance of means of exponentials: least-squares to the rescue
+- Drawgent: Coding 代理 on a live Excalidraw canvas
+- LA Metro has some of the slowest escalators
+- Promising discoveries about the potential for life on one of Saturn’s icy moons
+- Rust for C# and .NET developers guide by Microsoft
+- Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC
+- Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+- "As a Language 模型": Chat Template Switches 大型語言模型 Self-Referential Voice
+- Tells of a Slop UI
+- Modern Object Pascal Introduction for Programmers
+- Does Georgism work? Five years later
+- Turning GLM-5.3-Flash into a Jev-like decision 模型
+- Generate fonts where every 大型語言模型 token is the same width
+- Show HN: Jev Plays Pokémon Red
+- 什麼是 the size of Yemen? (2024)
+- Ask HN: Who's still keeping a DOS machine up because the business depends on it?
+- Welcome to the Medical Clinic at the Interplanetary Relay Station
+- ASML says it sold 'absolutely nothing' in Europe in 2026
+- Evolving 程式設計 languages in the AI era
+- Alternatives to GPS are around the corner
+- Floci: Locally emulating any 雲端 service
+- The Lost Atomic 更新 on Loongson CPU
+- Revealing the details of how OpenAI agents hacked Hugging Face
+- The Evolution of Vending Machines
+- We Should Be Able to Change Our Languages
+- SNL Weekend 更新: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]
+- How I changed teaching after AI managed to do all my homework assignments
+- Fifteen years later, the Apple Cards origin story
+- Breaking Up with Google Play: 為什麼 Conversations Is Now Free
+- Casita: A content-addressed store for source 代碼 and 構建 artifact
+- Teaching a World 模型 to Play Pokemon
+- 16GB iPod Nano 3G Upgrade
+- A single function Jev-like wrapper for LLMs, including vision models
+- I Posed as a Problem Gambler. DraftKings Made Me a VIP
+- 如何 keep enjoying 程式設計 in a world of LLMs
+- We're gonna need a lot more mathematicians
+- Plan mode is dead
+- How one Twitch chat message became 代碼 execution on a streamer’s PC
+- HomeBody: A humanoid that explores, remembers, and acts on its own
+- Is your Postgres migration safe or not safe?
+- Ollaya – Ollama for open-source, Jev-style decision models
+- The Rise of Audio AR (2024)
+- Ask HN: Allow agents access to 雲端 files with least privilege?
+- Show HN: Ekselio – Loveable for finance workflows (local first)
+- Dutch designer made DE9: Closer to the Edit into a playable 網頁-based instrument
+- Japan moves to tighten rules for foreigners
+- Plunging 測試 scores are a slow-moving catastrophe
+- Jury finds Facebook liable for deceiving users in Cambridge Analytica case
+- OpenAI bots meddled with multiple US Government agency sites
+- Snap Wants to be a State Actor??–Kansas v. Snap
+- U.S. appeals court upholds designation of Anthropic as supply chain risk
+- Excel now supports multiple values in a single cell
+- Real-time feedback: My closing move in every interview
+- Microsoft abandons personal AI chatbot race with Copilot reboot
 
 
 ---
