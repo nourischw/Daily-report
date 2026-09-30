@@ -4,189 +4,191 @@
 
 ---
 
-### 1. [Google為Chrome 154修補32個資安漏洞](https://www.ithome.com.tw/news/179291)
+### 1. [OpenAI更新Codex 雲端，雲端開發環境可重複套用並供團隊共享](https://www.ithome.com.tw/news/179321)
+
+OpenAI更新Codex 雲端服務，讓程式開發代理Codex在OpenAI管理的雲端電腦執行開發工作，新版讓開發者可先替專案準備一套雲端開發環境，配置程式碼儲存庫、開發工具與相依套件等，發布後供後續任務重複使用。ChatGPT Enterprise也支援團隊共享開發環境，成員可使用相同設定執行各自的Codex任務，相關功能目前正逐步推出。
+
+- 📰 **iThome 科技**
+
+### 2. [加拿大量子安全公司Quantum eMotion併購資安業者Plurilock，整合QRNG、PQC與AI資安能力，加速商業化布局](https://www.ithome.com.tw/news/179317)
+
+加拿大量子安全技術業者Quantum eMotion（QeM）於9月28日宣布，已與資安公司Plurilock簽署最終收購協議，將以約3,380萬加元（約7.5億元）收購Plurilock全部已發行的普通股。
+
+- 📰 **iThome 科技**
+
+### 3. [逾百業者響應NVIDIA Open 代理 Safety Platform，打造跨產業的AI代理安全生態���](https://www.ithome.com.tw/news/179324)
+
+NVIDIA於9月28日推出Open 代理 Safety Platform，透過開源軟體OpenShell，與基於BlueField-4資料處理器（DPU）的參考系統設計Sentry，從軟體執行環境延伸至硬體層，為AI代理建立安全邊界及監控機制。NVIDIA表示，目前已有超過100家廠商支援或參與相關技術，涵蓋AI、資安、企業軟體、運算基礎架構及機器人等領域。
+
+- 📰 **iThome 科技**
+
+### 4. [資安署首度舉辦資安聯合稽核，將121場稽核併成16場](https://www.ithome.com.tw/news/179323)
+
+資安署今年首度統籌辦理「政府委外資服廠商資安聯合稽核」，以行政院所屬機關為範圍，將各機關原本分頭對資服廠商進行的121場稽核，整併為16場。數位發展部資通安全署今（9月30日）日舉行成果記者會，資安署署長蔡福隆表示，聯合稽核團隊除了資安署人員，還納入各授權機關的代表，稽核標準參照台積電對供應商的標準。
+部長林宜敬強調，頻繁的稽核容易引發「資安疲勞」（安全 fatigue），認為廠���過去每個月都在做同樣的事，人員難免進入恍神狀態；今年改成一年集中、確實盤查一次，反而能化解這種疲勞。
+蔡福隆表示，今年首度辦理的資安聯合稽核只是起步，明年將擴大到行政院以外的其他四院、總統府與縣市政府
+
+- 📰 **iThome 科技**
+
+### 5. [事件應變難以沿用既有線性流程，SANS從勒索、雲端與OT實務挑戰印證動態調整必要性](https://www.ithome.com.tw/news/179310)
+
+傳統事件應變雖已有一套成熟流程，但面對今日攻擊型態，線性方法逐漸顯得不足。SANS Institute於9月15日發布一份720頁的技術資源《Dynamic Incident Response: A Framework for 安全 Teams》，提出動態事件應變框架，打破應變流程缺乏彈性的限制，改以可隨新證據反覆調整的方式處理事件。
+
+- 📰 **iThome 科技**
+
+### 6. [DAEMON Tools攻擊調查追出NeedyMantis惡意程式���活動已持續近一年](https://www.ithome.com.tw/news/179313)
+
+微軟威脅情報團隊揭露NeedyMantis惡意程式，該惡意程式通常在攻擊者取得目標環境存取權後才被部署，用來維持存取權並執行後續攻擊。
+
+- 📰 **iThome 科技**
+
+### 7. [Anthropic警告智譜GLM-5.3具自主漏洞攻擊能力，安全防護容易遭繞過](https://www.ithome.com.tw/news/179312)
+
+AI新創Anthropic周二（9/29）警告，中國AI業者智譜（Z.AI）的GLM-5.3模型已具備自主開發端到端漏洞利用程式的能力，表現接近Anthropic今年推出的資安模型Claude Mythos Preview，但GLM-5.3的安全防護可透過簡單方法繞過，在模擬攻擊測試中的突破率最高達100%。
+
+- 📰 **iThome 科技**
+
+### 8. [美國聯邦政府入口網站America.gov上線，底層使用Google Gemini、Grok](https://www.ithome.com.tw/news/179309)
+
+連同美國政府和科技巨頭的AI合作，美國白宮周二宣佈America.gov網站上線，作為民眾查詢聯邦政府資訊使用政府服務的入口網站。網站將使用Google Gemini及SpaceXAI的Grok的聊天機器人技術。
+
+- 📰 **iThome 科技**
+
+### 9. [【資安日報】9月30日，Salesforce Agentforce傳出安全問題疑慮，該公司回應尚未發現被用於攻擊其客戶](https://www.ithome.com.tw/news/179308)
+
+本日新聞焦點
+● Salesforce Agentforce傳安全疑慮，該公司回應尚未發現被用於攻擊 
+● 美國CISA要求聯邦機構緊急修補蘋果裝置零時差漏洞
+● 神腦外部伺服器遭自動化攻擊，部分訂單資訊遭擷取
+
+- 📰 **iThome 科技**
+
+### 10. [日本租車公司Times Car資料外洩，影響660萬用戶](https://www.ithome.com.tw/news/179307)
+
+日本大型停車場管理公司Park24於9月25日發布公告，旗下租車公司Times Car於上午9時7分偵測到網站出現未經授權的存取，察覺後他們隨即展開調查，結果顯示，確實有第三方人士曾存取網站，而導致曾加入Times Car會員的用戶個資外洩，可能外洩的資料類型包括：姓名、也址、生日、電話號碼、電子郵件、會員號碼、駕照資訊、身分證明文件、企業會員資料，以及連結的服務ID等。Times Car強調，本起事故對Times Car的服務未造成影響，所有服務正常運作。
+
+- 📰 **iThome 科技**
+
+### 11. [針對日前揭露的路由器DIR-822A重大漏洞，D-Link表示臺灣用戶不受影響](https://www.ithome.com.tw/news/179306)
+
+臺灣網通設備廠商D-Link於9月18日發布資安公告，旗下路由器DIR-822A存在重大層級的資安漏洞CVE-2026-86296、CVE-2026-86510（CVSS嚴重程度評為10分、9.9分），我們向D-Link進一步詢問，該公司表示，DIR-822A是新加坡分公司當地的專屬機型，僅在該國銷售，因此臺灣沒有用戶受到影響。
+D-Link也補充說明，新加坡分公司將為DIR-822A發布新版韌體修復上述弱點，並表示其他的DIR-822系列機型，皆已公告進入生命週期結束（EOL）階段。
+
+
+- 📰 **iThome 科技**
+
+### 12. [AI程式開發代理工具Cline更新SDK，工作階段可在本機與雲端間雙向交接](https://www.ithome.com.tw/news/179301)
+
+AI程式開發代理工具Cline發布SDK v0.0.87，加入本機與雲端工作階段雙向交接。整合Cline SDK的開發工具可把本機正在進行的工作交給雲端代理繼續執行，之後再交接回本機，新版也加入可保留狀態的雲端工作區，工作暫停後仍能恢復執行。
+
+- 📰 **iThome 科技**
+
+### 13. [OpenAI推出常駐AI代理人Dots，可24小時自主工作、擁有專屬雲端電腦](https://www.ithome.com.tw/news/179303)
+
+OpenAI周二（9/29）於ChatGPT推出常駐型AI代理人Dots，可全天候在背景持續替使用者工作。這些Dot採用GPT-6 Astra模型，擁有專屬雲端電腦及瀏覽器，並可透過Plugins連接超過4,000個應用程式。
+不同於使用者提出要求後才執行單次任務的AI代理人，Dot可持續掌握使用者的目��、偏好及工作標準。使用者交付專案後，即使離開ChatGPT，Dot仍可在自己的雲端電腦繼續執行工作，也能同時接下其他專案，不必由使用者管理多段獨立對話或逐步下達指令。
+
+- 📰 **iThome 科技**
+
+### 14. [荷蘭警方逮捕疑似涉及參與駭客組織ShinyHunters嫌犯](https://www.ithome.com.tw/news/179302)
+
+荷蘭警方於9月29日證實，已於9月15日在阿姆斯特丹逮捕一名涉嫌參與駭客組織ShinyHunters的24歲男子。荷蘭警方表示，嫌疑人遭捕後在其筆電與電子裝置發現大量資料，並扣押其他電子儲存裝置，目前正進一步分析中，鹿特丹法院已裁定延長羈押90天，以進行後續調查工作。
+
+- 📰 **iThome 科技**
+
+### 15. [JadePuffer借助AI代理攻擊Azure，微軟揭露兩起雲端資料破壞事件](https://www.ithome.com.tw/news/179300)
+
+資安業者Sysdig今年7月揭露勒索攻擊活動JadePuffer，指出其利��AI代理自動執行偵察、竊取憑證、橫向移動及資料加密等攻擊流程，後續更將攻擊範圍擴大至AI資產、訓練資料集與向量資料庫。
+
+- 📰 **iThome 科技**
+
+### 16. [Amazon Corretto 27正式推出，支援TLS 1.3的後量子混合金鑰交換](https://www.ithome.com.tw/news/179299)
+
+繼9月15日Oracle發布Java 27（Oracle JDK 27），內建JEP 527這項關於TLS 1.3後量子混合金鑰交換的JDK增強提案，進一步提升後量子密碼學（PQC）能力，由AWS提供的免費OpenJDK開發環境Amazon Corretto
+
+- 📰 **iThome 科技**
+
+### 17. [商周集團透露網站遭受攻擊事故復原後續進度：中秋節前已將兩個網站重新上線](https://www.ithome.com.tw/news/179298)
+
+9月9日商周集團公告旗下網站遭到攻擊，導致網站與系統服務中斷，一週後該集團主網站的基礎服務恢復，上週末商周再度公布新的進展：他們在9月24日宣布，良醫健康��與alive這兩個網站，在經過外部資安專案的深度檢測與測試下，已確認網站的環境安全並正式重新啟用。
+
+- 📰 **iThome 科技**
+
+### 18. [Mozilla發布Firefox 157改版，修補近80個弱點](https://www.ithome.com.tw/news/179297)
+
+Mozilla於9月29日正式推出Firefox 157改版，導入全新設計的圖形介面，並提供內建的深色佈景主題與精簡介面模式，然而，這次他們也修補了76個資安漏洞，其中有38個為高風險等級。
+
+- 📰 **iThome 科技**
+
+### 19. [OpenAI公布協同平臺Space及類似Office的生產力套件](https://www.ithome.com.tw/news/179296)
+
+OpenAI週二開發者大會DevDay上公布能讓企業員工在ChatGPT內協同作業的工具Space，以及類似Office的生產力套件。
+
+- 📰 **iThome 科技**
+
+### 20. [美國五角大廈人事資料系統遭駭，逾300萬軍人個資外洩](https://www.ithome.com.tw/news/179295)
+
+美國國防人力資料中心（Defense Manpower Data Center，DMDC）發生資料外洩事件，影響約276萬名現存人員及29.4萬名已故人員，合計逾305萬人。DMDC是美國國防部的人事資料中心，保存現役及後備軍人、文職人員、承包商、退役軍人及眷屬等人事紀錄。
+
+- 📰 **iThome 科技**
+
+### 21. [川普與OpenAI、Google等科技巨頭簽署AI安全協議，引進外部獨立稽核](https://www.ithome.com.tw/news/179294)
+
+美國總統川普（Donald Trump）周二（9/29）與Google、OpenAI、Meta、Anthropic、xAI及NVIDIA等6家AI與科技巨頭簽署《白宮超級智慧協議》（White House Accord on Super Intelligence），要求參與企業建立四層AI安全管控與稽核機制，包括引進獨立外部稽核。這項協議目前屬企業自願承諾，不具法律強制力，川普形容它具有「道德上的約束力」。
+
+- 📰 **iThome 科技**
+
+### 22. [Google為Chrome 154修補32個資安漏洞](https://www.ithome.com.tw/news/179291)
 
 9月29日Google發布電腦版與Android版Chrome更新，總共修補32個資安漏洞，從嚴重程度來看，1個重大等級、25個為高風險等級，其餘為中度或低風險等級。
 
 - 📰 **iThome 科技**
 
-### 2. [川普簽署行政命令，要美國政府機構把AI改成SI](https://www.ithome.com.tw/news/179290)
+### 23. [川普簽署行政命令，要美國政府機構把AI改成SI](https://www.ithome.com.tw/news/179290)
 
 美國總統川普（Donald Trump）周二（9/29）簽署行政命令，正式要求美國行政部門以「超級智慧」（Super Intelligence，SI）取代「人工智慧」（人工智慧，AI），未來政府機構的官方文件、公開溝通、網站、報告及政策文件，都應改用SI一詞。
 
 - 📰 **iThome 科技**
 
-### 3. [鈊象發布資安重大訊息，揭露營運資訊設備遭到入侵](https://www.ithome.com.tw/news/179289)
+### 24. [鈊象發布資安重大訊息，揭露營運資訊設備遭到入侵](https://www.ithome.com.tw/news/179289)
 
-9月29日遊戲軟體公司鈊象（3293）於股市公開資訊觀測站發布重大訊息，他們偵測到有不明IP位址異常入侵���活動，目標是該公司的營運資訊設備，資安團隊察覺後隨即啟動資安應變機制，根據初步評估，本起事故對公司營運無重大影響。鈊象並未進一步透露遭異常侵入的設備資訊、入侵方式，以及是否有資料遭竊取或系統遭破壞。
+9月29日遊戲軟體公司鈊象（3293）於股市公開資訊觀測站發布重大訊息，他們偵測到有不明IP位址異常入侵的活動，目標是該公司的營運資訊設備，資安團隊察覺後隨即啟動資安應變機制，根據初步評估，本起事故對公司營運無重大影響。鈊象並未進一步透露遭異常侵入的設備資訊、入侵方式，以及是否有資料遭竊取或系統遭破壞。
 
 - 📰 **iThome 科技**
 
-### 4. [華碩線上購物商店傳出資安事件，部分客戶資料可能遭未授權存取](https://www.ithome.com.tw/news/179287)
+### 25. [神腦外部伺服器遭自動化攻擊，部分訂單資訊遭擷取](https://www.ithome.com.tw/news/179288)
+
+臺灣通訊產品及3C商品通路公司神腦國際（2450）於9月29日，在股市公開資訊觀測站發布重大訊息，表示他們的外部伺服器遭受自動化攻擊，攻擊者對部分訂單資訊進行擷取，該公司獲報後啟動應變會議，採取必要措施降低影響，初步評估對營運、財務，以及服務提供無重大影響。
+
+- 📰 **iThome 科技**
+
+### 26. [華碩線上購物商店傳出資安事件，部分客戶資料可能遭未授權存取](https://www.ithome.com.tw/news/179287)
 
 華碩（ASUS）線上購物商店傳出資安事件，部分客戶資料可能遭未經授權存取。
 
 - 📰 **iThome 科技**
 
-### 5. [美國CISA要求聯邦機構緊急修補蘋果裝置零時差漏洞](https://www.ithome.com.tw/news/179285)
+### 27. [美國CISA要求聯邦機構緊急修補蘋果裝置零時差漏洞](https://www.ithome.com.tw/news/179285)
 
 9月28日蘋果發布iOS、iPadOS，以及macOS作業系統26.7.1更新，緊急修補圖形處理框架元件CoreGraphics漏洞CVE-2026-86950，隔天美國網路安全與基礎設施安全局（CISA）表示，他們已經掌握該弱點遭積極利用的證據，將其列入已遭利用的漏洞名單（KEV），聯
 
 - 📰 **iThome 科技**
 
-### 6. [Salesforce Agentforce爆SalesBleed安全問題，CRM資料恐遭外傳](https://www.ithome.com.tw/news/179283)
+### 28. [Salesforce Agentforce傳SalesBleed安全問題，Salesforce回應無證據顯示此問題曾被用於攻擊任何客戶](https://www.ithome.com.tw/news/179283)
 
 AI代理安全業者Zenity近日揭露Salesforce AI代理平臺Agentforce的SalesBleed安全問題。攻擊者即使沒有受害企業的Salesforce帳號，也能透過公開的網頁-to-Lead功能提交藏有惡意提示詞的潛在客戶資料，企業員工後續使用Agentforce處理這些資料時，便可能觸發間接提示詞注入，進一步造成CRM資料外傳。
 
 - 📰 **iThome 科技**
 
-### 7. [微軟Defender整合SIEM與XDR，讓AI代理參與資安維運](https://www.ithome.com.tw/news/179233)
+### 29. [微軟Defender整合SIEM與XDR，讓AI代理參與資安維運](https://www.ithome.com.tw/news/179233)
 
 微軟9月23日宣布推出整合式安全維運中心（Integrated 安全 Operations Center，ISOC）公開預覽版，在Microsoft Defender入口網站整合安全資訊與事件管理（SIEM）、延伸偵測及回應（XDR）、威脅情報、自動化及AI功能。資安人員與AI代理可利用ISOC整合的安全訊號及事件脈絡調查威脅，再透過既有防護機制採取因應措施。
 
 - 📰 **iThome 科技**
 
-### 8. [SANS發布資安事件回應框架DAIR，強調依新證據動態調整事件處置](https://www.ithome.com.tw/news/179231)
+### 30. [SANS發布資安事件回應框架DAIR，強��依新證據動態調整事件處置](https://www.ithome.com.tw/news/179231)
 
 資安教育與研究機構SANS Institute（SANS）提出新的事件回應框架Dynamic Approach to Incident Response（DAIR）。
-
-- 📰 **iThome 科技**
-
-### 9. [研究人員檢視企業網路分段隔離情況，含OT設備區段87%仍混用其他類型設備](https://www.ithome.com.tw/news/179193)
-
-企業透過網路分段降低設備遭入侵後波及其他系統的風險，但近期研究發現，OT、IoMT等設備仍經常與其他類型設備共用網路區段。網路安全業者Forescout旗下Vedere Labs近期檢視209個組織、47,700個網路區段及超過250萬臺裝置，發現含有營運技術（OT）設備的區段僅13%為OT專用，醫療物聯網（IoMT）設備的專用區段比例更只有6%。
-
-- 📰 **iThome 科技**
-
-### 10. [日本京王線、東京地鐵營運業者分別遭網路攻擊](https://www.ithome.com.tw/news/179282)
-
-日本私鐵京王電鐵（Keio）和東京地鐵（Metro）兩家營運業者上週陸續公布遭到網路攻擊，前者發生勒索軟體攻擊，後者因會員服務伺服器遭駭而外洩5.9萬筆會員資訊。
-京王電鐵株式會社公告說明，公司系統在9月26日凌晨發生故障，經確認為勒索軟體攻擊集團的部分伺服器所致。該公司第一時間已將系統下線防止災情擴大，並在外部專家協助下展開調查。京王電鐵集團表示事件未影響鐵道運行，目前也尚未確認有資訊外洩，但強調會持續調查並同步更新。
-
-- 📰 **iThome 科技**
-
-### 11. [從傳輸資料到支援AI運算，工研院：次世代網路正從Bit走向Token轉型發展](https://www.ithome.com.tw/news/179272)
-
-過去數十年的網路發展的核心目標都在如何讓資料傳輸更快、更穩定，從寬頻、行動網路到5G，技術演進大多圍繞頻寬、延遲與連線能力提升。但隨著生成式AI、AI 代理及自主系統快速發展，未來網路面臨的新挑戰，不只是「如何傳送更多資料」，而是如何支援AI模型運算、讓分散在雲端、資料中心與邊緣端的算力有效協同。
-工研院資訊與通訊研究所所長丁邦安在今天(9/29)舉行的2026 ITRI ICT TechDay中指出，面對全球AI能力與生產力快速提升，次世代通訊正迎來由「Bit」向「Token」轉型的新階段。過去通訊網路主要負責資料傳輸，未來則需要進一步支援AI運算與智慧服務，服務對象也將從人延伸至AI
-
-- 📰 **iThome 科技**
-
-### 12. [Cloudflare推出JavaScript開發工具鏈Vite+ 1.0，整合建置、測試與程式檢查](https://www.ithome.com.tw/news/179271)
-
-Cloudflare旗下VoidZero發布JavaScript開發工具Vite+ 1.0，將Vite 8、Vitest 5、Rolldown、Oxlint、Oxfmt與任��快取整合在同一套工具中，涵蓋開發伺服器、建置、測試、程式碼檢查與格式整理。Vite+可把多項開發工具的設定集中到vite.config.ts，降低前端專案分別維護多套工具與設定檔的負擔。
-
-- 📰 **iThome 科技**
-
-### 13. [歐盟ENISA示警數位依賴正削弱資安韌性，供應鏈、雲端與第三方服務持續遭鎖定](https://www.ithome.com.tw/news/179268)
-
-歐盟網路安全局（ENISA）近日發布年度威脅情勢報告，不僅盤點2025年資安威脅，更示警日益增加的網路相依性（cyber dependencies）正在擴大攻擊面，進一步削弱整體數位韌性。
-
-- 📰 **iThome 科技**
-
-### 14. [Manus 2.0登場，同步推出讓AI代理人擁有信箱、電話與錢包的Cue程式](https://www.ithome.com.tw/news/179270)
-
-AI新創Manus周一（9/28）發表了Manus 2.0，這是該團隊所開發的新版代理人產品，採用全新代理人框架Cascade，具備更好的效能，並升級影片編輯、遊戲開發及自動化等功能。同時推出獨立程式Cue，讓使用者建立擁有專屬電子郵件、電話號碼、錢包及電腦的AI代理人。
-
-- 📰 **iThome 科技**
-
-### 15. [ShinyHunters二度大規模鎖定Oracle PeopleSoft發動攻擊，突破WAF偵測機制部署後續工具](https://www.ithome.com.tw/news/179269)
-
-今年5月底至6月初，ShinyHunters（UNC6240）利用零時差漏洞CVE-2026-35273發動大規模攻擊，積極針對Oracle PeopleSoft應用系統基礎設施入侵及勒索，受害組織多為美國教育機構，如今這些駭客傳出發動第二波攻勢，且範圍擴大至多個領域。
-
-- 📰 **iThome 科技**
-
-### 16. [Shopify讓WebMCP進入結帳流程，AI代理可在使用者確認後下單](https://www.ithome.com.tw/news/179266)
-
-Shopify替符合資格的商家加入WebMCP結帳支援，瀏覽器中的AI代理能讀取結帳內容、修改收件地址、配送方式與���扣，並在買家確認購買後送出訂單。Shopify先前已讓WebMCP處理商品搜尋與購物車，新增結帳支援後，AI代理可以從找商品一路協助到完成訂單。
-WebMCP讓網站把AI代理能使用的功能，以固定格式提供給瀏覽器，因此AI代理就不用反覆擷取畫面、讀取網頁內容、尋找欄位再模擬點擊。Shopify在結帳頁提供讀取、更新與完成結帳3類工具，AI代理能取得商品、總額、配送選項，以及尚缺少的資料。
-
-- 📰 **iThome 科技**
-
-### 17. [【資安日報】9月29日，OpenAI代理人為取得聯合國資料，自主繞過網站限制](https://www.ithome.com.tw/news/179265)
-
-本日新聞焦點
-● OpenAI代理人為取得聯合國資料，自主繞過網站限制
-● ShinyHunters聲稱竊得FBI資料中，包含敏感的探員個資與醫療紀錄
-● Citrix修補NetScaler一系列資安漏洞，包含兩個已遭利用的重大漏洞
-
-- 📰 **iThome 科技**
-
-### 18. [Citrix NetScaler重大漏洞在修補之前已遭到利用](https://www.ithome.com.tw/news/179264)
-
-9月27日Citrix發布資安公告，修補NetScaler系統8個資安漏洞，其中的CVE-2026-88771與CVE-2026-88772已被用於實際攻擊，同一天美國網路安全與基礎設施安全局（CISA）也將其加入已遭利用的漏洞名單（KEV），要求聯邦機構緊急採取行動因應。然而，在此之前，這些弱點傳出已有攻擊活動。
-
-- 📰 **iThome 科技**
-
-### 19. [企業威脅獵捕最大難題轉變，SANS指出資料問題首度超越人才不足](https://www.ithome.com.tw/news/179263)
-
-企業威脅獵捕團隊面臨的最大難題正在改變，過往其成效取決於是否擁有足夠的專業人力，如今則不然，SANS Institute最新調查顯示，資料品質與資料量首次超越專業人力，成為影響威脅獵捕成效的首要障礙；同時，雲端也成為最難進行獵捕的環境。
-
-- 📰 **iThome 科技**
-
-### 20. [Meta成立企業AI平臺，整合Muse等工具進軍企業市場](https://www.ithome.com.tw/news/179262)
-
-Meta周一（9/28）宣布成立Meta Enterprise Platform，計畫將Muse代理人、Meta Business 代理、Muse API及Muse 代碼等技術提供給企業與開發者，協助企業運用AI拓展業務。Meta並延攬MongoDB前執行長Chirantan CJ Desai擔任企業平臺長，直接向執行長祖克柏（Mark Zuckerberg）報告。
-
-- 📰 **iThome 科技**
-
-### 21. [NVIDIA替AI代理加入Sentry硬體安全監控，透過BlueField-4隔離越權代理](https://www.ithome.com.tw/news/179260)
-
-NVIDIA發布Open 代理 Safety Platform，將AI代理的安全控制從軟體執行環境延伸到硬體層。
-
-- 📰 **iThome 科技**
-
-### 22. [Google 11月淘汰Gems，現有設定轉為Skills](https://www.ithome.com.tw/news/179261)
-
-近日網路消息傳言Google將於10月底關閉Gems，Google本周證實是會關閉Gems，不過會轉成Skills（技能）繼續提供類似功能。
-
-- 📰 **iThome 科技**
-
-### 23. [Citrix修補NetScaler一系列資安漏洞，其中包含兩個已遭利用的重大漏洞](https://www.ithome.com.tw/news/179259)
-
-美國網路安全與基礎設施安全局（CISA）於9月27日提出警告，Citrix NetScaler重大漏洞CVE-2026-88771與CVE-2026-88772（CVSS v4.0嚴重程度評分皆為9.5）遭到積極利用，同一天Citrix發布資安更新，並指出這些弱點確實被用於實際攻擊，呼籲用戶儘速採取行動。
-
-- 📰 **iThome 科技**
-
-### 24. [美國CISA警告Citrix NetScaler重大漏洞遭積極利用](https://www.ithome.com.tw/news/179258)
-
-9月27日美國網路安全與基礎設施安全局（CISA）提出警告，他們已掌握兩個Citrix NetScaler重大漏洞遭積極利用的證據，將其加入已遭利用的漏洞名單（KEV），並要求聯邦機構必須在9月30日前完成修補。這些漏洞是：輸入驗證不當漏洞CVE-2026-88771，以及記憶體緩衝區操作限制不當漏洞CVE-2026-88772。
-
-- 📰 **iThome 科技**
-
-### 25. [新加坡電信商Simba遭駭，逾2.3萬名用戶個資外洩](https://www.ithome.com.tw/news/179257)
-
-新加坡電信業者Simba於9月25日公告發生資料外洩事件，影響23,549名註冊該公司服務的用戶，外洩資料包括用戶姓名、身分證號碼、出生日期、手機號碼及電子郵件地址，但信用卡與銀行帳戶資料並未受到影響，目前尚無跡象顯示相關資料已被惡意濫用。
-
-- 📰 **iThome 科技**
-
-### 26. [AMD斥資82億美元併購李飛飛創辦的World Labs，布局空間智慧AI](https://www.ithome.com.tw/news/179256)
-
-AMD周一（9/28）宣布，已簽署最終協議，將以全股票交易併購由李飛飛創辦的AI研究公司World Labs，交易價值約82億美元，預計於今年底前完成。李飛飛將在交易完成後出任AMD執行副總��暨首席科學家，直接向執行長蘇姿丰報告。
-
-- 📰 **iThome 科技**
-
-### 27. [佛州要求法院限制OpenAI開發新模型，禁止向未成年人提供ChatGPT](https://www.ithome.com.tw/news/179255)
-
-美國佛羅里達州檢察長James Uthmeier周一（9/28）向法院聲請暫時禁制令，要求OpenAI開發新AI模型時，必須先取得獨立第三方對其安全防護措施的核准，並停止向佛州未成年人提供ChatGPT。法院尚未裁定此事。
-
-- 📰 **iThome 科技**
-
-### 28. [Kiteworks因攻擊威脅要求客戶停機9小時，期間發現Advanced Forms重大漏洞](https://www.ithome.com.tw/news/179248)
-
-安全檔案交換服務商Kiteworks接獲聯邦情報機關提供的攻擊威脅情資，9月25日要求客戶安排9小時停機，避免系統在可能遭到攻擊的情況下持續運作，並在停機期間找到一項Advanced Forms重大漏洞，9月27日解除停機建議。
-
-- 📰 **iThome 科技**
-
-### 29. [CISA警告甫修補的WordPress重大路徑遍歷漏洞遭到利用](https://www.ithome.com.tw/news/179254)
-
-上週WordPress開發團隊修補重大漏洞CVE-2026-87902，不到一天資安公司Patchstack偵測到嘗試利用活動，週末美國網路安全與基礎設施安全局（CISA）也確
-
-- 📰 **iThome 科技**
-
-### 30. [GitHub讓AI代理接手模糊測試，可依覆蓋率自動補測未觸及程式碼](https://www.ithome.com.tw/news/179245)
-
-GitHub 安全 Lab開源Fuzzing Taskflow，可將大型語言模型代理與AFL++模糊測試工具串成自動化管線。開發者指定C/C++專案的GitHub儲存庫後，代理會找出適合測試的函式、分析建置方式、產生模糊測試程式並執行AFL++，再依程式覆蓋率修改測試程式或測試輸入，程式崩潰分析與漏洞報告也納入流程。GitHub提醒，漏洞判斷與修補內容仍須人工審查。
 
 - 📰 **iThome 科技**
 
@@ -194,6 +196,15 @@ GitHub 安全 Lab開源Fuzzing Taskflow，可將大型語言模型代理與AFL++
 
 ### 更多 AI 新聞 (70則)
 
+- The 最佳 Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets (**Wired**)
+- The 最佳 Gaming Routers (2026): Tested By a Family of Gamers (**Wired**)
+- Black Twitter Is Thriving—on Threads (**Wired**)
+- How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank (**Wired**)
+- 最佳 Mattresses for Kids (2026): Saatva, Birch, Helix, and More (**Wired**)
+- The 6 最佳 Laptop Docking Stations to Unlock the Full Desktop Experience (2026) (**Wired**)
+- LG Promo Codes and Coupons for October 2026 (**Wired**)
+- 30% Off Canon Promo Codes | October 2026 (**Wired**)
+- Fanatics Promo 代碼: 10% Off (**Wired**)
 - Range Rover Sport Electric: Price, Specs, Availability (**Wired**)
 - OpenAI Gets Sued Over the Hugging Face Hack (**Wired**)
 - Away’s 新 Series 3 Luggage Plays It Safe—That’s the Point (**Wired**)
@@ -209,8 +220,8 @@ GitHub 安全 Lab開源Fuzzing Taskflow，可將大型語言模型代理與AFL++
 - Plastic Is Melting Onto Corals (**Wired**)
 - 19 最佳 Gifts for Plant Lovers and Gardeners (2026) (**Wired**)
 - NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026 (**Wired**)
-- Home Depot Promo Codes: 30% Off in October 2026 (**Wired**)
 - Motorola Coupon 代碼 for October 2026 (**Wired**)
+- Home Depot Promo Codes: 30% Off in October 2026 (**Wired**)
 - 50% Off Blue Apron Promo Codes | October 2026 (**Wired**)
 - Target Promo 代碼: $50 Off | October 2026 (**Wired**)
 - Uplift Promo Codes: $300 Off (**Wired**)
@@ -235,15 +246,6 @@ GitHub 安全 Lab開源Fuzzing Taskflow，可將大型語言模型代理與AFL++
 - The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet (**Wired**)
 - Nicotine Is Mounting a Comeback in the Wellness Movement (**Wired**)
 - Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes (**Wired**)
-- Old-School Credit Card Scams Are Far From Dead (**Wired**)
-- 12 最佳 White Elephant Gifts, Plus a Prank Box to Put Them In (2026) (**Wired**)
-- 最佳 Mesh Wi-Fi Systems (2026): I Tested Them All (**Wired**)
-- Meta’s Muse Is Adults-Only. 為什麼 Does It Look Like a Kids’ Toy? (**Wired**)
-- This Browser Extension Lets You Snooze Open Tabs Until Later (**Wired**)
-- A Gravitational Battle Within the Earth Is Changing the Length of Days (**Wired**)
-- The 最佳 Early Prime Day Deals Ahead of Amazon’s Second Sale (2026) (**Wired**)
-- Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026) (**Wired**)
-- Thieves Stole ‘NVIDIA’ Trailers. They Got 20 Tons of Sand (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
