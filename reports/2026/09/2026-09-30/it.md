@@ -4,210 +4,208 @@
 
 ---
 
-### 1. [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+### 1. [A Brief History of the Bloomberg Terminal](https://spectrum.ieee.org/bloomberg-terminal)
 
-- ⭐ 123 分｜💬 47 留言｜👤 yarapavan
+- ⭐ 65 分｜💬 19 留言｜👤 rbanffy
 
-### 2. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+### 2. [You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
 
-- ⭐ 676 分｜💬 267 留言｜👤 bryan0
+- ⭐ 456 分｜💬 254 留言｜👤 yarapavan
 
-### 3. [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
+### 3. [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+
+- ⭐ 71 分｜💬 35 留言｜👤 ibobev
+
+### 4. [I Could've Accessed 17T Microsoft Records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)
+
+- ⭐ 107 分｜💬 50 留言｜👤 luispa
+
+### 5. [Reverse-engineering a $35 backup camera display (AMT630A)](https://github.com/mogrinz/AMT630A)
+
+- ⭐ 30 分｜💬 6 留言｜👤 mogrinz
+
+### 6. [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)
+
+- ⭐ 19 分｜💬 8 留言｜👤 croes
+
+### 7. [Bild AI (YC W25) Is 招聘 a Founding Product 工程師](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer)
+
+- ⭐ 1 分｜💬 0 留言｜👤 rooppal
+
+### 8. [SDF Public Access Unix 系統 ... est. 1987](https://sdf.org/)
+
+- ⭐ 20 分｜💬 1 留言｜👤 kmstout
+
+### 9. [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
 
 We built a desktop companion robot that is powered by Arduino UNO Q. Project is 開源: source 代碼, 3D printable files and assembly instructions are available at Arduino Project Hub.Robot is equ
 
-- ⭐ 16 分｜💬 5 留言｜👤 gvuksic
+- ⭐ 102 分｜💬 23 留言｜👤 gvuksic
 
-### 4. [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
+### 10. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
 
-- ⭐ 107 分｜💬 33 留言｜👤 laurenth
+- ⭐ 817 分｜💬 338 留言｜👤 bryan0
 
-### 5. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+### 11. [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
 
-- ⭐ 644 分｜💬 508 留言｜👤 alvis
+- ⭐ 17 分｜💬 1 留言｜👤 b-man
 
-### 6. [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
+### 12. [Mathematical Origami](https://mathigon.org/origami)
 
-- ⭐ 299 分｜💬 171 留言｜👤 marjancek
+- ⭐ 78 分｜💬 16 留言｜👤 signa11
 
-### 7. [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
+### 13. [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
+
+- ⭐ 215 分｜💬 78 留言｜👤 laurenth
+
+### 14. [Show HN: I created a BGP-based blackhole 系統 that you can set up in minutes](https://setecastronomyinc.com/shield)
+
+Hey friends, I&#x27;ve been working on this idea since 2019, and wanted to share it and see who might be interested.  I built a BGP 網絡 full of nodes that collect threat data, put it on a blockcha
+
+- ⭐ 4 分｜💬 0 留言｜👤 jkalbfeld
+
+### 15. [Getting out of the way: my robotics crash course](https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/)
+
+- ⭐ 33 分｜💬 7 留言｜👤 systemerror
+
+### 16. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+
+- ⭐ 715 分｜💬 599 留言｜👤 alvis
+
+### 17. [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
 
 See also https:&#x2F;&#x2F;electrek.co&#x2F;2026&#x2F;07&#x2F;28&#x2F;vermonts-largest-energy-sourc...
 
-- ⭐ 226 分｜💬 175 留言｜👤 devonnull
+- ⭐ 327 分｜💬 247 留言｜👤 devonnull
 
-### 8. [America.gov](https://america.gov/)
+### 18. [Show HN: Ledge.sh – Runnable Markdown Notes](https://ledge.sh)
 
-- ⭐ 596 分｜💬 501 留言｜👤 plesiv
+Hi HN,Ledge is a Markdown notebook that runs shell commands, 代碼, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the te
 
-### 9. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- ⭐ 23 分｜💬 6 留言｜👤 dancablam
 
-- ⭐ 238 分｜💬 139 留言｜👤 ilamont
+### 19. [NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart)
 
-### 10. [NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart)
+- ⭐ 276 分｜💬 304 留言｜👤 ilamont
 
-- ⭐ 191 分｜💬 186 留言｜👤 ilamont
+### 20. [America.gov](https://america.gov/)
 
-### 11. [Show HN: Real-time Solar 系統 with 526k asteroids and all tracked satellites](https://space.bl2.net/)
+- ⭐ 724 分｜💬 654 留言｜👤 plesiv
 
-- ⭐ 273 分｜💬 64 留言｜👤 wanick
+### 21. [Burning Man Death Rates – A Short Lesson in Statistics](https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson)
 
-### 12. [Testing WebGPU data layouts with Facet](https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/)
+- ⭐ 12 分｜💬 0 留言｜👤 viraj_shah
 
-- ⭐ 51 分｜💬 3 留言｜👤 luu
+### 22. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
 
-### 13. [Floppy Emu 硬體 Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
+- ⭐ 262 分｜💬 155 留言｜👤 ilamont
 
-- ⭐ 15 分｜💬 3 留言｜👤 zdw
+### 23. [Show HN: Real-time Solar 系統 with 526k asteroids and all tracked satellites](https://space.bl2.net/)
 
-### 14. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+- ⭐ 348 分｜💬 92 留言｜👤 wanick
 
-- ⭐ 534 分｜💬 296 留言｜👤 rbanffy
+### 24. [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
 
-### 15. [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
+- ⭐ 326 分｜💬 48 留言｜👤 evakhoury
 
-- ⭐ 85 分｜💬 18 留言｜👤 Baljhin
+### 25. [Backblaze drive stats for Q2 2026](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/)
 
-### 16. [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
+- ⭐ 281 分｜💬 91 留言｜👤 HieronymusBosch
 
-- ⭐ 304 分｜💬 48 留言｜👤 evakhoury
+### 26. [Floppy Emu 硬體 Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
 
-### 17. [Backblaze drive stats for Q2 2026](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/)
+- ⭐ 44 分｜💬 9 留言｜👤 zdw
 
-- ⭐ 214 分｜💬 64 留言｜👤 HieronymusBosch
+### 27. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
 
-### 18. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)
+- ⭐ 566 分｜💬 309 留言｜👤 rbanffy
 
-- ⭐ 972 分｜💬 849 留言｜👤 crorella
+### 28. [Testing WebGPU data layouts with Facet](https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/)
 
-### 19. [Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality](https://github.com/ciromattia/kcc)
+- ⭐ 78 分｜💬 6 留言｜👤 luu
 
-Kindle Comic Converter optimizes black &amp; white (or color) comics and manga for E-ink ereaders like Kindle, Kobo, ReMarkable, and more. Pages display in fullscreen without margins, with proper fixe
+### 29. [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
 
-- ⭐ 30 分｜💬 4 留言｜👤 seam_carver
+- ⭐ 112 分｜💬 38 留言｜👤 Baljhin
 
-### 20. [Built Dental Scope](https://dental-scope.com/)
+### 30. [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)
 
-- ⭐ 41 分｜💬 9 留言｜👤 Zeruxe
-
-### 21. [Needed 1+1, built a functional 程式設計 language](https://hereticpleb.vercel.app/blog/needed-one-plus-one/)
-
-- ⭐ 115 分｜💬 37 留言｜👤 birdculture
-
-### 22. [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)
-
-- ⭐ 137 分｜💬 7 留言｜👤 Anon84
-
-### 23. [When oil prices spike, where does the money go?](https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763)
-
-- ⭐ 96 分｜💬 82 留言｜👤 thelastgallon
-
-### 24. [Ask HN: What are you reading?](https://news.ycombinator.com/item?id=49893157)
-
-I&#x27;m plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi&#x2F;LitRPG goes, but entertaining enough.  I&#x27;m also wrapping up Doctorow&#x27;s _Enshitt
-
-- ⭐ 308 分｜💬 594 留言｜👤 dan-bailey
-
-### 25. [A Staff 工程師's Guide to Inventing Work](https://sujithjay.com/inventing-work)
-
-- ⭐ 283 分｜💬 57 留言｜👤 amortize
-
-### 26. [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit)
-
-- ⭐ 322 分｜💬 193 留言｜👤 therepanic
-
-### 27. [NAND-16: a computer built from 277,248 NAND gates](https://somethingbig.ai/computer)
-
-- ⭐ 149 分｜💬 87 留言｜👤 rossant
-
-### 28. [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river)
-
-- ⭐ 47 分｜💬 17 留言｜👤 papa-whisky
-
-### 29. [Show HN: NSL – WSL for Linux](https://frostyard.github.io/nsl/)
-
-One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my ans
-
-- ⭐ 139 分｜💬 82 留言｜👤 bketelsen
-
-### 30. [GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence](https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence)
-
-- ⭐ 49 分｜💬 64 留言｜👤 theanonymousone
+- ⭐ 185 分｜💬 9 留言｜👤 Anon84
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- We’re forgetting what darkness feels like
-- Flydubai B38M, first officer under investigation for suspected suicide attempt
-- Tcl/Tk 9.1
-- Commodore 64: Mercenary
-- PSSA: A non-transformer language 模型 written from scratch in Rust
-- 為什麼 Is Sam Altman a Free Man?
+- Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality
+- GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+- A Staff 工程師's Guide to Inventing Work
+- Needed 1+1, built a functional 程式設計 language
+- September 2026: The world today, as seen by one Polish guy
+- Ask HN: What are you reading?
+- When oil prices spike, where does the money go?
+- NRC issues first U.S. construction permit for a BWRX-300 small modular reactor
+- NAND-16: a computer built from 277,248 NAND gates
+- Show HN: NSL – WSL for Linux
 - Most data centers refusing to say how much water, electricity they use
-- Building a certificate authority for the whole Internet
+- Minitel
+- 為什麼 copyright makes no sense
+- Tobacco – Smoking Cigarettes – Radiation Dose
+- Built Dental Scope
+- PS5 Relapse Exploit
+- Tcl/Tk 9.1
+- We’re forgetting what darkness feels like
+- Commodore 64: Mercenary
+- Muse.AI gets me kicked off fb marketplace
+- Ukraine Can't Stop Russia's Jet-Powered Shahed Drone
 - Stuck in the Suez Canal – the short version (2021)
 - Show HN: A working 3D 模型 of an Enigma machine
-- Sustainable energy without the hot air (2008)
-- Ballmer Peak
-- Deser: Rethinking Rust Serialization
+- Kuala Lumpur is the world's most polluted city due to haze, Singapore third
 - A Privacy Analysis of 網頁 and 行動 Conversational AI Agents [pdf]
+- Ice Age Spear Points Tell a Story of Human Progress
+- Sustainable energy without the hot air (2008)
+- For the First Time in a Century, the Atlantic May See No Hurricanes
+- Cold War espionage added $4.6B to East Germany's economy
+- PSSA: A non-transformer language 模型 written from scratch in Rust
 - Walking Men
-- Virus Stole a Human Gene and Won't Let Go of It
 - Digital Audio on the ZX Spectrum's 1-Bit Beeper
-- Show HN: TurboGPT: train 22KiB transformer in 13s
-- Singapore Govt Dating App Uses Gale-Shapley Stable Marriage Algorithm
-- What if Jev spoke Arrow?
-- Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)
-- Solving a corn puzzle with CP-SAT
+- Deser: Rethinking Rust Serialization
+- Virus Stole a Human Gene and Won't Let Go of It
 - When did Google get so weird?
+- What if Jev spoke Arrow?
+- Singapore Govt Dating App Uses Gale-Shapley Stable Marriage Algorithm
+- Ballmer Peak
+- The AI Race Just Got Awkward
+- Flydubai B38M, first officer under investigation for suspected suicide attempt
+- Show HN: TurboGPT: train 22KiB transformer in 13s
 - 軟體 occlusion culling in Block Game
+- Does Reddit have an astroturfing problem? What the data suggests
 - 1 in 8 cancer cases worldwide are caused by infections, study finds
-- Booted up in 1993, this 伺服器 still runs – but not for much longer (2017)
 - Systems that no one will 測試
+- Solving a corn puzzle with CP-SAT
+- Booted up in 1993, this 伺服器 still runs – but not for much longer (2017)
+- Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)
+- Jeeves. Reasoning improves Jev-like decision models
+- GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence
 - ChatGPT Pro 500
 - Galaxy Game
-- Responsible Release of AI-Generated Mathematics
-- Jeeves. Reasoning improves Jev-like decision models
-- Does Reddit have an astroturfing problem? What the data suggests
-- All Circuits Are Busy Now: The 1990 AT&T Long Distance 網絡 Collapse (1995)
-- Show HN: Ledge.sh – Runnable Markdown Notes
 - Everybody’s home. No one’s coming over
-- Google ending ChromeOS support two years early
-- Four CHI '26 papers I wish I wrote
-- Israel-bound flight diverted to Saudi Arabia after brawl between pilots
-- Using any C++ library in Godot
-- Tesla takes on $30B in credit as it approaches unprofitability
+- Pledge signed by President Trump and 熱門 AI leaders misspells the United States
 - California farmers are struggling to sell grapes as demand for wine drops
+- Google ending ChromeOS support two years early
+- Salmon Are Thriving After Klamath River Dam Removals
+- All Circuits Are Busy Now: The 1990 AT&T Long Distance 網絡 Collapse (1995)
+- Four CHI '26 papers I wish I wrote
 - Scientists solve 1840s space weather mystery
-- Show HN: Jevstiller – Distill Jev into a local 模型, with a disagreement bound
-- AI tools generated nearly $1B in extra costs, Blue Cross insurers say
+- Using any C++ library in Godot
 - Show HN: HN.watch – Videos of all Hacker News posts
 - Behold the pawpaw
-- Synthetic Sagas
-- How our vibe coded website looks like a designer made it
-- DevDay 2026 Recap
-- Mathematicians Harness Randomness to Crack a 55-Year-Old Conjecture
-- 500k facial scans at UK stations yield no arrests, 1 false positive
-- Climate Essay: The Inconvenient Truth Behind the Inconvenient Truth (2026)
-- World Labs is Joining AMD
-- Inspect: An open-source framework for large language 模型 evaluations
-- Its not just the f*cking sandbox
+- Show HN: Jevstiller – Distill Jev into a local 模型, with a disagreement bound
+- Nissan's third generation e-POWER powertrain
 - Show HN: Destroy Any Website with Stickman
 - Cf: The Agentic CLI for the Cloudflare API
+- World Labs is Joining AMD
 - It's Time to Investigate the AI Labs
-- Nissan's third generation e-POWER powertrain
-- Optimizing x264 settings and per-title ladders
-- Show HN: Sarala – An open-source WYSIWYG Markdown editor
-- Pirating the Pirates
-- Coding is not solved
-- 37,500 border drawings: a map of the world as people remember it
-- Footguns with Postgres “at time zone 'UTC'”
-- What would a serious AI product look like?
-- McDonald's push to have AI price your Big Mac
-- Israel-bound flight lands in Saudi Arabia after violent incident between pilots
-- Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland
-- Show HN: Sezwhere – Ask any document "where does it say that?" (built on Jev)
+- Its not just the f*cking sandbox
 
 
 ---

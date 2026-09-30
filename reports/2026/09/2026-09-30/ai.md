@@ -196,6 +196,7 @@ AI代理安全業者Zenity近日揭露Salesforce AI代理平臺Agentforce的Sale
 
 ### 更多 AI 新聞 (70則)
 
+- A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos (**Wired**)
 - The 最佳 Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets (**Wired**)
 - The 最佳 Gaming Routers (2026): Tested By a Family of Gamers (**Wired**)
 - Black Twitter Is Thriving—on Threads (**Wired**)
@@ -219,8 +220,8 @@ AI代理安全業者Zenity近日揭露Salesforce AI代理平臺Agentforce的Sale
 - Beats 360 Review: Customizable, Stylish, and Fun (**Wired**)
 - Plastic Is Melting Onto Corals (**Wired**)
 - 19 最佳 Gifts for Plant Lovers and Gardeners (2026) (**Wired**)
-- NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026 (**Wired**)
 - Motorola Coupon 代碼 for October 2026 (**Wired**)
+- NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026 (**Wired**)
 - Home Depot Promo Codes: 30% Off in October 2026 (**Wired**)
 - 50% Off Blue Apron Promo Codes | October 2026 (**Wired**)
 - Target Promo 代碼: $50 Off | October 2026 (**Wired**)
@@ -245,7 +246,6 @@ AI代理安全業者Zenity近日揭露Salesforce AI代理平臺Agentforce的Sale
 - You Don’t Need to Pay for Distraction-Blocking 軟體 (**Wired**)
 - The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet (**Wired**)
 - Nicotine Is Mounting a Comeback in the Wellness Movement (**Wired**)
-- Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
