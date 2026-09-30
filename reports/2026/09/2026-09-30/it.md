@@ -4,208 +4,204 @@
 
 ---
 
-### 1. [A Brief History of the Bloomberg Terminal](https://spectrum.ieee.org/bloomberg-terminal)
+### 1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
 
-- ⭐ 65 分｜💬 19 留言｜👤 rbanffy
+- ⭐ 602 分｜💬 369 留言｜👤 bradleyg223
 
-### 2. [You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+### 2. [Surprisingly Complex Waves Reveal the Brain's Inner Workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
 
-- ⭐ 456 分｜💬 254 留言｜👤 yarapavan
+- ⭐ 68 分｜💬 15 留言｜👤 ibobev
 
-### 3. [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+### 3. [EDG C++ front-end goes public](https://edgcpp.org/#transition)
 
-- ⭐ 71 分｜💬 35 留言｜👤 ibobev
+- ⭐ 80 分｜💬 32 留言｜👤 iandinwoodie
 
-### 4. [I Could've Accessed 17T Microsoft Records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)
+### 4. [Launch HN: Magnitude (YC S25) – Self-optimizing 推論 engine for agents](https://github.com/magnitudedev/magnitude)
 
-- ⭐ 107 分｜💬 50 留言｜👤 luispa
+Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an 推論 engine for agents that optimizes itself to run as fast as possible on your 硬體. It works on Mac, Linux, and Windows on any
 
-### 5. [Reverse-engineering a $35 backup camera display (AMT630A)](https://github.com/mogrinz/AMT630A)
+- ⭐ 97 分｜💬 43 留言｜👤 anerli
 
-- ⭐ 30 分｜💬 6 留言｜👤 mogrinz
+### 5. [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon)
 
-### 6. [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)
+- ⭐ 18 分｜💬 8 留言｜👤 theanonymousone
 
-- ⭐ 19 分｜💬 8 留言｜👤 croes
+### 6. [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
 
-### 7. [Bild AI (YC W25) Is 招聘 a Founding Product 工程師](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer)
+- ⭐ 68 分｜💬 24 留言｜👤 jbott
+
+### 7. [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
+
+- ⭐ 32 分｜💬 6 留言｜👤 luu
+
+### 8. [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
+
+- ⭐ 188 分｜💬 74 留言｜👤 rbanffy
+
+### 9. [You said no MCP](https://earendil.com/posts/you-said-no-mcp/)
+
+- ⭐ 561 分｜💬 323 留言｜👤 yarapavan
+
+### 10. [I could've accessed 17T Microsoft records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)
+
+- ⭐ 223 分｜💬 97 留言｜👤 luispa
+
+### 11. [Gitea 28.0](https://blog.gitea.com/release-of-28.0.0/)
+
+- ⭐ 37 分｜💬 14 留言｜👤 porridgeraisin
+
+### 12. [The last time my family was replaced by technology](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)
+
+- ⭐ 146 分｜💬 342 留言｜👤 megalomanu
+
+### 13. [Functional Ultrasound Imaging (fUSI) from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
+
+- ⭐ 7 分｜💬 1 留言｜👤 pminimax
+
+### 14. [CHOMPI portable sampler instrument is now open-source (硬體 and 軟體)](https://www.chompiclub.com/opensource)
+
+- ⭐ 8 分｜💬 2 留言｜👤 lashkari
+
+### 15. [Bild AI (YC W25) Is 招聘 a Founding Product 工程師](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer)
 
 - ⭐ 1 分｜💬 0 留言｜👤 rooppal
 
-### 8. [SDF Public Access Unix 系統 ... est. 1987](https://sdf.org/)
+### 16. [Before pixels: Modular industrial dashboards](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
 
-- ⭐ 20 分｜💬 1 留言｜👤 kmstout
+- ⭐ 12 分｜💬 2 留言｜👤 leephillips
 
-### 9. [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
+### 17. [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
 
-We built a desktop companion robot that is powered by Arduino UNO Q. Project is 開源: source 代碼, 3D printable files and assembly instructions are available at Arduino Project Hub.Robot is equ
+- ⭐ 109 分｜💬 25 留言｜👤 b-man
 
-- ⭐ 102 分｜💬 23 留言｜👤 gvuksic
+### 18. [Doing a 機器學習 PhD While Working in Japan](https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan)
 
-### 10. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- ⭐ 7 分｜💬 2 留言｜👤 pwim
 
-- ⭐ 817 分｜💬 338 留言｜👤 bryan0
+### 19. [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258)
 
-### 11. [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
+Related: https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cqzjzr893yv4o
 
-- ⭐ 17 分｜💬 1 留言｜👤 b-man
+- ⭐ 45 分｜💬 5 留言｜👤 rzk
 
-### 12. [Mathematical Origami](https://mathigon.org/origami)
+### 20. [Commit description as a thinking tool](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
 
-- ⭐ 78 分｜💬 16 留言｜👤 signa11
+- ⭐ 100 分｜💬 58 留言｜👤 yedhukrishnan
 
-### 13. [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
+### 21. [Burning Man death rates – A short lesson in statistics](https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson)
 
-- ⭐ 215 分｜💬 78 留言｜👤 laurenth
+- ⭐ 81 分｜💬 100 留言｜👤 viraj_shah
 
-### 14. [Show HN: I created a BGP-based blackhole 系統 that you can set up in minutes](https://setecastronomyinc.com/shield)
+### 22. [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
 
-Hey friends, I&#x27;ve been working on this idea since 2019, and wanted to share it and see who might be interested.  I built a BGP 網絡 full of nodes that collect threat data, put it on a blockcha
+- ⭐ 117 分｜💬 47 留言｜👤 ibobev
 
-- ⭐ 4 分｜💬 0 留言｜👤 jkalbfeld
+### 23. [CS240 AI Cheating Retrospective](https://turkeyland.net/thoughts/ai.php)
 
-### 15. [Getting out of the way: my robotics crash course](https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/)
+- ⭐ 18 分｜💬 4 留言｜👤 ArchAndStarch
 
-- ⭐ 33 分｜💬 7 留言｜👤 systemerror
+### 24. [Dumb servers, smart clients: Distributing OS images with Quarry](https://amutable.com/blog/distributing-images-quarry)
 
-### 16. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+- ⭐ 12 分｜💬 0 留言｜👤 Levitating
 
-- ⭐ 715 分｜💬 599 留言｜👤 alvis
+### 25. [Recursive `make` and `-j`](https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/)
 
-### 17. [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
+- ⭐ 10 分｜💬 2 留言｜👤 ibobev
 
-See also https:&#x2F;&#x2F;electrek.co&#x2F;2026&#x2F;07&#x2F;28&#x2F;vermonts-largest-energy-sourc...
+### 26. [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)
 
-- ⭐ 327 分｜💬 247 留言｜👤 devonnull
+- ⭐ 56 分｜💬 58 留言｜👤 aureianimus
 
-### 18. [Show HN: Ledge.sh – Runnable Markdown Notes](https://ledge.sh)
+### 27. [Understanding the Dual Polytope for Hull Simplification](https://cairnc.github.io/posts/understanding-the-dual-polytope/)
 
-Hi HN,Ledge is a Markdown notebook that runs shell commands, 代碼, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the te
+- ⭐ 12 分｜💬 1 留言｜👤 OlympicMarmoto
 
-- ⭐ 23 分｜💬 6 留言｜👤 dancablam
+### 28. [SDF Public Access Unix 系統 ... est. 1987](https://sdf.org/)
 
-### 19. [NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart)
+- ⭐ 70 分｜💬 13 留言｜👤 kmstout
 
-- ⭐ 276 分｜💬 304 留言｜👤 ilamont
+### 29. [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)
 
-### 20. [America.gov](https://america.gov/)
+- ⭐ 51 分｜💬 31 留言｜👤 croes
 
-- ⭐ 724 分｜💬 654 留言｜👤 plesiv
+### 30. [America.gov goes crazy on "play Minecraft"](https://america.gov/chat)
 
-### 21. [Burning Man Death Rates – A Short Lesson in Statistics](https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson)
-
-- ⭐ 12 分｜💬 0 留言｜👤 viraj_shah
-
-### 22. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
-
-- ⭐ 262 分｜💬 155 留言｜👤 ilamont
-
-### 23. [Show HN: Real-time Solar 系統 with 526k asteroids and all tracked satellites](https://space.bl2.net/)
-
-- ⭐ 348 分｜💬 92 留言｜👤 wanick
-
-### 24. [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
-
-- ⭐ 326 分｜💬 48 留言｜👤 evakhoury
-
-### 25. [Backblaze drive stats for Q2 2026](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/)
-
-- ⭐ 281 分｜💬 91 留言｜👤 HieronymusBosch
-
-### 26. [Floppy Emu 硬體 Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
-
-- ⭐ 44 分｜💬 9 留言｜👤 zdw
-
-### 27. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
-
-- ⭐ 566 分｜💬 309 留言｜👤 rbanffy
-
-### 28. [Testing WebGPU data layouts with Facet](https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/)
-
-- ⭐ 78 分｜💬 6 留言｜👤 luu
-
-### 29. [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
-
-- ⭐ 112 分｜💬 38 留言｜👤 Baljhin
-
-### 30. [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)
-
-- ⭐ 185 分｜💬 9 留言｜👤 Anon84
+- ⭐ 91 分｜💬 33 留言｜👤 thoughtfullyso
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality
-- GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
-- A Staff 工程師's Guide to Inventing Work
-- Needed 1+1, built a functional 程式設計 language
-- September 2026: The world today, as seen by one Polish guy
-- Ask HN: What are you reading?
-- When oil prices spike, where does the money go?
-- NRC issues first U.S. construction permit for a BWRX-300 small modular reactor
-- NAND-16: a computer built from 277,248 NAND gates
-- Show HN: NSL – WSL for Linux
-- Most data centers refusing to say how much water, electricity they use
-- Minitel
-- 為什麼 copyright makes no sense
-- Tobacco – Smoking Cigarettes – Radiation Dose
-- Built Dental Scope
-- PS5 Relapse Exploit
-- Tcl/Tk 9.1
-- We’re forgetting what darkness feels like
-- Commodore 64: Mercenary
-- Muse.AI gets me kicked off fb marketplace
-- Ukraine Can't Stop Russia's Jet-Powered Shahed Drone
-- Stuck in the Suez Canal – the short version (2021)
+- Dear 軟體 Makers
+- LinkedIn Larpmaxxing
+- Reverse-engineering a $35 backup camera display (AMT630A)
+- Show HN: Ledge.sh – Runnable Markdown Notes
+- Dear User, email is here to stay
+- Show HN: JBR-001 – An open-source 3D printable desktop robot
+- Solving Factorio Quality
+- Getting out of the way: my robotics crash course
+- Carnegie Mellon University 宣布 Historic $3B Gift from Ken Griffin
+- Mathematical Origami
+- Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]
+- Show HN: Dental Scope – Interactive 3D dental anatomy
+- Denying Insulin and Meds: Disturbing Pictures of Neglect in ICE Mortality Report
 - Show HN: A working 3D 模型 of an Enigma machine
-- Kuala Lumpur is the world's most polluted city due to haze, Singapore third
+- Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data
+- Great Dirhombicosidodecahedron ("Miller's Monster")
+- 16-year-old found Microsoft bug, got admin access to 17.3T-row databases
+- Anthropic's IPO Prospectus Is a Fucking Doozy
+- Livenerf: Has Opus 5.5 been nerfed yet?
+- Show HN: Strata – an expressive semantic layer that can say no to your 大型語言模型
+- Energy Timelines Photovoltaic
+- Phyllotaxis: An audio-reactive LED display
+- India restores ancient water systems (stepwells)
+- Bologna Bottle
+- Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac
+- NRC issues first U.S. construction permit for a BWRX-300 small modular reactor
+- Floppy Emu 硬體 Failure Analysis Results
+- Language models for text classification: From bag-of-words to Jev
+- The Ethernet spec was first drafted on this day in 1980
+- Google Grapples with Employee Skepticism About 新 Gemini 模型
+- RSS Feeds for Last.fm
+- Ask HN: What are you reading?
+- Testing WebGPU data layouts with Facet
+- GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+- FTC opens probe into AI giants including Anthropic and OpenAI
+- Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality
+- Needed 1+1, built a functional 程式設計 language
+- Reddit is putting more limits on old.reddit.com
+- The Cuckoo's Egg (Book)
+- When oil prices spike, where does the money go?
+- Dots: Always-on agents
+- Adding Giscus to Your Hugo Site – Hayden's Blog
+- Vermont replacing power plants with home batteries
+- Branch Target Reuse, BTR: 新 Spectre V2 Attack Targeting JIT Compilers
+- NASA asked several former SR-71A staffers to help secret restart
+- America.gov
+- Senate Democrats block bill to limit lawmakers' stock trades, citing voter ID
+- NAND-16: a computer built from 277,248 NAND gates
+- Japan officially overhauls permanent residency rules
+- Show HN: NSL – WSL for Linux
+- Show HN: Real-time Solar 系統 with 526k asteroids and all tracked satellites
+- U.S. postal inspectors shut down website selling counterfeit postage labels
+- Tcl/Tk 9.1
+- Pilot of Israel-bound FlyDubai flight tried to crash plane
+- Backblaze drive stats for Q2 2026
+- PS5 Relapse Exploit
+- Most data centers refusing to say how much water, electricity they use
+- We’re forgetting what darkness feels like
+- How Delhi cut electricity loss from 50 to 5 percent
+- The Homeless Community in Portland, Oregon That Became a Self-Governed Village
+- Minitel
+- Stuck in the Suez Canal – the short version (2021)
+- A Staff 工程師's Guide to Inventing Work
 - A Privacy Analysis of 網頁 and 行動 Conversational AI Agents [pdf]
-- Ice Age Spear Points Tell a Story of Human Progress
-- Sustainable energy without the hot air (2008)
-- For the First Time in a Century, the Atlantic May See No Hurricanes
-- Cold War espionage added $4.6B to East Germany's economy
-- PSSA: A non-transformer language 模型 written from scratch in Rust
+- Commodore 64: Mercenary
+- When did Google get so weird?
 - Walking Men
 - Digital Audio on the ZX Spectrum's 1-Bit Beeper
+- Sustainable energy without the hot air (2008)
 - Deser: Rethinking Rust Serialization
-- Virus Stole a Human Gene and Won't Let Go of It
-- When did Google get so weird?
-- What if Jev spoke Arrow?
-- Singapore Govt Dating App Uses Gale-Shapley Stable Marriage Algorithm
-- Ballmer Peak
-- The AI Race Just Got Awkward
-- Flydubai B38M, first officer under investigation for suspected suicide attempt
-- Show HN: TurboGPT: train 22KiB transformer in 13s
-- 軟體 occlusion culling in Block Game
-- Does Reddit have an astroturfing problem? What the data suggests
-- 1 in 8 cancer cases worldwide are caused by infections, study finds
-- Systems that no one will 測試
-- Solving a corn puzzle with CP-SAT
-- Booted up in 1993, this 伺服器 still runs – but not for much longer (2017)
-- Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)
-- Jeeves. Reasoning improves Jev-like decision models
-- GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence
-- ChatGPT Pro 500
-- Galaxy Game
-- Everybody’s home. No one’s coming over
-- Pledge signed by President Trump and 熱門 AI leaders misspells the United States
-- California farmers are struggling to sell grapes as demand for wine drops
-- Google ending ChromeOS support two years early
-- Salmon Are Thriving After Klamath River Dam Removals
-- All Circuits Are Busy Now: The 1990 AT&T Long Distance 網絡 Collapse (1995)
-- Four CHI '26 papers I wish I wrote
-- Scientists solve 1840s space weather mystery
-- Using any C++ library in Godot
-- Show HN: HN.watch – Videos of all Hacker News posts
-- Behold the pawpaw
-- Show HN: Jevstiller – Distill Jev into a local 模型, with a disagreement bound
-- Nissan's third generation e-POWER powertrain
-- Show HN: Destroy Any Website with Stickman
-- Cf: The Agentic CLI for the Cloudflare API
-- World Labs is Joining AMD
-- It's Time to Investigate the AI Labs
-- Its not just the f*cking sandbox
 
 
 ---
