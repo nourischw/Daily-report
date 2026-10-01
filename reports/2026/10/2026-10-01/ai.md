@@ -26,13 +26,13 @@
 
 ### 4. [中國駭客UAT-11587鎖定臺灣學術界與智庫，以圖片仿製Gmail附件預覽介面並用政府文件作為誘餌](https://www.ithome.com.tw/news/179344)
 
-臺灣學術界、智庫與公民社會政策社群今年3月遭中國駭客UAT-11587鎖定，攻擊者透過魚叉式網釣接觸目標，目的是散布後門Antino，並在郵件中仿製Gmail原生附件預覽介面，將惡意連結包裝成看似正常的Gmail附件縮圖，不同攻擊活動還會搭配量身設計的誘餌文件，例如以資訊戰工作坊資料及政府公開文件作為網釣題材。這波鎖定臺灣的攻擊，也成為Cisco Talos追查一系列網路間諜活動的重要線索；研究人員後續擴大調查後發現，相關攻擊最早可追溯至2025年9月，且已涵蓋多個亞洲國家。散布後門Antino
+臺灣學術界、智庫與公民社會政策社群今年3月遭中國駭客UAT-11587鎖定，攻擊者透過魚叉式網釣接觸目標，目的是散布後門Antino，並在郵件中仿製Gmail原生附件預覽介面，將惡意連結包裝成看似正常的Gmail附件縮圖，不同攻擊活動還會搭配量身設計的誘餌文件，例如以資訊戰工作坊資料及政府公開文件作為網釣題材。這波鎖定臺灣的攻擊，也成為Cisco Talos追查一系列網路間諜活動的重要線索；研究人員後續擴大調查後發現，相關攻擊最早可追溯至2025年9月，且已涵蓋多個亞洲國家。
 
 - 📰 **iThome 科技**
 
 ### 5. [OpenPoint推出AI生活服務平臺，導入AI 代理線上預約餐廳、居家清潔與藥局領藥等12項服務](https://www.ithome.com.tw/news/179346)
 
-過去消費者要安排生活服務，往往需要在不同平臺間切換：訂餐廳要找訂位平臺，居家清潔要找服務業者，領藥則需要確認附近藥局與服務流程。隨著AI 代理發展，企業開始嘗試讓使用者不再逐一���作不同服務，而是直接提出需求，由AI協助完成後續流程。
+過去消費者要安排生活服務，往往需要在不同平臺間切換：訂餐廳要找訂位平臺，居家清潔要找服務業者，領藥則需要確認附近藥局與服務流程。隨著AI 代理發展，企業開始嘗試讓使用者不再逐一操作不同服務���而是直接提出需求，由AI協助完成後續流程。
 統一資訊今天(10/1)發表OpenPoint上的生活服務平臺「i住家」，將AI 代理的代理人概念導入到生活服務平臺。使用者可以透過文字輸入或語音說出需求，背後的LumineOne AI會理解語意，將需求拆解成工作任務，再搜尋平臺上可提供的服務，找出符合需求的選項。
 
 - 📰 **iThome 科技**
@@ -60,7 +60,7 @@ Open Standard周三（9/30）正式推出美元穩定幣Open USD（OUSD），並
 
 ### 9. [Cloudflare重構Containers支援AI代理沙箱，百沙箱並行啟動不需1秒](https://www.ithome.com.tw/news/179339)
 
-Cloudflare重構容器��務Containers，讓AI代理可依照不同任務臨時建立隔離的Linux工作環境，並在工作結束或暫停後保存檔案狀態。新版也縮短容器啟動時間，獨立測試顯示，同時建立100個沙箱時，啟動時間中位數由約4秒降至648毫秒。
+Cloudflare重構容器服務Containers，���AI代理可依照不同任務臨時建立隔離的Linux工作環境，並在工作結束或暫停後保存檔案狀態。新版也縮短容器啟動時間，獨立測試顯示，同時建立100個沙箱時，啟動時間中位數由約4秒降至648毫秒。
 
 - 📰 **iThome 科技**
 
@@ -199,6 +199,14 @@ NVIDIA於9月28日推出Open 代理 Safety Platform，透過開源軟體OpenShel
 
 ### 更多 AI 新聞 (70則)
 
+- The 最佳 Early Prime Day Deals Ahead of Amazon’s Second Sale (2026) (**Wired**)
+- Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot (**Wired**)
+- Experience What It’s Like to Travel in the Occupied West Bank (**Wired**)
+- Tim Heidecker Is Bringing His Joe Rogan Parody Show to The Onion (**Wired**)
+- What’s the 最佳 Kindle of 2026 (So Far)? (**Wired**)
+- Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date (**Wired**)
+- The 最佳 Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days (**Wired**)
+- 2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing (**Wired**)
 - Measles Is Forcing Hospitals to Adapt to a 新 Normal (**Wired**)
 - 最佳 Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More (**Wired**)
 - 最佳 Wi-Fi Routers (2026): My Honest Picks After Testing 50+ (**Wired**)
@@ -217,8 +225,8 @@ NVIDIA於9月28日推出Open 代理 Safety Platform，透過開源軟體OpenShel
 - Newegg Promo Codes and Coupons for October 2026 (**Wired**)
 - eBay Coupons: 20% Off in October 2026 (**Wired**)
 - AT&amp;T Promo Codes: $50 Off This October 2026 (**Wired**)
-- 20% Off Samsung Promo 代碼 | October 2026 (**Wired**)
 - Dyson Promo Codes: 25% Off in October 2026 (**Wired**)
+- 20% Off Samsung Promo 代碼 | October 2026 (**Wired**)
 - The White House Is Starting to Panic Over the Midterms (**Wired**)
 - Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear (**Wired**)
 - The Battle to Be Your Personal AI 代理 Is Here (**Wired**)
@@ -241,14 +249,6 @@ NVIDIA於9月28日推出Open 代理 Safety Platform，透過開源軟體OpenShel
 - OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse (**Wired**)
 - I Found National Coffee Day Deals Worth Making Coffee at Home For (2026) (**Wired**)
 - 如何 Beat Surveillance Pricing Before It Bleeds You Dry (**Wired**)
-- 7 最佳 Smartwatch Models: Apple, Google, Garmin (2026) (**Wired**)
-- OpenAI Delays Release of Latest 模型 Over Safety Concerns (**Wired**)
-- Timnit Gebru Believes There Is No ‘Existential Threat’ From AI (**Wired**)
-- A Pentagon Influencer Called Liberal Women a ‘Pestilence’ Who Will End Western Civilization (**Wired**)
-- Beats 360 Review: Customizable, Stylish, and Fun (**Wired**)
-- Plastic Is Melting Onto Corals (**Wired**)
-- 19 最佳 Gifts for Plant Lovers and Gardeners (2026) (**Wired**)
-- Motorola Coupon 代碼 for October 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
