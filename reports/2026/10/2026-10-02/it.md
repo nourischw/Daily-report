@@ -4,209 +4,212 @@
 
 ---
 
-### 1. [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
+### 1. [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 
-- ⭐ 150 分｜💬 81 留言｜👤 suopspaces
+- ⭐ 209 分｜💬 135 留言｜👤 soheilpro
 
-### 2. [Supabase is acquiring Turso](https://supabase.com/blog/supabase-is-acquiring-turso)
+### 2. [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
 
-- ⭐ 93 分｜💬 41 留言｜👤 cvburgess
+- ⭐ 60 分｜💬 19 留言｜👤 ErenayDev
 
 ### 3. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
 
-- ⭐ 39 分｜💬 4 留言｜👤 hn_acker
+- ⭐ 391 分｜💬 168 留言｜👤 hn_acker
 
-### 4. [GPT-6 Astra plays World of Warcraft for the first time with 代理-wow](https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/)
+### 4. [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
 
-- ⭐ 57 分｜💬 36 留言｜👤 almostlit
+- ⭐ 108 分｜💬 21 留言｜👤 mariuz
 
-### 5. [Giving friends custom text buzzes based on Morse 代碼](https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/)
+### 5. [Everyone's Packing Up](https://widdershins.verja.net/everyones-packing-up/)
 
-- ⭐ 29 分｜💬 12 留言｜👤 evakhoury
+- ⭐ 40 分｜💬 17 留言｜👤 speckx
 
-### 6. [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism)
+### 6. [Greg Kroah-Hartman – 安全 in the 大型語言模型 Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q)
 
-- ⭐ 28 分｜💬 3 留言｜👤 abetusk
+- ⭐ 130 分｜💬 25 留言｜👤 usernomdeguerre
 
-### 7. [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
+### 7. [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
 
-- ⭐ 258 分｜💬 61 留言｜👤 pietroppeter
+https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-yhttps:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312
 
-### 8. [Show HN: Giving Opus 5.5 a simulated paint canvas](https://stillwet.art/)
+- ⭐ 108 分｜💬 39 留言｜👤 PaulHoule
 
-- ⭐ 49 分｜💬 11 留言｜👤 alstonite
+### 8. [Muse Gadgets](https://gadgets.muse.ai)
 
-### 9. [FLUX 3 Image](https://bfl.ai/models/flux-3-image)
+- ⭐ 43 分｜💬 29 留言｜👤 anant
 
-- ⭐ 53 分｜💬 4 留言｜👤 minimaxir
+### 9. [Loss of cell identity drives human aging: Two 新 papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human)
 
-### 10. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+- ⭐ 119 分｜💬 26 留言｜👤 bookofjoe
 
-- ⭐ 499 分｜💬 358 留言｜👤 luispa
+### 10. [From the creator of Redis; run 大型語言模型 locally with ds4](https://dwarfstar.sh/)
 
-### 11. [Sites in ChatGPT](https://chatgpt.com/features/sites/)
+- ⭐ 77 分｜💬 8 留言｜👤 fibo
 
-- ⭐ 10 分｜💬 13 留言｜👤 polvi
+### 11. [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
 
-### 12. [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
+Hi there :-) 新 on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source 代碼 in LDraw language.This LDraw is literally an &quot;as
 
-- ⭐ 109 分｜💬 38 留言｜👤 vltmrkls
+- ⭐ 37 分｜💬 21 留言｜👤 antelocnova
 
-### 13. [To grieve, or not to grieve?](https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/)
+### 12. [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
 
-- ⭐ 95 分｜💬 83 留言｜👤 stabbles
+https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yShttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQghttps:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-mi...
 
-### 14. [Limited Liability In Historical Perspective (1997) [pdf]](https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1623&context=wlulr)
+- ⭐ 127 分｜💬 34 留言｜👤 CoryOndrejka
 
-- ⭐ 8 分｜💬 3 留言｜👤 gradus_ad
+### 13. [Venice’s failed war against Constantinople led to the first bond market](https://bigthink.com/books/a-fabulous-debt/)
 
-### 15. [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
+- ⭐ 46 分｜💬 14 留言｜👤 RickJWagner
 
-- ⭐ 59 分｜💬 23 留言｜👤 haute_cuisine
+### 14. [Sites in ChatGPT](https://chatgpt.com/features/sites/)
 
-### 16. [Fixing GRPO's credit assignment problem without evaluating every step](https://arxiv.org/abs/2609.36178)
+- ⭐ 158 分｜💬 186 留言｜👤 polvi
 
-- ⭐ 14 分｜💬 0 留言｜👤 mrkn1
+### 15. [One month coding with GLM 5.3 Flash](https://wagtail.org/blog/one-month-on-glm-53-flash/)
 
-### 17. [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
+- ⭐ 67 分｜💬 49 留言｜👤 ThibWeb
 
-- ⭐ 467 分｜💬 107 留言｜👤 supermdguy
+### 16. [FLUX 3 Image](https://bfl.ai/models/flux-3-image)
 
-### 18. [Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal](https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal)
+- ⭐ 231 分｜💬 53 留言｜👤 minimaxir
 
-- ⭐ 34 分｜💬 8 留言｜👤 xqcgrek2
+### 17. [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
 
-### 19. [Clef: Open-weight decision models, and 新 RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+- ⭐ 221 分｜💬 126 留言｜👤 suopspaces
 
-- ⭐ 595 分｜💬 212 留言｜👤 jasondavies
+### 18. [Blogging with Gleam, Org-Mode and Pandoc](https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/)
 
-### 20. [Show HN: Breadcrumb, record everything on your mac + context 經理 for AI](https://innerloop.works/breadcrumb)
+- ⭐ 31 分｜💬 6 留言｜👤 schonfinkel
 
-Hi HN, I&#x27;m Justin.Breadcrumb records everything you do on your Mac (screen + meetings + AI transcripts + what you and your AI decided) and turns it into memory your AI can search. It&#x27;s local
+### 19. [Anatomy of a Lean proof for 軟體 engineers](https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/)
 
-- ⭐ 21 分｜💬 4 留言｜👤 jv22222
+- ⭐ 48 分｜💬 1 留言｜👤 abiro
 
-### 21. [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here)
+### 20. [STS-51-F Abort-to-Orbit (1985)](https://en.wikipedia.org/wiki/STS-51-F)
 
-- ⭐ 373 分｜💬 159 留言｜👤 sampsn
+Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The o
 
-### 22. [Now That's an Impurity Story](https://www.science.org/content/blog-post/now-s-impurity-story)
+- ⭐ 23 分｜💬 5 留言｜👤 schoen
 
-- ⭐ 23 分｜💬 1 留言｜👤 dcminter
+### 21. [GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)
 
-### 23. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+- ⭐ 69 分｜💬 16 留言｜👤 Cider9986
 
-- ⭐ 519 分｜💬 481 留言｜👤 chmaynard
+### 22. [F.02 Decommission](https://www.figure.ai/news/f-02-decommission)
 
-### 24. [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=pfAh5oQDPDM
 
-Related: Pi Durable - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49925969
+- ⭐ 42 分｜💬 9 留言｜👤 ad_hockey
 
-- ⭐ 1604 分｜💬 547 留言｜👤 sergiotapia
+### 23. [Our Project Suncatcher prototype satellite is in orbit](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/)
 
-### 25. [Benchmarking retrieval for agents on messy real-world company knowledge](https://www.kapa.ai/blog/company-knowledge-bench)
+- ⭐ 34 分｜💬 34 留言｜👤 pantalaimon
 
-- ⭐ 16 分｜💬 0 留言｜👤 emil_sorensen
+### 24. [Show HN: Giving Opus 5.5 a simulated paint canvas](https://stillwet.art/)
 
-### 26. [Pi Durable](https://earendil.com/posts/pi-durable/)
+- ⭐ 163 分｜💬 54 留言｜👤 alstonite
 
-Related: Pi 1.0 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49926069 - Oct 2026 (184 comments)
+### 25. [On social reality in China](https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china)
 
-- ⭐ 469 分｜💬 65 留言｜👤 paulsmith
+- ⭐ 93 分｜💬 91 留言｜👤 thicTurtlLverXX
 
-### 27. [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
+### 26. [The first packet sent via RFC1149 avian carrier is up for auction at Christie's](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
 
-- ⭐ 366 分｜💬 188 留言｜👤 Kuyawa
+- ⭐ 23 分｜💬 2 留言｜👤 peter_hansteen
 
-### 28. [Ask HN: Who is 招聘? (October 2026)](https://news.ycombinator.com/item?id=49922569)
+### 27. [Show HN: Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel)
 
-Please state the location and include 遠端 for 遠端 work, 遠端 (US)
-or similar if the country is restricted, and ONSITE when 遠端 work is not an option.Please only post if you personally are p
+Hi HN, I&#x27;m the creator of Pyxel, a free, MIT-licensed retro game engine for Python. I&#x27;ve been developing it since 2018, and it recently passed 18,000 stars on GitHub.Pyxel includes pixel art
 
-- ⭐ 251 分｜💬 246 留言｜👤 whoishiring
+- ⭐ 42 分｜💬 4 留言｜👤 kitao
 
-### 29. [Power approval set to delay Oracle's Wisconsin AI datacenter](https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832)
+### 28. [What if we stopped using GPUs? [video]](https://www.youtube.com/watch?v=xc2FTBGRSJo)
 
-- ⭐ 32 分｜💬 5 留言｜👤 Betelbuddy
+- ⭐ 26 分｜💬 4 留言｜👤 sandslash
 
-### 30. [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
+### 29. ["The only intuitive interface is the nipple" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)
 
-- ⭐ 182 分｜💬 45 留言｜👤 pjmlp
+- ⭐ 21 分｜💬 26 留言｜👤 ibobev
+
+### 30. [How accurately calibrated is Jev?](https://maximumeffort.substack.com/p/jev-is-poorly-calibrated)
+
+- ⭐ 40 分｜💬 14 留言｜👤 dblack12705
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- StreetComplete on iOS is now in public beta
-- Redditor buys used CPU, turns out it was banned on Valorant and they are SoL
-- The OpenAI Decisions API needs a confidence you can trust
-- Using Opus 5.5 to discover a 新 eyewitness record of the dodo
-- Automatic Transmission – a data-privacy study of connected vehicles
-- RIP, vector 資料庫
-- Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers
-- A 20-year-long permanent cookie: America.gov and tracking
-- Vote on which of Hacker News' challenges for AI have been met
-- Texas agencies betting that Abbott will restore funding keep Flock cameras on
-- CSS Bed: Classless CSS themes to use as starting points in 網頁 development
-- Cloudflare K2: serverless event streams
-- Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/NVIDIA
-- Oxygen-deprived underwater zones may not be “dead zones” but clue to early life
-- Context Language Models
-- 如何 speed up the Rust compiler in September 2026
-- Gemini 4 Argon
-- GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design
-- ArXiv's Updated Rate Limit Policy
-- OpenDLSS: A Vulkan Reimplementation of NVIDIA's DLSS 5 神經網絡 Rendering 網絡
-- Ask HN: Who wants to be hired? (October 2026)
-- RacketCon Is Saturday
+- Crypto Capture of Foreign Aid
+- Tiny Brutalism
+- Supabase is acquiring Turso
+- Three AI agents, two countries, and one uneven world wide 網頁
+- Qubes OS 4.3.2 has been 發布
+- Shimano Bicycle Museum Review
+- To grieve, or not to grieve?
+- Show HN: Our space game has a built-in RISC-V emulator that runs Linux
+- Dutch computer museums (2022)
+- ICE Has Been Dumping Protester Photos into a Palantir 資料庫
+- Mystery Function
+- SequenceHash: Multihashing for the rest of us
+- Lambda Land
+- 100 years of student radio history in the DLARC college radio collections
+- Giving friends custom text buzzes based on Morse 代碼
+- ExplainDB: A 資料庫 系統 Built for Understandability
+- Hardly Promethean
+- The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news
+- Now That's an Impurity Story
+- Lace and Labor: Lessons from the actual Luddites
+- On building a worm detector
+- Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs
+- Robot Hands for Modern AI and Real Work
+- Show HN: Audionaut – an open-source cross-platform multitrack audio editor
+- Scientists untangle the biology of an 'undruggable' cancer gene
+- Capcom RE:Dox, 開源 serialization/deserialization for game engines
+- The Nintendo 64 Partner-N64 Development Kit
+- Colorectal Cancer Is Rising Among the Young, Even Kids and Teens
+- AI as Normal Technology (2025)
+- Fast Blur with Animated Radius
+- Scientists invent underwater umbrellas to protect coral reefs
+- Show HN: Use all Codex Plugins inside Pi
+- SvelteKit 3
+- Show HN: Enki – Write GPU compute kernels in pure stable Rust
+- Git 3.0's upcoming SHA-256 default will be a costly mistake
+- Ask HN: Who is 招聘? (October 2026)
+- Pi 1.0
+- Federal Judge Rules a Flock Search Was Unconstitutional
+- Updates to Full Disk Access in macOS
+- Leaderboards and speedrun.com's 新 terms of service
+- Martian chaos terrain
 - Truemetrics (YC S23) Is 招聘 a GTM Founder's Associate
-- Book of Shapes – Collection of minimal, generative and customizable SVG-patterns
-- Building reliable (and fast) directory sync
-- Butterflies use optical illusions to dodge predators
-- Big Tech ruined the 雲端, so we're renaming ours
-- Bez: Generating a browser engine from specs and tests
-- Show HN: Open-source 模型 routing for coding agents at Astra-level performance
-- Effect 4.0
-- Aweb – Communication for AI Agents
-- Polyedergarten: Garden of Paper Polyhedron Models
-- Lightweight PDF parser with layout, tables, formulas and bounding boxes
-- Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026
-- Launch HN: Magnitude (YC S25) – Self-optimizing 推論 engine for agents
-- LinkedIn Larpmaxxing
-- Sudo – A dedicated music player designed around listening to music
-- Personal Computing 2.0: It's time for a personal computing revolution
-- Phyllotaxis: An audio-reactive LED display
-- Returning from vacation? The government can search your phone without a warrant
-- Identity Management for Agentic AI [pdf] (2025)
-- The death of 網頁 development education
-- Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones
-- 2026 International Utility Locate Rodeo
-- AI Makes Me Sad
-- Mozilla shutting down Solo AI website creator
-- How Singapore's government-run dating service works
-- Adding Floating-Point Decimals for Fun and Profit
-- 如何 set up SPF, DKIM, and DMARC for your sending domain
-- Red Hat being phased out of existence?
-- TurboNotes: Local-first Markdown notes, Turbo Pascal like looks, saves to GitHub
-- Responsible Release of AI-Generated Mathematics
-- NRC issues first U.S. construction permit for a BWRX-300 small modular reactor
-- 為什麼 the Bronze Age Collapsed
-- Show HN: What 482 hospitals charge vs. what insurers pay, from their own files
-- Figma restricts MCP access to whitelisted clients, excluding Pi
-- Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]
-- The GPU Black Market That Washington Can't Shut Down
-- Pi v1.0.0
-- Burning Man death rates – A short lesson in statistics
-- Solving Factorio Quality
-- CHOMPI portable sampler instrument is now open-source (硬體 and 軟體)
-- Suits Are Better Tech Than Modern Clothes
-- Taliban suspends fiber optic 網絡 maintenance and expansion
-- Doing a 機器學習 PhD While Working in Japan
-- You said no MCP
-- DoGBench: The first user-facing docs generation benchmark. No 模型 scores >50%
-- The 熱門 secret URSALA, RAQUEL, and FARRAH satellites (2025)
-- SDF vs. MSDF vs. Slug: GPU Text Rendering
-- Show HN: A working 3D 模型 of an Enigma machine
+- Decision models like Jev don't beat 大型語言模型-as-a-judge or traditional classifiers
+- Pi Durable
+- Show HN: Breadcrumb, record everything on your mac + context 經理 for AI
+- Fixing GRPO's credit assignment problem without evaluating every step
+- DeepSeek Harness Desktop for macOS and Windows
+- After 15 years, I am leaving tech
+- Show HN: Graphene – Data analysis toolkit for your coding 代理
+- Turbo Haskell
+- Show HN: PhreshOS – OS for 網頁 Apps
+- Cancel Your Subscription: a free browser game
+- Using Opus 5.5 to discover a 新 eyewitness record of the dodo
+- Rai: CPU-only 大型語言模型 推論 engine in pure Rust
+- Several vulnerabilities have been discovered in the Linux kernel
+- Automatic Transmission – a data-privacy study of connected vehicles
+- Apple is tightening macOS 'Full Disk Access' due to 新 risks from AI agents
+- RIP, vector 資料庫
+- Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal
+- Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers
+- ICC judge on what U.S. sanctions mean for her and global courts
+- Benchmarking retrieval for agents on messy real-world company knowledge
+- The OpenAI Decisions API needs a confidence you can trust
+- Vote on which of Hacker News' challenges for AI have been met
+- CSS Bed: Classless CSS themes to use as starting points in 網頁 development
+- I've created an 開源 100% Rust clean-room clone of 7 of Adobe's apps
+- Frog and Toad and the Increasingly Capable Machines
+- Show HN: Bise – a multi-代理 harness, made for humans
+- Clef: Open-weight decision models, and 新 RL fine-tuning platform
+- CA tech executive arrested for allegedly smuggling $300M in NVIDIA chips to CN
 
 
 ---
