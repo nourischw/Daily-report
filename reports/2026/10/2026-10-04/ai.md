@@ -18,7 +18,7 @@
 
 ### 3. [Chrome 154本週第二度發布更新版，緊急修補11個漏洞](https://www.ithome.com.tw/news/179385)
 
-9月29日Google發布Chrome瀏覽器的154.0.8037.92版或154.0.8037.93版，修補32個漏洞，兩天後又緊急推出更新版本，目前針對Windows平臺與Mac平臺的Chrome提供154.0.8037.97版或154.0.8037.98版，針��Android平臺的Chrome提供154.0.8037.126版，至於Linux平臺的Chrome，則是預計在後續幾天或幾週推出154.0.8037.97版，當中總共修補11個漏洞。
+9月29日Google發布Chrome瀏覽器的154.0.8037.92版或154.0.8037.93版，修補32個漏洞，兩天後又緊急推出更新版本，目前針對Windows平臺與Mac平臺的Chrome提供154.0.8037.97版或154.0.8037.98版，針對Android平臺的Chrome提供154.0.8037.126版，至於Linux平臺的Chrome，則是預計在後續幾天或幾週推出154.0.8037.97版，當中總共修補11個漏洞。
 
 - 📰 **iThome 科技**
 
@@ -30,7 +30,7 @@ Svelte團隊正式發布全端應用框架SvelteKit 3，新版調整專案設定
 
 ### 5. [【資安週報】0929~1002，臺灣8月勒索軟體事件20起居亞太第三，全球聚焦AI代理安全風險與防護布局](https://www.ithome.com.tw/news/179381)
 
-本週資安威脅焦點集中於勒索軟體與企業資安事件，近期統計顯示，臺灣8月至少發生20起勒索��體事件，也有多家上市櫃公司發布資安重訊，包括柏文、神腦與鈊象等，華碩也傳出通知部分線上商店客戶資料可能遭未授權存取的情形，顯示企業遭受攻擊與資料外洩風險仍持續升高。此外，針對網路、端點與應用程式漏洞的攻擊接連曝光，成為另一項值得關注的威脅動向。
+本週資安威脅焦點集中於勒索軟體與企業資安事件，近期統計顯示，臺��8月至少發生20起勒索軟體事件，也有多家上市櫃公司發布資安重訊，包括柏文、神腦與鈊象等，華碩也傳出通知部分線上商店客戶資料可能遭未授權存取的情形，顯示企業遭受攻擊與資料外洩風險仍持續升高。此外，針對網路、端點與應用程式漏洞的攻擊接連曝光，成為另一項值得關注的威脅動向。
 
 - 📰 **iThome 科技**
 
@@ -48,7 +48,7 @@ Svelte團隊正式發布全端應用框架SvelteKit 3，新版調整專案設定
 
 - 📰 **iThome 科技**
 
-### 8. [微軟推出首款自研即時��流語音轉錄模型，並更新MAI語音模型](https://www.ithome.com.tw/news/179375)
+### 8. [��軟推出首款自研即時串流語音轉錄模型，並更新MAI語音模型](https://www.ithome.com.tw/news/179375)
 
 微軟AI部門Microsoft AI（MAI）周四（10/1）推出首款自研即時串流語音轉錄模型MAI-Transcribe-2-Streaming，支援60種語言及持續自動語言偵測，收到音訊後約100毫秒即可開始輸出初步轉錄內容。同一天微軟也更新文字轉語音模型MAI-Voice系列，推出MAI-Voice-2.1及低延遲版本MAI-Voice-2.1-Flash。
 
@@ -63,7 +63,7 @@ Svelte團隊正式發布全端應用框架SvelteKit 3，新版調整專案設定
 
 - 📰 **iThome 科技**
 
-### 10. [AWS���源20億參數Strands Decider，專門替AI代理人快速做決策](https://www.ithome.com.tw/news/179373)
+### 10. [AWS開源20億參數Strands Decider，專門替AI代理人快速做決策](https://www.ithome.com.tw/news/179373)
 
 AWS旗下Strands團隊周四（10/1）開源Strands Decider 2B決策模型，專門替AI代理人快速進行分類、工具選擇及安全判斷等工作。模型共有20億個參數，可直接在本機CPU或GPU執行，並以低延遲完成決策。AWS同步公開模型權重、訓練資料及訓練程式碼。
 
@@ -72,7 +72,7 @@ AWS旗下Strands團隊周四（10/1）開源Strands Decider 2B決策模型，專
 ### 11. [Meta推出主打小型企業用的Muse for Small Business](https://www.ithome.com.tw/news/179371)
 
 Meta推出高話題性的消費者AI助理Muse後，本週推出針對小型企業的Muse for Small Business，能幫小型店家處理行銷、行政或客戶服務等事務。
-Meta說明，小型企業主通常身兼數職，同時擔任會計、行銷、營運和客服等工作，無法專注於核心業務。而單純的聊天機器人無法解決複雜的商業問題，Muse for Small Business的目的就是成為企業的營運工具鏈的一環，了解小型企業目標、產品、客服問題及營運狀況，以提供AI自動化服務。
+Meta說明，小型企業主通常身兼數職，同時擔任會計、行銷、營運和客服等工作，無法專注於核心業務。而單純的聊天機器人無法解決複雜的商業問題，Muse for Small Business的目的就是成為企業的營運工具鏈的一環，了解小型企業目標、產品、客服問題及營運狀況，以提供AI自��化服務。
 
 - 📰 **iThome 科技**
 
@@ -84,7 +84,7 @@ Meta說明，小型企業主通常身兼數職，同時擔任會計、行銷、�
 
 ### 13. [開源AI代理框架Pi邁入1.0，另推出長時間代理框架Pi Durable](https://www.ithome.com.tw/news/179369)
 
-Earendil發布開源AI代理框架Pi 1.0，同時推出實驗性代理執行框架Pi Durable，讓開發者建立可長時間執行的AI代理應用。當執行中的服務重新啟動���意外中斷，Pi Durable可以讀取先前保存的進度，接著處理尚未完成的工作，也支援多條對話同時執行及多人介入同一代理任務。
+Earendil發布開源AI代理框架Pi 1.0，同時推出實驗性代理執行框架Pi Durable，讓開發者建立可長時間執行的AI代理應用。當���行中的服務重新啟動或意外中斷，Pi Durable可以讀取先前保存的進度，接著處理尚未完成的工作，也支援多條對話同時執行及多人介入同一代理任務。
 
 - 📰 **iThome 科技**
 
@@ -95,7 +95,7 @@ OpenAI周三（9/30）公布AI代理人未對齊行為的最新調查進度，�
 
 - 📰 **iThome 科技**
 
-### 15. [加州禁止AI自行決定解僱員工，���全美首例](https://www.ithome.com.tw/news/179367)
+### 15. [加州禁止AI自行決定解僱員工，成全美首例](https://www.ithome.com.tw/news/179367)
 
 美國加州州長Gavin Newsom周三（9/30）簽署SB 947，禁止雇主完全依賴AI或自動化決策系統，決定對員工採取懲戒或解僱措施，要求這類重大人事決策必須有人類參與審查，成為全美首個禁止雇主完全依賴AI做出懲戒或解僱決定的州別。
 
@@ -109,7 +109,7 @@ FBI與歐洲多國執法機關於9月30日展開KillSwitch行動，打擊勒索�
 
 ### 17. [Gartner預測2030年部署面向公眾的AI服務的企業，有80%將經歷成本耗盡攻擊，致營運成本超額](https://www.ithome.com.tw/news/179365)
 
-9月15日在澳洲黃金海岸舉行的Gartner IT Symposium/Xpo大會期間，產業���究與顧問機構Gartner發布2027年暨未來核心策略預測，區分為三大類別：無所不在的機器人（robots everywhere）、由投入成本轉向創造價值（cost to value）、以及未知的未知（unknown unknowns）
+9月15日在澳洲黃金海岸舉行的Gartner IT Symposium/Xpo大會期間，產業研究與顧問機構Gartner發布2027年暨未來核心策略預測，區分為三大類別：無所不在的機器人（robots everywhere）、由投入成本轉向創造價值（cost to value）、以及未知的未知（unknown unknowns）
 
 - 📰 **iThome 科技**
 
@@ -121,7 +121,7 @@ AWS將DuckDB分析引擎嵌入Aurora PostgreSQL，使其具備直接查詢資料
 
 ### 19. [GitHub HydraFusion進入VS 代碼，AI可依任務自動安排多模型分工](https://www.ithome.com.tw/news/179345)
 
-GitHub擴大HydraFusion研究預覽範圍，除了原本的Copilot命令列工具，現在也於VS 代碼與GitHub Copilot應用程式��供。使用者可從Copilot模型選單選擇HydraFusion，不過，HydraFusion並非單一AI模型，而是一套協調模型工作的機制，會依照任務決定由一個模型直接處理，或讓多個模型接力完成並檢查結果。
+GitHub擴大HydraFusion研究預覽範圍，除了原本的Copilot命令列工具，現在也於VS 代碼���GitHub Copilot應用程式提供。使用者可從Copilot模型選單選擇HydraFusion，不過，HydraFusion並非單一AI模型，而是一套協調模型工作的機制，會依照任務決定由一個模型直接處理，或讓多個模型接力完成並檢查結果。
 
 - 📰 **iThome 科技**
 
@@ -133,7 +133,7 @@ GitHub擴大HydraFusion研究預覽範圍，除了原本的Copilot命令列工�
 
 ### 21. [美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元](https://www.ithome.com.tw/news/179336)
 
-美國財政部外國資產控���辦公室（OFAC）對與委內瑞拉犯罪組織Tren de Aragua（TdA）有關的詐欺網路實施制裁，8名個人及2家公司遭列入制裁對象，相關犯罪活動包括ATM吐鈔攻擊及洗錢。美國財政部指出，截至2025年8月，美國境內已有超過1,500起疑似ATM吐鈔攻擊，通報損失合計4,073萬美元。
+���國財政部外國資產控制辦公室（OFAC）對與委內瑞拉犯罪組織Tren de Aragua（TdA）有關的詐欺網路實施制裁，8名個人及2家公司遭列入制裁對象，相關犯罪活動包括ATM吐鈔攻擊及洗錢。美國財政部指出，截至2025年8月，美國境內已有超過1,500起疑似ATM吐鈔攻擊，通報損失合計4,073萬美元。
 
 - 📰 **iThome 科技**
 
@@ -143,7 +143,7 @@ Google旗下威脅情報團隊GTIG分析2025年初至2026年8月底的漏洞趨�
 
 - 📰 **iThome 科技**
 
-### 23. [軟體供應鏈攻擊擴大至CI/CD，企業需防建置流程遭操弄](https://www.ithome.com.tw/news/179322)
+### 23. [軟體供應鏈攻擊擴大至CI/CD，企業��防建置流程遭操弄](https://www.ithome.com.tw/news/179322)
 
 Google旗下資安團隊Mandiant近日針對軟體開發與CI/CD環境提出防護建議。根據他們近期觀察到的攻擊活動，軟體供應鏈攻擊已不只涉及遭污染的開源套件，攻擊者也鎖定企業信任的安全掃描工具、公用函式庫及AI程式開發工具，開發人員工作站與CI/CD基礎架構同樣成為攻擊目標。
 
@@ -152,7 +152,7 @@ Google旗下資安團隊Mandiant近日針對軟體開發與CI/CD環境提出防�
 ### 24. [臺北市政府網站9/26服務中斷事件：跳電後機房過熱造成儲存設備關閉，備援分級成關注焦點](https://www.ithome.com.tw/news/179349)
 
 臺北市政府網站在上周六(9/26)晚間一度出現無法連線情況，影響包括市府全球資訊網、部分局處網站及使用市府雲平臺的相關服務受到影響。臺北市政府資訊局後續調查指出，事件起因並非資安攻擊，而是市政大樓施工造成電力過載跳電，進一步導致資訊機房環境升溫，部分儲存設備因過熱啟動保護機制並關閉，造成雲平臺網站服務中斷。
-根據資訊局的說明，9月26日晚間7點多，市政大樓地下1樓中控���因施工導致電力過載，引發跳電。跳電後，市政大樓10樓的資訊機房溫度升高，約晚間8點30分起，機房內單一儲存設備類型因過熱啟動保護機制停止運作，導致相關雲平臺網站服務受到影響。
+根據資訊局的說明，9月26日晚間7點多��市政大樓地下1樓中控室因施工導致電力過載，引發跳電。跳電後，市政大樓10樓的資訊機房溫度升高，約晚間8點30分起，機房內單一儲存設備類型因過熱啟動保護機制停止運作，導致相關雲平臺網站服務受到影響。
 
 - 📰 **iThome 科技**
 
@@ -164,14 +164,14 @@ Google旗下資安團隊Mandiant近日針對軟體開發與CI/CD環境提出防�
 
 ### 26. [臺灣資安新創的突圍之路：從駭客競賽到日本市場的五年長征](https://www.ithome.com.tw/news/179347)
 
-日本上市公司GMO Internet Group旗下、擁有日本大型白帽��客團隊的GMO Cybersecurity by Ierae，於10月初發布新聞稿，宣布投資2020年成立的臺灣資安新創TRAPA 安全（菱鏡公司，以下簡稱TRAPA），同時取得其攻防演練平臺「TRAPA CYBER RANGE」在日本的獨家代理權。
+日本上市公司GMO Internet Group旗��、擁有日本大型白帽駭客團隊的GMO Cybersecurity by Ierae，於10月初發布新聞稿，宣布投資2020年成立的臺灣資安新創TRAPA 安全（菱鏡公司，以下簡稱TRAPA），同時取得其攻防演練平臺「TRAPA CYBER RANGE」在日本的獨家代理權。
 臺灣AI資安公司奧義賽博（CyCraft）先前也宣布參與TRAPA增資，認購金額超過3,000萬元，完成後將持有TRAPA完全稀釋後10%的股權。
 
 - 📰 **iThome 科技**
 
 ### 27. [中國駭客UAT-11587鎖定臺灣學術界與智庫，以圖片仿製Gmail附件預覽介面並用政府文件作為誘餌](https://www.ithome.com.tw/news/179344)
 
-臺灣學術界、智庫與公民社會政策社群今年3月遭中國駭客UAT-11587鎖定，攻擊者透過魚叉式網釣接觸目標，目的是散布後門Antino，並在郵件中仿製Gmail原生附件預覽介面，將惡意連結包裝成看似正常的Gmail附件縮圖，不同攻擊活動還會搭配量身設計的誘餌文件，例如以資訊戰工作坊資料及政府公開文件作為網釣題材。這波鎖定臺灣的攻擊，也成為Cisco Talos追查一系列網路間諜活動的重要線索；研究人員後續擴大調���後發現，相關攻擊最早可追溯至2025年9月，且已涵蓋多個亞洲國家。
+臺灣學術界、智庫與公民社會政策社群今年3月遭中國駭客UAT-11587鎖定，攻擊者透過魚叉式網釣接觸目標，目的是散布後門Antino，並在郵件中仿製Gmail原生附件預覽介面，將惡意連結包裝成看似正常的Gmail附件縮圖，不同攻擊活動還會搭配量身設計的誘餌文件，例如以資訊戰工作坊資料及政府公開文件作為網釣題材。這波鎖定臺灣的攻擊，也成為Cisco Talos追查一系列網路間諜活動的重要線索���研究人員後續擴大調查後發現，相關攻擊最早可追溯至2025年9月，且已涵蓋多個亞洲國家。
 
 - 📰 **iThome 科技**
 
@@ -182,7 +182,7 @@ Google旗下資安團隊Mandiant近日針對軟體開發與CI/CD環境提出防�
 
 - 📰 **iThome 科技**
 
-### 29. [Open Standard��元穩定幣OUSD正式上線，Stripe、Visa等開放企業串接](https://www.ithome.com.tw/news/179343)
+### 29. [Open Standard美元穩定幣OUSD正式上線，Stripe、Visa等開放企業串接](https://www.ithome.com.tw/news/179343)
 
 Open Standard周三（9/30）正式推出美元穩定幣Open USD（OUSD），並提供Coinbase、Mastercard、Stripe及Visa等4條整合管道，讓企業與開發者可將OUSD應用於支付、結算、交易、外匯及錢包等金融服務。
 
@@ -201,18 +201,25 @@ Open Standard周三（9/30）正式推出美元穩定幣Open USD（OUSD），並
 
 ### 更多 AI 新聞 (70則)
 
+- 15 最佳 Office Chairs of 2026—We Tested 70 to Pick Them (**Wired**)
+- The 最佳 Gifts Under $25 for Everyone on Your List (2026) (**Wired**)
+- The 最佳 Online Gift Cards and Digital Gift Ideas (2026) (**Wired**)
+- Meta Glasses Nova (Gen 3) Review: Not Much 新 (**Wired**)
+- Rural Data Centers Are in for a Big Federal Tax Break (**Wired**)
+- Keurig Alta First-Look: No More Plastic K-Cups (**Wired**)
+- Elusive ‘Geoneutrinos’ Are Building a 新 Map of Earth’s Volatile Interior (**Wired**)
 - The NVIDIA Shield TV Is 7 Years Old. It Just Got a $100 Price Hike (**Wired**)
 - Muse Creates Detailed Profiles of All Your Friends and Family (**Wired**)
 - 如何 Collect CDs (**Wired**)
 - The 最佳 E-Readers That Aren't a Kindle (2026): Kobo, Boox (**Wired**)
 - 最佳 Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026) (**Wired**)
 - A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’ (**Wired**)
+- 50% Off DoorDash Promo 代碼 | October 2026 (**Wired**)
 - Surfshark Promo Codes: 87% Off | October 2026 (**Wired**)
 - Klook Promo 代碼: 25% Off October 2026 (**Wired**)
-- 50% Off DoorDash Promo 代碼 | October 2026 (**Wired**)
 - 20% Off Brooks Promo 代碼 | October 2026 (**Wired**)
-- Chewy Promo Codes: $20 Off October 2026 (**Wired**)
 - Hoka Coupon Codes: 30% Off in October 2026 (**Wired**)
+- Chewy Promo Codes: $20 Off October 2026 (**Wired**)
 - ICE Has Been Dumping Protester Photos Into a Palantir 資料庫 (**Wired**)
 - This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off (**Wired**)
 - The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It (**Wired**)
@@ -229,9 +236,9 @@ Open Standard周三（9/30）正式推出美元穩定幣Open USD（OUSD），並
 - Nike Promo Codes and Discounts: 30% for October 2026 (**Wired**)
 - Google Workspace Promo Codes: 14% Off for October 2026 (**Wired**)
 - Motley Fool Promo 代碼: $200 Off on Stock Advisor October 2026 (**Wired**)
-- Wayfair Coupons: Up to 80% Off October 2026 (**Wired**)
 - Hotels.com Coupon Codes for October 2026 (**Wired**)
 - Uber Eats Promo Codes: $15 Off│October 2026 (**Wired**)
+- Wayfair Coupons: Up to 80% Off October 2026 (**Wired**)
 - Columbia Promo Codes: 15% Off | October 2026 (**Wired**)
 - Whoop Promo Codes: 20% Off This October 2026 (**Wired**)
 - Design Within Reach Promo Codes: 30% Off | October 2026 (**Wired**)
@@ -244,13 +251,6 @@ Open Standard周三（9/30）正式推出美元穩定幣Open USD（OUSD），並
 - Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date (**Wired**)
 - What’s the 最佳 Kindle of 2026 (So Far)? (**Wired**)
 - The 最佳 Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days (**Wired**)
-- 2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing (**Wired**)
-- Measles Is Forcing Hospitals to Adapt to a 新 Normal (**Wired**)
-- 最佳 Wi-Fi Routers (2026): My Honest Picks After Testing 50+ (**Wired**)
-- 最佳 Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More (**Wired**)
-- The Real Threat to the Midterms Is Regular Americans Thinking Violence Is the Answer (**Wired**)
-- Tractive Cat 6 Mini Review: A Fitbit for Your Cat (**Wired**)
-- Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
