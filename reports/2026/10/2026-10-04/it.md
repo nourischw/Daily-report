@@ -4,206 +4,220 @@
 
 ---
 
-### 1. [Run Qwen 3.8 Flash Next (125B) on consumer 硬體 (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+### 1. [Remove and Disable Apple Macos27 AI Models Tool](https://github.com/omlahore/RemoveMacAI)
 
-- ⭐ 238 分｜💬 117 留言｜👤 snehesht
+- ⭐ 52 分｜💬 22 留言｜👤 privacyisntdead
 
-### 2. [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/)
+### 2. [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
 
-- ⭐ 35 分｜💬 9 留言｜👤 longhaul
+- ⭐ 49 分｜💬 24 留言｜👤 sensanaty
 
-### 3. [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
+### 3. [Run Qwen 3.8 Flash Next (125B) on consumer 硬體 (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
 
-- ⭐ 80 分｜💬 13 留言｜👤 r0r0
+- ⭐ 464 分｜💬 241 留言｜👤 snehesht
 
-### 4. [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+### 4. [A map of every lighthouse](https://mapped.earth/lighthouses/world)
+
+- ⭐ 121 分｜💬 61 留言｜👤 karakoram
+
+### 5. ['Neanderthals Among Us' review](https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review)
+
+- ⭐ 33 分｜💬 21 留言｜👤 pepys
+
+### 6. [Homa: The End of TCP for AI Clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+
+Related: https:&#x2F;&#x2F;www.theregister.com&#x2F;networks&#x2F;2026&#x2F;10&#x2F;01&#x2F;stanford-pro...
+
+- ⭐ 10 分｜💬 1 留言｜👤 signa11
+
+### 7. [How effective altruism conquered the world (and might yet end it)](https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world)
+
+https:&#x2F;&#x2F;archive.ph&#x2F;3gSCc
+
+- ⭐ 26 分｜💬 18 留言｜👤 bazzmt
+
+### 8. [Results from the ASIC puzzle](https://blog.janestreet.com/asic-puzzle-results/)
+
+- ⭐ 43 分｜💬 14 留言｜👤 eru
+
+### 9. [Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
+
+This is a functional 30-minute pendulum clock entirely from discarded materials—cardboard, zip ties, tape, a yardstick, and a paperclip escapement, built in the German Eldorado of precision watchmakin
+
+- ⭐ 140 分｜💬 16 留言｜👤 r0r0
+
+### 10. [如何 scale intent, quality, and artistry with AI [video]](https://www.youtube.com/watch?v=GLvFTMtw4Jk)
+
+- ⭐ 19 分｜💬 4 留言｜👤 simonjgreen
+
+### 11. [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
 
 I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who&#x27;s real name was Mark Stevens, was an early employee of Apple and was 最佳 known for h
 
-- ⭐ 669 分｜💬 133 留言｜👤 paveworld
+- ⭐ 757 分｜💬 159 留言｜👤 paveworld
 
-### 5. [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
+### 12. [Incentives in Academic Research](https://www.msoos.org/2026/10/incentives-in-academic-research/)
 
-- ⭐ 58 分｜💬 36 留言｜👤 allenleee
+- ⭐ 11 分｜💬 2 留言｜👤 zero_k
 
-### 6. [為什麼 don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+### 13. [Show HN: 構建 with Python – a beginner course where your 代碼 draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python)
 
-- ⭐ 223 分｜💬 219 留言｜👤 vinhnx
+Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI&#x2F;terminal output. No need to w
 
-### 7. [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
+- ⭐ 5 分｜💬 1 留言｜👤 davidwshao
 
-- ⭐ 73 分｜💬 11 留言｜👤 rdmuser
+### 14. [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
 
-### 8. [The Heilbronn Problem](https://math.tejstead.com/heilbronn/)
+- ⭐ 114 分｜💬 58 留言｜👤 allenleee
 
-- ⭐ 30 分｜💬 3 留言｜👤 tejstead
+### 15. [A Minsky machine in ncurses terminfo](https://seriot.ch/computation/terminfo/)
 
-### 9. [A Map of Every Lighthouse on the Planet](https://mapped.earth/lighthouses/world)
+ncurses terminfo can simulate a two-counter Minsky machine, making repeated parameter expansion computationally universal
 
-- ⭐ 4 分｜💬 0 留言｜👤 karakoram
+- ⭐ 25 分｜💬 7 留言｜👤 beefburger
 
-### 10. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+### 16. [Page Table Memory Consumption](https://frn.sh/pagetables/)
 
-- ⭐ 381 分｜💬 67 留言｜👤 speckx
+- ⭐ 7 分｜💬 0 留言｜👤 shellpipe
 
-### 11. [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart)
+### 17. [為什麼 don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 
-- ⭐ 64 分｜💬 12 留言｜👤 knuckleheads
+- ⭐ 259 分｜💬 262 留言｜👤 vinhnx
 
-### 12. [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)
+### 18. [Automating my 35mm film scanning pipeline](https://shannadige.com/blog/darkroom/)
 
-- ⭐ 280 分｜💬 162 留言｜👤 kmeh
+- ⭐ 38 分｜💬 29 留言｜👤 shannadige
 
-### 13. [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)
+### 19. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
 
-- ⭐ 261 分｜💬 134 留言｜👤 CosmoWenman
+- ⭐ 440 分｜💬 84 留言｜👤 speckx
 
-### 14. [gpuvis: GPU Trace Visualizer](https://github.com/mikesart/gpuvis)
+### 20. [Bill Draper has died](https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html)
 
-- ⭐ 56 分｜💬 9 留言｜👤 luu
+https:&#x2F;&#x2F;archive.ph&#x2F;YRgDY
 
-### 15. [Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs](https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos)
+- ⭐ 33 分｜💬 9 留言｜👤 bookofjoe
 
-- ⭐ 39 分｜💬 12 留言｜👤 chanux
+### 21. [Declaring a bird extinct: The median wait is 36 years after the last sighting](https://birdshistory.com/how-long-to-declare-a-bird-extinct/)
 
-### 16. [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)
+- ⭐ 5 分｜💬 4 留言｜👤 Heidi_70
+
+### 22. [cp: -r or -R?](https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html)
+
+- ⭐ 63 分｜💬 78 留言｜👤 zdw
+
+### 23. [什麼是 going on with ceiling fans](https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans)
+
+- ⭐ 136 分｜💬 111 留言｜👤 colinprince
+
+### 24. [Fog-Bank: Archiving the oldest webcam feed](https://fog-bank.org/net)
+
+See also https:&#x2F;&#x2F;hackaday.com&#x2F;2026&#x2F;10&#x2F;01&#x2F;archiving-the-worlds-oldest-...
+
+- ⭐ 6 分｜💬 1 留言｜👤 rdmuser
+
+### 25. [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)
+
+- ⭐ 324 分｜💬 200 留言｜👤 kmeh
+
+### 26. [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart)
+
+- ⭐ 108 分｜💬 28 留言｜👤 knuckleheads
+
+### 27. [Second Chances](https://www.nybooks.com/articles/2026/10/22/second-chances-office-politics-wilfrid-sheed/)
+
+https:&#x2F;&#x2F;archive.ph&#x2F;3JYcH
+
+- ⭐ 6 分｜💬 2 留言｜👤 samclemens
+
+### 28. [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
+
+- ⭐ 118 分｜💬 63 留言｜👤 simonjgreen
+
+### 29. [The Heilbronn Problem](https://math.tejstead.com/heilbronn/)
+
+- ⭐ 55 分｜💬 10 留言｜👤 tejstead
+
+### 30. [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)
 
 https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf
 
-- ⭐ 264 分｜💬 414 留言｜👤 Anon84
-
-### 17. [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
-
-- ⭐ 328 分｜💬 80 留言｜👤 trwhite
-
-### 18. [Celebrating the 100th birthday of the kidney donated to him as a teenager](https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/)
-
-- ⭐ 234 分｜💬 58 留言｜👤 gscott
-
-### 19. [RuneScape's Position on Gen AI](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
-
-- ⭐ 9 分｜💬 6 留言｜👤 cautiouscat
-
-### 20. [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
-
-- ⭐ 77 分｜💬 34 留言｜👤 actfrench
-
-### 21. [We're working on a 新 RuneScape MMO](https://play.runescape.com/4)
-
-- ⭐ 132 分｜💬 70 留言｜👤 droidjj
-
-### 22. [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
-
-- ⭐ 535 分｜💬 279 留言｜👤 elffjs
-
-### 23. [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician)
-
-- ⭐ 381 分｜💬 313 留言｜👤 zdw
-
-### 24. [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
-
-- ⭐ 199 分｜💬 85 留言｜👤 citelao
-
-### 25. [What's the Future for Pure Math Research in the Age of AI?](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
-
-- ⭐ 23 分｜💬 3 留言｜👤 6bitquant
-
-### 26. [We want you to 構建 the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
-
-- ⭐ 181 分｜💬 156 留言｜👤 geoffbp
-
-### 27. [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA)
-
-https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;OpenAI-sa...
-
-- ⭐ 356 分｜💬 599 留言｜👤 Brajeshwar
-
-### 28. [Dirty Optimization Secrets (C for Playdate)](https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011)
-
-- ⭐ 41 分｜💬 5 留言｜👤 ibobev
-
-### 29. [What Meta got right with Muse](https://metedata.substack.com/p/what-meta-got-right-with-muse)
-
-- ⭐ 94 分｜💬 125 留言｜👤 young_mete
-
-### 30. [Your body of work thinks back at you](https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/)
-
-- ⭐ 88 分｜💬 15 留言｜👤 surprisetalk
+- ⭐ 353 分｜💬 639 留言｜👤 Anon84
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Religious scholars met with Anthropic
-- Math's pedagogical curse – Grant Sanderson [video] (2023)
-- FTL: A 新 operating 系統 for clouds
-- 如何 hack time, with C2PA
-- Surely you have ultra-wideband radios on your bins too?
-- City building games have a Soul Problem pt.2
+- Treachery in the Rodin Museum 3D scan verdict
 - Former SR-71 工程師 talks NASA's Blackbird revival program
-- GVisor is being donated to CNCF
-- Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?
+- VGHF Digital Archive passes 5000 magazines. Here's what's next
+- Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs
+- The dot and the Swarm: Benefitting from the bitter lesson
+- Building a RAG pipeline for semantic 代碼 search
+- What's the future for pure math research in the age of AI?
+- Hole Punch: Sling your spaceship around gravitational fields
+- Celebrating the 100th birthday of the kidney donated to him as a teenager
+- Xray-core concealed a certificate verification bypass vulnerability
+- I quit OpenAI because its culture is broken
+- Reasons I didn't become an EMT, ranked
+- L-systems generate weevils, pizza toppings, and matriarchal lineages
+- We're going to need default hard budget caps on pretty much everything
+- Dirty Optimization Secrets (C for Playdate)
+- We want you to 構建 the next Git platform on Cloudflare
+- Google Japan shows off conveyor-belt keyboard with keys that move to fingers
+- TurboPython – A Python-to-C++ Compiler
+- What Meta got right with Muse
 - RetailReady (YC W24) Is 招聘
-- Woking Electrical Control Room (2016)
+- So you think you could be an electrician?
+- We're working on a 新 RuneScape MMO
+- Your body of work thinks back at you
+- FTL: A 新 operating 系統 for clouds
+- City building games have a Soul Problem pt.2
+- Math's pedagogical curse – Grant Sanderson [video] (2023)
+- 如何 hack time, with C2PA
+- gpuvis: GPU Trace Visualizer
+- Blindsight (Watts Novel)
+- Religious scholars met with Anthropic
+- Does Costco Cause Cancer?
+- Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?
 - C++ Insights – See your source 代碼 with the eyes of a Compiler
-- Show HN: Pi pod – Run your pi coding 代理 in sandboxes on your own 伺服器
+- Woking Electrical Control Room (2016)
 - Kolibri: A Sovereign Open-Weight 模型
-- Three AI agents, two countries, and one uneven world wide 網頁
+- Florida weighs ditching property taxes and sticking Canadians with the bill
+- Mac OS 9 Platinum desktop recreated in the browser
+- Show HN: Pi pod – Run your pi coding 代理 in sandboxes on your own 伺服器
 - Thought as a Technology (2016)
+- Three AI agents, two countries, and one uneven world wide 網頁
+- Memory-Safe WebP Decoding
 - Docker has always used microVMs (well since 2016)
 - Amazon 引進 a redesigned Kindle family
-- Memory-Safe WebP Decoding
-- 新 York City should carefully measure a 新 tree
+- Rejection Sensitivity in Gifted and Twice-Exceptional Children
 - Show HN: Our space game has a built-in RISC-V emulator that runs Linux
+- 新 York City should carefully measure a 新 tree
 - RSS Feed 最佳 Practices (2022)
-- Court agrees with EFF: Utah's VPN law demands a technical impossibility
-- To grieve, or not to grieve?
-- The characters of plastics (2024)
-- UK Government Body Kept Files on People Criticizing Prevent Program
 - Make Tmux the OS
-- Holes (1996-2025)
-- Bill Draper Dies at 98; He Was a Tech Investor Before There Was a Silicon Valley
-- The Softmax function and its derivative
-- Fast Blur with Animated Radius
-- Sea Monkeys Show Scientists 如何 Rewrite a Rule of Turbulence
-- Federal judge calls Flock 'indiscriminate mass surveillance'
-- Muse Gadgets
+- To grieve, or not to grieve?
+- Court agrees with EFF: Utah's VPN law demands a technical impossibility
+- Computer 軟體 bugs led to F1's Malaysia farce: 'unacceptable'
 - Tiny Brutalism
-- Gboard Conveyor Belt Version
-- In Ukraine, distributed renewables foil Russia's assaults
-- Automating my 35mm film scanning pipeline
+- Muse Gadgets
+- Holes (1996-2025)
 - Shimano Bicycle Museum Review
+- The Softmax function and its derivative
 - Newgrounds.com – A community of games, music, and art
-- MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today
-- Body Awareness in Goffin's Cockatoos
+- Gboard Conveyor Belt Version
+- Fast Blur with Animated Radius
 - Mike Tomlin spent 12 years building a Minecraft city
+- MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today
+- Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN
+- Federal judge calls Flock 'indiscriminate mass surveillance'
+- The characters of plastics (2024)
+- GVisor is being donated to CNCF
 - Direct retinal projection display for smart glasses using a Meta-optic mirror
-- Legal risks pile up for Altman as OpenAI uncovers hacks
+- Body Awareness in Goffin's Cockatoos
+- UK Government Body Kept Files on People Criticizing Prevent Program
 - Watson Jr. memo about CDC 6600 (1963)
 - Apple Pass Designer
-- ADHD, autism or complex trauma? [pdf]
-- Pop!_OS bans AI-generated 代碼 from much of its codebase
-- Extra Big Ass Intelligence
-- An 更新 on Orion for Linux and Windows
-- A 12-year sequence of telescope images of a star and four planets orbiting
-- Show HN: Graphene – Data analysis toolkit for your coding 代理
-- Getting the most out of Opus 5.5 in Claude and Claude 代碼
-- Loss of cell identity drives human aging: Two 新 papers
-- Gemini 4 Argon
-- The Nintendo 64 Partner-N64 Development Kit
-- Teenager suspected of leading KillSec ransomware group
-- Show HN: Made an open-source Lego AI generator
-- The first packet sent via RFC1149 avian carrier is up for auction at Christie's
-- FLUX 3 Image
-- Blogging with Gleam, Org-Mode and Pandoc
-- RIP, vector 資料庫
-- The Forgetful CPU (Linux on M4)
-- Our Project Suncatcher prototype satellite is in orbit
-- I made my iPhone a second GPU for my MacBook-Qwen 3.8 27B prefills 29–44% faster
-- Automatic Transmission – a data-privacy study of connected vehicles
-- Greg Kroah-Hartman – 安全 in the 大型語言模型 Age [video]
-- Show HN: Pyxel – A Python retro game engine with built-in art and sound editors
-- Turbo Haskell
 
 
 ---
