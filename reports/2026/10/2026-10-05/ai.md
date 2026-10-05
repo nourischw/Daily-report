@@ -4,192 +4,188 @@
 
 ---
 
-### 1. [微軟揭2026國家級駭客活動，臺灣、日本遭遇事件躍居全球第三、第四，���脅情勢較兩年前更嚴峻](https://www.ithome.com.tw/news/179391)
+### 1. [QNAP推出HDP for Business，讓既有NAS升級為企業備份中心](https://www.ithome.com.tw/news/179421)
 
-10月初微軟發布2026年數位防禦報告（Microsoft Digital Defense Report，MDDR），其中吸引最多人注意的統計分析，是對於當前全球國家級駭客活動情勢的觀察。從報告公布的各區域觀測資料來看，在2025年7月至2026年6月間，臺灣被觀察到193起國家級駭客活動事件，相較2024年數位防禦報告的143起，遭受攻擊狀況顯然持續升高。
-若從全球排名來看，美國以531起相關事件居首，其次是以色列210起，臺灣193起與日本172起則分居全球第三、第四，再來是英國76起、印度58起、阿拉伯聯合大公國50起、德國45起、烏克蘭42起，埃及則以30起排在其後。
+國產NAS廠商威聯通（QNAP）推出備份解決方案HDP for Business Beta，為其NAS平臺新增企業級備份管理功能，並提供不可變備份、物件鎖定等勒索軟體防護機制，也是QNAP備份產品品牌Hyper Data Protection（HDP）的最新成員，其他產品還包括HDP for PC
 
 - 📰 **iThome 科技**
 
-### 2. [Dell修補容器儲存套件CSM 13個漏洞，含兩個CVSS滿分漏洞](https://www.ithome.com.tw/news/179395)
+### 2. [AI資料中心擴建爭議升高，Amazon加碼逾10億美元回應地方疑慮](https://www.ithome.com.tw/news/179415)
+
+Amazon公布新的資料中心營運與社區承諾，回應近期資料中心擴建引發的電力、用水及地方社區疑慮。未來5年將在美國資料中心所在地額外投入超過10億美元，用於教育、職業訓練及能源與用水改善，Amazon也表示，今後不再與資料中心專案合作的政府機關簽署保密協議，並將每年公開能源與用水等營運資料。
+
+- 📰 **iThome 科技**
+
+### 3. [勒索軟體Warlock鎖定水資源與電信產業，利用SharePoint漏洞��擊](https://www.ithome.com.tw/news/179416)
+
+去年中國駭客組織Storm-2603（Longlegs）因從事勒索軟體Warlock活動的過程裡，濫用SharePoint零時差漏洞ToolShell（CVE-2025-49704、CVE-2025-49706、CVE-2025-53770、CVE-2025-53771）而被微軟點名，成為全球關注的焦點；近期有資安公司警告，這些駭客的活動仍持續出現，目標轉向特定語系國家的關鍵基礎設施、政府機關，以及教育機構。
+
+- 📰 **iThome 科技**
+
+### 4. [Roundcube已知SQL注入弱點遭到利用](https://www.ithome.com.tw/news/179413)
+
+加拿大網路安全中心於9月下旬更新郵件伺服器Roundcube的資安公告，原因是他們根據開源的情資報告，得知今年5月修補的資安漏洞CVE-2026-48842遭到實際利用，呼籲管理人員要根據Roundcube提供的指引，套用必要的更新程式。由於最近幾年不時傳出國家級駭客針對該郵件系統發動攻擊，因此這項公告更新相當值得留意。
+
+- 📰 **iThome 科技**
+
+### 5. [Anthropic投入1億美元培訓萬名工程師，強化企業Claude部署能力](https://www.ithome.com.tw/news/179412)
+
+Anthropic周五（10/2）宣布推出Claude Frontier Academy，並投入1億美元培訓企業AI人才，目標在2027年底前培養1萬名前線部署工程師（Frontier Deployed Engineers，FDE），協助企業將Claude導入實際工作流程與正式生產環境。首批學員來自Accenture、Bain、Capgemini、Deloitte、McKinsey、Morgan Stanley、Novo Nordisk及澳洲聯邦銀行等企業。
+
+- 📰 **iThome 科技**
+
+### 6. [資安署針對GitLab滿分漏洞利用攻擊提出警告](https://www.ithome.com.tw/news/179411)
+
+9月上旬GitLab開發團隊修補CVSS嚴重程度達到10分滿分的資安漏洞CVE-2026-85706，漏洞公布不到一天就開始出現嘗試利用的活動，在美國網路安全與基礎設施安全局（CISA）表示已遭積極利用後，我國政府近期也提出警訊，呼籲各界應儘速採取行動防範相關威脅。
+
+- 📰 **iThome 科技**
+
+### 7. [【資安日報】10月5日，微軟揭露2026年國家級駭客威脅較兩年前更嚴峻，臺灣遭遇事件數躍居全球第三](https://www.ithome.com.tw/news/179410)
+
+本日新聞焦點
+● 微軟揭2026國家級駭客活動，臺灣、日本事件數居全球第三、第四
+● 中國網路間諜TA419鎖定美國AI政策圈，假冒前白宮官員進行網釣
+● 英國示警中國情報機構藉資助AI、資安等研究，提升間諜技術能力
+
+- 📰 **iThome 科技**
+
+### 8. [摩斯漢堡傳出消費者個資外流，廠商說明後續處理方式](https://www.ithome.com.tw/news/179408)
+
+經營摩斯漢堡的連鎖餐飲服務公司安心（1259）於10月1日，在股市資訊公開觀測站發布重大訊息，表示該公司接獲少數消費者反映，疑似第三方不當從委外廠商管理的平臺取得個資，然後透過電子郵件聯繫他們。
+
+- 📰 **iThome 科技**
+
+### 9. [大量自動化無效通報湧入，Google暫停開源軟體產品漏洞獎勵計畫](https://www.ithome.com.tw/news/179406)
+
+Google漏洞賞金獵人平臺Bug Hunters上周五（10/2）宣布，已暫停接收開源軟體漏洞獎勵計畫（開源 軟體 Vulnerability Rewards Program，OSS VRP）的產品漏洞通報，但仍持續受理開源軟體供應鏈相關漏洞；涉及Google 雲端產品的開源程式碼庫，則可透過雲端 VRP接受相關產品漏洞通報。
+
+- 📰 **iThome 科技**
+
+### 10. [微軟發布2026數位防禦報告，臺灣上半年遭網路威脅影響排名升至全球第4名](https://www.ithome.com.tw/news/179405)
+
+盤點最新全球資安威脅態勢的微軟2026數位防禦報告，除了公布過去一年國家級駭客活動的統計分析，也揭露今年上半年的全球威脅焦點。
+
+- 📰 **iThome 科技**
+
+### 11. [駭���組織ShinyHunters成員在約旦遭捕，據報將協助FBI追查同夥](https://www.ithome.com.tw/news/179404)
+
+繼荷蘭警方於9月29日證實逮捕疑似駭客組織ShinyHunters成員後，又有一該組織成員被捕。
+
+- 📰 **iThome 科技**
+
+### 12. [Rust預告停止32位元Windows主機工具，開發者需改採交叉編譯](https://www.ithome.com.tw/news/179393)
+
+Rust團隊預告，從Rust 1.100開始，不再替32位元Windows提供可直接執行的Rust編譯器等開發工具。開發者仍可製作32位元Windows程式，但之後必須改在64位元Windows等受支援的電腦上完成編譯，再產生供32位元Windows執行的程式。
+
+- 📰 **iThome 科技**
+
+### 13. [Meta開源Muse Gadgets硬體開發套件，支援自製AI裝置](https://www.ithome.com.tw/news/179403)
+
+Meta上周六（10/3）宣布開源Muse Gadgets硬體開發套件，讓開發者可使用現成ESP32開發板、Raspberry Pi或其他Linux電腦，自行打造可與Muse AI連接的實體裝置，並加入螢幕、按鈕、感測器、致動器及音訊等功能。Meta同步公開相關SDK及韌體，該專案採用Apache License 2.0授權。
+
+- 📰 **iThome 科技**
+
+### 14. [管理員下AI提示出錯，致美珍香洩露近10萬會員資料](https://www.ithome.com.tw/news/179402)
+
+知名食品業者美珍香（Bee Cheng Hiang）今年4月發生一起因AI行銷工具下錯提示，導致超過9.5萬會員的電子郵件信箱等個資外洩。
+
+- 📰 **iThome 科技**
+
+### 15. [AI導致低品質報告氾濫，arXiv將限制報告每月提交最多2篇](https://www.ithome.com.tw/news/179401)
+
+由於AI生成的低品質報告氾濫造成管理負擔，知名論文發布平臺arXiv上周更新論文發布規範，限制每個月每人僅能提交最多2篇論文，而審稿論文最多只能有3篇論文。
+
+- 📰 **iThome 科技**
+
+### 16. [蘋果將增加macOS完全磁碟存取的開關控制](https://www.ithome.com.tw/news/179400)
+
+由於Meta Muse for macOS有擅自存取用戶電腦資料的疑慮，蘋果上周宣布將為macOS增加完全磁碟存取（Full Disk Access）的開關控制，以防使用者資料被App暗中存取。
+Meta於9月初公布個人助理App Muse。這個個人助理號稱可協助用戶發送郵件、預訂旅程、購物或管理跨步驟的長期任務。但它只會在取得用戶同意或授權後才會執行。
+
+- 📰 **iThome 科技**
+
+### 17. [Citrix修補NetScaler阻斷服務漏洞](https://www.ithome.com.tw/news/179398)
+
+10月4日Citrix發布資安公告，揭露影響NetScaler ADC與NetScaler Gateway的漏洞CVE-2026-88779，此為記憶體溢位產生的弱點，有可能會導致服務中斷（DoS），CVSS v4.0嚴重程度評為8.7分，影響本地建置的NetSca
+
+- 📰 **iThome 科技**
+
+### 18. [美國CISA警告Citrix NetScaler漏洞遭積極利用，要求聯邦機構緊急修補](https://www.ithome.com.tw/news/179397)
+
+10月4日美國網路安全與基礎設施安全局（CISA）表示，他們已掌握Citrix NetScaler漏洞CVE-2026-88779遭到利用的證據，將其加入已遭利用的漏洞名單（KEV），聯邦機構必須在10月7日前
+
+- 📰 **iThome 科技**
+
+### 19. [微軟揭2026國家級駭客活動，臺灣、日本遭遇事件躍居全球第三、第四，威脅情勢較兩年前更嚴峻](https://www.ithome.com.tw/news/179391)
+
+10月初微軟發布2026年數位防禦報告（Microsoft Digital Defense Report，MDDR），其中吸引最多人注意的統計分析，是對於當前全球國家級駭客活動情勢的觀察。
+
+- 📰 **iThome 科技**
+
+### 20. [Dell修補容器儲存套件CSM 13個漏洞，含兩個CVSS滿分漏洞](https://www.ithome.com.tw/news/179395)
 
 Dell於10月1日發布Container Storage Modules（CSM）更新，修補13個自身程式碼漏洞，包括6個CVSS 9.6分以上的重大漏洞。
 
 - 📰 **iThome 科技**
 
-### 3. [Cloudflare開源Clef決策模型，主打快速判斷並整合Workers AI](https://www.ithome.com.tw/news/179382)
+### 21. [Cloudflare開源Clef決策模型，主打快速判斷並整合Workers AI](https://www.ithome.com.tw/news/179382)
 
 Cloudflare推出自行訓練的決策模型Clef與Clef-flash，兩款模型已整合至Workers AI，並以Apache 2.0授權開放模型權重。Clef採用與Jev相容的程式介面，既有使用Jev的應用較容易改用Clef，主要用於AI代理進行分類、判斷或決定下一步動作。
 決策模型和一般大型語言模型負責的工作不同，大型語言模型可以產生文字、進行推理或操作工具，決策模型則專門處理範圍明確的判斷。開發者先設定可接受的答案，模型讀取輸入資料後，直接回傳符合指定格式的答案及各選項機率。
 
 - 📰 **iThome 科技**
 
-### 4. [中國相關網路間諜TA419鎖定美國AI政策圈，假冒前白宮官員進行Microsoft帳號網釣](https://www.ithome.com.tw/news/179378)
+### 22. [中國���關網路間諜TA419鎖定美國AI政策圈，假冒前白宮官員進行Microsoft帳號網釣](https://www.ithome.com.tw/news/179378)
 
 資安業者Proofpoint揭露中國相關網路間諜組織TA419，該組織至少自2025年4月持續對任職於美國及日本境內智庫、國防承包商、大學及法律事務所的人員，發動以竊取登入憑證為目的的針對性網釣攻擊，今年進一步鎖定美國AI政策圈。
 
 - 📰 **iThome 科技**
 
-### 5. [微軟示警AI加劇資安攻防速度落差，臺灣觀測到的國家級駭客活動事件數居亞太首位](https://www.ithome.com.tw/news/179372)
+### 23. [微軟示警AI加劇資安攻防速度落差，臺灣觀測到的國家級駭客活動事件數居亞太首位](https://www.ithome.com.tw/news/179372)
 
 微軟最新全球網路威脅觀察指出，AI正加快漏洞研究、惡意程式開發及入侵後的攻擊活動。漏洞從實際環境中被發現到遭武器化，中位時間已縮短至遠低於24小時；企業修補重大對外漏洞則可能需要30至60天。過去6個月，攻擊者不只利用AI協助執行攻擊，也開始讓AI協調不同攻擊步驟，朝自主執行網路攻擊發展。
 
 - 📰 **iThome 科技**
 
-### 6. [AI紅隊平臺新創Armadin完成2.56億美元B輪募資](https://www.ithome.com.tw/news/179364)
+### 24. [AI紅隊平臺新創Armadin完成2.56億美元B輪募資](https://www.ithome.com.tw/news/179364)
 
-AI資安新創公司Armadin���布完成2.56億美元B輪募資，成立以來累計募資達4.45億美元，新資金將用於持續開發旗下平臺、強化相關研究及拓展市場。Armadin由成立資安公司Mandiant而聞名的Kevin Mandia等人創辦，聚焦AI紅隊演練，提供AI代理驅動的攻擊型資安平臺。
+AI資安新創公司Armadin宣布完成2.56億美元B輪募資，成立以來累計募資達4.45億美元，新資金將用於持續開發旗下平臺、強化相關研究及拓展市場。Armadin由成立資安公司Mandiant而聞名的Kevin Mandia等人創辦，聚焦AI紅隊演練，提供AI代理驅動的攻擊型資安平臺。
 
 - 📰 **iThome 科技**
 
-### 7. [Reco完成5,500萬美元募資，擴大AI代理安全業務](https://www.ithome.com.tw/news/179363)
+### 25. [Reco完成5,500萬美元募資，擴大AI代理安全業務](https://www.ithome.com.tw/news/179363)
 
 Gartner預測，全球《財星》500大企業平均每家使用的AI代理，將從2025年不到15個增加至2028年超過15萬個。隨著AI代理數量快速增加，企業也需要掌握AI代理的存取權限與範圍。
 
 - 📰 **iThome 科技**
 
-### 8. [開源IT服務與客服系統Zammad漏洞遭積極利用](https://www.ithome.com.tw/news/179387)
+### 26. [開源IT服務與客服系統Zammad漏洞遭積極利用](https://www.ithome.com.tw/news/179387)
 
 10月2日美國網路與基礎設施安全局（CISA）新掌握兩個漏洞遭到積極利用的證據，在已知遭利用漏洞（KEV）清單中，增列CVE-2026-102489與
 
 - 📰 **iThome 科技**
 
-### 9. [CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用](https://www.ithome.com.tw/news/179386)
+### 27. [CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用](https://www.ithome.com.tw/news/179386)
 
 美國網路與基礎設施安全局（CISA）維護的已知遭利用漏洞清單（KEV），10月1日新增CVE-2026-104286，這是存在Fortinet郵件安全閘道設備FortiMail的路徑遍歷漏洞，聯邦政府各民事執行單位須在10月4日前完成修補。
 
 - 📰 **iThome 科技**
 
-### 10. [Chrome 154本週第二度發布更新版，緊急修補11個漏洞](https://www.ithome.com.tw/news/179385)
+### 28. [Chrome 154本週第二度發布更新版，緊急修補11個漏洞](https://www.ithome.com.tw/news/179385)
 
 9月29日Google發布Chrome瀏覽器的154.0.8037.92版或154.0.8037.93版，修補32個漏洞，兩天後又緊急推出更新版本，目前針對Windows平臺與Mac平臺的Chrome提供154.0.8037.97版或154.0.8037.98版，針對Android平臺的Chrome提供154.0.8037.126版，至於Linux平臺的Chrome，則是預計在後續幾天或幾週推出154.0.8037.97版，當中總共修補11個漏洞。
 
 - 📰 **iThome 科技**
 
-### 11. [全端框架SvelteKit 3整理開發工具鏈，舊專案升級需更新設定與工具版本](https://www.ithome.com.tw/news/179377)
+### 29. [全端框架SvelteKit 3整理開發工具鏈，舊專案升級需更新設定與工具版本](https://www.ithome.com.tw/news/179377)
 
 Svelte團隊正式發布全端應用框架SvelteKit 3，新版調整專案設定方式，將SvelteKit相關設定集中到Vite設定檔，同時提高開發工具的最低版本要求，包括採用TypeScript 6與建置工具Vite 8。官方也提供自動遷移工具，協助既有專案升級。
 
 - 📰 **iThome 科技**
 
-### 12. [【資安週報】0929~1002，臺灣8月勒索軟體事件20起居亞太第三，全球聚焦AI代理安全風險與防護布局](https://www.ithome.com.tw/news/179381)
+### 30. [【資安週報】0929~1002，臺灣8月勒索軟體事件20起居亞太第三，全球聚焦AI代理安全風險與防護布局](https://www.ithome.com.tw/news/179381)
 
-本週資安威脅焦點集中於勒索軟體與企業資安事件，近期統計顯示，臺灣8月至少發生20起勒索軟體事件，也有多家上市櫃公司發布資安重訊，包括柏文、神腦與鈊象等，華碩也傳出通知部分線上商店客戶資料可能遭未授權存取的情���，顯示企業遭受攻擊與資料外洩風險仍持續升高。此外，針對網路、端點與應用程式漏洞的攻擊接連曝光，成為另一項值得關注的威脅動向。
-
-- 📰 **iThome 科技**
-
-### 13. [五大科技巨頭主動型代理大比較，一張表告訴你Dots、Muse和Spark有何不同](https://www.ithome.com.tw/news/179380)
-
-主動型代理助理產品大爆發。從今年5月開始，多家科技巨頭陸續跨進主動型代理市場，到了8、9月更進入密集推出期，大廠紛紛推出了主打24小時全天候運作的AI 代理，在沒有新的提示指令下持續執行。
-年初全球爆紅的OpenClaw（龍蝦），掀起了新一波AI代理的熱潮。相較於過去多半依據使用者指令行動的代理，OpenClaw可以持續運作、定期執行任務，甚至在沒有持續提示的情況下主動完成工作，讓代理從一次性任務執行，進一步發展為長時間、持續自主運作的模式。
-
-- 📰 **iThome 科技**
-
-### 14. [案件太多、敏感卷證又不能上商用AI，法務部啟動三年主權AI計畫](https://www.ithome.com.tw/news/179379)
-
-「案件這麼多，又不讓我用AI，要我怎麼辦？」時任法務部綜合規劃司副司長古慧珍在8月底數位政府高峰會上，用這句第一線同仁可能的抱怨，點出法務部推動AI的兩難：檢察官、觀護人需要工具幫忙整理資料和文書，但卷宗內有個資、案情和偵查脈絡，不能直接上傳到商用AI。
-法務部的解法是，要用三年時間建立自己的三層式主權AI平臺：底層共用算力與資料湖，中層提供法務專屬大型語言模型推論系統，上層則是自主開發的AI助理應用。今年，這項計畫先選定代表性場域、展開試驗，明年則進入推廣期，要逐步擴增本土司法語料庫和實務案例，2028年預計擴大規模、形成持續演進的法務AI生態系。
-
-- 📰 **iThome 科技**
-
-### 15. [微軟推出首款自研即時串流語音轉錄模型，並更新MAI語音模型](https://www.ithome.com.tw/news/179375)
-
-微軟AI部門Microsoft AI（MAI）周四（10/1���推出首款自研即時串流語音轉錄模型MAI-Transcribe-2-Streaming，支援60種語言及持續自動語言偵測，收到音訊後約100毫秒即可開始輸出初步轉錄內容。同一天微軟也更新文字轉語音模型MAI-Voice系列，推出MAI-Voice-2.1及低延遲版本MAI-Voice-2.1-Flash。
-
-- 📰 **iThome 科技**
-
-### 16. [【資安日報】10月2日，臺北市政府網站發生服務中斷事件，起因為跳電後機房過熱造成儲存設備關閉](https://www.ithome.com.tw/news/179374)
-
-本日新聞焦點
-● OpenAI調查失控AI代理人活動，已通知逾100個組織
-● FBI與歐洲警方打擊勒索軟體組織KillSec，逮捕疑似主嫌的16歲少年
-● 中國駭客鎖定臺灣學界與智庫，仿Gmail附件預覽及政府文件為誘餌
-
-- 📰 **iThome 科技**
-
-### 17. [AWS開源20億參數Strands Decider，專門替AI代理人快速做決策](https://www.ithome.com.tw/news/179373)
-
-AWS旗下Strands團隊周四���10/1）開源Strands Decider 2B決策模型，專門替AI代理人快速進行分類、工具選擇及安全判斷等工作。模型共有20億個參數，可直接在本機CPU或GPU執行，並以低延遲完成決策。AWS同步公開模型權重、訓練資料及訓練程式碼。
-
-- 📰 **iThome 科技**
-
-### 18. [Meta推出主打小型企業用的Muse for Small Business](https://www.ithome.com.tw/news/179371)
-
-Meta推出高話題性的消費者AI助理Muse後，本週推出針對小型企業的Muse for Small Business，能幫小型店家處理行銷、行政或客戶服務等事務。
-Meta說明，小型企業主通常身兼數職，同時擔任會計、行銷、營運和客服等工作，無法專注於核心業務。而單純的聊天機器人無法解決複雜的商業問題，Muse for Small Business的目的就是成為企業的營運工具鏈的一環，了解小型企業目標、產品、客服問題及營運狀況，以提供AI自動化服務。
-
-- 📰 **iThome 科技**
-
-### 19. [研究人員揭露惡意軟體BambooToken，透過MQTT通訊協定控制Windows與Linux電腦](https://www.ithome.com.tw/news/179370)
-
-資安業者Lumen近日揭露新型惡意軟體BambooToken，根據樣本與網路遙測，該惡意軟體至少自2023年2月起開始活動，並持續至2026年7月，主要出現在亞洲及南美，已有十多家企業受害，包括行動App後端、旅館、生技、法律、金融、加密貨幣及軟體開發業者。目前該惡意軟體尚無法歸因於特定攻擊組織，但Lumen認為其攻擊目標與活動模式，符合中國相關威脅行動的特徵。
-
-- 📰 **iThome 科技**
-
-### 20. [開源AI代理框架Pi邁入1.0，另推出長時間代理框架Pi Durable](https://www.ithome.com.tw/news/179369)
-
-Earendil發布開源AI代理框架Pi 1.0，同時推出實驗性代理執行框架Pi Durable，讓開發者建立可長時間執行的AI代理應用。當執行中的服務重新啟動或意外中斷，Pi Durable可以讀取先前保存的進度，接著處理尚未完成的工作，也支援多條對話同時執行及多人介入同一代理任務。
-
-- 📰 **iThome 科技**
-
-### 21. [OpenAI調查失控AI代理人活動，已通知逾100個組織](https://www.ithome.com.tw/news/179368)
-
-OpenAI周三（9/30）公布AI代理人未對齊行為的最新調查進度，指出截至9月26日，已就相關異常活動通知超過100個組織，目前仍在持續回溯歷史紀錄，預期還會發現更多案例。
-這項調查源於OpenAI先前發現內部研究模型入侵Hugging Face的事件。OpenAI之後擴大檢查模型在訓練及評估期間的網路活動，尋找是否還有其他代理人在執行任務時偏離原本目的，或以未預期方式與第三方網站及服務互動。目前調查已進行約一個月，尚未發現其他事件的規模或嚴重程度達到Hugging Face事件。
-
-- 📰 **iThome 科技**
-
-### 22. [加州禁止AI自行決定解僱員工，成全美首例](https://www.ithome.com.tw/news/179367)
-
-美國加州州長Gavin Newsom周三（9/30）簽署SB 947，禁止雇主完全依��AI或自動化決策系統，決定對員工採取懲戒或解僱措施，要求這類重大人事決策必須有人類參與審查，成為全美首個禁止雇主完全依賴AI做出懲戒或解僱決定的州別。
-
-- 📰 **iThome 科技**
-
-### 23. [FBI聯手歐洲警方打擊勒索軟體組織KillSec，逮捕疑似主嫌的16歲少年](https://www.ithome.com.tw/news/179366)
-
-FBI與歐洲多國執法機關於9月30日展開KillSwitch行動，打擊勒索軟體組織Kill 安全（簡稱KillSec）。
-
-- 📰 **iThome 科技**
-
-### 24. [Gartner預測2030年部署面向公眾的AI服務的企業，有80%將經歷成本耗盡攻擊，致營運成本超額](https://www.ithome.com.tw/news/179365)
-
-9月15日在澳洲黃金海岸舉行的Gartner IT Symposium/Xpo大會期間，產業研究與顧問機構Gartner發布2027年暨未來核心策略預測，區分為三大類別：無所不在的機器人（robots everywhere）、由投入成本轉向創造價值��cost to value）、以及未知的未知（unknown unknowns）
-
-- 📰 **iThome 科技**
-
-### 25. [Aurora PostgreSQL現可查詢S3資料湖，由DuckDB引擎負責Iceberg與Parquet分析](https://www.ithome.com.tw/news/179362)
-
-AWS將DuckDB分析引擎嵌入Aurora PostgreSQL，使其具備直接查詢資料湖的功能。開發者可從Aurora查詢Amazon S3中的Apache Iceberg與Parquet資料，再與資料庫內的交易資料一起處理，不必先把資料湖中的歷史資料複製進Aurora。
-
-- 📰 **iThome 科技**
-
-### 26. [GitHub HydraFusion進入VS 代碼，AI可依任務自動安排多模型分工](https://www.ithome.com.tw/news/179345)
-
-GitHub擴大HydraFusion研究預覽範圍，除了原本的Copilot命令列工具，現在也於VS 代碼與GitHub Copilot應用程式提供。使用者可從Copilot模型選單選擇HydraFusion，不過，HydraFusion並非單一AI模型，而是一套協調模型工作的機制，會依照任務決定由一個模型直接處理，或讓多個模型接力完成並檢查結果。
-
-- 📰 **iThome 科技**
-
-### 27. [英國示警中國情報機構藉資助AI、資安等研究，提升間諜技術能力](https://www.ithome.com.tw/news/179340)
-
-英國情報機構向大學及研究人員發布間諜活動警告。軍情五處（MI5）調查發現，超過100名與英國有關的學者曾參與中國國安部（MSS）透過中國通用技術研究院（China General Technology Research Institute，CGTRI）資助的研究，其中部分研究人員可能不知道自己參與的研究由該研究院資助。
-
-- 📰 **iThome 科技**
-
-### 28. [美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元](https://www.ithome.com.tw/news/179336)
-
-美國財政部外國資產控制辦公室（OFAC）對與委內瑞拉犯罪組織Tren de Aragua（TdA）有關的詐欺網路實施制裁，8名個人及2家公司遭列入制裁對象，相關犯罪活動包���ATM吐鈔攻擊及洗錢。美國財政部指出，截至2025年8月，美國境內已有超過1,500起疑似ATM吐鈔攻擊，通報損失合計4,073萬美元。
-
-- 📰 **iThome 科技**
-
-### 29. [今年前8月遭利用漏洞數超越2025全年，N-day漏洞利用明顯增加](https://www.ithome.com.tw/news/179326)
-
-Google旗下威脅情報團隊GTIG分析2025年初至2026年8月底的漏洞趨勢，指出2026年揭露及實際遭利用的漏洞都明顯增加。AI已開始被用於協助尋找漏洞，不過開源生態系中的自動化CVE編號指派機制，也會推高漏洞揭露數量。攻擊者也可能利用AI分析產品版本差異、修補及漏洞資訊，更快將已知漏洞用於攻擊。
-
-- 📰 **iThome 科技**
-
-### 30. [軟體供應鏈攻擊擴大至CI/CD，企業需防建置流程遭操弄](https://www.ithome.com.tw/news/179322)
-
-Google旗下資安團隊Mandiant近日針對軟體開發與CI/CD環境提出防護建議。根據他們近期觀察到的攻擊活動，軟體供應鏈攻擊已不只涉及遭污染的開源套件，攻擊者也鎖定企業信任的安全掃描工具、公用函式庫及AI程式開發工具，開發人員工作站與CI/CD基礎架構同樣成為攻擊目標。
+本週資安威脅焦點集中於勒索軟體與企業資安事件，近期統計顯示，臺灣8月至少發生20起勒索軟體事件，也有多家上市櫃公司發布資安重訊，包括柏文、神腦與鈊象等，華碩也傳出通知部分線上商店客戶資料可能遭未授權存取的情形，顯示企業遭受攻擊與資料外洩風險仍持續升高。此外，針對網路、端點與應用程式漏洞的攻擊接連曝光，成為另一項值得關注的威脅動向。
 
 - 📰 **iThome 科技**
 
@@ -197,10 +193,15 @@ Google旗下資安團隊Mandiant近日針對軟體開發與CI/CD環境提出防�
 
 ### 更多 AI 新聞 (70則)
 
+- 最佳 Power Banks (2026): My Picks After Testing Over 100 (**Wired**)
+- Withings BodyScan 2 Review: Worth Its Weight (**Wired**)
+- Omega Has 新 Bond Watches Even If There Isn’t a 新 James Bond (**Wired**)
+- A Prediction Market About the Past? Sure, 為什麼 Not! (**Wired**)
+- Staples Print and Marketing Services Review: Fast Holiday Gifts (**Wired**)
 - 15 最佳 Office Chairs of 2026—We Tested 70 to Pick Them (**Wired**)
 - The 最佳 Gifts Under $25 for Everyone on Your List (2026) (**Wired**)
-- The 最佳 Online Gift Cards and Digital Gift Ideas (2026) (**Wired**)
 - Meta Glasses Nova (Gen 3) Review: Not Much 新 (**Wired**)
+- The 最佳 Online Gift Cards and Digital Gift Ideas (2026) (**Wired**)
 - Rural Data Centers Are in for a Big Federal Tax Break (**Wired**)
 - Keurig Alta First-Look: No More Plastic K-Cups (**Wired**)
 - Elusive ‘Geoneutrinos’ Are Building a 新 Map of Earth’s Volatile Interior (**Wired**)
@@ -213,8 +214,8 @@ Google旗下資安團隊Mandiant近日針對軟體開發與CI/CD環境提出防�
 - 50% Off DoorDash Promo 代碼 | October 2026 (**Wired**)
 - Surfshark Promo Codes: 87% Off | October 2026 (**Wired**)
 - Klook Promo 代碼: 25% Off October 2026 (**Wired**)
-- 20% Off Brooks Promo 代碼 | October 2026 (**Wired**)
 - Hoka Coupon Codes: 30% Off in October 2026 (**Wired**)
+- 20% Off Brooks Promo 代碼 | October 2026 (**Wired**)
 - Chewy Promo Codes: $20 Off October 2026 (**Wired**)
 - ICE Has Been Dumping Protester Photos Into a Palantir 資料庫 (**Wired**)
 - This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off (**Wired**)
@@ -242,11 +243,6 @@ Google旗下資安團隊Mandiant近日針對軟體開發與CI/CD環境提出防�
 - Whatever AI Safety Is, It’s Not This (**Wired**)
 - The 最佳 Early Prime Day Deals Ahead of Amazon’s Second Sale (2026) (**Wired**)
 - Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot (**Wired**)
-- Experience What It’s Like to Travel in the Occupied West Bank (**Wired**)
-- Tim Heidecker Is Bringing His Joe Rogan Parody Show to The Onion (**Wired**)
-- Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date (**Wired**)
-- What’s the 最佳 Kindle of 2026 (So Far)? (**Wired**)
-- The 最佳 Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
