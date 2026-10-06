@@ -4,200 +4,206 @@
 
 ---
 
-### 1. [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
+### 1. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
 
-- ⭐ 172 分｜💬 43 留言｜👤 solarist
+https:&#x2F;&#x2F;docs.mistral.AI&#x2F;models&#x2F;mistral-large-4-0
 
-### 2. [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
+- ⭐ 1454 分｜💬 905 留言｜👤 Philpax
 
-- ⭐ 74 分｜💬 11 留言｜👤 ingve
+### 2. [EmbeddingGemma 2](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
 
-### 3. [JetBrains reported a net financial loss first time in its tracked history](https://www.helgilibrary.com/companies/jetbrains)
+- ⭐ 138 分｜💬 18 留言｜👤 ilreb
 
-- ⭐ 6 分｜💬 0 留言｜👤 thw_9a83c
+### 3. [Nobel Prize in Physics 2026: Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
 
-### 4. [Beam: Reflection's 501B open-weight 模型](https://reflection.ai/blog/introducing-beam)
+- ⭐ 491 分｜💬 159 留言｜👤 solarist
 
-- ⭐ 480 分｜💬 155 留言｜👤 Philpax
+### 4. [Paramount Skydance has completed its $111B merger with Warner Bros. Discovery](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
 
-### 5. [Find the flattest route between any two points in SF](https://flattensf.com/)
+- ⭐ 91 分｜💬 97 留言｜👤 Mgtyalx
 
-- ⭐ 230 分｜💬 79 留言｜👤 ishan0102
+### 5. [OpenTPU – An open-source AI accelerator, developed by AI](https://github.com/FeSens/openTPU)
 
-### 6. [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
+- ⭐ 181 分｜💬 234 留言｜👤 fsbonetto
 
-- ⭐ 224 分｜💬 59 留言｜👤 E-Reverance
+### 6. [OpenSSH 10.6](https://www.openssh.org/releasenotes.html#10.6)
 
-### 7. [Friendship ended with Deno, now Node is my 最佳 friend](https://dbushell.com/2026/10/03/deno-to-node/)
+- ⭐ 51 分｜💬 5 留言｜👤 torcete
 
-- ⭐ 210 分｜💬 125 留言｜👤 ibobev
+### 7. [Ask HN: 為什麼 is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
 
-### 8. [Accountability mechanisms can be joyful (2024)](https://liquidbrain.net/blog/accountability-and-joy/)
+I&#x27;d have swear before there were more and even a more button at the bottom
 
-- ⭐ 50 分｜💬 14 留言｜👤 luu
+- ⭐ 14 分｜💬 12 留言｜👤 Gooblebrai
 
-### 9. [ASOS app users receive push notifications apparently sent by hackers](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o)
+### 8. [Claude 代碼’s suggested message feature: I think the real customer is the 模型](https://www.zohaib.cc/blog/smartest-claude-code-feature)
 
-- ⭐ 36 分｜💬 17 留言｜👤 helsinkiandrew
+- ⭐ 28 分｜💬 9 留言｜👤 zed_labs_dev
 
-### 10. [Nature's capacity to 'bounce back' when species are lost is vastly overestimated](https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html)
+### 9. [Benchmark in Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html)
 
-- ⭐ 13 分｜💬 2 留言｜👤 pseudolus
+- ⭐ 118 分｜💬 31 留言｜👤 surprisetalk
 
-### 11. [網頁 Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
+### 10. [The Early History of Smalltalk (1993)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 
-- ⭐ 564 分｜💬 259 留言｜👤 tosh
+- ⭐ 98 分｜💬 47 留言｜👤 _reza
 
-### 12. [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+### 11. [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
 
-- ⭐ 257 分｜💬 163 留言｜👤 jgx0
+- ⭐ 278 分｜💬 115 留言｜👤 ingve
 
-### 13. [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+### 12. [OpenAI Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
 
-- ⭐ 389 分｜💬 263 留言｜👤 outlier99
+- ⭐ 11 分｜💬 3 留言｜👤 chiefstorm
 
-### 14. [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
+### 13. [系統-level ad-blocking in Android](https://kevinboone.me/adblock.html)
 
-- ⭐ 71 分｜💬 14 留言｜👤 thepipetogrep
+- ⭐ 27 分｜💬 17 留言｜👤 birdculture
 
-### 15. [Testing 12 different Zigbee temperature/humidity sensors](https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/)
+### 14. [Mathematics of Geothermal Energy](https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/)
 
-- ⭐ 142 分｜💬 77 留言｜👤 walrus01
+- ⭐ 62 分｜💬 35 留言｜👤 srameshc
 
-### 16. [Competitive Programmer's Handbook (2018) [pdf]](https://cses.fi/book/book.pdf)
+### 15. [Subquadratic 3SUM and Subcubic APSP](https://arxiv.org/abs/2610.06783)
 
-- ⭐ 229 分｜💬 55 留言｜👤 vinhnx
+- ⭐ 86 分｜💬 31 留言｜👤 mauriziocalo
 
-### 17. [Direct retinal projection display for smart glasses using a Meta-optic mirror](https://www.tdk.com/en/news_center/press/20261002_01.html)
+### 16. [What's Earth's dominant species by mass?](https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/)
 
-- ⭐ 46 分｜💬 12 留言｜👤 bookofjoe
+- ⭐ 101 分｜💬 53 留言｜👤 surprisetalk
 
-### 18. [Using A.I. and 機器學習 to decode communication of sperm whales](https://blue-continuum.com/the-man-who-listens-to-whales)
+### 17. [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/)
 
-- ⭐ 41 分｜💬 25 留言｜👤 dnetesn
+I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I figur
 
-### 19. [World's First enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)
+- ⭐ 54 分｜💬 12 留言｜👤 pentakkusu
 
-- ⭐ 9 分｜💬 1 留言｜👤 hochmartinez
+### 18. [Erdosproblems.com Succumbs to the AI Onslaught](https://www.erdosproblems.com/forum/thread/blog:9)
 
-### 20. [An algorithmic failure beneath the secret ballot](https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/)
+- ⭐ 65 分｜💬 27 留言｜👤 pfdietz
 
-- ⭐ 92 分｜💬 69 留言｜👤 leecoursey
+### 19. [Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill](https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/)
 
-### 21. [The complement of true is true, except when it's false](https://dryperspective.github.io/posts/complement-of-true/)
+- ⭐ 47 分｜💬 14 留言｜👤 speckx
 
-- ⭐ 30 分｜💬 5 留言｜👤 aw1621107
+### 20. [Polars 2.0](https://pola.rs/posts/release-polars-2/)
 
-### 22. [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/)
+- ⭐ 391 分｜💬 91 留言｜👤 simicd
 
-- ⭐ 239 分｜💬 102 留言｜👤 farslan
+### 21. [Beam: Reflection's 501B open-weight 模型](https://reflection.ai/blog/introducing-beam)
 
-### 23. [Show HN: Entombed in a Raycaster](https://www.stelabouras.com/blog/entombed-raycaster/)
+- ⭐ 537 分｜💬 167 留言｜👤 Philpax
 
-- ⭐ 30 分｜💬 6 留言｜👤 stelabouras
+### 22. [Nature's capacity to 'bounce back' when species are lost is overestimated: study](https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html)
 
-### 24. [為什麼 Common Lisp is now the 最佳 程式設計 language](https://www.vivienhenz.com/common-lisp)
+- ⭐ 292 分｜💬 147 留言｜👤 pseudolus
 
-- ⭐ 220 分｜💬 275 留言｜👤 misterchocolat
+### 23. [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
 
-### 25. [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
+- ⭐ 336 分｜💬 223 留言｜👤 jgx0
 
-- ⭐ 72 分｜💬 9 留言｜👤 greyface-
+### 24. [Show HN: Parseable, an open observability datalake, handles 100M time-series/min](https://www.parseable.com)
 
-### 26. [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
+- ⭐ 70 分｜💬 18 留言｜👤 yashdotrv
 
-- ⭐ 69 分｜💬 22 留言｜👤 ibobev
+### 25. [Find the flattest route between any two points in SF](https://flattensf.com/)
 
-### 27. [Global Solar Atlas: summary of solar power potential globally](https://globalsolaratlas.info/)
+- ⭐ 298 分｜💬 105 留言｜👤 ishan0102
 
-- ⭐ 68 分｜💬 48 留言｜👤 stratts
+### 26. [I'm the AGI that's wiping out humanity](https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how)
 
-### 28. [Apple and a hacker's future](https://stratechery.com/2026/apple-and-a-hackers-future/)
+- ⭐ 140 分｜💬 83 留言｜👤 alex-moon
 
-- ⭐ 273 分｜💬 230 留言｜👤 maguay
+### 27. [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
 
-### 29. [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
+- ⭐ 264 分｜💬 79 留言｜👤 E-Reverance
 
-- ⭐ 47 分｜💬 23 留言｜👤 networked
+### 28. [Direct retinal projection display for smart glasses using a Meta-optic mirror](https://www.tdk.com/en/news_center/press/20261002_01.html)
 
-### 30. [Making a GTK 應用 in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+- ⭐ 117 分｜💬 59 留言｜👤 bookofjoe
 
-- ⭐ 164 分｜💬 46 留言｜👤 Vosporos
+### 29. [Friendship ended with Deno, now Node is my 最佳 friend](https://dbushell.com/2026/10/03/deno-to-node/)
+
+- ⭐ 303 分｜💬 228 留言｜👤 ibobev
+
+### 30. [Google EmbeddingGemma 2](https://twitter.com/googlegemma/status/2107502533992464482)
+
+- ⭐ 8 分｜💬 1 留言｜👤 hmokiguess
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Qualcomm licenses patents on Huawei’s LogicFolding chip tech
-- The first fully implanted cochlear implant reaches patients
-- ChatGPT is adding real cartoonists' signatures to fake 新 Yorker cartoons
+- 最佳-selling Zigbee temperature sensors tested and compared
+- Using A.I. to decode communication of sperm whales
+- Competitive Programmer's Handbook (2018) [pdf]
+- Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
+- First enhanced geothermal power plant completed in just 23 months
+- The complement of true is true, except when it's false
+- The lamps in my house
+- Photopea creator weighs in on Photosuite project
+- Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
+- Show HN: Jotbus – a shared encrypted scratchpad for coding agents
+- JetBrains reports revenue growth, net financial loss for 2025
+- Finland orders halt to work on two Google data centres
+- Resurrecting iChat audio and video conferencing
 - Anthropic reported diary entry to police, woman faces felony charge
-- Show HN: Photoc – Command-line tools for photographers
+- Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl
+- Meta’s Muse is an adorable privacy and 安全 dumpster fire
+- 為什麼 do tech CEOs sound like doomsday cult leaders?
+- Accountability mechanisms can be joyful (2024)
+- Making a GTK 應用 in Haskell, part 1
+- The first fully implanted cochlear implant reaches patients
+- Weight-loss drugs show signs of slowing biological aging, say drugmakers
+- DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit
+- Ephemeral Testing
+- 網頁 Search API
+- AI tutoring with Khanmigo in a two-year school experiment
+- Former German spy chief arrested for attempted treason
 - Linux containers in 500 lines of 代碼 (2016)
 - 2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel
+- Samon: Designing a Zen Garden Raking Puzzle
+- Meta's Muse AI 代理 is building a dossier on you
+- 為什麼 Common Lisp is now the 最佳 程式設計 language
 - Type Safe Generic Data Structures in C (2025)
 - Differences Between `Foldl` and `Foldr`
-- Fundamentals of circadian entrainment by light (2021)
-- Subquadratic 3SUM and Subcubic APSP
+- ChatGPT is adding real cartoonists' signatures to fake 新 Yorker cartoons
 - Martian chaos terrain
-- Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]
+- 開發者 Survey 2026
+- Trump 行動 Allegedly Tells Ransomware Group 'We Have No Team to Handle This'
+- Show HN: Entombed in a Raycaster
+- An algorithmic failure beneath the secret ballot
+- Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage
 - The era of 軟體 quality, or the era of ostriches?
-- Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear
-- Using Theme park rides and smartphones for demonstrating Newtonian mechanics
-- Germany: Ex-spy chief arrested for espionage
-- Learning Jazz Pianist Style with Cross-Attention Conditioning
+- ASOS app users receive push notifications apparently sent by hackers
 - We ported the original Doom to SQL
-- The technology to eradicate mosquito-borne disease exists
-- Denmark data breach exposes 8.8M people's personal data
+- Show HN: Photoc – Command-line tools for photographers
+- Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]
+- Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear
 - Mosquitoes Are a Choice
-- The Future of Mathematics
-- Unruly Folded Sheets
-- Photopea creator weighs in on Photosuite project
-- The AI boom is making the cheapest smartphones disappear
-- Norway Eyes Partial Ban of Smart Glasses
-- Tests Come for Free Now, and Most of Them Are Pointless
+- Denmark data breach exposes 8.8M people's personal data
+- Berthd
+- High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days
+- The technology to eradicate mosquito-borne disease exists
+- Apple and a hacker's future
 - A 40ms Go garbage collector pause caused by swap
-- Using Blu-ray M-Disk as backup of last resort
+- 什麼是 Codemode
+- Qualcomm licenses patents on Huawei’s LogicFolding chip tech
 - ExplainDB: A 資料庫 系統 Built for Understandability
-- Mystery Function
-- The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news
-- AI tutoring with Khanmigo in a two-year school experiment
-- Incident with Actions
-- Hot Flashing Guide Rev. 2.0 (2004)
-- cp: -r or -R?
-- Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
-- Blindsight (Watts Novel)
-- Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world
-- Show HN: AI search for every photo and every frame of video on macOS
-- A browser-native classic Visual Basic VB6 IDE
-- In the wake of Tippett Studios’ closure, a digital archive appears online
-- Emitting metadata early makes building/checking Rust up to twice as fast
-- Show HN: Minigraf – An embedded, bi-temporal graph 資料庫 in Rust
-- Former SR-71 工程師 talks NASA's Blackbird revival program
-- AMD plans to substantially increase supply in 2027
-- Mold Linker Version 3.0.0 Release – Rewritten in Rust
-- Tell HN: Bob Cringely has died
-- 如何 scale intent, quality, and artistry with AI [video]
-- Germany’s RobCo hits $1B valuation
-- Decision models like Jev don't beat 大型語言模型-as-a-judge or traditional classifiers
-- Picard 3.0
-- Reasons I didn't become an EMT, ranked
-- Lace and Labor: Lessons from the actual Luddites
-- Pixel 11 doesn't yet meet the GrapheneOS 安全 standards and may be skipped
-- Demystifying Tufte's data-ink ratio
-- We want you to 構建 the next Git platform on Cloudflare
-- The Tao of Backup
-- Iroh Global Content Discovery
-- Xray-core concealed a certificate verification bypass vulnerability
-- Our approach to EU text provenance rules
-- Self-hosted HTTP tunnels with SSH and Nginx
-- Powerless F1 drivers frustrated by Bahrain F1 軟體 glitch
-- Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex
-- Whistleblower who flagged Lutnick's links to Epstein dies
+- Learning Jazz Pianist Style with Cross-Attention Conditioning
 - RetailReady (YC W24) Is 招聘
-- What Meta got right with Muse
-- Turkey's 20B ponzi scheme collapsed
-- All I wanted was a custom domain email
+- cp: -r or -R?
+- Etched fields funding offers at $40B+ valuation
+- Global Solar Atlas: summary of solar power potential globally
+- The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news
+- Mystery Function
+- Blindsight (Watts Novel)
+- NVIDIA's Olympus Core: Pushing 伺服器 Single Threaded Performance Boundaries
+- Norway Eyes Partial Ban of Smart Glasses
+- Show HN: AI search for every photo and every frame of video on macOS
+- Subquadratic 3SUM and Subcubic APSP
+- Fundamentals of circadian entrainment by light (2021)
+- Emitting metadata early makes building/checking Rust up to twice as fast
 
 
 ---
