@@ -4,208 +4,208 @@
 
 ---
 
-### 1. [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+### 1. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
 
-- ⭐ 71 分｜💬 32 留言｜👤 AshleysBrain
+- ⭐ 555 分｜💬 259 留言｜👤 sfkgtbor
 
-### 2. [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+### 2. [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
 
-- ⭐ 139 分｜💬 23 留言｜👤 sohkamyung
+- ⭐ 398 分｜💬 200 留言｜👤 joshuawright11
 
-### 3. [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
+### 3. [Docker 代理](https://github.com/docker/docker-agent)
 
-- ⭐ 74 分｜💬 9 留言｜👤 sasvari
+- ⭐ 138 分｜💬 57 留言｜👤 saikatsg
 
-### 4. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+### 4. [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
+
+- ⭐ 63 分｜💬 25 留言｜👤 speckx
+
+### 5. [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
+
+- ⭐ 276 分｜💬 92 留言｜👤 SpeakingOfBrad
+
+### 6. [Margaret Hamilton, who led 軟體 development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+
+- ⭐ 108 分｜💬 8 留言｜👤 muglug
+
+### 7. [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+
+- ⭐ 455 分｜💬 291 留言｜👤 AshleysBrain
+
+### 8. [Navier–Stokes Lost in Translation](https://arxiv.org/abs/2610.08144)
+
+- ⭐ 204 分｜💬 138 留言｜👤 nill0
+
+### 9. [Animated ASCII Art for 網頁 Pages](https://ascii.rest/)
+
+- ⭐ 246 分｜💬 55 留言｜👤 turrini
+
+### 10. [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+
+- ⭐ 196 分｜💬 206 留言｜👤 speckx
+
+### 11. [How machines learned precision](https://glinscott.github.io/how-machines-learned-precision/)
+
+- ⭐ 68 分｜💬 27 留言｜👤 glinscott
+
+### 12. [Brownian Motion](https://gregorygundersen.com/blog/2026/04/22/brownian-motion/)
+
+- ⭐ 12 分｜💬 0 留言｜👤 signa11
+
+### 13. [ICANN Reveals 2026 Round Applications for 新 Generic 熱門-Level Domains](https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en)
+
+- ⭐ 29 分｜💬 34 留言｜👤 ChrisArchitect
+
+### 14. [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+
+- ⭐ 364 分｜💬 62 留言｜👤 sohkamyung
+
+### 15. [Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7)
+
+- ⭐ 65 分｜💬 10 留言｜👤 gumby
+
+### 16. [為什麼 Pendulum had to write the most cursed "+" operator in all of Python](https://dev.arie.bovenberg.net/blog/pendulum-cursed-plus-operator/)
+
+- ⭐ 37 分｜💬 15 留言｜👤 ariebovenberg
+
+### 17. [Visa, Mastercard, major banks facing 新 litigation over 'anticompetitive' fees](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees)
+
+- ⭐ 434 分｜💬 295 留言｜👤 DeepLogin
+
+### 18. [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
+
+- ⭐ 278 分｜💬 53 留言｜👤 sasvari
+
+### 19. [Wood Tape (2004)](http://gamesbyemail.com/WoodTape/Default.htm)
+
+- ⭐ 133 分｜💬 17 留言｜👤 NaOH
+
+### 20. [House with 15m underground tunnels for sale for 300k](https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/)
+
+- ⭐ 128 分｜💬 146 留言｜👤 librasteve
+
+### 21. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
 
 https:&#x2F;&#x2F;github.com&#x2F;OpenAI&#x2F;mathhttps:&#x2F;&#x2F;github.com&#x2F;OpenAI&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints
 
-- ⭐ 996 分｜💬 968 留言｜👤 OfficialTurkey
+- ⭐ 1206 分｜💬 1373 留言｜👤 OfficialTurkey
 
-### 5. [Strands Decider 2B: a small, open-source, decision 模型](https://strandsagents.com/blog/introducing-strands-decider/)
+### 22. [If somebody tries to hot-patch an already-hot-patched function](https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/)
 
-- ⭐ 212 分｜💬 57 留言｜👤 gmays
+- ⭐ 4 分｜💬 0 留言｜👤 ibobev
 
-### 6. [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](https://astrohelm.app/)
+### 23. [SynthID Detector](https://synthid.com/)
 
-Hello HN!As an amateur astronomer living in 新 York City, finding objects in the night sky has always been a huge challenge. I thought about using the smartphone&#x27;s gyroscope and magnetometer, bu
+https:&#x2F;&#x2F;blog.Google&#x2F;innovation-and-AI&#x2F;models-and-research&#x2F;go...
 
-- ⭐ 15 分｜💬 9 留言｜👤 HeavenFox
+- ⭐ 78 分｜💬 67 留言｜👤 ilreb
 
-### 7. [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
+### 24. [The Mathocalypse](https://scottaaronson.blog/?p=10169)
 
-- ⭐ 333 分｜💬 177 留言｜👤 chiefstorm
+- ⭐ 153 分｜💬 162 留言｜👤 6bitquant
 
-### 8. [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
+### 25. [Google Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/)
 
-- ⭐ 130 分｜💬 51 留言｜👤 jayhoon
+https:&#x2F;&#x2F;labs.Google&#x2F;playground
 
-### 9. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
+- ⭐ 99 分｜💬 184 留言｜👤 acossta
 
-https:&#x2F;&#x2F;docs.mistral.AI&#x2F;models&#x2F;mistral-large-4-0
+### 26. [Anti-patterns in 軟體 blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
 
-- ⭐ 1877 分｜💬 1128 留言｜👤 Philpax
+- ⭐ 181 分｜💬 101 留言｜👤 ilreb
 
-### 10. [EmbeddingGemma 2: An open, lightweight multimodal embedding 模型](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
+### 27. [AI-assisted proof of optimal packing for 11 squares](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
 
-- ⭐ 356 分｜💬 35 留言｜👤 ilreb
+- ⭐ 100 分｜💬 46 留言｜👤 bluepeter
 
-### 11. [什麼是 Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)
+### 28. [為什麼 were Victorian elites so effective?](https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/)
 
-- ⭐ 106 分｜💬 48 留言｜👤 Tomte
+- ⭐ 67 分｜💬 112 留言｜👤 karakoram
 
-### 12. [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
+### 29. [3D-printing platform rapidly produces complex electric machines](https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218)
 
-- ⭐ 39 分｜💬 21 留言｜👤 jinqueeny
+- ⭐ 51 分｜💬 23 留言｜👤 rbanffy
 
-### 13. [Tell HN: GitHub refuses to remove cracked copies of my 軟體 after a month](https://news.ycombinator.com/item?id=49982498)
+### 30. [Show HN: 代理.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/)
 
-I am a 開發者 of https:&#x2F;&#x2F;www.photopea.com, a popular photo editor that runs in a 網頁 browser.Many people are asking AI models to take the JavaScript 代碼 from my website, remove all ads f
+Hi HN!I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ 代理 sessions and realized that over and ov
 
-- ⭐ 325 分｜💬 178 留言｜👤 IvanK_net
-
-### 14. [Gallery of Processor Cache Effects (2010)](https://igoro.com/archive/gallery-of-processor-cache-effects/)
-
-- ⭐ 23 分｜💬 4 留言｜👤 porridgeraisin
-
-### 15. [The cost of lies: A Mineserver story](https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272)
-
-- ⭐ 133 分｜💬 57 留言｜👤 luu
-
-### 16. [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
-
-- ⭐ 209 分｜💬 135 留言｜👤 kavourias
-
-### 17. [Claude 代碼’s suggested message feature: I think the real customer is the 模型](https://www.zohaib.cc/blog/smartest-claude-code-feature)
-
-- ⭐ 224 分｜💬 130 留言｜👤 zed_labs_dev
-
-### 18. [Show HN: Arcadeia – A self-hosted media library with animated video previews](https://github.com/travelonium/arcadeia)
-
-- ⭐ 9 分｜💬 6 留言｜👤 omidontop
-
-### 19. [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)
-
-- ⭐ 4 分｜💬 0 留言｜👤 woodruffw
-
-### 20. [The Legend of the Paper Crane](https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/)
-
-- ⭐ 22 分｜💬 9 留言｜👤 vismit2000
-
-### 21. [OpenTPU – An open-source AI accelerator, developed by AI](https://github.com/FeSens/openTPU)
-
-- ⭐ 303 分｜💬 353 留言｜👤 fsbonetto
-
-### 22. [PS5 Jailbreaks Are Escalating at an Unprecedented Pace](https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating)
-
-- ⭐ 20 分｜💬 13 留言｜👤 password54321
-
-### 23. [Forever 初級: The Skills AI Can't Develop for You](https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/)
-
-- ⭐ 10 分｜💬 3 留言｜👤 brugidou
-
-### 24. [Show HN: NanoMuse – An open-source AI 代理 for your phone and computer](https://github.com/nano-muse/nanoMuse)
-
-- ⭐ 28 分｜💬 7 留言｜👤 ilreb
-
-### 25. [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
-
-- ⭐ 57 分｜💬 17 留言｜👤 nanochess
-
-### 26. [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
-
-- ⭐ 83 分｜💬 57 留言｜👤 sandebert
-
-### 27. [Treg (OpenRouter for Tools)](https://github.com/superdesigndev/treg)
-
-- ⭐ 36 分｜💬 8 留言｜👤 trollied
-
-### 28. [State of Devs 2026](https://2026.stateofdevs.com/en-US/)
-
-- ⭐ 201 分｜💬 103 留言｜👤 sgdesign
-
-### 29. [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
-
-- ⭐ 101 分｜💬 35 留言｜👤 colinprince
-
-### 30. [When random is not actually random enough](https://ersc.io/blog/when-random-isnt-random-enough)
-
-- ⭐ 68 分｜💬 37 留言｜👤 steveklabnik
+- ⭐ 21 分｜💬 29 留言｜👤 screm
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Sharded, encrypted storage between friends over Yggdrasil
-- California closed the Montana license plate loophole
-- AnyPS5: Port PS5 binaries to PC without emulation (87% 系統 libraries mapped)
-- Benchmark in Milliseconds
-- First Steps into Memory Management in Python
-- Nobel Prize in Physics 2026: Francis Halzen
-- LLMs and Data Poisoning Are Weaponized to Manufacture Consensus
-- Jev-Driven SRE Diagnosis: What Worked and What Failed
-- OpenWAM: An Open Framework for Composable World-Action Models
-- Paramount Skydance has completed its $111B merger with Warner Bros. Discovery
-- Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD
-- What's Earth's dominant species by mass?
-- Mathematics of Geothermal Energy
-- Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer
-- LLMs may have helped my RSI
-- Polars 2.0
-- Direct retinal projection display for smart glasses using a Meta-optic mirror
-- Erdosproblems.com Succumbs to the AI Onslaught
-- Nature's capacity to 'bounce back' when species are lost is overestimated: study
-- Integer multiplication below n log n
-- South Korea says AI agents appear to have been used to hack the country's banks
-- Terraform Meets Proxmox: Lessons from a VMware Migration
-- The Early History of Smalltalk (1993)
-- Raspberry Pi Desktop Now Available for PC and Mac
-- Subquadratic 3SUM and Subcubic APSP
-- UniEvo-VL: Self-Distillation 訓練 for Multimodal 模型 Self-Improvement
-- Using A.I. to decode communication of sperm whales
-- Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill
-- I hired an illustrator to draw my house. Now it's my Home 助手 dashboard
-- Berthd
-- Show HN: Rgpu – a PyTorch device whose tensors live on a 遠端 GPU
-- OpenSSH 10.6
-- The Query Transformation Pipeline
-- Show HN: Parseable, an open observability datalake, handles 100M time-series/min
-- We Asked Starbucks 為什麼 Their 'Sugar-Free' Drinks Have Sugar
-- Gleam doesn't compile to Erlang source anymore
+- God of War on PSP, recompiled to WebAssembly and running in the browser
+- ShinyHunters Extorted Boeing Spin-Off Prior to Arrests
+- The art of defusing a second world war bomb
+- 開源 160 sound visualization experiments
+- Write Like It's 1866: LLMs Relearn Telegraphese
+- Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware
+- Show HN: Durable Actors – OSS Durable Objects with configurable compute
+- DuckDB Ducklake
+- Rust's derive often implies inline
+- Show HN: A walkable 3D art history museum built from Wikipedia
+- All the numbers: Amazon Prime Day 2026 powered by AWS
+- EmDash uses Clef to moderate the plugin registry
+- VECOS – A windows-like operating 系統 for the Vectrex for the UVMC2 [video]
+- AI 模型 Groupthink
+- Mallet Head Angle
+- The Auditor's Opinion
+- Mistral Large 4
+- Show HN: Procinsh – A 3D Linux process inspector
+- Across the Globe, People Increasingly Say Social Media Is Harming Democracy
+- Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens
 - Reasons to Dislike AI Coding
-- Photopea creator weighs in on Photosuite project
-- Anatomy Unzipped: John of Arderne's Sweden Scroll (Ca. 1425–35)
-- Beam: Reflection's 501B open-weight 模型
-- Anthropic reported diary entry to police, woman faces felony charge
-- Ask HN: Are there AI models for generating sounds based on a text and reference?
-- Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
-- Show HN: An AI 代理 runs ten 網頁 errands a day, every transcript published
-- Backdooring Sparse Autoencoders
-- Show HN: Git extension for controlling Git worktree mess
-- The complement of true is true, except when it's false
-- Example.com just launched the biggest redesign in decades
-- 網頁 Search API
-- Building Rome from a Single Image
-- 2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel
-- First enhanced geothermal power plant completed in just 23 months
-- I'm the AGI that's wiping out humanity
-- Linux containers in 500 lines of 代碼 (2016)
-- Dust: Pretraining Transformers Without Backpropagation
-- Resurrecting iChat audio and video conferencing
-- DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit
-- Find the flattest route between any two points in SF
-- Utah to let AI examine patients and prescribe medication without human oversight
-- 系統-level ad-blocking in Android
-- Friendship ended with Deno, now Node is my 最佳 friend
-- Type Safe Generic Data Structures in C (2025)
-- Ephemeral Testing
-- How Fast is Python 3.15?
-- Stanford scientists found a way to regrow cartilage and stop arthritis
-- Accountability mechanisms can be joyful (2024)
-- AI tutoring with Khanmigo in a two-year school experiment
-- Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
-- We ported the original Doom to SQL
-- Martian chaos terrain
+- Show HN: Pinrail – A desktop inbox where coding agents wait for your review
+- One of America's Last Chestnut Groves Is About to Be Destroyed for a Data Center
+- Tell HN: GitHub refuses to remove cracked copies of my 軟體 after a month
+- Zed Editor, Docker 代理, ACP, but in a sandbox: running the 代理 with sbx
+- Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth
+- ESP32-C3 Adblock
+- Show HN: Terse, a Claude 代碼 plugin that halves reply length by cutting filler
+- The world has nearly burned through its oil stockpile buffer
+- SpaceX credit risk jumps on worries over its borrowing spree
+- 什麼是 Codemode
+- Forever 初級: Skills AI can't develop for you
+- Man discovers his parents' coffee machine used 1TB of data in 10 days
+- The cost of lies: A Mineserver story
+- I'm not paying $20 for ChatGPT or Claude because a free local 大型語言模型 does
+- Spotifast: A native Rust Spotify client with Winamp skins
+- AI Measurement Science
+- Gallery of Processor Cache Effects (2010)
+- 如何 Assemble Science
+- The Mathocalypse
+- Strands Decider 2B: a small, open-source, decision 模型
+- Man took his own life after 'sextortion' blackmail involving AI-generated woman
+- Show HN: NanoMuse – An open-source AI 代理 for your phone and computer
+- ETH-68: Ethernet Audio Interface for Linux
+- PS5 Jailbreaks Are Escalating at an Unprecedented Pace
+- $2599 Microsoft Surface Laptop Ultra
+- A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone
+- Show HN: Trigora – durable execution without history replay
+- Show HN: A virtual recording studio where you direct session players
+- Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
+- California closed the Montana license plate loophole
+- EmbeddingGemma 2: An open, lightweight multimodal embedding 模型
+- Normal Tools – Useful online tools, no nonsense
+- Southern Olive Oil
+- ArtCraft – Controllable AI for Artists
+- They solved chemistry's asymmetric mystery [pdf]
+- Nobel Prize in Physics 2026: Francis Halzen
+- La Cueva BBS in Mexico in 1993 (session replay)
+- Ubuntu 26.10 Drops Btrfs, XFS and ZFS /Boot with Secure Boot
+- Fitts's law: 為什麼 the menu bar is at the 熱門
+- Paramount, Warner Bros Formally Merge, Form Giant Mountain of Disastrous Debt
+- DeskWM: A Skeuomorphic Wayland Compositor
+- Treg (OpenRouter for Tools)
+- The 熱門 100 Gen AI Consumer Apps — 7th Edition
+- When random is not actually random enough
+- Google AI Edge Foresight – offline, private meeting transcripts
+- The Legend of the Paper Crane
+- The solar boom is rapidly transforming emerging economies
+- Penguin Mail – open-source Rust email client for Linux with AI
+- Amazon's 'About You' section guesses oddly specific details about shoppers
 
 
 ---
