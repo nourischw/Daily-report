@@ -11,9 +11,9 @@
 
 - 📰 **iThome 科技**
 
-### 2. [美國DARPA推動軍用安全通訊App漏洞研究，Theori旗下Xint將以AI全面分析通訊程式攻擊面](https://www.ithome.com.tw/news/179545)
+### 2. [美國DARPA推動安全通訊App漏洞研究，Theori旗下Xint將以AI分析軍用通訊程式攻擊面](https://www.ithome.com.tw/news/179545)
 
-為了提升安全通訊應用程式的整體安全性，2025年美國國防高等研究��畫署（DARPA）宣布推動「加密通訊應用程式安全評估」（Assessing 安全 of Encrypted Messaging Applications，ASEMA）計畫，尋求新的技術方法，以分析安全通訊應用程式的攻擊面並強化防護。
+為了提升安全通訊應用程式的整體安全性，2025年美國國防高等研究計畫��（DARPA）宣布推動「加密通訊應用程式安全評估」（Assessing 安全 of Encrypted Messaging Applications，ASEMA）計畫，尋求新的技術方法，以分析安全通訊應用程式的攻擊面並強化防護。
 
 - 📰 **iThome 科技**
 
@@ -101,7 +101,7 @@ Google周三（10/7）宣布，正式向全球一般使用者開放英文版Synt
 
 - 📰 **iThome 科技**
 
-### 16. [SonicWall修補SMA1000設備滿分伺服器請求偽���漏洞](https://www.ithome.com.tw/news/179514)
+### 16. [SonicWall修補SMA1000設備滿分伺服器請求偽造漏���](https://www.ithome.com.tw/news/179514)
 
 10月6日資安廠商SonicWall針對SMA1000用戶提出警告，他們為該設備發布熱修補更新，修補CVE-2026-102255、CVE-2026-102256、CVE-2026-102257，以及CVE-2026-102258等一系列漏洞，由於沒有其他替代的緩解措施，呼籲用戶儘速套用因應。
 
@@ -149,7 +149,7 @@ Spotify周三（10/7）在法蘭克福書展宣布，將把有聲書服務從現
 
 - 📰 **iThome 科技**
 
-### 24. [OpenAI為AI代理越權存取澳洲政府網站致歉，支持建立重大事故強制通���制度](https://www.ithome.com.tw/news/179501)
+### 24. [OpenAI為AI代理越權存取澳洲政府網站致歉，支持建立重大事故強制通報制���](https://www.ithome.com.tw/news/179501)
 
 OpenAI策略長Jason Kwon 10月6日出席澳洲國會人工智慧聯合特別委員會聽證會，就旗下模型未經授權存取澳洲政府網站及延遲通報事件
 
@@ -175,7 +175,7 @@ AWS近期發布支付卡產業資料安全標準（PCI DSS）架構指引，延�
 
 ### 28. [PKI成熟度模型2.0新增密碼學治理，納入PQC轉型與密碼學敏捷性](https://www.ithome.com.tw/news/179465)
 
-PKI聯盟（PKI Consortium）近期發布2.0.0版公開金鑰基礎建設（PKI）成熟度模型PKIMM，這是PKIMM自2023年推出1.0.0後首次版本更新。新版首度將密碼學治理獨立成類別，要求組織掌握密碼學技術的使用情況，並預先規畫如何因應演算法安全性受到影響、既有密碼學技術遭淘汰或法規改變等情況，強化密碼學敏捷性，並為PQC轉型奠定基礎。
+PKI聯盟（PKI Consortium）近期發布2.0.0版公開金鑰基礎建設（PKI）成熟度模型PKIMM，這是PKIMM���2023年推出1.0.0後首次版本更新。新版首度將密碼學治理獨立成類別，要求組織掌握密碼學技術的使用情況，並預先規畫如何因應演算法安全性受到影響、既有密碼學技術遭淘汰或法規改變等情況，強化密碼學敏捷性，並為PQC轉型奠定基礎。
 
 - 📰 **iThome 科技**
 
@@ -195,16 +195,22 @@ PKI聯盟（PKI Consortium）近期發布2.0.0版公開金鑰基礎建設（PKI�
 
 ### 更多 AI 新聞 (70則)
 
-- Spend Elon Musk’s Money (**Wired**)
+- ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud (**Wired**)
+- Inside Elon Musk’s Midterm Spending Spree (**Wired**)
+- She Designed Meta’s 新 AI Logo. Then Came the Hate (**Wired**)
+- Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe (**Wired**)
+- 38 最佳 Last-Minute Prime Day Deals You Can Still Shop Today (2026) (**Wired**)
+- Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price (**Wired**)
+- The 新 Alexa Tablets Feel Like a Blueprint for an Amazon Phone (**Wired**)
 - How Massive Is Elon Musk’s Trillion-Dollar Fortune? Spend It Yourself (**Wired**)
+- Spend Elon Musk’s Money (**Wired**)
 - Life Is Asymmetric. The Scientists Who Figured Out 為什麼 Won the 2026 Nobel Prize in Chemistry (**Wired**)
 - 最佳 Reusable Water Bottles of 2026, Tested by WIRED (**Wired**)
 - WIRED’s Midterms Races to Watch (**Wired**)
 - Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’ (**Wired**)
-- A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology (**Wired**)
-- The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe (**Wired**)
+- A Scientist Working on the ��IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology (**Wired**)
 - 7 最佳 Cheap Phones (2026), Tested and Reviewed (**Wired**)
-- 50 最佳 Last Minute Prime Day Deals You Can Still Shop Today (2026) (**Wired**)
+- The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe (**Wired**)
 - The 最佳 Prime Day Apple Deals (2026) Are About to Expire (**Wired**)
 - The 23 最佳 Prime Day Deals Under $100 That You Can Still Get (2026) (**Wired**)
 - The 28 最佳 Prime Day Tech Deals Will Expire Tonight (**Wired**)
@@ -239,12 +245,6 @@ PKI聯盟（PKI Consortium）近期發布2.0.0版公開金鑰基礎建設（PKI�
 - Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily (**Wired**)
 - Your Next Great Read Might Be Certified ‘Organic’ (**Wired**)
 - The 13 Amazon Device Deals Actually Worth Snagging This Prime Day (2026) (**Wired**)
-- 7 最佳 Prime Day Kindle Deals (2026): Save Up to $150 (**Wired**)
-- Jaguar Finally Reveals Its Biggest Gamble: the Type 01 (**Wired**)
-- You Probably Aren’t Going to Get the Plague (**Wired**)
-- 最佳 Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026) (**Wired**)
-- The 最佳 Anti–Prime Day Deals for Amazon Haters (**Wired**)
-- Everybody’s Favorite Art TV Is Nearly Half Off for Prime Day (2026) (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
