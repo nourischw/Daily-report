@@ -19,7 +19,7 @@ PoeLLM還利用存放在GitHub儲存庫中的英文詩取得指揮與控制（C2
 
 ### 3. [美國EY資料外洩波及高盛、英仕曼集團客戶](https://www.ithome.com.tw/news/179557)
 
-根據金��時報（Financial Times）報導，會計及顧問服務業者美國EY今年春天發生的資料外洩事件，已波及高盛（Goldman Sachs）、英國投資業者英仕曼集團（Man Group），以及房地產開發與投資業者鐵獅門（Tishman Speyer）的客戶。部分客戶的個人及財務資料因此外洩。
+根據金融時報（Financial Times）報導，會計及顧問服務業者美國EY今年春天發生的資料外洩事件，已波及高盛（Goldman Sachs）、英國投資業者英仕曼集團（Man Group），以及房地產開發與投資業者鐵獅門（Tishman Speyer）的客戶。部分客戶的個人及財務資料因此外洩。
 
 - 📰 **iThome 科技**
 
@@ -56,7 +56,7 @@ SpaceX周四（10/8）宣布，將收購美國投資公司Grain Management持有
 
 ### 9. [當威脅情報只剩大量數據，企業該相信什麼？](https://www.ithome.com.tw/news/179529)
 
-生成式AI降低了偵��、釣魚郵件撰寫及部分程式開發工作的門檻，使攻擊者得以更快、更大量地展開行動，企業導入模型、資料集、套件與AI工具後，擴大了軟體及AI供應鏈的風險。
+生成式AI降低了偵察、釣魚��件撰寫及部分程式開發工作的門檻，使攻擊者得以更快、更大量地展開行動，企業導入模型、資料集、套件與AI工具後，擴大了軟體及AI供應鏈的風險。
 這兩股力量交織之下，企業面對的不再是單一威脅，而是速度與範圍同時擴張的攻擊環境。卡巴斯基臺灣技術總監謝長軒指出，AI能大量產出資料，決定防禦成敗的關鍵，不是誰握有最多預警訊號，而是誰能把海量資料轉化為可以立即行動的情報。
 他認為，好的威脅情報必須同時具備來源可信、時間有效、脈絡相關、信心度清楚與可執行等條件，AI能加快前段處理，專家則負責高風險判斷與情境分析，兩者缺一不可。
 
@@ -88,7 +88,7 @@ Google近日揭露，該公司得知一連串網域劫持事件，攻擊者入�
 
 ### 14. [【資安週報】1005~1008，臺灣2026上半年遭網路威脅影響的程度排名升至全球第4名](https://www.ithome.com.tw/news/179528)
 
-適逢國慶連假前夕的本週，最受矚目的是東亞地區持續升高的威脅態勢。近期臺灣、日本多家企業資安事件頻頻登上新聞版面，南韓金融業也相當不平靜，多家大型銀行接連發生網路攻擊與個資外洩事件，引發國際關注，其中新韓銀行約2.5萬名客���受影響，KB國民銀行、韓亞銀行也相繼傳出異常。
+適逢國慶連假前夕的本週，最受矚目的是東亞地區持續升高的威脅態勢。近期臺灣、日本多家企業資安事件頻頻登上新聞版面，南韓金融業也相當不平靜，多家大型銀行接連發生網路攻擊與個資外洩事件，引發國際關注，其中新韓銀行約2.5萬名客戶受影響���KB國民銀行、韓亞銀行也相繼傳出異常。
 臺灣、日本面臨的威脅升溫，也反映在微軟最新發布的2026數位防禦報告。微軟觀察到近一年來臺灣出現193起國家級駭客活動事件，日本亦有172起，另指出今年上半年臺灣遭受各類網路威脅的影響程度排名全球第4，同樣居前；另一方面，Rapid7揭露AVERAT後門程式鎖定臺灣設備的消息，也讓臺灣網路邊緣設備面臨的資安風險更加浮現。
 
 - 📰 **iThome 科技**
@@ -120,7 +120,7 @@ Google推出實驗性AI遊戲平臺Playground，使用者只要透過文字描�
 ### 19. [從兩張衛星影像，看雲林如何改善農業勘災](https://www.ithome.com.tw/news/179527)
 
 雲林縣是臺灣重要的農業生產基地，一旦颱風豪雨過境，農損救助申請案件動輒突破萬筆，基層公所人力卻遠遠不及案件增加的速度。
-面對案件暴增、山區交通不便及現勘安全風險，雲林縣審計室第一課審計黃珮如嘗試以衛星影像計算的植��指標，找出疑似災損熱區，為沿用多年的逐筆現場勘查制度尋找科技輔助方案。
+面對案件暴增、山區交通不便及現勘安全風險，雲林縣審計室第一課審計黃珮如嘗試以衛星影像計算的植生指標，��出疑似災損熱區，為沿用多年的逐筆現場勘查制度尋找科技輔助方案。
 農業大縣的災損壓力，逐筆現勘模式面臨考驗
 雲林縣2024年度農業產值達948億元，占全國比重約一成六，肩負糧食安全的重責。農業產值愈高，遇上颱風豪雨造成的損失金額也相對驚人。
 
@@ -134,7 +134,7 @@ Google推出實驗性AI遊戲平臺Playground，使用者只要透過文字描�
 
 ### 21. [行政院通過中小微企業轉型升級條例修法，數位、AI、資安與淨零投資納入抵減，門檻降至25萬元](https://www.ithome.com.tw/news/179523)
 
-行政院會在今天(10/8)通過經濟部提出的《中小企業發展條例》部分條文修正草案，條例名稱改為《中小微企業轉型升級發展條例》，後續將函送立法院審議。經濟部表示，此次修法是因應人工智慧發展、數位與淨零雙軸轉型，以及產業環境變化，希望透過制度調整協助中小微企業升級轉型。
+行政院��在今天(10/8)通過經濟部提出的《中小企業發展條例》部分條文修正草案，條例名稱改為《中小微企業轉型升級發展條例》，後續將函送立法院審議。經濟部表示，此次修法是因應人工智慧發展、數位與淨零雙軸轉型，以及產業環境變化，希望透過制度調整協助中小微企業升級轉型。
 
 - 📰 **iThome 科技**
 
@@ -161,7 +161,7 @@ GitHub Copilot本機沙箱正式上線，適用於Copilot CLI、GitHub Copilot�
 
 ### 25. [Meta、Google與美國政府攜手Biohub，整合18億美元資源打造AI生物學資料庫](https://www.ithome.com.tw/news/179520)
 
-美國非營利研究機構Biohub周三（10/7）宣布，與美國能源部（DOE）、國家衛生研究院（NIH），以及Google DeepMind、Meta等科技業者擴大合作，整合總值18億美元的資金、資料、運算資源與測量技術，建立可供AI模型訓練的開放生物學資料庫，希望藉此訓練能夠預測細胞反應的AI模型，加速疾病研究與新藥開發。
+美國非��利研究機構Biohub周三（10/7）宣布，與美國能源部（DOE）、國家衛生研究院（NIH），以及Google DeepMind、Meta等科技業者擴大合作，整合總值18億美元的資金、資料、運算資源與測量技術，建立可供AI模型訓練的開放生物學資料庫，希望藉此訓練能夠預測細胞反應的AI模型，加速疾病研究與新藥開發。
 
 - 📰 **iThome 科技**
 
@@ -199,6 +199,11 @@ Google周三（10/7）宣布，正式向全球一般使用者開放英文版Synt
 
 ### 更多 AI 新聞 (70則)
 
+- Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe (**Wired**)
+- Book Publishers Are Quietly Using More AI. Staff Are Revolting (**Wired**)
+- NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public (**Wired**)
+- The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson (**Wired**)
+- I’m Still Convinced the iPod Was the Perfect Gadget (**Wired**)
 - Dunking on Dating App Profiles Is Content Gold. People Are Getting Sick of It (**Wired**)
 - The 最佳 Mac Desktop to Buy (2026): Mac Mini, Mac Studio, or iMac? (**Wired**)
 - 最佳 Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise (**Wired**)
@@ -206,16 +211,16 @@ Google周三（10/7）宣布，正式向全球一般使用者開放英文版Synt
 - A 新 Mexico Community Was a Place to 構建 a Life. Then a Hypersonic Missile Factory Showed Up (**Wired**)
 - America’s Hybrid Hype Has Hit the Used Market (**Wired**)
 - TurboTax Full Service Coupons This October 2026 (**Wired**)
+- Instacart Promo 代碼: $15 Off | October 2026 (**Wired**)
 - Ulta Promo Codes: Up to 20% Off in October 2026 (**Wired**)
 - Lowe’s Promo Codes and Deals: Up to $300 Off Appliances (**Wired**)
 - Valvoline Coupons and Promo Codes for October 2026 (**Wired**)
 - Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts (**Wired**)
-- Instacart Promo 代碼: $15 Off | October 2026 (**Wired**)
 - Chewy Promo Codes: $20 Off October 2026 (**Wired**)
 - We-Vibe Discount Codes and Deals: Up to 60% Off (**Wired**)
-- H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist (**Wired**)
 - Herman Miller Promo Codes: 40% Off October 2026 (**Wired**)
 - 30% VistaPrint Coupon &amp; Promo Codes | October 2026 (**Wired**)
+- H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist (**Wired**)
 - ICE 代理 at NYC Shooting Has History of Alleged Violence and Illegal Arrests (**Wired**)
 - Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power (**Wired**)
 - ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud (**Wired**)
@@ -223,8 +228,8 @@ Google周三（10/7）宣布，正式向全球一般使用者開放英文版Synt
 - She Designed Meta’s 新 AI Logo. Then Came the Hate (**Wired**)
 - Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe (**Wired**)
 - 38 最佳 Last-Minute Prime Day Deals You Can Still Shop Today (2026) (**Wired**)
-- Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price (**Wired**)
 - The 新 Alexa Tablets Feel Like a Blueprint for an Amazon Phone (**Wired**)
+- Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price (**Wired**)
 - How Massive Is Elon Musk’s Trillion-Dollar Fortune? Spend It Yourself (**Wired**)
 - Spend Elon Musk’s Money (**Wired**)
 - Life Is Asymmetric. The Scientists Who Figured Out 為什麼 Won the 2026 Nobel Prize in Chemistry (**Wired**)
@@ -232,8 +237,8 @@ Google周三（10/7）宣布，正式向全球一般使用者開放英文版Synt
 - WIRED’s Midterms Races to Watch (**Wired**)
 - Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’ (**Wired**)
 - A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology (**Wired**)
-- 7 最佳 Cheap Phones (2026), Tested and Reviewed (**Wired**)
 - The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe (**Wired**)
+- 7 最佳 Cheap Phones (2026), Tested and Reviewed (**Wired**)
 - The 最佳 Prime Day Apple Deals (2026) Are About to Expire (**Wired**)
 - The 23 最佳 Prime Day Deals Under $100 That You Can Still Get (2026) (**Wired**)
 - The 28 最佳 Prime Day Tech Deals Will Expire Tonight (**Wired**)
@@ -244,11 +249,6 @@ Google周三（10/7）宣布，正式向全球一般使用者開放英文版Synt
 - Elon Musk’s America PAC Is Quietly Funding November’s Most Consequential Elections (**Wired**)
 - The Science Behind the Nobel-Winning Technology That Controls Neurons With Light (**Wired**)
 - The 最佳 Amazon Prime Day Pet Deals on Feeders, Litter Boxes, and More (2026) (**Wired**)
-- 最佳 Shark Prime Day Vacuum Deals (2026) (**Wired**)
-- 30 最佳 Amazon Prime Day Deals Under $50 (October 2026) (**Wired**)
-- Meet the Vendors Selling ‘Cornell Seven’ Merch (**Wired**)
-- 最佳 Prime Day Laptop Deals: Save Up to $500 (2026) (**Wired**)
-- The 最佳 Amazon Prime Day Headphone Deals Before The Sale Ends (2026) (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
