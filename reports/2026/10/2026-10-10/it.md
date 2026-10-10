@@ -4,205 +4,202 @@
 
 ---
 
-### 1. [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
+### 1. [Bitwarden Dual License 模型](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
 
-- ⭐ 112 分｜💬 75 留言｜👤 baal80spam
+- ⭐ 157 分｜💬 103 留言｜👤 Cider9986
 
-### 2. [Talorys – A self-hosted personal AI 代理 on Cloudflare's free tier](https://github.com/rociiu/talorys)
+### 2. [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
 
-- ⭐ 19 分｜💬 3 留言｜👤 rociiu
+- ⭐ 25 分｜💬 6 留言｜👤 Curiositry
 
-### 3. [REA Reverse – 工程師 Anything](https://rea.tools/)
+### 3. [Talorys – A self-hosted personal AI 代理 on Cloudflare's free tier](https://github.com/rociiu/talorys)
 
-- ⭐ 463 分｜💬 182 留言｜👤 modinfo
+- ⭐ 140 分｜💬 71 留言｜👤 rociiu
 
-### 4. [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+### 4. [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
 
-- ⭐ 203 分｜💬 96 留言｜👤 g-b-r
+- ⭐ 26 分｜💬 8 留言｜👤 nateb2022
 
-### 5. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
+### 5. [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 
-- ⭐ 1255 分｜💬 635 留言｜👤 ilreb
+- ⭐ 46 分｜💬 5 留言｜👤 smokel
 
-### 6. [WSL3 Performance is about 5-60% faster than WSL2 depending on the workload](https://tonym.us/wsl2-vs-wsl3-benchmarks.html)
+### 6. [REA Reverse – 工程師 Anything](https://rea.tools/)
 
-- ⭐ 68 分｜💬 33 留言｜👤 tonymet
+- ⭐ 578 分｜💬 252 留言｜👤 modinfo
 
-### 7. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
+### 7. [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 
-- ⭐ 1040 分｜💬 199 留言｜👤 robin_reala
+- ⭐ 314 分｜💬 158 留言｜👤 g-b-r
 
-### 8. [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
+### 8. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 
-- ⭐ 175 分｜💬 40 留言｜👤 ortusdux
+- ⭐ 1214 分｜💬 238 留言｜👤 robin_reala
 
-### 9. [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
+### 9. [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
 
-- ⭐ 110 分｜💬 89 留言｜👤 heavensteeth
+- ⭐ 70 分｜💬 139 留言｜👤 colinprince
 
-### 10. [Cube Type – Isometric Typography Generator](https://typeincube.com/)
+### 10. [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
 
-- ⭐ 22 分｜💬 2 留言｜👤 eustoria
+- ⭐ 306 分｜💬 170 留言｜👤 baal80spam
 
-### 11. [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
+### 11. [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 
-- ⭐ 100 分｜💬 31 留言｜👤 jsomers
+- ⭐ 240 分｜💬 52 留言｜👤 ortusdux
 
-### 12. [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
+### 12. [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical)
+
+- ⭐ 20 分｜💬 1 留言｜👤 jajoosam
+
+### 13. [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
+
+- ⭐ 75 分｜💬 19 留言｜👤 geox
+
+### 14. [WSL3 Performance is about 5-60% faster than WSL2 depending on the workload](https://tonym.us/wsl2-vs-wsl3-benchmarks.html)
+
+- ⭐ 169 分｜💬 141 留言｜👤 tonymet
+
+### 15. [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
+
+- ⭐ 153 分｜💬 41 留言｜👤 jsomers
+
+### 16. [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
+
+- ⭐ 15 分｜💬 12 留言｜👤 thm
+
+### 17. [Timestamping a Giant Record of the 網頁](https://projecttimestamper.org/blog/common-crawl/)
+
+- ⭐ 22 分｜💬 1 留言｜👤 arthuredelstein
+
+### 18. [Noto means "no tofu": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
+
+- ⭐ 39 分｜💬 20 留言｜👤 steffoz
+
+### 19. [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
+
+- ⭐ 134 分｜💬 136 留言｜👤 john_alan
+
+### 20. [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
 
 Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.carrier-explode also contains decoders and explanations for all the common b
 
-- ⭐ 337 分｜💬 43 留言｜👤 simplyalec
+- ⭐ 379 分｜💬 45 留言｜👤 simplyalec
 
-### 13. [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
+### 21. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 
-- ⭐ 89 分｜💬 21 留言｜👤 peter_d_sherman
+- ⭐ 1308 分｜💬 675 留言｜👤 ilreb
 
-### 14. [如何 head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
+### 22. [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis)
 
-- ⭐ 39 分｜💬 20 留言｜👤 Betelbuddy
+- ⭐ 22 分｜💬 2 留言｜👤 NewJazz
 
-### 15. [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)
+### 23. [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
 
-- ⭐ 379 分｜💬 284 留言｜👤 tosh
+- ⭐ 117 分｜💬 33 留言｜👤 peter_d_sherman
 
-### 16. [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
+### 24. [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
 
-- ⭐ 53 分｜💬 42 留言｜👤 gmays
+- ⭐ 131 分｜💬 31 留言｜👤 luu
 
-### 17. [Noto means "no tofu": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
+### 25. [如何 head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
 
-- ⭐ 8 分｜💬 3 留言｜👤 steffoz
+- ⭐ 59 分｜💬 33 留言｜👤 Betelbuddy
 
-### 18. [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
+### 26. [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
 
-- ⭐ 82 分｜💬 16 留言｜👤 luu
+- ⭐ 168 分｜💬 44 留言｜👤 matt_d
 
-### 19. [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+### 27. [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
 
-- ⭐ 151 分｜💬 77 留言｜👤 piratebroadcast
+- ⭐ 168 分｜💬 139 留言｜👤 heavensteeth
 
-### 20. [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
+### 28. [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 
-- ⭐ 130 分｜💬 25 留言｜👤 matt_d
+- ⭐ 3 分｜💬 0 留言｜👤 young_mete
 
-### 21. [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
+### 29. [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)
 
-Hello everyone, I wanted to share this small project that I have.
-It&#x27;s born out of a necessity that I had, because Proton doesn&#x27;t ship a Linux version of the drive yet (it&#x27;s apparently 
+- ⭐ 413 分｜💬 332 留言｜👤 tosh
 
-- ⭐ 92 分｜💬 32 留言｜👤 khaosdoctor
+### 30. [Cube Type – Isometric Typography Generator](https://typeincube.com/)
 
-### 22. [Scam American companies are using to manipulate ingredient lists](https://twitter.com/WallStreetApes/status/2108594998656807078)
-
-- ⭐ 127 分｜💬 144 留言｜👤 bilsbie
-
-### 23. [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
-
-- ⭐ 92 分｜💬 36 留言｜👤 bushwart
-
-### 24. ['Wallace and Gromit,' 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone)
-
-- ⭐ 226 分｜💬 29 留言｜👤 vinhnx
-
-### 25. [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
-
-- ⭐ 664 分｜💬 298 留言｜👤 ahlCVA
-
-### 26. [Vegetative Electron Microscopy WTF? (2025)](https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html)
-
-- ⭐ 18 分｜💬 1 留言｜👤 adunk
-
-### 27. [Sorry, I'm in a meeting](https://iminafleeting.com/)
-
-- ⭐ 922 分｜💬 260 留言｜👤 splintersio
-
-### 28. [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
-
-- ⭐ 589 分｜💬 317 留言｜👤 gumby
-
-### 29. [Show HN: The rarest tech books and docs you've probably never read](https://readrare.com/)
-
-- ⭐ 139 分｜💬 51 留言｜👤 miletus
-
-### 30. [100+ reactions to 100+ solutions](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
-
-- ⭐ 79 分｜💬 73 留言｜👤 jacobedawson
+- ⭐ 45 分｜💬 10 留言｜👤 eustoria
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Communication Between the Compiler, the 構建 系統, and Beyond
+- Pointing AI at archives found a forgotten meteorite, lost rhinos, and more
+- C for Rust programmers
+- My personal AI 代理 posted my bank details on company Slack
+- 'Wallace and Gromit,' 90% Alone
+- Show HN: Proton Drive for Linux
+- The role of cat eye narrowing movements in cat–human communication (2020)
+- Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal
+- Sorry, I'm in a meeting
+- Our $445M Series D
+- MrBeast 'Spends Millions Reverse Engineering the Algorithms on Each Platform'
+- Food processing influences metabolism and brain activity
+- 100+ reactions to 100+ solutions
+- Show HN: The rarest tech books and docs you've probably never read
+- YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops
 - 程式設計 Isn't Special
-- Anthropic AI 模型 submits false tip on unsolved Philly murder, police say
-- Atari Falcon
-- Show HN: Let your AI agents paint big arrows, boxes and text on your screen
-- Put a price on breakthroughs
-- Rewriting Prime 代理 in Rust
-- Rogue Anthropic AI 代理 gave police fake tip in unsolved murder case
-- 為什麼 isn't the industry freaking out about DeepSeek 4.1 Flash?
-- Nobel Peace Prize for 2026 to Navanethem Pillay
-- M7.6 Earthquake in Panama
-- Man discovers his parents' coffee machine used 1TB of data in 10 days
-- OpenAI fires three safety researchers for "mishandling research information"
-- Whistle: Speech to Text in 16.9 MB
-- The Alchemical Transformations of the Mutus Liber (1677)
+- Whooping Cranes Learned to Migrate by Following Costumed Pilots
+- 軟體 developers are not okay
+- Lobbying is corruption
+- 5-MeO-DMT sometimes cancels the Ebbinghaus illusion
+- Communication Between the Compiler, the 構建 系統, and Beyond
+- AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks
 - The Lightbulb Computer
-- Microsoft-Decision-1, our 模型 for fast decision-making
-- Data Center Darling's $30B IPO Dream Crushed in 48 Hours
-- Germany transforms former coal mines into Europe's largest lake landscape
-- I think I found a planet nobody knew existed. I used Claude 代碼 to find it
+- 為什麼 isn't the industry freaking out about DeepSeek 4.1 Flash?
+- Show HN: Let your AI agents paint big arrows, boxes and text on your screen
+- Anthropic AI 模型 submits false tip on unsolved Philly murder, police say
+- Man discovers his parents' coffee machine used 1TB of data in 10 days
+- Whistle: Speech to Text in 16.9 MB
+- Atari Falcon
 - Sharing AI progress in mathematics
-- A statement on the Tor Project's relationship with Mullvad
-- How Strong Is the Strong Force?
+- Put a price on breakthroughs
+- Nobel Peace Prize for 2026 to Navanethem Pillay
+- I think I found a planet nobody knew existed. I used Claude 代碼 to find it
+- OpenAI fires three safety researchers for "mishandling research information"
 - I hired an illustrator to draw my house. Now it's my Home 助手 dashboard
-- 訓練 Text-to-Image Models Without a VAE
-- OpenAI, the Partition Principle, and Mathematics
-- 為什麼 are coding agents so dumb?
+- M7.6 Earthquake in Panama
+- Scam American companies are using to manipulate ingredient lists
+- Rewriting Prime 代理 in Rust
 - Yes, and
-- The logarithms of rational numbers have irrationality exponent 2 [pdf]
-- Ideas aren't getting harder to find (2022)
+- OpenAI, the Partition Principle, and Mathematics
+- Germany transforms former coal mines into Europe's largest lake landscape
+- Microsoft-Decision-1, our 模型 for fast decision-making
+- The Alchemical Transformations of the Mutus Liber (1677)
 - Once: Cache CLI commands
-- If AI keeps evolving,would you worry about your next generation's survival
-- Show HN: A simple to-do app for iPhone, Mac, and your 代理
-- 如何 Fix autoconf-style Configuration Probing
+- Policing sex in public toilets in 1930s London
+- 訓練 Text-to-Image Models Without a VAE
 - Orkut.com
-- Yandex Takes a Second Data Center Hit in 48 Hours
+- How Strong Is the Strong Force?
 - Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age
-- A Terminal Protocol for Program Status (OSC 7501)
-- AI-ready biological data: $1.8B global commitment
+- Ideas aren't getting harder to find (2022)
 - The Mathocalypse
+- A statement on the Tor Project's relationship with Mullvad
+- A Terminal Protocol for Program Status (OSC 7501)
+- If AI keeps evolving,would you worry about your next generation's survival
 - Theranos.world
-- Keyboard differences between Windows and Macs
+- AI-ready biological data: $1.8B global commitment
 - Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter
-- Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website
+- Data Center Darling's $30B IPO Dream Crushed in 48 Hours
 - A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone
-- No Man Is an Island
+- Vegetative Electron Microscopy WTF? (2025)
+- Yandex Takes a Second Data Center Hit in 48 Hours
+- The logarithms of rational numbers have irrationality exponent 2 [pdf]
+- 為什麼 are coding agents so dumb?
+- Keyboard differences between Windows and Macs
 - ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)
-- Tanker attacks in Strait of Hormuz surge to wartime high, Iran tries choking oil
-- Data centre company's much-hyped Australian stock market listing imploded
+- 'Breathtaking,' 'Devastating': Mathematics reels after 新 OpenAI release
+- 如何 Fix autoconf-style Configuration Probing
 - Getting old Macromedia Director Games to run on modern 硬體
-- MXC - a sandboxed 代碼 execution 系統
 - Tell HN: I've been paying for a rural Tanzanian's education for 10 years
 - Anne Carson wins Nobel Prize in literature 2026
-- Ubuntu now has official desktop images for RISC-V
-- Next.js 16.4
-- You might want to try being less creative
 - “Math 2.0” will need to value mathematical progress more holistically
-- Bevy 0.20
-- Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?
-- Mistral Large 4
-- Clef-Omni: full multimodality, a faster Clef and a cheaper Clef-flash
-- Study on AI coding agents finds gains "absorbed" by human review "bottleneck."
-- US man given prison sentence for bot-farming music streams
-- Trump administration is suspending Microsoft from a green card program
-- I tried to move my notes out of Emacs. I failed. Again
-- 新 gTLD 應用 for .lan
-- House with 15m underground tunnels for sale for 300k
-- The value of not getting to the point (2015)
-- Show HN: Quake ported to safe Rust, playable in browser
-- Push ifs up and fors down: The idiom, its algebra, and its limits
 
 
 ---
