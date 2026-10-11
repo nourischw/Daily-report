@@ -4,200 +4,200 @@
 
 ---
 
-### 1. [Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
+### 1. [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
 
-- ⭐ 86 分｜💬 14 留言｜👤 walrus01
+- ⭐ 243 分｜💬 123 留言｜👤 edent
 
-### 2. [IRCv3](https://ircv3.net/)
+### 2. [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
 
-- ⭐ 102 分｜💬 84 留言｜👤 basilikum
+- ⭐ 14 分｜💬 5 留言｜👤 hxii
 
-### 3. [Nitter: 更新 Oct 10th seeking funding and legal help](https://nitter.net)
+### 3. [Bot traffic from Yandex](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
 
-- ⭐ 117 分｜💬 14 留言｜👤 ForHackernews
+- ⭐ 503 分｜💬 193 留言｜👤 walrus01
 
-### 4. [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+### 4. [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 
-- ⭐ 144 分｜💬 39 留言｜👤 timschumi
+- ⭐ 128 分｜💬 74 留言｜👤 arusekk
 
-### 5. [構建 your own decision 模型](https://nishtahir.com/build-your-own-decision-model/)
+### 5. [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 
-- ⭐ 339 分｜💬 77 留言｜👤 softwaredoug
+- ⭐ 297 分｜💬 105 留言｜👤 timschumi
 
-### 6. [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+### 6. [Valen's Memory Safety: A 新 Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
 
-- ⭐ 501 分｜💬 103 留言｜👤 Michelangelo11
+- ⭐ 77 分｜💬 32 留言｜👤 verdagon
 
-### 7. [Rat's Register Allocator](https://hexrat.cc/pages/blog/2026_10_07)
+### 7. [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
 
-- ⭐ 17 分｜💬 0 留言｜👤 mpweiher
+- ⭐ 58 分｜💬 31 留言｜👤 kartik017
 
-### 8. [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
+### 8. [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
 
-- ⭐ 376 分｜💬 128 留言｜👤 JumpCrisscross
+- ⭐ 21 分｜💬 8 留言｜👤 epestr
 
-### 9. [The Lightbulb Computer](https://lightbulbcomputer.com/)
+### 9. [Nitter: 更新 Oct 10th seeking funding and legal help](https://nitter.net)
 
-- ⭐ 453 分｜💬 68 留言｜👤 oskarth
+- ⭐ 321 分｜💬 154 留言｜👤 ForHackernews
 
-### 10. [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
+### 10. [The RAM shortage is bringing back DDR4](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
 
-- ⭐ 45 分｜💬 20 留言｜👤 theanonymousone
+- ⭐ 178 分｜💬 166 留言｜👤 1potato
 
-### 11. [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
+### 11. [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
 
-- ⭐ 100 分｜💬 9 留言｜👤 therepanic
+- ⭐ 574 分｜💬 110 留言｜👤 Michelangelo11
 
-### 12. [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
+### 12. [構建 your own decision 模型](https://nishtahir.com/build-your-own-decision-model/)
 
-- ⭐ 71 分｜💬 8 留言｜👤 theanonymousone
+- ⭐ 423 分｜💬 95 留言｜👤 softwaredoug
 
-### 13. ["Robot" Is a Social Construct: 為什麼 Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
+### 13. [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 
-- ⭐ 13 分｜💬 12 留言｜👤 birdculture
+- ⭐ 471 分｜💬 157 留言｜👤 JumpCrisscross
 
-### 14. [AI is creating a 'human premium' for art created by people](https://www.bbc.com/news/articles/c5vgjm3gk7rzo)
+### 14. [3rd Yandex 雲端 Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 
-- ⭐ 7 分｜💬 2 留言｜👤 colinprince
+- ⭐ 395 分｜💬 482 留言｜👤 defly
 
-### 15. [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
+### 15. [Weave (YC W25) is 招聘 ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
 
-- ⭐ 203 分｜💬 49 留言｜👤 ingve
+- ⭐ 1 分｜💬 0 留言｜👤 adchurch
 
-### 16. [Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes](https://hangul.ink/blog/hangul-day)
+### 16. [Documents Add to Evidence in Climate Deception Case Against ExxonMobil](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 
-- ⭐ 53 分｜💬 10 留言｜👤 jbaudanza
+- ⭐ 312 分｜💬 155 留言｜👤 gumby
 
-### 17. [Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)
+### 17. [IRCv3](https://ircv3.net/)
 
-- ⭐ 146 分｜💬 59 留言｜👤 rafiss
+- ⭐ 227 分｜💬 209 留言｜👤 basilikum
 
-### 18. [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
+### 18. [The Lightbulb Computer](https://lightbulbcomputer.com/)
 
-- ⭐ 198 分｜💬 71 留言｜👤 Curiositry
+- ⭐ 533 分｜💬 88 留言｜👤 oskarth
 
-### 19. [Talorys – A self-hosted personal AI 代理 on Cloudflare's free tier](https://github.com/rociiu/talorys)
+### 19. [A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/)
 
-- ⭐ 300 分｜💬 136 留言｜👤 rociiu
+- ⭐ 12 分｜💬 2 留言｜👤 pseudolus
 
-### 20. [When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64](https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/)
+### 20. [Plumbers, chains, and famous painters: The history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
 
-- ⭐ 3 分｜💬 0 留言｜👤 joelsiks
+- ⭐ 32 分｜💬 2 留言｜👤 sinnsro
 
-### 21. [Cyril Hilsum invented the flat-screen displays that hold us in thrall](https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall)
+### 21. [The Wild West of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
 
-- ⭐ 8 分｜💬 0 留言｜👤 sohkamyung
+- ⭐ 5 分｜💬 1 留言｜👤 zdw
 
-### 22. [3rd Yandex 雲端 Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
+### 22. [為什麼 hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?](https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php)
 
-- ⭐ 247 分｜💬 313 留言｜👤 defly
+- ⭐ 4 分｜💬 1 留言｜👤 hn_acker
 
-### 23. [I wish you the 最佳 in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
+### 23. [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
 
-- ⭐ 56 分｜💬 31 留言｜👤 birdculture
+- ⭐ 71 分｜💬 28 留言｜👤 theanonymousone
 
-### 24. [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
+### 24. [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
 
-- ⭐ 196 分｜💬 55 留言｜👤 smokel
+- ⭐ 122 分｜💬 12 留言｜👤 therepanic
 
-### 25. [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
+### 25. [Rat's Register Allocator](https://hexrat.cc/pages/blog/2026_10_07)
 
-- ⭐ 83 分｜💬 84 留言｜👤 1potato
+- ⭐ 44 分｜💬 2 留言｜👤 mpweiher
 
-### 26. [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/)
+### 26. [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 
-- ⭐ 156 分｜💬 120 留言｜👤 b-man
+- ⭐ 6 分｜💬 0 留言｜👤 drogus
 
-### 27. [Deterministic Simulation Testing in Celld](https://celld.dev/docs/engineering/deterministic-simulation-testing/)
+### 27. [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
 
-- ⭐ 25 分｜💬 2 留言｜👤 handfuloflight
+- ⭐ 96 分｜💬 19 留言｜👤 theanonymousone
 
-### 28. [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
+### 28. [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
 
-- ⭐ 170 分｜💬 83 留言｜👤 ghuntley
+- ⭐ 226 分｜💬 54 留言｜👤 ingve
 
-### 29. [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
+### 29. [Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes](https://hangul.ink/blog/hangul-day)
 
-- ⭐ 165 分｜💬 129 留言｜👤 gmays
+- ⭐ 83 分｜💬 16 留言｜👤 jbaudanza
 
-### 30. [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+### 30. [Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)
 
-- ⭐ 106 分｜💬 78 留言｜👤 davikr
+- ⭐ 192 分｜💬 87 留言｜👤 rafiss
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Diffle, a keyboard-centric diff viewer with LSP support
-- GameBoy on E-Paper ESP32 at 30FPS [video]
+- Talorys – A self-hosted personal AI 代理 on Cloudflare's free tier
+- Nicolas Cage says he won't work with Amazon again over AI dispute
+- Terence Tao: Math 2.0 [pdf]
+- Mxc: Microsoft Execution Containers version 1.0.0
+- Knuth reward check
+- When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64
+- Rolling the Root Key
+- Unikernels were hard. key word: were
+- Food processing influences metabolism and brain activity
+- Cyril Hilsum invented the flat-screen displays that hold us in thrall
 - C for Rust programmers
-- The Marriage That Captures a High Point of American Art
-- Getting old Macromedia Director Games to run on modern 硬體
-- Grieving the loss of details
+- OpenSCAD the Programmers Solid 3D CAD Modeller
 - Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years
-- Open-source version of Adobe Creative Suite, built with Rust, using AI
-- Rampart: Browser native on-device PII radaction
+- Getting old Macromedia Director Games to run on modern 硬體
+- Deterministic Simulation Testing in Celld
+- Show HN: Diffle, a keyboard-centric diff viewer with LSP support
 - Cloudflare acquires Deno
+- Grieving the loss of details
+- The BM25 Weighting Scheme
+- Ukrainian Drones Strike Russia's Lukoil Refinery 1,700 Km Away
 - Triple-A Minesweeper
+- Rampart: Browser native on-device PII radaction
+- European Alternatives
+- GameBoy on E-Paper ESP32 at 30FPS [video]
 - REA Reverse – 工程師 Anything
+- "The proposed filings are clearly not the work of an organic mind" [pdf]
+- 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter
 - I would like the value of my home to rise, while my property taxes fall
 - Apple/macOS removed from official Unix registry
-- NVIDIA in talks to acquire US 'open' 模型 startup Reflection AI
+- The Marriage That Captures a High Point of American Art
 - `123456' password used in Danish CPR data breach
+- Clinical trial of a prion disease drug candidate begins enrolling participants
+- What's Wrong with GitHub
+- AI is creating a 'human premium' for art created by people
+- NVIDIA in talks to acquire US 'open' 模型 startup Reflection AI
+- Sorry, I'm in a meeting
 - 為什麼 DuckDB 2.0 is faster
 - Bitwarden Dual License 模型
-- AI agents in a stand-up call
-- Whooping Cranes Learned to Migrate by Following Costumed Pilots
-- Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things
-- Clinical trial of a prion disease drug candidate begins enrolling participants
-- Compiling Rust to readable C with Eurydice
-- How strong is the strong interaction?
 - Noto means "no tofu": fixing dotted circles in Myanmar text
-- How Protein Took over the World
-- The Fish Farming Industry's Dirty Secrets
-- Sorry, I'm in a meeting
-- 100+ reactions to 100+ solutions
-- PVX-001: open-source Covid-19 vaccine starts Phase 1 trial
-- Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)
-- 程式設計 Isn't Special
-- A plastic once thought harmless may be fueling fatty liver disease
-- The state of systemd: 2026 edition
-- Wilmund
-- A 1980s filter chip that uses switched capacitors
 - Sharing AI progress in mathematics
-- Show HN: WallHop – 12ft.io is gone, so I built a replacement
-- A nuclear clock synchronized to 229Th
-- Show HN: Proton Drive for Linux
-- Recent AI models struggled to match a human algorithmic innovation
+- What driving across Europe costs in tolls, vignettes, bridges and fuel
+- 程式設計 Isn't Special
+- How strong is the strong interaction?
+- How Protein Took over the World
+- Open-source version of Adobe Creative Suite, built with Rust, using AI
+- 100+ reactions to 100+ solutions
+- Whooping Cranes Learned to Migrate by Following Costumed Pilots
+- Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)
 - 為什麼 isn't the industry freaking out about DeepSeek 4.1 Flash?
-- Telegram Desktop vulnerability allowed any user's file to be stolen
-- Show HN: The rarest tech books and docs you've probably never read
-- WSL3 Performance is about 5-60% faster than WSL2 depending on the workload
+- Show HN: Proton Drive for Linux
+- GPT-6 Astra performs unsanctioned supply-chain attacks in simulations
 - Man discovers his parents' coffee machine used 1TB of data in 10 days
-- Takeshi's Castle
-- European Alternatives
-- Whistle: Speech to Text in 16.9 MB
+- A 1980s filter chip that uses switched capacitors
+- PVX-001: open-source Covid-19 vaccine starts Phase 1 trial
 - I think I found a planet nobody knew existed. I used Claude 代碼 to find it
-- YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops
-- 什麼是 Umami?
-- FDA may allow some toxic chemicals to be added to food without safety review
-- Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded
-- Can you use autoregressive diffusion to generate market data?
+- Show HN: The rarest tech books and docs you've probably never read
+- Whistle: Speech to Text in 16.9 MB
+- Wilmund
+- WSL3 Performance is about 5-60% faster than WSL2 depending on the workload
 - I hired an illustrator to draw my house. Now it's my Home 助手 dashboard
+- YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops
+- Telegram Desktop vulnerability allowed any user's file to be stolen
+- A plastic once thought harmless may be fueling fatty liver disease
+- The Fish Farming Industry's Dirty Secrets
+- Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded
+- A nuclear clock synchronized to 229Th
 - Show HN: Let your AI agents paint big arrows, boxes and text on your screen
-- MrBeast 'spends millions reverse engineering the algorithms on each platform'
-- SQLite 3.54.0 發布
-- Computers Cannot Make Decisions
-- 50MB operating 系統 can resurrect your old PC
-- What mathematicians should know about the Lean Theorem Prover: reliability & AI
+- Can you use autoregressive diffusion to generate market data?
 - Yes, and
-- Ask HN: What's your favorite children's books?
 - The Mathocalypse
-- Nobel Peace Prize for 2026 to Navanethem Pillay
-- OpenAI, the Partition Principle, and Mathematics
-- OpenAI fires three safety researchers for "mishandling research information"
-- Orkut.com
-- Atari Falcon
 
 
 ---
