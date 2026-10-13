@@ -4,206 +4,227 @@
 
 ---
 
-### 1. [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
+### 1. [Gemini 4 Argon](https://deepmind.google/models/gemini/)
 
-- ⭐ 340 分｜💬 170 留言｜👤 formerly_proven
+See also: Gemini 4 Argon for Robotics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869
 
-### 2. [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/)
+- ⭐ 823 分｜💬 653 留言｜👤 737max
 
-- ⭐ 168 分｜💬 47 留言｜👤 amrrs
+### 2. [OpenAI 工程師 arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
 
-### 3. [Apple's Minions: A virtual GPU 雲端 built from idle Apple Silicon Macs](https://machinelearning.apple.com/research/distributed-gpu-cloud)
+https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132
 
-- ⭐ 55 分｜💬 16 留言｜👤 acossta
+- ⭐ 114 分｜💬 129 留言｜👤 forthwall
 
-### 4. [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
+### 3. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 
-- ⭐ 179 分｜💬 36 留言｜👤 benbreen
+Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord finge
 
-### 5. [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
+- ⭐ 148 分｜💬 53 留言｜👤 talccc
 
-- ⭐ 86 分｜💬 49 留言｜👤 janpmz
+### 4. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
-### 6. [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran)
+https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-硬體-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&#x2F;&#x2F;www.youtube.com&
 
-- ⭐ 211 分｜💬 88 留言｜👤 helsinkiandrew
+- ⭐ 298 分｜💬 263 留言｜👤 thm
 
-### 7. [Mozilla 引進 Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
+### 5. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 
-- ⭐ 154 分｜💬 77 留言｜👤 recvonline
+- ⭐ 410 分｜💬 405 留言｜👤 Philpax
 
-### 8. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
+### 6. [Apple HomeView](https://www.apple.com/apple-homeview/)
 
-- ⭐ 339 分｜💬 95 留言｜👤 jsomers
+- ⭐ 601 分｜💬 740 留言｜👤 etothet
 
-### 9. [GLM-Legal](https://z.ai/blog/glm-legal)
+### 7. [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
 
-- ⭐ 614 分｜💬 341 留言｜👤 ilreb
+- ⭐ 275 分｜💬 111 留言｜👤 mjorgers
 
-### 10. [A Visual Intro to Complex Numbers](https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers)
+### 8. [PostEra (YC W20) Is 招聘 AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
 
-- ⭐ 8 分｜💬 0 留言｜👤 surprisetalk
+- ⭐ 1 分｜💬 0 留言｜👤 morraa
 
-### 11. [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
+### 9. [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
 
-https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe..., https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo, https:&#x2F;&#x2F;www.lemonde.fr&#x2
+- ⭐ 630 分｜💬 363 留言｜👤 formerly_proven
 
-- ⭐ 789 分｜💬 909 留言｜👤 Zeekaas
+### 10. [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
 
-### 12. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+- ⭐ 566 分｜💬 233 留言｜👤 recvonline
 
-- ⭐ 268 分｜💬 139 留言｜👤 hurricanepootis
+### 11. [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
 
-### 13. [Apple HomeView](https://www.apple.com/apple-homeview/)
+- ⭐ 206 分｜💬 131 留言｜👤 sammy0910
 
-- ⭐ 100 分｜💬 114 留言｜👤 etothet
+### 12. [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 
-### 14. [A Modern 網頁 App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
+- ⭐ 144 分｜💬 210 留言｜👤 karakoram
 
-- ⭐ 631 分｜💬 276 留言｜👤 prophittcorey
+### 13. [新 Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 
-### 15. [Character.AI Files for Bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
+- ⭐ 252 分｜💬 490 留言｜👤 corvad
 
-- ⭐ 106 分｜💬 67 留言｜👤 yanis_t
+### 14. [Apple's 新 'Switch to Safari' campaign details 為什麼 you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/)
 
-### 16. [Character.AI files for Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
+https:&#x2F;&#x2F;www.Apple.com&#x2F;safari&#x2F;switch&#x2F;
 
-- ⭐ 47 分｜💬 15 留言｜👤 nryoo
+- ⭐ 138 分｜💬 218 留言｜👤 ivell
 
-### 17. [Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
+### 15. [We turned EmbeddingGemma 2 into a speech-to-text 模型](https://eg2.haku.sh/)
 
-- ⭐ 28 分｜💬 7 留言｜👤 ritzaco
+- ⭐ 371 分｜💬 82 留言｜👤 amrrs
 
-### 18. [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
+### 16. [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
 
-- ⭐ 183 分｜💬 67 留言｜👤 khalidkhair
+- ⭐ 9 分｜💬 1 留言｜👤 hellerve
 
-### 19. [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html)
+### 17. [Show HN: Spotatui, a Spotify TUI/GUI without 網頁 API rate limits](https://github.com/LargeModGames/spotatui)
 
-- ⭐ 244 分｜💬 119 留言｜👤 speckx
+About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way.One of the main issues 
 
-### 20. [Who is vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+- ⭐ 32 分｜💬 2 留言｜👤 LargeModGames
 
-- ⭐ 233 分｜💬 21 留言｜👤 pngmangi
+### 18. [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 
-### 21. [Turn a WiFi 7 Router into a 320Msps 軟體 Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
+- ⭐ 107 分｜💬 18 留言｜👤 zdw
 
-- ⭐ 383 分｜💬 104 留言｜👤 djfergus
+### 19. [Show HN: Parsimony – an open-source benchmark for how much 代碼 AI models add](https://parsimony.lasu.dev/)
 
-### 22. [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)
+Existing benchmarks measure solve rate and token output&#x2F;cost, but don&#x27;t punish excess 代碼, which makes a codebase harder to work with in the long term. I wanted to measure this since it mat
 
-- ⭐ 376 分｜💬 424 留言｜👤 scrlk
+- ⭐ 16 分｜💬 1 留言｜👤 lasu
 
-### 23. [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
+### 20. [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
 
-- ⭐ 159 分｜💬 28 留言｜👤 zdw
+Main thread: Gemini 4 Argon - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073879
 
-### 24. [Launch HN: Agent37 (YC F26) – Low-cost 代理 sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
+- ⭐ 157 分｜💬 39 留言｜👤 xnx
 
-Hey HN, I’m Vishnu from Agent37 (https:&#x2F;&#x2F;agent37.com). We 構建 sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37&#x
+### 21. [A Dynamic and Distributed Virtual GPU 雲端 Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
 
-- ⭐ 146 分｜💬 101 留言｜👤 vishnukool
+- ⭐ 207 分｜💬 90 留言｜👤 acossta
 
-### 25. [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+### 22. [IDRs as Records of Intent](https://wrla.ch/log/2026/10/idrs-as-records-of-intent/)
 
-- ⭐ 485 分｜💬 393 留言｜👤 layer8
+- ⭐ 8 分｜💬 0 留言｜👤 evakhoury
 
-### 26. [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)
+### 23. [Hiking the world in search of rare cheeses](https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses)
 
-- ⭐ 95 分｜💬 22 留言｜👤 bherbruck
+- ⭐ 31 分｜💬 6 留言｜👤 tosh
 
-### 27. [A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
+### 24. [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
 
-- ⭐ 192 分｜💬 124 留言｜👤 mochomocha
+- ⭐ 60 分｜💬 28 留言｜👤 vunderba
 
-### 28. [Solar panels that plug into your wall](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
+### 25. [如何 工程師 an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
 
-https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3
+- ⭐ 103 分｜💬 45 留言｜👤 kkukshtel
 
-- ⭐ 224 分｜💬 240 留言｜👤 speckx
+### 26. [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
 
-### 29. [Auto Research: Integer multiplication below n log n](https://app.getsupers.com/auto-research)
+https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender
 
-- ⭐ 69 分｜💬 35 留言｜👤 swesnow
+- ⭐ 13 分｜💬 14 留言｜👤 list
 
-### 30. [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928)
+### 27. [Character.AI has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
 
-- ⭐ 244 分｜💬 115 留言｜👤 sbulaev
+https:&#x2F;&#x2F;www.theverge.com&#x2F;AI-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F
+
+- ⭐ 254 分｜💬 254 留言｜👤 nryoo
+
+### 28. [Worlds more habitable than Earth?](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html)
+
+https:&#x2F;&#x2F;archive.is&#x2F;yIYpb
+
+- ⭐ 67 分｜💬 134 留言｜👤 cainxinth
+
+### 29. [Launch HN: Consus (YC F24) – 大型語言模型 gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
+
+Hey Hacker News! I&#x27;m Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.
+Consus itself satisfies ITAR 
+
+- ⭐ 31 分｜💬 16 留言｜👤 ericmags
+
+### 30. [Show HN: XY Music Notation](https://music.xy.dev/)
+
+I&#x27;ve been playing around with a 新 kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some 新 music for it.The idea is to represent each note i
+
+- ⭐ 39 分｜💬 29 留言｜👤 jmole
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: An experimental pattern-first DAW that supports MCP
-- Crypto thieves sell 硬體 wallets with secret eSIM
-- The Making Of Super Mario 64 – full Giles Goddard interview (2001)
-- Phreak.ing – Internet Phone Switch
-- Kevin Kelly's 2016 AI Predictions, 10 Years Later
-- DishwasherBench – Can Frontier Models Stack a Dishwasher?
-- Codex CLI installs a persistent, self-updating background daemon by default
-- I Found a $90k 遠端 代碼 Execution Vulnerability in Google
-- Show HN: Atticus – Hold-to-talk voice 助手 for macOS that runs on Claude -p
-- Muse Wonder
-- Terence Tao: Math 2.0 [pdf]
-- Thinking will become a hobby
-- RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine
-- No portable way to detect string-to-float conversion errors in standard C
+- Hittite royal archive found in Turkey
+- Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain
+- AI is a tool and using it well takes skill
 - AWS Lambda 網頁 Functions
+- Show HN: Use your OpenAI subscription to create audiobooks
+- Show HN: Deslop – Oxlint rules for AI-generated TypeScript
+- Dutch tax authorities cancel Microsoft 365 雲端 rollout and turn to 開源
+- OpenAI employee arrested by FBI over hidden listening device, company says
+- Show HN: Stream live open data in two commands
+- Cyberattack halts construction of tunnel between Denmark and Germany
+- Trezor Wallets Also Compromised with Implants
+- Yet another catalogue of fast matrix multiplication algorithms
+- Mathematician Who Waited 50 Years for Proper Credit for Her Work Has Died
+- How many shots are in the average movie today?
+- Indra OCR: a 1M-parameter OCR 模型 that reads 49 pages per second on CPU
+- Show HN: My live 3D satellite tracker, now with asteroids and a UAP archive
+- Huawei, once hobbled by US sanctions, passes 100M Kirin chip milestone
+- A Visual Intro to Complex Numbers
+- Windows NT 3.1 MIPS on QEMU
+- Show HN: Opensidian
+- Document Review with Unsiloed and TypeSafe Jev
+- Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)
+- Chabuduo World
+- GLM-Legal
+- Launch HN: Agent37 (YC F26) – Low-cost 代理 sandboxes for running agents
+- Hackers activate automatic defrosting in supermarket fridges across Europe
+- Where is all the 新, good 軟體?
+- Delaware jury awards Qualcomm $2 in damages, finds Arm breached agreement
+- The baffling intelligence of a single cell (2024)
+- Mastodon on your own domain without hosting a 伺服器
+- Scientists wonder: Is my AI stealing my ideas?
+- A Modern 網頁 App in C
+- Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
+- Apple Explains 為什麼 Chrome Users Should 'Switch to Safari'
+- A plea not to use uv-構建
+- Auto Research: Integer multiplication below n log n
+- A look at the math that OpenAI claims computes faster Fourier transforms
+- Terence Tao: Math 2.0 [pdf]
+- Kevin Kelly's 2016 AI Predictions, 10 Years Later
+- AI models can provably hide arbitrary capabilities
+- Show HN: An experimental pattern-first DAW that supports MCP
+- A Book That Will Never Be Read
+- Show HN: Sayso, free 開源 dictation for Mac, Windows, and Linux
+- Phreak.ing – Internet Phone Switch
+- Making big downloads resumable in Firefox
+- Google Play now lets anyone 構建 private, vibe-coded apps that run on Android
+- The Tao of Tao
+- I Found a $90k 遠端 代碼 Execution Vulnerability in Google
+- How 94 internet-famous engineers use coding agents
+- Who is vfmaddrnd231pd?
+- Janas: Run LLMs larger than RAM by streaming experts from SSD
+- Turn a WiFi 7 Router into a 320Msps 軟體 Defined Radio Receiver
+- DishwasherBench – Can Frontier Models Stack a Dishwasher?
+- Show HN: Atticus – Hold-to-talk voice 助手 for macOS that runs on Claude -p
+- Docker Hub flaw let attackers impersonate users, tamper with images
+- your C is not standard C
+- Show HN: Knitting – A shared-memory concurrency runtime for Node.js,Bun,and Deno
+- Codex CLI installs a persistent, self-updating background daemon by default
+- Muse Wonder
+- Show HN: RSI-Anything – JEPA world models for self-improving agents
+- Citroen revives the 2CV for an electric age
+- Thinking will become a hobby
+- BB(10) > Graham's Number
+- CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades
+- Saudi National Arrested for Installing Audio Recording Device at OpenAI
+- No portable way to detect string-to-float conversion errors in standard C
 - Fingerprints are the 新 cookies
-- India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032
-- QGIS enacts moratorium on AI contributions
-- Secret of Orange Cats Revealed After 60-Year Search
-- Running the unmodified Linux amdgpu driver on an iPad
-- Doory – Open-Source Canva
-- Ask HN: Do you want a router that has DD-WRT pre-installed?
-- The gap in shared understanding of 大型語言模型 capability is widening
-- 10 Years of the SRE book: Announcing the second edition
-- Blood cells from 80-year-old donor become stem cells with molecular age under 20
-- Picothermal – WebUSB Thermal Camera Using RP2040 and Flir Lepton
-- Teach My Little Sister 如何 Drive
-- Total Annihilation, rebuilt for modern computers
-- (Post-Quantum) Cryptographic Right Answers
-- Weave (YC W25) is 招聘 ML, AI, product, & design engineers
-- Show HN: PS2 games statically recompiled to WebAssembly
-- AI coding agents generate more 代碼, but not more 軟體
-- Passkeys are a trap
-- The Origin Story of Kid Pix
-- Publishers Killed the Paperback, Then Blamed Readers
-- 'AI' Is Not a Tool by Rich Hickey
-- Chapter 1 of "Ways of Seeing" by John Berger (1972)
-- The Dock on Mac, from OS 10 to macOS 27
-- Feds got warrants to use fake cell towers to hunt down Don Lemon's producer
-- Bag of Decisions Reranker
-- A 新 Anti-Aging Drug Looks to Turn Back the Clock on Skin Age
-- Patching Zig's Std
-- Local Indexing to reduce tool calling and token usage
-- Chip stocks slide after Broadcom boss likens AI investing to 'casino'
-- Type-safe HTML templating in Zig
-- NYC's "Click to Cancel" rule is now in effect
-- I guess I'm using WebP now?
-- Illustration Beyond Proof
-- My Reddit AMA on the Law of 網頁 Scraping
-- Using AI for just 10 minutes erodes your ability to persist at hard things
-- Neuroscience can make decluttering easier
-- Valen's Memory Safety: A 新 Kind of Borrow Checking
-- Calculus with Julia
-- We Infiltrated a Police Union Convention in Las Vegas
-- Firefox Enterprise
-- So, you’d like to sell your print issues of The Onion?
-- Vi Hart's Big Navier-Stokes Post
-- Incident with Actions, Pull Requests and Issues
-- RJ Mitte has died
-- China Overtakes U.S. For First Time as 熱門 Spender on R&D in 2024
-- Show HN: Brickbrag – A multiplayer brick-building world in the browser
-- IRCv3
-- Google Data Centers around the world
-- 3rd Yandex 雲端 Data Center Was Hit
-- Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests
-- WordPress parent's problematic plans for .php (pending primary-string payoff)
-- A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis
-- Reverse 工程師 anything with agents, from app behavior down to native binaries
-- apsw: Another Python SQLite Wrapper
-- Cartographers of North Korea (2019)
+- RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine
+- Loneliness can rewire the brain to drive alcohol consumption
+- Nobody should type 代碼 by hand anymore. here's what's left. – Geoffrey Huntley
 
 
 ---
