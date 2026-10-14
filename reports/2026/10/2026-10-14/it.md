@@ -4,220 +4,210 @@
 
 ---
 
-### 1. [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+### 1. [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+
+- ⭐ 134 分｜💬 43 留言｜👤 otobrglez
+
+### 2. [Apple: Switch to Safari (From Chrome)](https://www.apple.com/safari/switch/)
+
+- ⭐ 24 分｜💬 31 留言｜👤 signa11
+
+### 3. [代理 erased full season of "The Challenge Swe": "Hundreds of days of work gone"](https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren)
+
+- ⭐ 17 分｜💬 5 留言｜👤 lensecat
+
+### 4. [Show HN: Building an 大型語言模型 from Scratch in TypeScript](https://book.humanexperiences.io/)
+
+I wanted to understand transformers at a level where nothing is magic, so I&#x27;m building a ChatGPT-style 模型 from first principles in TypeScript. 為什麼 not Python? I&#x27;ve found that reimplementi
+
+- ⭐ 7 分｜💬 0 留言｜👤 baraa_
+
+### 5. [Gemini 4 Argon](https://deepmind.google/models/gemini/)
 
 See also: Gemini 4 Argon for Robotics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869
 
-- ⭐ 1053 分｜💬 784 留言｜👤 737max
+- ⭐ 1328 分｜💬 923 留言｜👤 737max
 
-### 2. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+### 6. [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)
 
-Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord finge
+- ⭐ 24 分｜💬 7 留言｜👤 tinyprojects
 
-- ⭐ 308 分｜💬 92 留言｜👤 talccc
+### 7. [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
 
-### 3. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+- ⭐ 131 分｜💬 19 留言｜👤 dverlaeckt80
+
+### 8. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
 https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-硬體-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&#x2F;&#x2F;www.youtube.com&
 
-- ⭐ 476 分｜💬 354 留言｜👤 thm
+- ⭐ 713 分｜💬 451 留言｜👤 thm
 
-### 4. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+### 9. [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
 
-- ⭐ 576 分｜💬 546 留言｜👤 Philpax
+- ⭐ 17 分｜💬 13 留言｜👤 mfrw
 
-### 5. [Apple HomeView](https://www.apple.com/apple-homeview/)
+### 10. [Pulsar at ESUG 2026 (新 Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
 
-- ⭐ 681 分｜💬 795 留言｜👤 etothet
+- ⭐ 3 分｜💬 0 留言｜👤 mpweiher
 
-### 6. [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+### 11. [AI Laser Locking for Quantum Computers: How QuEra Automates It](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers)
 
-Hi HN, I&#x27;m Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledg
+- ⭐ 3 分｜💬 0 留言｜👤 EvgeniyZh
 
-- ⭐ 68 分｜💬 32 留言｜👤 niztk
+### 12. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 
-### 7. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
+- ⭐ 785 分｜💬 811 留言｜👤 Philpax
 
-- ⭐ 62 分｜💬 4 留言｜👤 mdp2021
+### 13. [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
 
-### 8. [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
+- ⭐ 286 分｜💬 129 留言｜👤 tharen
 
-- ⭐ 22 分｜💬 1 留言｜👤 gumby
+### 14. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 
-### 9. [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
+Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord finge
 
-- ⭐ 357 分｜💬 160 留言｜👤 mjorgers
+- ⭐ 448 分｜💬 115 留言｜👤 talccc
 
-### 10. [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
+### 15. [Same 工作, Two Engines: InnoDB and Iceberg Internals](https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/)
 
-- ⭐ 665 分｜💬 269 留言｜👤 recvonline
+- ⭐ 15 分｜💬 0 留言｜👤 marcbpaul
 
-### 11. [Recreational 程式設計](https://www.cphiri.dev/presentations/recreational-programming)
+### 16. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
 
-- ⭐ 77 分｜💬 27 留言｜👤 jslakro
+- ⭐ 170 分｜💬 22 留言｜👤 mdp2021
 
-### 12. [Show HN: How random are you?](https://lab.specr.net/rigged-draw/)
+### 17. [Felix Rieseberg Homepage](https://felixrieseberg.com/)
 
-- ⭐ 79 分｜💬 47 留言｜👤 vunderba
+- ⭐ 199 分｜💬 78 留言｜👤 rglover
 
-### 13. [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
+### 18. [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 
-- ⭐ 15 分｜💬 8 留言｜👤 gcsydney
+- ⭐ 324 分｜💬 524 留言｜👤 karakoram
 
-### 14. [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
+### 19. [Recreational 程式設計](https://www.cphiri.dev/presentations/recreational-programming)
 
-- ⭐ 270 分｜💬 152 留言｜👤 sammy0910
+- ⭐ 201 分｜💬 79 留言｜👤 jslakro
 
-### 15. [AlphaNIST](https://alpha-nist.github.io/)
+### 20. [Strafe: A 新 open-source, E2E Encrypted, and federated alternative to Discord](https://strafe.chat/)
 
-- ⭐ 49 分｜💬 14 留言｜👤 jasonjmcghee
+- ⭐ 35 分｜💬 14 留言｜👤 brydencalaway
 
-### 16. [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
+### 21. [Kcgi – minimal CGI and FastCGI library for C/C++](https://kristaps.bsd.lv/kcgi/)
 
-- ⭐ 219 分｜💬 312 留言｜👤 karakoram
+- ⭐ 32 分｜💬 18 留言｜👤 Bluestein
 
-### 17. [新 Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
+### 22. [Ask HN: 什麼是 the current trajectory of a 資深 工程師?](https://news.ycombinator.com/item?id=50084969)
 
-- ⭐ 303 分｜💬 562 留言｜👤 corvad
+Been recently thinking about this more and more: When the need for a human in the design loop ceases?Given that LLMs are RL&#x27;d to the max with everything that can be given a wrong&#x2F;right answe
 
-### 18. [PostEra (YC W20) Is 招聘 AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+- ⭐ 14 分｜💬 11 留言｜👤 guitarlimeo
+
+### 23. [Show HN: How random are you?](https://lab.specr.net/rigged-draw/)
+
+- ⭐ 158 分｜💬 80 留言｜👤 vunderba
+
+### 24. [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
+
+- ⭐ 218 分｜💬 45 留言｜👤 zdw
+
+### 25. [PostEra (YC W20) Is 招聘 AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
 
 - ⭐ 1 分｜💬 0 留言｜👤 morraa
 
-### 19. [Apple's 新 'Switch to Safari' campaign details 為什麼 you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/)
+### 26. [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
 
-https:&#x2F;&#x2F;www.Apple.com&#x2F;safari&#x2F;switch&#x2F;
+- ⭐ 48 分｜💬 18 留言｜👤 dimonomid
 
-- ⭐ 203 分｜💬 341 留言｜👤 ivell
+### 27. [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
 
-### 20. [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
+- ⭐ 198 分｜💬 144 留言｜👤 mooreds
 
-- ⭐ 166 分｜💬 31 留言｜👤 zdw
+### 28. [為什麼 is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 
-### 21. [OpenAI 工程師 arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
+- ⭐ 16 分｜💬 15 留言｜👤 epestr
 
-https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132
+### 29. [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
 
-- ⭐ 438 分｜💬 385 留言｜👤 forthwall
+- ⭐ 43 分｜💬 9 留言｜👤 evakhoury
 
-### 22. [Show HN: XY Music Notation](https://music.xy.dev/)
+### 30. [AlphaNIST](https://alpha-nist.github.io/)
 
-I&#x27;ve been playing around with a 新 kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some 新 music for it.The idea is to represent each note i
-
-- ⭐ 50 分｜💬 40 留言｜👤 jmole
-
-### 23. [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
-
-- ⭐ 4 分｜💬 0 留言｜👤 evakhoury
-
-### 24. [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
-
-- ⭐ 38 分｜💬 0 留言｜👤 modeless
-
-### 25. [How Do Cuttlefish Hide?](https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html)
-
-- ⭐ 12 分｜💬 2 留言｜👤 marojejian
-
-### 26. [A Dynamic and Distributed Virtual GPU 雲端 Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
-
-- ⭐ 235 分｜💬 96 留言｜👤 acossta
-
-### 27. [Show HN: Spotatui, a Spotify TUI/GUI without 網頁 API rate limits](https://github.com/LargeModGames/spotatui)
-
-About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way.One of the main issues 
-
-- ⭐ 58 分｜💬 9 留言｜👤 LargeModGames
-
-### 28. [Hiking the world in search of rare cheeses](https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses)
-
-- ⭐ 69 分｜💬 17 留言｜👤 tosh
-
-### 29. [Character.AI has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
-
-https:&#x2F;&#x2F;www.theverge.com&#x2F;AI-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F
-
-- ⭐ 299 分｜💬 270 留言｜👤 nryoo
-
-### 30. [Show HN: Parsimony – an open-source benchmark for how much 代碼 AI models add](https://parsimony.lasu.dev/)
-
-Existing benchmarks measure solve rate and token output&#x2F;cost, but don&#x27;t punish excess 代碼, which makes a codebase harder to work with in the long term. I wanted to measure this since it mat
-
-- ⭐ 54 分｜💬 7 留言｜👤 lasu
+- ⭐ 79 分｜💬 26 留言｜👤 jasonjmcghee
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Rebuilding the Original Odhner 模型 127 Pinwheel Calculator
-- The Four Colour Theorem: The first time machines mogged mathematicians
-- 11 year old unsoundness bugs found in Rust borrow checker
-- Gemini 4 Argon for Robotics
-- 如何 工程師 an AI harness for game development
-- Hittite royal archive found in Turkey
-- Maybe a better way to track the release history of a Git repo
 - AI is a tool and using it well takes skill
-- Topgolf saved over $11.3M after leaving VMware
-- Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support
+- Apple HomeView
+- 如何 Select an Experiment
+- OpenAI 工程師 arrested in bugging of executive conference room
+- 11 year old unsoundness bugs found in Rust borrow checker
+- Show HN: XY Music Notation
+- Hiking the world in search of rare cheeses
+- Thunderbird for iOS
+- Firefox Enterprise
+- 如何 工程師 an AI harness for game development
+- Show HN: Parsimony – an open-source benchmark for how much 代碼 AI models add
 - The Feeling of Power
-- Show HN: Yagi DSP Modulation SIM
-- Do Frameworks Matter Anymore?
-- Original iPhone OS 1.0 Emulated in the Browser
-- Worlds more habitable than Earth?
-- Creating a Garmin "MCP"
-- IDRs as Records of Intent
-- We turned EmbeddingGemma 2 into a speech-to-text 模型
-- Launch HN: Consus (YC F24) – 大型語言模型 gateway for companies handling sensitive data
+- Show HN: Spotatui, a Spotify TUI/GUI without 網頁 API rate limits
+- Gemini 4 Argon for Robotics
+- The Four Colour Theorem: The first time machines mogged mathematicians
+- Fish Audio Drama 3: an open-weight, directable TTS 模型
+- Show HN: I built a tool to track what AI leaders say and how their views change
+- Tanstack Start 1.0 is stable
+- I posted to HN, and then my website was flooded with AI bot traffic
+- Apple's 新 'Switch to Safari' campaign details 為什麼 you should ditch Chrome
+- Physical Intelligence API Beta: Frontier Models for Every Robot
 - AWS Lambda 網頁 Functions
+- Worlds more habitable than Earth?
+- 新 Apple TV 4K
+- We turned EmbeddingGemma 2 into a speech-to-text 模型
 - Show HN: Use your OpenAI subscription to create audiobooks
-- Poisoned Google SERPs
-- US hits Bank of America with $1.2B fine
-- Apple HomePod Mini 2
-- Dutch tax authorities cancel Microsoft 365 雲端 rollout and turn to 開源
-- Show HN: Wonderhop – A daily game: guess what most people say, or what none do
-- DOJ arrests 2, seizes 187 devices in North Korean laptop farm crackdown in Texas
-- Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain
-- An Open Letter on AI and Cybersecurity from the Scientific Community
-- Cyberattack halts construction of tunnel between Denmark and Germany
-- 構建 Independently. Win Together: 為什麼 I Built IndieCrew
+- Launch HN: Consus (YC F24) – 大型語言模型 gateway for companies handling sensitive data
+- Maybe a better way to track the release history of a Git repo
+- LLMs Are Turing-Complete
+- Moirélephant
+- Character.AI has initiated voluntary Chapter 11 bankruptcy
+- Creating a Garmin "MCP"
+- Ask HN: Many SWEngs out there are considering re-訓練
+- A Dynamic and Distributed Virtual GPU 雲端 Built on Idle Apple Silicon Devices
+- Hittite royal archive found in Turkey
 - Show HN: Jevcrawl – A 網頁 crawler for AI agents with no 大型語言模型 in the crawl loop
-- How many shots are in the average movie today?
-- Now that information is free, what's a college campus for?
-- U.S. Treasury 宣布 Record Enforcement Actions Against Bank of America
-- A recent doubling of global warming rate signals a 1.5°C breach by 2028
+- Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
+- Poisoned Google SERPs
 - Were 軟體 engineers blue-collar workers all along?
-- A plea not to use uv-構建
-- Show HN: Stream live open data in two commands
-- Ask HN: Where has creativity in 軟體 gone?
-- Yet another catalogue of fast matrix multiplication algorithms
-- Grace Hopper Celebration Cancelled
-- 為什麼 robots can't pick strawberries yet [video]
-- NVIDIA Reportedly Ending the RTX 5090, Reserves GB202 for Workstation GPUs
+- NetBSD may have found a 新 role: The AI-free FOSS OS
+- IDRs as Records of Intent
+- Rebuilding the Original Odhner 模型 127 Pinwheel Calculator
+- Dutch tax authorities cancel Microsoft 365 雲端 rollout and turn to 開源
+- How many shots are in the average movie today?
 - Hackers activate automatic defrosting in supermarket fridges across Europe
-- A Visual Intro to Complex Numbers
+- Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support
+- Cyberattack halts construction of tunnel between Denmark and Germany
 - Launch HN: Agent37 (YC F26) – Low-cost 代理 sandboxes for running agents
 - GLM-Legal
-- Document Review with Unsiloed and TypeSafe Jev
+- Topgolf saved over $11.3M after leaving VMware
+- How Do Cuttlefish Hide?
+- Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain
+- Starlink restricted in Ukraine with no notice
+- Social platforms have 'responsibility' to block US execution live stream
+- A Strongly Aperiodic Monotile in Three Dimensions
+- Yet another catalogue of fast matrix multiplication algorithms
 - Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)
-- Trezor Wallets Also Compromised with Implants
-- OpenAI employee arrested by FBI over hidden listening device, company says
-- Mathematician Who Waited 50 Years for Proper Credit for Her Work Has Died
-- Indra OCR: a 1M-parameter OCR 模型 that reads 49 pages per second on CPU
-- The baffling intelligence of a single cell (2024)
-- A Modern 網頁 App in C
-- Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
-- Where is all the 新, good 軟體?
-- Show HN: Deslop – Oxlint rules for AI-generated TypeScript
-- Domain Health
-- Show HN: Knitting – A shared-memory concurrency runtime for Node.js,Bun,and Deno
 - Terence Tao: Math 2.0 [pdf]
-- Auto Research: Integer multiplication below n log n
-- The Dock on Mac, from OS 10 to macOS 27
-- Show HN: Sayso, free 開源 dictation for Mac, Windows, and Linux
-- DishwasherBench – Can Frontier Models Stack a Dishwasher?
-- Huawei, once hobbled by US sanctions, passes 100M Kirin chip milestone
+- A Modern 網頁 App in C
+- Now that information is free, what's a college campus for?
+- Document Review with Unsiloed and TypeSafe Jev
+- The baffling intelligence of a single cell (2024)
+- High-speed video reveals how honey bee stingers pump venom
+- Is 'Attention' the Essence of Intelligence?
+- Show HN: Stream live open data in two commands
+- A Visual Intro to Complex Numbers
+- Do Frameworks Matter Anymore?
+- Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
+- A plea not to use uv-構建
 - I Found a $90k 遠端 代碼 Execution Vulnerability in Google
-- Kevin Kelly's 2016 AI Predictions, 10 Years Later
-- Windows NT 3.1 MIPS on QEMU
 
 
 ---
