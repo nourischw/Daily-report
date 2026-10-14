@@ -4,206 +4,204 @@
 
 ---
 
-### 1. [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+### 1. [Things to know if you get cancer in 2026](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 
-- ⭐ 465 分｜💬 190 留言｜👤 otobrglez
+- ⭐ 290 分｜💬 50 留言｜👤 jjmaxwell4
 
-### 2. [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
+### 2. [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 
-- ⭐ 23 分｜💬 7 留言｜👤 jadenlemmon
+- ⭐ 60 分｜💬 18 留言｜👤 coloneltcb
 
-### 3. [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
+### 3. [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 
-- ⭐ 118 分｜💬 35 留言｜👤 jascha_eng
+- ⭐ 63 分｜💬 4 留言｜👤 sunshowers
 
-### 4. [AI is mass decompiling games. That's both awesome and scary](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/)
+### 4. [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
 
-- ⭐ 46 分｜💬 21 留言｜👤 popcar2
+- ⭐ 161 分｜💬 27 留言｜👤 allddd
 
-### 5. [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
+### 5. [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
 
-- ⭐ 188 分｜💬 236 留言｜👤 speckx
+- ⭐ 212 分｜💬 140 留言｜👤 ilamont
 
-### 6. [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
+### 6. [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
 
-- ⭐ 83 分｜💬 68 留言｜👤 tartoran
+- ⭐ 161 分｜💬 130 留言｜👤 doitLP
 
-### 7. [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
+### 7. [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 
-- ⭐ 417 分｜💬 401 留言｜👤 sighborg
+Hi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple 
 
-### 8. [Submarine Cable Resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
+- ⭐ 70 分｜💬 10 留言｜👤 thedracle
 
-- ⭐ 3 分｜💬 0 留言｜👤 speckx
+### 8. [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
 
-### 9. [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
+- ⭐ 25 分｜💬 6 留言｜👤 adunk
 
-- ⭐ 231 分｜💬 24 留言｜👤 dverlaeckt80
+### 9. [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 
-### 10. [The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html)
+- ⭐ 53 分｜💬 18 留言｜👤 thclpr
 
-- ⭐ 29 分｜💬 4 留言｜👤 ripe
+### 10. [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 
-### 11. [The Origin Story of Kid Pix](http://red-green-blue.com/kid-pix-the-early-years)
+- ⭐ 178 分｜💬 141 留言｜👤 smartmic
 
-- ⭐ 115 分｜💬 22 留言｜👤 MBCook
+### 11. [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
 
-### 12. [TV4 postpones show after AI 代理 erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
+- ⭐ 661 分｜💬 275 留言｜👤 otobrglez
 
-- ⭐ 92 分｜💬 56 留言｜👤 tobr
+### 12. [Neckbeard – a DevOps/platform/SRE plugin for your 代理](https://github.com/bealesh/neckbeard)
 
-### 13. [Show HN: A guided 3D Leonardo da Vinci museum, built in 代碼](https://museumofages.org/w/vinci)
+- ⭐ 52 分｜💬 34 留言｜👤 bealesh
 
-Hello HN,I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and the
+### 13. [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 
-- ⭐ 63 分｜💬 30 留言｜👤 micstradev
+- ⭐ 112 分｜💬 36 留言｜👤 speckx
 
-### 14. [Apple Keynote now showing ads in its UI](https://mastodon.social/@marioguzman/117436264149891011)
+### 14. [Show HN: Timur's Chess – A 14th century chess variant with giraffes](https://timurschess.com)
 
-- ⭐ 62 分｜💬 13 留言｜👤 jervant
+My weekend vibecoding project was to attempt to resurrect a 14th century chess variant favored by the Central Asian warlord Timur (Tamerlane). There are giraffes, elephants, citadels, and you can prom
 
-### 15. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+- ⭐ 13 分｜💬 2 留言｜👤 LarsDu88
 
-Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord finge
+### 15. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 
-- ⭐ 533 分｜💬 147 留言｜👤 talccc
+- ⭐ 4 分｜💬 0 留言｜👤 gmays
 
-### 16. [How Tabasco Became the World's Hot Sauce](https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/)
+### 16. [Google is silently linking your phone number across all signed-in accounts](https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/)
 
-- ⭐ 6 分｜💬 6 留言｜👤 bookofjoe
+- ⭐ 269 分｜💬 69 留言｜👤 Brajeshwar
 
-### 17. [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)
+### 17. [LittleJS is 2D and 3D now](https://frankforce.com/littlejs-is-2d-and-3d-now/)
 
-- ⭐ 3 分｜💬 0 留言｜👤 KarLexAI
+- ⭐ 74 分｜💬 19 留言｜👤 dmit
 
-### 18. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
+### 18. [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 
-- ⭐ 238 分｜💬 42 留言｜👤 mdp2021
+- ⭐ 174 分｜💬 47 留言｜👤 jascha_eng
 
-### 19. [Pulsar at ESUG 2026 (新 Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
+### 19. [America didn't lose its rare earth industry, it sold it](https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it)
 
-- ⭐ 61 分｜💬 11 留言｜👤 mpweiher
+- ⭐ 95 分｜💬 38 留言｜👤 speckx
 
-### 20. [Strands Decider: 為什麼 Not an Encoder?](https://brooker.co.za:443/blog/2026/10/04/encoders.html)
+### 20. [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 
-- ⭐ 4 分｜💬 0 留言｜👤 surprisetalk
+- ⭐ 653 分｜💬 557 留言｜👤 sighborg
 
-### 21. [The Genealogy of Eliza](https://elizagen.org/genealogy.html)
+### 21. [AI agents aren't 'going rogue.' Frontier labs are skipping 安全 basics](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 
-- ⭐ 11 分｜💬 1 留言｜👤 abrax3141
+- ⭐ 749 分｜💬 352 留言｜👤 latexr
 
-### 22. [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+### 22. [Marshall Islands Stick Chart](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
 
-See also: Gemini 4 Argon for Robotics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869
+- ⭐ 4 分｜💬 0 留言｜👤 Thevet
 
-- ⭐ 1396 分｜💬 1001 留言｜👤 737max
+### 23. [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)
 
-### 23. [Recreational 程式設計](https://www.cphiri.dev/presentations/recreational-programming)
+- ⭐ 36 分｜💬 11 留言｜👤 KarLexAI
 
-- ⭐ 278 分｜💬 123 留言｜👤 jslakro
+### 24. [NVIDIA's first GPU: GeForce 256](https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/)
 
-### 24. [Same 工作, Two Engines: InnoDB and Iceberg Internals](https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/)
+- ⭐ 59 分｜💬 38 留言｜👤 ibobev
 
-- ⭐ 47 分｜💬 4 留言｜👤 marcbpaul
+### 25. [The Origin Story of Kid Pix](http://red-green-blue.com/kid-pix-the-early-years)
 
-### 25. [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+- ⭐ 178 分｜💬 41 留言｜👤 MBCook
 
-- ⭐ 436 分｜💬 208 留言｜👤 tharen
+### 26. [Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges](https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges)
 
-### 26. [Who Is Planting Backdoors in Ledger Crypto Wallets?](https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/)
+- ⭐ 113 分｜💬 75 留言｜👤 speckx
 
-- ⭐ 110 分｜💬 108 留言｜👤 hacb
+### 27. [The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html)
 
-### 27. [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
+- ⭐ 59 分｜💬 14 留言｜👤 ripe
 
-- ⭐ 71 分｜💬 32 留言｜👤 speckx
+### 28. [Strands Decider: 為什麼 Not an Encoder?](https://brooker.co.za:443/blog/2026/10/04/encoders.html)
 
-### 28. [NVIDIA's first GPU: GeForce 256](https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/)
+- ⭐ 32 分｜💬 1 留言｜👤 surprisetalk
 
-- ⭐ 9 分｜💬 1 留言｜👤 ibobev
+### 29. [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
 
-### 29. [Character.AI's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
+- ⭐ 73 分｜💬 27 留言｜👤 jadenlemmon
 
-- ⭐ 15 分｜💬 6 留言｜👤 Luc
+### 30. [TV4 postpones show after AI 代理 erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
 
-### 30. [Shit Flow Diagram](https://en.wikipedia.org/wiki/Shit_flow_diagram)
-
-- ⭐ 6 分｜💬 0 留言｜👤 ldite
+- ⭐ 135 分｜💬 75 留言｜👤 tobr
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Felix Rieseberg Homepage
-- MIT class project turns into an FDA-cleared treatment for tremors
-- The Aaronson Oracle
+- Scientists are teaching birds to sing lost songs
+- Show HN: A guided 3D Leonardo da Vinci museum, built in 代碼
+- Suicide rates highest ever among middle-aged men
+- Gemini 4 Argon
+- Bank of America hired 1000 contractors to patch 軟體 flaws exposed by Mythos
+- The Four Colour Theorem: The first time machines mogged mathematicians
+- Microsoft Defender now supports Linux desktops
+- Virtual Oxide Labs: Emulating a Full Oxide Rack
+- Oldest shipwreck found off coast of Turkey
+- Pulsar at ESUG 2026 (新 Smalltalk IDE)
+- The Genealogy of Eliza
+- Same 工作, Two Engines: InnoDB and Iceberg Internals
 - PostEra (YC W20) Is 招聘 AI Researchers for Drug Discovery
-- AI Laser Locking for Quantum Computers: How QuEra Automates It
-- Show HN: How random are you?
+- AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
 - Ledger confirms spy chip implant behind wallet crypto thefts
-- Kcgi – minimal CGI and FastCGI library for C/C++
 - AI is a tool and using it well takes skill
-- Zuckerberg's 新 toy is a parasite. Please don't fall for it
-- 為什麼 are all these data companies buying internal data?
-- Arena Allocators in C
+- Hyperland (Douglas Adams/BBC, 1990) [video]
+- ASML's strong orders ease fears AI spending boom is running out of steam
+- Felix Rieseberg Homepage
+- Elon Musk's foundation is opaque, miserly and self-serving
+- The Death of Amazon's Writing Culture
+- Sound (2022)
+- GitHub Actions has added lock files
+- 為什麼 do 大型語言模型 pelicans look like this?
 - Redesigning source control at Anthropic
-- Maybe a better way to track the release history of a Git repo
+- RIP Eric Binnion
+- The Aaronson Oracle
+- Kcgi – minimal CGI and FastCGI library for C/C++
+- Show HN: Guitoro, a virtual guitar you strum with your keyboard
+- Epic Games' 新 vibe-coded launcher is 46% faster than Steam
+- OpenAI claims employee sent secret device information to Apple
 - Apple HomeView
-- The 新 (and vibe coded) Epic Games Launcher
-- AlphaNIST
-- Switzerland proposes banning profiling-based ads to minors
+- Show HN: I wrote an email app that accepts only one sender per inbox
 - 11 year old unsoundness bugs found in Rust borrow checker
-- OpenAI 工程師 arrested in bugging of executive conference room
-- Who Taught the Machines Mathematics?
+- 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)
+- Arena Allocators in C
+- AI Laser Locking for Quantum Computers: How QuEra Automates It
+- Maybe a better way to track the release history of a Git repo
+- Artificial Analysis Decision Index v1.0
+- AlphaNIST
 - Firefox Enterprise
 - The United Kingdom generates less electricity per person than in the 1970s
-- Gaming on Linux Without Cheating
 - Thunderbird for iOS
-- Show HN: XY Music Notation
-- Strafe: A 新 open-source, E2E Encrypted, and federated alternative to Discord
+- OpenAI 工程師 arrested in bugging of executive conference room
+- OpenAI: Employee who left for Apple took files about unreleased device
+- KDE: The Documentary – The Story of Free 軟體 Underdogs
 - Hiking the world in search of rare cheeses
-- Andrew Ng: More Agents Demand More Compute
-- The Feeling of Power
+- CoreWeave's Bonds Turn Distressed, Drawing 'Yikes' from Musk
+- Show HN: XY Music Notation
+- Amsterdam police confiscates 伺服器 left-wing ISP A/I at American request
+- Linus Torvalds's first 大型語言模型-assisted patch series
 - Moirélephant
-- 如何 工程師 an AI harness for game development
-- Ukraine says 新 Starlink restrictions disrupt their military
-- Show HN: Spotatui, a Spotify TUI/GUI without 網頁 API rate limits
+- Who Is Planting Backdoors in Ledger Crypto Wallets?
+- A Chemically Defined Synthetic Cell Capable of Growth and Replication
+- I Deleted 168,000 Lines of Comments. My AI 代理 Didn't Notice
 - AWS Lambda 網頁 Functions
+- Strafe: A 新 open-source, E2E Encrypted, and federated alternative to Discord
+- Show HN: Spotatui, a Spotify TUI/GUI without 網頁 API rate limits
+- The Feeling of Power
+- 如何 工程師 an AI harness for game development
+- Passkeys are not a trap
+- Has AI Tells
 - Show HN: Parsimony – an open-source benchmark for how much 代碼 AI models add
+- MIT class project turns into an FDA-cleared treatment for tremors
 - Gemini 4 Argon for Robotics
-- 如何 Select an Experiment
-- Tanstack Start 1.0 is stable
-- Recording device found in cabin of HMAS Leeuwin navy ship
-- SpaceX and Google said no. Now his 軟體 rides SpaceX rocket next to Google's
-- We turned EmbeddingGemma 2 into a speech-to-text 模型
-- I posted to HN, and then my website was flooded with AI bot traffic
 - Show HN: Use your OpenAI subscription to create audiobooks
-- Apple's 新 'Switch to Safari' campaign details 為什麼 you should ditch Chrome
+- We turned EmbeddingGemma 2 into a speech-to-text 模型
 - Worlds more habitable than Earth?
-- 新 Apple TV 4K
-- Show HN: I built a tool to track what AI leaders say and how their views change
-- Physical Intelligence API Beta: Frontier Models for Every Robot
-- Launch HN: Consus (YC F24) – 大型語言模型 gateway for companies handling sensitive data
-- Character.AI has initiated voluntary Chapter 11 bankruptcy
-- BeOS-Inspired Haiku Landed More 硬體 Improvements
-- Maybe a better way to track the release history of a Git repo
-- Hittite royal archive found in Turkey
-- Hive – Coding Agens That Don't Clock Out
-- Netflix Lays Off 6%, About 1k Jobs, in Biggest Cutbacks to Date
-- A Dynamic and Distributed Virtual GPU 雲端 Built on Idle Apple Silicon Devices
-- Hackers activate automatic defrosting in supermarket fridges across Europe
-- Were 軟體 engineers blue-collar workers all along?
-- Launch HN: Agent37 (YC F26) – Low-cost 代理 sandboxes for running agents
-- GLM-Legal
-- Show HN: Jevcrawl – A 網頁 crawler for AI agents with no 大型語言模型 in the crawl loop
-- How many shots are in the average movie today?
-- The Four Colour Theorem: The first time machines mogged mathematicians
-- Ukrainian military's access to Starlink satellite internet suddenly restricted
-- Creating a Garmin "MCP"
-- Rogue A.I. Agents from China Chatted with Researchers
-- Terence Tao: Math 2.0 [pdf]
-- IDRs as Records of Intent
-- Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
+- I posted to HN, and then my website was flooded with AI bot traffic
+- Who Taught the Machines Mathematics?
 
 
 ---
