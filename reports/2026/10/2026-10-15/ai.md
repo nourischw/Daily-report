@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [iPhone Duo開放預購前夕當心假網站，部分網站可利用iOS已知漏洞攻擊](https://www.ithome.com.tw/news/179731)
+### 1. [iPhone Duo開放預購前夕當心假網站，部分惡意網站可利用iOS已知漏洞攻擊](https://www.ithome.com.tw/news/179731)
 
 蘋果新品發表前後往往伴隨大量預購與優惠資訊，詐騙集團也趁機利用熱門話題。資安公司趨勢科技旗下TrendLife研究人員在10月13日示警，指出在Apple 2026年新品發表前後，發現多個搭上新款iPhone熱度的可疑網站，包括假預購頁面、廣告與聯盟行銷導流網站，以及可能利用iPhone安全漏洞發動攻擊的惡意網站。部分網站甚至不需要使用者輸入密碼，只要手機存在已知漏洞，開啟網頁就可能面臨風險。
 
@@ -25,7 +25,7 @@
 ### 4. [AI時代資料中心不再追著使用者跑，台電倡議「以光代電」納入AIDC選址策略](https://www.ithome.com.tw/news/179721)
 
 AI運算需求快速成長，資料中心的選址邏輯也正在改變。過去資料中心多半靠近使用者端，以降低網路延遲與傳輸距離，但在AI時代，GPU叢集與大型AI資料中心（AIDC）的高密度用電需求，「電力從哪裡來」成為新考量。
-台電在這周舉行的「2026台灣國際智慧能源週」，以「積體電網」為主���參展，並提出「以光代電」策略，鼓勵AI資料中心靠近電源端設置，透過長距離光纖傳輸資料，取代長距離輸送大量電力的模式。
+台電在這周舉行的「2026台灣國際智慧能源週」，以「積體電網」���主題參展，並提出「以光代電」策略，鼓勵AI資料中心靠近電源端設置，透過長距離光纖傳輸資料，取代長距離輸送大量電力的模式。
 值得注意的是，台電將AI時代的用電需求分為「製造AI」與「運行AI」兩類。其中「製造AI」方面，包括晶圓製造、記憶體、先進封裝及高階伺服器等AI供應鏈，台電預估我國半導體產業用電將從2026年約520
 
 - 📰 **iThome 科技**
@@ -33,7 +33,7 @@ AI運算需求快速成長，資料中心的選址邏輯也正在改變。過去
 ### 5. [駭客稱利用密碼123456登入丹麥人口統計局系統商的系統](https://www.ithome.com.tw/news/179722)
 
 10月初竊走丹麥880萬人口資料的駭客聲稱，他們以123456這等級密碼就存取了丹麥政府外包商的系統，並成功取得資料。
-丹麥中央人口登記局（Central Population Register，CPR）近日發生資安事故，攻擊者濫用當地服務商的存取權限，取得約880萬名公民的姓名、居住地址，以及身分證號。880萬外洩資訊包含了550萬在世丹麥人的社會安全號碼和地址，以及330萬已故丹麥人的地址。不過，這名人士表示不打算出售這批���料。
+丹麥中央人口登記局（Central Population Register，CPR）近日發生資安事故，攻擊者濫用當地服務商的存取權限，取得約880萬名公民的姓名、居住地址，以及身分證號。880萬外洩資訊包含了550萬在世丹麥人的社會安全號碼和地址，以及330萬已故丹麥人的地址。不過，這名人士表示不打算出售���批資料。
 
 - 📰 **iThome 科技**
 
@@ -109,7 +109,7 @@ SpaceX旗下AI部門SpaceXSI周三（10/14）推出新一代語音模型Grok Voi
 ### 17. [逾400名科學家要求建立國際AI監管機構](https://www.ithome.com.tw/news/179702)
 
 全球453名AI與資安領域科學家周二（10/13）發表公開信，警告AI模型已發生突破沙箱隔離、入侵外部系統的資安事件，呼籲成立國際機構，制定AI安全與隔離技術標準，並建立資安事故強制通報制度，以防止未來發生更嚴重的安全事故。
-連署者包括2018年圖靈獎得主Yoshua Bengio、2024年諾貝爾物理學獎得主Geoffrey Hinton、��州大學柏克萊分校AI學者Stuart Russell、RSA密碼演算法共同發明人Ron Rivest，以及臺灣前數位發展部長唐鳳等。
+連署者包括2018年圖靈獎得主Yoshua Bengio、2024年諾貝爾物理學獎得主Geoffrey Hinton、加州大學柏克萊分校AI學者Stuart Russell、RSA密碼演算法共同發明人Ron Rivest，以及臺灣前數位發展部長唐鳳等。
 
 - 📰 **iThome 科技**
 
@@ -153,7 +153,7 @@ Anthropic近日一項研究發現，未來幾個月內，小型AI模型可能就
 
 ### 24. [烏克蘭接連襲擊Yandex三座資料中心，俄羅斯多項網路服務中斷](https://www.ithome.com.tw/news/179698)
 
-俄羅斯最大網路服務業者之一的Yandex，過去一週內有三座資料中心接連遭到烏克蘭無人機攻擊，造成雲端服務及多項網路服務中斷。依據The Record的報導，這三波攻擊發生在10月7日至8日深夜，10月9日，以及10月11日，分別針對Yandex位於梁贊州（Ryazan）薩索沃（Sasovo）、卡盧加州（Kaluga），與弗拉基米爾州（Vladimir）的資料中心，造��其中兩座設施完全關閉，另一座的基礎設施也受損。
+俄羅斯最大網路服務業者之一的Yandex，過去一週內有三座資料中心接連遭到烏克蘭無人機攻擊，造成雲端服務及多項網路服務中斷。依據The Record的報導，這三波攻擊發生在10月7日至8日深夜，10月9日，以及10月11日，分別針對Yandex位於梁贊州（Ryazan）薩索沃（Sasovo）、卡盧加州（Kaluga），與弗拉基米爾州（Vladimir）的資料中心��造成其中兩座設施完全關閉，另一座的基礎設施也受損。
 
 - 📰 **iThome 科技**
 
@@ -177,7 +177,7 @@ Anthropic近日一項研究發現，未來幾個月內，小型AI模型可能就
 
 ### 28. [AWS Lambda推出網頁 Functions，Node.js網頁服務可直接部署](https://www.ithome.com.tw/news/179686)
 
-AWS Lambda新增網頁 Functions，開發者可直接將使用Express、Hono、Fastify及Next.js等框架開發的Node.js網頁服務部署至Lambda，不必改���成事件處理函式，也無須額外使用轉接工具，新服務支援多請求並行以及跨區域（Region）部署。
+AWS Lambda新增網頁 Functions，開發者可直接將使用Express、Hono、Fastify及Next.js等框架開發的Node.js網頁服務部署至Lambda，不���改寫成事件處理函式，也無須額外使用轉接工具，新服務支援多請求並行以及跨區域（Region）部署。
 
 - 📰 **iThome 科技**
 
@@ -197,14 +197,16 @@ AWS Lambda新增網頁 Functions，開發者可直接將使用Express、Hono、F
 
 ### 更多 AI 新聞 (70則)
 
+- Junji Ito’s Manga Horrors Hit Harder as Live-Action TV (**Wired**)
+- Kids’ Content Is Deeply Broken. A 新 Platform Wants to Fix It (**Wired**)
 - Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy (**Wired**)
 - ‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads (**Wired**)
 - The 最佳 Permanent Outdoor Lights (2026): Govee, Eufy, Cync (**Wired**)
 - Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission (**Wired**)
 - Over $600 Million in Polymarket Election Trades Took Place After Races Ended (**Wired**)
+- Lenovo Coupon Codes: 15% Off in October 2026 (**Wired**)
 - Walmart Promo Codes: 20% Off for October 2026 (**Wired**)
 - Hotels.com Coupon Codes for October 2026 (**Wired**)
-- Lenovo Coupon Codes: 15% Off in October 2026 (**Wired**)
 - ABT Promo Codes &amp; Discounts for October 2026 (**Wired**)
 - Groupon Promo Codes: 60% Off in October 2026 (**Wired**)
 - Design Within Reach Promo Codes: 30% Off | October 2026 (**Wired**)
@@ -216,8 +218,8 @@ AWS Lambda新增網頁 Functions，開發者可直接將使用Express、Hono、F
 - Formlabs Has a 3D Printer for Normies (**Wired**)
 - My Friend Has No Soul (**Wired**)
 - Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast (**Wired**)
-- The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA (**Wired**)
 - JackRabbit MG Cargo Bike Review (2026): Compact and Powerful (**Wired**)
+- The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA (**Wired**)
 - cool kids are writing in all lowercase now. does that make you mad? (**Wired**)
 - Nothing Headphone (1) Pro Review: Studio Quality (**Wired**)
 - I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026) (**Wired**)
@@ -225,16 +227,16 @@ AWS Lambda新增網頁 Functions，開發者可直接將使用Express、Hono、F
 - Cat-Like Whiskers Help Tiny Drones Fly in the Dark (**Wired**)
 - Tesla’s Roadster 2 Is Late—and Entering a Different EV World (**Wired**)
 - AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity (**Wired**)
-- Peacock Promo Codes: 40% Off October 2026 (**Wired**)
 - Expedia Coupons: 40% Off (**Wired**)
 - Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026 (**Wired**)
+- Peacock Promo Codes: 40% Off October 2026 (**Wired**)
 - HBO Max Promo 代碼: 50% Off | October 2026 (**Wired**)
 - Uber Eats Promo Codes: $15 Off│October 2026 (**Wired**)
-- Corsair Discount 代碼: Up to 50% Off for October 2026 (**Wired**)
 - Dell Coupon Codes: 20% Off for October 2026 (**Wired**)
+- Corsair Discount 代碼: Up to 50% Off for October 2026 (**Wired**)
 - Castlery Promo Codes: 15% Off for October 2026 (**Wired**)
-- Tuft &amp; Needle Promo Codes: 30% Off | October 2026 (**Wired**)
 - Walgreens Photo Coupons: Up to 70% Off This October (**Wired**)
+- Tuft &amp; Needle Promo Codes: 30% Off | October 2026 (**Wired**)
 - Dyson Promo Codes: 25% Off in October 2026 (**Wired**)
 - An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office (**Wired**)
 - The 9 最佳 TV Shows to Stream This Month (October 2026) (**Wired**)
@@ -245,8 +247,6 @@ AWS Lambda新增網頁 Functions，開發者可直接將使用Express、Hono、F
 - Apple Reboots Its Smart-Home Strategy With 新 硬體 and a ‘Home Collection’ (**Wired**)
 - The Apple HomeView Is Like a Giant Apple Watch for the Home (**Wired**)
 - 40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026) (**Wired**)
-- 30 最佳 Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés (**Wired**)
-- Wikipedians Believed AI Would Come and Go. They Were Wrong (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
