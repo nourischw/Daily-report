@@ -197,6 +197,8 @@ AWS Lambda新增網頁 Functions，開發者可直接將使用Express、Hono、F
 
 ### 更多 AI 新聞 (70則)
 
+- Upgrade Your Thermostat for Winter With This Ecobee Deal for $120 (**Wired**)
+- White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM (**Wired**)
 - Junji Ito’s Manga Horrors Hit Harder as Live-Action TV (**Wired**)
 - Kids’ Content Is Deeply Broken. A 新 Platform Wants to Fix It (**Wired**)
 - Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy (**Wired**)
@@ -245,8 +247,6 @@ AWS Lambda新增網頁 Functions，開發者可直接將使用Express、Hono、F
 - The 9 最佳 Movies to Stream This Month (October 2026) (**Wired**)
 - The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds (**Wired**)
 - Apple Reboots Its Smart-Home Strategy With 新 硬體 and a ‘Home Collection’ (**Wired**)
-- The Apple HomeView Is Like a Giant Apple Watch for the Home (**Wired**)
-- 40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026) (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
