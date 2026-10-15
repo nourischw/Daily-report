@@ -6,205 +6,210 @@
 
 ### 1. [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 
-- ⭐ 845 分｜💬 212 留言｜👤 jjmaxwell4
+- ⭐ 1398 分｜💬 350 留言｜👤 jjmaxwell4
 
-### 2. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+### 2. [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
 
-- ⭐ 341 分｜💬 138 留言｜👤 gmays
+Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on
 
-### 3. [Tiny Little Office](https://tinylittleoffice.com/)
+- ⭐ 103 分｜💬 55 留言｜👤 0xdeafbeef
 
-- ⭐ 163 分｜💬 24 留言｜👤 donohoe
+### 3. [The cost of getting a 工作 today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)
 
-### 4. [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- ⭐ 28 分｜💬 32 留言｜👤 weli
 
-- ⭐ 85 分｜💬 19 留言｜👤 gmays
+### 4. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 
-### 5. [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
+- ⭐ 626 分｜💬 248 留言｜👤 gmays
 
-- ⭐ 202 分｜💬 62 留言｜👤 emschwartz
+### 5. [Tiny Little Office](https://tinylittleoffice.com/)
+
+- ⭐ 453 分｜💬 73 留言｜👤 donohoe
 
 ### 6. [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
 
-- ⭐ 451 分｜💬 335 留言｜👤 doitLP
+- ⭐ 716 分｜💬 521 留言｜👤 doitLP
 
-### 7. [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+### 7. [Show HN: Indigene – Native plants for where you stand](https://indigene.app/)
 
-- ⭐ 7 分｜💬 0 留言｜👤 g0xA52A2A
+Back when I lived in Central Florida, it took me years to learn what native plants could benefit wildlife and the local ecosystem as I slowly replaced parts of my yard to make it more resilient to dro
 
-### 8. [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
+- ⭐ 28 分｜💬 5 留言｜👤 olivierlacan
 
-- ⭐ 247 分｜💬 270 留言｜👤 hubraumhugo
+### 8. [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 
-### 9. [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
+- ⭐ 214 分｜💬 47 留言｜👤 gmays
 
-- ⭐ 208 分｜💬 30 留言｜👤 allddd
+### 9. [The First Social 網絡: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
 
-### 10. [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
+- ⭐ 23 分｜💬 5 留言｜👤 bookofjoe
 
-- ⭐ 31 分｜💬 9 留言｜👤 dverlaeckt80
+### 10. [Catch a Bird – I made it for my own sanity](https://catchabird.com)
 
-### 11. [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+- ⭐ 189 分｜💬 50 留言｜👤 eduardsik
 
-- ⭐ 842 分｜💬 455 留言｜👤 latexr
+### 11. [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
 
-### 12. [Catch a Bird – I made it for my own sanity](https://catchabird.com)
+- ⭐ 412 分｜💬 384 留言｜👤 hubraumhugo
 
-- ⭐ 16 分｜💬 2 留言｜👤 eduardsik
+### 12. [Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction](https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html)
 
-### 13. [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
+- ⭐ 32 分｜💬 13 留言｜👤 maxall4
 
-- ⭐ 89 分｜💬 17 留言｜👤 adunk
+### 13. [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 
-### 14. [Ask HN: CAD for wood working with 大型語言模型 support?](https://news.ycombinator.com/item?id=50067325)
+- ⭐ 85 分｜💬 25 留言｜👤 kennedn
 
-I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I 構建 things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D 模型 d
+### 14. [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/)
 
-- ⭐ 30 分｜💬 25 留言｜👤 reacharavindh
+- ⭐ 48 分｜💬 16 留言｜👤 rmason
 
-### 15. [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
+### 15. [The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl](https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/)
+
+- ⭐ 40 分｜💬 3 留言｜👤 austinallegro
+
+### 16. [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
+
+- ⭐ 10 分｜💬 9 留言｜👤 pramodbiligiri
+
+### 17. [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
+
+- ⭐ 257 分｜💬 37 留言｜👤 allddd
+
+### 18. [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
+
+This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most impo
+
+- ⭐ 43 分｜💬 14 留言｜👤 andunie
+
+### 19. [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+
+- ⭐ 66 分｜💬 20 留言｜👤 g0xA52A2A
+
+### 20. [Your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
+
+- ⭐ 93 分｜💬 57 留言｜👤 dverlaeckt80
+
+### 21. [David Rudnick on "borderline impossible" process of designing Arsenal typeface](https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026)
+
+- ⭐ 27 分｜💬 11 留言｜👤 droidjj
+
+### 22. [Bookofjoe's Favorite Thing: 最佳 Pill Splitter](https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html)
+
+- ⭐ 3 分｜💬 1 留言｜👤 surprisetalk
+
+### 23. [為什麼 is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
+
+- ⭐ 362 分｜💬 317 留言｜👤 epestr
+
+### 24. [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
+
+- ⭐ 842 分｜💬 646 留言｜👤 sighborg
+
+### 25. [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 
 Hi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple 
 
-- ⭐ 116 分｜💬 31 留言｜👤 thedracle
+- ⭐ 173 分｜💬 39 留言｜👤 thedracle
 
-### 16. [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+### 26. [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
 
-- ⭐ 306 分｜💬 224 留言｜👤 smartmic
+- ⭐ 299 分｜💬 92 留言｜👤 emschwartz
 
-### 17. [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
+### 27. [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 
-- ⭐ 85 分｜💬 20 留言｜👤 thclpr
+- ⭐ 905 分｜💬 536 留言｜👤 latexr
 
-### 18. [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
+### 28. [Show HN: Ito – 構建 Terminal UIs in Lua](https://uji.sh/ito/)
 
-- ⭐ 297 分｜💬 204 留言｜👤 ilamont
+My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our hearts&#x27; desire. So, we started lookin
 
-### 19. [Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs](https://capsem.org/)
+- ⭐ 23 分｜💬 8 留言｜👤 cat-whisperer
 
-- ⭐ 5 分｜💬 1 留言｜👤 madars
+### 29. [Ask HN: CAD for wood working with 大型語言模型 support?](https://news.ycombinator.com/item?id=50067325)
 
-### 20. [Has AI tells](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
+I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I 構建 things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D 模型 d
 
-- ⭐ 87 分｜💬 77 留言｜👤 7777777phil
+- ⭐ 78 分｜💬 72 留言｜👤 reacharavindh
 
-### 21. [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
+### 30. [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 
-- ⭐ 265 分｜💬 114 留言｜👤 sunshowers
-
-### 22. [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
-
-- ⭐ 136 分｜💬 51 留言｜👤 speckx
-
-### 23. [Virtual Oxide Labs: Emulating a Full Oxide Rack](https://oxide.computer/blog/voxel-labs)
-
-- ⭐ 77 分｜💬 7 留言｜👤 tosh
-
-### 24. [Passkeys are not a trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
-
-- ⭐ 504 分｜💬 672 留言｜👤 speckx
-
-### 25. [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
-
-- ⭐ 729 分｜💬 596 留言｜👤 sighborg
-
-### 26. [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/)
-
-Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:
-- One sender. Locks to the first 
-
-- ⭐ 92 分｜💬 61 留言｜👤 edpin2000
-
-### 27. [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
-
-- ⭐ 285 分｜💬 373 留言｜👤 ivewonyoung
-
-### 28. [為什麼 is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
-
-- ⭐ 214 分｜💬 154 留言｜👤 epestr
-
-### 29. [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
-
-- ⭐ 223 分｜💬 71 留言｜👤 coloneltcb
-
-### 30. [Google is silently linking your phone number across all signed-in accounts](https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/)
-
-- ⭐ 396 分｜💬 99 留言｜👤 Brajeshwar
+- ⭐ 159 分｜💬 61 留言｜👤 speckx
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Virtual Oxide Labs: Emulating a Full Oxide Rack
+- Phloem: Git history grown like a slime mold
+- Has AI tells
+- Fancy Curl Sites
+- Passkeys are not a trap
+- Fire at Starlink site in Bulgaria after suspected sabotage in Poland
+- Anthropic's Scion is heavily inspired by Mononoke
 - Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW
-- Webster’s Dictionary: The pleasure of finding things out (2014)
-- Overdose Offsets: 為什麼 Every Bag of Fentanyl I Sell Is Net Life-Positive
+- AI was great until it was not
+- Google is silently linking your phone number across all signed-in accounts
 - Iosevka is an open-source, sans-serif and slab-serif monospace font
-- LittleJS is 2D and 3D now
-- A 新 模型 for 開源: closed to pull requests, open to remix
-- America didn't lose its rare earth industry, it sold it
+- Show HN: I wrote an email app that accepts only one sender per inbox
+- Suicide rates highest ever among middle-aged men
 - The Origin Story of Kid Pix
-- Marshall Islands Stick Chart
-- How I manage persistent Claude 代碼 loops: Spool
-- NVIDIA's first GPU: GeForce 256
-- Show HN: Ask a technical question, get an animated explainer you can interrupt
-- The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)
-- TV4 postpones show after AI 代理 erases edited material
-- Show HN: Graphicle, a Rust port of Graphify with memory for coding agents
-- Running Windows desktop tests from Linux with disposable VMs
 - Gemini 4 Argon
-- Scientists are teaching birds to sing lost songs
-- Smart people don't think others are stupid (2012)
-- Gaming on Linux without cheating
-- Strands Decider: 為什麼 Not an Encoder?
-- Neckbeard – A DevOps/platform/SRE plugin for your 代理
-- Grace Hopper Celebration Cancelled
-- ICE Wants to Use AI to Monitor Detainee Calls and Movements
-- PostEra (YC W20) Is 招聘 AI Researchers for Drug Discovery
-- The Four Colour Theorem: The first time machines mogged mathematicians
-- Show HN: A guided 3D Leonardo da Vinci museum, built in 代碼
+- LittleJS is 2D and 3D now
+- 為什麼 are chip companies allergic to 開源?
+- Making all divisions slower to fix a bug in 0.000000000000000000542% of cases
+- Claude 代碼 Desktop Vulnerability: Preview Pane Data Exfiltration
+- Yandex outage: data shows that instead of going dark, malicious bots moved
+- Show HN: My Terminal Themes 網頁 App
+- Webster’s Dictionary: The pleasure of finding things out (2014)
 - AI is a tool and using it well takes skill
-- 為什麼 do 大型語言模型 pelicans look like this?
-- GLP-1 Drugs Cut Schizophrenia Hospital Visits, Study Finds
-- Strafe: A 新 open-source, E2E Encrypted, and federated alternative to Discord
+- NVIDIA's first GPU: GeForce 256
+- TV4 postpones show after AI 代理 erases edited material
+- America didn't lose its rare earth industry, it sold it
+- Smart people don't think others are stupid (2012)
+- Running Windows desktop tests from Linux with disposable VMs
+- The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)
+- The Four Colour Theorem: The first time machines mogged mathematicians
+- Grace Hopper Celebration Cancelled
+- Gaming on Linux without cheating
+- Something is falling apart at GNOME, and it's not subtle
+- PostEra (YC W20) Is 招聘 AI Researchers for Drug Discovery
+- Neckbeard – A DevOps/platform/SRE plugin for your 代理
+- Scientists are teaching birds to sing lost songs
 - Ledger confirms spy chip implant behind wallet crypto thefts
-- What agents mean for Rust (and vice versa)
-- Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges
-- Chaos ensues when AI interviewer meets AI interviewee
-- I let an AI run my startup for a week
-- AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
-- Anthropic revenue jumps to $16.8B in third quarter
-- Show HN: Timur's Chess – A 14th century chess variant with giraffes
-- Oldest shipwreck found off coast of Turkey
-- GitHub Actions has added lock files
+- Creating a Garmin "MCP"
+- Marshall Islands Stick Chart
+- Europe's reliance on US gas is as serious a risk as Russian gas used to be
+- Strafe: A 新 open-source, E2E Encrypted, and federated alternative to Discord
+- Banks are now trying to offload the AI data center debt they just underwrote
+- How I manage persistent Claude 代碼 loops: Spool
+- Show HN: A guided 3D Leonardo da Vinci museum, built in 代碼
+- Teachers Using AI Say It Frees Up Time for What Matters Most
+- Hinton: We're creating alien beings. I'm willing to be selfish and choose humans
+- Flock CEO: If you want a crime-free society, be ready to give up your privacy
+- Strands Decider: 為什麼 Not an Encoder?
+- Show HN: Ask a technical question, get an animated explainer you can interrupt
 - Redesigning source control at Anthropic
-- Same 工作, Two Engines: InnoDB and Iceberg Internals
-- Expedia Rigs Travel Markets and Raises Your Hotel Price
-- Bank of America added 1k contractors to patch AI-exposed 軟體 flaws
-- The Genealogy of Eliza
+- KDE Plasma 6.8 發布 to celebrate 30 years of project
+- Show HN: Graphicle, a Rust port of Graphify with memory for coding agents
 - Apple HomeView
-- Sound (2022)
 - 11 year old unsoundness bugs found in Rust borrow checker
+- What agents mean for Rust (and vice versa)
+- AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
 - Show HN: Guitoro, a virtual guitar you strum with your keyboard
-- Felix Rieseberg Homepage
-- How tabasco became the hot sauce
-- Sally Rooney can no longer sell books in UK due to Palestine Action support
-- Kcgi – minimal CGI and FastCGI library for C/C++
-- Is 'Attention' the Essence of Intelligence?
-- Bank of America hired 1000 contractors to patch 軟體 flaws exposed by Mythos
-- 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)
+- I let an AI run my startup for a week
+- Same 工作, Two Engines: InnoDB and Iceberg Internals
 - Firefox Enterprise
-- Pulsar at ESUG 2026 (新 Smalltalk IDE)
+- Sound (2022)
+- The Book of Debugging
+- Felix Rieseberg Homepage
+- Is 'Attention' the Essence of Intelligence?
+- Is this the 最佳 推論 for agents?
 - The United Kingdom generates less electricity per person than in the 1970s
-- AlphaNIST
-- DHS Inspector General: TSA Is Not Safeguarding Passenger Facial Recognition Data
+- 為什麼 do 大型語言模型 pelicans look like this?
+- 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)
 - Thunderbird for iOS
-- Maybe a better way to track the release history of a Git repo
-- Arena Allocators in C
-- NVIDIA reportedly halts GeForce RTX 5090 production
-- Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
-- The Aaronson Oracle
-- OpenAI 工程師 arrested in bugging of executive conference room
-- Are Harnesses Worth the Cost?
+- Kcgi – minimal CGI and FastCGI library for C/C++
 
 
 ---
