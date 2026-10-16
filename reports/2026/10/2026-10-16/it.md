@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [Meta’s 新 commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+### 1. [I Love 軟體 Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 
-- ⭐ 306 分｜💬 114 留言｜👤 0in
+- ⭐ 169 分｜💬 110 留言｜👤 speckx
 
-### 2. [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
+### 2. [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 
-- ⭐ 322 分｜💬 107 留言｜👤 johnnyApplePRNG
+- ⭐ 44 分｜💬 5 留言｜👤 rs_rs_rs_rs_rs
 
-### 3. [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+### 3. [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
 
-https:&#x2F;&#x2F;dev.Meta.AI&#x2F;resources&#x2F;blog&#x2F;構建-with-muse-spark-ope...https:&#x2F;&#x2F;huggingface.co&#x2F;Meta-models&#x2F;Muse-Spark-Open-816B-A42Bhttps:&#x2F;&#x2F;9to5mac.com&#x
+- ⭐ 54 分｜💬 17 留言｜👤 antipaul
 
-- ⭐ 822 分｜💬 411 留言｜👤 bigwheels
+### 4. [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 
-### 4. [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)
+I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing 代碼, with results from the flagship models of OpenAI, Anthropic, Google, and Muse
 
-- ⭐ 42 分｜💬 22 留言｜👤 rohanm93
+- ⭐ 41 分｜💬 17 留言｜👤 __cayenne__
 
-### 5. [新 York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban)
+### 5. [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
 
-- ⭐ 43 分｜💬 36 留言｜👤 1659447091
+- ⭐ 14 分｜💬 0 留言｜👤 wawayanda
 
-### 6. [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
+### 6. [Gyroscopes Got So Small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)
 
-- ⭐ 17 分｜💬 2 留言｜👤 mikk14
+- ⭐ 41 分｜💬 9 留言｜👤 surprisetalk
 
-### 7. [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+### 7. [如何 Formalize All of Mathematics](https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/)
 
-- ⭐ 163 分｜💬 54 留言｜👤 emot
+- ⭐ 27 分｜💬 14 留言｜👤 practal
 
-### 8. [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
+### 8. [Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year 測試 [video]](https://www.youtube.com/watch?v=eF6bMSjPepM)
 
-- ⭐ 20 分｜💬 0 留言｜👤 surprisetalk
+- ⭐ 37 分｜💬 15 留言｜👤 zdw
 
-### 9. [神經網絡 networks are clean](https://already-clean.goodfire.com/)
+### 9. [RFC8950: Announce IPv4 with an IPv6 next-hop](https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/)
 
-https:&#x2F;&#x2F;twitter.com&#x2F;nickcammarata&#x2F;status&#x2F;2110757819427574056
+- ⭐ 24 分｜💬 3 留言｜👤 porridgeraisin
 
-- ⭐ 696 分｜💬 261 留言｜👤 themgt
+### 10. [Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
 
-### 10. [The Folders 程式設計 Language](https://danieltemkin.com/esolangs/folders)
+- ⭐ 194 分｜💬 80 留言｜👤 aragonite
 
-- ⭐ 69 分｜💬 11 留言｜👤 gurst
+### 11. [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
 
-### 11. [Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
+- ⭐ 660 分｜💬 207 留言｜👤 johnnyApplePRNG
 
-- ⭐ 10 分｜💬 0 留言｜👤 aragonite
+### 12. [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
 
-### 12. [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+- ⭐ 86 分｜💬 120 留言｜👤 ChrisArchitect
 
-- ⭐ 492 分｜💬 311 留言｜👤 BrunoBernardino
+### 13. [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/)
 
-### 13. [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
+- ⭐ 11 分｜💬 3 留言｜👤 ohjeez
 
-- ⭐ 616 分｜💬 240 留言｜👤 FinalDestiny
+### 14. [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)
 
-### 14. [新 Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+- ⭐ 4 分｜💬 0 留言｜👤 relatedcode
 
-- ⭐ 299 分｜💬 193 留言｜👤 johnbehnke
+### 15. [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
 
-### 15. [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
+- ⭐ 110 分｜💬 18 留言｜👤 mikk14
 
-- ⭐ 141 分｜💬 101 留言｜👤 giuliomagnifico
+### 16. [Meta’s 新 commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 
-### 16. [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
+- ⭐ 424 分｜💬 152 留言｜👤 0in
 
-- ⭐ 156 分｜💬 35 留言｜👤 chanana
+### 17. [What was a Token Ring 網絡?](https://dfarq.homeip.net/what-was-a-token-ring-network/)
 
-### 17. [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
+- ⭐ 18 分｜💬 8 留言｜👤 ibobev
 
-- ⭐ 471 分｜💬 201 留言｜👤 zlandes86
+### 18. [AI-assisted PCB design for KiCad 10](https://github.com/mixelpixx/Konnect)
 
-### 18. [BIPM decides to stop adding leap seconds to UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
+- ⭐ 80 分｜💬 25 留言｜👤 ofrzeta
 
-- ⭐ 184 分｜💬 89 留言｜👤 gliffie
+### 19. [如何 make 系統 1 LLMs show 系統 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113)
 
-### 19. ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)
+- ⭐ 7 分｜💬 2 留言｜👤 porridgeraisin
 
-- ⭐ 146 分｜💬 97 留言｜👤 cvoss
+### 20. [MS Paint Adds Freeform Rotation (2026)](https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/)
 
-### 20. [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+- ⭐ 28 分｜💬 21 留言｜👤 telestew
 
-- ⭐ 351 分｜💬 157 留言｜👤 speckx
+### 21. [Bark: The Toll-Free BBS for 90s Teens](https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens)
 
-### 21. [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
+- ⭐ 19 分｜💬 5 留言｜👤 bityard
 
-- ⭐ 88 分｜💬 15 留言｜👤 jcbhmr
+### 22. [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
 
-### 22. [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
+- ⭐ 100 分｜💬 19 留言｜👤 surprisetalk
 
-- ⭐ 279 分｜💬 115 留言｜👤 rbanffy
+### 23. [The Folders 程式設計 Language](https://danieltemkin.com/esolangs/folders)
 
-### 23. [Krea 3 – An image 模型 built for editing at scale](https://www.krea.ai/krea-3)
+- ⭐ 166 分｜💬 30 留言｜👤 gurst
 
-- ⭐ 313 分｜💬 99 留言｜👤 dvrp
+### 24. [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
 
-### 24. [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
+- ⭐ 203 分｜💬 86 留言｜👤 emot
 
-- ⭐ 49 分｜💬 16 留言｜👤 signa11
+### 25. [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/)
 
-### 25. [為什麼 I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+- ⭐ 8 分｜💬 1 留言｜👤 stephenchung
 
-- ⭐ 164 分｜💬 57 留言｜👤 GaryBluto
+### 26. [新 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 
-### 26. [Libreboot 26.10 "Ominous Olive" 發布 with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
+- ⭐ 73 分｜💬 48 留言｜👤 andrewl
 
-- ⭐ 290 分｜💬 177 留言｜👤 iamnothere
+### 27. [Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]](https://www.youtube.com/watch?v=eqOfmtTJD1A)
 
-### 27. [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
+- ⭐ 20 分｜💬 1 留言｜👤 skadamat
 
-- ⭐ 224 分｜💬 172 留言｜👤 mhb
+### 28. [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
 
-### 28. [Major ICQ 安全 hole (1998)](https://opennet.ru/base/maillist/169.txt.html)
+- ⭐ 178 分｜💬 128 留言｜👤 giuliomagnifico
 
-- ⭐ 91 分｜💬 53 留言｜👤 sysoleg
+### 29. [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
 
-### 29. [Using AI to reverse 工程師 硬體](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
+- ⭐ 220 分｜💬 59 留言｜👤 chanana
 
-- ⭐ 196 分｜💬 178 留言｜👤 ErenayDev
+### 30. [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 
-### 30. [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
-
-- ⭐ 61 分｜💬 54 留言｜👤 signa11
+- ⭐ 605 分｜💬 385 留言｜👤 BrunoBernardino
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- BIPM decides to stop adding leap seconds to UTC
+- Someone on Torrent Sites Kept Fucking with My Sonarr
+- 新 Withings Users Must Pay $99/Year for Apple Health Syncing
+- Muse Spark Open
+- Tesla Roadster: It Flies, Flips, and Hits 0-60 in 0.81s
+- Seized 伺服器 Autistici/Inventati (A/I) in Amsterdam for U.S. authorities
+- My old 工作 feels distant now
+- iPhone Duo sells out now backordered until next year
+- Comparing Chromium Development at Google and Igalia
+- 為什麼 I Wrote PGP (1991, revised 1999)
+- Thank You, Deno
+- Qualcomm Legally Proves Arm Breached Its License, Wins $2
+- $137M in A.I.-Generated Ads Flood the Midterms
+- 神經網絡 networks are clean
+- Major ICQ 安全 hole (1998)
 - BeBox is a Haiku 應用 that emulates Be Inc.'s BeBox
-- Japanese people still aren't having sex. And nobody knows 為什麼
-- Non-Determinism Doesn't Matter
-- The 8-mile hole in a Hawaii national park that no one can explain
+- I'm Fucking Done with Slop
+- Welcome Beam: a 501B open 模型 you can own, customize, and scale
 - The engineering that allows articulated buses to bend
-- E Ink Kaleido 4
-- Casio F-91W using Statecharts
+- Jev meets the Trolley Problem
+- Wayland desktop for Linux with skeuomorphic design
+- '500-hour' Order of the Sinking Star is as complex and exhausting as it sounds
 - AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware
-- Geoffrey Hinton: 'We're creating alien beings. I'm willing to choose humans'
-- 4 Years of Ludicon
-- Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing
-- An Apology
+- The 8-mile hole in a Hawaii national park that no one can explain
 - Things to know when you get cancer
-- Aidlc: Adaptive workflow steering rules for AI coding agents
-- Self-Evolving 代理 Harness
-- The Thinking Leakage in Reinforcement Learning for LLMs
-- Simons Foundation 推出 $15M effort to help mathematicians navigate AI era
+- Flying Car Practical Tech
+- E Ink Kaleido 4
+- Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing
+- Non-Determinism Doesn't Matter
+- Ask HN: Thoughts on 招聘 初級 engineers in 2026?
+- Men with Queer Nerves: The Jumping Frenchmen of Maine
+- An Apology
+- Celebrating 70 Years of Fortran
 - C++26 Contracts: 介紹 Preconditions and Postconditions
-- Tesla's 新 Roadster makes a flying debut, hitting 60 MPH in under a second
-- MuscleMemory: Open-source procedural memory for AI agents
+- Simons Foundation 推出 $15M effort to help mathematicians navigate AI era
+- Krea 3 – An image 模型 built for editing at scale
+- 新 York City's iconic horse-drawn carriages expected to take their last trot
 - The First Social 網絡: In rural Argentina residents send messages w AM radio
+- Queensland tests acoustic alarms to ward off whales from shark nets
+- Geoffrey Hinton: 'We're creating alien beings. I'm willing to choose humans'
+- Casio F-91W using Statecharts
+- Aidlc: Adaptive workflow steering rules for AI coding agents
+- Libreboot 26.10 "Ominous Olive" 發布 with UEFI, Chromebook support
+- Using AI to reverse 工程師 硬體
+- Self-Evolving 代理 Harness
 - I know 為什麼 the mathematicians weep
+- Delta’s Biscoff cookies were supposed to be temporary
+- 4 Years of Ludicon
 - Steam Client is now faster than Epic's 新 vibe coded launcher
+- OpenCode 2.0
+- PostEra (YC W20) Is 招聘 AI Researchers for Drug Discovery
+- The insider trading you're allowed to do
+- Prompt injection in HTTP headers: what 217M 網頁 responses show
+- Show HN: Proa – A Rust 網頁 framework with fast SSR and multi-target rendering
+- It took me nine years to hack my Xbox 360
+- Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction
+- Show HN: Unfenced – Land for sale that borders public land
+- Show HN: Indigene – Native plants for where you stand
+- NVIDIA RTX Pro 4500 Blackwell 伺服器: L40S Throughput at 165W in a Single Slot
+- Do dentists know what they're doing?
+- Speculative Sauropods
+- Game of Life – But Multiplayer, Hypermedia and Python
+- Show HN: A WebGL hommage to PS1 demo discs
+- Tiny Little Office
+- Wanted to download an ISO, ended up writing a kernel exploit
+- Last rites for Gentoo's Chromium package
+- The Thinking Leakage in Reinforcement Learning for LLMs
+- Donaldson Futuro House in Idyllwild, California, USA
 - Local and Distributed Large 大型語言模型 推論 with MLX and RDMA on Mac Studio
 - 3DCodeVerse
-- Lightpanda headless browser written in Zig
-- Speculative Sauropods
-- Tesla Roadster
-- Show HN: Proa – A Rust 網頁 framework with fast SSR and multi-target rendering
-- Prompt injection in HTTP headers: what 217M 網頁 responses show
-- Game of Life – But Multiplayer, Hypermedia and Python
-- Show HN: Unfenced – Land for sale that borders public land
-- OpenCode 2.0
-- Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction
-- It took me nine years to hack my Xbox 360
-- Tesla Roadster
-- Show HN: Indigene – Native plants for where you stand
-- Wanted to download an ISO, ended up writing a kernel exploit
-- Frontier Pre-訓練 at Microsoft AI
-- Pornography showing strangulation and incest to be banned in UK from November
-- Greece drafts law requiring data centers source 60% of power from renewables
-- Tiny Little Office
-- Do dentists know what they're doing?
-- Donaldson Futuro House in Idyllwild, California, USA
-- Sergey Brin says Google's AI models are reaching recursive self-improvement
-- Coconuts in Medieval Britain
-- The largest eagle hunted unlike any other bird of prey (2021)
-- Show HN: Petal, open-source CoScreen/ScreenHero finally free
-- The Haunted Toys R Us
-- GridSnap – an open-source Divvy-style window snapper for macOS
-- Americans' social activity has steeply declined in the past 30 years
-- Rediscovering the Romance of Travel Clocks
-- Creating a Garmin "MCP"
-- More on Anthropic's Scion ripping off Mononoke
-- 68k Macintosh Ports
-- Bringing the magic: Google breaks open a bottleneck in quantum computing
-- Your C is not standard C
-- AI is a tool and using it well takes skill
-- Gemini 4 Argon
-- Show HN: My Terminal Themes 網頁 App
-- Containment and monitoring failures are to blame for AI hacking reports: experts
-- Tracing Mystery 網絡 Traffic with eBPF Across HRT's Global Compute Cluster
-- Show HN: Ito – 構建 Terminal UIs in Lua
-- Has AI tells
-- Passkeys are not a trap
-- Ask HN: CAD for wood working with 大型語言模型 support?
-- The Double Headed Stack Allocator
-- Iosevka is an open-source, sans-serif and slab-serif monospace font
-- Catch a Bird – I made it for my own sanity
-- Submarine cable resilience
 
 
 ---
