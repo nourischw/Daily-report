@@ -201,6 +201,11 @@ Google 雲端及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖�
 
 ### 更多 AI 新聞 (70則)
 
+- Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds (**Wired**)
+- Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists (**Wired**)
+- Here’s Exactly How Tesla Made Its 新 230-Mph Car ‘Fly’ (**Wired**)
+- Razer Barracuda V2 Pro Review: A Gaming Headset for the Office (**Wired**)
+- Thank Gen Z for the ‘Girls’ Revival (**Wired**)
 - Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push (**Wired**)
 - Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’ (**Wired**)
 - Microsoft Surface Laptop Ultra Review: The First Real AI PC (**Wired**)
@@ -246,11 +251,6 @@ Google 雲端及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖�
 - cool kids are writing in all lowercase now. does that make you mad? (**Wired**)
 - Nothing Headphone (1) Pro Review: Studio Quality (**Wired**)
 - I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026) (**Wired**)
-- Men Can’t Stop Faking How Much They Know About AI (**Wired**)
-- Cat-Like Whiskers Help Tiny Drones Fly in the Dark (**Wired**)
-- Tesla’s Roadster 2 Is Late—and Entering a Different EV World (**Wired**)
-- AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity (**Wired**)
-- Peacock Promo Codes: 40% Off October 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
