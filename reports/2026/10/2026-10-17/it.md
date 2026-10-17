@@ -4,206 +4,210 @@
 
 ---
 
-### 1. [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+### 1. [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 
-- ⭐ 400 分｜💬 186 留言｜👤 theanonymousone
+https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4
 
-### 2. [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
+- ⭐ 93 分｜💬 8 留言｜👤 alkyon
 
-- ⭐ 66 分｜💬 22 留言｜👤 xbmcuser
+### 2. [Gold is now the 熱門 U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
 
-### 3. [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
+- ⭐ 68 分｜💬 22 留言｜👤 iamnothere
 
-- ⭐ 16 分｜💬 4 留言｜👤 crescit_eundo
+### 3. [Source 代碼 of the Estonian online voting 系統](https://github.com/valimised/ivxv)
 
-### 4. [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
+- ⭐ 57 分｜💬 19 留言｜👤 theanonymousone
 
-https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarinehttps:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232
+### 4. [The Commodore 64 硬體 simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 
-- ⭐ 314 分｜💬 100 留言｜👤 i_rush_carriers
+- ⭐ 65 分｜💬 11 留言｜👤 antirez
 
-### 5. [Tesla Roadster](https://www.tesla.com/roadster)
+### 5. [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 
-https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qghttps:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215
+- ⭐ 135 分｜💬 27 留言｜👤 plaguna
 
-- ⭐ 1524 分｜💬 2768 留言｜👤 shekhar101
+### 6. [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 
-### 6. [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid)
+- ⭐ 193 分｜💬 55 留言｜👤 crescit_eundo
 
-- ⭐ 10 分｜💬 0 留言｜👤 Thevet
+### 7. [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
 
-### 7. [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
+- ⭐ 99 分｜💬 65 留言｜👤 farlight
 
-- ⭐ 15 分｜💬 0 留言｜👤 ibobev
+### 8. [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
-### 8. [Show HN: Llmspeed – feel how fast a local 大型語言模型 runs before you buy the 硬體](https://llmspeed.dev/)
+https:&#x2F;&#x2F;API-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;https:&#x2F;&#x2F;openrouter.AI&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017
 
-- ⭐ 160 分｜💬 52 留言｜👤 albinstman
+- ⭐ 536 分｜💬 492 留言｜👤 theykk
 
-### 9. [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+### 9. [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 
-- ⭐ 302 分｜💬 117 留言｜👤 theykk
+- ⭐ 36 分｜💬 3 留言｜👤 sohkamyung
 
-### 10. [Llama.cpp on a jailbroken PS5: run any GGUF 模型 natively on the console](https://github.com/cobanov/PS5LM)
+### 10. [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
 
-- ⭐ 324 分｜💬 78 留言｜👤 Anon84
+- ⭐ 60 分｜💬 7 留言｜👤 dchest
 
-### 11. [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
+### 11. [tsc-ts: TypeScript written in TypeScript](https://github.com/vercel-labs/tsc-ts)
 
-- ⭐ 375 分｜💬 85 留言｜👤 speckx
+- ⭐ 33 分｜💬 29 留言｜👤 tosh
 
-### 12. [Recipes Are Moving from Maven Central to the 代碼 Genome Project](https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module)
+### 12. [Artie (YC S23) Is 招聘 Enterprise AES and 資深 Engineers](https://www.artie.com/careers)
 
-- ⭐ 29 分｜💬 5 留言｜👤 javahippie
+- ⭐ 1 分｜💬 0 留言｜👤 j-cheong
 
-### 13. [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+### 13. [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
 
-https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;
+- ⭐ 253 分｜💬 49 留言｜👤 pranshuchittora
 
-- ⭐ 941 分｜💬 342 留言｜👤 ahlCVA
+### 14. [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 
-### 14. [Intuitive concurrent 程式設計 in any language](https://www.lf-lang.org/)
+- ⭐ 369 分｜💬 210 留言｜👤 xbmcuser
 
-- ⭐ 88 分｜💬 22 留言｜👤 mpweiher
+### 15. [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 
-### 15. [The cryptoint library (2025) [pdf]](https://cr.yp.to/papers/cryptoint-20250424.pdf)
+- ⭐ 12 分｜💬 1 留言｜👤 tosh
 
-- ⭐ 11 分｜💬 0 留言｜👤 akkartik
+### 16. [AI Can Write the 代碼. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
 
-### 16. [Orbital Angular Momentum of Light](https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light)
+- ⭐ 15 分｜💬 20 留言｜👤 mmarvramm
 
-- ⭐ 21 分｜💬 4 留言｜👤 peter_d_sherman
+### 17. [Vintage Cassettes: 1963-2010](http://vintagecassettes.com/)
 
-### 17. [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
+- ⭐ 26 分｜💬 2 留言｜👤 austinallegro
 
-- ⭐ 186 分｜💬 53 留言｜👤 gmays
+### 18. [Microsoft and CMU Team Up to Train Early 職業 軟體 Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
 
-### 18. [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
+- ⭐ 5 分｜💬 0 留言｜👤 azhenley
 
-- ⭐ 337 分｜💬 169 留言｜👤 antipaul
+### 19. [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
 
-### 19. [MapQuest will now show you where Flock cameras are in your neighborhood](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/)
+- ⭐ 19 分｜💬 0 留言｜👤 luu
 
-- ⭐ 34 分｜💬 2 留言｜👤 bookofjoe
+### 20. [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
 
-### 20. [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
+- ⭐ 100 分｜💬 6 留言｜👤 ibobev
 
-- ⭐ 243 分｜💬 219 留言｜👤 7402
+### 21. [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 
-### 21. [JPEG XL vs. AVIF for 網頁 use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
+https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932
 
-- ⭐ 292 分｜💬 192 留言｜👤 farlight
+- ⭐ 444 分｜💬 104 留言｜👤 speckx
 
-### 22. [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
+### 22. [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
 
-- ⭐ 158 分｜💬 33 留言｜👤 pretext
+- ⭐ 38 分｜💬 8 留言｜👤 celphase
 
-### 23. [0/1 Knapsack Problem in PyTorch](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
+### 23. [Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang](https://github.com/Kapendev/parin)
 
-- ⭐ 32 分｜💬 5 留言｜👤 yu3zhou4
+- ⭐ 13 分｜💬 2 留言｜👤 Kapendev
 
-### 24. [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+### 24. [A skeptic's first contact with Kubernetes (2024)](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 
-- ⭐ 312 分｜💬 181 留言｜👤 wetwater
+- ⭐ 39 分｜💬 2 留言｜👤 pmoriarty
 
-### 25. [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
+### 25. [Espresso machine can run Doom](https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/)
 
-- ⭐ 97 分｜💬 48 留言｜👤 zdw
+- ⭐ 14 分｜💬 4 留言｜👤 speckx
 
-### 26. [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
+### 26. [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)
 
-- ⭐ 146 分｜💬 29 留言｜👤 ibobev
+Hi HN,I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator.The 
 
-### 27. [Flexport Is 招聘 a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
+- ⭐ 72 分｜💬 10 留言｜👤 joakimeriksson
 
-- ⭐ 1 分｜💬 0 留言｜👤 thedogeye
+### 27. [A Tudor life in the time of plague (2020)](https://www.historytoday.com/archive/history-matters/tudor-life-time-plague)
 
-### 28. [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
+- ⭐ 39 分｜💬 3 留言｜👤 pepys
 
-- ⭐ 552 分｜💬 488 留言｜👤 speckx
+### 28. [Show HN: Things to Do API](https://thingstodoapi.com/)
 
-### 29. [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
+I built an API&#x2F;mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area.I&#x27;ve been building a bunch of consumer apps lately around personalization and 
 
-- ⭐ 78 分｜💬 10 留言｜👤 saviorand
+- ⭐ 14 分｜💬 3 留言｜👤 invalidmonk
 
-### 30. [How the Claude 代碼 team does 代碼 review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+### 29. [Show HN: Llmspeed – feel how fast a local 大型語言模型 runs before you buy the 硬體](https://llmspeed.dev/)
 
-- ⭐ 410 分｜💬 386 留言｜👤 pretext
+- ⭐ 215 分｜💬 68 留言｜👤 albinstman
+
+### 30. [Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA](https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da)
+
+- ⭐ 3 分｜💬 0 留言｜👤 healsdata
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- A story of WiFi secrets, UART lockdowns and a damaged flash memory chip
-- 新 'super ice' 10 times stronger, bringing it close to the strength of concrete
-- Development of Norton Commander
-- I love 軟體 rendering
-- Show HN: Gemini 4 Argon plays StarCraft
-- Stolen Renoir paintings found hidden, and damaged, behind cinder block wall
-- Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD
-- Show HN: Wonderhop – A daily game: guess what most people say, or what none do
-- Wireless magnetic millirobots that deliver medicine inside the beating heart
-- Yet another way to invoke functions without parentheses
-- What was a Token Ring 網絡?
-- Waymo in Toronto
-- C++26: The 新 Debugging Header
-- /dev/null: social 網絡 for developers
-- What on Earth Is Dekton?
-- The Economic Complexity of the Western Roman Empire
-- GifCities
-- My old 工作 feels distant now
-- Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]
-- AI-assisted PCB design for KiCad 10
-- Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year 測試 [video]
-- 如何 Formalize All of Mathematics
-- Anthropic assigned highest junk credit rating in June
-- $50k First Letters Prize Awarded for PHerc 343
-- RFC8950: Announce IPv4 with an IPv6 next-hop
-- Muse Spark Open
-- Making 1,750 programmable PCB badges for Canada's biggest hackathon
-- Compiler bootstrapping depends on more than you might think
-- Self-hosted infrastructure with Incus OS
-- '500-hour' Order of the Sinking Star is as complex and exhausting as it sounds
-- The Folders 程式設計 Language
-- Meta’s 新 commercial terms will allow the scraping of news sites: experts
-- PGO or not PGO this is the dilemma. Step 2
-- Show HN: Fakeipedia – Wikipedia for worlds that don't exist
-- Any window from your Mac, on your iPhone and iPad
-- I never authorized an integration that scans my secrets
-- 如何 make 系統 1 LLMs show 系統 2 competencies?
-- "In every study that considered the question"
-- Things to know when you get cancer
-- Two-Stack Sliding-Window Aggregation
-- Commodore 64 硬體 Simulator
-- Show HN: rStation – A shared research lab for your AI agents
-- We Still Use Paper
-- Coconuts in Medieval Britain (2015)
-- Gnome OS Preview
-- E Ink Kaleido 4
-- Brax Wink. The most private 行動 phone. Modular. 開源
-- 神經網絡 networks are clean
+- The future of 程式設計 (1982)
+- The First Candid
+- MapQuest will now show you where Flock cameras are in your neighborhood
 - Tell HN: Remember to migrate away from .name domain
-- US Rep 宣布 Congressional Legislation to Protect Video Game Ownership
-- A skeptic's first contact with Kubernetes (2024)
-- A week on the farm with Dylan Araps
-- California is building a $400M shield for Yosemite's most dangerous highway
-- The Fatal Flaw of 911
-- AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware
-- Show HN: Stoke Money – Personal finance app built around a cash flow forecast
-- Postgres 19 delayed after AI reviewers find more bugs than humans can fix
-- Last rites for Gentoo's Chromium package
-- Jev meets the Trolley Problem
-- Show HN: Online Piano – Play a Free Virtual Piano Keyboard
-- Show HN: Right-click any log line to see its call stack in VS 代碼
-- Wayland desktop for Linux with skeuomorphic design
-- Bark: The Toll-Free BBS for 90s Teens
-- MS Paint Adds Freeform Rotation (2026)
-- Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing
-- The engineering that allows articulated buses to bend
-- 新 York City’s horse-drawn carriages expected to take their last trot
-- Thank You, Deno
-- Comparing Chromium Development at Google and Igalia
-- BeBox is a Haiku 應用 that emulates Be Inc.'s BeBox
+- Llama.cpp on a jailbroken PS5: run any GGUF 模型 natively on the console
+- Israeli settlers attack European diplomats in the West Bank
+- The history of development of Norton Commander (2011)
+- What changes when your search index lives on S3?
+- A story of WiFi secrets, UART lockdowns and a damaged flash memory chip
+- 0/1 Knapsack Problem in PyTorch
+- Show HN: I reverse engineered serum 2 and 構建 an 開源 alternative
+- Claude reveals ECDSA curve origins
+- "Tame" boar and deer are instinctively adapting to the wolf in the Netherlands
+- GLP-1 may slow biological aging
+- Ultramarine 1 Flash
+- FLUX 3 Image Klein
+- Intuitive concurrent 程式設計 in any language
+- Amazon uses AI to monitor union risk in UK warehouses
+- OpenAI discloses four more rogue incidents
+- Tesla Roadster
+- eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear
+- We still use paper
+- Israel makes propaganda video featuring AI generated IAMDDB without her consent
+- JPEG XL vs. AVIF for 網頁 use-cases
+- Designing more efficient quantum circuits with Claude
+- The cryptoint library (2025) [pdf]
+- Recipes Are Moving from Maven Central to the 代碼 Genome Project
+- The origins of Stand-up comedy
+- Canadian AI company turns away from U.S. government work amid trade tensions
+- University of Leicester to make redundant all pure math professors (2021)
+- When No ID Means No Internet
+- Nine-Inch Snails
+- Monte-Carlo Simulations
+- 90% of US working hours are spent on tasks not covered well by AI benchmarks
+- I built the RealWorld app in Lean 4
+- The Altair 8800 Reborn
+- I love 軟體 rendering
+- How the Claude 代碼 team does 代碼 review
+- 新 'super ice' 10 times stronger, bringing it close to the strength of concrete
+- Israeli settlers attack European diplomatic cars in West Bank beat French mayor
+- Stolen Renoir paintings found hidden, and damaged, behind cinder block wall
+- 800k involved in nationwide protests in France over rising cost of living
+- Show HN: Gemini 4 Argon plays StarCraft
+- Show HN: Wonderhop – A daily game: guess what most people say, or what none do
+- Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD
+- Yet another way to invoke functions in JavaScript without parentheses
+- What was a Token Ring 網絡?
+- Wireless magnetic millirobots that deliver medicine inside the beating heart
+- JetBrains Junie Local: An 代理 you own, not one you rent
+- Microsoft Teams is a red flag
+- My old 工作 feels distant now
+- Waymo in Toronto
+- AI lab offers free plumbing and HVAC repairs to train AI robots
+- RFC8950: Announce IPv4 with an IPv6 next-hop
+- C++26: The 新 Debugging Header
+- The Economic Complexity of the Western Roman Empire
+- Apple ML Research: Muse Spark Open with MLX on Mac Studio
+- What on Earth Is Dekton?
+- Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]
+- /dev/null: social 網絡 for developers
+- Commodore 64 硬體 Simulator
+- KDE Plasma 6.8 – 30th Anniversary Edition
+- 為什麼 do computers/phones have a restart option along with the power off option?
+- GifCities
+- Butlerian Jihad
+- Implant can restore sight for patients with macular degeneration
+- AI-assisted PCB design for KiCad 10
+- 如何 Formalize All of Mathematics
+- Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year 測試 [video]
+- Data centers account for a third of Dutch electricity grid waiting list
 
 
 ---
