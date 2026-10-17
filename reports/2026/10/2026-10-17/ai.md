@@ -201,6 +201,11 @@ Google 雲端及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖�
 
 ### 更多 AI 新聞 (70則)
 
+- Encryption Is Getting Squeezed From All Sides (**Wired**)
+- The 最佳 LED Grow Lights for Houseplants This Winter (2026) (**Wired**)
+- These 12 Automatic Cat Feeders Were the 最佳 We Tested in 2026 (**Wired**)
+- HTC Made Smart Glasses That Are Way More Private (**Wired**)
+- Don’t Let a Crypto Inheritance Get Stuck on the Blockchain (**Wired**)
 - Microplastics React With Water, a 新 Study Says. That’s a Problem for Biology (**Wired**)
 - 為什麼 AI Isn’t Ready to Tackle Our Convoluted Genomes (**Wired**)
 - The Leap Second Is No More (**Wired**)
@@ -246,11 +251,6 @@ Google 雲端及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖�
 - AI Came for Math. Now It’s Chasing the Rest of Science (**Wired**)
 - Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies (**Wired**)
 - ‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a 新 Comic on the Way (**Wired**)
-- Formlabs Has a 3D Printer for Normies (**Wired**)
-- My Friend Has No Soul (**Wired**)
-- Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast (**Wired**)
-- JackRabbit MG Cargo Bike Review (2026): Compact and Powerful (**Wired**)
-- The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
