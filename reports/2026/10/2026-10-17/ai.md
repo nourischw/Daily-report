@@ -201,6 +201,8 @@ Google 雲端及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖�
 
 ### 更多 AI 新聞 (70則)
 
+- Microplastics React With Water, a 新 Study Says. That’s a Problem for Biology (**Wired**)
+- 為什麼 AI Isn’t Ready to Tackle Our Convoluted Genomes (**Wired**)
 - The Leap Second Is No More (**Wired**)
 - Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds (**Wired**)
 - Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists (**Wired**)
@@ -210,8 +212,8 @@ Google 雲端及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖�
 - Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push (**Wired**)
 - Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’ (**Wired**)
 - Microsoft Surface Laptop Ultra Review: The First Real AI PC (**Wired**)
-- AWOL Vision Aetherion Max RGB Laser UST Projector Review: A 熱門 Buy (**Wired**)
 - AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content (**Wired**)
+- AWOL Vision Aetherion Max RGB Laser UST Projector Review: A 熱門 Buy (**Wired**)
 - The 最佳 Digital Wall Calendar (2026): Skylight, Everblog, Greenlight (**Wired**)
 - Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins (**Wired**)
 - The 新 Fan’s Guide to the Unreal World of Nathan Fielder (**Wired**)
@@ -249,8 +251,6 @@ Google 雲端及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖�
 - Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast (**Wired**)
 - JackRabbit MG Cargo Bike Review (2026): Compact and Powerful (**Wired**)
 - The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA (**Wired**)
-- cool kids are writing in all lowercase now. does that make you mad? (**Wired**)
-- Nothing Headphone (1) Pro Review: Studio Quality (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
