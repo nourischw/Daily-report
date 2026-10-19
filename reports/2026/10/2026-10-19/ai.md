@@ -194,11 +194,13 @@ Canonical發布Linux作業系統Ubuntu 26.10，代號Stonking Stingray。新版�
 
 ### 更多 AI 新聞 (70則)
 
+- All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking (**Wired**)
+- WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot (**Wired**)
 - Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’ (**Wired**)
 - How the Xbox’s Disc-to-Digital Program Works (**Wired**)
 - Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories (**Wired**)
-- How Elizabeth Holmes Tricked WIRED—and Everyone Else (**Wired**)
 - The Story of Billy Evans and ‘Theranos 2.0’ (**Wired**)
+- How Elizabeth Holmes Tricked WIRED—and Everyone Else (**Wired**)
 - 15 最佳 White Elephant Gifts, Plus a Prank Box to Put Them In (2026) (**Wired**)
 - Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It (**Wired**)
 - Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card (**Wired**)
@@ -242,8 +244,6 @@ Canonical發布Linux作業系統Ubuntu 26.10，代號Stonking Stingray。新版�
 - Upgrade Your Thermostat for Winter With This Ecobee Deal for $120 (**Wired**)
 - White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM (**Wired**)
 - Junji Ito’s Manga Horrors Hit Harder as Live-Action TV (**Wired**)
-- Kids’ Content Is Deeply Broken. A 新 Platform Wants to Fix It (**Wired**)
-- Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)

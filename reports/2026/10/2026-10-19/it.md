@@ -4,206 +4,210 @@
 
 ---
 
-### 1. [Linux 7.3 發布](https://lwn.net/Articles/1101143/)
+### 1. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 
-- ⭐ 264 分｜💬 120 留言｜👤 cjd8
+- ⭐ 320 分｜💬 80 留言｜👤 iamnothere
 
-### 2. [Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)
+### 2. [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 
-- ⭐ 9 分｜💬 4 留言｜👤 abdallahamjid
+- ⭐ 26 分｜💬 3 留言｜👤 jtg
 
-### 3. [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
+### 3. [It's still OK to enjoy 程式設計](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 
-- ⭐ 21 分｜💬 0 留言｜👤 groar
+- ⭐ 145 分｜💬 147 留言｜👤 goostavos
 
-### 4. [Let's Encrypt is adding two additional 遠端 perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
+### 4. [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
 
-- ⭐ 11 分｜💬 0 留言｜👤 gslin
+- ⭐ 396 分｜💬 76 留言｜👤 groar
 
-### 5. [Hybrid Reasoning Agents: 大型語言模型 agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+### 5. [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+
+- ⭐ 71 分｜💬 23 留言｜👤 cmrdporcupine
+
+### 6. [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
+
+- ⭐ 21 分｜💬 7 留言｜👤 evakhoury
+
+### 7. [Evidence (YC S21) Is 招聘 軟體 Engineers](https://evidence.dev/jobs)
+
+- ⭐ 1 分｜💬 0 留言｜👤 hughess
+
+### 8. [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
+
+- ⭐ 55 分｜💬 19 留言｜👤 giuliomagnifico
+
+### 9. [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing)
+
+- ⭐ 210 分｜💬 50 留言｜👤 rbanffy
+
+### 10. [Galois Finite Fields and the Advanced Encryption Standard (AES)](https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html)
+
+- ⭐ 29 分｜💬 0 留言｜👤 ankitg12
+
+### 11. [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
+
+- ⭐ 17 分｜💬 1 留言｜👤 flocked
+
+### 12. [CERN and Mistral sign a statement of intent to establish a strategic partnership](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
+
+- ⭐ 197 分｜💬 39 留言｜👤 kensai
+
+### 13. [Launch HN: Laminar (YC S24) – We trained a 模型 to catch silent 代理 failures](https://news.ycombinator.com/item?id=50154029)
+
+Hi HN, we’re Robert and Din from Laminar (https:&#x2F;&#x2F;laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we 發布 flow-1, a 模型 trained with RL t
+
+- ⭐ 21 分｜💬 6 留言｜👤 skull8888888
+
+### 14. [Let's Encrypt is adding two additional 遠端 perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
+
+- ⭐ 181 分｜💬 59 留言｜👤 gslin
+
+### 15. [The obscure trust looming over Anthropic's IPO](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink)
+
+- ⭐ 9 分｜💬 1 留言｜👤 1vuio0pswjnm7
+
+### 16. [Show HN: I built a task 系統 to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try)
+
+I&#x27;m a 軟體 工程師 from the east coast (who has lived in Boston, NY, the
+bay area, UK, France), and I built a task 系統 called 3 &amp; Done.  It&#x27;s the
+place you trust to store everyth
+
+- ⭐ 22 分｜💬 15 留言｜👤 dmayle
+
+### 17. [Degraded availability for GitHub Actions, GitHub Pages and Webhooks](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
+
+- ⭐ 122 分｜💬 88 留言｜👤 gateauxd
+
+### 18. [Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf)
+
+- ⭐ 91 分｜💬 19 留言｜👤 tosh
+
+### 19. [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
+
+- ⭐ 51 分｜💬 8 留言｜👤 mindracer
+
+### 20. [A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z](https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z)
+
+- ⭐ 47 分｜💬 13 留言｜👤 Hooke
+
+### 21. [Show HN: KiviDB, a faster Redis-compatible memory 資料庫 and vector cache](https://github.com/kividbio/kividb)
+
+Hi all,So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getti
+
+- ⭐ 54 分｜💬 30 留言｜👤 murtazayusuf
+
+### 22. [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+
+- ⭐ 255 分｜💬 114 留言｜👤 Eric_Gullichsen
+
+### 23. [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous)
+
+- ⭐ 60 分｜💬 5 留言｜👤 rbanffy
+
+### 24. [Gdynia and the Dream of a Maritime Poland](https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/)
+
+- ⭐ 100 分｜💬 29 留言｜👤 lermontov
+
+### 25. [Maybe There Was an Egg Cartel After All](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411)
+
+- ⭐ 144 分｜💬 101 留言｜👤 iamnothere
+
+### 26. [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
+
+- ⭐ 128 分｜💬 95 留言｜👤 erikkannike
+
+### 27. [Linux 7.3](https://lwn.net/Articles/1101143/)
+
+- ⭐ 555 分｜💬 250 留言｜👤 cjd8
+
+### 28. [Hybrid Reasoning Agents: 大型語言模型 agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 
 https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgenthttps:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;tog
 
-- ⭐ 424 分｜💬 208 留言｜👤 allinonai
+- ⭐ 497 分｜💬 231 留言｜👤 allinonai
 
-### 6. [如何 Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot)
+### 29. [Pentulive (Puppy Live) [video]](https://yle.fi/t/18-332106/fi)
 
-- ⭐ 57 分｜💬 17 留言｜👤 crescit_eundo
+- ⭐ 5 分｜💬 1 留言｜👤 NaOH
 
-### 7. [Gdynia and the Dream of a Maritime Poland](https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/)
+### 30. [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 
-- ⭐ 5 分｜💬 0 留言｜👤 lermontov
-
-### 8. [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-
-- ⭐ 197 分｜💬 79 留言｜👤 Eric_Gullichsen
-
-### 9. [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
-
-- ⭐ 397 分｜💬 490 留言｜👤 mdp2021
-
-### 10. [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)
-
-- ⭐ 95 分｜💬 90 留言｜👤 samizdis
-
-### 11. [If you don't run your own 大型語言模型 proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
-
-- ⭐ 195 分｜💬 142 留言｜👤 amrrs
-
-### 12. [Tmux and Claude 代碼: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
-
-- ⭐ 53 分｜💬 29 留言｜👤 ankitg12
-
-### 13. [Someone behind the 軟體](https://karrisaarinen.com/posts/someone-behind-the-software/)
-
-- ⭐ 466 分｜💬 169 留言｜👤 tosh
-
-### 14. [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
-
-- ⭐ 145 分｜💬 69 留言｜👤 nanochess
-
-### 15. [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
-
-- ⭐ 262 分｜💬 157 留言｜👤 gmays
-
-### 16. [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
-
-- ⭐ 402 分｜💬 64 留言｜👤 RobotToaster
-
-### 17. [The DNS Museum](https://dns.museum)
-
-- ⭐ 88 分｜💬 10 留言｜👤 zdw
-
-### 18. [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-
-- ⭐ 104 分｜💬 42 留言｜👤 iheatuchriswogu
-
-### 19. [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
-
-- ⭐ 167 分｜💬 40 留言｜👤 sysrpl
-
-### 20. [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
-
-- ⭐ 77 分｜💬 86 留言｜👤 gmays
-
-### 21. [Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
-
-btw this is already running on all my machines (including a macbook), and i&#x27;ve configured all of them to have routable public ip addresses ;)especially for the mac, my ISP is SFR (over coaxial co
-
-- ⭐ 30 分｜💬 7 留言｜👤 StepBroBD
-
-### 22. [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
-
-I wanted my humble Claude on 行動 to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual 伺服器 to run Baileys on.I wanted to run it for free
-
-- ⭐ 114 分｜💬 66 留言｜👤 zoozla
-
-### 23. [HOL Light 教學](https://hol-light.github.io/tutorial/HTML/tutorial.html)
-
-- ⭐ 7 分｜💬 1 留言｜👤 stmonty
-
-### 24. [I built a 程式設計 language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
-
-- ⭐ 212 分｜💬 163 留言｜👤 dom96
-
-### 25. [Lant – The Forgotten Resource](https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/)
-
-- ⭐ 16 分｜💬 2 留言｜👤 kreyenborgi
-
-### 26. [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
-
-- ⭐ 134 分｜💬 33 留言｜👤 memalign
-
-### 27. [A 新 way to think about borrow checking (in reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
-
-- ⭐ 95 分｜💬 9 留言｜👤 verdagon
-
-### 28. [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
-
-- ⭐ 177 分｜💬 136 留言｜👤 hnisjafx40
-
-### 29. [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/)
-
-- ⭐ 86 分｜💬 22 留言｜👤 zoobab
-
-### 30. [How Postgres DELETE can actually scale](https://www.dbos.dev/blog/scaling-deletions-in-postgres)
-
-- ⭐ 22 分｜💬 6 留言｜👤 KraftyOne
+- ⭐ 518 分｜💬 726 留言｜👤 mdp2021
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- If you don't run your own 大型語言模型 proxy, how do you know whats going on?
+- Tmux and Claude 代碼: Sessions, Send-Keys, and the Ceiling
+- Mamdani Is the Centrist We've Been Waiting For
+- Beyond the Glass
+- A hacker broke into John Deere and SharkNinja with an army of AI agents
+- Ukraine carries out first ever aerial drone evacuation of a wounded soldier
+- Maxwell: A 新 kind of 模型 that sits between 代碼 and 硬體
+- Someone behind the 軟體
+- Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky
+- 如何 Train Your Robot
+- Rabbits were a medieval royal luxury in England until the Black Death
+- Laptop Based on 6502 CPU
+- RepRapMicron
+- How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?
+- The DNS Museum
+- Superlite: A Faster Alternatie to Superpowers
+- Free Pascal compiler now supports dynamic packages
+- Harness2 by Google Research – Recursive 代理 Harnessing
+- I built a 程式設計 language that LLMs can't use
+- Japanese TV Station Interviews Americans About Their Love for Kei Trucks
+- PalmOS Lemmings
+- DeepSeek banned from U.S. federal civilian agencies under 新 DHS order
+- Java sealed classes and exhaustive pattern matching
+- Show HN: WhatsApp MCP running free on Cloudflare
+- A 新 way to think about borrow checking (in reverse)
+- We fine-tuned a 235B 模型 on 4 GPUs. Then we didn't need it
+- I Tried to Verify Rust OSS with Lean 4 and Found Many Bugs
 - Open MicroManipulator – A sub-micrometer 3D motion control plattform
-- DeepSeek V4.1 Flash 1017 (Max)
+- One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux
 - macOS 15.8.2 Breaks OpenGL
 - Show HN: The Zelda timeline to catch up before the Ocarina of Time remake
-- "I'm on a war footing": Terry Tao and the crisis in math
+- Parser Combinators
 - The Intel 8087 chip: floating-point addition and subtraction
 - Namecheap just seized and disabled all my domains
-- Parser Combinators
-- SIGSALY: Churchill's 熱門 secret hotline to the president
-- Types of types: Haskell's Kind 系統
-- The Annotated VT100 Firmware
-- DeepSeek search and fetch – $0.75 per 1000 successful requests
-- Footage of the Flock search that a judge ruled was uncosntitutional
-- I electrified my push scooter with a power drill
-- Flatpak – An Insecurity Nightmare
-- 16-bit fully functional DIY magnetic core memory
-- Teal – A statically-typed dialect of Lua
-- Sanity's Edge – A voice BBS from 1994
 - You could have invented transformers from memory
-- How Far Will AI Assistants Go for a Refund They Can't Get?
-- "Traditional, but Puzzling"
-- The First Candid
+- DeepSeek search and fetch – $0.75 per 1000 successful requests
+- 軟體 is eating the world; AI is eating 軟體 – so what's next?
+- Types of types: Haskell's Kind 系統
+- Big Tech Oligarchs Have a Terrible Plan for Humanity
+- "I'm on a war footing": Terry Tao and the crisis in math
+- Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN
+- How Postgres DELETE can actually scale
+- I electrified my push scooter with a power drill
 - Starcraft: Ashfall
+- I Write (and Care) About the Internet, and What So Many People Get Wrong
+- SIGSALY: Churchill's 熱門 secret hotline to the president
+- How Far Will AI Assistants Go for a Refund They Can't Get?
+- Ousted Savannah police officer gave ICE 代理 husband access to Flock 系統
 - Beyond Tetris: The other games of Alexey Pajitnov [video]
+- 16-bit fully functional DIY magnetic core memory
+- HOL Light 教學
 - Developing for Debugging (2025)
-- Verisign .com Domain Name Registry Consumer Class Action
-- Personal 軟體 factories are a waste of time
+- Federal judge rules Flock violated the fourth amendment
+- DeepSeek V4.1 Flash 1017 (Max)
+- The Annotated VT100 Firmware
+- Lant – The Forgotten Resource
 - The Brain Sandwich
-- Legal experts warn Meta's 新 terms still grant broad scraping permissions
-- Lombok Is Still Relevant in the Age of Java Records
 - How employment is changing at Anthropic
-- The Public Pays to Produce Research. Shareholders Collect the Return
-- Florida's HOAs and condo associations are making the housing crisis worse
+- Footage of the Flock search that a judge ruled was uncosntitutional
+- The First Candid
+- Personal 軟體 factories are a waste of time
+- Sanity's Edge – A voice BBS from 1994
+- Legal experts warn Meta's 新 terms still grant broad scraping permissions
+- "Traditional, but Puzzling"
 - Bleached corals thrive within days when touching healthy neighbour
-- I Built a Drone with Only One Motor [video]
+- The Public Pays to Produce Research. Shareholders Collect the Return
 - The Elizabeth Holmes documentary “You Can See Everything” is deceiving
-- Writing is no longer proof of work
-- Regex visualized as 3D marble run
-- How RC2's π table was made
-- Artie (YC S23) Is 招聘 Enterprise AES and 資深 Engineers
-- Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5
-- DeepSeek-v4.1-Flash-1017
-- Hatching (Heraldry)
-- Constructors Shouldn't Throw
-- Netflix vmaf: Perceptual video quality assessment based on multi-method fusion
-- Will it be a golden age or a dark age for mathematics (and science)?
-- A Princeton PhD applied to 2,300 jobs and still can't get one
-- JDK 28
-- The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)
-- Codex Desktop continuously generates Crashpad pending dumps
+- Flatpak – An Insecurity Nightmare (2023)
+- I no longer care to work on any Ruby gems so I've archived all my repositories
 - Tesla Roadster
-- Show HN: High-quality duck audio synthesizer
-- Show HN: Sphinx – A hook that quizzes you on your AI's 代碼 before shipping
-- Gold is now the 熱門 U.S. export
-- The plight of the public potty
-- Hyper Optimizing Kimi K3 in vLLM
-- Show HN: Esp32sim – Run ESP32 firmware in the browser
-- OpenCode has a 安全 breach last that impacted 1.4% of console users
-- Pele – Mermaid diagrams as themeable SVG
-- Mitos editor is a fork of Helix
-- Show HN: Yila – A Codex for Scientific Research
-- Dam removals are bringing fish back across the northeastern United States
-- Solar surpasses nuclear power globally for first time
-- Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo
-- NY 宣布 game ownership bill requiring ownership rather than licensing
-- Interactive Linear 程式設計 in the Browser
-- A 'Ludicrously Ugly' Bridge Is Exhibit a That Britain Has Lost Its Mojo
-- Websites are closing their doors to AI agents
-- Chicago O'Hare Digs Up 50-Ton Boulder Under Airfield, Asks Public for Name Ideas
-- Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5
 
 
 ---
