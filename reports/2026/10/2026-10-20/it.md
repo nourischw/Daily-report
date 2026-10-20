@@ -4,208 +4,202 @@
 
 ---
 
-### 1. [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
+### 1. [SimCity, but with Permits](https://permit.petercai.com/)
 
-- ⭐ 142 分｜💬 68 留言｜👤 AshleysBrain
+- ⭐ 287 分｜💬 142 留言｜👤 pcai
 
-### 2. [DeepSeek just open-sourced its 推論 engine](https://github.com/deepseek-ai/DeepInfer)
+### 2. [Voxtral 3](https://mistral.ai/news/voxtral-3/)
 
-- ⭐ 1599 分｜💬 581 留言｜👤 ggcr
+- ⭐ 410 分｜💬 112 留言｜👤 ilreb
 
-### 3. [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
+### 3. [DeepInfer: High-performance 推論 framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
 
-- ⭐ 133 分｜💬 45 留言｜👤 galadran
+- ⭐ 2013 分｜💬 784 留言｜👤 ggcr
 
-### 4. [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+### 4. [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 
-- ⭐ 232 分｜💬 121 留言｜👤 evanb
+- ⭐ 189 分｜💬 47 留言｜👤 ilreb
 
-### 5. [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
+### 5. [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
 
-- ⭐ 94 分｜💬 26 留言｜👤 kabakabakaba
+- ⭐ 82 分｜💬 24 留言｜👤 dhorthy
 
-### 6. [Triplet of 'ghostly' galaxies hints at what dark matter is and isn't](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/)
+### 6. [What shall I teach my son?](https://stevekrouse.com/ends)
 
-- ⭐ 24 分｜💬 6 留言｜👤 gumby
+- ⭐ 111 分｜💬 203 留言｜👤 Curiositry
 
-### 7. [Ofcom Concedes Defeat in the 4chan Case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
+### 7. [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 
-- ⭐ 79 分｜💬 40 留言｜👤 iamnothere
+- ⭐ 411 分｜💬 227 留言｜👤 evanb
 
-### 8. [My Friend Bob Cringely](https://tyma.com/my-cringe-story/)
+### 8. [Ofcom concedes defeat in 4chan case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
 
-- ⭐ 61 分｜💬 19 留言｜👤 zinxq
+- ⭐ 257 分｜💬 160 留言｜👤 iamnothere
 
-### 9. [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
+### 9. [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
+
+- ⭐ 454 分｜💬 245 留言｜👤 galadran
+
+### 10. [On AI writing](https://www.bolkunov.com/p/on-ai-writing)
+
+- ⭐ 33 分｜💬 5 留言｜👤 dbolkunov
+
+### 11. [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
+
+- ⭐ 48 分｜💬 20 留言｜👤 artninja1988
+
+### 12. [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
+
+- ⭐ 280 分｜💬 134 留言｜👤 hnisjafx40
+
+### 13. [Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide](https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide)
+
+- ⭐ 6 分｜💬 0 留言｜👤 aliasxneo
+
+### 14. [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
+
+- ⭐ 40 分｜💬 0 留言｜👤 aphyr
+
+### 15. [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
+
+- ⭐ 261 分｜💬 62 留言｜👤 kabakabakaba
+
+### 16. [Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
+
+- ⭐ 89 分｜💬 45 留言｜👤 speckx
+
+### 17. [IKEA – 3D Guide](https://sael.net/flatpack/)
+
+- ⭐ 103 分｜💬 26 留言｜👤 punnerud
+
+### 18. [Google 雲端 outage affects almost all banking and other operations in Europe](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
+
+- ⭐ 268 分｜💬 134 留言｜👤 paweladamczuk
+
+### 19. [Facebook Pages require paid subscription to post more than two links per month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
+
+- ⭐ 374 分｜💬 325 留言｜👤 AshleysBrain
+
+### 20. ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
+
+- ⭐ 75 分｜💬 46 留言｜👤 NaOH
+
+### 21. [My Friend Bob Cringely](https://tyma.com/my-cringe-story/)
+
+- ⭐ 137 分｜💬 37 留言｜👤 zinxq
+
+### 22. [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
+
+- ⭐ 66 分｜💬 11 留言｜👤 Muhammad523
+
+### 23. [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
 
 Hey HN, this is Andy from Respan (https:&#x2F;&#x2F;www.respan.AI). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers,
 
-- ⭐ 14 分｜💬 3 留言｜👤 Andydy25
+- ⭐ 31 分｜💬 14 留言｜👤 Andydy25
 
-### 10. [Show HN: Jev Cards, Can you beat a vision 模型 at a picture quiz?](https://jevcards.com)
-
-I built a quiz game around TypeSafe&#x27;s 新 Jev 模型, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second.I&#x
-
-- ⭐ 12 分｜💬 2 留言｜👤 totisjosema
-
-### 11. [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
-
-- ⭐ 39 分｜💬 5 留言｜👤 panstromek
-
-### 12. [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
-
-- ⭐ 140 分｜💬 80 留言｜👤 robtherobber
-
-### 13. [UI-Te-Rangiora](https://en.wikipedia.org/wiki/Ui-te-Rangiora)
-
-- ⭐ 9 分｜💬 1 留言｜👤 benbreen
-
-### 14. [Hazel (YC W24) Is 招聘](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci)
+### 24. [Hazel (YC W24) Is 招聘](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci)
 
 - ⭐ 1 分｜💬 0 留言｜👤 augustschen
 
-### 15. [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+### 25. [Meta's GB{2,3}00 Cluster](https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/)
 
-- ⭐ 264 分｜💬 24 留言｜👤 theanonymousone
+- ⭐ 10 分｜💬 0 留言｜👤 stokedmartin
 
-### 16. [OpenDE: Play Deus Ex 1999 demo in the browser](https://opende.netlify.app)
+### 26. [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
 
-- ⭐ 5 分｜💬 1 留言｜👤 klaussilveira
+- ⭐ 122 分｜💬 47 留言｜👤 panstromek
 
-### 17. [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
+### 27. [Archive of Our Own](https://archiveofourown.org/)
 
-- ⭐ 111 分｜💬 61 留言｜👤 hnisjafx40
+- ⭐ 71 分｜💬 16 留言｜👤 debo_
 
-### 18. [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
+### 28. [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 
-- ⭐ 460 分｜💬 127 留言｜👤 noriax86
+- ⭐ 350 分｜💬 74 留言｜👤 theanonymousone
 
-### 19. [為什麼 do we have so many meetings?](https://www.nber.org/papers/w35706)
+### 29. [Triplet of 'ghostly' galaxies hints at what dark matter is and isn't](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/)
 
-- ⭐ 22 分｜💬 16 留言｜👤 ilamont
+- ⭐ 83 分｜💬 52 留言｜👤 gumby
 
-### 20. [Show HN: Run Claude 代碼 unattended inside a fence, under a dollar budget](https://github.com/metahumansworld/SIwithin)
+### 30. [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
 
-- ⭐ 6 分｜💬 1 留言｜👤 metahumein
-
-### 21. [如何 Link Real-Time Live Streaming to Video-on-Demand](https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/)
-
-- ⭐ 5 分｜💬 1 留言｜👤 mondainx
-
-### 22. [WhatsApp's help pages hid 大型語言模型 instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
-
-- ⭐ 659 分｜💬 183 留言｜👤 ds
-
-### 23. [OpenBSD 8.0](https://www.openbsd.org/80.html)
-
-- ⭐ 419 分｜💬 133 留言｜👤 privong
-
-### 24. [Show HN: VoidAccess – open-source dark 網頁 OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)
-
-Hi HN! Im Katriel, and im a 安全 Researcher&#x2F;Enthusiast and in the wave of AI, i wanted to 構建 that next gen of 安全 tooling that surpasses the current tools, and even the paid industrie
-
-- ⭐ 91 分｜💬 7 留言｜👤 coding-maniac
-
-### 25. [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
-
-- ⭐ 9 分｜💬 0 留言｜👤 abdullahalharir
-
-### 26. [DeepSeek banned from U.S. federal civilian agencies under 新 DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
-
-https:&#x2F;&#x2F;public-inspection.federalregister.gov&#x2F;2026-21447.pdf
-
-- ⭐ 471 分｜💬 390 留言｜👤 cmrdporcupine
-
-### 27. [One Manhattan power room took down FAA air traffic control in 1991](https://matthorn.io/posts/2026-10-18-33-thomas-street/)
-
-- ⭐ 17 分｜💬 3 留言｜👤 spectraldrift
-
-### 28. [In-memory privacy shield to prevent context leaks in MCP tools](https://github.com/rohan-protocol/sdk)
-
-- ⭐ 5 分｜💬 1 留言｜👤 jvonb
-
-### 29. [Getting Banned from r/java](https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/)
-
-- ⭐ 18 分｜💬 20 留言｜👤 davidpolberger
-
-### 30. [FingerWorks iGesture Pad (2005)](https://uk.pcmag.com/first-looks/26975/fingerworks-igesture-pad)
-
-- ⭐ 12 分｜💬 8 留言｜👤 codeulike
+- ⭐ 291 分｜💬 164 留言｜👤 robtherobber
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Making a 88x31 button book using ImageMagick
-- 'Der Viener Schlinger': The meat cannon that launched 20k hot dogs
-- Show HN: Clerkenwell – A Handwritten Clojure Notebook
-- Restoration of Retinal Regenerative Potential (2025)
-- There Are over 1M 新 York City Street Signs. Here's How They Are Made.
-- Show HN: Twig – An Android file 經理 for NAS, S3, restic and Git under 10 MB
-- An ad-free Android TV
-- Google 雲端 outage takes down banks
+- Nordwand Mono – A monospace font for coders and adventurers
+- Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces
+- Subaru is killing off gas cars and will only sell EVs in Europe
 - NixOS is making me less afraid
-- I built a drone with only one motor [video]
-- Ukraine claims first drone evacuation of wounded soldier
-- Weball: Play Katamari on Websites
-- Spending 10 months building the most human-like chess bot
-- France's supermarket fridges were vulnerable online for months
-- Show HN: Another Blog Search Engine
-- How Corruption Got This Bad
+- Academics have a duty to defend open knowledge systems like Wikipedia
+- DeepSeek banned from U.S. federal civilian agencies under 新 DHS order
+- Judge Orders Meta to Name Employees Who Approved Torrenting
+- A practical guide to AI image generation, from diffusion to agents
+- 為什麼 do we have so many meetings?
+- The Internet goes on high alert after discovery of 8 compromised TLS certs
+- Anthropic logged net loss of over $80B in first half of 2026
+- Show HN: Penmentor – Claude marks up your handwritten math like a teacher
+- Show HN: RawLink – Building a VPN protocol from scratch
+- Benchmarking Bot Detection Systems Against Modern AI Agents in 2026
+- An ad-free Android TV
+- Making a 88x31 button book using ImageMagick
+- Restoration of Retinal Regenerative Potential (2025)
+- Show HN: Clerkenwell – A Handwritten Clojure Notebook
+- WhatsApp's help pages hid 大型語言模型 instructions: dont recommend a regulator
+- There Are over 1M 新 York City Street Signs. Here's How They Are Made.
 - How abliterated models can get you pwned
-- Maxwell: A 新 kind of 模型 that sits between 代碼 and 硬體
+- Demographic "doomsday" misses the mark
+- France's supermarket fridges were vulnerable online for months
+- OpenBSD 8.0
+- Gemini 4 Argon is now available for everyone
 - RuneScape Bench: MMOs for Agents [video]
-- OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
+- Gradium open-sourced its on-device TTS
+- Making a VGA Driver in SystemVerilog
+- My Neighbor, Me, and a Grand Principle
+- Computer Chips Are the Most Magnificent Things Humanity Has Ever Made
+- Maxwell: A 新 kind of 模型 that sits between 代碼 and 硬體
 - One Hash Bloom Filters
-- Capturing 400 American Girls and Their Most Meaningful Objects
-- 'Reverse-工程師 Anything' Is the 新 Wild West of AI
-- Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment
-- AI models self-replicating in smart ovens? "These f[..]g clowns"
-- StreetComplete v64.0
-- 新 Skydance Worth Less Than Half of Warner Brothers, Paramount Combined
-- Steam Users Beg for "No AI" Filter as Vibecoders Flood Next Fest
+- Advanced coding in low-resource 程式設計 languages
+- In-memory privacy shield to prevent context leaks in MCP tools
+- FingerWorks iGesture Pad (2005)
+- Spending 10 months building the most human-like chess bot
+- Show HN: VoidAccess – open-source dark 網頁 OSINT, from query to a graph
 - MiniMax M3.1 Flash
-- Require Police to Get a Warrant to Search ALPR Data
-- How Do Fungi Keep the Planet Healthy?
 - Plex vulnerabilities being exploited in the wild to drop a cryptominer
-- Putting Linux on my RTX Spark laptop because I don't have a Microsoft account
-- Go will reject certificate chains containing eight distrusted SPKIs
+- Whoops: Grok Bot Spills Tech CEO's Bank Data in Public Slack
+- How Corruption Got This Bad
 - Wine ported to OpenBSD
 - It's still ok to enjoy 程式設計
-- Porting video games to VHS
+- DHS Claimed It Searched GrapheneOS Phone Wiper for Child Abuse Material. It Lied
+- Putting Linux on my RTX Spark laptop because I don't have a Microsoft account
+- StreetComplete v64.0
+- I built a drone with only one motor [video]
+- How Do Fungi Keep the Planet Healthy?
+- Ukraine claims first drone evacuation of wounded soldier
+- Weball: Play Katamari on Websites
 - The fire retardant in the seafood chain
-- Agentic Monitoring
-- There is no official XScreenSaver GitHub repository
-- Launch HN: Laminar (YC S24) – RL-trained 模型 that finds errors in 代理 traces
-- 為什麼 memory-hard proof-of-work hashes are not a popular choice for CAPTCHA
-- Starcraft: Ashfall
-- Developers Are Using AI to Strip Ads and Tracking from Smart TVs
+- Meta tries to scapegoat staff who downloaded torrents to spare execs
+- Porting video games to VHS
 - Timestral: Mistral's time-series foundation models
-- Credit where credit is due
+- Launch HN: Laminar (YC S24) – RL-trained 模型 that finds errors in 代理 traces
+- Steam Users Beg for "No AI" Filter as Vibecoders Flood Next Fest
+- Starcraft: Ashfall
+- Agentic Monitoring
 - Ask HN: 如何 deal with shipping AI-written 代碼 you don't understand?
-- The Annotated VT100 Firmware (2022)
-- CERN and Mistral sign a statement of intent to establish a strategic partnership
+- Credit where credit is due
+- Show HN: Twig – An Android file 經理 for NAS, S3, restic and Git under 10 MB
+- Report Fraud Collect $30K
+- Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment
 - Android apps running native on macOS
-- Mercury 3: Diffusion at scale
-- Refurb weekend II: Alpha Micro Eagle 300 and friends
-- Show HN: FlexChords – chords for any YouTube song, from a 模型 I trained
-- Alternatives to animal testing are finally taking off
-- The reverts will continue until morale improves
+- The Annotated VT100 Firmware (2022)
+- OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
+- Go will reject certificate chains containing eight distrusted SPKIs
 - Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs
-- Men in Tech YesAllMen [video]
-- 代碼 is clay now
-- Galois Finite Fields and the Advanced Encryption Standard (AES)
-- The ovary doesn't retire after menopause
-- Discover Linear Algebra by Jeremy Sylvestre (2025) [pdf]
-- Linux 7.3
-- Compromised EMudhra Intermediate Certificates
-- Brewster Kahle: 為什麼 the Internet Needs a Memory
-- What we've learned 3 years into harness engineering
-- Tmux and Claude 代碼: Sessions, Send-Keys, and the Ceiling
-- ESA's Hera Will View Asteroid Scars from DART's Strike
-- William Gibson and the trademarking of cyberspace
-- I Pretend I'm from Denmark
-- Detecting 模型 weight tampering in GPU memory (Rome attacks)
+- CERN and Mistral sign a statement of intent to establish a strategic partnership
+- Show HN: Another Blog Search Engine
 
 
 ---

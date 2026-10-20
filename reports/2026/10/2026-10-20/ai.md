@@ -187,9 +187,9 @@ Cloudflare公布爬蟲信任評估機制，針對已通過身分驗證的機器�
 
 - 📰 **iThome 科技**
 
-### 30. [Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)](https://www.wired.com/review/review-hatch-sleep-clock/)
+### 30. [A 新 Rocco Smart Fridge Just Dropped. So Did the Prices (2026)](https://www.wired.com/story/rocco-sale-october-2026/)
 
-I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the 最佳 of both worlds at an affordable price?
+Save $100 on the 新 Essential or $200 on the original, and give your holiday drinks a place of their own.
 
 - 📰 **Wired**
 
@@ -197,24 +197,26 @@ I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. 
 
 ### 更多 AI 新聞 (70則)
 
+- French Government Calls Emergency Meetings With Platforms Over Protests (**Wired**)
+- Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026) (**Wired**)
 - An AI 代理 Joined a Listserv of 熱門 Internet Researchers. The Reply-All Chaos Is Still Unfolding (**Wired**)
 - Sony Party Speaker Deal: Save $100 Off the ULT Tower 7 (**Wired**)
 - The Physics Behind Tesla’s Flying Roadster (**Wired**)
-- How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and 新 (**Wired**)
 - Sexual Assault Is a Free Speech Issue (**Wired**)
+- How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and 新 (**Wired**)
 - Organic Mattress Sale: 20 Percent Off Essentia Beds (**Wired**)
 - They Fled Trump’s America. Now They Regret It (**Wired**)
 - This 新 Food Delivery App Could Be the Antidote to Menu Markups (**Wired**)
 - Demi Adejuyigbe Thinks You Should Only Post 3 Times a Day (**Wired**)
 - 5 最佳 AI Notetakers (2026), Tested and Reviewed (**Wired**)
 - 如何 See the Orionid Meteor Shower and Other Upcoming Astronomical Events (**Wired**)
-- Adorama Camera Coupon Codes &amp; Promo Codes: October 2026 (**Wired**)
-- Mint 行動 Discounts for October 2026 (**Wired**)
-- Mattress Firm Coupons: Save up to $700 (**Wired**)
 - Wayfair Coupons: Up to 80% Off October 2026 (**Wired**)
 - 50% Off DoorDash Promo 代碼 | October 2026 (**Wired**)
 - Chewy Promo Codes: $20 Off October 2026 (**Wired**)
 - 30% Off Canon Promo Codes | October 2026 (**Wired**)
+- Adorama Camera Coupon Codes &amp; Promo Codes: October 2026 (**Wired**)
+- Mint 行動 Discounts for October 2026 (**Wired**)
+- Mattress Firm Coupons: Save up to $700 (**Wired**)
 - Whoop Promo Codes: 20% Off This October 2026 (**Wired**)
 - Home Chef Promo Codes for October 2026 (**Wired**)
 - AT&amp;T Promo Codes: $50 Off This October 2026 (**Wired**)
@@ -238,14 +240,12 @@ I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. 
 - OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty (**Wired**)
 - Data Centers Have a 新 PR Plan: Your Kid’s Field Trip (**Wired**)
 - Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK (**Wired**)
-- Climate Change Has It In for the World’s 最佳 Surfing (**Wired**)
 - Magnesium May Not Reach Your Brain, Despite Supplement Label Promises (**Wired**)
+- Climate Change Has It In for the World’s 最佳 Surfing (**Wired**)
 - The 最佳 AirPods Cases We’ve Used In Our Day-to-Day Lives (2026) (**Wired**)
 - Encryption Is Getting Squeezed From All Sides (**Wired**)
 - The 最佳 LED Grow Lights for Houseplants This Winter (2026) (**Wired**)
 - These 12 Automatic Cat Feeders Were the 最佳 We Tested in 2026 (**Wired**)
-- HTC Made Smart Glasses That Are Way More Private (**Wired**)
-- Don’t Let a Crypto Inheritance Get Stuck on the Blockchain (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
