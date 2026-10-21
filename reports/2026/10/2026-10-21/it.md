@@ -4,208 +4,206 @@
 
 ---
 
-### 1. [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+### 1. [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
 
-- ⭐ 121 分｜💬 52 留言｜👤 hkc
+- ⭐ 584 分｜💬 236 留言｜👤 tuyuri
 
-### 2. [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
+### 2. [Today's PHP 安全 Release, and How We're Strengthening PHP 安全](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 
-- ⭐ 225 分｜💬 230 留言｜👤 velo_aprx
+- ⭐ 45 分｜💬 8 留言｜👤 ejohnso49
 
-### 3. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+### 3. [DuckDB 2.0.0 LTS "Cinnamon Teal"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
 
-- ⭐ 393 分｜💬 163 留言｜👤 soheilpro
+- ⭐ 172 分｜💬 16 留言｜👤 nnx
 
-### 4. [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
+### 4. [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
 
-- ⭐ 10 分｜💬 1 留言｜👤 sohkamyung
+- ⭐ 94 分｜💬 43 留言｜👤 abhisek
 
-### 5. [Upcoming critical PHP 安全 release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)
+### 5. [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 
-https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;安全-advisories&#x2F;2026...https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754
+https:&#x2F;&#x2F;patchtheplanet.org&#x2F;
 
-- ⭐ 948 分｜💬 379 留言｜👤 xd
+- ⭐ 113 分｜💬 61 留言｜👤 nr378
 
-### 6. [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+### 6. [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 
-- ⭐ 811 分｜💬 381 留言｜👤 pcai
+- ⭐ 587 分｜💬 258 留言｜👤 hkc
 
-### 7. [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
+### 7. [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
 
-- ⭐ 194 分｜💬 89 留言｜👤 gumby
+- ⭐ 37 分｜💬 20 留言｜👤 surprisetalk
 
-### 8. [The Decoherence Trap](https://maevyn.codes/decoherence)
+### 8. [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
 
-- ⭐ 52 分｜💬 14 留言｜👤 cassianoleal
+https:&#x2F;&#x2F;www.php2shell.com&#x2F;
 
-### 9. [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/)
+- ⭐ 337 分｜💬 113 留言｜👤 danlark1
 
-https:&#x2F;&#x2F;blog.mozilla.org&#x2F;安全&#x2F;2026&#x2F;10&#x2F;20&#x2F;protecting-fire...https:&#x2F;&#x2F;bugzilla.mozilla.org&#x2F;show_bug.cgi?id=2083449
+### 9. [The No Kings Takedown Is 為什麼 You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
 
-- ⭐ 985 分｜💬 414 留言｜👤 galadran
+- ⭐ 316 分｜💬 229 留言｜👤 robtherobber
 
-### 10. [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+### 10. [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/)
 
-- ⭐ 688 分｜💬 172 留言｜👤 ilreb
+- ⭐ 26 分｜💬 2 留言｜👤 Maxious
 
-### 11. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+### 11. [Using thousands of AI agents to uncover 新 leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
 
-- ⭐ 211 分｜💬 97 留言｜👤 Bender
+- ⭐ 39 分｜💬 10 留言｜👤 raahelb
 
-### 12. [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
+### 12. [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
 
-- ⭐ 101 分｜💬 54 留言｜👤 unprovable
+Hi HN! We’re Srikar and Kevan, founders of Alter – https:&#x2F;&#x2F;alterauth.com&#x2F;. We’re building access control for agents that can take actions on behalf of multiple users.If you’ve built an 
 
-### 13. [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
+- ⭐ 11 分｜💬 9 留言｜👤 simfinii
 
-- ⭐ 135 分｜💬 12 留言｜👤 firloop
+### 13. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 
-### 14. [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
+- ⭐ 533 分｜💬 224 留言｜👤 soheilpro
 
-https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20261020230542&#x2F;https:&#x2F;&#x2F;www.thebe...https:&#x2F;&#x2F;archive.ph&#x2F;Tb1SZ
+### 14. [C++ futures part 1: The mental 模型](https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/)
 
-- ⭐ 201 分｜💬 152 留言｜👤 gaplong
+- ⭐ 30 分｜💬 6 留言｜👤 ibobev
 
-### 15. [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
+### 15. [9 Mothers (YC P26) Is 招聘 in Austin, TX](https://9mothers.com/careers)
 
-- ⭐ 13 分｜💬 3 留言｜👤 frizlab
+- ⭐ 1 分｜💬 0 留言｜👤 ukd1
 
-### 16. [ZX Spectrum Next Laptop](https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2)
+### 16. [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
 
-- ⭐ 90 分｜💬 15 留言｜👤 utopcell
+- ⭐ 120 分｜💬 94 留言｜👤 rohanm93
 
-### 17. [Bonanza of 新 dates rewrites the history of the Inca](https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca)
+### 17. [Qwen3-Coder writes less secure 代碼 when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)
 
-- ⭐ 12 分｜💬 1 留言｜👤 pseudolus
+- ⭐ 220 分｜💬 108 留言｜👤 mattifrank
 
-### 18. [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
+### 18. [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
 
-- ⭐ 76 分｜💬 28 留言｜👤 sumnole
+- ⭐ 134 分｜💬 48 留言｜👤 frizlab
 
-### 19. [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
+### 19. [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
 
-- ⭐ 344 分｜💬 73 留言｜👤 ilreb
+- ⭐ 54 分｜💬 28 留言｜👤 l2dy
 
-### 20. [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
+### 20. [Tiny possum and glider thought extinct for 6000 years found in 遠端 West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 
-- ⭐ 62 分｜💬 39 留言｜👤 civilchaos
+- ⭐ 6 分｜💬 0 留言｜👤 bryanrasmussen
 
-### 21. [What shall I teach my son?](https://stevekrouse.com/ends)
+### 21. [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 
-- ⭐ 408 分｜💬 477 留言｜👤 Curiositry
+- ⭐ 143 分｜💬 99 留言｜👤 sohkamyung
 
-### 22. [Four Years with Decker](https://beyondloom.com/blog/fouryearsdecker.html)
+### 22. [Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css)
 
-- ⭐ 42 分｜💬 6 留言｜👤 ibobev
+- ⭐ 27 分｜💬 7 留言｜👤 bepero
 
-### 23. [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
+### 23. [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
 
-Quick 更新 here since a lot of folks asked about what slopcodebench is &#x2F; where it fits inSlop 代碼 bench is unique among benchmarks in that it makes a 模型 work against a progressively disclos
+- ⭐ 307 分｜💬 144 留言｜👤 gumby
 
-- ⭐ 264 分｜💬 105 留言｜👤 dhorthy
+### 24. [Delays for Pull Requests and Webhook deliveries](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
 
-### 24. [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+- ⭐ 45 分｜💬 9 留言｜👤 bearsyankees
 
-- ⭐ 561 分｜💬 274 留言｜👤 evanb
+### 25. [The Decoherence Trap](https://maevyn.codes/decoherence)
 
-### 25. [Composite objects and C++26 the std:polymorphic type](https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/)
+- ⭐ 128 分｜💬 55 留言｜👤 cassianoleal
 
-- ⭐ 28 分｜💬 29 留言｜👤 jandeboevrie
+### 26. [The Lucrative World of Literary Scams](https://www.thedial.world/articles/news/ai-book-scams)
 
-### 26. [DeepInfer: High-performance 推論 framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
+- ⭐ 46 分｜💬 4 留言｜👤 samclemens
 
-- ⭐ 2258 分｜💬 860 留言｜👤 ggcr
+### 27. [Cities Across the World Sinking from Groundwater Depletion: It Can Be Reversed](https://cleantechnica.com/2026/10/20/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed/)
 
-### 27. [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
+- ⭐ 5 分｜💬 0 留言｜👤 gumby
 
-- ⭐ 32 分｜💬 23 留言｜👤 indigodaddy
+### 28. [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
 
-### 28. [Using Claude to reduce the attack surface of 代碼](https://www.anthropic.com/research/attack-surface-reduction)
+- ⭐ 3 分｜💬 0 留言｜👤 NaOH
 
-- ⭐ 54 分｜💬 22 留言｜👤 dnw
+### 29. [Dutch National Cyber 安全 Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
 
-### 29. [Ofcom concedes defeat in 4chan case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
+- ⭐ 238 分｜💬 80 留言｜👤 jacquesm
 
-- ⭐ 399 分｜💬 312 留言｜👤 iamnothere
+### 30. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
-### 30. [Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
-
-- ⭐ 285 分｜💬 163 留言｜👤 speckx
+- ⭐ 254 分｜💬 126 留言｜👤 Bender
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Pillowfort Is Closing
-- Borrow Checking Zero-Cost Cyclic Mutability
-- Tsrs: A Port of TypeScript to Rust
-- To Make, or to Buy: The Economics of Decision Models
-- Finland Buying a Million Landmines
+- The Other Epidemic: Trying to get off benzodiazepines
+- Good type against all odds
+- In Hilbert space, all things are quantumly possible
+- OpenAI models are coming to Google 雲端
+- Using Claude to reduce the attack surface of 代碼
+- ZX Spectrum Next Laptop
+- What shall I teach my son?
+- DeepInfer: High-performance 推論 framework for DeepSeek models
+- SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful
+- Upcoming critical PHP 安全 release (CVE-2026-109618 / -109619)
+- C# now beats Rust on WASM size
+- 'I've applied for 300 jobs. My 25 years' experience is worthless'
+- Someone Opened a CashApp in Her Name. She Faces Years in Prison
+- Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery
+- Bonanza of 新 dates rewrites the history of the Inca
+- Show HN: SimCity, but with Permits
+- Setting Up SSH Keys on macOS with Touch ID
+- eMudhra intermediate CA compromise
+- A page looks innocent: the algorithms behind a typeset page
+- Composite objects and C++26 the std:polymorphic type
+- Four Years with Decker
+- Voxtral 3
+- AI has 'potential' to turn script kiddies into sophisticated attackers
+- How the CIA Gave Steve Jobs 熱門 Secret Clearance and Helped Him Return to Apple
 - Advanced coding in low-resource 程式設計 languages
+- How were letters delivered in the ancient world before street addresses?
+- Show HN: Computer use on the phone itself: a 2B 模型 that operates Android apps
 - How I got over 300 Tor exit nodes removed
+- Pillowfort Is Closing
+- To Make, or to Buy: The Economics of Decision Models
+- The past, present, and future share a show floor at Pinball Expo 2026
+- Borrow Checking Zero-Cost Cyclic Mutability
+- Battlezone Online: BZFlag in the Browser
+- Websites taken down across Europe ahead of critical cyber-安全 更新
 - IKEA – 3D Guide
-- Making Solar Panels with a Microwave [video]
 - My Friend Bob Cringely
-- 2026 is an exciting year for the Rust compiler (and me)
+- The 800XL – full-size mechanical keyboard, a working cartridge slot, HDMI output
+- Making Solar Panels with a Microwave [video]
 - JAXA is about to perform a Phobos sample return mission
+- OVHcloud CLI releases backdoored on GitHub to steal 開發者 secrets
 - 'Der Viener Schlinger': The meat cannon that launched 20k hot dogs
-- Hazel (YC W24) Is 招聘
-- PingCap TiDB Leaks
-- Benchmarking Bot Detection Systems Against Modern AI Agents in 2026
-- Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins
-- Meta's GB{2,3}00 Cluster
-- Triplet of 'ghostly' galaxies hints at what dark matter is and isn't
-- Publish fake stats, get cited in LLMs
-- Academics have a duty to defend open knowledge systems like Wikipedia
-- Facebook Pages require paid subscription to post more than two links per month
-- What the heck is /pkg?
-- NixOS is making me less afraid
+- Google open-sources TorchTPU, a native PyTorch back end for TPUs
+- Apple broke an essential presentation feature of iPads
+- 2026 is an exciting year for the Rust compiler (and me)
 - An ad-free Android TV
-- Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude 代碼 and Ollama Support
-- Google 雲端 outage affects almost all banking and other operations in Europe
-- Archive of Our Own
-- Anthropic disclosed an $80.7B net loss for the first half of 2026
-- On AI writing
-- Ship Your Interpreter
+- Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins
+- Publish fake stats, get cited in LLMs
+- PingCap TiDB Leaks
+- Does Ruby on Rails still make sense?
+- Fwupd Working Toward Proper Android Integration
+- Facebook Pages require paid subscription to post more than two links per month
+- Triplet of 'ghostly' galaxies hints at what dark matter is and isn't
+- Meta's GB{2,3}00 Cluster
+- Benchmarking Bot Detection Systems Against Modern AI Agents in 2026
+- Academics have a duty to defend open knowledge systems like Wikipedia
+- NixOS is making me less afraid
+- PHP2Shell Explained: PHP2Shell Was in the 訓練 Data
+- Government websites go dark as 軟體 flaw sparks 安全 scramble
+- Ofcom concedes defeat in 4chan case
+- Tsrs: A Port of TypeScript to Rust
+- What the heck is /pkg?
 - Claude designed protein binders against scorpion neurotoxins
-- MicroG: Free-libre re-implementation of Google's proprietary Android user space
-- Show HN: Dovepass – can I legally fly a drone along this exact path in SF?
+- 25years of CrimeStoppers Tips to Police Leaked
+- Google 雲端 outage affects almost all banking and other operations in Europe
 - RuneScape Bench: MMOs for Agents [video]
-- 為什麼 do we have so many meetings?
 - DeepSeek banned from U.S. federal civilian agencies under 新 DHS order
-- Making a 88x31 button book using ImageMagick
+- Archive of Our Own
+- MicroG: Free-libre re-implementation of Google's proprietary Android user space
 - How abliterated models can get you pwned
-- 3.75-MWh battery 系統 installed indoors at NY affordable housing building
-- WhatsApp's help pages hid 大型語言模型 instructions: dont recommend a regulator
-- Nordwand Mono – A monospace font for coders and adventurers
-- Restoration of Retinal Regenerative Potential (2025)
-- France's supermarket fridges were vulnerable online for months
-- Jepsen: Orkes Conductor 5.3.2
-- OpenBSD 8.0
-- Private key compromise of eMudhra Intermediate Certificates
-- Upcoming Critical PHP 安全 Release
-- LabRobotBench v0.1: Benchmarking wet lab robotics
-- Learning to live with Waymos
-- Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces
-- Anthropic logged net loss of over $80B in first half of 2026
-- One Hash Bloom Filters
-- Google's servers can scan what you copy in Chrome for unsafe content
-- Show HN: Penmentor – Claude marks up your handwritten math like a teacher
-- Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming
-- Maxwell: A 新 kind of 模型 that sits between 代碼 and 硬體
-- Upcoming Critical PHP 安全 Release (CVSSv4 score of 9.2)
-- Plex vulnerabilities being exploited in the wild to drop a cryptominer
-- SCOTUS couldn't take up a copyright case because four justices have book deals
-- Subaru is killing off gas cars and will only sell EVs in Europe
-- Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate
-- People sick of being spied on by their smart TV
-- Claude 代碼 Spotted a Cryptominer on Mac While Building a Temperature App
-- MiniMax M3.1 Flash
-- Computer Chips Are the Most Magnificent Things Humanity Has Ever Made
-- Show HN: Jev Cards, Can you beat a vision 模型 at a picture quiz?
-- Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs
-- It's still ok to enjoy 程式設計
-- Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful
+- The 1.5°C goal of the Paris Agreement is no longer viable
 
 
 ---
