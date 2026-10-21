@@ -186,9 +186,9 @@ Cloudflare推出AI模型Clairic，擴展低延遲系統 One模型的應用範圍
 
 - 📰 **iThome 科技**
 
-### 30. [This Startup Is All In on Recursive Self-Improvement. Its Latest 模型 Is Scary Good](https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/)
+### 30. [Trump Isn’t Even Good at TV Anymore](https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/)
 
-Recursive makes the case that the benefits of using AI to 構建 AI outweigh the risks.
+From Trump TV to a Shark Tank knockoff, the president’s latest entertainment ventures are a steep decline from his days on The Apprentice.
 
 - 📰 **Wired**
 
@@ -196,6 +196,12 @@ Recursive makes the case that the benefits of using AI to 構建 AI outweigh the
 
 ### 更多 AI 新聞 (70則)
 
+- Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds (**Wired**)
+- Eufy 安全 Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget (**Wired**)
+- Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026) (**Wired**)
+- GM Wants Your Car to Do Your Chores (**Wired**)
+- The 最佳 Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026) (**Wired**)
+- This Startup Is All In on Recursive Self-Improvement. Its Latest 模型 Is Scary Good (**Wired**)
 - Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers (**Wired**)
 - 7 最佳 Phones You Can’t Buy in the US (2026) (**Wired**)
 - ‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire (**Wired**)
@@ -212,11 +218,11 @@ Recursive makes the case that the benefits of using AI to 構建 AI outweigh the
 - The 最佳 Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More (**Wired**)
 - She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family (**Wired**)
 - Europe Wants Data Centers. Its Climate Goals Are Getting in the Way (**Wired**)
-- LG Promo Codes and Coupons for October 2026 (**Wired**)
-- Ulta Promo Codes: Up to 20% Off in October 2026 (**Wired**)
-- 20% Off Sephora Promo 代碼 | October 2026 (**Wired**)
 - TurboTax Full Service Coupons This October 2026 (**Wired**)
 - Home Depot Promo Codes: 30% Off in October 2026 (**Wired**)
+- Ulta Promo Codes: Up to 20% Off in October 2026 (**Wired**)
+- 20% Off Sephora Promo 代碼 | October 2026 (**Wired**)
+- LG Promo Codes and Coupons for October 2026 (**Wired**)
 - Udemy Coupon Codes: 20% Off October 2026 (**Wired**)
 - A 新 Rocco Smart Fridge Just Dropped. So Did the Prices (2026) (**Wired**)
 - French Government Calls Emergency Meetings With Platforms Over Protests (**Wired**)
@@ -235,16 +241,10 @@ Recursive makes the case that the benefits of using AI to 構建 AI outweigh the
 - 50% Off DoorDash Promo 代碼 | October 2026 (**Wired**)
 - Adorama Camera Coupon Codes &amp; Promo Codes: October 2026 (**Wired**)
 - 30% Off Canon Promo Codes | October 2026 (**Wired**)
-- Wayfair Coupons: Up to 80% Off October 2026 (**Wired**)
-- Mattress Firm Coupons: Save up to $700 (**Wired**)
 - Mint 行動 Discounts for October 2026 (**Wired**)
+- Mattress Firm Coupons: Save up to $700 (**Wired**)
+- Wayfair Coupons: Up to 80% Off October 2026 (**Wired**)
 - Chewy Promo Codes: $20 Off October 2026 (**Wired**)
-- Whoop Promo Codes: 20% Off This October 2026 (**Wired**)
-- Home Chef Promo Codes for October 2026 (**Wired**)
-- eBay Coupons: 20% Off in October 2026 (**Wired**)
-- AT&amp;T Promo Codes: $50 Off This October 2026 (**Wired**)
-- 最佳 Power Bank Deals: Laptops, MagSafe, and More (**Wired**)
-- OpenAI 工程師 Accused of Spying on Executives Ordered to Remain in Custody (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
