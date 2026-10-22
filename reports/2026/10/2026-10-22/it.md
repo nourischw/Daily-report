@@ -4,210 +4,206 @@
 
 ---
 
-### 1. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+### 1. [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
 
-- ⭐ 242 分｜💬 64 留言｜👤 ahlCVA
+- ⭐ 120 分｜💬 31 留言｜👤 keks24
 
-### 2. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+### 2. [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 
-- ⭐ 200 分｜💬 91 留言｜👤 zkldi
+- ⭐ 38 分｜💬 2 留言｜👤 molind
 
-### 3. [安全 Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+### 3. [WorldTUI: I trained a 360M 模型 to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 
-- ⭐ 331 分｜💬 173 留言｜👤 passenger
+- ⭐ 239 分｜💬 74 留言｜👤 alphax314
 
-### 4. [大型語言模型 Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)
+### 4. [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 
-- ⭐ 11 分｜💬 1 留言｜👤 grabnero
+- ⭐ 213 分｜💬 144 留言｜👤 craigcitro
 
-### 5. [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+### 5. [Achieving AI-style reasoning without an 大型語言模型](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
 
-- ⭐ 258 分｜💬 64 留言｜👤 artooro
+- ⭐ 35 分｜💬 12 留言｜👤 edwardchalk
 
-### 6. [Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+### 6. [安全 Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 
-- ⭐ 222 分｜💬 122 留言｜👤 kaycebasques
+- ⭐ 477 分｜💬 279 留言｜👤 passenger
 
-### 7. [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+### 7. [Claude Duet](https://claude.com/product/claude-duet)
 
-- ⭐ 447 分｜💬 151 留言｜👤 abhisek
+- ⭐ 399 分｜💬 364 留言｜👤 kuberwastaken
 
-### 8. [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
+### 8. [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 
-- ⭐ 12 分｜💬 3 留言｜👤 Mayzie
+- ⭐ 332 分｜💬 196 留言｜👤 riffraff
 
-### 9. [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
+### 9. [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
 
-- ⭐ 38 分｜💬 17 留言｜👤 ibobev
+- ⭐ 529 分｜💬 172 留言｜👤 abhisek
 
-### 10. [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+### 10. [Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 
-- ⭐ 3 分｜💬 0 留言｜👤 craigcitro
+- ⭐ 317 分｜💬 191 留言｜👤 kaycebasques
 
-### 11. [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
+### 11. [Using 大型語言模型 for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)
 
-- ⭐ 201 分｜💬 134 留言｜👤 riffraff
+- ⭐ 104 分｜💬 55 留言｜👤 jimauthors
 
-### 12. [Meta ordered to pay $25B penalty in 新 Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
+### 12. [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+
+- ⭐ 357 分｜💬 84 留言｜👤 artooro
+
+### 13. [OpenAI CLI](https://github.com/openai/openai-cli)
+
+- ⭐ 132 分｜💬 73 留言｜👤 armcat
+
+### 14. [The Robot I Didn't Expect to 構建](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
+
+- ⭐ 13 分｜💬 7 留言｜👤 bojackh
+
+### 15. [Startup taps underwater volcano as energy source in "proof point" 測試](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
+
+- ⭐ 6 分｜💬 0 留言｜👤 wffurr
+
+### 16. [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
+
+- ⭐ 353 分｜💬 56 留言｜👤 swyx
+
+### 17. [什麼是 the Karakoram Anomaly?](https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real)
+
+- ⭐ 37 分｜💬 8 留言｜👤 thunderbong
+
+### 18. [Meta ordered to pay $25B penalty in 新 Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
 
 https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-新-mexico-department-of...
 
-- ⭐ 401 分｜💬 255 留言｜👤 cbg0
+- ⭐ 576 分｜💬 330 留言｜👤 cbg0
 
-### 13. [Today's PHP 安全 release, and how we're strengthening 安全](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+### 19. [Tiny possum and glider thought extinct for 6000 years found in 遠端 West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
+
+- ⭐ 222 分｜💬 51 留言｜👤 bryanrasmussen
+
+### 20. [代碼 is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
+
+- ⭐ 181 分｜💬 115 留言｜👤 albertodenia
+
+### 21. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+
+- ⭐ 492 分｜💬 117 留言｜👤 ahlCVA
+
+### 22. [OpenAI models are coming to Google 雲端](https://openai.com/index/openai-models-google-cloud/)
+
+- ⭐ 294 分｜💬 122 留言｜👤 armcat
+
+### 23. [I can't use generic lambdas at compile-time, now what?](https://blog.ganets.ky/ClangGenericLambdas/)
+
+- ⭐ 14 分｜💬 1 留言｜👤 ibobev
+
+### 24. [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200)
+
+- ⭐ 424 分｜💬 56 留言｜👤 nnx
+
+### 25. [Beyond the &](https://lwn.net/Articles/1096028/)
+
+- ⭐ 69 分｜💬 4 留言｜👤 PaulHoule
+
+### 26. [Today's PHP 安全 release, and how we're strengthening 安全](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 
 Related ongoing thread: PHP 8.2.35 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873(links to more at https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935)
 
-- ⭐ 690 分｜💬 339 留言｜👤 ejohnso49
+- ⭐ 743 分｜💬 368 留言｜👤 ejohnso49
 
-### 14. [Tiny possum and glider thought extinct for 6000 years found in 遠端 West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
+### 27. [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
 
-- ⭐ 162 分｜💬 25 留言｜👤 bryanrasmussen
+- ⭐ 99 分｜💬 51 留言｜👤 ibobev
 
-### 15. [Postgres recovery_prefetch can cause outages](https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/)
+### 28. [ThinkPad I9990303 Error Catch-22](http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/)
 
-- ⭐ 4 分｜💬 0 留言｜👤 plaur782
+- ⭐ 30 分｜💬 4 留言｜👤 userbinator
 
-### 16. [Using 大型語言模型 for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)
+### 29. [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)
 
-- ⭐ 4 分｜💬 0 留言｜👤 jimauthors
+Hey all, Kartik from Omnara (https:&#x2F;&#x2F;omnara.com) here. We&#x27;re building an open-source API for running durable agents. You create an 代理 with an API call, and Omnara runs the 代理 loop
 
-### 17. [代碼 is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
+- ⭐ 82 分｜💬 25 留言｜👤 kmansm27
 
-- ⭐ 101 分｜💬 54 留言｜👤 albertodenia
+### 30. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 
-### 18. [I reverse engineered a board game](https://wuemeli.com/blog/reversing-hitster-game/)
-
-- ⭐ 4 分｜💬 0 留言｜👤 wuemeli
-
-### 19. [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
-
-- ⭐ 226 分｜💬 32 留言｜👤 swyx
-
-### 20. [OpenAI models are coming to Google 雲端](https://openai.com/index/openai-models-google-cloud/)
-
-- ⭐ 246 分｜💬 107 留言｜👤 armcat
-
-### 21. [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
-
-https:&#x2F;&#x2F;patchtheplanet.org&#x2F;
-
-- ⭐ 237 分｜💬 162 留言｜👤 nr378
-
-### 22. [Beyond the &](https://lwn.net/Articles/1096028/)
-
-- ⭐ 12 分｜💬 0 留言｜👤 PaulHoule
-
-### 23. [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200)
-
-- ⭐ 373 分｜💬 49 留言｜👤 nnx
-
-### 24. [為什麼 Windows 11 still ships with Windows 95's memory 經理 hidden inside it](https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/)
-
-- ⭐ 142 分｜💬 97 留言｜👤 khalidkhair
-
-### 25. [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
-
-- ⭐ 551 分｜💬 331 留言｜👤 aaronbrethorst
-
-### 26. [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
-
-- ⭐ 173 分｜💬 85 留言｜👤 surprisetalk
-
-### 27. [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
-
-Hi HN! We’re Srikar and Kevan, founders of Alter – https:&#x2F;&#x2F;alterauth.com&#x2F;. We’re building access control for agents that can take actions on behalf of multiple users.If you’ve built an 
-
-- ⭐ 54 分｜💬 22 留言｜👤 simfinii
-
-### 28. [Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441)
-
-- ⭐ 31 分｜💬 18 留言｜👤 aleph_minus_one
-
-### 29. [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
-
-Related ongoing thread: Today&#x27;s PHP 安全 release, and how we&#x27;re strengthening 安全 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987
-
-- ⭐ 977 分｜💬 536 留言｜👤 tuyuri
-
-### 30. [Honey, I shrunk the TV](https://cakehonolulu.github.io/honey-i-shrunk-the-tv/)
-
-- ⭐ 9 分｜💬 19 留言｜👤 cakehonolulu
+- ⭐ 538 分｜💬 329 留言｜👤 zkldi
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Claude Duet
-- The Rise and Fall of the Plasma Screen
-- 9 Mothers (YC P26) Is 招聘 in Austin, TX
-- When Do We Become the Person We Ought to Be?
-- 新 plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic
-- Using thousands of AI agents to uncover 新 leads in biological data
-- Airbnb bans making guests do dishes and take out the trash
+- The compiler was supposed to end 程式設計 too
+- PHP 8.2.35
+- Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin
+- Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.
+- Patch the Planet: global response coordination as agents uncover vulnerabilities
+- Launch HN: Alter (YC S25) – Access control for multi-user agents
+- EA is shutting down BioWare
 - Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds
-- PHP 網頁 runtimes (CVE-2026-109618 and CVE-2026-109619)
-- Claude Duet
-- Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed
-- Drupal is now light-years ahead of its reputation
-- Qpack amplification attacks against HTTP/3 servers
+- Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages
+- 為什麼 Windows 11 still ships with Windows 95's memory 經理 hidden inside it
+- Chinese stocks turn biggest losers as global AI trade stumbles
+- Postgres recovery_prefetch can cause outages
+- Using thousands of AI agents to uncover 新 leads in biological data
+- 新 plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic
+- Cloudflare deploys protections against php2shell vulnerability
+- Airbnb bans making guests do dishes and take out the trash
 - Way to Play Super Mario 64: On Apple Vision Pro
-- Canary Tokens
+- Claude Now Works with Google Docs, Sheets, and Slides
+- Epic Games Inc v Apple Inc
+- 9 Mothers (YC P26) Is 招聘 in Austin, TX
+- I reverse engineered a board game
+- Claude Duet
+- Cloudflare is rewriting everything in Rust
+- Drupal is now light-years ahead of its reputation
+- DeepInfer: High-performance 推論 framework for DeepSeek models
+- AI-Assisted Product Discovery: 如何 Succeed and 如何 Fail
 - The bridge to 代理-scale Git infrastructure
-- Show HN: Omnara – Open-Source Alternative to Claude Managed Agents
-- Tesla profits drop 43% in Q3
-- CleanFrame: A quieter home screen for Samsung The Frame
+- Canary Tokens
 - Your MCU likely escaped the eMudhra intermediate CA compromise
 - Texas Continued Data Center Permitting After the Governor's Pause
-- Rails Is a JIT Compiler
-- A Place Among the Fiddlers
-- Data centers could erase decades of air quality gains
-- C++ futures part 1: The mental 模型
-- Potential third critical PHP CVE
-- Show HN: Sumi.css – CSS Framework
-- The Decoherence Trap
-- DeepInfer: High-performance 推論 framework for DeepSeek models
-- Corporate Linux
-- Trials and Tribulations of Native Lua Compilation
+- CleanFrame: A quieter home screen for Samsung The Frame
 - Good type against all odds
-- CDC Ignored Request from States to Validate a 新 Measles 測試
-- In Hilbert space, all things are quantumly possible
-- The Future of CSS
-- Google staff resign in backlash over its AI contracts with military
-- Whatever Happened to Fire Escapes
-- Show HN: ULDA – Client-side encryption with a simple JavaScript API
+- The Decoherence Trap
+- PHP 網頁 runtimes (CVE-2026-109618 and CVE-2026-109619)
+- C++ futures part 1: The mental 模型
 - eMudhra intermediate CA compromise
-- The Lucrative World of Literary Scams
-- ZX Spectrum Next Laptop
+- Show HN: Sumi.css – CSS Framework
+- The Future of CSS
+- In Hilbert space, all things are quantumly possible
 - Show HN: SimCity, but with Permits
+- Qpack amplification attacks against HTTP/3 servers
+- 大型語言模型 agents play Pokemon showdown
+- When Do We Become the Person We Ought to Be?
+- ZX Spectrum Next Laptop
+- Node.js 安全 advisory: Brotli decoder RCE (CVE-2026-111497)
+- I told people I'm a convicted felon after 20 years of hiding it
+- Tesla profits drop 43% in Q3
 - Muse exposes users' personal and business secrets when they share conversations
-- Using Claude to reduce the attack surface of 代碼
-- Oracle 安全 Alert Advisory – CVE-2026-91403 (eMudhra cert revocation)
-- The iPhone Duo
-- gocryptfs: Encrypted overlay filesystem written in Go
-- 新 World screwworm cases confirmed in wildlife in Texas, beef cow in 新 Mexico
-- Node.js Brotli RCE (CVE-2026-111497)
-- Voxtral 3
-- How I got over 300 Tor exit nodes removed
-- 'Billions' Star Asia Kate Dillon Says Acting Jobs Have 'Diminished'
-- Japan's Onamae Desktop 雲端 hacked, up to 27,000 servers affected
-- 安全 advisory: Critical 遠端 代碼 execution vulnerabilities, 更新 now
-- AI 代理 fixed the bug, but what else did it change?
-- Bonanza of 新 dates rewrites the history of the Inca
-- What the PHP2Shell rumors got wrong, from inside the PHP 安全 team
-- Advanced coding in low-resource 程式設計 languages
-- Meta fined $25B for 'lies' over user data privacy
-- PHP2Shell: AI uncovers critical RCE in PHP
-- Setting Up SSH Keys on macOS with Touch ID
-- Presented by Stripe
-- Show HN: Overdesigned Simple Solitaire
-- My Friend Bob Cringely
+- Whatever Happened to Fire Escapes
+- Show HN: AI-built browser games, collected in one place
+- A Lost Schrödinger Manuscript Reveals a Surprising Twist in Quantum Physics
 - Plex laid off the whole player team
-- Feds suspect ransom negotiator ran ShinyHunters extortion site
-- IKEA – 3D Guide
+- Potential third critical PHP CVE
+- Voxtral 3
+- A Place Among the Fiddlers
+- Using Claude to reduce the attack surface of 代碼
+- Trials and Tribulations of Native Lua Compilation
+- How I got over 300 Tor exit nodes removed
+- The Lucrative World of Literary Scams
+- 安全 advisory: Critical 遠端 代碼 execution vulnerabilities, 更新 now
+- Show HN:Odd Orbit, live 3D globe of quakes, weather, satellites and UFO reports
+- Advanced coding in low-resource 程式設計 languages
 - An ad-free Android TV
-- Four Years with Decker
-- Hertzon: Open-Source 3D Full-Wave FEM Solver
+- gocryptfs: Encrypted overlay filesystem written in Go
+- Anthropic's Public Benefit Charter
+- The Rise and Fall of the Plasma Screen
+- Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed
+- My Friend Bob Cringely
+- Show HN: ULDA – Client-side encryption with a simple JavaScript API
+- Rails Is a JIT Compiler
 
 
 ---
