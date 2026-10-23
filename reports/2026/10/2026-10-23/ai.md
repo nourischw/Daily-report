@@ -196,6 +196,9 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 
 ### 更多 AI 新聞 (70則)
 
+- Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday (**Wired**)
+- What’s the 最佳 iPhone to Buy or Avoid Right Now? (2026) (**Wired**)
+- Elon Musk Just Dumped Another $76 Million Into the Midterms (**Wired**)
 - How Many Billions Would It Take to Hold Meta Accountable? (**Wired**)
 - Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could (**Wired**)
 - Split Tunneling Is Your VPN’s 最佳 Feature. Here’s 如何 Make the Most of It (**Wired**)
@@ -243,9 +246,6 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 - Telehealth Giant Hims Wants to 測試 Every Dude for Low Testosterone (**Wired**)
 - Roku Pro Series OLED TV Review (2026) (**Wired**)
 - A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse (**Wired**)
-- Apple iPhone Duo Review: Is It Worth It? (**Wired**)
-- 最佳 Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More (**Wired**)
-- Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’ (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
