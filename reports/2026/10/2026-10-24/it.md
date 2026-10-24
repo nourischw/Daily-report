@@ -4,210 +4,206 @@
 
 ---
 
-### 1. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+### 1. [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+
+- ⭐ 154 分｜💬 43 留言｜👤 pentagrama
+
+### 2. [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+
+- ⭐ 5 分｜💬 1 留言｜👤 rramadass
+
+### 3. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 
 https:&#x2F;&#x2F;www.kimi.com&#x2F;代碼&#x2F;docs&#x2F;en&#x2F;kimi-代碼&#x2F;models.htmlhttps:&#x2F;&#x2F;artificialanalysis.AI&#x2F;models&#x2F;kimi-k3-1-prohttps:&#x2F;&#x2F;www.modelcompare.AI&#x
 
-- ⭐ 748 分｜💬 464 留言｜👤 Jowsey
+- ⭐ 915 分｜💬 533 留言｜👤 Jowsey
 
-### 2. [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+### 4. [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 
-- ⭐ 97 分｜💬 45 留言｜👤 cowlevel
+- ⭐ 47 分｜💬 16 留言｜👤 mooreds
 
-### 3. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+### 5. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+
+- ⭐ 884 分｜💬 577 留言｜👤 pavel_lishin
+
+### 6. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+
+- ⭐ 202 分｜💬 25 留言｜👤 otoolep
+
+### 7. [How close can pure functional 程式設計 get to C?](https://rtfeldman.com/fp-vs-c)
+
+- ⭐ 121 分｜💬 12 留言｜👤 stmonty
+
+### 8. [ThinkRail from JetBrains](https://thinkrail.ai/)
+
+- ⭐ 17 分｜💬 3 留言｜👤 wilsonjholmes
+
+### 9. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
 
 https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;10&#x2F;23&#x2F;Apple-music-has-a-hidde...
 
-- ⭐ 612 分｜💬 198 留言｜👤 frizlab
+- ⭐ 764 分｜💬 232 留言｜👤 frizlab
 
-### 4. [CVE Tracker](https://cve.0xosprey.com/)
+### 10. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 
-- ⭐ 114 分｜💬 43 留言｜👤 Group_B
+- ⭐ 1384 分｜💬 235 留言｜👤 sohkamyung
 
-### 5. [Dessa: the most authentic full-duplex speech 模型 ever built](https://block.xyz/dessa)
+### 11. [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
 
-- ⭐ 256 分｜💬 104 留言｜👤 dsr12
+- ⭐ 94 分｜💬 28 留言｜👤 westsmith
 
-### 6. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+### 12. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 
-- ⭐ 1263 分｜💬 225 留言｜👤 sohkamyung
+- ⭐ 155 分｜💬 37 留言｜👤 Ravencentric
 
-### 7. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+### 13. [Dessa: Conversation 模型 trained only on speech](https://block.xyz/dessa)
 
-- ⭐ 764 分｜💬 515 留言｜👤 pavel_lishin
+- ⭐ 389 分｜💬 139 留言｜👤 dsr12
 
-### 8. [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
+### 14. [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
 
-- ⭐ 252 分｜💬 71 留言｜👤 xnx
+- ⭐ 71 分｜💬 6 留言｜👤 privacyishuman
 
-### 9. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
+### 15. [Apple 安全 Research Device](https://security.apple.com/research-device/)
 
-- ⭐ 29 分｜💬 9 留言｜👤 Ravencentric
+- ⭐ 67 分｜💬 22 留言｜👤 neom
 
-### 10. [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
+### 16. [如何 run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
 
-- ⭐ 344 分｜💬 177 留言｜👤 hn_acker
+- ⭐ 11 分｜💬 3 留言｜👤 rex64
 
-### 11. [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+### 17. [CVE Tracker](https://cve.0xosprey.com/)
 
-- ⭐ 5 分｜💬 0 留言｜👤 otoolep
+- ⭐ 171 分｜💬 61 留言｜👤 Group_B
 
-### 12. [C vs. C#: racing VLC's Gaussian blur](https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/)
+### 18. [The 最佳 Monopoly Strategy, Tested on 300M Games [video]](https://www.youtube.com/watch?v=S_2eVAaw1UM)
 
-- ⭐ 18 分｜💬 0 留言｜👤 martz
+- ⭐ 25 分｜💬 17 留言｜👤 zdw
 
-### 13. [Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)
+### 19. [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
 
-- ⭐ 32 分｜💬 39 留言｜👤 JKCalhoun
+- ⭐ 417 分｜💬 220 留言｜👤 hn_acker
 
-### 14. [Show HN: Corgi, a helpful {代理, terminal} multiplexer](https://corgi.computer/)
+### 20. [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
+
+- ⭐ 133 分｜💬 23 留言｜👤 testing22321
+
+### 21. [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
+
+- ⭐ 308 分｜💬 78 留言｜👤 xnx
+
+### 22. [U-2 spy plane makes rare appearance in Bay Area flyover](https://www.sfgate.com/bayarea/article/government-spy-plane-49ers-22485781.php)
+
+- ⭐ 3 分｜💬 0 留言｜👤 bookofjoe
+
+### 23. [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
+
+- ⭐ 53 分｜💬 16 留言｜👤 motionlessveloc
+
+### 24. [C vs. C#: racing VLC's Gaussian blur](https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/)
+
+- ⭐ 80 分｜💬 22 留言｜👤 martz
+
+### 25. [The Quake Fan who built the map editor everybody uses](https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses)
+
+- ⭐ 115 分｜💬 11 留言｜👤 klaussilveira
+
+### 26. [One Man's Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
+
+- ⭐ 35 分｜💬 2 留言｜👤 Teever
+
+### 27. [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+
+- ⭐ 131 分｜💬 119 留言｜👤 luu
+
+### 28. [Show HN: Corgi, a helpful {代理, terminal} multiplexer](https://corgi.computer/)
 
 Hey everyone,Inspired by Herdr, I&#x27;ve built an 代理 multiplexer that I&#x27;ve been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the e
 
-- ⭐ 43 分｜💬 7 留言｜👤 eiopa
+- ⭐ 83 分｜💬 23 留言｜👤 eiopa
 
-### 15. [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+### 29. [Rise of collagen-eating microbes may help explain gaps in the fossil record](https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record)
 
-- ⭐ 293 分｜💬 157 留言｜👤 JustSkyfall
+- ⭐ 48 分｜💬 2 留言｜👤 gmays
 
-### 16. [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
+### 30. [UUIDv7: Timestamps aren’t time-ordered and other oddities](https://alexsci.com/blog/uuidv7-is-weird/)
 
-- ⭐ 16 分｜💬 2 留言｜👤 amichail
-
-### 17. [A Bicycle Journey Across Brazil to Find a Vanishing Savanna](https://e360.yale.edu/features/2026-film-contest-second-place-cerrado)
-
-- ⭐ 33 分｜💬 8 留言｜👤 throwaway2037
-
-### 18. [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
-
-- ⭐ 73 分｜💬 96 留言｜👤 luu
-
-### 19. [Rise of collagen-eating microbes may help explain gaps in the fossil record](https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record)
-
-- ⭐ 18 分｜💬 0 留言｜👤 gmays
-
-### 20. [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release)
-
-- ⭐ 40 分｜💬 9 留言｜👤 ernestrc
-
-### 21. [No Source 代碼? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
-
-- ⭐ 36 分｜💬 31 留言｜👤 ibobev
-
-### 22. [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
-
-- ⭐ 36 分｜💬 7 留言｜👤 ibobev
-
-### 23. [DNS: A Replacement for Finger](https://altchan.org/sh/42)
-
-- ⭐ 28 分｜💬 21 留言｜👤 Bender
-
-### 24. [Animations for 系統 Builders](https://brooker.co.za/blog/2026/10/23/animations.html)
-
-- ⭐ 42 分｜💬 3 留言｜👤 KraftyOne
-
-### 25. [Securing our frontier 模型 訓練 environment](https://openai.com/index/securing-our-frontier-model-training-environment/)
-
-- ⭐ 78 分｜💬 95 留言｜👤 pretext
-
-### 26. [Show HN: Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz)
-
-Hey all —Sharing a thought experiment I put together. The premise: what might declarative 程式設計 feel like for the physical world?We’re already familiar with this paradigm in 軟體 land (eg SQ
-
-- ⭐ 69 分｜💬 17 留言｜👤 bhaprayan
-
-### 27. [Reforming English Spelling](https://blog.oup.com/2026/10/reforming-english-spelling/)
-
-- ⭐ 28 分｜💬 86 留言｜👤 jruohonen
-
-### 28. [LISP Comes of Age (1980)](https://microship.com/lisp-comes-of-age/)
-
-- ⭐ 63 分｜💬 17 留言｜👤 so-cal-schemer
-
-### 29. [Show HN: Swurf – Swipe through the real 網頁](https://swurf.org/)
-
-Hello HN,Swurf allows you to swipe through the real 網頁 one page after another. It learns what you like and doesn’t show you the same page twice. The idea came naturally: there’s a seemingly infinite 
-
-- ⭐ 60 分｜💬 29 留言｜👤 webtjb096
-
-### 30. [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
-
-- ⭐ 67 分｜💬 27 留言｜👤 scrambled
+- ⭐ 147 分｜💬 119 留言｜👤 ibobev
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- German court calls Google aerial imagery 'spying'
-- WorldTUI: I trained a 360M 模型 to pretend to be a terminal
-- The Missed Opportunities of Sonic 06 (2025)
-- Gemma-4-26B-A4B with 39-69% less thinking at same accuracy
-- UUIDv7 doesn't have the properties you think it does
-- Docker is weird
-- How does Fable 5.1 hide messages in images?
-- Can we replace a $150k Looker with a bucket of HTML files?
-- Password, Please: Border Searches of Laptops, Phones Up 32% This Year
-- Time Nuts (2005)
-- This I Believe (1952)
-- Proton hosts map of 300k Flock devices amid legal threats
-- Total Historian
-- 新 AI Is More Than Twice as Good at Diagnosing Diseases as Doctors
-- Jank – The native Clojure dialect with seamless C++ interop
-- Show HN: Making a smart TV dumb and then smart
-- HumanLayer is now 開源
-- Ask HN: If the models are so good, 為什麼 doesn't OpenAI just start 100 companies?
-- We have traits at home
-- Google will pay people to use less electricity so its data centers can use more
 - How is music possible
-- John Snow Cholera Data
-- 工作 loss and cortisone mania
-- Every AI 模型 has the same "controversial" take on humans
-- We are all living inside of an obscure sci-fi film from 1970
-- Native Prometheus Integration with Nginx
-- The foolishness of "natural language 程式設計" (1978)
-- Moreutils: The utilities package every Unix/Linux/Mac OS 開發者 should know
-- Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key
-- Color Names
-- Remove pgrust: the entry is cheating (per-query kernels and result caching)
-- An alignment assessment of the UK AISI cybertesting incident
-- OpenShell – A safe, private runtime for fleets of autonomous AI agents
-- AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings
-- OpenSSL 4.1.0
-- Brotli vulnerability affects curl and Git
-- I reverse engineered a board game
-- AI devours a fifth of companies' IT budgets
-- The HTML-in-Canvas API origin trial
-- Jailbreaking the Switch 2
-- Run full iOS 16.5 firmware on Android Devices
-- Railpass
-- Show HN: Uberblok – an interactive museum of ZFS internals
-- LLMs are making formal 軟體 verification feasible at a much larger scale
-- Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry
-- Crows can evaluate visual info twice as fast as mammals
-- Startup taps underwater volcano as energy source in “proof point” 測試
-- Factorio version 2.1, the final major 更新 for the game, has been 發布
-- The alien space of science: Coherent but cognitively unavailable directions
-- Getting ready to operate GNU Taler in Germany
-- Two States Can Now Restrict Social Media Access–Here's What to Do Next
-- The future might just be 軟體 freedom (and less e-waste)
-- A Fix for Softmax and Cross-Entropy
-- Oil spill washes up on UAE beaches after tanker strike
-- Xbox wants you to pay 24 to 40 cents per hour to stream games you bought
-- Quad9 to exit France
-- Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)
-- Florida officer found dead man, impersonated him for years, renovated his home
-- Using 大型語言模型 for confidence scoring is a bad idea
-- Caffeine-like utility to keep you MacBook awake with its lid closed
-- AI is devastating higher education, but the 系統 was broken
-- Unit Tests are not the enemy
-- Built a site that teaches investing using the live market as the examples
-- SpaceX in Talks to Access 80k Cell Sites for Wireless 網絡
-- Brokerage Firms Want to Yank Away Your Investor Protections
+- A Cocktail Party in the Street: An Interview with Alan Stillman (2010)
+- The past, present, and future share a show floor at Pinball Expo 2026
 - Is this the 新 cyber normal?
-- List of Game PC Ports and Recompilations
-- 如何 Design Flowers
-- Show HN: We had AI write a wiki from 45k Enron emails, every fact cited
-- Semantic search across major museums
+- A Bicycle Journey Across Brazil to Find a Vanishing Savanna
+- WorldTUI: I trained a 360M 模型 to pretend to be a terminal
+- Evolving Threat: http2shell is an RCE in Node, Python, and more
+- Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques
+- Animations for 系統 Builders
+- DNS: A Replacement for Finger
+- A whirlwind tour of systemd-nspawn containers (2025)
+- Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501
+- Reforming English Spelling
+- Show HN: Impossible Machines: declaratively program the physical world
+- Docker is weird
+- Show HN: Swurf – Swipe through the real 網頁
+- Securing our frontier 模型 訓練 environment
+- Password, Please: Border Searches of Laptops, Phones Up 32% This Year
+- Indian government sites are serving revoked eMudhra certificates
+- CowAgent – Open-Source Super AI 助手
+- How does Fable 5.1 hide messages in images?
+- No Source 代碼? No Problem
+- LISP Comes of Age (1980)
+- Jank – The native Clojure dialect with seamless C++ interop
+- Gemma-4-26B-A4B with 39-69% less thinking at same accuracy
+- HumanLayer is now 開源
+- This I Believe (1952)
+- The Missed Opportunities of Sonic 06 (2025)
+- Ask HN: If the models are so good, 為什麼 doesn't OpenAI just start 100 companies?
+- German court calls Google aerial imagery 'spying'
+- Moreutils: The utilities package every Unix/Linux/Mac OS 開發者 should know
+- Every AI 模型 has the same "controversial" take on humans
+- Show HN: Making a smart TV dumb and then smart
+- Proton hosts map of 300k Flock devices amid legal threats
+- The foolishness of "natural language 程式設計" (1978)
+- Color Names
+- We have traits at home
+- OpenShell – A safe, private runtime for fleets of autonomous AI agents
+- We are all living inside of an obscure sci-fi film from 1970
+- Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key
+- Jailbreaking the Switch 2
+- Total Historian
+- Time Nuts (2005)
+- Run full iOS 16.5 firmware on Android Devices
+- Remove pgrust: the entry is cheating (per-query kernels and result caching)
+- Railpass
+- A visual 介紹 information theory
+- 工作 loss and cortisone mania
+- Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry
+- Show HN: Uberblok – an interactive museum of ZFS internals
+- Startup taps underwater volcano as energy source in “proof point” 測試
+- I reverse engineered a board game
+- Brotli vulnerability affects curl and Git
+- Getting ready to operate GNU Taler in Germany
+- Using 大型語言模型 for confidence scoring is a bad idea
+- LLMs are making formal 軟體 verification feasible at a much larger scale
+- Xbox wants you to pay 24 to 40 cents per hour to stream games you bought
+- The HTML-in-Canvas API origin trial
+- Quad9 to exit France
+- Native Prometheus Integration with Nginx
+- Google will pay people to use less electricity so its data centers can use more
+- DeepInfer: High-performance 推論 framework for DeepSeek models
+- Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups
+- OpenSSL 4.1.0
+- The alien space of science: Coherent but cognitively unavailable directions
+- John Snow Cholera Data
+- An alignment assessment of the UK AISI cybertesting incident
+- I turned my TV into a Game Boy Color with a Pokemon town as my home screen
+- The future might just be 軟體 freedom (and less e-waste)
+- 新 AI Is More Than Twice as Good at Diagnosing Diseases as Doctors
 
 
 ---
