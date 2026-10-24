@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [PHP2Shell漏洞修補釋出兩天後，PHP基金會警告還有一個待修補的遠端程式��執行漏洞](https://www.ithome.com.tw/news/179943)
+### 1. [PHP2Shell漏洞修補釋出兩天後，PHP基金會警告還有一個待修補的遠端程式碼執行漏洞](https://www.ithome.com.tw/news/179943)
 
 從10月20日起，PHP2Shell漏洞（CVE-2026-109618與CVE-2026-109619）的發現、揭露與修補議題，掀起新一波全球網站資安風暴，兩天後，PHP基金會預告PHP還有一個遠端程式碼執行（RCE）漏洞CVE-2026-115560尚待修補，目前用戶可採取的緩解方式是將 session.upload_progr
 
@@ -16,7 +16,7 @@
 
 - 📰 **iThome 科技**
 
-### 3. [91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出現相關攻擊案例](https://www.ithome.com.tw/news/179923)
+### 3. [91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出��相關攻擊案例](https://www.ithome.com.tw/news/179923)
 
 電商技術服務業者91APP日前發布資安重大訊息，揭露旗下Commerce 雲端資料庫遭自動化攻擊，部分資訊遭非法擷取，不過當時並未說明具體入侵途徑。如今該公司於10月22日公布《91APP 2026遭受駭客攻擊事件18天調查報告》，揭露系統內發現ARTEX自動化攻擊工具的痕跡，也說明此次入侵的主要破口，是第三方工具Appsmith的漏洞未及時修補。
 
@@ -37,15 +37,15 @@ DNS服務負責將網站名稱轉換成電腦連線所需的網路位址，讓�
 
 ### 6. [【資安週報】1019～1022，91APP事件延燒、Zeabur再遭駭，AI自主網攻與PHP2Shell風暴引關注](https://www.ithome.com.tw/news/179896)
 
-本週臺灣資安事件備受關注，雲端部署平臺Zeabur��度遭駭，後續已宣布年底停止營運，並公布初步事件調查結果；91APP資料庫遭非法存取事件持續延燒，陸續有合作品牌發布資安公告及防詐提醒，影響範圍逐漸浮現，同時有滿心、歐都納、立康、清淨海生技、科懋生物科技、柏文健康，還有美食-KY接連發布資安重訊。此外，思科揭露中國駭客UAT-11985針對臺灣研究機構發動攻擊，不僅冒用相關機構名義寄送釣魚信，還利用Google服務發動對手中間人（AiTM）網釣攻擊。
+本週臺灣資安事件備受關注，雲端部署平臺Zeabur再度遭駭，後續已宣布���底停止營運，並公布初步事件調查結果；91APP資料庫遭非法存取事件持續延燒，陸續有合作品牌發布資安公告及防詐提醒，影響範圍逐漸浮現，同時有滿心、歐都納、立康、清淨海生技、科懋生物科技、柏文健康，還有美食-KY接連發布資安重訊。此外，思科揭露中國駭客UAT-11985針對臺灣研究機構發動攻擊，不僅冒用相關機構名義寄送釣魚信，還利用Google服務發動對手中間人（AiTM）網釣攻擊。
 
 - 📰 **iThome 科技**
 
 ### 7. [AI訓練資料不只靠開放，數發部擬推動使用報酬機制](https://www.ithome.com.tw/news/179931)
 
 生成式AI時代，模型能力的競爭不只取決於算力與架構，也取決於是否擁有高品質、具代表性的訓練資料。過去大型AI模型多利用網路公開資料進行訓練，但隨著AI服務逐漸商業化，內容創作者、媒體、出版與文化產業開始關注，作品如何被AI使用，以及資料提供者是否能在AI價值鏈中獲得合理回饋。
-面對AI發展帶來的資料利用與權利保障問題，數位發展部、���化部與經濟部智慧財產局在10月中首度共同召開權利人意見交流會議，邀集內容產業代表、公協會、AI應用業者與相關專家，就AI訓練資料利用、授權方式、著作權保障，以及優質語料整備等議題交換意見。
-在這次的交流會中政府部會透露政府對AI資料政策的思考，資料不再只是透過開
+面對AI發展帶來的資料利用與權利保障問題，數位發展部、文化部與經濟部智慧財產局在10月中首度共同召開權利人意見交流會議，邀集內容產業代表、公協會、AI應用業者與相關專家，就AI訓練資料利用、授權方式、著作權保障，以及優質語料整備等議題交換意見。
+在這次的交流會中政府部會透露政府對AI資料政策的思考，資料不再只是透過開放取
 
 - 📰 **iThome 科技**
 
@@ -64,7 +64,7 @@ DNS服務負責將網站名稱轉換成電腦連線所需的網路位址，讓�
 
 ### 10. [日本防災資訊服務Arcadia被駭，疑外洩12.5萬名警察個資、 1.8萬筆企業個人Email](https://www.ithome.com.tw/news/179926)
 
-日本多家媒體報導，當地防災資訊服務業者Arcadia本月遭到駭客存取系統，導致日本20個行��區近13萬名警員個資，登記的企業和民眾逾1.8萬個電子郵件等資料可能外洩。外洩資訊可能已被用於發送釣魚信件。
+日本多家媒體報導，當地防災資訊服務業者Arcadia本月遭到駭客存取系統，導致日本20個行政區近13萬名警員個資��登記的企業和民眾逾1.8萬個電子郵件等資料可能外洩。外洩資訊可能已被用於發送釣魚信件。
 
 - 📰 **iThome 科技**
 
@@ -76,7 +76,7 @@ DNS服務負責將網站名稱轉換成電腦連線所需的網路位址，讓�
 
 ### 12. [Anthropic捐出代理 Skills標準，OpenAI、Google工程師也將參與維護](https://www.ithome.com.tw/news/179921)
 
-Anthropic將AI代理技能開放���準代理 Skills捐給Linux基金會旗下的代理式AI基金會（AAIF），後續改由基金會管理，並由不同公司的工程師參與維護。Anthropic表示，目前已有超過70個AI代理平臺採用該標準，包括ChatGPT、Cursor、GitHub Copilot及VS 代碼。
+Anthropic將AI代理技能開放標準代理 Skills捐給Linux���金會旗下的代理式AI基金會（AAIF），後續改由基金會管理，並由不同公司的工程師參與維護。Anthropic表示，目前已有超過70個AI代理平臺採用該標準，包括ChatGPT、Cursor、GitHub Copilot及VS 代碼。
 
 - 📰 **iThome 科技**
 
@@ -91,7 +91,7 @@ Anthropic將AI代理技能開放���準代理 Skills捐給Linux基金會旗
 
 ### 14. [OpenAI內部模型監控系統被發現多項漏洞](https://www.ithome.com.tw/news/179919)
 
-AI安全研究組織METR與Redwood Research最新公布的報告顯示，OpenAI內部的AI模型監控系統存在多項漏洞，包括Codex代理人可能繞過沙箱及自動審查（Auto-Review）機制，在主機使用者原本有權執行的操作範圍內採取任意行動，或利用序列化差異，讓代理人與監控系統看到不同的執行軌跡，進而規避監控。OpenAI已修正這些問題。
+AI安全研究組織METR與Redwood Research最新公布的報告顯示，OpenAI內部的AI模型監控系統存在多項漏洞，包括Codex代理人可能繞過沙箱及自動審查（Auto-Review）機制，在主機使���者原本有權執行的操作範圍內採取任意行動，或利用序列化差異，讓代理人與監控系統看到不同的執行軌跡，進而規避監控。OpenAI已修正這些問題。
 
 - 📰 **iThome 科技**
 
@@ -103,7 +103,7 @@ Google 雲端發表AI代理專用運算服務代理 Compute Engine，供每個�
 
 ### 16. [OpenAI前產品長創辦Warp Sciences，募資2.15億美元打造AI藥物實驗室](https://www.ithome.com.tw/news/179916)
 
-在半年前離開OpenAI的Kevin Weil，周四（10/22）正式宣布成立結合AI與機器人技術��醫藥新創Warp Sciences，並完成由Lightspeed領投的2.15億美元A輪募資。根據彭博社（Bloomberg）報導，其投後估值達8.65億美元。
+在半年前離開OpenAI的Kevin Weil，周四（10/22）正式宣布成立結合AI與機器人技術的醫藥新創Warp Sciences，並完成由Lightspeed領投的2.15億美元A輪募資。根據彭博社（Bloomberg）報導，其投後估值達8.65億美元。
 
 - 📰 **iThome 科技**
 
@@ -115,7 +115,7 @@ Google 雲端與OpenAI本周稍早宣布，將在雲端市集提供OpenAI GPT-6�
 
 ### 18. [日本遊戲大廠卡普空會員資料外洩逾1,177萬筆，近200個帳號的密碼遭改](https://www.ithome.com.tw/news/179912)
 
-日本遊戲大廠卡普空（Capcom）證實，旗下會員帳號服務CAPCOM ID遭第三方入侵，導致全球超過1,177萬筆會員資料外洩，其中有196個帳號的登入密碼遭擅自變更。卡普空表示，未發現會員自行設定的密���外洩，信用卡資料也不在此次外洩範圍。
+日本遊戲大廠卡普空（Capcom）證實，旗下會員帳號服務CAPCOM ID遭第三方入侵，導致全球超過1,177萬筆會員資料外洩，其中有196個帳號的登入密碼遭擅自變更。卡普空表示，未發現會員自行設定的密碼外洩，信用卡資料也不在此次外洩範圍。
 CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳號。外洩資料包括會員電子郵件地址、帳號建立時間、最後登入時間、登入次數，以及最後登入時使用的IP位址，而有43筆還包含出生年月日、性別、國家或地區及暱稱。
 
 - 📰 **iThome 科技**
@@ -128,7 +128,7 @@ CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳�
 
 ### 20. [私鑰安全事故延燒，印度eMudhra宣布退出SSL/TLS憑證市場](https://www.ithome.com.tw/news/179911)
 
-印度數位憑證業者eMudhra週四（10/22）宣布，將退出全球SSL/TLS憑證市場。該公司日前被發現有8張中繼憑證授權機構（CA）憑證的私密金鑰存在嚴重安全問題，攻擊者可輕易還原私鑰，進而偽造網站憑證。這讓Google、蘋果、微軟及Mozilla等業者相繼封鎖有問題的中繼CA憑證，亦使得eMudhra最終決定退出憑證業務。
+印度數位憑證業者eMudhra週四（10/22）宣布，將退出全球SSL/TLS憑證市場。該公司日前被發現有8張中繼憑證授權機構（CA）憑證的私密金鑰存在嚴重安全問題，��擊者可輕易還原私鑰，進而偽造網站憑證。這讓Google、蘋果、微軟及Mozilla等業者相繼封鎖有問題的中繼CA憑證，亦使得eMudhra最終決定退出憑證業務。
 
 - 📰 **iThome 科技**
 
@@ -140,7 +140,7 @@ CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳�
 
 ### 22. [PHP2Shell漏洞影響全球10%的組織，Check Point警示歐洲首當其衝](https://www.ithome.com.tw/news/179908)
 
-震撼全球的PHP2Shell網站漏洞危機，目前已知的影���，除了全世界70%的網站都可能有潛在風險，資安廠商Check Point目前揭露全球衝擊程度的研究數據，該公司表示，由於PHP2Shell漏洞的細節在預定公
+震撼全球的PHP2Shell網站漏洞危機，目前已知的影響，除了全世界70%的網站都可能有潛在風險，資安廠商Check Point目前揭露全球衝擊程度的研究數據，該公司表示，由於PHP2Shell漏洞的細節在預定公
 
 - 📰 **iThome 科技**
 
@@ -152,7 +152,7 @@ CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳�
 
 ### 24. [微軟擴大遊戲著色器預先編譯支援，Steam與Epic商店也將加入](https://www.ithome.com.tw/news/179903)
 
-微軟進階著色器交付（Advanced Shader Delivery，ASD）已擴大支援AMD、Intel、NVIDIA及Qualcomm的顯示硬體。使用符合條件的Windows 11電腦下載支援遊戲時，可一併取得預先編譯的著色器，減少首次啟動的等待時間及遊玩時的畫面卡頓。微軟也預告，ASD將擴展至Steam與Epic Games Store，但尚未公布確切上線日期。
+微軟進階著色器交付（Advanced Shader Delivery，ASD）已擴大支援AMD、Intel、NVIDIA及Qualcomm的顯���硬體。使用符合條件的Windows 11電腦下載支援遊戲時，可一併取得預先編譯的著色器，減少首次啟動的等待時間及遊玩時的畫面卡頓。微軟也預告，ASD將擴展至Steam與Epic Games Store，但尚未公布確切上線日期。
 
 - 📰 **iThome 科技**
 
@@ -176,7 +176,7 @@ CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳�
 
 ### 28. [美國資安職缺年減26%，AI安全工程師逆勢成長](https://www.ithome.com.tw/news/179871)
 
-美國���安人才招聘業者CyberSN近期分析美國資安職缺刊登情況，發現2026年1月至9月，美國資安職缺刊登量為235,786筆，較2025年同期減少26.4%，創2023年以來同期新低。不過，各類資安職務的職缺變化並不一致，其中資安長（CISO）相關職缺年減38.9%，AI安全工程師（AI 安全 工程師）職缺則逆勢年增268.3%。
+美國資安人才招聘業者CyberSN近期分析美國資安職缺刊登情況，發現2026年1月至9月，美國資安職缺刊登量為235,786筆，較2025年同期減少26.4%，創2023年以來同期新低。不過，各類資安職務的職缺變化並不一致，其中資安長（CISO）相關職缺年減38.9%，AI安全工程師（AI 安全 工程師）職缺則逆勢年增268.3%。
 
 - 📰 **iThome 科技**
 
@@ -196,6 +196,12 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 
 ### 更多 AI 新聞 (70則)
 
+- The PHP Meltdown Shows How AI Makes Bugs More Exploitable (**Wired**)
+- 新 mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent (**Wired**)
+- 最佳 Pet Camera of 2026: Furbo, Petcube, and Enabot (**Wired**)
+- 9 Unique Apps to Try on the iPhone Duo (**Wired**)
+- My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale (**Wired**)
+- 12 Absolutely Banging Proper Watches Under $400 (**Wired**)
 - The Qubitunes Soundstage Toy Is a Great Gift for Kids (**Wired**)
 - 最佳 Laptops (2026): My 熱門 Recommendations After Testing Hundreds (**Wired**)
 - Ray-Ban Meta Audio Review: The 最佳 Smart Glasses (**Wired**)
@@ -240,12 +246,6 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 - Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds (**Wired**)
 - Eufy 安全 Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget (**Wired**)
 - Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026) (**Wired**)
-- GM Wants Your Car to Do Your Chores (**Wired**)
-- The 最佳 Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026) (**Wired**)
-- This Startup Is All In on Recursive Self-Improvement. Its Latest 模型 Is Scary Good (**Wired**)
-- Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers (**Wired**)
-- 7 最佳 Phones You Can’t Buy in the US (2026) (**Wired**)
-- ‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
