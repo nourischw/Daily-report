@@ -196,6 +196,10 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 
 ### 更多 AI 新聞 (70則)
 
+- Apple CarPlay and Android Auto Make Your Phone Hot. Here’s 如何 Keep It Cool (**Wired**)
+- Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries (**Wired**)
+- What the US Movement Against Data Centers Can Learn From Abroad (**Wired**)
+- We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound (**Wired**)
 - The PHP Meltdown Shows How AI Makes Bugs More Exploitable (**Wired**)
 - 新 mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent (**Wired**)
 - 最佳 Pet Camera of 2026: Furbo, Petcube, and Enabot (**Wired**)
@@ -242,10 +246,6 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 - Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure (**Wired**)
 - Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores (**Wired**)
 - ‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms (**Wired**)
-- Trump Isn’t Even Good at TV Anymore (**Wired**)
-- Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds (**Wired**)
-- Eufy 安全 Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget (**Wired**)
-- Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026) (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
