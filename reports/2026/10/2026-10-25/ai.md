@@ -45,7 +45,7 @@ DNS服務負責將網站名稱轉換成電腦連線所需的網路位址，讓�
 
 生成式AI時代，模型能力的競爭不只取決於算力與架構，也取決於是否擁有高品質、具代表性的訓練資料。過去大型AI模型多利用網路公開資料進行訓練，但隨著AI服務逐漸商業化，內容創作者、媒體、出版與文化產業開始關注，作品如何被AI使用，以及資料提供者是否能在AI價值鏈中獲得合理回饋。
 面對AI發展帶來的資料利用與權利保障問題，數位發展部、文化部與經濟部智慧財產局在10月中首度共同召開權利人意見交流會議，邀集內容產業代表、公協會、AI應用業者與相關專家，就AI訓練資料利用、授權方式、著作權保障，以及優質語料整備等議題交換意見。
-在這次的交流會中政府部會透露政府對AI資料政策的思考，資料不再只是透過開放取
+在這次的��流會中政府部會透露政府對AI資料政策的思考，資料不再只是透過開放
 
 - 📰 **iThome 科技**
 
@@ -64,7 +64,7 @@ DNS服務負責將網站名稱轉換成電腦連線所需的網路位址，讓�
 
 ### 10. [日本防災資訊服務Arcadia被駭，疑外洩12.5萬名警察個資、 1.8萬筆企業個人Email](https://www.ithome.com.tw/news/179926)
 
-日本多家媒體報導，當地防災資訊服務業者Arcadia本月遭到駭客存取系統，導致日本20個行政區近13萬名警員個資��登記的企業和民眾逾1.8萬個電子郵件等資料可能外洩。外洩資訊可能已被用於發送釣魚信件。
+日本多家媒體報導，當地防災資訊服務業者Arcadia本月遭到駭客存取系統，導致日本20個行政區近13萬名警員個資，登記的企業和民眾逾1.8萬個電子郵件等資料可能外洩。外洩資訊可能已被用於發送釣魚信件。
 
 - 📰 **iThome 科技**
 
@@ -76,7 +76,7 @@ DNS服務負責將網站名稱轉換成電腦連線所需的網路位址，讓�
 
 ### 12. [Anthropic捐出代理 Skills標準，OpenAI、Google工程師也將參與維護](https://www.ithome.com.tw/news/179921)
 
-Anthropic將AI代理技能開放標準代理 Skills捐給Linux���金會旗下的代理式AI基金會（AAIF），後續改由基金會管理，並由不同公司的工程師參與維護。Anthropic表示，目前已有超過70個AI代理平臺採用該標準，包括ChatGPT、Cursor、GitHub Copilot及VS 代碼。
+Anthropic將AI代理技能開放標準代理 Skills捐給Linux基金會旗下的代理式AI基金會（AAIF），後續改由基金會管理，並由不同公司的工程師參與維護。Anthropic表示，目前已有超過70個AI代理平臺採用該標準，包括ChatGPT、Cursor、GitHub Copilot及VS 代碼。
 
 - 📰 **iThome 科技**
 
@@ -91,7 +91,7 @@ Anthropic將AI代理技能開放標準代理 Skills捐給Linux���金會旗
 
 ### 14. [OpenAI內部模型監控系統被發現多項漏洞](https://www.ithome.com.tw/news/179919)
 
-AI安全研究組織METR與Redwood Research最新公布的報告顯示，OpenAI內部的AI模型監控系統存在多項漏洞，包括Codex代理人可能繞過沙箱及自動審查（Auto-Review）機制，在主機使���者原本有權執行的操作範圍內採取任意行動，或利用序列化差異，讓代理人與監控系統看到不同的執行軌跡，進而規避監控。OpenAI已修正這些問題。
+AI安全研究組織METR與Redwood Research最新公布的報告顯示，OpenAI內部的AI模型監控系統存在多項漏洞，包括Codex代理人可能繞過沙箱及自動審查（Auto-Review）機制，在主機使用者原本有權執行的操作範圍內採取任意行動，或利用序列化差異，讓代理人與監控系統看到不同的執行軌跡，進而規避監控。OpenAI已修正這些問題。
 
 - 📰 **iThome 科技**
 
@@ -128,7 +128,7 @@ CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳�
 
 ### 20. [私鑰安全事故延燒，印度eMudhra宣布退出SSL/TLS憑證市場](https://www.ithome.com.tw/news/179911)
 
-印度數位憑證業者eMudhra週四（10/22）宣布，將退出全球SSL/TLS憑證市場。該公司日前被發現有8張中繼憑證授權機構（CA）憑證的私密金鑰存在嚴重安全問題，��擊者可輕易還原私鑰，進而偽造網站憑證。這讓Google、蘋果、微軟及Mozilla等業者相繼封鎖有問題的中繼CA憑證，亦使得eMudhra最終決定退出憑證業務。
+印度數位憑證業者eMudhra週四（10/22）宣布，將退出全球SSL/TLS憑證市場。該公司日前被發現有8張中繼憑證授權機構（CA）憑證的私密金鑰存在嚴重安全問題，攻擊者可輕易還原私鑰，進而偽造網站憑證。這讓Google、蘋果、微軟及Mozilla等業者相繼封鎖有問題的中繼CA憑證，亦使得eMudhra最終決定退出憑證業務。
 
 - 📰 **iThome 科技**
 
@@ -152,7 +152,7 @@ CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳�
 
 ### 24. [微軟擴大遊戲著色器預先編譯支援，Steam與Epic商店也將加入](https://www.ithome.com.tw/news/179903)
 
-微軟進階著色器交付（Advanced Shader Delivery，ASD）已擴大支援AMD、Intel、NVIDIA及Qualcomm的顯���硬體。使用符合條件的Windows 11電腦下載支援遊戲時，可一併取得預先編譯的著色器，減少首次啟動的等待時間及遊玩時的畫面卡頓。微軟也預告，ASD將擴展至Steam與Epic Games Store，但尚未公布確切上線日期。
+微軟進階著色器交付（Advanced Shader Delivery，ASD）已擴大支援AMD、Intel、NVIDIA及Qualcomm的顯示硬體。使用符合條件的Windows 11電腦下載支援遊戲時，可一併取得預先編譯的著色器，減少首次啟動的等待時間及遊玩時的畫面卡頓。微軟也預告，ASD將擴展至Steam與Epic Games Store，但尚未公布確切上線日期。
 
 - 📰 **iThome 科技**
 
@@ -188,7 +188,7 @@ Google於10月21日宣布Chrome瀏覽器已預設啟用HTTP連線前警告機制
 
 ### 30. [OpenSSF發布AI漏洞處理指引，強調漏洞驗證與人工審查](https://www.ithome.com.tw/news/179863)
 
-AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動攻擊，軟體開發團隊因此更需要及早修補漏洞，避免遭攻擊者利用。開源軟體安全基金會（OpenSSF）發布AI漏洞發現與修補指引，由旗下最佳 Practices及AI/ML工作小組共同制定，提供開發人員利用AI尋找及修補自家軟體漏洞的實務建議，也供協助開發團隊尋找漏洞的資安研究人員參考。
+AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動攻擊，軟體開發團���因此更需要及早修補漏洞，避免遭攻擊者利用。開源軟體安全基金會（OpenSSF）發布AI漏洞發現與修補指引，由旗下最佳 Practices及AI/ML工作小組共同制定，提供開發人員利用AI尋找及修補自家軟體漏洞的實務建議，也供協助開發團隊尋找漏洞的資安研究人員參考。
 
 - 📰 **iThome 科技**
 
@@ -196,6 +196,11 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 
 ### 更多 AI 新聞 (70則)
 
+- Wallhack M-001 Review: When Fun Overrides Specs (**Wired**)
+- Scientists Trapped an Antimatter Particle for Months to Study Its Secrets (**Wired**)
+- 6 最佳 Folding Phones (2026): Samsung, Apple, Google, Motorola (**Wired**)
+- The MacBook Pro Max Just Dropped to Its Lowest Price Ever (**Wired**)
+- Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later (**Wired**)
 - Apple CarPlay and Android Auto Make Your Phone Hot. Here’s 如何 Keep It Cool (**Wired**)
 - Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries (**Wired**)
 - What the US Movement Against Data Centers Can Learn From Abroad (**Wired**)
@@ -206,8 +211,8 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 - 9 Unique Apps to Try on the iPhone Duo (**Wired**)
 - My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale (**Wired**)
 - 12 Absolutely Banging Proper Watches Under $400 (**Wired**)
-- The Qubitunes Soundstage Toy Is a Great Gift for Kids (**Wired**)
 - 最佳 Laptops (2026): My 熱門 Recommendations After Testing Hundreds (**Wired**)
+- The Qubitunes Soundstage Toy Is a Great Gift for Kids (**Wired**)
 - Ray-Ban Meta Audio Review: The 最佳 Smart Glasses (**Wired**)
 - Garmin Vivoactive 5 and Forerunner 165 Are up to 30 Percent Off (2026) (**Wired**)
 - Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’ (**Wired**)
@@ -241,11 +246,6 @@ AI已能協助開發人員尋找軟體漏洞，攻擊者也開始利用AI發動�
 - They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028 (**Wired**)
 - Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice 助手 (**Wired**)
 - Hugging Face’s 新 AI Biology 模型 Lets You Chat With DNA (**Wired**)
-- This Preamp Costs More Than a Fancy Sports Car (**Wired**)
-- Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched (**Wired**)
-- Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure (**Wired**)
-- Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores (**Wired**)
-- ‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
