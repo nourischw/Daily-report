@@ -4,208 +4,204 @@
 
 ---
 
-### 1. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+### 1. [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
+
+- ⭐ 197 分｜💬 76 留言｜👤 theanonymousone
+
+### 2. [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+
+- ⭐ 94 分｜💬 37 留言｜👤 cisc
+
+### 3. [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+
+- ⭐ 271 分｜💬 44 留言｜👤 davidbarker
+
+### 4. [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
+
+- ⭐ 149 分｜💬 73 留言｜👤 Austin_Conlon
+
+### 5. [PaperPilot – Zero-雲端, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
+
+- ⭐ 160 分｜💬 51 留言｜👤 vardhan1237
+
+### 6. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
 
 With today&#x27;s news, I thought I&#x27;d share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community
 
-- ⭐ 403 分｜💬 70 留言｜👤 jumploops
+- ⭐ 569 分｜💬 96 留言｜👤 jumploops
 
-### 2. [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
+### 7. [Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)
 
-- ⭐ 49 分｜💬 31 留言｜👤 bpierre
+- ⭐ 101 分｜💬 13 留言｜👤 ibobev
 
-### 3. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
+### 8. [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
 
-- ⭐ 148 分｜💬 40 留言｜👤 speckx
+- ⭐ 183 分｜💬 61 留言｜👤 NotARoomba
 
-### 4. [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)
+### 9. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
 
-- ⭐ 30 分｜💬 12 留言｜👤 westurner
+- ⭐ 311 分｜💬 107 留言｜👤 speckx
 
-### 5. [為什麼 I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
+### 10. [Superhuman 硬體 Design Is the Easy Part](https://www.a16z.news/p/superhuman-hardware-design-is-the)
 
-- ⭐ 143 分｜💬 53 留言｜👤 jruohonen
+- ⭐ 31 分｜💬 18 留言｜👤 gmays
 
-### 6. [What goes into making an animated film?](https://www.disneyanimation.com/process/)
+### 11. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 
-- ⭐ 98 分｜💬 39 留言｜👤 embedding-shape
+- ⭐ 5 分｜💬 2 留言｜👤 bagatelle
 
-### 7. [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
+### 12. [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)
 
-- ⭐ 87 分｜💬 25 留言｜👤 pchristensen
+- ⭐ 131 分｜💬 42 留言｜👤 westurner
 
-### 8. [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
+### 13. [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
 
-- ⭐ 452 分｜💬 214 留言｜👤 sungam
+- ⭐ 89 分｜💬 27 留言｜👤 janandonly
 
-### 9. [OpenAI and Anthropic cut their 大型語言模型 prices by up to 80% within a few months. 為什麼?](https://minimaxir.com/2026/10/cheap-llms/)
+### 14. [為什麼 I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
 
-- ⭐ 164 分｜💬 193 留言｜👤 minimaxir
+- ⭐ 252 分｜💬 78 留言｜👤 jruohonen
 
-### 10. [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
+### 15. [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
-- ⭐ 53 分｜💬 21 留言｜👤 endorphine
+- ⭐ 129 分｜💬 34 留言｜👤 davikr
 
-### 11. [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
+### 16. [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
 
-- ⭐ 22 分｜💬 0 留言｜👤 laybak
+- ⭐ 131 分｜💬 68 留言｜👤 bpierre
 
-### 12. [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+### 17. [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
 
-- ⭐ 399 分｜💬 201 留言｜👤 Tomte
+- ⭐ 198 分｜💬 48 留言｜👤 pchristensen
 
-### 13. [Eunice is almost here](https://armincat.com/articles/eunice-is-almost-here)
+### 18. [We should be more ambitious with the 軟體 we 構建](https://danluu.com/ambitious/)
 
-- ⭐ 64 分｜💬 58 留言｜👤 armcat
+- ⭐ 814 分｜💬 723 留言｜👤 ltratt
 
-### 14. [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+### 19. [IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
 
-- ⭐ 403 分｜💬 106 留言｜👤 tdeck
+- ⭐ 291 分｜💬 197 留言｜👤 Betelbuddy
 
-### 15. [iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown)
+### 20. [Two Million Hornets](https://dark-mountain.net/two-million-hornets/)
 
-- ⭐ 20 分｜💬 0 留言｜👤 kripy
+- ⭐ 11 分｜💬 2 留言｜👤 promulgate
 
-### 16. [Amazon's "digital pacifier" for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
+### 21. [Amazon’s “digital pacifier” for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
 
-- ⭐ 100 分｜💬 156 留言｜👤 jumploops
+- ⭐ 209 分｜💬 302 留言｜👤 jumploops
 
-### 17. [We should be more ambitious with the 軟體 we 構建](https://danluu.com/ambitious/)
+### 22. [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
 
-- ⭐ 751 分｜💬 695 留言｜👤 ltratt
+- ⭐ 579 分｜💬 246 留言｜👤 sungam
 
-### 18. [Active incident at Dreamhost forcing password reset](https://www.dreamhoststatus.com/)
-
-- ⭐ 125 分｜💬 51 留言｜👤 greenchair
-
-### 19. [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
-
-- ⭐ 3 分｜💬 0 留言｜👤 janandonly
-
-### 20. [Retired decorator's Pokémon cards sell for £1.5M](https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo)
-
-- ⭐ 14 分｜💬 8 留言｜👤 HelloUsername
-
-### 21. [Reverse engineering a Beyblade launch tracker](https://blog.simone.computer/reverse-beyblade-launch-tracker)
-
-- ⭐ 36 分｜💬 4 留言｜👤 syx
-
-### 22. [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)
+### 23. [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)
 
 為什麼 is this worth your time? Essentially, this solves two problems of AI-assisted 程式設計:(a) the first problem is 如何 do oversight and what do oversight of and this is solved through the ORRCF
 
-- ⭐ 5 分｜💬 4 留言｜👤 lumbroso
+- ⭐ 51 分｜💬 30 留言｜👤 lumbroso
 
-### 23. [Proton Flock Camera Map](https://proton.me/flock-camera-map)
+### 24. [Vazhaipoo Vadai – Banana Flower Recipe](https://www.vegrecipesofindia.com/banana-flower-vada-recipe/)
 
-- ⭐ 69 分｜💬 8 留言｜👤 cdrnsf
+- ⭐ 5 分｜💬 0 留言｜👤 mooreds
 
-### 24. [Show HN: Hurston-1 開源 TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1)
+### 25. [OpenAI and Anthropic cut their 大型語言模型 prices by up to 80% within a few months. 為什麼?](https://minimaxir.com/2026/10/cheap-llms/)
 
-Hey HN, I’m open sourcing my Hurston-1 narrowband TTS 模型 (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. De
+- ⭐ 344 分｜💬 333 留言｜👤 minimaxir
 
-- ⭐ 48 分｜💬 23 留言｜👤 Gcarter08
+### 26. [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)
 
-### 25. [VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY)
+- ⭐ 153 分｜💬 90 留言｜👤 textlanes33
 
-- ⭐ 61 分｜💬 13 留言｜👤 zdw
+### 27. [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
 
-### 26. [Root shell on Samsung TV](https://twitter.com/log4j/status/2113014142600953868?s=46)
+- ⭐ 113 分｜💬 45 留言｜👤 endorphine
 
-Merged threads:&quot;Samsung running a TensorFlow lite 模型 on 960x540 image to track you&quot;: https:&#x2F;&#x2F;twitter.com&#x2F;mike64_t&#x2F;status&#x2F;2114150399406202896&quot;Samsung TVs look
+### 28. [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
 
-- ⭐ 779 分｜💬 603 留言｜👤 testing22321
+- ⭐ 55 分｜💬 0 留言｜👤 laybak
 
-### 27. [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+### 29. [Active incident at Dreamhost forcing password reset](https://www.dreamhoststatus.com/)
 
-- ⭐ 9 分｜💬 1 留言｜👤 davikr
+- ⭐ 157 分｜💬 62 留言｜👤 greenchair
 
-### 28. [UTS #39: Unicode 安全 Mechanisms](https://unicode.org/reports/tr39/)
+### 30. [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 
-- ⭐ 34 分｜💬 19 留言｜👤 robin_reala
-
-### 29. [Chip Builder is a puzzle and strategy game that teaches you chip design](https://chipbuilder.org/)
-
-- ⭐ 17 分｜💬 4 留言｜👤 laurentiurad
-
-### 30. [Recreate the Apollo Guidance Computer](https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/)
-
-- ⭐ 48 分｜💬 4 留言｜👤 Brajeshwar
+- ⭐ 495 分｜💬 240 留言｜👤 Tomte
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- The U.S. Power Grid
-- Focused Company Operating Principles
-- JetBrains Thinkrail
-- A mathematician reads the AI future
-- AI use leads UC Berkeley math professor to see 'no point' in grading homework
-- How Japanese Dried Bonito Is Made
+- What goes into making an animated film?
+- Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
 - AI didn't cause the tech jobs bust, but it explains 為什麼 there's no recovery
-- Apollo says AI has delivered 'zero financial payoff' outside the tech industry
 - Local Wikipedia: Wikipedia, but only for things a half hour walk from you
-- IBM CEO says open weight models are now irresistibly good and cheap on-prem
-- SpeedCrunch 1.1
-- fheroes2: A recreation of Heroes of Might and Magic II game engine
-- Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%
-- All you need is Wide Events, not "Metrics, Logs and Traces"
-- Small Programs and Languages
-- Europe's summer heat wave killed more han 50k people in urban areas
-- Gheist campaign plants secret-dumping workflows using stolen GitHub tokens
-- F45 (Fedora 45) Final Is No-Go
-- Cerebras Deploys Trillion-Parameter AI Models
-- Show HN: I put employees inside S&P 500 market-cap bubbles
-- Bring Back the Cool Save File Screens
-- Serbia's Vucic concedes election defeat in historic win for student movement
-- FreeDNS
-- The Importance of Limitations for Creativity and Learning (2023)
-- America has lost 200k of jobs in media, film and the arts. How much is AI?
-- Show HN: AgentTrust – Zero-trust 安全 and human approvals for AI agents
-- Scientists rediscover 如何 make ancient Roman colour-changing glass
-- 神經網絡 chip decodes interactions between brain regions
-- I Built a Stereo Vision Board for 硬體 Hackers
-- A few thoughts on intensity (2024)
-- The Goose 程式設計 Language
-- Sabre Wulf Remastered
-- Nikon photography contest winner loses title after scientists spot signs of AI
-- Crosscut – Drawing Dynamic Models
-- Firecrawl's Government Index
-- Bbtree: Fastest Ordered Map
-- Kimi K3.1 Pro and K3.1 Pro Highspeed
-- How we made our MMDB files a 33% smaller
-- A story of a Figma bug that wasn't a bug at all (2021)
-- Roku 開發者 repositories moved from GitHub to GitLab
-- The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
-- WorldTUI: I trained a 360M 模型 to pretend to be a terminal
-- Social dynamics of toxic metal industry in medieval Europe
-- A hidden bias in human language challenges 70 years of science
-- Today, we hacked what we'd set out to hack: the iPhone
-- Noyb win: German DPA finds microtargeting by major political parties illegal
-- Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more
-- JPEG XL with WebGPU makes smaller files than libjxl in 150 KB JavaScript
-- I don't understand quantum physics (2018)
-- GPU-unlock: FP/BF16 instruction issue rate on NVIDIA 3000's cards
-- TornadoVM 7 Enables GPU-Native Workloads from Java Applications
-- 為什麼 is AI generated language so hard to understand?
-- Tool book of a Nuremberg knight from 1505
-- Apple Music 404 Not Found
-- Around a dozen banking apps began specifically permitting GrapheneOS
-- In Rainbows
-- Flock [YC S17] Fever: A Review of Government Surveillance by Benn Jordan [video]
+- Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits
+- Show HN: Proc-CLI – An 代理-friendly CLI tool for process and port management
+- The Curse of Soldered RAM
+- Show HN: Freehire, open-source search 3M+ tech jobs from company 職業 boards
+- Eunice is almost here
+- Show HN: Hurston-1 開源 TTS that speak Southern American and Afro-English
+- UTS #39: Unicode 安全 Mechanisms
+- VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]
+- A mathematician reads the AI future
+- Recycling ANSI art: Tracing the origins of Fire Escape's BBS logon screens
+- Recreate the Apollo Guidance Computer
+- Cognitive Mercantilism: AI panic resembles fears of early capitalism
 - Lula wins election after final votes tallied
-- Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions
-- 為什麼 I'm Short the AI Buildout Even Though I'm Long Computers
+- Reverse engineering a Beyblade launch tracker
+- The U.S. Power Grid
+- AI use leads UC Berkeley math professor to see 'no point' in grading homework
+- Retired decorator's Pokémon cards sell for £1.5M
+- JetBrains Thinkrail
+- Viktor Orbán, U.N. Secretary-General?
+- US Wages Share of GDI at 75 Year Low
+- Everybody panic: A Valve 開發者 said "HLX" in public
+- iPhone Duo Teardown
+- Show HN: RainbowSay – Learn, teach, research languages live with shows you love
+- The result of the C++26 DIS ballot
+- Cerebras Deploys Trillion-Parameter AI Models
+- fheroes2: A recreation of Heroes of Might and Magic II game engine
+- Proton Flock Camera Map
+- Bring Back the Cool Save File Screens
+- I Built a Stereo Vision Board for 硬體 Hackers
+- Focused Company Operating Principles
+- The Goose 程式設計 Language
+- Kimi K3.1 Pro and K3.1 Pro Highspeed
+- WorldTUI: I trained a 360M 模型 to pretend to be a terminal
+- Apollo says AI has delivered 'zero financial payoff' outside the tech industry
+- Anemoia: Nostalgia for a time one did not personally experience
+- Chip Builder is a puzzle and strategy game that teaches you chip design
+- Show HN: AgentTrust – Zero-trust 安全 and human approvals for AI agents
+- Today, we hacked what we'd set out to hack: the iPhone
+- Roku 開發者 repositories moved from GitHub to GitLab
+- All you need is Wide Events, not "Metrics, Logs and Traces"
+- Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%
+- The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
+- A story of a Figma bug that wasn't a bug at all (2021)
+- How Japanese Dried Bonito Is Made
+- Show HN: I put employees inside S&P 500 market-cap bubbles
+- Nikon photography contest winner loses title after scientists spot signs of AI
+- Social dynamics of toxic metal industry in medieval Europe
+- Cve.now: A Free Feed of 安全 Vulnerabilities for Agents
+- SpeedCrunch 1.1
+- Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more
+- Bbtree: Fastest Ordered Map
+- Europe's summer heat wave killed more han 50k people in urban areas
+- Ask HN: Is it not possible to enroll for Apple 開發者 anymore?
+- Apple Music 404 Not Found
+- A few thoughts on intensity (2024)
+- I don't understand quantum physics (2018)
+- Around a dozen banking apps began specifically permitting GrapheneOS
+- Gheist campaign plants secret-dumping workflows using stolen GitHub tokens
+- U.S. birth rate drops to record low, but older women are having more babies
+- Small Programs and Languages
+- GPU-unlock: FP/BF16 instruction issue rate on NVIDIA 3000's cards
+- Scientists rediscover 如何 make ancient Roman colour-changing glass
+- TornadoVM 7 Enables GPU-Native Workloads from Java Applications
 - C vs. C#: racing VLC's Gaussian blur
-- Physicists trap a single antimatter particle for a month
-- Reverse 工程師 of PC-98 Touhou games retires
-- OBS Studio 33
-- Symbolic Learning in Python and Julia
-- Is this the 新 cyber normal?
-- 如何 run a city builder on 16 MHz
-- UUIDv7: Timestamps aren’t time-ordered and other oddities
-- How is music possible
-- Tiling Noise – Procedural GPU Patterns
+- Microsoft Decision-1: 9B Qwen 模型 Launch Explained
+- In Rainbows
 
 
 ---
