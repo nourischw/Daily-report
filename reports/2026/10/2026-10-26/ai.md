@@ -43,7 +43,7 @@
 
 ### 7. [日本快遞業者佐川急便網站服務被駭，外洩個人、企業及會員個資逾5,300萬筆](https://www.ithome.com.tw/news/179948)
 
-日本快遞業者佐川急便上周五公告，公司網站的包裹查詢服務遭到第三者未授權存取，導致超過5,300萬筆客戶資料外洩。
+日本快遞業者佐川急便上週五公告，公司網站的包裹查詢服務遭到第三者未授權存取，導致超過5,300萬筆客戶資料外洩。
 根據這家快遞業者說明，該公司於9月30日確認網站的包裹查詢服務遭第三方未授權存取。發現異常時，為防範災害擴大，該公司已暫時切斷外部存取，並關閉包括包裹查詢API、服務下單、退費等網頁服務。該公司已在10月23日重新開放包裹查詢服務。
 
 - 📰 **iThome 科技**
@@ -200,6 +200,11 @@ CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳�
 
 ### 更多 AI 新聞 (70則)
 
+- The Anthropic S-1 Filing Is Also an AI Doomsday Primer (**Wired**)
+- Anthropic’s IPO Prospectus Reveals What’s Under the Hood (**Wired**)
+- The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans (**Wired**)
+- WIRED Ghost Stories (**Wired**)
+- Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain 為什麼 (**Wired**)
 - The Hottest 新 Side Hustle Is Stripping Copper Wire and Posting About It (**Wired**)
 - LG B6 OLED TV Review (2026) (**Wired**)
 - Lykyn Review: A Mushroom Garden Worth Showing Off (**Wired**)
@@ -245,11 +250,6 @@ CAPCOM ID是卡普空旗下網路服務及部分線上遊戲使用的共用帳�
 - What to Know About Shamonda Virus Following the First Reported Human Infection (**Wired**)
 - The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data (**Wired**)
 - The Social Society Helping Women Join the AI Boom (**Wired**)
-- Inside the Exclusive Nathan Fielder Interview (**Wired**)
-- Anker Soundcore Space 2 Are at Their Lowest Price Ever (**Wired**)
-- A 新 Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels (**Wired**)
-- Save $150 on the Apple Mac Mini M4, but There’s a Catch (**Wired**)
-- Fellow Aiden Precision Coffee Maker is $100 Off (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)

@@ -4,204 +4,202 @@
 
 ---
 
-### 1. [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
+### 1. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 
-- ⭐ 197 分｜💬 76 留言｜👤 theanonymousone
+- ⭐ 307 分｜💬 41 留言｜👤 sgiannopoulos
 
-### 2. [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+### 2. [Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference)
 
-- ⭐ 94 分｜💬 37 留言｜👤 cisc
+- ⭐ 32 分｜💬 3 留言｜👤 guitcastro
 
-### 3. [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+### 3. [CSS-Tricks has a 新 owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 
-- ⭐ 271 分｜💬 44 留言｜👤 davidbarker
+- ⭐ 172 分｜💬 41 留言｜👤 edent
 
-### 4. [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
+### 4. [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 
-- ⭐ 149 分｜💬 73 留言｜👤 Austin_Conlon
+- ⭐ 1099 分｜💬 1018 留言｜👤 SiNTEx
 
-### 5. [PaperPilot – Zero-雲端, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
+### 5. [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
 
-- ⭐ 160 分｜💬 51 留言｜👤 vardhan1237
+- ⭐ 88 分｜💬 23 留言｜👤 zdw
 
-### 6. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+### 6. [Diamond Transistor](https://www.df.com/diamond-transistor)
+
+- ⭐ 46 分｜💬 27 留言｜👤 Gravityloss
+
+### 7. [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)
+
+- ⭐ 170 分｜💬 38 留言｜👤 xkriva11
+
+### 8. [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
+
+- ⭐ 203 分｜💬 97 留言｜👤 skadamat
+
+### 9. [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+
+- ⭐ 13 分｜💬 3 留言｜👤 dilawargopang
+
+### 10. [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
+
+- ⭐ 119 分｜💬 62 留言｜👤 coffeemug
+
+### 11. [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+
+- ⭐ 395 分｜💬 166 留言｜👤 cisc
+
+### 12. [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
+
+- ⭐ 402 分｜💬 196 留言｜👤 theanonymousone
+
+### 13. [Colorfigures](https://april-zhu.com/colorfigures)
+
+- ⭐ 98 分｜💬 16 留言｜👤 the-mitr
+
+### 14. [Concerning behavior from a popular open-weight AI 模型](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+
+- ⭐ 71 分｜💬 23 留言｜👤 matthieu_bl
+
+### 15. [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
+
+- ⭐ 46 分｜💬 6 留言｜👤 cdrnsf
+
+### 16. [Partyline: A group voice 應用 for Reticulum, built on LXST](https://github.com/RFnexus/partyline)
+
+- ⭐ 31 分｜💬 11 留言｜👤 iamnothere
+
+### 17. [The Git Forge for 代理-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
+
+- ⭐ 34 分｜💬 13 留言｜👤 lizziepika
+
+### 18. [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
+
+- ⭐ 369 分｜💬 321 留言｜👤 doctorzook
+
+### 19. [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+
+- ⭐ 366 分｜💬 69 留言｜👤 davidbarker
+
+### 20. [An incremental approach to JIT construction](https://dl.acm.org/doi/10.1145/3830440.3832304)
+
+- ⭐ 4 分｜💬 0 留言｜👤 andsoitis
+
+### 21. [Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)
+
+- ⭐ 140 分｜💬 113 留言｜👤 cdrnsf
+
+### 22. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+
+- ⭐ 214 分｜💬 151 留言｜👤 bagatelle
+
+### 23. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
 
 With today&#x27;s news, I thought I&#x27;d share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community
 
-- ⭐ 569 分｜💬 96 留言｜👤 jumploops
+- ⭐ 660 分｜💬 107 留言｜👤 jumploops
 
-### 7. [Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)
+### 24. [Reinventing the Pencil Sharpener [video]](https://www.youtube.com/watch?v=0Gi5Z51KdUE)
 
-- ⭐ 101 分｜💬 13 留言｜👤 ibobev
+- ⭐ 31 分｜💬 4 留言｜👤 surprisetalk
 
-### 8. [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
+### 25. [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 
-- ⭐ 183 分｜💬 61 留言｜👤 NotARoomba
+- ⭐ 230 分｜💬 138 留言｜👤 Austin_Conlon
 
-### 9. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
+### 26. [PaperPilot – Zero-雲端, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 
-- ⭐ 311 分｜💬 107 留言｜👤 speckx
+- ⭐ 220 分｜💬 77 留言｜👤 vardhan1237
 
-### 10. [Superhuman 硬體 Design Is the Easy Part](https://www.a16z.news/p/superhuman-hardware-design-is-the)
+### 27. [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
 
-- ⭐ 31 分｜💬 18 留言｜👤 gmays
+- ⭐ 256 分｜💬 89 留言｜👤 NotARoomba
 
-### 11. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+### 28. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
 
-- ⭐ 5 分｜💬 2 留言｜👤 bagatelle
+- ⭐ 387 分｜💬 129 留言｜👤 speckx
 
-### 12. [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)
+### 29. [Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)
 
-- ⭐ 131 分｜💬 42 留言｜👤 westurner
+- ⭐ 176 分｜💬 25 留言｜👤 ibobev
 
-### 13. [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
+### 30. [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
 
-- ⭐ 89 分｜💬 27 留言｜👤 janandonly
-
-### 14. [為什麼 I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
-
-- ⭐ 252 分｜💬 78 留言｜👤 jruohonen
-
-### 15. [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
-
-- ⭐ 129 分｜💬 34 留言｜👤 davikr
-
-### 16. [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
-
-- ⭐ 131 分｜💬 68 留言｜👤 bpierre
-
-### 17. [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
-
-- ⭐ 198 分｜💬 48 留言｜👤 pchristensen
-
-### 18. [We should be more ambitious with the 軟體 we 構建](https://danluu.com/ambitious/)
-
-- ⭐ 814 分｜💬 723 留言｜👤 ltratt
-
-### 19. [IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
-
-- ⭐ 291 分｜💬 197 留言｜👤 Betelbuddy
-
-### 20. [Two Million Hornets](https://dark-mountain.net/two-million-hornets/)
-
-- ⭐ 11 分｜💬 2 留言｜👤 promulgate
-
-### 21. [Amazon’s “digital pacifier” for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
-
-- ⭐ 209 分｜💬 302 留言｜👤 jumploops
-
-### 22. [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
-
-- ⭐ 579 分｜💬 246 留言｜👤 sungam
-
-### 23. [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)
-
-為什麼 is this worth your time? Essentially, this solves two problems of AI-assisted 程式設計:(a) the first problem is 如何 do oversight and what do oversight of and this is solved through the ORRCF
-
-- ⭐ 51 分｜💬 30 留言｜👤 lumbroso
-
-### 24. [Vazhaipoo Vadai – Banana Flower Recipe](https://www.vegrecipesofindia.com/banana-flower-vada-recipe/)
-
-- ⭐ 5 分｜💬 0 留言｜👤 mooreds
-
-### 25. [OpenAI and Anthropic cut their 大型語言模型 prices by up to 80% within a few months. 為什麼?](https://minimaxir.com/2026/10/cheap-llms/)
-
-- ⭐ 344 分｜💬 333 留言｜👤 minimaxir
-
-### 26. [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)
-
-- ⭐ 153 分｜💬 90 留言｜👤 textlanes33
-
-### 27. [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
-
-- ⭐ 113 分｜💬 45 留言｜👤 endorphine
-
-### 28. [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
-
-- ⭐ 55 分｜💬 0 留言｜👤 laybak
-
-### 29. [Active incident at Dreamhost forcing password reset](https://www.dreamhoststatus.com/)
-
-- ⭐ 157 分｜💬 62 留言｜👤 greenchair
-
-### 30. [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
-
-- ⭐ 495 分｜💬 240 留言｜👤 Tomte
+- ⭐ 19 分｜💬 4 留言｜👤 meetpateltech
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- What goes into making an animated film?
-- Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
-- AI didn't cause the tech jobs bust, but it explains 為什麼 there's no recovery
+- Attention Is Not What You Need (2025)
+- PhysicsForums and the Dead Internet Theory (2025)
+- Iron Age salt-mining complex found beneath Hallstatt in Austria
+- We should be more ambitious with the 軟體 we 構建
+- NVIDIA discusses $2k-per-GPU annual fee for 軟體
+- KibernetykMono – A Geometric Monospace Typeface
+- 為什麼 I Am a Programmer
+- The 新 iPad mini
+- I Hate Cookie Consent
+- The State of Context Engineering
+- Steal My Bitcoin CTF PoC
+- AmiJa, a cycle-exact Amiga emulator written in Java
+- DOJ says presidents should be able to sell secrets on eBay
+- OLED iPad Mini
+- A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
+- Two Million Hornets
+- Where the Romans Fought (interactive map)
+- Writing Is Closer to Thought Than 代碼
+- IBM CEO says open weight models are now good and cheap on-prem
+- OpenAI and Anthropic cut their 大型語言模型 prices by up to 80% within a few months. 為什麼?
+- Making the Buddha Head from Merv Whole Again
 - Local Wikipedia: Wikipedia, but only for things a half hour walk from you
+- F-Zero X on Nintendo 3DS
+- 為什麼 is it so expensive to send an email?
+- AI didn't cause the tech jobs bust, but it explains 為什麼 there's no recovery
+- NBA 宣布 partnership with prediction markets Kalshi, Polymarket
+- Removing Next.js Got My Blog to 100 on Every Lighthouse Category
+- Walter Koenig, Ensign Chekov on original 'Star Trek' series, dies at 90
+- I refuse to accept a censored Internet. Join Me at FOSDEM 27
+- Wages Fall to 43% of U.S. Gross Domestic Income, Lowest Since 1929
+- Vegemite is not a human right
+- Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
+- What goes into making an animated film?
 - Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits
-- Show HN: Proc-CLI – An 代理-friendly CLI tool for process and port management
-- The Curse of Soldered RAM
 - Show HN: Freehire, open-source search 3M+ tech jobs from company 職業 boards
-- Eunice is almost here
 - Show HN: Hurston-1 開源 TTS that speak Southern American and Afro-English
+- Eunice is almost here
+- R/opensource bans AI-made and AI-focused projects and non-English speakers
 - UTS #39: Unicode 安全 Mechanisms
-- VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]
+- 如何 grow a cacao tree at home
 - A mathematician reads the AI future
-- Recycling ANSI art: Tracing the origins of Fire Escape's BBS logon screens
+- VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]
+- Walter Koenig, the Russian Crewman Chekov on 'Star Trek,' Dies at 90
 - Recreate the Apollo Guidance Computer
-- Cognitive Mercantilism: AI panic resembles fears of early capitalism
+- Amazon’s “digital pacifier” for toddlers
+- Zuckerberg can control Meta after death. He refused to give up that power
+- Show HN: Proc-CLI – An 代理-friendly CLI tool for process and port management
+- JetBrains Thinkrail
+- Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git
+- Anthropic files S-1 with the SEC for proposed initial public offering
+- AI use leads UC Berkeley math professor to see 'no point' in grading homework
 - Lula wins election after final votes tallied
 - Reverse engineering a Beyblade launch tracker
-- The U.S. Power Grid
-- AI use leads UC Berkeley math professor to see 'no point' in grading homework
-- Retired decorator's Pokémon cards sell for £1.5M
-- JetBrains Thinkrail
-- Viktor Orbán, U.N. Secretary-General?
-- US Wages Share of GDI at 75 Year Low
-- Everybody panic: A Valve 開發者 said "HLX" in public
-- iPhone Duo Teardown
-- Show HN: RainbowSay – Learn, teach, research languages live with shows you love
-- The result of the C++26 DIS ballot
-- Cerebras Deploys Trillion-Parameter AI Models
-- fheroes2: A recreation of Heroes of Might and Magic II game engine
-- Proton Flock Camera Map
-- Bring Back the Cool Save File Screens
-- I Built a Stereo Vision Board for 硬體 Hackers
-- Focused Company Operating Principles
-- The Goose 程式設計 Language
-- Kimi K3.1 Pro and K3.1 Pro Highspeed
+- Active incident at Dreamhost forcing password reset
+- Tasks as 代碼: Move Your Tickets into the Repository
 - WorldTUI: I trained a 360M 模型 to pretend to be a terminal
-- Apollo says AI has delivered 'zero financial payoff' outside the tech industry
-- Anemoia: Nostalgia for a time one did not personally experience
-- Chip Builder is a puzzle and strategy game that teaches you chip design
-- Show HN: AgentTrust – Zero-trust 安全 and human approvals for AI agents
+- Cerebras Deploys Trillion-Parameter AI Models
+- Recycling ANSI art: Tracing the origins of Fire Escape's BBS logon screens
+- Kimi K3.1 Pro and K3.1 Pro Highspeed
+- Well-paid tech workers pay tax on unrealized gains. Billionaires can too
+- 為什麼 My Dad Didn't Have a Cell Phone
+- The U.S. Power Grid
+- Solar power is becoming bigger than nuclear
+- The Goose 程式設計 Language
+- fheroes2: A recreation of Heroes of Might and Magic II game engine
+- Bring Back the Cool Save File Screens
 - Today, we hacked what we'd set out to hack: the iPhone
+- The Curse of Soldered RAM
 - Roku 開發者 repositories moved from GitHub to GitLab
-- All you need is Wide Events, not "Metrics, Logs and Traces"
-- Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%
-- The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
-- A story of a Figma bug that wasn't a bug at all (2021)
-- How Japanese Dried Bonito Is Made
-- Show HN: I put employees inside S&P 500 market-cap bubbles
-- Nikon photography contest winner loses title after scientists spot signs of AI
-- Social dynamics of toxic metal industry in medieval Europe
-- Cve.now: A Free Feed of 安全 Vulnerabilities for Agents
-- SpeedCrunch 1.1
-- Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more
-- Bbtree: Fastest Ordered Map
-- Europe's summer heat wave killed more han 50k people in urban areas
-- Ask HN: Is it not possible to enroll for Apple 開發者 anymore?
-- Apple Music 404 Not Found
-- A few thoughts on intensity (2024)
-- I don't understand quantum physics (2018)
-- Around a dozen banking apps began specifically permitting GrapheneOS
-- Gheist campaign plants secret-dumping workflows using stolen GitHub tokens
-- U.S. birth rate drops to record low, but older women are having more babies
-- Small Programs and Languages
-- GPU-unlock: FP/BF16 instruction issue rate on NVIDIA 3000's cards
-- Scientists rediscover 如何 make ancient Roman colour-changing glass
-- TornadoVM 7 Enables GPU-Native Workloads from Java Applications
-- C vs. C#: racing VLC's Gaussian blur
-- Microsoft Decision-1: 9B Qwen 模型 Launch Explained
-- In Rainbows
+- Proton Flock Camera Map
 
 
 ---
