@@ -4,208 +4,206 @@
 
 ---
 
-### 1. [Three 新 discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+### 1. [Roblox downloaded 145GB models from us (including adult content) without asking](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/)
+
+- ⭐ 65 分｜💬 27 留言｜👤 choult
+
+### 2. [Three 新 discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 
 Related:The Exponential Time Hypothesis Is False [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661
 
-- ⭐ 566 分｜💬 235 留言｜👤 jonluca
+- ⭐ 946 分｜💬 473 留言｜👤 jonluca
 
-### 2. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+### 3. [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+
+- ⭐ 178 分｜💬 128 留言｜👤 ilreb
+
+### 4. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 
 See also: Announcing three 新 discoveries in mathematics, computer science, and physics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344
 
-- ⭐ 365 分｜💬 139 留言｜👤 vok
+- ⭐ 648 分｜💬 240 留言｜👤 vok
 
-### 3. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+### 5. [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
 
-- ⭐ 588 分｜💬 85 留言｜👤 sgiannopoulos
+- ⭐ 10 分｜💬 0 留言｜👤 joshcsimmons
 
-### 4. [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
+### 6. [Show HN: Encarta 95 網頁](https://benwinding.github.io/encarta_95_web/#/article/Art)
 
-- ⭐ 30 分｜💬 2 留言｜👤 doener
+Encarta is super nostalgic, and I was surprised it wasn&#x27;t available to use online. So I embarked on the difficult task of making it so.The way this works is the most convoluted, nonsense and brit
 
-### 5. [Oldest GUI 應用 that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+- ⭐ 61 分｜💬 27 留言｜👤 gitgud
 
-- ⭐ 327 分｜💬 197 留言｜👤 enlyth
+### 7. [新 'Circadian' Subtype of Depression Affecting 1 in 4 Patients](https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients)
 
-### 6. [Type 伺服器 Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+- ⭐ 68 分｜💬 40 留言｜👤 gmays
 
-- ⭐ 204 分｜💬 142 留言｜👤 adamnemecek
+### 8. [I will no longer upload to 新](https://lists.debian.org/debian-devel/2026/10/msg00263.html)
 
-### 7. [Cross-request KV cache exposure in the GLM-5.3 Workers AI 模型 (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+- ⭐ 72 分｜💬 18 留言｜👤 edward
 
-- ⭐ 89 分｜💬 25 留言｜👤 wondersky
+### 9. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 
-### 8. [CSS-Tricks has a 新 owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+- ⭐ 723 分｜💬 101 留言｜👤 sgiannopoulos
 
-- ⭐ 398 分｜💬 91 留言｜👤 edent
+### 10. [Oldest GUI 應用 that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 
-### 9. [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
+- ⭐ 449 分｜💬 259 留言｜👤 enlyth
 
-- ⭐ 72 分｜💬 20 留言｜👤 MrBuddyCasino
+### 11. [Writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
 
-### 10. [LISPy things you can do in 64K bytes of core (2019)](https://t3x.org/lisp64k/index.html)
+- ⭐ 41 分｜💬 4 留言｜👤 dverlaeckt80
 
-- ⭐ 37 分｜💬 6 留言｜👤 andsoitis
+### 12. [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
 
-### 11. [Solar power is becoming bigger than nuclear](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear)
+- ⭐ 74 分｜💬 45 留言｜👤 majorchord
 
-- ⭐ 168 分｜💬 276 留言｜👤 geox
+### 13. [Solar power is becoming bigger than nuclear](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear)
 
-### 12. [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+- ⭐ 353 分｜💬 521 留言｜👤 geox
 
-- ⭐ 139 分｜💬 45 留言｜👤 dilawargopang
+### 14. [Type 伺服器 Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 
-### 13. [Is PHP Running on Your ColdFusion 伺服器? 如何 Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
+- ⭐ 248 分｜💬 166 留言｜👤 adamnemecek
 
-- ⭐ 29 分｜💬 18 留言｜👤 rmason
+### 15. [CSS-Tricks has a 新 owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 
-### 14. [A Man from the Future: 為什麼 Johnny Can't Stop Abstracting](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html)
+- ⭐ 489 分｜💬 106 留言｜👤 edent
 
-- ⭐ 129 分｜💬 66 留言｜👤 aray07
+### 16. [Cross-request KV cache exposure in the GLM-5.3 Workers AI 模型 (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 
-### 15. [Virtual and Real World Combine at LAN Party (1998)](https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html)
+- ⭐ 142 分｜💬 46 留言｜👤 wondersky
 
-- ⭐ 12 分｜💬 0 留言｜👤 npunt
+### 17. [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 
-### 16. [APC says let there be light, with standards to speed up photonics manufacturing](https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950)
+- ⭐ 93 分｜💬 25 留言｜👤 doener
 
-- ⭐ 7 分｜💬 0 留言｜👤 rbanffy
+### 18. [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
 
-### 17. [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
+- ⭐ 139 分｜💬 31 留言｜👤 MrBuddyCasino
 
-https:&#x2F;&#x2F;developers.OpenAI.com&#x2F;API&#x2F;docs&#x2F;models&#x2F;GPT-6.1-terra
+### 19. [如何 grow a cacao tree at home (2024)](https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/)
 
-- ⭐ 531 分｜💬 334 留言｜👤 meetpateltech
+- ⭐ 80 分｜💬 27 留言｜👤 felipevb
 
-### 18. [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+### 20. [新 iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
 
-- ⭐ 1505 分｜💬 1469 留言｜👤 SiNTEx
+- ⭐ 214 分｜💬 525 留言｜👤 soheilpro
 
-### 19. [新 iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
+### 21. [LimonOS Custom x86-64 Kernel](https://github.com/AnonimusShamshiAlex/LimonOS)
 
-- ⭐ 149 分｜💬 414 留言｜👤 soheilpro
+- ⭐ 15 分｜💬 1 留言｜👤 DrMoris
 
-### 20. [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
+### 22. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 
-- ⭐ 270 分｜💬 138 留言｜👤 skadamat
+- ⭐ 351 分｜💬 203 留言｜👤 bagatelle
 
-### 21. [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
+### 23. [A Man from the Future: 為什麼 Johnny Can't Stop Abstracting](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html)
 
-- ⭐ 181 分｜💬 56 留言｜👤 zdw
+- ⭐ 181 分｜💬 83 留言｜👤 aray07
 
-### 22. [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
+### 24. [Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)](https://johnhendersontravel.com/txoko/)
 
-- ⭐ 801 分｜💬 712 留言｜👤 doctorzook
+- ⭐ 26 分｜💬 9 留言｜👤 jxub
 
-### 23. [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+### 25. [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
 
-- ⭐ 286 分｜💬 180 留言｜👤 bagatelle
+- ⭐ 294 分｜💬 150 留言｜👤 skadamat
 
-### 24. [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)
+### 26. [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 
-- ⭐ 244 分｜💬 65 留言｜👤 xkriva11
+- ⭐ 1624 分｜💬 1553 留言｜👤 SiNTEx
 
-### 25. [Diamond Transistor](https://www.df.com/diamond-transistor)
+### 27. [APC says let there be light, with standards to speed up photonics manufacturing](https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950)
 
-- ⭐ 131 分｜💬 68 留言｜👤 Gravityloss
+- ⭐ 38 分｜💬 8 留言｜👤 rbanffy
 
-### 26. [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)
+### 28. [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
 
-Hey HN, I&#x27;m Christian and this is a 新 OSS project I&#x27;ve been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your 
+- ⭐ 185 分｜💬 53 留言｜👤 dilawargopang
 
-- ⭐ 125 分｜💬 30 留言｜👤 pancomplex
+### 29. [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
 
-### 27. [In Context [video]](https://www.youtube.com/watch?v=P5eO7BNyJao)
+- ⭐ 213 分｜💬 61 留言｜👤 zdw
 
-- ⭐ 15 分｜💬 0 留言｜👤 adityaathalye
+### 30. [LISPy things you can do in 64K bytes of core (2019)](https://t3x.org/lisp64k/index.html)
 
-### 28. [Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera](https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/)
-
-- ⭐ 47 分｜💬 60 留言｜👤 thm
-
-### 29. [Native Prometheus Integration with Nginx](https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/)
-
-- ⭐ 40 分｜💬 9 留言｜👤 foxhill
-
-### 30. [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
-
-- ⭐ 152 分｜💬 65 留言｜👤 coffeemug
+- ⭐ 63 分｜💬 13 留言｜👤 andsoitis
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- The EPA Is Quietly Killing Its 網頁 Archive
-- US designates helium as a critical material
-- The 'Buy, Borrow and Die' Wealth Strategy Has Become a $5T Market
-- Concerning behavior from a popular open-weight AI 模型
-- Magic state cultivation on a superconducting quantum processor
-- World Wars I and II Military Aviation Museum Collection
-- An incremental approach to JIT construction
-- ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems
-- Colorfigures
+- Microsoft offers mass buyouts for roughly a quarter of its workforce
+- Pharo 14
+- GPT-6.1 Terra
+- Virtual and Real World Combine at LAN Party (1998)
+- Chemists, Chemical Engineers, and Plant Managers
+- Diamond Transistor
+- Fixing Tool-Call Accuracy in vLLM
+- Is PHP Running on Your ColdFusion 伺服器? 如何 Check, and Remove It
+- Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera
+- Historical Telecommunications
+- Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT
 - Behind the scenes at the NeXT Computer office
-- Birdwatching rewires the brain and slows cognitive decline
-- Running Qwen3.8-Flash-Next NVFP4 at 184 tok/s on a single RTX 6000 Pro
-- PhysicsForums and the Dead Internet Theory (2025)
-- Show HN: A Truly Modular Keyboard
-- Third Risk
+- Native Prometheus Integration with Nginx
 - We should be more ambitious with the 軟體 we 構建
+- Birdwatching rewires the brain and slows cognitive decline
+- In Context [video]
+- The EPA Is Quietly Killing Its 網頁 Archive
+- “AI Skills” are worthless in 2026
+- Colorfigures
+- US designates helium as a critical material
+- Show HN: A Truly Modular Keyboard
+- Concerning behavior from a popular open-weight AI 模型
+- An incremental approach to JIT construction
 - PaperPilot – Zero-雲端, Pure-Rust PDF Engine with WASM and MCP
-- Partyline: A group voice 應用 for Reticulum, built on LXST
-- Growing Trees
-- Reinventing the Pencil Sharpener [video]
-- Initial Support for the Apple M4 and Apple A18 Pro Make It into Linux 7.4
-- Prisoner loses challenge to an Australian state’s ban on inmates eating Vegemite
-- Iron Age salt-mining complex found beneath Hallstatt in Austria
+- ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems
+- PhysicsForums and the Dead Internet Theory (2025)
+- World Wars I and II Military Aviation Museum Collection
 - iPhone Duo Teardown
-- Switzerland. Block by block. At 1:1 scale
-- The Curse of Soldered RAM
-- Skydance offers buyouts, orders return to office
-- Neuron Explorer for Qwen3.5-4B: See every neuron at work, make targeted edits
-- Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their 工作
-- In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real
-- ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale'
-- Dolly Parton's Imagination Library
-- Show HN: TitleArt – Make text like it's 1997
+- Iron Age salt-mining complex found beneath Hallstatt in Austria
 - Local Wikipedia: Wikipedia, but only for things a half hour walk from you
-- CorridorKey 2.0
-- Somebody please stop the spam texts
-- Steal My Bitcoin CTF PoC
+- Growing Trees
+- Running Qwen3.8-Flash-Next NVFP4 at 184 tok/s on a single RTX 6000 Pro
+- The Curse of Soldered RAM
+- Magic state cultivation on a superconducting quantum processor
+- Reinventing the Pencil Sharpener [video]
+- Dolly Parton's Imagination Library
+- There are now 5 推論 providers for abliterated DeepSeek
+- Prisoner loses challenge to an Australian state’s ban on inmates eating Vegemite
+- Switzerland. Block by block. At 1:1 scale
+- Partyline: A group voice 應用 for Reticulum, built on LXST
+- Neuron Explorer for Qwen3.5-4B: See every neuron at work, make targeted edits
+- The 'Buy, Borrow and Die' Wealth Strategy Has Become a $5T Market
+- Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes
+- Micron Taiwan increasing salaries for factory workers by 2.7X
+- Show HN: TitleArt – Make text like it's 1997
 - F-Zero X on Nintendo 3DS
-- What Happened to the Neanderthals?
-- Tasks as 代碼: Move Your Tickets into the Repository
-- Meaning After an AI Eucatastrophe
-- KibernetykMono – A Geometric Monospace Typeface
-- Microsoft offers voluntary buyouts to a quarter of its workforce
+- AI is ruining haunted houses
 - Where the Romans Fought (interactive map)
-- Show HN: Glider 4.0 Unofficial 網頁 Edition (Mac game port)
-- LiberNT - A free NT operating 系統
-- Just imagining a workout can make you stronger (2016)
-- Microsoft offers 60k employees a voluntary exit
+- Steal My Bitcoin CTF PoC
+- Tasks as 代碼: Move Your Tickets into the Repository
 - Overgrown, when plants invade your abandoned tabs
-- The real-life Scottish surgeon who inspired Sherlock Holmes
-- OpenAI and Anthropic cut their 大型語言模型 prices by up to 80% within a few months. 為什麼?
 - AI didn't cause the tech jobs bust, but it explains 為什麼 there's no recovery
-- 為什麼 is it so expensive to send an email?
+- OpenAI and Anthropic cut their 大型語言模型 prices by up to 80% within a few months. 為什麼?
+- Skydance offers buyouts, orders return to office
 - Making the Buddha Head from Merv Whole Again
-- The Fall of Scientific American
-- OpenAI's agents talked to each other through the CPU Cache
+- KibernetykMono – A Geometric Monospace Typeface
 - I refuse to accept a censored Internet. Join Me at FOSDEM 27
-- Iterating Backwards in C
-- Two Million Hornets
-- warp.dev Breached
-- Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
-- NVIDIA discusses $2k-per-GPU annual fee for 軟體
-- Attention Is Not What You Need (2025)
+- In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real
+- Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their 工作
 - What goes into making an animated film?
-- Removing Next.js Got My Blog to 100 on Every Lighthouse Category
-- Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen
-- Fishing website for Susaki, Japan, hit by data leak, all 3 users affected
-- DOJ says presidents should be able to sell secrets on eBay
+- Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
+- Anthropic Is the Most Ridiculous IPO of 2026 [pdf]
+- 為什麼 is it so expensive to send an email?
+- The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them
+- Attention Is Not What You Need (2025)
+- The Fall of Scientific American
 - 為什麼 I Am a Programmer
-- IBM CEO says open weight models are now good and cheap on-prem
+- LiberNT - A free NT operating 系統
+- Removing Next.js Got My Blog to 100 on Every Lighthouse Category
+- Two Million Hornets
 
 
 ---
