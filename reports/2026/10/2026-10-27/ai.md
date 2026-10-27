@@ -18,7 +18,7 @@ HPE於10月22日公告修補Aruba網路作業系統ArubaOS（AOS）共72個漏�
 
 ### 3. [日本GMO旗下Onamae雲端桌面日前遭駭，證券及外匯交易帳戶傳異常，最新公告緊急要求用戶斷網關機](https://www.ithome.com.tw/news/179994)
 
-日本GMO集團旗下網際網路基礎設施業者GMO Internet發生資安事件，旗下主打外匯自動交易等用途的「Onamae.com Desktop 雲端」雲端桌面服務，遭到駭客入侵，部分客戶陸續反映證券及外匯交易帳戶出現未經授權的交易操作，後續亦確認客戶資料外洩。為了因應後續攻擊威脅，GMO在10月27日的公告中，緊急要求用戶備份資料、中斷網路連線並關機，同時調查客戶電腦是否遭植入惡意程式。
+日本GMO集團旗下網際網路基礎設施業者GMO Internet發生資安事件，旗下主打外匯自動交易等用途的「Onamae.com Desktop 雲端」雲端桌面服務，遭到駭客入侵，部分客戶陸續反映證券及外匯交易帳戶出現未經授權的交易操作，後續亦確認客戶資料外洩。為了因應後續攻擊威脅，GMO在10月27日的公告中，緊急要求用戶備份資料、中斷網路連線並關機，同時調查曾連接雲端桌面服務的客戶電腦是否遭植入惡意程式。
 
 - 📰 **iThome 科技**
 
@@ -38,7 +38,7 @@ OpenAI推出GPT-6.1 Terra，強化視覺判讀與電腦操作能力，讓AI代�
 
 本日新聞焦點
 ● 91APP遭駭事件發現ARTEX攻擊痕跡，顯示臺灣出現相關攻擊案例
-● eMudhra憑證事件波及Python，pip緊急更新，更新系統憑證仍不足
+● eMudhra憑證事件波及Python，pip緊急更新，更新��統憑證仍不足
 ● 不只影響Node.js，Node2Shell漏洞恐波及其他開發工具及應用程式
 
 - 📰 **iThome 科技**
@@ -63,7 +63,7 @@ OpenAI推出GPT-6.1 Terra，強化視覺判讀與電腦操作能力，讓AI代�
 
 ### 10. [全球四大會計師事務所之一的PwC證實遭駭，Everest聲稱竊得590GB資料](https://www.ithome.com.tw/news/179976)
 
-近年大型會計師事務所接連傳出資安事件，凸顯相關專業服務業者的資安風險，全球四���會計師事務所之一PwC近日也揭露遭駭，為其代管員工學習紀錄的第三方廠商遭到網路入侵，PwC已於10月23日證實此事，但表示受影響的外部平臺並未存放客戶資料、敏感個資或財務資訊，該公司獲知該事件後已迅速採取措施保護相關環境並展開調查，
+近年大型會計師事務所接連傳出資安事件，凸顯相關專業服務業���的資安風險，全球四大會計師事務所之一PwC近日也揭露遭駭，為其代管員工學習紀錄的第三方廠商遭到網路入侵，PwC已於10月23日證實此事，但表示受影響的外部平臺並未存放客戶資料、敏感個資或財務資訊，該公司獲知該事件後已迅速採取措施保護相關環境並展開調查，
 
 - 📰 **iThome 科技**
 
@@ -87,7 +87,7 @@ OpenAI推出GPT-6.1 Terra，強化視覺判讀與電腦操作能力，讓AI代�
 
 ### 14. [美國CISA警告雲端版辦公室軟體Collabora Online漏洞遭積極利用](https://www.ithome.com.tw/news/179971)
 
-10月23日美國網路安全與基礎���施安全局（CISA）表示，他們根據漏洞遭到積極利用的證據，更新已遭利用的漏洞名單（KEV）內容，其中一個漏洞是CVE-2026-110447，存在於雲端服務Nextcloud的雲端版辦公室軟體應用程式Collabora Online Built-in 代碼 伺服器（richdocumentscode），為作業系統命令注入漏洞，
+10月23���美國網路安全與基礎設施安全局（CISA）表示，他們根據漏洞遭到積極利用的證據，更新已遭利用的漏洞名單（KEV）內容，其中一個漏洞是CVE-2026-110447，存在於雲端服務Nextcloud的雲端版辦公室軟體應用程式Collabora Online Built-in 代碼 伺服器（richdocumentscode），為作業系統命令注入漏洞，
 
 - 📰 **iThome 科技**
 
@@ -99,7 +99,7 @@ OpenAI推出GPT-6.1 Terra，強化視覺判讀與電腦操作能力，讓AI代�
 
 ### 16. [Meta啟動950億美元融資計畫，NVIDIA等三大晶片商有意認購](https://www.ithome.com.tw/news/179968)
 
-Meta周一（10/26）宣布啟動大規模股權融資計畫，總規模上看950億美元，以支應AI���礎設施投資。
+Meta周一（10/26）宣布啟動大規模股權融資計畫，總規模上看950億美元，以支應AI基礎設施投資。
 
 - 📰 **iThome 科技**
 
@@ -123,7 +123,7 @@ AI新創Anthropic周一（10/26）公開向美國證券交易委員會（SEC）�
 
 ### 20. [微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力](https://www.ithome.com.tw/news/179960)
 
-微軟周一（10/26）發表新的自願離職方案（Voluntary Exit Offer，VEO），適用於美國、加拿大、英國及印度的部分員工。根據CNBC報導，約6萬名員工符合資格，占微軟全球22.3萬���員工的27%。此舉正值微軟大幅擴張AI基礎設施投資，並積極調整人力配置之際。
+微軟周一（10/26）發表新的自願離職方案（Voluntary Exit Offer，VEO），適用於美國、加拿大、英國及印度的部分員工。根據CNBC報導，約6萬名員工符合��格，占微軟全球22.3萬名員工的27%。此舉正值微軟大幅擴張AI基礎設施投資，並積極調整人力配置之際。
 
 - 📰 **iThome 科技**
 
@@ -154,7 +154,7 @@ Grok Imagine團隊上周末透過X公布由Grok Imagine生成的奧德賽第一�
 
 ### 25. [不只影響Node.js，Node2Shell漏洞恐波及其他開發工具及應用程式](https://www.ithome.com.tw/news/179952)
 
-澳洲科技��體iTnews近期報導，Node.js日前修補的高風險漏洞Node2Shell，漏洞編號為CVE-2026-111497，可能也影響其他開發工具及應用程式。
+澳洲科技媒體iTnews近期報導，Node.js日前修補的高風險漏洞Node2Shell，漏洞編號為CVE-2026-111497，可能也影響其他開發工具及應用程式。
 
 - 📰 **iThome 科技**
 
@@ -166,7 +166,7 @@ Grok Imagine團隊上周末透過X公布由Grok Imagine生成的奧德賽第一�
 
 ### 27. [加拿大匿名犯罪檢舉平臺遭駭，17.7萬筆資料外洩後暫停服務](https://www.ithome.com.tw/news/179918)
 
-加拿大多倫多匿名犯罪檢舉組織Toronto Crime Stoppers於日前宣布暫停服務。該組織使用的���三方檢舉管理系統P3今年3月遭駭，造成176,859筆檢舉紀錄外洩，部分內容可能透露原本匿名的檢舉人身分。Toronto Crime Stoppers目前已停止透過網站、電話及App接受新檢舉，多倫多警察局也宣布暫停使用Crime Stoppers服務。
+加拿大多倫多匿名犯罪檢舉組織Toronto Crime Stoppers於日前宣布暫���服務。該組織使用的第三方檢舉管理系統P3今年3月遭駭，造成176,859筆檢舉紀錄外洩，部分內容可能透露原本匿名的檢舉人身分。Toronto Crime Stoppers目前已停止透過網站、電話及App接受新檢舉，多倫多警察局也宣布暫停使用Crime Stoppers服務。
 
 - 📰 **iThome 科技**
 
@@ -192,6 +192,9 @@ Grok Imagine團隊上周末透過X公布由Grok Imagine生成的奧德賽第一�
 
 ### 更多 AI 新聞 (70則)
 
+- A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There (**Wired**)
+- UK Home Office May Face Investigation Over Use of OpenAI Tech (**Wired**)
+- UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court (**Wired**)
 - AI Agents Are Media’s 新 Favorite Audience (**Wired**)
 - NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How (**Wired**)
 - Instagram Is a Streaming Service Now (**Wired**)
@@ -212,8 +215,8 @@ Grok Imagine團隊上周末透過X公布由Grok Imagine生成的奧德賽第一�
 - Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain 為什麼 (**Wired**)
 - The Hottest 新 Side Hustle Is Stripping Copper Wire and Posting About It (**Wired**)
 - LG B6 OLED TV Review (2026) (**Wired**)
-- The Tragedy of Having a Wikipedia Page—and Then Losing It (**Wired**)
 - Lykyn Review: A Mushroom Garden Worth Showing Off (**Wired**)
+- The Tragedy of Having a Wikipedia Page—and Then Losing It (**Wired**)
 - Meet the AI Agents Trying to Be Real-Life Journalists (**Wired**)
 - Valve Steam Frame Review: Costly and Inconsistent (**Wired**)
 - This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners (**Wired**)
@@ -239,9 +242,6 @@ Grok Imagine團隊上周末透過X公布由Grok Imagine生成的奧德賽第一�
 - Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’ (**Wired**)
 - Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday (**Wired**)
 - What’s the 最佳 iPhone to Buy or Avoid Right Now? (2026) (**Wired**)
-- Elon Musk Just Dumped Another $76 Million Into the Midterms (**Wired**)
-- How Many Billions Would It Take to Hold Meta Accountable? (**Wired**)
-- Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
