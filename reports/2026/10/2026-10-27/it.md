@@ -6,202 +6,198 @@
 
 ### 1. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 
-- ⭐ 180 分｜💬 85 留言｜👤 acossta
+- ⭐ 569 分｜💬 341 留言｜👤 acossta
 
-### 2. [新 iMac with M6](https://www.apple.com/imac/)
+### 2. [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
 
-- ⭐ 164 分｜💬 157 留言｜👤 notfried
+- ⭐ 514 分｜💬 152 留言｜👤 deaux
 
-### 3. [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+### 3. [Tailscale SSH: Investigation and remediation 更新](https://tailscale.com/ssh-investigation-update)
 
-- ⭐ 295 分｜💬 152 留言｜👤 f311a
+- ⭐ 98 分｜💬 46 留言｜👤 figmert
 
-### 4. [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
+### 4. [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 
-- ⭐ 281 分｜💬 124 留言｜👤 rbanffy
+- ⭐ 30 分｜💬 7 留言｜👤 dataking
 
-### 5. [The US government is hiding secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
+### 5. [新 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 
-- ⭐ 345 分｜💬 95 留言｜👤 helterskelter2
+- ⭐ 204 分｜💬 237 留言｜👤 beex
 
-### 6. [為什麼 Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+### 6. [Survival 大型語言模型: AI 助手 and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 
-- ⭐ 69 分｜💬 8 留言｜👤 rbanffy
+- ⭐ 69 分｜💬 51 留言｜👤 Luc
 
-### 7. [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
+### 7. [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
 
-- ⭐ 9 分｜💬 0 留言｜👤 bigfish2026
+- ⭐ 40 分｜💬 1 留言｜👤 bryanrasmussen
 
-### 8. [Apple 引進 the 新 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
+### 8. [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
 
-- ⭐ 40 分｜💬 28 留言｜👤 beex
+- ⭐ 135 分｜💬 30 留言｜👤 pfdietz
 
-### 9. [Here be monsters: What do you still need to know when agents do the work?](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
+### 9. [新 iMac with M6](https://www.apple.com/imac/)
 
-- ⭐ 90 分｜💬 21 留言｜👤 adrq
+- ⭐ 267 分｜💬 321 留言｜👤 notfried
 
-### 10. [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
+### 10. [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 
-- ⭐ 19 分｜💬 9 留言｜👤 pfdietz
+- ⭐ 393 分｜💬 205 留言｜👤 f311a
 
-### 11. [Microsoft and Others Tell Crypto Platform Not to Tokenize Their Stocks](https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368)
+### 11. [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
 
-- ⭐ 8 分｜💬 1 留言｜👤 gumby
+- ⭐ 403 分｜💬 182 留言｜👤 rbanffy
 
-### 12. [PHP2Shell: Exploitation attempts and remediation trends](https://www.wiz.io/blog/php2shell-exploitation-so-far)
+### 12. [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 
-- ⭐ 147 分｜💬 50 留言｜👤 acossta
+- ⭐ 18 分｜💬 4 留言｜👤 ibobev
 
-### 13. [A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There](https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/)
+### 13. [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
 
-- ⭐ 39 分｜💬 2 留言｜👤 ck2
+- ⭐ 38 分｜💬 4 留言｜👤 owenshen24
 
-### 14. [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
+### 14. [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
 
-- ⭐ 16 分｜💬 2 留言｜👤 gumby
+- ⭐ 83 分｜💬 31 留言｜👤 Philpax
 
-### 15. [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
+### 15. [Raspberry Pi Zero 3W and Pi 4 模型 A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
 
-- ⭐ 25 分｜💬 0 留言｜👤 atgreen
+- ⭐ 8 分｜💬 1 留言｜👤 sthlmb
 
-### 16. [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
+### 16. [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
 
-- ⭐ 87 分｜💬 36 留言｜👤 car
+- ⭐ 658 分｜💬 231 留言｜👤 helterskelter2
 
-### 17. [We let our 雲端 agents query prod (with OIDC, not secrets)](https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/)
+### 17. [為什麼 Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 
-- ⭐ 9 分｜💬 0 留言｜👤 saligrama
+- ⭐ 117 分｜💬 18 留言｜👤 rbanffy
 
-### 18. [Show HN: Specification First Agentic Development Plugin and Prove](https://spec-first.dev/)
+### 18. [Land Value Capture in Practice: Ethiopia's Urban Land Lease 系統](https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections)
 
-Implemented 代理 smith since start 2026 with over 1000 specifications which lead to about 500k lines of 代碼. The procedure with that spec-first works well. How do you do it?
+- ⭐ 9 分｜💬 0 留言｜👤 surprisetalk
 
-- ⭐ 10 分｜💬 0 留言｜👤 hleichsenring
+### 19. [One year of Dioxus fullstack in production: the good, the painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
 
-### 19. [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+- ⭐ 4 分｜💬 0 留言｜👤 hauju
 
-- ⭐ 358 分｜💬 235 留言｜👤 ilreb
+### 20. [Here be monsters: What do you still need to know when agents do the work?](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
 
-### 20. [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
+- ⭐ 130 分｜💬 63 留言｜👤 adrq
 
-- ⭐ 114 分｜💬 6 留言｜👤 joshcsimmons
+### 21. [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
 
-### 21. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+- ⭐ 158 分｜💬 75 留言｜👤 dpflan
 
-See also: Announcing three 新 discoveries in mathematics, computer science, and physics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344
+### 22. [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
 
-- ⭐ 755 分｜💬 271 留言｜👤 vok
+- ⭐ 357 分｜💬 191 留言｜👤 car
 
-### 22. [Is my data used for 模型 訓練?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training)
+### 23. [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
 
-- ⭐ 162 分｜💬 75 留言｜👤 jonpizza
+- ⭐ 45 分｜💬 5 留言｜👤 bigfish2026
 
-### 23. [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)
+### 24. [Rosettes and Other Hidden Traces of Hamburg's Tram](https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/)
 
-- ⭐ 4 分｜💬 0 留言｜👤 eustoria
+- ⭐ 19 分｜💬 1 留言｜👤 mertbio
 
-### 24. [Antique Fonts Collection – Restored 19th Century Typefaces](https://centurylibrary.com/collection/antique-fonts/)
+### 25. [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
 
-- ⭐ 5 分｜💬 0 留言｜👤 eustoria
+- ⭐ 66 分｜💬 7 留言｜👤 atgreen
 
-### 25. [A Stackless Floodfill Automaton](https://t3x.org/files/floodfill.pdf)
+### 26. [Microsoft and others tell crypto platform not to tokenize their stocks](https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368)
 
-- ⭐ 24 分｜💬 7 留言｜👤 andsoitis
+- ⭐ 90 分｜💬 86 留言｜👤 gumby
 
-### 26. [Reducibility Among Combinatorial Problems (1972) [pdf]](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
+### 27. [Discord will soon let anyone find public 伺服器 messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 
-- ⭐ 4 分｜💬 0 留言｜👤 liamswayne
+- ⭐ 131 分｜💬 91 留言｜👤 DeepLogin
 
-### 27. [軟體 may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
+### 28. [Police are using AI to pull over drivers for 'suspicious' behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
 
-- ⭐ 230 分｜💬 189 留言｜👤 jakevoytko
+- ⭐ 295 分｜💬 227 留言｜👤 gumby
 
-### 28. [A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies](https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497)
+### 29. [PHP2Shell: Exploitation attempts and remediation trends](https://www.wiz.io/blog/php2shell-exploitation-so-far)
 
-- ⭐ 41 分｜💬 8 留言｜👤 JumpCrisscross
+- ⭐ 174 分｜💬 56 留言｜👤 acossta
 
-### 29. [Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims](https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment)
+### 30. [A Stackless Floodfill Automaton](https://t3x.org/files/floodfill.pdf)
 
-- ⭐ 30 分｜💬 5 留言｜👤 hn_acker
-
-### 30. [新 14‑inch MacBook Pro with M6](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
-
-- ⭐ 131 分｜💬 143 留言｜👤 meetpateltech
+- ⭐ 43 分｜💬 19 留言｜👤 andsoitis
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Roblox downloaded 145GB models from us (including adult content) without asking
+- The Mythical Man-Month in the Age of AI
+- Vicious Cycles: Theses on a philosophy of news (2020)
+- Show HN: Specification First Agentic Development Plugin and Prove
+- Gforth 1.0
+- A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies
 - Three 新 discoveries in mathematics, computer science, and physics
-- Oldest GUI 應用 that still runs on Windows 11
+- 軟體 may be getting worse, but it used to be horrible
+- Is my data used for 模型 訓練?
+- A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There
+- I still teach OpenGL ES 3.0
+- Maine banned phones in schools to help teens focus and connect. It's working
+- Roblox downloaded 145GB models from us (including adult content) without asking
 - 188-Year-Old Mystery of Photography's First Human Subjects Solved
 - Show HN: Encarta 95 網頁
-- CSS-Tricks has a 新 owner
-- Kauldron: Modular, scalable library to train ML models
-- I still teach OpenGL ES 3.0
-- Type 伺服器 Protocol
-- Amazon Is Gutting Its AI Division After Sustained Failure
+- The Exponential Time Hypothesis Is False [pdf]
+- 新 14‑inch MacBook Pro with M6
+- Antique Fonts Collection – Restored 19th Century Typefaces
 - 如何 grow a cacao tree at home (2024)
-- A Printer Printing onto Paper
-- Cross-request KV cache exposure in the GLM-5.3 Workers AI 模型 (155 responses)
-- JetBrains IDEs are now powered by libghostty
-- 'I Felt Blind Panic.' They Opened Their 新 $2k iPhone Duo–and It Broke
-- Writing about pratt parsing so I remember it
-- Viral Polls Are Not Representative Polls
+- Summary of Tonight's Exit Polls – Netanyahu doesn't have a majority
 - 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
+- Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims
+- Writing about pratt parsing so I remember it
+- Kauldron: Modular, scalable library to train ML models
+- She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On
+- Police Are Pulling People over Because AI Deems Their Driving "Suspicious"
 - A Man from the Future: 為什麼 Johnny Can't Stop Abstracting
 - Sebastian Raschka's from-scratch video course on building reasoning models
-- Alleged Israeli spy company targeted Starlink users
-- My video has unit tests
+- We let our 雲端 agents query prod (with OIDC, not secrets)
+- JetBrains IDEs are now powered by libghostty
+- Play Cyberpunk 2077 in the Browser
 - Nietzschian Debugger
-- DietPi v10.8 has been 發布
+- Show HN: 代理-relay for multi-vendor coding sessions
+- "Boy Born on Tuesday" a Thornier Problem Than the Monte Hall Problem?
 - Solar power is becoming bigger than nuclear
-- SIMD-accelerated computer vision on a $2 microcontroller
+- Who Is Responsible for Tackling Professional Deskilling?
+- Oldest GUI 應用 that still runs on Windows 11
 - Microsoft offers mass buyouts for roughly a quarter of its workforce
 - APC says let there be light, with standards to speed up photonics manufacturing
-- Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)
 - GPT-6.1 Terra
-- Visiting card
-- The Case for OpenTelemetry Maintainership
-- Virtual and Real World Combine at LAN Party (1998)
-- Industry Knew for Decades That Microplastics Could Infiltrate Human Bodies
-- LISPy things you can do in 64K bytes of core (2019)
-- AI promised less work. I've never worked more
-- The Shift of Theseus – Toy Bit Provenance Abstract Domain
+- Reducibility Among Combinatorial Problems (1972) [pdf]
+- Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)
 - Fixing Tool-Call Accuracy in vLLM
-- I will no longer upload to 新
-- Hy-Nomas, Tencent's 新 open-source world 模型 you can steer with text
-- Ask HN: T'was the night of Claude Reset and quota left: Funniest app you built?
-- Can You Make a 3D Game with AI, If You Don't Know 如何 Do Anything?
 - We should be more ambitious with the 軟體 we 構建
-- Just put some HTML on the 網頁
-- LimonOS Custom x86-64 Kernel
-- Diamond Transistor
+- LISPy things you can do in 64K bytes of core (2019)
+- CSS-Tricks has a 新 owner
+- 'I Felt Blind Panic.' They Opened Their 新 $2k iPhone Duo–and It Broke
+- Virtual and Real World Combine at LAN Party (1998)
+- Type 伺服器 Protocol
+- Ghostty 1.4
+- Alleged Israeli spy company targeted Starlink users
 - Behind the scenes at the NeXT Computer office
+- My video has unit tests
 - 新 iPad mini
-- Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera
-- Is PHP Running on Your ColdFusion 伺服器? 如何 Check, and Remove It
 - Birdwatching rewires the brain and slows cognitive decline
-- Chemists, Chemical Engineers, and Plant Managers
-- Websites Should Be Printable
-- Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT
-- Show HN: A Truly Modular Keyboard
-- Firefox 159
-- Cancer vaccines are finally here. How do we get them to patients?
-- Blaise Pascal invented fixed route public transport (2024)
-- Elon Musk Just Dumped Another $76M into the Midterms
+- A Printer Printing onto Paper
 - Local Wikipedia: Wikipedia, but only for things a half hour walk from you
-- The EPA Is Quietly Killing Its 網頁 Archive
-- Unlimited-OCR-2: Baidu open-sources an OCR 模型 for unlimited-horizon parsing
+- Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera
+- Websites Should Be Printable
+- In China, the AI bubble has burst
+- Show HN: A Truly Modular Keyboard
+- Cross-request KV cache exposure in the GLM-5.3 Workers AI 模型 (155 responses)
+- Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT
+- Is PHP Running on Your ColdFusion 伺服器? 如何 Check, and Remove It
+- Diamond Transistor
+- Chocolate Is Getting Worse
+- Blaise Pascal invented fixed route public transport (2024)
+- Industry Knew for Decades That Microplastics Could Infiltrate Human Bodies
 - Colorfigures
-- Native Prometheus Integration with Nginx
-- Anthropic S-1
 - PaperPilot – Zero-雲端, Pure-Rust PDF Engine with WASM and MCP
-- US designates helium as a critical material
-- Iron Age salt-mining complex found beneath Hallstatt in Austria
-- iPhone Duo Teardown
-- PhysicsForums and the Dead Internet Theory (2025)
+- I will no longer upload to 新
 
 
 ---
