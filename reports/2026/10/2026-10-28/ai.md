@@ -4,25 +4,149 @@
 
 ---
 
-### 1. [Veeam修補Backup &amp;amp; Replication、Backup for Microsoft 365與Veeam One重大漏洞](https://www.ithome.com.tw/news/180014)
+### 1. [中選會候選人財產申報網站出包，背景查詢資料竟含1,573名候選人身分證字號，初判委外廠商��失](https://www.ithome.com.tw/news/180037)
+
+年底地方選舉進入倒數，中選會候選人財產申報網站卻出現資安問題，當民眾開啟該網站查詢頁面時，包含候選人身分證字號的資料就會一併傳送至瀏覽器，即使網頁畫面並未顯示相關資訊。中選會於10月28日證實，初判是委外廠商產製公告資料時，將身分證字號載入非公開查詢的檔案所致，昨日已完成程式修正，並針對疏失原因及影響範圍展開調查。
+
+- 📰 **iThome 科技**
+
+### 2. [微軟推出AI代理防護新機制，依風險動態調整權限](https://www.ithome.com.tw/news/180048)
+
+隨著AI代理（AI 代理）逐漸取得企業資料、應用程式及系統的存取權限，微軟於10月19日宣布推出新一波AI代理防護機制，主張企業應將AI代理視為可能帶來內部風險的行動者，即使代理未遭外部入侵，也可能因判斷錯誤或受到惡意輸入影響而執行非預期操作。
+
+- 📰 **iThome 科技**
+
+### 3. [Google TPU將進駐甲骨文OCI，2027年起與GPU並列AI運算選項](https://www.ithome.com.tw/news/180043)
+
+Google與甲骨文宣布合作，計畫2027年起在甲骨文雲端基礎架構（OCI）提供Google自行設計的AI加速晶片TPU
+
+- 📰 **iThome 科技**
+
+### 4. [北韓駭客鎖定216臺PHP主機掃描PHP2Shell漏洞，臺灣列入目標範圍](https://www.ithome.com.tw/news/180045)
+
+PHP修補震驚全球的重大漏洞PHP2Shell，很快就成為攻擊者躍躍欲試的目標。資安公司Cyfirma警告，在PHP開發團隊於10月21日公布PHP2Shell之後，隔天疑似與Lazarus有關的北韓駭客組織，就鎖定全球存在PHP2Shell漏洞的網路主機進行偵察與掃描，並篩選出可能尚未完成修補的目標。
+
+- 📰 **iThome 科技**
+
+### 5. [重大漏洞PHP2Shell傳出駭客成功利用，於伺服器執行Shell指令](https://www.ithome.com.tw/news/180042)
+
+上週PHP開發團隊公布及修補統稱為PHP2Shell的重大漏洞CVE-2026-109618、CVE-2026-109619，找出漏洞的資安公司Wiz與Calif皆透露，若非借助AI的力量，研究人員難以找出具有實際破壞威力的資安漏洞，換言之，攻擊者想要找出利用的方法，難度應該也相當高。
+
+- 📰 **iThome 科技**
+
+### 6. [JetBrains IDE終端機改採libghostty，改善AI代理與TUI工具操作相容性](https://www.ithome.com.tw/news/180036)
+
+JetBrains旗下整合開發環境（IDE）從2026.3版起，將在重新設計的終端機中改用Ghostty的終端機模擬函式庫libghostty，取代多年使用的JediTerm。此次更新主要改善Claude 代碼、Codex等命令列AI程式代理，以及Neovim、tmux等工具在IDE內的操作相容性，包括鍵盤快捷鍵及畫面顯示問題。
+
+- 📰 **iThome 科技**
+
+### 7. [蘋果為iOS及iPadOS 18用戶修補已遭利用的圖形處理框架CoreGraphics漏洞](https://www.ithome.com.tw/news/180035)
+
+10月26日蘋果為旗下的行動裝置、電腦、穿戴裝置推出一系列的27.2版更新，其中macOS Golden Gate 27.2修補的漏洞有263個最多，iOS與iPadOS 27.2為163個居次。不過，這次該公司為舊版行動裝置作業系統提供的更新也值得留意，因為當中修補了先前公布、已遭利用的資安漏洞。
+
+- 📰 **iThome 科技**
+
+### 8. [漏洞懸賞計畫ZDI成員不慎公開尚未修補的Linux核心漏洞](https://www.ithome.com.tw/news/180034)
+
+上週震驚全球的PHP重大漏洞PHP2Shell，在協調修補及公布之前就被曝光，提前走漏風聲的研究人員隨之遭到撻伐。然而，事隔數日，又傳出有尚未完成修補的漏洞提前公開，而成為外界焦點。在PHP2Shell、Node2Shell等嚴重漏洞爆發之際，Linux核心漏洞意外提前公開的情況，也不容小覷。
+
+- 📰 **iThome 科技**
+
+### 9. [【資安日報】10月28��，Google Brotli漏洞恐造成資訊洩漏及阻斷服務，.NET、PHP與Linux陸續修補](https://www.ithome.com.tw/news/180032)
+
+本日新聞焦點
+● Brotli漏洞恐造成資訊洩漏及阻斷服務，.NET、PHP與Linux陸續修補
+● LiteLLM公布供應鏈攻擊後續調查，外洩金鑰讓駭客操控發布流程
+● 日本GMO Onamae遭駭，交易帳戶出現異常，要求用戶斷網關機 
+
+- 📰 **iThome 科技**
+
+### 10. [接近1千個電商網站被滲透，攻擊者利用Magento資安漏洞植入後門](https://www.ithome.com.tw/news/180031)
+
+本週美國網路安全與基礎設施安全局（CISA）警告，電商平臺Adobe Commerce與Magento危險類型檔案上傳未受限制漏洞CVE-2026-48356（PolyShell）遭積極利用，將其加入已遭利用的漏洞名單（KEV），不久前有資安公司揭露，該漏洞被用於長期鎖定此類電商網站的攻擊活動。
+
+- 📰 **iThome 科技**
+
+### 11. [Anthropic揭露收購Mithril Medicine，公布自有藥物研發進展](https://www.ithome.com.tw/news/180028)
+
+Anthropic公布自有藥物研發進展，揭露已在7月收購生技新創Mithril Medicine，將兩項針對罕見兒童肌肉失養症的藥物研發計畫納入內部。除了與藥廠合作，提供Claude協助新藥設計，Anthropic也開始自行投入新藥研發。
+
+- 📰 **iThome 科技**
+
+### 12. [韓國中小企業最大ERP業者兩週內接連傳出資安事件，當局展開調查](https://www.ithome.com.tw/news/180030)
+
+韓國最大中小企業ERP業者Douzone Bizon於近2週內先後發布兩個系統的資安外洩事件，當局列為重大事件，已著手調查。
+Douzone Bizon成立於1991年，是韓國鎖定中小企業的企業資訊通訊軟體供應商，也是ERP主要廠商。該公司稱其雲端輕量級企業資源規劃（Lite ERP）與稅務會計解決方案Smart A 10在韓國中小企業和會計事務所客戶超過11萬家，擁有超過90%的市佔率。
+
+- 📰 **iThome 科技**
+
+### 13. [2026年資安技能金盾獎初賽登場，224隊爭奪決賽資格](https://www.ithome.com.tw/news/180027)
+
+數位發展部資通安全署偕同國家資通安全研究院，於10月17日在北、中、南三地舉辦第21屆（2026年）資安技能金盾獎初賽。本屆共有224隊報名，創歷屆新高，將選出大專院校組30隊及國高中職組10隊，合計40隊晉級決賽。
+
+- 📰 **iThome 科技**
+
+### 14. [Magento、Brotli漏洞遭積極利用](https://www.ithome.com.tw/news/180026)
+
+10月27日美國網路安全與基礎設施安全局（CISA）表示，他們根據掌握漏洞遭到積極利用的證據，將兩個新漏洞加入已遭利用的漏洞名單（KEV）。
+
+- 📰 **iThome 科技**
+
+### 15. [NIST發布PQC遷移路線圖，自2031年起RSA等傳統公鑰演算法逐步退場，2036年起禁用](https://www.ithome.com.tw/news/180022)
+
+隨著後量子密碼學（PQC）標準逐步確立，既有系統升級與傳統公鑰演算法汰換，成為政府與企業面臨的重要課題。
+
+- 📰 **iThome 科技**
+
+### 16. [Cloudflare AI服務快取出錯，155次GLM-5.3回答混入他人資料](https://www.ithome.com.tw/news/180015)
+
+Cloudflare公布旗下AI服務Workers AI的資料外洩調查結果，指出8月27日至9月9日期間，GLM-5.3模型共有155次回應混入其他客戶的資料。問題發生在處理特別長的輸入內容時，Cloudflare已於9月9日完成修復，確認其他Workers AI模型未受影響，也沒有發現有人蓄意利用漏洞的證據。
+
+- 📰 **iThome 科技**
+
+### 17. [Amazon修訂軟體工程師職務指引，強調AI時代應重成果而非Token用量](https://www.ithome.com.tw/news/180025)
+
+Amazon周二（10/27）公布新版軟體開發工程師（SDE）職務指引，重新界定AI時代工程師的角色與工作要求。Amazon強��，儘管AI正快速改變軟體開發方式，衡量工程師表現仍應以實際工作成果為主，而非AI工具採用率、Token用量或程式碼數量。
+
+- 📰 **iThome 科技**
+
+### 18. [Apple同步推出macOS與iOS/iPadOS 27.2版，修補286個漏洞](https://www.ithome.com.tw/news/180024)
+
+Apple於10月26日同步推出macOS Golden Gate與iOS/iPadOS的27.2版，兩份安全公告分別列出263個與163個漏洞，合計426個，由於約有140個漏洞同時影響兩組系統，扣除重複項目後，涉及的獨立漏洞共286個。
+
+- 📰 **iThome 科技**
+
+### 19. [Mozilla發布Firefox大改版159，修補逾100個高風險漏洞](https://www.ithome.com.tw/news/180018)
+
+Mozilla基金會於10月27日正式推出Firefox 159大改版，揭露並修補167個資安漏洞，其中108個被評為高風險，影響範圍涵蓋JavaScript引擎、DOM、WebRTC、網路通訊，以及圖形處理等元件。此次修補的漏洞類型包括同源��策繞過、沙箱逃逸、權限提升、資訊洩露及記憶體安全問題。
+
+- 📰 **iThome 科技**
+
+### 20. [Google發布Chrome 156更新，修補逾50個資安漏洞](https://www.ithome.com.tw/news/180016)
+
+10月27日Google發布穩定通道的Chrome更新，一共修補52個資安漏洞，從嚴重程度來看，4個為重大等級，46個為高風險等級，2個為中度風險。
+
+- 📰 **iThome 科技**
+
+### 21. [Veeam修補Backup &amp;amp; Replication、Backup for Microsoft 365與Veeam One重大漏洞](https://www.ithome.com.tw/news/180014)
 
 備份與資料保護軟體廠商Veeam於10月27日同步修補旗下3款產品資安漏洞，涵蓋主力備份產品Backup &amp;amp; Replication 13與Backup for Microsoft 365 8.5，以及監控管理平臺Veeam ONE 13.1。
 
 - 📰 **iThome 科技**
 
-### 2. [蘋果擴大M6產品線，推出新款MacBook Pro與iMac](https://www.ithome.com.tw/news/180013)
+### 22. [蘋果擴大M6產品線，推出新款MacBook Pro與iMac](https://www.ithome.com.tw/news/180013)
 
 蘋果（Apple）周二（10/27）宣布推出搭載M6晶片的14吋MacBook Pro及24吋iMac，主要升級運算效能、AI處理能力及連線規格，外觀設計則延續上一代。
 
 - 📰 **iThome 科技**
 
-### 3. [Google變更用戶條款，可能使用Gmail、Drive內容發送個人化廣告](https://www.ithome.com.tw/news/180012)
+### 23. [Google變更用戶條款，可能使用Gmail、Drive內容發送個人化廣告](https://www.ithome.com.tw/news/180012)
 
 Google上周更新服務條款，以便利用用戶Gmail、Drive和相片內容發送個人化廣告。
 
 - 📰 **iThome 科技**
 
-### 4. [新光三越疑遭外部入侵，約2萬名顧客個資受影響，業者證實已通報主管機關](https://www.ithome.com.tw/news/180011)
+### 24. [新光三越疑遭外部入侵，約2萬名顧客個資受影響，已通報主管機關](https://www.ithome.com.tw/news/180011)
 
 日前臺灣多家媒體報導新光三越發生資安事件，指出2萬名顧客個人資料受影響，引發外界關注。由於新光三越網站未發布相關公告，我們進一步向該公司詢問，取得其總公司發布的資訊系統異常事件說明，證實這家百貨發生資安事故，已通知受影響顧客，並通報主管機關。
 新光三越在10月22日對外發布的聲明中表示，該公司日前透過內部資安監測機制，發現資訊系統異常，疑似遭外部不法入侵。經初步清查，部分宅配訂單顧客的姓名、地址及聯絡電話受到影響。
@@ -30,162 +154,39 @@ Google上周更新服務條款，以便利用用戶Gmail、Drive和相片內容�
 
 - 📰 **iThome 科技**
 
-### 5. [天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊](https://www.ithome.com.tw/news/180010)
+### 25. [天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊](https://www.ithome.com.tw/news/180010)
 
-生技公司天良（4127）於10月27日，在股市公開資訊觀測站發布重大訊息，近日接獲消費者反映個資疑似外洩，調查結果顯示，公司委外服務平臺業者提供的資料庫發生自動化攻擊事件，部分資訊遭非法擷取。天良獲悉相關情事後，已立即聯繫委外服務平臺業者，要求對方釐清公司相關資料是否受到影響，以及實際涉及的資料範圍。
+生技公司天良（4127）於10月27日，在股市公開資訊觀測站發布重大訊息，近日接獲消費者反映個資疑似外洩，調查結果顯示，公司委外服務平臺業者提供的資料庫發生自動化攻擊事件，部分資訊遭非法擷取。天良獲悉相關情事後，已立即聯繫委外��務平臺業者，要求對方釐清公司相關資料是否受到影響，以及實際涉及的資料範圍。
 
 - 📰 **iThome 科技**
 
-### 6. [Google發表世界模型Genie 4，強化物理模擬與即時互動能力](https://www.ithome.com.tw/news/180009)
+### 26. [Google發表世界模型Genie 4，強化物理模擬與即時互動能力](https://www.ithome.com.tw/news/180009)
 
 Google旗下DeepMind周二（10/27）發表新一代世界模型Genie 4，可利用AI生成能夠自由探索、即時互動的虛擬世界，並進一步強化物理模擬、人物行為及聲音生成能力。使用者不僅能在其中移動，還能透過文字指令改變天氣、加入人物或物件，讓虛擬世界隨著操作持續變化。
 
 - 📰 **iThome 科技**
 
-### 7. [Anduril攜手高通推美國製筆電，力拚重建本土電腦供應鏈](https://www.ithome.com.tw/news/180008)
+### 27. [Anduril攜手高通推美國製筆電，力拚重建本土電腦供應鏈](https://www.ithome.com.tw/news/180008)
 
 美國國防科技公司Anduril Industries與晶片大廠高通（Qualcomm Technologies）周二（10/27）宣布合作，推出名為BlueChip的全新電腦產品線，首款產品為搭載高通Snapdragon X系列處理器、在美國設計與組裝的筆記型電腦，預計2027年開始接單。雙方希望藉此重建美國本土電腦製造能力，降低關鍵產業對海外供應鏈的依賴。
 
 - 📰 **iThome 科技**
 
-### 8. [高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取](https://www.ithome.com.tw/news/180007)
+### 28. [高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取](https://www.ithome.com.tw/news/180007)
 
 服飾與紡織相關產品代理商高林（2906）於10月27日，在股市公開資訊觀測站發布資安事件重大訊息，該公司的購物網站的訂單系統委由電商技術服務公司91APP提供，該系統的資料庫遭到自動化攻擊，部分資訊遭非法擷取。
 
 - 📰 **iThome 科技**
 
-### 9. [Dream-1模型可零樣本控制不同雙臂機器人，現開放API測試](https://www.ithome.com.tw/news/180004)
+### 29. [Dream-1模型可零樣本控制不同雙臂機器人，現開放API測試](https://www.ithome.com.tw/news/180004)
 
-機器人AI新創公司Dream Labs推出Dream-1模型，官方提到，即使沒有新機型的訓練資料，也能控制不同的雙臂機器人完成抓取、堆疊及擺放物品等任務。該模型已開放API供開發者測試，目前主要支援配備平行夾爪的雙臂機器人。
+機器人AI新創公司Dream Labs推出Dream-1模型，官方提到，即使沒有新機型的訓練資料，也能控制不同的雙臂機器人完成抓���、堆疊及擺放物品等任務。該模型已開放API供開發者測試，目前主要支援配備平行夾爪的雙臂機器人。
 
 - 📰 **iThome 科技**
 
-### 10. [Google Brotli漏洞恐造成資訊洩漏及阻斷服務，.NET、PHP與Linux陸續修補](https://www.ithome.com.tw/news/180003)
+### 30. [Google Brotli漏洞恐造成資訊洩漏及阻斷服務，.NET、PHP與Linux陸續修補](https://www.ithome.com.tw/news/180003)
 
 Google開發的開源資料壓縮程式庫Brotli存在越界寫入漏洞CVE-2026-111497，攻擊者可透過特製壓縮資料觸發記憶體破壞，導致阻斷服務或資訊洩漏。資安業者Imperva先前公布名為Node2Shell的漏洞研究結果，證實攻擊者在特定條件下可利用受影響的Node.js版本遠端執行程式碼。
-
-- 📰 **iThome 科技**
-
-### 11. [AI代理為完成任務卻外洩企業資料，逾1.3萬個內部檔案遭公開至GitHub](https://www.ithome.com.tw/news/179997)
-
-AI程式開發代理可能為了完成任務，自行採取不安全的操作方式，導致企業內部資料外洩。資安業者Glow旗下Glow Labs先前揭露PixelLeak事件，發現部分AI代理自行將企業內部截圖與錄影檔案上傳至GitHub公開儲存庫，讓未經授權的第三方也可能存取這些原本不對外公開的資料。
-
-- 📰 **iThome 科技**
-
-### 12. [Cloudflare推出後量子地理金鑰管理，限定私密金鑰使用地區](https://www.ithome.com.tw/news/179963)
-
-網路服務與資安業者Cloudflare公布地理金鑰管理服務PQ GeoKey 經理，加入後量子密碼學（PQC）防護，讓企業指定哪些地區的伺服器可以解密及使用私密金鑰。目前這項服務已進入封閉測試階段，預計2027年第一季正式推出。新架構將先應用於Cloudflare One相關服務。
-
-- 📰 **iThome 科技**
-
-### 13. [Linux基金會調查揭資料基礎架構風險，資安漏洞居首](https://www.ithome.com.tw/news/179922)
-
-Linux基金會（The Linux Foundation）公布2026年開放資料基礎架構調查，發現58%受訪者關注資料基礎架構的資安漏洞風險，在各項風險中比例最高；法規遵循，以及資料在不同工具或環境中的暴露風險，則各有33%受訪者關注。在選擇資料平臺時，79%受訪者認為資安與法規遵循非常重要，比例與重視總持有成本（Total Cost of Ownership，TCO）的80%相近。這項調查於2026年5月進行，共有294名來自不同產業及組織的受訪者參與。
-
-- 📰 **iThome 科技**
-
-### 14. [HPE修補網路作業系統ArubaOS 72個漏洞，含8個CVSS滿分重大漏洞](https://www.ithome.com.tw/news/180002)
-
-HPE於10月22日公告修補Aruba網路作業系統ArubaOS（AOS）共72個漏洞，涵蓋企業��線網路使用的控制器、閘道器、無線AP及虛擬控制器等設備。受影響版本包括AOS-10的10.8.1.1、10.7.2.6、10.4.1.13及更早版本，以及AOS-8的8.13.3.0、8.10.0.23及更早版本。
-
-- 📰 **iThome 科技**
-
-### 15. [雲端平臺Railway客戶環境變數遭解密，駭客疑鎖定AI服務金鑰](https://www.ithome.com.tw/news/179996)
-
-雲端應用程式部署平臺Railway公布資安事故初步調查結果，駭客入侵內部系統，部分客戶的機密環境變數已遭解密，約10萬個工作空間可能受到影響，最多占全體工作空間1.85%。Railway研判，攻擊者鎖定AI服務API金鑰，可能企圖用於模型蒸餾。
-
-- 📰 **iThome 科技**
-
-### 16. [日本GMO旗下Onamae雲端桌面日前遭駭，證券及外匯交易帳戶傳異常，最新公告緊急要求用戶斷網關機](https://www.ithome.com.tw/news/179994)
-
-日本GMO集團旗下網際網路基礎設施業者GMO Internet發生資安事��，旗下主打外匯自動交易等用途的「Onamae.com Desktop 雲端」雲端桌面服務，遭到駭客入侵，部分客戶陸續反映證券及外匯交易帳戶出現未經授權的交易操作，後續亦確認客戶資料外洩。為了因應後續攻擊威脅，GMO在10月27日的公告中，緊急要求用戶備份資料、中斷網路連線並關機，同時調查曾連接雲端桌面服務的客戶電腦是否遭植入惡意程式。
-
-- 📰 **iThome 科技**
-
-### 17. [OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半](https://www.ithome.com.tw/news/179985)
-
-OpenAI推出GPT-6.1 Terra，強化視覺判讀與電腦操作能力，讓AI代理能以較低成本執行日常工作。新模型的標準API輸入與輸出價格均為GPT-6.1 Sol的一半，現已開放開發者使用，並提供給ChatGPT Work與Codex的付費用戶。
-
-- 📰 **iThome 科技**
-
-### 18. [預防SBOM清單也可能遭竄改，歐盟ENISA發布技術指南，提出生命週期安��防護建議](https://www.ithome.com.tw/news/179980)
-
-為提升軟體供應鏈透明度，歐盟網路韌性法（CRA）要求產品製造商履行相關資安義務，包括提供軟體物料清單（SBOM）等要求，然而，SBOM不只要盤點軟體元件，還須確保清單正確、持續更新，並防範竄改。歐盟網路安全局（ENISA）於10月22日正式發布SBOM技術指南，提出六階段生命週期管理流程，涵蓋產生、驗證、簽署、儲存、使用及維護，並建議整合至持續整合與持續交付（CI/CD）流程，同時整理可用的開源工具與安全防護建議。
-
-- 📰 **iThome 科技**
-
-### 19. [【資安日報】10月27日，91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出現相關攻擊案例](https://www.ithome.com.tw/news/179981)
-
-本日新聞焦點
-● 91APP遭駭事件發現ARTEX攻擊痕跡，顯示臺灣出現相關攻擊案例
-● eMudhra憑證事件波及Python，pip緊急更新，更新系統憑證仍不足
-● 不只影響Node.js，Node2Shell漏洞恐波及其他開發工具及應用程式
-
-- 📰 **iThome 科技**
-
-### 20. [阿里巴巴Qwen模型異常嘗試向北京上傳資料，推理紀錄卻稱不呼叫工具](https://www.ithome.com.tw/news/179978)
-
-加拿大AI業者Cohere發現阿里巴巴開放權重模型Qwen3.8-Flash-Next，會在執行資安任務時，未經指示檢查系統環境，並試圖將測試字串上傳至北京的阿里雲儲存空間。模型的推理紀錄稱不會呼叫工具，實際操作卻與紀錄不符，對外連線最後遭沙箱阻擋。
-
-- 📰 **iThome 科技**
-
-### 21. [四大金融機構聯手博通，提供630億美元融資助Anthropic擴充AI算力](https://www.ithome.com.tw/news/179979)
-
-美國銀行（Bank of America）、黑石集團（Blackstone）、花旗集團（Citi）及摩根士丹利（Morgan Stanley）周一（10/26）聯合宣布，將與晶片大廠博通（Broadcom）合作，推出總額630億美元的融資方案，協助AI新創Anthropic擴充運算容量。這項交易將透過特殊目的公司購買博通AI晶片及網路設備，再出租給Anthropic使用，預計2027年開始交付。
-
-- 📰 **iThome 科技**
-
-### 22. [韓國警方偵破利用ARTEX發動攻擊的嫌犯，涉及入侵逾90家機構、竊取820萬筆個資](https://www.ithome.com.tw/news/179973)
-
-開源AI滲透測試框架ARTEX接連遭駭客濫用，近日韓國警方偵破首起利用該工具從事網路犯罪的案件，首爾警方10月26日宣布逮捕一名曾任滲透測試員的男子，其涉嫌入侵90多家企業及機構、竊取約820萬筆個資，並與6名共犯聯手向部分受害企業勒索。
-
-- 📰 **iThome 科技**
-
-### 23. [全球四大會計師事務所之一的PwC證實遭駭，Everest聲稱竊得590GB資料](https://www.ithome.com.tw/news/179976)
-
-近年大型會計師事務所接連傳出資安事件，凸顯相關專業服務業者的資安風險，全球四大會計師事務所之一PwC近日也揭露遭駭，為其代管員工學習紀錄的第三方廠商��到網路入侵，PwC已於10月23日證實此事，但表示受影響的外部平臺並未存放客戶資料、敏感個資或財務資訊，該公司獲知該事件後已迅速採取措施保護相關環境並展開調查，
-
-- 📰 **iThome 科技**
-
-### 24. [Brotli解壓縮漏洞也影響.NET，微軟緊急發布臨時更新修補](https://www.ithome.com.tw/news/179970)
-
-微軟10月25日發布.NET臨時（Out-of-Band）安全更新，緊急修補Brotli解壓縮漏洞。應用程式若解開攻擊者提供的惡意壓縮資料，可能讓未經身分驗證的攻擊者讀取或破壞程式記憶體，造成資料外洩、服務中斷或權限提升。此次更新也修補Linux封裝的檔案擁有權問題，並修正10月13日安全更新未完整處理的另兩項漏洞。
-
-- 📰 **iThome 科技**
-
-### 25. [美國CISA警告PHP2Shell遭到積極利用](https://www.ithome.com.tw/news/179975)
-
-上週PHP開發團隊公布及修補的重大漏洞CVE-2026-109618、CVE-2026-109619（統稱PHP2Shell）震驚全球，美國網路安全與基礎設施安全局（CISA）在呼籲用戶立即修補相關弱點後，本週也掌握遭積極利用的證據並提出警告。
-
-- 📰 **iThome 科技**
-
-### 26. [Arista旗下SD-WAN集中管理平臺VCO零時差漏洞已遭積極利用](https://www.ithome.com.tw/news/179972)
-
-10月22日Arista發布資安公告，企業內部網路環境建置的SD-WAN集中管理平臺VeloCloud Orchestrator（VCO）存在重大等級的SQL注入漏洞CVE-2026-114625，遠端攻擊者有機會藉此得到存取內部特殊權限的功能，CVSS嚴重程度評分為9.9（CVSS v4.0評分為9.4）。
-
-- 📰 **iThome 科技**
-
-### 27. [美國CISA警告雲端版辦公室軟體Collabora Online漏洞遭積極利用](https://www.ithome.com.tw/news/179971)
-
-10月23日美國網路安全與基礎設施安全局（CISA）表示，他們根據漏洞遭到積極利用的證據，更新已遭利用的���洞名單（KEV）內容，其中一個漏洞是CVE-2026-110447，存在於雲端服務Nextcloud的雲端版辦公室軟體應用程式Collabora Online Built-in 代碼 伺服器（richdocumentscode），為作業系統命令注入漏洞，
-
-- 📰 **iThome 科技**
-
-### 28. [Shadowserver示警逾90萬個無法直接取得修補的舊版PHP執行個體暴露於公開網路，臺灣也有1.3萬個](https://www.ithome.com.tw/news/179969)
-
-近日揭露的PHP2Shell漏洞，掀起全球範圍的網站資安風暴，除了相關漏洞是否遭到實際利用外，全球PHP系統的曝險情況也是關注焦點。
-
-- 📰 **iThome 科技**
-
-### 29. [Meta啟動950億美元融資計畫，NVIDIA等三大晶片商有意認購](https://www.ithome.com.tw/news/179968)
-
-Meta周一（10/26）宣布啟動大規模股權融資計畫，總規模上看950億美元，以支應AI基礎設施投資。
-
-- 📰 **iThome 科技**
-
-### 30. [中國駭客Storm-0940利用自主AI框架ARTEX發動大規模攻擊，並藉ConnectWise憑證滲透企業雲端](https://www.ithome.com.tw/news/179964)
-
-近期利用開源AI滲透測試框架ARTEX發動網路攻擊的案例接連曝光，不只南韓金融機構、日本大量企業遭到攻擊，臺灣91APP的資安事件也發現使用相關工具的入侵痕跡，但這些攻擊事件的幕後攻擊者及彼此關聯仍未完全釐清。
 
 - 📰 **iThome 科技**
 
@@ -193,6 +194,26 @@ Meta周一（10/26）宣布啟動大規模股權融資計畫，總規模上看95
 
 ### 更多 AI 新聞 (70則)
 
+- Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA (**Wired**)
+- Pornhub Stars Want to Teach You 如何 Make Dinner (**Wired**)
+- Apple AirPods Max 2 Are $100 Off Ahead of Black Friday (**Wired**)
+- Macmillan Staff Say the Publisher Threw a Party for a Workplace AI 助手 That Was Later Killed (**Wired**)
+- Please Let the Internet Die (**Wired**)
+- The Men Spending $50,000 Just to Reserve a Tesla Roadster (**Wired**)
+- ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History (**Wired**)
+- AI Emergency Alerts Are Coming. Humans Might Not Be Ready (**Wired**)
+- Should AI Decide Your Court Case? This Judge Says Yes (**Wired**)
+- Google Workspace Promo Codes: 14% Off for October 2026 (**Wired**)
+- Nike Promo Codes and Discounts: 30% for October 2026 (**Wired**)
+- Peacock Promo Codes: 40% Off October 2026 (**Wired**)
+- Paramount+ Coupon Codes and Deals for 2026 (**Wired**)
+- NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026 (**Wired**)
+- Disney Plus Discount Codes: 52% Off October 2026 (**Wired**)
+- LG Promo Codes and Coupons for October 2026 (**Wired**)
+- 30% VistaPrint Coupon &amp; Promo Codes | October 2026 (**Wired**)
+- Squarespace Promo Codes: 20% Off in October 2026 (**Wired**)
+- 20% Off Samsung Promo 代碼 | October 2026 (**Wired**)
+- Dyson Promo Codes: 25% Off in October 2026 (**Wired**)
 - Anthropic Says It Will Revolutionize Biology—Some Day (**Wired**)
 - 最佳 Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026) (**Wired**)
 - Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr (**Wired**)
@@ -222,27 +243,7 @@ Meta周一（10/26）宣布啟動大規模股權融資計畫，總規模上看95
 - Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain 為什麼 (**Wired**)
 - The Hottest 新 Side Hustle Is Stripping Copper Wire and Posting About It (**Wired**)
 - LG B6 OLED TV Review (2026) (**Wired**)
-- The Tragedy of Having a Wikipedia Page—and Then Losing It (**Wired**)
 - Lykyn Review: A Mushroom Garden Worth Showing Off (**Wired**)
-- Meet the AI Agents Trying to Be Real-Life Journalists (**Wired**)
-- Valve Steam Frame Review: Costly and Inconsistent (**Wired**)
-- This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners (**Wired**)
-- Wallhack M-001 Review: When Fun Overrides Specs (**Wired**)
-- Scientists Trapped an Antimatter Particle for Months to Study Its Secrets (**Wired**)
-- 6 最佳 Folding Phones (2026): Samsung, Apple, Google, Motorola (**Wired**)
-- The MacBook Pro Max Just Dropped to Its Lowest Price Ever (**Wired**)
-- Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later (**Wired**)
-- Apple CarPlay and Android Auto Make Your Phone Hot. Here’s 如何 Keep It Cool (**Wired**)
-- Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries (**Wired**)
-- What the US Movement Against Data Centers Can Learn From Abroad (**Wired**)
-- We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound (**Wired**)
-- The PHP Meltdown Shows How AI Makes Bugs More Exploitable (**Wired**)
-- 新 mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent (**Wired**)
-- 最佳 Pet Camera of 2026: Furbo, Petcube, and Enabot (**Wired**)
-- 9 Unique Apps to Try on the iPhone Duo (**Wired**)
-- My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale (**Wired**)
-- 12 Absolutely Banging Proper Watches Under $400 (**Wired**)
-- The Qubitunes Soundstage Toy Is a Great Gift for Kids (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
