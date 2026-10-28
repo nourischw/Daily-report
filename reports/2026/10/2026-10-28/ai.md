@@ -194,6 +194,11 @@ Google開發的開源資料壓縮程式庫Brotli存在越界寫入漏洞CVE-2026
 
 ### 更多 AI 新聞 (70則)
 
+- This Is What the GOP’s Final Midterms Push Looks Like (**Wired**)
+- Most Servers on the Planet Are Vulnerable to This Firmware 代碼-Execution Flaw (**Wired**)
+- Massive Leak Exposes 41,000 Homeland 安全 Workers—Including Undercover ICE Agents (**Wired**)
+- The 新 M6 MacBook Pro Has a Serious Price Problem (**Wired**)
+- I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet (**Wired**)
 - The Inside Story of 為什麼 Apple Finally Brought a Touch Display to the Mac (**Wired**)
 - Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers (**Wired**)
 - Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups (**Wired**)
@@ -239,11 +244,6 @@ Google開發的開源資料壓縮程式庫Brotli存在越界寫入漏洞CVE-2026
 - Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’ (**Wired**)
 - 為什麼 Anthropic’s IPO Prospectus Is Missing So Many Key Figures (**Wired**)
 - 最佳 Dyson Vacuum Deals for Dyson Week 2026 (**Wired**)
-- Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks (**Wired**)
-- Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now (**Wired**)
-- Google Fitbit Edge Review: I Still Prefer the Air (2026) (**Wired**)
-- The Anthropic S-1 Filing Is Also an AI Doomsday Primer (**Wired**)
-- Anthropic’s IPO Prospectus Reveals What’s Under the Hood (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
