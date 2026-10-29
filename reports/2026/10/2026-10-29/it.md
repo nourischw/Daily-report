@@ -4,202 +4,212 @@
 
 ---
 
-### 1. [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+### 1. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 
-- ⭐ 532 分｜💬 108 留言｜👤 csmantle
+- ⭐ 161 分｜💬 69 留言｜👤 Tiberium
 
-### 2. [為什麼 is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+### 2. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
 
-- ⭐ 1316 分｜💬 246 留言｜👤 hazebooth
+- ⭐ 1056 分｜💬 305 留言｜👤 kuberwastaken
 
-### 3. [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/)
+### 3. [Alleged Chinese spy had 'close relationship' with NVIDIA boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
 
-- ⭐ 57 分｜💬 20 留言｜👤 ljf
+https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;10&#x2F;29&#x2F;us&#x2F;politics&#x2F;NVIDIA-china-..., https:&#x2F;&#x2F;archive.ph&#x2F;K7bih
 
-### 4. [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
+- ⭐ 222 分｜💬 148 留言｜👤 mgh2
 
-- ⭐ 76 分｜💬 21 留言｜👤 inventor7777
+### 4. [We ran AI 代理 swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 
-### 5. [Zero click, silent, 遠端 Android DoS](https://smsofdeath.com/)
+- ⭐ 23 分｜💬 8 留言｜👤 sandslash
 
-- ⭐ 135 分｜💬 86 留言｜👤 MarkBlah
+### 5. [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 
-### 6. [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
+https:&#x2F;&#x2F;archive.ph&#x2F;y4Egmhttps:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Patrick_Stewart
 
-- ⭐ 107 分｜💬 19 留言｜👤 austinallegro
+- ⭐ 1709 分｜💬 331 留言｜👤 j4mie
 
-### 7. [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
+### 6. [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 
-- ⭐ 217 分｜💬 118 留言｜👤 limbicsystem
+- ⭐ 269 分｜💬 112 留言｜👤 ea016
 
-### 8. [MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/)
+### 7. [A tiny world 模型 running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 
-- ⭐ 36 分｜💬 5 留言｜👤 kermatt
+- ⭐ 50 分｜💬 5 留言｜👤 airinei
 
-### 9. [Show HN: UK Farming Simulator](https://butterbean.farm/)
+### 8. [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
 
-- ⭐ 3 分｜💬 3 留言｜👤 pattle
+This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no 系統 setting to disable it globally and prevent the popup from interrupting your
 
-### 10. [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
+- ⭐ 61 分｜💬 52 留言｜👤 johncassil
 
-- ⭐ 535 分｜💬 442 留言｜👤 babelfish
+### 9. [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/)
 
-### 11. [A Health 更新](https://furbo.org/2026/10/28/a-health-update/)
+- ⭐ 13 分｜💬 1 留言｜👤 iamnothere
 
-- ⭐ 285 分｜💬 43 留言｜👤 frizlab
+### 10. [ElementaryUI – Swift, in the Browser](https://elementary.codes)
 
-### 12. [Requests, Please](https://morronel.github.io/requests_please/)
+- ⭐ 17 分｜💬 0 留言｜👤 frizlab
 
-- ⭐ 16 分｜💬 1 留言｜👤 sysoleg
+### 11. [The importance of communities around 軟體](https://lumi.codeberg.page/blog/software-community.html)
 
-### 13. [Muhammad Aqeel: Undo for Postgres, without losing the rest of your day](https://www.pgedge.com/blog/undo-for-postgres-without-losing-the-rest-of-your-day)
+- ⭐ 72 分｜💬 68 留言｜👤 amcclure
 
-- ⭐ 5 分｜💬 0 留言｜👤 hnisjafx40
+### 12. [大型語言模型 Voice](https://martinfowler.com/bliki/LLM-Voice.html)
 
-### 14. [GitLab 安全 Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+- ⭐ 286 分｜💬 155 留言｜👤 ibobev
 
-- ⭐ 194 分｜💬 89 留言｜👤 sashk
+### 13. [DoorDash to acquire Instacart](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
 
-### 15. [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+- ⭐ 369 分｜💬 567 留言｜👤 WalterSobchak
 
-- ⭐ 485 分｜💬 133 留言｜👤 bschne
+### 14. [Scattered thoughts on how doing math feels these days](https://dynomight.net/math/)
 
-### 16. [A 新 faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
+- ⭐ 23 分｜💬 10 留言｜👤 surprisetalk
 
-- ⭐ 92 分｜💬 5 留言｜👤 benjoffe
+### 15. [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
 
-### 17. [Claude 代碼 regularly sends each background 代理’s transcript to its 模型](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+- ⭐ 26 分｜💬 12 留言｜👤 matco11
 
-- ⭐ 430 分｜💬 161 留言｜👤 NikZaal
+### 16. [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
 
-### 18. [An Urgent Message on 人工智慧 from the Kogui People](https://sonidoselva.com/perspectiva-kogui)
+- ⭐ 253 分｜💬 116 留言｜👤 882542F3884314B
 
-- ⭐ 9 分｜💬 2 留言｜👤 andreisag
+### 17. [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 
-### 19. [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
+Hi HN, we&#x27;re Ahnaf and Seungmin from Simantic (https:&#x2F;&#x2F;simantic.com). We are building the simulation layer that lets engineers and AI agents 測試 and validate firmware without 硬體.
 
-- ⭐ 512 分｜💬 231 留言｜👤 seddona
+- ⭐ 44 分｜💬 12 留言｜👤 shong0504
 
-### 20. [Treap (Cartesian Tree)](https://cp-algorithms.com/data_structures/treap.html)
+### 18. [Claude Duet is the first personal-助手-type harness that feels useful](https://fig.blue/posts/duet-is-the-future/)
 
-- ⭐ 38 分｜💬 6 留言｜👤 vismit2000
+- ⭐ 69 分｜💬 53 留言｜👤 nathanfig
 
-### 21. [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
+### 19. [Zombie stats: Where the numbers AI quotes come from](https://trakkr.ai/trakkr-research/zombie-stats)
 
-- ⭐ 197 分｜💬 131 留言｜👤 mhb
+- ⭐ 127 分｜💬 59 留言｜👤 mektrik
 
-### 22. [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+### 20. [Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)
 
-- ⭐ 955 分｜💬 763 留言｜👤 acossta
+The linked repo is 100% vibe coded, but it was built on a handful of principles:- Most tax 軟體 derives trust from the party who maintains it (e.g. Intuit, the IRS, etc.)- Vibe coded 軟體 lack
 
-### 23. [為什麼 birds can fly over Mount Everest (2020)](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
+- ⭐ 44 分｜💬 8 留言｜👤 RGS1811
 
-- ⭐ 180 分｜💬 34 留言｜👤 andsoitis
+### 21. [One reviewer per layer: splitting 代碼 review by the way 代碼 is read](https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/)
 
-### 24. [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
+- ⭐ 24 分｜💬 8 留言｜👤 djordjep
 
-https:&#x2F;&#x2F;www.Apple.com&#x2F;newsroom&#x2F;2026&#x2F;10&#x2F;Apple-unveils-groundb...
+### 22. [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
 
-- ⭐ 594 分｜💬 994 留言｜👤 etothet
+- ⭐ 70 分｜💬 6 留言｜👤 memalign
 
-### 25. [AlpineBSD](https://wiki.alpinebsd.org)
+### 23. [Edit an SQLite 資料庫 in your browser](https://editsqlite.com/)
 
-- ⭐ 231 分｜💬 215 留言｜👤 bradley_taunt
+- ⭐ 57 分｜💬 26 留言｜👤 chmaynard
 
-### 26. [Nixpkgs for the Front End Impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
+### 24. [Partitioning my digital life into 安全 domains (2011)](https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html)
 
-- ⭐ 78 分｜💬 14 留言｜👤 surprisetalk
+- ⭐ 6 分｜💬 0 留言｜👤 mashally
 
-### 27. [Nango (YC W23) Is 招聘 Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
+### 25. [Grace Blackwell needs a 新 scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
 
-- ⭐ 1 分｜💬 0 留言｜👤 bastienbeurier
+- ⭐ 109 分｜💬 18 留言｜👤 wondersky
 
-### 28. [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8)
+### 26. [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land)
 
-- ⭐ 46 分｜💬 5 留言｜👤 gumby
+- ⭐ 208 分｜💬 243 留言｜👤 rokostik
 
-### 29. [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+### 27. [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 
-- ⭐ 1148 分｜💬 399 留言｜👤 galadran
+- ⭐ 122 分｜💬 258 留言｜👤 ZeljkoS
 
-### 30. [Scaling Hierarchical Networks](https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1)
+### 28. [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)
 
-- ⭐ 78 分｜💬 4 留言｜👤 guybedo
+Hi HN, I&#x27;m Ruud, co-founder of Lont. We turn company emails into personalized videos.Video captions cost us manual work twice: fixing misheard words, then fixing layout, like lines ending on “the
+
+- ⭐ 19 分｜💬 2 留言｜👤 rvanderlinden
+
+### 29. [NetBSD adds a 新 text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
+
+- ⭐ 156 分｜💬 121 留言｜👤 luke8086
+
+### 30. [Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
+
+- ⭐ 156 分｜💬 15 留言｜👤 armcat
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Dayjob: Tax – evaluating AI agents on 50 professional tax assignments
-- Spiders Spin 'Silk Dope' into Nature's Toughest Material
-- The 代理 SDK
-- Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027
-- Emacs Turns 50
-- How we made our MMDB files a 33% smaller
-- Ghostty 1.4
-- Genie 4
-- Sleep framework: A 新 way for LLMs to retain knowledge in continual learning
-- Zillow to pay $212.5M to settle class action for real estate venture
-- Show HN: SlideBySide – Present slides without sharing your screen
+- noalloc: Tooling and libraries to enforce zero heap allocations in Golang
+- Keplearn: Extract Equations from Data in Seconds
+- The tragedy of losing your Wikipedia page
+- If-then-else had to be invented (2020)
+- I went to Mexico to 測試-drive the cars Americans can’t buy
+- We won't "just hang out"
+- Ask HN: Opus 5.5 suddenly dumb as rocks?
+- After 28 years walking across the globe, he's almost home
 - The case of the 9 bit AES key
-- MacOS Extensions Pack for the Apple 網絡 伺服器 v1.0
-- Oseberg Tapestry Fragments
-- Kentucky man becomes the first humanist granted religious exemption from AI
-- Ink droplets in motion snag 熱門 prize in Nikon Small World contest
+- How Google determines the names for bodies of water in Google Earth (2008)
+- Google Search is now less than half of Alphabet’s revenue
 - The first wired XR glasses powered by Android XR
-- Survival 大型語言模型: AI 助手 and emergency library that runs on your own computer
-- Git for the US 代碼
-- Four Months of Zig
-- Raspberry Pi Zero 3W and Pi 4 模型 A spotted in device trees
-- Three 新 discoveries in mathematics, computer science, and physics
-- Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days
-- The 'else' keyword is probably a literal translation from German (2020)
-- US agency approves Amazon Leo’s $11.5B acquisition of Globalstar
-- Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)
-- Leak website releases data on DHS employees
-- Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs
-- NVIDIA Nemotron 3.5 Transcribe: open ASR for 40 languages
-- Decompiling Games with AI: Virtueel Zoetermeer
-- Tailscale SSH: Investigation and remediation 更新
-- Python's experimental JIT to be removed
-- Jokes for the ZX81
-- Introducing LFM3: Every Modality for Specialized Intelligence
-- Electronic fibers weave touchscreen into sleeve that survives machine washing
-- Early progress on accelerating drug development with Claude
-- Here be monsters: What do you still need to know when agents do the work?
-- Decompiling Fast Food Tycoon 2: Drawing the World
-- We should be more ambitious with the 軟體 we 構建
-- Wikipedia's Cleanup of AI-Generated Content
-- Image generation has come a long way since August 2022
-- Land Value Capture in Practice: Ethiopia's Urban Land Lease 系統
-- Radio-tagged Monarch butterflies
-- The Mythical Man-Month in the Age of AI
-- 新 14‑inch MacBook Pro with M6
-- Hex Raises $100M
-- Two high-speed trains collide near Toledo, Spain
-- About the compromised eMudhra intermediate CAs
-- Assembly Nights (2021)
-- 新 iMac with M6
-- I still teach OpenGL ES 3.0
-- Sebastian Raschka's from-scratch video course on building reasoning models
-- The Exponential Time Hypothesis Is False [pdf]
-- I've used WordPress for 20 years, and I've stopped recommending it
-- Hunger beats tenure: Advice for 初級 engineers
-- A Man from the Future: 為什麼 Johnny Can't Stop Abstracting
-- Amazon Is Gutting Its AI Division After Sustained Failure
-- Anthropic trained Claude on illegally obtained Stanford professors' books
-- OpenLDK: Bringing the Java World into Common Lisp
-- 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
-- 如何 grow a cacao tree at home (2024)
-- Classification of Finite Simple Groups Formalized in Lean
-- SS United States to be sunk as largest artificial reef
-- Solar power is becoming bigger than nuclear
-- AI execs may be too out of touch to 構建 for the general public
-- Evidence of a spying operation by ICE against left-wing social movements
-- GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up
-- US Government is hiding a secret court ruling about how it spies on Americans
-- Microsoft offers mass buyouts for roughly a quarter of its workforce
-- Three TLS Bugs in GoAhead
+- Zero click, silent, 遠端 Android DoS
+- Blanets and Weird Worlds
+- Java's 新 AOT cache feature is in a rough state
+- Utah charges Kalshi and its CEO with illegally promoting online gambling
+- Getting debug access on a Brother printer over Telnet
+- Tor Browser 16.0
+- Patrick Stewart Has Died
+- Polymarket Halted International Trading After Hackers Drained Accounts
+- Nango (YC W23) Is 招聘 Across Eng, FDE, Marketing, DevRel
+- Archive Of Our Own down for maintenance for 2 to 4 weeks
+- Show HN: Typebook.lol read books by typing the letters only
+- Everything Rhymes with Porcelain
+- Forging a Microsoft Edge Full Chain with Logic Bugs Only
+- StackOverflow now gets fewer than 1000 questions a month
+- The US added a record 20.2 GWh of battery storage in just 3 months
+- AI Contributions to GHC
+- Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+- From Spreadsheets to DuckLake: A Data 工程師's Road to DuckDB
+- 為什麼 is this fingerprinting script creating bioweapons?
+- Toxic experts (2017)
+- Gemini 4 Carbon is the 新 #1 on the Artificial Analysis Intelligence Index v5
+- MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark
+- Hackers expose the identities of more than 40k DHS employees
+- Leak Exposes 41,000 Homeland 安全 Workers–Including Undercover ICE Agents
+- ‘You Are Done’: The letter sent to King by the F.B.I (2014)
+- A 新 faster algorithm to compute 64-bit signed floor division
+- Show HN: phpClaw – AI 代理 runtime for PHP with tools, memory and guards
+- GitLab 安全 Incident: Attempted Exploitation of CVE-2026-97229
+- Southern Africa's first known stenciled rock art found hiding in plain sight
+- Newly discovered Kerberos delegation abuse path
+- Tesla caught altering specs following rear suspension collapse reports
+- Alphabet heads for a $500B drop in market value, biggest in its history
+- Thursday: A SerenityOS for Myself
+- 為什麼 birds can fly over Mount Everest (2020)
+- Polymarket halts trading after compromise, impacted users will be 'made whole'
+- Gemini 4 Carbon
+- Formlabs Studio 1 $699 Resin Printer
+- AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura
+- Ask HN: Are Knuth's Stanford Pages Down?
+- Apple bullied flash memory suppliers, and 為什麼 AI datacenters changed the game
+- Binance hot wallet drained of about $2.5B in tokens on Ethereum
+- Dayjob: Tax – evaluating AI agents on 50 professional tax assignments
+- Show HN: An open-source app for IELTS preparation
+- The AI bubble is about to pop [video]
+- Polymarket Pauses Trading After Some Users Report Funds Drained
+- Pi Durable on Cloudflare – Earendil
+- Claude 代碼 regularly sends each background 代理’s transcript to its 模型
+- Requests, Please
+- A Defense Contractor Gave Their AI 代理 Access to a Secure Pentagon 系統
+- Polymarket got hacked
+- 為什麼 are good developers so wary of agentic development?
+- AlpineBSD
+- AI Made Me Homeless
+- Show HN: Radix - A WebGPU-powered 3D Gaussian Splat renderer built on Three.js
+- One of Binance Hot Wallets drained to a 新 account, funded by Tornado Cash
+- California's High-Speed Rail Chief Quits Amid Questions About Spending
+- I Used AI to Fake a Scientific Paper. Here's What Happened
+- Proton CEO Andy Yen: "This will be the last year that we hire engineers."
 
 
 ---
