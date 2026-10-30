@@ -38,14 +38,14 @@
 
 ### 6. [從AI伴行到AI優先，奇美醫院揭AI發展4階段布局](https://www.ithome.com.tw/news/180107)
 
-奇美醫院院長林宏榮日前在臺灣醫院資訊主管會議上，揭露奇美醫院AI發展路徑，從2005年的基礎數位化開始累積分析能力，到了2019年成立AI中心、從BI過渡到AI，2023年開始投入生成式AI應用、進入AI Together（AI伴行）階段，2025年至今則瞄準代理型AI（Agentic AI）應用。
-在AI伴行階段，奇美醫院將AI視為醫護人員的工作助手，因此打造A+巡房大聯盟和A+ HIS Copilot助手，比如A+藥安師，來輔助醫護整理病歷資料、提醒注意事項、跨職類同步病人資訊。目前，奇美準備發展AI代理，但還沒正式上線，因為尚未準備好能安全執行AI代理的環境。林宏榮形容，醫院得先蓋好「龍
+奇美醫院院長林宏榮日前在臺灣醫院資訊主管會議上，揭露奇美醫院AI發展路徑，從2005年的基礎數位化開始累積分析能力���到了2019年成立AI中心、從BI過渡到AI，2023年開始投入生成式AI應用、進入AI Together（AI伴行）階段，2025年至今則瞄準代理型AI（Agentic AI）應用。
+在AI伴行階段，奇美醫院將AI視為醫護人員的工作助手，因此打造A+巡房大聯盟和A+ HIS Copilot助手，比如A+藥安師，來輔助醫護整理病歷資料、提醒注意事項、跨職類同步病人資訊。目前，奇美準備發展AI代理，但還沒正式上線，因為尚未準備好能安全執行AI代理的環境。林宏榮形容，醫院得先蓋好
 
 - 📰 **iThome 科技**
 
 ### 7. [全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊](https://www.ithome.com.tw/news/180105)
 
-全家便利商店（5903）於10月29日，在股市公開資訊觀測站發布重大訊息，該公司接獲線上平臺委外服務廠商91APP通知，因資料庫遭受自動化攻擊，導致全家線上平臺「行動購」部分會員資料遭非法擷取。全家表示，接獲通知後已啟動個資事故通報及處理流程，並依法通報相關主管機關。
+全家便利商店（5903）於10月29日，在股市公開資訊觀測站發布重大訊息，該公司接獲線上平臺委外服務廠商91APP通知，因資料庫遭受自動化攻擊，導致全家線上平臺「行動購」部分會員資料遭非法擷取。全家表示，接獲通知後已啟���個資事故通報及處理流程，並依法通報相關主管機關。
 
 - 📰 **iThome 科技**
 
@@ -60,7 +60,7 @@
 
 ### 9. [Linux TCP漏洞可被用來遠端取得root權限，部分發行版尚未修補](https://www.ithome.com.tw/news/180101)
 
-Linux核心存在影響IPv4 TCP連線處理的安全漏洞CVE-2026-98432，攻擊者可能在特定條件下，從遠端以root權限執行命令。Anthropic於10月27日公開攻擊驗證結果，成功對具有多路徑TCP（MPTCP）監聽服務的Linux伺服器執行系統命令，不需要登入帳號��使用者操作。Linux上游已完成修補，但各Linux發行版的安全更新進度不一，部分版本仍待修補。
+Linux核心存在影響IPv4 TCP連線處理的安全漏洞CVE-2026-98432，攻擊者可能在特定條件下，從遠端以root權限執行命令。Anthropic於10月27日公開攻擊驗證結果，成功對具有多路徑TCP（MPTCP）監聽服務的Linux伺服器執行系統命令，不需要登入帳號或使用者操作。Linux上游已完成修補，但各Linux發行版的安全更新進度不一，部分版本仍待修補。
 
 - 📰 **iThome 科技**
 
@@ -96,7 +96,7 @@ Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元�
 
 ### 15. [年末購物旺季將至，Palo Alto Networks示警零售業面臨多重網路威脅](https://www.ithome.com.tw/news/180095)
 
-每年的年底是零售購物的高峰，隨著銷售旺季到來，Palo Alto Networks於10月28日發布報告，示警零售業者與消費者面臨的網路攻擊風險升高，攻擊者可能趁零售業者忙於應付交易高峰、系統更新與調整受限的時機發動攻擊。
+每年的年底是零售購物的高峰，隨著銷售旺季到來，Palo Alto Networks於10月28日發布報告，���警零售業者與消費者面臨的網路攻擊風險升高，攻擊者可能趁零售業者忙於應付交易高峰、系統更新與調整受限的時機發動攻擊。
 
 - 📰 **iThome 科技**
 
@@ -108,7 +108,7 @@ Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元�
 
 ### 17. [DEVCORE研究員公布在Pwn2Own競賽揭露的Edge攻擊鏈，串連5個弱點突破瀏覽器防護機制](https://www.ithome.com.tw/news/180088)
 
-臺灣資安公司DEVCORE首席資安研究員Orange Tsai（蔡政達）於10月28日，公開在漏洞挖掘競賽Pwn2Own Berlin 2026首度展示的Edge瀏覽器完整攻擊鏈細節，過程中只利用邏輯漏洞，不依賴記憶體損毀，成功突破瀏覽器安全防護，最終在作業系統執行任意程式碼。
+臺灣資安公司DEVCORE首席資安研究員Orange Tsai（蔡政達）��10月28日，公開在漏洞挖掘競賽Pwn2Own Berlin 2026首度展示的Edge瀏覽器完整攻擊鏈細節，過程中只利用邏輯漏洞，不依賴記憶體損毀，成功突破瀏覽器安全防護，最終在作業系統執行任意程式碼。
 
 - 📰 **iThome 科技**
 
@@ -120,7 +120,7 @@ Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元�
 
 ### 19. [微軟發布Windows緊急更新，移除eMudhra問題憑證的預設信任](https://www.ithome.com.tw/news/180066)
 
-印度數位憑證業者eMudhra日前發生私密金鑰安全問題，微軟於10月26日發布Windows緊急更新，從Windows預設信任清單移除6張eMudhra根憑證及1張相關交叉��署憑證。
+印度數位憑證業者eMudhra日前發生私密金鑰安全問題，微軟於10月26日發布Windows緊急更新，從Windows預設信任清單移除6張eMudhra���憑證及1張相關交叉簽署憑證。
 
 - 📰 **iThome 科技**
 
@@ -144,7 +144,7 @@ AI加快漏洞發現速度，但企業確認漏洞影響、測試修補程式及
 
 ### 23. [千家臺灣中小企業採用，老牌印度協作軟體業者主打企業級AI、擴大在臺布局](https://www.ithome.com.tw/news/180077)
 
-老牌印度協作軟體公司Zoho今日來臺舉辦首次媒體說明會，要擴大在臺的產品推廣規模，主打企業級AI生產力與營運工具產品線，包括由大型語言模型（大型語言模型）驅動的Zia Chat、可融入工作流程執行任務的Zia Agents，以及提供50��支應用程式的Zoho One一站式平臺。
+老牌印度協作軟體公司Zoho今日來臺舉辦首次媒體說明會，要擴大在臺的產品推廣規模，主打企業級AI生產力與營運工具產品線，包括由大型語言模型（大型語言模型）驅動的Zia Chat、可融入工作流程執行任務的Zia Agents，以及提供50多支應用程式的Zoho One一站式平臺。
 Zoho亞太區董事總經理Gibu Mathew透露，臺灣市場營收在過去一年成長了54%，目前已有1千多家臺灣中小企業導入Zoho服務。他也強調，Zoho旗下60多支應用程式皆自行開發、維運，比起企業選用不同廠牌軟體、來回切換登入，資安風險更低。
 
 - 📰 **iThome 科技**
@@ -164,14 +164,14 @@ GitHub開源AI原型工具Replica，讓設計師、產品經理及工程師透�
 
 ### 26. [高雄打造城市AI大腦，讓AI從看懂影像到推理事件原因，早一步發現淹水、塞車與道路異常](https://www.ithome.com.tw/news/180075)
 
-傳統的城市治理高度仰賴人力，從「有人發現問題」開始，例如當道路出現坑洞，除非道路巡查人員自己發現，否則要等民眾撥打1999陳情；另外當道路發生大量積水，市府可能要等民眾通報才會處理。
+傳統的城市治理高度仰賴人力，從「有人發現問題」開始，例如當道路出現坑洞，除非道路巡查人員自己發現，否則要等民眾撥打1999陳情；另外當道路發生大量積水，市府可���要等民眾通報才會處理。
 高雄市希望改變這種傳統的城市治理模式。2024年高雄市政府和NVIDIA、中華電信、鴻海、Linker Vision、資拓宏宇等業者合作，共同啟動「高雄AI燈塔」計畫，目的是打造一套城市級AI治理架構，讓AI扮演大腦的角色，從城市中的攝影機、感測設備與各類資料中主動發現異常事件，再將相關的分析結果通知相關權責單位處理。
 
 - 📰 **iThome 科技**
 
 ### 27. [AI降低App逆向分析門檻帶來資安挑戰，企業App安全策略須兼顧發布後防護](https://www.ithome.com.tw/news/180070)
 
-過去需要耗費大量時間的部分App逆向分析工作，如今可透過AI與自動化工具大幅加速。逆向工程雖可用於合法的資安研究與安全驗證，但若被攻擊者利用，也可能更快掌握App內部運作邏輯，進一步尋找繞過安全機制、竄改程式碼或重新封裝App的機會，讓既有加殼與程式碼保護機制面臨考驗。專精於App安全的Digital.AI與其臺灣代理商叡揚資訊，在臺介紹這方面的技術變化，並提出強化程式碼混淆，以及結合伺服器端動態風險回應等防禦新方向。
+過去需要耗費大量時間的部分App逆向分析工作，如今可透過AI與自動化工具大幅加速。逆向工程雖可用於合法的資安研究與安全驗證，但若被攻擊者利用，也可能更快掌握App內部運作邏輯，進一步尋找繞過安全機制、竄改程式碼或重新封裝App的機會，讓既有加殼與程式碼保護機制面臨考驗。專精於App安全的Digital.AI與其臺灣代理商叡揚資訊，在臺介紹這方面的技術變化，並提出強化程式碼混淆，以及結合伺���器端動態風險回應等防禦新方向。
 
 - 📰 **iThome 科技**
 
@@ -183,7 +183,7 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 
 ### 29. [Tailscale釋出1.104.4安全更新，修補SSH與Serve功能共4項漏洞](https://www.ithome.com.tw/news/180071)
 
-虛擬私人網路（VPN）服務Tailscale發布1.104.4版安全更新，修補先前揭露的SSH權限提升漏洞，並處理SSH記憶體耗盡，以及讓其他裝置存取本機服務的Serve功能所存在的權限檢查問題。此次更新涵蓋4項安全���洞，可能造成一般使用者越權存取、主機遭接管，或導致Tailscale連線中斷。
+虛擬私人網路（VPN）服務Tailscale發布1.104.4版安全更新，修補先前揭露的SSH權限提升漏洞，並處理SSH記憶體耗盡，以及讓其他裝置存取本機服務的Serve功能所存在的權限檢查問題。此次更新涵蓋4項安全漏洞，可能造成一般使用者越權存取、主機遭接管，或導致Tailscale連線中斷。
 
 - 📰 **iThome 科技**
 
@@ -200,14 +200,18 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 
 ### 更多 AI 新聞 (70則)
 
+- People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’ (**Wired**)
+- Stearns and Foster Promo Codes: $300 Off in November 2026 (**Wired**)
+- I Spent 30 Minutes With Apple’s CEO. Now I Know 為什麼 John Ternus Got the 工作 (**Wired**)
+- Mattress Deals: Save Over $600 Before Black Friday 2026 (**Wired**)
 - The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes (**Wired**)
 - This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling (**Wired**)
 - Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms (**Wired**)
 - The 最佳 Handheld Translators for Work and Travel (2026) (**Wired**)
 - Male Insecurity Over Penis Size Is a Booming Business (**Wired**)
 - It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme (**Wired**)
-- Crematoria Are Being Used to Heat Homes and Swimming Pools (**Wired**)
 - Samsung S95H OLED TV Review (2026) (**Wired**)
+- Crematoria Are Being Used to Heat Homes and Swimming Pools (**Wired**)
 - Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials (**Wired**)
 - The 最佳 Leaf Blower We’ve Tested Is Ready for Halloween (**Wired**)
 - The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard (**Wired**)
@@ -231,25 +235,21 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 - Astronomers Discover a Possible 新 Dwarf Planet in Our Solar 系統 (**Wired**)
 - Norton Coupon Codes: Up to 58% Off (**Wired**)
 - Hungryroot Coupon Codes: 30% Off This November 2026 (**Wired**)
-- NZXT Discount Codes: 50% Off in November 2026 (**Wired**)
 - Loop Earplugs Discount Codes: 40% Off (**Wired**)
+- NZXT Discount Codes: 50% Off in November 2026 (**Wired**)
 - Govee Discount Codes and Deals: 30% Off (**Wired**)
 - Pura Promo Codes: $20 Off November 2026 (**Wired**)
+- 30% Off Tempur-Pedic Promo Codes | November 2026 (**Wired**)
 - Dermstore Coupons: 25% Off for November 2026 (**Wired**)
 - Petlibro Offers: 30% Off in November 2026 (**Wired**)
-- 30% Off Tempur-Pedic Promo Codes | November 2026 (**Wired**)
 - Skullcandy Discount 代碼: 30% Off | November 2026 (**Wired**)
+- Coleman Promo Codes and Deals: Up to 75% Off in November 2026 (**Wired**)
 - Bluesky Is Blocking Links to a Major Leak of DHS Employee Records (**Wired**)
 - The 2,000-Nit OLED in Apple’s 新 MacBook Is a Big Deal (**Wired**)
 - This Is What the GOP’s Final Midterms Push Looks Like (**Wired**)
 - Most Servers on the Planet Are Vulnerable to This Firmware 代碼-Execution Flaw (**Wired**)
 - Massive Leak Exposes 41,000 Homeland 安全 Workers—Including Undercover ICE Agents (**Wired**)
 - The 新 M6 MacBook Pro Has a Serious Price Problem (**Wired**)
-- I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet (**Wired**)
-- The Inside Story of 為什麼 Apple Finally Brought a Touch Display to the Mac (**Wired**)
-- Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers (**Wired**)
-- Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups (**Wired**)
-- What’s the 最佳 Kindle of 2026 (So Far)? (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)

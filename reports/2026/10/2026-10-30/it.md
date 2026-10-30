@@ -4,206 +4,204 @@
 
 ---
 
-### 1. [elect.horse](https://elect.horse/)
+### 1. [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)
 
-- ⭐ 76 分｜💬 23 留言｜👤 solarist
+- ⭐ 35 分｜💬 30 留言｜👤 dbreunig
 
-### 2. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+### 2. [Northflank Breached](https://status.northflank.com)
 
-- ⭐ 1469 分｜💬 952 留言｜👤 Tiberium
+- ⭐ 107 分｜💬 71 留言｜👤 js4ever
 
-### 3. [Backdoors in official Claude 代碼 extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
+### 3. [Backdoor in Claude 代碼 for VS 代碼 extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 
-- ⭐ 105 分｜💬 17 留言｜👤 dsr_
+https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;Claude-代碼-extension-安全-notic...
 
-### 4. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+- ⭐ 410 分｜💬 367 留言｜👤 _chall
 
-- ⭐ 1538 分｜💬 403 留言｜👤 kuberwastaken
+### 4. [The federated 代碼 forge](https://tangled.org/blog/forge/)
 
-### 5. [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
+- ⭐ 59 分｜💬 23 留言｜👤 zlliang
 
-- ⭐ 22 分｜💬 14 留言｜👤 dverlaeckt80
+### 5. [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 
-### 6. [Anthropic hacked to deliver 遠端 access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)
+- ⭐ 213 分｜💬 170 留言｜👤 dorianniemiec
 
-- ⭐ 89 分｜💬 17 留言｜👤 bashtoni
+### 6. [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 
-### 7. [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times)
+- ⭐ 190 分｜💬 29 留言｜👤 swq115
 
-- ⭐ 55 分｜💬 21 留言｜👤 benbreen
+### 7. [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
 
-### 8. [Cuis: The Modern Smalltalk-80](https://cuis.st/)
+- ⭐ 74 分｜💬 26 留言｜👤 mindracer
 
-- ⭐ 133 分｜💬 16 留言｜👤 theanonymousone
+### 8. [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
 
-### 9. [Herdr has 發布 native app](https://github.com/herdrdev/herdr-app)
+- ⭐ 20 分｜💬 1 留言｜👤 nanna
 
-- ⭐ 240 分｜💬 158 留言｜👤 cherioo
+### 9. [Show HN: Spinf-serve – 推論 伺服器 for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)
 
-### 10. [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
+- ⭐ 4 分｜💬 0 留言｜👤 giarec
 
-- ⭐ 154 分｜💬 22 留言｜👤 surprisetalk
+### 10. [Breaking the open 網頁 won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
 
-### 11. [We ran AI 代理 swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+- ⭐ 12 分｜💬 0 留言｜👤 raybb
 
-- ⭐ 310 分｜💬 113 留言｜👤 sandslash
+### 11. [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
 
-### 12. [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
+- ⭐ 74 分｜💬 15 留言｜👤 paulpauper
 
-- ⭐ 157 分｜💬 17 留言｜👤 nvmdbljstm
+### 12. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 
-### 13. [為什麼 a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
+- ⭐ 1696 分｜💬 1152 留言｜👤 Tiberium
 
-- ⭐ 36 分｜💬 6 留言｜👤 ibobev
+### 13. [Polymarket 1h halt after vendor compromise; affected users will be 'made whole'](https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405)
 
-### 14. [A tiny world 模型 running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
+- ⭐ 53 分｜💬 12 留言｜👤 theanonymousone
 
-- ⭐ 232 分｜💬 15 留言｜👤 airinei
+### 14. [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no)
 
-### 15. [Wasmer (YC S19) Is 招聘 OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
+- ⭐ 177 分｜💬 159 留言｜👤 brandonb
+
+### 15. [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
+
+- ⭐ 30 分｜💬 5 留言｜👤 ibobev
+
+### 16. [Tracks along the longest drive on another world](https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/)
+
+- ⭐ 22 分｜💬 0 留言｜👤 shcallaway
+
+### 17. [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
+
+- ⭐ 204 分｜💬 143 留言｜👤 domhudson
+
+### 18. [Pell Puzzles Review](https://dles.gg/reviews/pell-puzzles)
+
+- ⭐ 10 分｜💬 1 留言｜👤 trizoza
+
+### 19. [Finding Panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
+
+- ⭐ 55 分｜💬 2 留言｜👤 ndr
+
+### 20. [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times)
+
+- ⭐ 153 分｜💬 43 留言｜👤 benbreen
+
+### 21. [為什麼 a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
+
+- ⭐ 97 分｜💬 47 留言｜👤 ibobev
+
+### 22. [Geist Serif](https://vercel.com/blog/introducing-geist-serif)
+
+- ⭐ 38 分｜💬 18 留言｜👤 Zm44
+
+### 23. [Show HN: I built a multiplayer game where you're an aerial fighter cat](https://catcopter.com)
+
+Hi everyone!I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It&#x27;s a 網頁 multiplayer game where you can fly a dangerous cat and engage in competition with ot
+
+- ⭐ 23 分｜💬 9 留言｜👤 pawelwentpawel
+
+### 24. [Wasmer (YC S19) Is 招聘 OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
 
 - ⭐ 1 分｜💬 0 留言｜👤 syrusakbary
 
-### 16. [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
+### 25. [Herdr has 發布 native app](https://github.com/herdrdev/herdr-app)
 
-- ⭐ 453 分｜💬 151 留言｜👤 ea016
+- ⭐ 318 分｜💬 214 留言｜👤 cherioo
 
-### 17. [Artificial Analysis v5 and the benchmarker's dilemma](https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers)
+### 26. [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
 
-- ⭐ 27 分｜💬 21 留言｜👤 6thbit
+- ⭐ 217 分｜💬 36 留言｜👤 surprisetalk
 
-### 18. [大型語言模型 Voice](https://martinfowler.com/bliki/LLM-Voice.html)
+### 27. [We ran AI 代理 swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 
-- ⭐ 503 分｜💬 263 留言｜👤 ibobev
+- ⭐ 377 分｜💬 158 留言｜👤 sandslash
 
-### 19. [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
+### 28. [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
 
-Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM
+- ⭐ 553 分｜💬 390 留言｜👤 DeepLogin
 
-- ⭐ 99 分｜💬 31 留言｜👤 falperc
+### 29. [Commodore 1600 VICmodem](https://dfarq.homeip.net/commodore-1600-vicmodem/)
 
-### 20. [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
+- ⭐ 37 分｜💬 15 留言｜👤 ibobev
 
-- ⭐ 62 分｜💬 23 留言｜👤 maitland
+### 30. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
 
-### 21. [Python on My Wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
-
-- ⭐ 58 分｜💬 6 留言｜👤 roywashere
-
-### 22. [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
-
-- ⭐ 3 分｜💬 0 留言｜👤 swq115
-
-### 23. [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
-
-Hi HN, we&#x27;re Ahnaf and Seungmin from Simantic (https:&#x2F;&#x2F;simantic.com). We are building the simulation layer that lets engineers and AI agents 測試 and validate firmware without 硬體.
-
-- ⭐ 71 分｜💬 24 留言｜👤 shong0504
-
-### 24. [An illustrated online book on Hewlett-Packard equipment](https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/)
-
-- ⭐ 25 分｜💬 6 留言｜👤 sohkamyung
-
-### 25. [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
-
-- ⭐ 126 分｜💬 29 留言｜👤 simonebrunozzi
-
-### 26. [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
-
-- ⭐ 157 分｜💬 72 留言｜👤 henrid
-
-### 27. [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land)
-
-- ⭐ 296 分｜💬 413 留言｜👤 rokostik
-
-### 28. [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
-
-https:&#x2F;&#x2F;archive.ph&#x2F;y4Egmhttps:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Patrick_Stewart
-
-- ⭐ 3068 分｜💬 653 留言｜👤 j4mie
-
-### 29. [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
-
-- ⭐ 218 分｜💬 389 留言｜👤 ZeljkoS
-
-### 30. [Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]](https://www.youtube.com/watch?v=MENoB3Rex28)
-
-- ⭐ 5 分｜💬 3 留言｜👤 frag
+- ⭐ 1654 分｜💬 427 留言｜👤 kuberwastaken
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Astroterm: A Planetarium for Your Terminal
+- 大型語言模型 Voice
+- H.264 Is Magic (2016)
+- Artificial Analysis v5 and the benchmarker's dilemma
+- Sam Altman Thinks You're Wasting DRAM
+- A tiny world 模型 running games on a Raspberry Pi Pico 2 W
+- Cuis: The Modern Smalltalk-80
+- Cost of living protests to spread to Germany and reignite in France on Halloween
+- Cormac McCarthy's Library
+- Show HN: Fraktur, a DJ mixing app in the browser
+- Neal Stephenson on AI and What Comes Next [video]
+- ASRock Industrial AI Box-A395 Review: Taking Strix Halo to Work – ServeTheHome
+- Show HN: I Turned DOOM into a Transformer
+- Voyager 1 gives controllers the silent treatment
+- If IPv4 were land
+- I didn't know I was lacking in Vitamin D until I collapsed at work
+- Lighthouses, War and a Puffling
+- What we know so far about Spain train crash
+- Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents
+- elect.horse
+- Binance hot wallet signed 50 EIP-7702 delegations 3 minutes before the drain
+- Patrick Stewart has died
+- A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)
+- Alberta-made low-tech tractor getting attention worldwide
+- U.S. Oil Industry Earned over $130B in Profit During Iran War
+- An illustrated online book on Hewlett-Packard equipment
+- Python on My Wrist
+- Pico CSS is no longer maintained
+- NetBSD adds a 新 text editor called atto
+- Show HN: PicoPlayer – A tiny, open-source website for playing quality webgames
 - Should a medical diagnosis reshape the past? (2025)
-- Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"
 - ElementaryUI – Swift, in the Browser
 - 16colo.rs – ANSI/ASCII art archive
-- Historical Scientific Instruments
-- NetBSD adds a 新 text editor called atto
-- The Great American Rascal: Tom Sawyer at 150
-- Zombie stats: Where the numbers AI quotes come from
-- Sylphide OS: a general-purpose OS for microcontroller-based computers
-- Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge
-- Official Claude 代碼 extension compromise
+- I wish I had Tailscale when I was at university
+- Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"
 - The case of the 9 bit AES key
-- IgE disruptor for food allergy with Claude-enabled antibody design [pdf]
+- Historical Scientific Instruments
+- 5-MeO-DMT sometimes cancels the Ebbinghaus illusion
+- Zombie stats: Where the numbers AI quotes come from
+- How Do You Take a Picture of a Black Hole?
 - We won't "just hang out"
-- Grace Blackwell needs a 新 scheduler: 27% more usable GPUs from the same racks
 - The first wired XR glasses powered by Android XR
-- Solving Postgres' Count Problem
+- Sylphide OS: a general-purpose OS for microcontroller-based computers
 - Zero click, silent, 遠端 Android DoS
-- AGI Economics: Coordination vs. Competence
-- DoorDash to acquire Instacart
 - Getting debug access on a Brother printer over Telnet
-- Alleged Chinese spy had 'close relationship' with NVIDIA boss Jensen Huang
-- The tragedy of losing your Wikipedia page
-- Deterministic Factoring in Time N^O(1)
+- Grace Blackwell needs a 新 scheduler: 27% more usable GPUs from the same racks
 - 為什麼 is this fingerprinting script creating bioweapons?
+- DoorDash to acquire Instacart
 - StackOverflow now gets fewer than 1000 questions a month
-- El Niño is flooding California's coasts with the highest tides to come
-- How Google determines the names for bodies of water in Google Earth (2008)
-- Show HN: A proof-of-concept formalization of the IRS federal tax forms
-- Study: Schoolwide phone bans show no significant impact on mental health
-- Chained PHP2Shell exploit roots 25 servers, including US Government servers
-- Keplearn: Extract Equations from Data in Seconds
-- noalloc: Tooling and libraries to enforce zero heap allocations in Golang
 - Leak Exposes 41,000 Homeland 安全 Workers–Including Undercover ICE Agents
-- 'Elite North Korean hackers' blamed for $6.3B Binance hack
-- Iterating Backwards in C
+- The tragedy of losing your Wikipedia page
+- IgE disruptor for food allergy with Claude-enabled antibody design [pdf]
+- Alleged Chinese spy had 'close relationship' with NVIDIA boss Jensen Huang
+- The Great American Rascal: Tom Sawyer at 150
+- AGI Economics: Coordination vs. Competence
 - Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
-- Partitioning my digital life into 安全 domains (2011)
-- I went to Mexico to 測試-drive the cars Americans can’t buy
-- Java's 新 AOT cache feature is in a rough state
+- Chained PHP2Shell exploit roots 25 servers, including US Government servers
+- How Google determines the names for bodies of water in Google Earth (2008)
+- British intelligence misplaced 1000s of storage devices still can't say how many
+- Solving Postgres' Count Problem
+- Keplearn: Extract Equations from Data in Seconds
+- Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge
+- OpenAI CEO Sam Altman Says You Having DRAM Instead of Data Centers Is "Terrible"
+- Show HN: A proof-of-concept formalization of the IRS federal tax forms
+- Binance hot wallet signed 50 EIP-7702 delegations 3 minutes before the drain
+- Anthropic Cracking Down on Video Game Rewrites
 - Forging a Microsoft Edge Full Chain with Logic Bugs Only
-- Tracks along the longest drive on another world
-- Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic
-- Edit an SQLite 資料庫 in your browser
-- GitLab 安全 Incident: Attempted Exploitation of CVE-2026-97229
-- Keep the changelog, avoid the conflicts
-- Creating interactive data visualization with Flint-interactive
-- Gemini 4 Carbon
-- Pidgin 3.0.0 Alpha 4 (2.98.0) has been 發布
-- MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark
-- Simon Tatham: I often find typos cognitively fascinating
-- A 新 faster algorithm to compute 64-bit signed floor division
-- Show HN: Overtone – Transcribe, correct and cut captions for any screen shape
-- Google Search is now less than half of Alphabet’s revenue
-- The US added a record 20.2 GWh of battery storage in just 3 months
-- Formlabs Studio 1 $699 Resin Printer
-- Dayjob: Tax – evaluating AI agents on 50 professional tax assignments
-- Radio-in-a-box: Self-hosted internet radio with Icecast, Liquidsoap and Rust CLI
-- 為什麼 big tech stopped building useful stuff
-- Everything Rhymes with Porcelain
-- Google value plunges by $500B as AI fears rattle Wall Street
-- Gemini 4 Carbon is the 新 #1 on the Artificial Analysis Intelligence Index v5
-- AlpineBSD
-- Blanets and Weird Worlds
-- Tor Browser 16.0
-- Claude Duet is the first personal-助手-type harness that feels useful
-- Hackers expose the identities of more than 40k DHS employees
-- Utah charges Kalshi and its CEO with illegally promoting online gambling
-- Apple's git still trusts the compromised eMudhra certificates
-- Show HN: Arken – Passwordless auth middleware using secp256k1 keys
+- El Niño is flooding California's coasts with the highest tides to come
+- Java's 新 AOT cache feature is in a rough state
+- I went to Mexico to 測試-drive the cars Americans can’t buy
 
 
 ---
