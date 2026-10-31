@@ -4,204 +4,210 @@
 
 ---
 
-### 1. [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
+### 1. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 
-- ⭐ 61 分｜💬 6 留言｜👤 khalidkhair
+YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https:&#x2F;&#x2F;hackertube.org&#x2F;
 
-### 2. [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
+- ⭐ 76 分｜💬 45 留言｜👤 karpathy
 
-- ⭐ 16 分｜💬 3 留言｜👤 karagenit
+### 2. [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 
-### 3. [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+- ⭐ 103 分｜💬 48 留言｜👤 oger
 
-- ⭐ 180 分｜💬 121 留言｜👤 DeepLogin
+### 3. [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
 
-### 4. [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+- ⭐ 46 分｜💬 8 留言｜👤 gslin
 
-- ⭐ 194 分｜💬 98 留言｜👤 armcat
+### 4. [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
 
-### 5. [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
+- ⭐ 40 分｜💬 6 留言｜👤 ntur1337
 
-- ⭐ 603 分｜💬 347 留言｜👤 input_sh
+### 5. [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
 
-### 6. [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
+- ⭐ 94 分｜💬 98 留言｜👤 ryanmadden
 
-- ⭐ 85 分｜💬 17 留言｜👤 aatish
+### 6. [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
 
-### 7. [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
+- ⭐ 270 分｜💬 158 留言｜👤 DeepLogin
 
-- ⭐ 138 分｜💬 28 留言｜👤 signa11
+### 7. [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 
-### 8. [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
+https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb
 
-- ⭐ 43 分｜💬 18 留言｜👤 WesleyGrant782
+- ⭐ 122 分｜💬 63 留言｜👤 aphyr
 
-### 9. [Reading and writing are less symmetric than you (probably) think](https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/)
+### 8. [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)
 
-- ⭐ 19 分｜💬 2 留言｜👤 luu
+- ⭐ 3 分｜💬 1 留言｜👤 torcete
 
-### 10. [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
+### 9. [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)
 
-- ⭐ 186 分｜💬 135 留言｜👤 wilbertliu
+Based on vermiceli&#x27;s annotated disassembly of Contra: https:&#x2F;&#x2F;github.com&#x2F;vermiceli&#x2F;nes-contra-us. Thanks for the great work.I ported it in two steps. First to C: the game logi
 
-### 11. [Prospero: A 新 coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
+- ⭐ 11 分｜💬 7 留言｜👤 tevlon
 
-- ⭐ 115 分｜💬 76 留言｜👤 fovc
+### 10. [Much Ado About None: Sentinel Values in Python](https://florianwilhelm.info/2026/10/sentinel_values/)
 
-### 12. [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)
+- ⭐ 16 分｜💬 5 留言｜👤 sebg
 
-- ⭐ 128 分｜💬 32 留言｜👤 datascientist
+### 11. [Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 
-### 13. [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
+- ⭐ 281 分｜💬 134 留言｜👤 armcat
 
-- ⭐ 140 分｜💬 40 留言｜👤 foOg
+### 12. [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/)
 
-### 14. [Hunting 'Zombie Accounts' in Active Directory](https://www.fabian.fyi/2026/10/zombie-hunt.html)
+- ⭐ 3 分｜💬 1 留言｜👤 hnisjafx40
 
-- ⭐ 16 分｜💬 1 留言｜👤 optimiz
+### 13. [Show HN: A language 模型 that lives in a boot sector](https://github.com/kerlenton/bootgpt)
 
-### 15. [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
+All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a 神經網絡 網絡 instead of a p
 
-- ⭐ 535 分｜💬 383 留言｜👤 domhudson
+- ⭐ 18 分｜💬 0 留言｜👤 kerlenton
 
-### 16. [什麼是 a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
+### 14. [Redox: Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
 
-- ⭐ 6 分｜💬 0 留言｜👤 geox
+- ⭐ 35 分｜💬 4 留言｜👤 g0xA52A2A
 
-### 17. [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+### 15. [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/)
 
-- ⭐ 349 分｜💬 106 留言｜👤 DHowett
+- ⭐ 23 分｜💬 11 留言｜👤 aray07
 
-### 18. [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
+### 16. [5 years of OqtaDrive: Microdrive emulation to Sinclair 網絡 over the internet](https://oqtadrive.org/10.other/5-years/)
 
-- ⭐ 275 分｜💬 95 留言｜👤 costco
+- ⭐ 5 分｜💬 1 留言｜👤 xelalex
 
-### 19. [Northflank Breached](https://status.northflank.com)
+### 17. [William Nordhaus has died](https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale)
 
-- ⭐ 461 分｜💬 341 留言｜👤 js4ever
+- ⭐ 30 分｜💬 4 留言｜👤 ilreb
 
-### 20. [Enlightenment 0.28 發布 with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
+### 18. [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
 
-- ⭐ 4 分｜💬 1 留言｜👤 mikece
+- ⭐ 173 分｜💬 58 留言｜👤 aatish
 
-### 21. [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
+### 19. [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 
-- ⭐ 3 分｜💬 0 留言｜👤 4yk5
+- ⭐ 180 分｜💬 34 留言｜👤 signa11
 
-### 22. [Breaking the open 網頁 won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
+### 20. [Reading and writing are less symmetric than you (probably) think](https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/)
 
-- ⭐ 302 分｜💬 131 留言｜👤 raybb
+- ⭐ 55 分｜💬 18 留言｜👤 luu
 
-### 23. [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
+### 21. [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
 
-Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of 安全 IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of Scri
+- ⭐ 743 分｜💬 429 留言｜👤 input_sh
 
-- ⭐ 299 分｜💬 109 留言｜👤 x______________
+### 22. [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
 
-### 24. [Cisco gives 工程師 unlimited AI tokens to rewrite legacy 代碼](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
+- ⭐ 272 分｜💬 203 留言｜👤 wilbertliu
 
-- ⭐ 266 分｜💬 299 留言｜👤 taubek
+### 23. [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
 
-### 25. [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
+- ⭐ 32 分｜💬 23 留言｜👤 4yk5
 
-- ⭐ 352 分｜💬 51 留言｜👤 nanna
+### 24. [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 
-### 26. [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
+- ⭐ 210 分｜💬 114 留言｜👤 khalidkhair
 
-- ⭐ 183 分｜💬 83 留言｜👤 dxs
+### 25. [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)
 
-### 27. [Backdoor in Claude 代碼 for VS 代碼 extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- ⭐ 175 分｜💬 38 留言｜👤 datascientist
 
-https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;Claude-代碼-extension-安全-notic...
+### 26. [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
 
-- ⭐ 946 分｜💬 540 留言｜👤 _chall
+- ⭐ 171 分｜💬 92 留言｜👤 karagenit
 
-### 28. [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
+### 27. [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)
 
-- ⭐ 275 分｜💬 135 留言｜👤 dbreunig
+- ⭐ 24 分｜💬 10 留言｜👤 abijahkaj
 
-### 29. [Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)
+### 28. [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](https://dl.acm.org/doi/full/10.1145/3706598.3713778)
 
-- ⭐ 56 分｜💬 25 留言｜👤 brandonb
+https:&#x2F;&#x2F;www.Microsoft.com&#x2F;en-us&#x2F;research&#x2F;wp-content&#x2F;uploads&#x2F;...
 
-### 30. [The federated 代碼 forge](https://tangled.org/blog/forge/)
+- ⭐ 62 分｜💬 42 留言｜👤 the-mitr
 
-- ⭐ 317 分｜💬 90 留言｜👤 zlliang
+### 29. [什麼是 a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
+
+- ⭐ 71 分｜💬 35 留言｜👤 geox
+
+### 30. [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
+
+- ⭐ 175 分｜💬 47 留言｜👤 foOg
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Keeping the Bonfires Lit
-- Azure's Weakest Link – Five Full Cross-Tenant Compromises
-- Trapped in the Technologist Factory
+- Hackers hijack Egypt highway billboard and Malaysian screens to show porn
+- NASA's Voyager 1 Conserves Power, Resolves Brief Communications Pause
+- Anthropic blocks users for anything touching 訓練 larger models
+- Copyright Office is restoring copyright to something you have to work to get
+- Cloudflare Turnstile solver library (no headless browser required)
+- Hunting 'Zombie Accounts' in Active Directory
+- Prospero: A 新 coding harness for a more civilized age
+- I post trained a 模型 on Demoscenes
+- Backdoor in Claude 代碼 for VS 代碼 extension on the Cursor Marketplace
+- The oldest ice disappears and the Stone Age emerges from it
+- Enlightenment 0.28 發布 with Many Improvements
+- Report from the Vatican
+- Tell HN: Scribd Breached
+- Crypto firm Binance covers 90% of losses after $6.3B hack
+- Show HN: Jointter – A daily word puzzle using dots and lines
+- Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death
+- HTTP/3 is faster with some work and help from Cloudflare
+- The $6.3B Binance hack was pulled off in just 20 minutes
 - Jules Verne's Lost Novel
-- Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
-- Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
-- After last year's storm, this 遠端 Alaska town is still picking up the pieces
+- Useful Custom-Media Presets
+- Nonna – TypeScript Dependency injection without the reflection tax
+- Trapped in the Technologist Factory
+- I'm a Proton employee and I'm breaking my silence
+- CVE-2026-98432: Linux IPv4 UAF
 - Anthropic's Claude AI blocks video game cloning and reverse-engineering
-- Building an AI-native engineering org
+- Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+- Keeping the Bonfires Lit
+- Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
+- Homebrew 68000 computer with a PCI bus
 - Infinite Mac: BeOS
-- Sleep framework: A 新 way for LLMs to retain knowledge in continual learning
-- Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man
-- We're releasing the weights of Mistral Large 4
-- Double Buffering with Cloudflare Queues
-- Shiny Object Syndrome
-- Sneezecount (2018)
-- Tree-mounted machines connect to 網頁 app to let users knock on wood remotely
-- How do you take a picture of a black hole?
-- NASA's Voyager 1 mysteriously lost touch with Earth
-- We ran AI 代理 swarms in Minecraft and Mindustry
+- My favourite PowerMac is a Nintendo Wii
 - Wasmer (YC S19) Is 招聘 OS/Hypervisor Experts in Europe
-- How long do you need to hold down the power button to turn off a PC?
+- Building an AI-native engineering org
+- Sleep framework: A 新 way for LLMs to retain knowledge in continual learning
+- We're releasing the weights of Mistral Large 4
+- Northflank Breached
+- Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man
+- Breaking the open 網頁 won't stop the bad bots
+- We ran AI 代理 swarms in Minecraft and Mindustry
+- How do you take a picture of a black hole?
+- Amazon sends chills through its workforce with mixed message memo about AI use
+- UK Green party drops longstanding opposition to nuclear power
+- 2.5 hrs of makeup: Japan teen struggles with social media beauty standards
+- Tree-mounted machines connect to 網頁 app to let users knock on wood remotely
+- Cisco gives 工程師 unlimited AI tokens to rewrite legacy 代碼
+- Double Buffering with Cloudflare Queues
+- 為什麼 a program doesn't work when run from a batch file, but works when clicked
+- Florilegium: Procedural Flowers in LaTeX
 - Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated
-- Brief History of PDP Computers
 - Turning a solar power 系統 into its own backup
 - AI isn't replacing SREs, it's deskilling them
-- 為什麼 a program doesn't work when run from a batch file, but works when clicked
-- Is the Music Business Collapsing?
-- I'm so bad at billiards that I ended up in the hyperbolic plane [video]
 - The Great American Rascal: Tom Sawyer at 150
-- Anthropic orders AI tool Claude to stop remaking video games
+- I'm so bad at billiards that I ended up in the hyperbolic plane [video]
+- Show HN: A working Nintendo in ~1GB of Qwen weights
+- Brief History of PDP Computers
+- Shiny Object Syndrome
 - Astroterm: A Planetarium for Your Terminal
-- Some Thing is Happening A note from the AI companies
-- CVE-2026-98432: Linux IPv4 UAF
-- Tracks along the longest drive on another world
-- What's on That Access Port?
-- Show HN: Sketch Stadium – watch your 代理 play Pictionary
-- Finding Panics with Call Graph Analyzer
-- Show HN: I rebuilt Kubernetes for ESP32 microcontrollers
-- Halloween is a crass American import – I'll never indulge it
+- Azure's Weakest Link – Five Full Cross-Tenant Compromises
+- The federated 代碼 forge
+- Sneezecount (2018)
+- Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'
+- Anthropic orders AI tool Claude to stop remaking video games
+- How long do you need to hold down the power button to turn off a PC?
+- NASA's Voyager 1 mysteriously lost touch with Earth
 - Cuis: The Modern Smalltalk-80
-- Ask HN: Will apps be going away in favor of personal assistants?
-- Neuroscientists reveal method to train people to have lucid dreams
-- Compile-Time Dependent Types
-- A Pickpocket's Guide to 新 York
-- 如何 free your email from the clutches of Google or Microsoft
+- Finding Panics with Call Graph Analyzer
+- Tracks along the longest drive on another world
+- Show HN: Sketch Stadium – watch your 代理 play Pictionary
 - Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents
-- Linode 安全 Incident
-- NetBSD adds a 新 text editor called atto
-- Wonderful Weather: Floods and Foreboding in 17th-Century Britain
-- Commodore 1600 VICmodem
 - 為什麼 is this fingerprinting script creating bioweapons?
-- AO3 Down for Maintenance
-- Bunny CDN 安全 Incident
-- Binance-hacker-1029 – $5.6B stolen from Binance
-- Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)
-- Leak Exposes 41,000 Homeland 安全 Workers–Including Undercover ICE Agents
-- YC funded a startup $1.3M to 構建 silent speech – a dev on x built it in 9mins
-- Cormac McCarthy's Library
-- GitHub Incident with Actions, Pages, and Webhooks
-- Patrick Stewart has died
-- StackOverflow now gets fewer than 1000 questions a month
-- The case of the 9 bit AES key
-- 16colo.rs – ANSI/ASCII art archive
-- We won't "just hang out"
-- Artificial Analysis v5 and the benchmarker's dilemma
-- Getting debug access on a Brother printer over Telnet
-- Show HN: I Turned DOOM into a Transformer
-- A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)
-- The first wired XR glasses powered by Android XR
 
 
 ---

@@ -246,7 +246,7 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 - Astronomers Discover a Possible 新 Dwarf Planet in Our Solar 系統 (**Wired**)
 - Norton Coupon Codes: Up to 58% Off (**Wired**)
 - Hungryroot Coupon Codes: 30% Off This November 2026 (**Wired**)
-- NZXT Discount Codes: 50% Off in November 2026 (**Wired**)
+- Loop Earplugs Discount Codes: 40% Off (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
