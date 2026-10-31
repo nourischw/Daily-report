@@ -197,6 +197,7 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 
 ### 更多 AI 新聞 (70則)
 
+- Spooky 新 Infostealer Malware Uses AI to ‘Autodox’ Victims (**Wired**)
 - Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights (**Wired**)
 - There’s a Completely 新 Type of Whisky. It’s French and Made in Concrete Eggs (**Wired**)
 - Backup by Biolite Review: A Cool Idea (**Wired**)
@@ -217,8 +218,8 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 - The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes (**Wired**)
 - This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling (**Wired**)
 - Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms (**Wired**)
-- Male Insecurity Over Penis Size Is a Booming Business (**Wired**)
 - The 最佳 Handheld Translators for Work and Travel (2026) (**Wired**)
+- Male Insecurity Over Penis Size Is a Booming Business (**Wired**)
 - It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme (**Wired**)
 - Samsung S95H OLED TV Review (2026) (**Wired**)
 - Crematoria Are Being Used to Heat Homes and Swimming Pools (**Wired**)
@@ -245,7 +246,6 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 - Astronomers Discover a Possible 新 Dwarf Planet in Our Solar 系統 (**Wired**)
 - Norton Coupon Codes: Up to 58% Off (**Wired**)
 - Hungryroot Coupon Codes: 30% Off This November 2026 (**Wired**)
-- Loop Earplugs Discount Codes: 40% Off (**Wired**)
 - NZXT Discount Codes: 50% Off in November 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
