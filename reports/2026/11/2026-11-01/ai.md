@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [持續推動網路自主營運、資安強化與AI原生支援，HPE揭示旗下三大雲��網路管理平臺最新整合時程](https://www.ithome.com.tw/news/180118)
+### 1. [持續推動網路自主營運、資安強化與AI原生支援，HPE揭示旗下三大雲端網路管理平臺最新整合��程](https://www.ithome.com.tw/news/180118)
 
 HPE本週宣布整合旗下的三大網路解決方案，涵蓋2015年併購Aruba Networks後續發展的雲端網路管理平臺Aruba Central，源自2020年併購Silver Peak所取得的
 
@@ -18,7 +18,7 @@ Qt推出嵌入式裝置介面設計工具Clate，並對外開放第一個Beta版
 
 ### 3. [GMI 雲端展示在臺AI Factory設計，AI資料中心的新瓶頸不是機櫃，而是電力](https://www.ithome.com.tw/news/180116)
 
-走進GMI 雲端位於桃園的AI Factory，第一個��受到的不是傳統資料中心常見的「密集」。
+走進GMI 雲端位於桃園的AI Factory，第一個感受到的不是傳統資料中��常見的「密集」。
 過去參觀資料中心時，傳統的機房設計通常追求空間利用率，機櫃排列緊密，盡可能在有限樓地板面積中放入更多伺服器, 各種設備、管線布置，充分展現將空間利用最大化的設計原則。但是GMI 雲端今天(10/30)對外展示的這座AI Factory第一期區域卻留下不少空間，並沒有被設備填滿。
 原因並不是算力需求不足，而是AI資料中心正在面臨一個與過去不同的限制。現在限制AI Factory擴充的，不是空間，而是電力。
 
@@ -42,7 +42,7 @@ Qt推出嵌入式裝置介面設計工具Clate，並對外開放第一個Beta版
 
 - 📰 **iThome 科技**
 
-### 7. [PHP2Shell與Linux核心漏洞被串連利用，中國駭客藉此取得25臺防火牆root權限](https://www.ithome.com.tw/news/180111)
+### 7. [PHP2Shell���Linux核心漏洞被串連利用，中國駭客藉此取得25臺防火牆root權限](https://www.ithome.com.tw/news/180111)
 
 10月26日以色列資安新創Dream 安全揭露一起不尋常的攻擊活動，使用簡體中文的駭客疑似借助AI的力量，串連統稱為PHP2Shell的重大漏洞CVE-2026-109618與CVE-2026-109619，以及Linux核心本機權限提升（LPE）漏洞Fragnesia（CVE-2026-46300），入侵25臺伺服器並得到root權限，這些伺服器位於臺灣、日本、韓國，以及美國，其中3臺與美國政府環境有關的伺服器被鎖定並執行後續活動，駭客藉此深入受害組織內部的AD網域環境，
 
@@ -84,7 +84,7 @@ Linux核心存在影響IPv4 TCP連線處理的安全漏洞CVE-2026-98432，攻�
 
 ### 13. [Amazon AWS營收成長39%，營業利益率創歷史新高](https://www.ithome.com.tw/news/180100)
 
-Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元，年增12%，營業利益280.8億美元，年增61%，營業利益率達13.9%，創下歷史新高。其中，��端業務Amazon 網頁 Services（AWS）營收比去年同期成長39%，創近5年最快增速，成為推動Amazon獲利成長的主要動力。
+Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元，年增12%，營業利益280.8億美元，年增61%，營業利益率達13.9%，創下歷史新高。其中，雲端業務Amazon 網頁 Services（AWS）營收比去年同期成長39%，創近5年最快增速，成為推動Amazon獲利成長的主要動力。
 
 - 📰 **iThome 科技**
 
@@ -96,7 +96,7 @@ Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元�
 
 ### 15. [Google修補Chrome 156，公布21個資安漏洞](https://www.ithome.com.tw/news/180097)
 
-10月29日Google同時針對Chrome穩定版與延伸穩定（Extended Stable）版用戶發布更新，修補21個資安漏洞，重大等級與中度風險弱點各一，其餘大部分為高風險等級，Windows與macOS用戶應��新至156.0.8078.79或156.0.8078.80，Linux與
+10月29日Google同時針對Chrome穩定版與延伸穩定（Extended Stable）版用戶發布更新，修補21個資安漏洞，重大等級與中度風險弱點各一，其餘大部分為高風險等級，Windows與macOS用戶應更新至156.0.8078.79或156.0.8078.80，Linux與
 
 - 📰 **iThome 科技**
 
@@ -108,7 +108,7 @@ Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元�
 
 ### 17. [年末購物旺季將至，Palo Alto Networks示警零售業面臨多重網路威脅](https://www.ithome.com.tw/news/180095)
 
-每年的年底是零售購物的高峰，隨著銷售旺季到來，Palo Alto Networks於10月28日發布報告，示警零售業者與消費者面臨的網路攻擊風險升高，攻擊者可能趁零售業者忙於應付交易高峰、系統更��與調整受限的時機發動攻擊。
+每年的年底是零售購物的高峰，隨著銷售旺季到來，Palo Alto Networks於10月28日發布報告，示警零售業者與消費者面臨的網路攻擊風險升高，攻擊者可能趁零售業者忙於應付交易高峰、系統更新與調整受限的時機發動��擊。
 
 - 📰 **iThome 科技**
 
@@ -148,7 +148,7 @@ AI加快漏洞發現速度，但企業確認漏洞影響、測試修補程式及
 
 - 📰 **iThome 科技**
 
-### 24. [惡意Markdown指引檔企圖誘使Codex安裝惡意套件，AI程式開發代理面臨攻擊風險](https://www.ithome.com.tw/news/180033)
+### 24. [惡意Markdown指引檔企圖誘使Codex安���惡意套件，AI程式開發代理面臨攻擊風險](https://www.ithome.com.tw/news/180033)
 
 資安業者Forever 安全近日揭露一起利用惡意Markdown檔案攻擊AI程式開發代理的事件。研究人員在客戶電腦的下載資料夾發現惡意AGENTS.md檔案，攻擊者企圖誘使OpenAI Codex修改設定並安裝名為function-color的惡意NPM套件，但資安防護系統阻止了套件安裝。AGENTS.md是供AI程式開發代理讀取的Markdown指引檔，攻擊者將惡意指令藏入其中。
 
@@ -157,7 +157,7 @@ AI加快漏洞發現速度，但企業確認漏洞影響、測試修補程式及
 ### 25. [千家臺灣中小企業採用，老牌印度協作軟體業者主打企業級AI、擴大在臺布局](https://www.ithome.com.tw/news/180077)
 
 老牌印度協作軟體公司Zoho今日來臺舉辦首次媒體說明會，要擴大在臺的產品推廣規模，主打企業級AI生產力與營運工具產品線，包括由大型語言模型（大型語言模型）驅動的Zia Chat、可融入工作流程執行任務的Zia Agents，以及提供50多支應用程式的Zoho One一站式平臺。
-Zoho亞太區董事總經理Gibu Mathew透露，臺灣市���營收在過去一年成長了54%，目前已有1千多家臺灣中小企業導入Zoho服務。他也強調，Zoho旗下60多支應用程式皆自行開發、維運，比起企業選用不同廠牌軟體、來回切換登入，資安風險更低。
+Zoho亞太區董事總經理Gibu Mathew透露，臺灣市場營收在過去一年成長了54%，目前已有1千多家臺灣中小企業導入Zoho服務。他也強調，Zoho旗下60多支應用程式皆自行開發、維運，比起企業選用不同廠牌軟體、來回切換登入，資安風險更低。
 
 - 📰 **iThome 科技**
 
@@ -177,7 +177,7 @@ GitHub開源AI原型工具Replica，讓設計師、產品經理及工程師透�
 ### 28. [高雄打造城市AI大腦，讓AI從看懂影像到推理事件原因，早一步發現淹水、塞車與道路異常](https://www.ithome.com.tw/news/180075)
 
 傳統的城市治理高度仰賴人力，從「有人發現問題」開始，例如當道路出現坑洞，除非道路巡查人員自己發現，否則要等民眾撥打1999陳情；另外當道路發生大量積水，市府可能要等民眾通報才會處理。
-高雄市希望改變這種傳統的城市治理模式。2024年高雄市政府和NVIDIA、中華電信、鴻海、Linker Vision、資拓宏宇等業者合作，共同啟動「高雄AI燈塔」計畫，目的是打造一套城市級AI治理架構，讓AI扮演大腦的角色，從城市中的攝影機、感測設備與各類資料中主動發現異常事件，再將相關的分析結果通知相關權責單位處理。
+高雄市希望改變這種傳統的城市治理模式。2024年高雄市政府和NVIDIA、中華電信、鴻海、Linker Vision��資拓宏宇等業者合作，共同啟動「高雄AI燈塔」計畫，目的是打造一套城市級AI治理架構，讓AI扮演大腦的角色，從城市中的攝影機、感測設備與各類資料中主動發現異常事件，再將相關的分析結果通知相關權責單位處理。
 
 - 📰 **iThome 科技**
 
@@ -197,6 +197,7 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 
 ### 更多 AI 新聞 (70則)
 
+- The 30 最佳 Gifts for Star Wars Fans (2026) (**Wired**)
 - There’s a Free Video Editor Inside Google Drive That Anyone Can Use (**Wired**)
 - The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App (**Wired**)
 - Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500 (**Wired**)
@@ -246,7 +247,6 @@ Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將
 - The Kindle Accessories I Never Want to Read Without (2026) (**Wired**)
 - An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’ (**Wired**)
 - Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy (**Wired**)
-- A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
