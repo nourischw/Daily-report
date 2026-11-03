@@ -63,7 +63,7 @@ Cloudflare公開DNS更新架構改造成果，讓部分區域設定變更不必�
 
 ### 10. [政府機關Linux主機被鎖定，駭客借助AI力量生成惡意程式，意圖竊取郵件與社群平臺帳號](https://www.ithome.com.tw/news/180174)
 
-駭客借助AI的力量從事網路攻擊，已變得相當氾濫，最近資安公司Palo Alto Networks發現一個案例，主角是駭客組織CL-UNK-1211，他們疑似利用大型語言模型（大型語言模型）或自動化AI代理程式協助撰寫攻擊工具，自2025年10月至2026年4月，鎖定政府機關與相關基礎設施從事網路間諜活動，意圖竊取帳密、蒐集政府郵件及資料���內容，並嘗試以此挖掘政府機關的社群平臺帳號。
+駭客借助AI的力量從事網路攻擊，已變得相當氾濫，最近資安公司Palo Alto Networks發現一個案例，主角是駭客組織CL-UNK-1211，他們疑似利用大型語言模型（大型語言模型）或自動化AI代理程式協助撰寫攻擊工具，自2025年10月至2026年4月，鎖定政府機關與相關基礎設施從事網路間諜活動，意圖竊取帳密、蒐集政府郵件及資料庫內容，並嘗試以此��掘政府機關的社群平臺帳號。
 
 - 📰 **iThome 科技**
 
@@ -87,7 +87,7 @@ Anthropic開發工具部門主管Addy Osmani指出，公司已在Claude 代碼�
 
 - 📰 **iThome 科技**
 
-### 14. [歐洲能源巨擘ENGIE合作夥伴平臺遭駭，部分法國客戶資料外洩](https://www.ithome.com.tw/news/180170)
+### 14. [歐洲能源巨擘ENGIE合作��伴平臺遭駭，部分法國客戶資料外洩](https://www.ithome.com.tw/news/180170)
 
 法國能源集團ENGIE於10月下旬證實發生資料外洩事件，該公司合作夥伴使用的客戶開發與能源方案行銷工具出現異常資料存取活動，調查後確認遭未經授權者入侵，部分法國客戶資料因此外洩。ENGIE已切斷攻擊者的存取權限並展開調查，但尚未公布受影響客戶人數，以及遭入侵的合作夥伴名稱。
 
@@ -113,7 +113,7 @@ Mozilla Bugzilla近期揭露TWCA憑證合規事件，引發臺灣公開信任憑
 
 ### 18. [歐洲7國逾115家超市冷凍設備遭駭客操控，遠端調高溫度導致食品損失](https://www.ithome.com.tw/news/180165)
 
-10月上旬法國數百家超市冷凍冷藏控制系統遭網路攻擊，駭客鎖定Danfoss控制系統遠端啟動除霜功能，造成大量食品報廢，如今類似的攻擊事故在其他歐洲國家蔓延。
+10月上旬法國數百家超���冷凍冷藏控制系統遭網路攻擊，駭客鎖定Danfoss控制系統遠端啟動除霜功能，造成大量食品報廢，如今類似的攻擊事故在其他歐洲國家蔓延。
 
 - 📰 **iThome 科技**
 
@@ -126,7 +126,7 @@ Mozilla Bugzilla近期揭露TWCA憑證合規事件，引發臺灣公開信任憑
 
 ### 20. [西班牙Amadeus遭駭波及多國航空公司，日本、韓國、馬來西亞等至少12家航空公司受影響](https://www.ithome.com.tw/news/180146)
 
-西班牙航空資訊系統業者Amadeus的系統遭未授權存取，事件已波及多國航空公司。日本、南韓、馬來西亞與香港已有至少12家航空公司及1家航空訂位系統服務業者發布相關公告，部分業者確認旅客訂位資料遭未授權查閱。
+西班牙航空資訊���統業者Amadeus的系統遭未授權存取，事件已波及多國航空公司。日本、南韓、馬來西亞與香港已有至少12家航空公司及1家航空訂位系統服務業者發布相關公告，部分業者確認旅客訂位資料遭未授權查閱。
 
 - 📰 **iThome 科技**
 
@@ -138,7 +138,7 @@ AI新創Anthropic周一（11/2）向美國證券交易委員會（SEC）提交�
 
 ### 22. [蘋果Q4營收成長12%創同期新高，iPhone與Mac業務強勁成長](https://www.ithome.com.tw/news/180162)
 
-蘋果（Apple）周一（11/2）公布截至9月26日的2026財年第四季財報，營收年增12%至1,145億美元，創歷年9月季度新高；營業利益（Operating Income）成長10%至356億美元，淨利（Net Income）成長12%至307億美元，每股盈餘成長14%至2.10美元，該季毛利率達47.9%。
+蘋果（Apple）周���（11/2）公布截至9月26日的2026財年第四季財報，營收年增12%至1,145億美元，創歷年9月季度新高；營業利益（Operating Income）成長10%至356億美元，淨利（Net Income）成長12%至307億美元，每股盈餘成長14%至2.10美元，該季毛利率達47.9%。
 
 - 📰 **iThome 科技**
 
@@ -150,7 +150,7 @@ KDE公布實驗性終端機模擬器Kwi，結合Ghostty的libghostty-vt函式庫
 
 ### 24. [荷蘭資安業者Hadrian獲4,000萬美元投資，擴展AI代理滲透測試業務](https://www.ithome.com.tw/news/180136)
 
-荷蘭資安業者Hadrian宣布完成4,000��美元B輪募資，累計募資金額達6,500萬美元。Hadrian計畫將新資金投入歐洲、中東、非洲及美國的業務擴展，並增加工程與研究投入。
+荷蘭資安業者Hadrian宣布完成4,000萬美元B輪募資，累計��資金額達6,500萬美元。Hadrian計畫將新資金投入歐洲、中東、非洲及美國的業務擴展，並增加工程與研究投入。
 
 - 📰 **iThome 科技**
 
@@ -162,7 +162,7 @@ KDE公布實驗性終端機模擬器Kwi，結合Ghostty的libghostty-vt函式庫
 
 ### 26. [2026年第3季DDoS攻擊次數年增208%，短時間攻擊考驗企業防禦能力](https://www.ithome.com.tw/news/180103)
 
-網路服務與資安業者Cloudflare公布2026年第3季分散式阻斷服務（DDoS）攻擊趨勢，該公司���旗下全球網路攔截1,820萬次網路層DDoS攻擊，較去年同期增加208%，平均每小時約8,226次。其中96%的攻擊持續不到10分鐘，98%的攻擊流量速率低於1Gbps。不過，超過1Tbps的超大流量攻擊從前一季805次降至251次，減少近69%。
+網路服務與資安業者Cloudflare公布2026年第3季分散式阻斷服務（DDoS）攻擊趨勢，該公司在旗下全球網路攔截1,820萬次網路層DDoS攻擊，較去年同期增加208%，平均每小時約8,226次。其中96%的攻擊持續不到10分鐘，98%的攻擊流量速率低於1Gbps。不過，超過1Tbps的超大流量攻擊從前一季805次降至251次，減少近69%。
 
 - 📰 **iThome 科技**
 
@@ -174,7 +174,7 @@ KDE公布實驗性終端機模擬器Kwi，結合Ghostty的libghostty-vt函式庫
 
 ### 28. [全球仍有逾萬臺GitLab執行個體暴露於兩個滿分漏洞威脅，臺灣也有46臺](https://www.ithome.com.tw/news/180145)
 
-在GitLab於10月中、下旬，先後揭露與修補兩個CVSS滿分重大漏洞後，資安監測組織Shadowserver���11月2日示警，全球仍有大量GitLab執行個體暴露於這兩個漏洞的風險下，根據其掃描資料，全球每日約有3.9萬臺GitLab執行個體可直接從網際網路觀測，其中逾1.1萬臺仍受CVE-2026-110264影響，另有超過1,000臺面臨CVE-2026-97229的風險。
+在GitLab於10月中、下旬，先後揭露與修補兩個CVSS滿分重大漏洞後，資安監測組織Shadowserver於11月2日示警，全球��有大量GitLab執行個體暴露於這兩個漏洞的風險下，根據其掃描資料，全球每日約有3.9萬臺GitLab執行個體可直接從網際網路觀測，其中逾1.1萬臺仍受CVE-2026-110264影響，另有超過1,000臺面臨CVE-2026-97229的風險。
 
 - 📰 **iThome 科技**
 
@@ -195,6 +195,13 @@ KDE公布實驗性終端機模擬器Kwi，結合Ghostty的libghostty-vt函式庫
 
 ### 更多 AI 新聞 (70則)
 
+- $1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work (**Wired**)
+- The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud (**Wired**)
+- Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist (**Wired**)
+- 最佳 Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026) (**Wired**)
+- Here’s 為什麼 You Shouldn’t Use AI to Vote (**Wired**)
+- Roli Has Fallen Apart—and Left Customers Holding the Bag (**Wired**)
+- Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For? (**Wired**)
 - The Endlessly Meme-able Steve Kornacki Is Not a Meme Person (**Wired**)
 - Apple AirPods 5 Review: Better Than Before but Not Quite Pro (**Wired**)
 - ICE Is Inspiring Latinos to Vote in Historic Numbers (**Wired**)
@@ -203,12 +210,12 @@ KDE公布實驗性終端機模擬器Kwi，結合Ghostty的libghostty-vt函式庫
 - White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More (**Wired**)
 - Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past (**Wired**)
 - Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It (**Wired**)
-- 30% Off Canon Promo Codes | November 2026 (**Wired**)
 - Uber Eats Promo Codes: $15 Off│November 2026 (**Wired**)
 - Hotels.com Coupon Codes for November 2026 (**Wired**)
 - 20% Off Brooks Promo 代碼 | November 2026 (**Wired**)
-- Chewy Promo Codes: $20 Off November 2026 (**Wired**)
 - Dell Coupon Codes: 20% Off for November 2026 (**Wired**)
+- 30% Off Canon Promo Codes | November 2026 (**Wired**)
+- Chewy Promo Codes: $20 Off November 2026 (**Wired**)
 - AT&amp;T Promo Codes: $50 Off This November 2026 (**Wired**)
 - KitchenAid Promo Codes: Save Up to 20% (**Wired**)
 - Newegg Promo Codes and Coupons for November 2026 (**Wired**)
@@ -238,13 +245,6 @@ KDE公布實驗性終端機模擬器Kwi，結合Ghostty的libghostty-vt函式庫
 - 7 最佳 Travel Mugs (2026): Insulated, Leakproof, and Self-Heating (**Wired**)
 - Chatbots Are Leading Hikers Astray, With Dangerous Consequences (**Wired**)
 - 最佳 Chromebooks and Googlebooks (2026): Laptops With a Google Touch (**Wired**)
-- A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar 系統 Could Look (**Wired**)
-- Spooky 新 Infostealer Malware Uses AI to ‘Autodox’ Victims (**Wired**)
-- Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights (**Wired**)
-- There’s a Completely 新 Type of Whisky. It’s French and Made in Concrete Eggs (**Wired**)
-- Backup by Biolite Review: A Cool Idea (**Wired**)
-- Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet (**Wired**)
-- An AI 代理 Injected Drugs Into a Live Mouse’s Brain (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
