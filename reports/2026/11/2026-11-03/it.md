@@ -4,212 +4,214 @@
 
 ---
 
-### 1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+### 1. [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
 
-- ⭐ 1749 分｜💬 558 留言｜👤 dbreunig
+- ⭐ 90 分｜💬 9 留言｜👤 syllogism
 
-### 2. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
+### 2. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+
+- ⭐ 2827 分｜💬 856 留言｜👤 dbreunig
+
+### 3. [NVIDIA – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)
+
+- ⭐ 159 分｜💬 50 留言｜👤 campervans
+
+### 4. [Katamari Damacy but it's The Met collection](https://katamari.vaguespac.es/)
+
+- ⭐ 61 分｜💬 14 留言｜👤 thebigship
+
+### 5. [Life with Down Syndrome](https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/)
+
+- ⭐ 29 分｜💬 4 留言｜👤 NaOH
+
+### 6. [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
+
+- ⭐ 98 分｜💬 45 留言｜👤 markusw
+
+### 7. [Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/)
+
+- ⭐ 148 分｜💬 47 留言｜👤 floitsch
+
+### 8. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
+- ⭐ 283 分｜💬 55 留言｜👤 bpierre
+
+### 9. [Sava Trust (YC F25) Is 招聘 a Founding 工程師 in NYC](https://www.ycombinator.com/companies/sava-trust-company/jobs)
+
+- ⭐ 1 分｜💬 0 留言｜👤 nimz
+
+### 10. [Show HN: Hacker Times, a 新 York Times-inspired version of Hacker News](https://hackertimes.ca/)
+
+I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy!
+
+- ⭐ 341 分｜💬 108 留言｜👤 polpenn
+
+### 11. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
 
 Hi HN, we&#x27;re Aarush and Arnav from The Subvocal Company (YC F26) (https:&#x2F;&#x2F;subvocal.company&#x2F;). We’re building smart glasses that let you talk to your computer without talking out lo
 
-- ⭐ 504 分｜💬 271 留言｜👤 aarushyadav
+- ⭐ 746 分｜💬 350 留言｜👤 aarushyadav
 
-### 3. [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+### 12. [European RISC-V Industrial Computing Initiative](https://erici.eu)
 
-- ⭐ 261 分｜💬 294 留言｜👤 xoobdev
+- ⭐ 154 分｜💬 84 留言｜👤 ymz5
 
-### 4. [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
+### 13. [Efficient algorithms, the Exponential Time Hypothesis, and losing the plot](https://www.argmin.net/p/galactus-the-devourer)
+
+- ⭐ 87 分｜💬 54 留言｜👤 sebg
+
+### 14. [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
+
+- ⭐ 600 分｜💬 139 留言｜👤 ingve
+
+### 15. [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+
+- ⭐ 433 分｜💬 413 留言｜👤 xoobdev
+
+### 16. [Vathographs: Photographic depth maps as creative expression](https://vathography.com/)
+
+- ⭐ 37 分｜💬 16 留言｜👤 hankbond
+
+### 17. [Resisting Cognitive Surrender](https://knlb.dev/essays/surrender)
+
+- ⭐ 224 分｜💬 110 留言｜👤 knlb
+
+### 18. [Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You](https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you)
+
+- ⭐ 267 分｜💬 75 留言｜👤 tomrod
+
+### 19. [Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly](https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html)
+
+- ⭐ 34 分｜💬 32 留言｜👤 entryleveljobsc
+
+### 20. [433MHz TUI scanner: using a FT232H connected to a CC1101](https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/)
+
+- ⭐ 12 分｜💬 5 留言｜👤 xx__yy
+
+### 21. [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
 
 Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your 網頁, iOS, Android, and (soon) desktop apps to catch bug
 
-- ⭐ 114 分｜💬 73 留言｜👤 wuweiweiwu
+- ⭐ 149 分｜💬 99 留言｜👤 wuweiweiwu
 
-### 5. [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
+### 22. [Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform](https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform)
 
-- ⭐ 368 分｜💬 92 留言｜👤 ingve
+- ⭐ 21 分｜💬 1 留言｜👤 gmays
 
-### 6. [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
-
-- ⭐ 114 分｜💬 63 留言｜👤 cdrnsf
-
-### 7. [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
+### 23. [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
 
 Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. 
 You can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here 
 
-- ⭐ 197 分｜💬 35 留言｜👤 stared
+- ⭐ 293 分｜💬 47 留言｜👤 stared
 
-### 8. [Ask HN: Who is 招聘? (November 2026)](https://news.ycombinator.com/item?id=50338728)
+### 24. [Revolut moves to self-hosted GLM](https://twitter.com/guilleflorvs/status/2117379073785696395)
+
+- ⭐ 142 分｜💬 100 留言｜👤 pretext
+
+### 25. [Shrinking NixOS RAM footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
+
+- ⭐ 82 分｜💬 11 留言｜👤 birdculture
+
+### 26. [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
+
+I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.There are still a lot of commands I want to add, but 
+
+- ⭐ 47 分｜💬 35 留言｜👤 dh1011
+
+### 27. [Ask HN: Who is 招聘? (November 2026)](https://news.ycombinator.com/item?id=50338728)
 
 Please state the location and include 遠端 for 遠端 work, 遠端 (US)
 or similar if the country is restricted, and ONSITE when 遠端 work is not an option.Please only post if you personally are p
 
-- ⭐ 166 分｜💬 137 留言｜👤 whoishiring
+- ⭐ 227 分｜💬 188 留言｜👤 whoishiring
 
-### 9. [Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
+### 28. [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
 
-- ⭐ 122 分｜💬 143 留言｜👤 cdrnsf
+- ⭐ 42 分｜💬 4 留言｜👤 teleforce
 
-### 10. [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
+### 29. [Egoless Mathematics in the AI Era](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/)
 
-- ⭐ 67 分｜💬 59 留言｜👤 mfiguiere
+- ⭐ 173 分｜💬 133 留言｜👤 smilelamp
 
-### 11. [Egoless Mathematics in the AI Era](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/)
+### 30. [SLAC researchers find proof of altermagnetism, a 新 magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)
 
-- ⭐ 97 分｜💬 76 留言｜👤 smilelamp
-
-### 12. [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
-
-- ⭐ 90 分｜💬 30 留言｜👤 ibobev
-
-### 13. [Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You](https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you)
-
-- ⭐ 62 分｜💬 18 留言｜👤 tomrod
-
-### 14. [Ubuntu still has not 發布 patch for Linux 0day RCE in almost 3 weeks](https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432)
-
-- ⭐ 279 分｜💬 54 留言｜👤 majorchord
-
-### 15. [Polyend releases the Tracker firmware source 代碼](https://polyend.com/whats-up/tracker-the-biggest-update-yet/)
-
-- ⭐ 70 分｜💬 15 留言｜👤 austinallegro
-
-### 16. [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)
-
-- ⭐ 1269 分｜💬 575 留言｜👤 chalmovsky
-
-### 17. [The Ford Privacy Promise: You're in Control of Your Data](https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise)
-
-- ⭐ 13 分｜💬 9 留言｜👤 KoftaBob
-
-### 18. [A Conversation with Paul Masurel, Creator of Tantivy](https://www.paradedb.com/blog/tantivy-interview)
-
-- ⭐ 9 分｜💬 0 留言｜👤 philippemnoel
-
-### 19. [Oracle files to sell $20B in 新 stock, bonds to finance AI buildout](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html)
-
-- ⭐ 141 分｜💬 101 留言｜👤 smartmic
-
-### 20. [Bitmovin (YC S15) Is 招聘 Technical Graduates in Denver (Engineering/CS Focus)](https://bitmovin.com/careers/8660599002/)
-
-- ⭐ 1 分｜💬 0 留言｜👤 slederer
-
-### 21. [Skill to Create Product Videos](https://github.com/aaitor/skill-video-studio)
-
-- ⭐ 56 分｜💬 19 留言｜👤 aaitor
-
-### 22. [SLAC researchers find proof of altermagnetism, a 新 magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)
-
-- ⭐ 8 分｜💬 3 留言｜👤 gmays
-
-### 23. [We halved DNS 構建 delay and cut memory use by 85%](https://blog.cloudflare.com/dns-targeted-zone-builds/)
-
-- ⭐ 132 分｜💬 44 留言｜👤 wondersky
-
-### 24. [C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](https://retrogamecoders.com/c64-basic-dungeon-part11/)
-
-- ⭐ 54 分｜💬 10 留言｜👤 ibobev
-
-### 25. [When Modernization Breaks Working 代碼: A Study of LLMs on Legacy PHP](https://arxiv.org/abs/2610.40269)
-
-- ⭐ 13 分｜💬 10 留言｜👤 tambourine_man
-
-### 26. [Moving our warehouse off DuckDB](https://posthog.com/blog/moving-off-duckdb)
-
-- ⭐ 153 分｜💬 106 留言｜👤 emschwartz
-
-### 27. [LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)
-
-- ⭐ 75 分｜💬 21 留言｜👤 pretext
-
-### 28. [Making Peace with the Projective Plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/)
-
-- ⭐ 23 分｜💬 13 留言｜👤 ibobev
-
-### 29. [Show HN: I've updated my Linux 系統 Call website and API](https://syscall.sh/)
-
-I first 發布 those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on 行動 devices too but
-
-- ⭐ 201 分｜💬 48 留言｜👤 guitmz
-
-### 30. [Agentic backdoors via pretraining poisoning](https://arxiv.org/abs/2610.37741)
-
-- ⭐ 84 分｜💬 28 留言｜👤 gmays
+- ⭐ 91 分｜💬 11 留言｜👤 gmays
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Supermarket freezers across Europe hit by second suspected cyber-attack
-- BYD sold more EVs last month than the US did all quarter
-- My Favourite Laptop
-- Anthropic's internal AI use, at retail prices, now exceeds its employee pay
-- WorkOS reports 安全 breach
-- The U.S. Census Bureau and "Super Intelligence"
-- Can’t fish Ethernet? Use “invisible” fiber instead
-- Show HN: HackerBooks – HackerTube, but for books mentioned on HN
-- Postgres 19 is late because so many more bugs are being found now
-- Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service
+- Polyend releases the Tracker firmware source 代碼
+- Scaling Git at OpenAI
+- uBlock Origin filter to block autoplay videos in TechCrunch
+- Ubuntu still has not 發布 patch for Linux 0day RCE in almost 3 weeks
+- WTF Ubuntu?
+- Sneaking into the auditorium for the Windows 2000 launch rehearsal
+- We halved DNS 構建 delay and cut memory use by 85%
+- Itch.io adding Generative AI disclosure filtering to few more places on the site
+- V100 SXM2 pinout and NVLink reference
+- Skill to Create Product Videos
+- The SEC Should Block Anthropic's IPO to Protect the Public
 - HackerTube: YouTube built from videos recommended by HN
-- LLMs are not superhuman at reading and writing 神經網絡 網絡 weights
-- GPT-Rosalind-6 系統 Card Addendum
-- Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python
-- Jobless tech workers are being left out of San Francisco's AI boom
+- Cloudflare experiencing multiple active incidents
+- Show HN: HackerBooks – HackerTube, but for books mentioned on HN
+- Show HN: I've updated my Linux 系統 Call website and API
+- Mass attempted replication of old findings of LLMs with 新 models
+- C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)
+- Moving our warehouse off DuckDB
+- Postgres 19 is late because so many more bugs are being found now
+- Supermarket freezers across Europe hit by second suspected cyber-attack
+- Making Peace with the Projective Plane
+- The Nordic Token Tax
+- LongCat-2.5: Native Multimodality for Agentic Tasks
+- My Favourite Laptop
+- The U.S. Census Bureau and "Super Intelligence"
+- GUI64 – GUI for the Commodore 64 running on 熱門 of the built-in ROM
+- A Conversation with Paul Masurel, Creator of Tantivy
 - Bones may release proteins that slow aging and extend life span
-- Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies
-- Cyberattacks hit supermarket fridges and freezers in Europe
-- Japan 推出 mission to make first return trip to Mars
-- Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings
+- WiCi: Connecting GPUs over WiFi
+- Ask HN: Does anyone have a contact with Cleveland-area Ham club?
+- Too Expensive to Exist
+- WorkOS reports 安全 breach
+- Anthropic's internal AI use, at retail prices, now exceeds its employee pay
 - Ask HN: Which TV do you recommend for privacy?
-- Last night an AI 代理 performed brain surgery on a mouse
-- Anthropic's spending commitments surge to nearly $900B
-- Most of our measures of a key cognitive process don't agree
-- Let Me Ch...
-- Wir müssen wissen – wir werden wissen
-- Moment of Ruby: An Argument for Nothing
-- South Korea targets ' highest performance' sovereign AI 模型
-- 新 3D thermal invisibility cloak makes objects disappear from infrared cameras
-- Mystery of 60-Second Fluctuations in Power Grids Solved
-- Ask HN: What 硬體 are you using to run local LLMs?
-- F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
-- 為什麼 are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)
-- Never Complain, Never Explain
+- Intel stock collapse worsens as $3.5T chip rout spreads
+- Agentic backdoors via pretraining poisoning
+- LLMs are not superhuman at reading and writing 神經網絡 網絡 weights
+- Trademarks and Symbols, Volume 2: Symbolical Designs (1973)
+- Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python
+- Anthropic's growth just flattened
 - Proving and improving the Platonic Representation Hypothesis with JEPAs
-- China's First Frontier AI Export Controls: Mofcom Announcement No. 48
-- Goldman Restricts Traders and Bankers from Using Some AI Tools
-- 40 °C heat extremes are no longer implausible in the Nordic countries
-- From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus
 - An Italian farmer found some unknown seeds in his attic and planted them
-- Radiation Map of the World
-- Trigger.dev customer environment variables exposed
-- Mathematics has changed. Let's act like it
-- Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
+- Oracle files to sell $20B in 新 stock, bonds to finance AI buildout
+- 新 3D thermal invisibility cloak makes objects disappear from infrared cameras
+- Jobless tech workers are being left out of San Francisco's AI boom
+- How AI is creating a lopsided US economy
 - Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)
-- Patrick Stewart's First TV Appearance
-- SOML – A Config Format for Humans
+- When Modernization Breaks Working 代碼: A Study of LLMs on Legacy PHP
+- One of Google's Android partners turned 1.3M set-熱門 boxes into a botnet
+- Mystery of 60-Second Fluctuations in Power Grids Solved
+- Last night an AI 代理 performed brain surgery on a mouse
+- Show HN: ReBirth 338 in Browser
+- NASA's Swift space telescope predicted to crash back to Earth tomorrow
+- Radiation Map of the World
+- F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
+- Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
+- GPT-Rosalind-6 系統 Card Addendum
+- 新 York Times sues maker of Brave 網頁 browser over copyrights
 - Domain hacks with unusual Unicode characters (2018)
-- Ondrej Surý, who saved the internet: You have to want to do something for others
-- OccupySaaS
-- Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2
 - Running a bootstrapped SaaS for 20 years with my brother
-- Kraft Mac & Cheese Now Comes in Cinnamon Roll Flavor
-- Researchers face record-low chances of getting a grant partly due to rise of AI
 - Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020
-- The She-Wolves of Jülich
-- Nibnib: Image compression with extreme decompression speed
+- Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings
+- Mathematics has changed. Let's act like it
 - It's the memory latency, stupid
 - TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
-- Napping characteristics and incident dementia
-- $48 e-paper display can be whatever you want it to be
-- Show HN: ClickBench inspired leaderboard for multiple 資料庫 benchmarks
-- Bidirectional charging during grid outages
-- Parchment Paper History: How We Got Paper Perfect for Baking (2019)
-- The AI cost of JavaScript frameworks
-- Seoul Viosys begins production of rare-earth-free white light emitter
-- Altoids Project
-- Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
-- 新 cyberattack on supermarket fridges sweeps across Europe
-- Tips for more effective fuzz testing with AFL++
+- Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2
+- Backdoor in Claude 代碼 for VS 代碼 extension on the Cursor Marketplace
+- Open models can do 90 percent of agentic work at a twentieth of the cost
+- Trigger.dev customer environment variables exposed
+- China's First Frontier AI Export Controls: Mofcom Announcement No. 48
 
 
 ---
