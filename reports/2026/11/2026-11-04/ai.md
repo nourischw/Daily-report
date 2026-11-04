@@ -12,7 +12,7 @@
 
 ### 2. [永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用](https://www.ithome.com.tw/news/180233)
 
-永豐銀行今日（11月4日）晚間6時召開緊急記者會，說明日前發生的客戶帳戶異常轉帳事件，是供應商安全設定遭駭客利用的資安事件。先前傳出這起事件初步影響400名客戶且每筆轉出金額約10萬元，永豐銀行在昨日表示是新網銀交易系統發生程式異常，但隨著調查進一步釐清，今日則表示確認事件起因是外部駭客利用新網銀交易系統供應商的安全設定漏洞，另也強調該交易系統目前在臺灣尚無其他金融業者導入。
+永豐銀行今日（11月4日）晚間6時召開緊急記者會，說明日前發生的客戶帳戶異常轉帳事件，是遭駭客利用供應商安全設定漏洞的資安事件。先前傳出這起事件初步影響400名客戶且每筆轉出金額約10萬元，永豐銀行在昨日表示是新網銀交易系統發生程式異常，但隨著調查進一步釐清，今日則表示確認事件起因是外部駭客利用新網銀交易系統供應商的安全設定漏洞，另也強調該交易系統目前在臺灣尚無其他金融業者導入。
 
 - 📰 **iThome 科技**
 
@@ -25,7 +25,7 @@ Mozilla於11月3日發布Firefox 159.0.1，修補一個高風險漏洞CVE-2026-1
 
 ### 4. [電商ERP業者莫筆克科技遭駭，Shopline更換相關API金鑰，商家匯入ERP的資料恐受影響](https://www.ithome.com.tw/news/180213)
 
-繼91APP、1shop、Cyberbiz及meepShop等臺灣電商技術服務業者接連傳出資安事件與疑慮後，我們同時追蹤另一家電商開店平臺Shopline的資安動態，進一步發現該公司於11月3日公告，有商家使用的第三方雲端ERP服務商莫筆克科技（Mallbic雲端小幫手）發生資安事件。
+繼91APP、1shop、Cyberbiz及meepShop等臺灣電商技術服務業者接連傳出資安事件與疑慮後，我們同時追蹤另一家電商開店平臺Shopline的資安動態，進一步發現該公司於11月3日公告，第三方雲端ERP服務商莫筆克科技（Mallbic雲端小幫手）發生資安事件，Shopline也對此事��進行因應。
 
 - 📰 **iThome 科技**
 
@@ -38,7 +38,7 @@ Mozilla於11月3日發布Firefox 159.0.1，修補一個高風險漏洞CVE-2026-1
 
 ### 6. [OpenAI自建Pando擴充Git後端，推送延遲降低近80%](https://www.ithome.com.tw/news/180219)
 
-OpenAI公開自建的Git後端Pando，以因應Codex帶動的大量並行開發工作。Pando在���留Git協定與既有操作方式的前提下，讓不同分支能獨立更新，並重複使用Git資料封裝檔加快資料傳輸。OpenAI表示，切換後程式碼推送延遲中位數降低近80%，每天傳送近1 PB的Git資料。
+OpenAI公開自建的Git後端Pando，以因應Codex帶動的大量並行開發工作。Pando在保留Git協定與既有操作方式的前提下，讓不同分支能獨立更新，並重複使用Git資料封裝檔加快資料傳輸。OpenAI表示，切換後程式碼推送延遲中位數降低近80%，每天傳送近1 PB的Git資料。
 
 - 📰 **iThome 科技**
 
@@ -97,7 +97,7 @@ OpenAI公開自建的Git後端Pando，以因應Codex帶動的大量並行開發�
 
 ### 15. [NetApp揭露旗下多款儲存產品受Linux核心TCP漏洞影響](https://www.ithome.com.tw/news/180208)
 
-日前揭露的Linux核心TCP漏洞CVE-2026-98432，不僅影響各Linux發行版，也涵蓋基於Linux平臺的其他產���，儲存廠商NetApp便於11月2日發布公告，指出旗下多款儲存產品受此漏洞影響，包括AFF、ASA及FAS系列儲存設備的BMC控制器與Service Processor處理器，E系列儲存設備的SANtricity OS，StorageGRID系列儲存設備，
+日前揭露的Linux核心TCP漏洞CVE-2026-98432，不僅影響各Linux發行版，也涵蓋基於Linux平臺的其他產品，儲存廠商NetApp便於11月2日發布公告，指出旗下多款儲存產品受此漏洞影響，包括AFF、ASA及FAS系列儲存設備的BMC控制器與Service Processor處理器，E系列儲存設備的SANtricity OS，StorageGRID系列儲存設備，
 
 - 📰 **iThome 科技**
 
@@ -128,7 +128,7 @@ AI新創Anthropic周一（11/2）發表FlashProve，這是一套利用零知識�
 
 ### 20. [美國CISA警告WordPress資安漏洞遭積極利用](https://www.ithome.com.tw/news/180202)
 
-11月3日美國網路安全與基礎設施安全局（CISA）更新已遭利用的漏洞名單（KEV），原因是他們已掌握新漏洞遭積極利用的證據，該漏洞就是上週公布的CVE-2026-119977，此為檢查時間與使用時間（TOCTOU）競爭條件漏洞，存在於WordPress核心，美
+11月3日美國網路安全與基礎設施安全局（CISA）更新已遭利用的漏洞名單（KEV），原因是他們已掌握新漏洞遭積極利用的證據，該漏洞就是上週公布的CVE-2026-119977，此為���查時間與使用時間（TOCTOU）競爭條件漏洞，存在於WordPress核心，美
 
 - 📰 **iThome 科技**
 
@@ -140,7 +140,7 @@ Google於11月3日發布Chrome 157大改版，針對電腦版與Android版總計
 
 ### 22. [蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務](https://www.ithome.com.tw/news/180200)
 
-蘋果（Apple）周二（11/3）宣布，隨著iOS 27.3、iPadOS 27.3及macOS 27.3測試版推出，所有開發者都可以自家App整合Siri AI，讓第三方App能透過自然語言理解、個人情境及螢幕內容辨識等能力，協助使用者完成訂單查詢、餐廳預訂及購物等操作。蘋果同時推出Skills機制，讓Siri AI能組合多項操作，執行更複雜的任務。
+蘋果（Apple）周二（11/3）宣布，隨著iOS 27.3、iPadOS 27.3及macOS 27.3測試版推出，所有開發者都可以自家App整合Siri AI，讓第三方App能透過自然語言理解、個人情境及螢幕內容辨識等能力，協助使用者完成訂單查詢、餐廳預訂及購物等操作。蘋果同時推出Skills機制，讓Siri AI能組合多���操作，執行更複雜的任務。
 
 - 📰 **iThome 科技**
 
@@ -152,7 +152,7 @@ Google於11月3日發布Chrome 157大改版，針對電腦版與Android版總計
 
 ### 24. [Node-RED重大漏洞出現攻擊嘗試，駭客企圖執行Linux惡意程式並部署網頁後門](https://www.ithome.com.tw/news/180178)
 
-資安漏洞情報業者VulnCheck近日揭露針對Node-RED重大漏洞CVE-2026-58115的攻擊活動。研究人員透過誘捕系統發現，攻擊者利用這項漏洞嘗試下載並執行Linux惡意程式，後續還觀���到試圖部署網頁後門、以便持續執行遠端命令的攻擊手法。
+資安漏洞情報業者VulnCheck近日揭露針對Node-RED重大漏洞CVE-2026-58115的攻擊活動。研究人員透過誘捕系統發現，攻��者利用這項漏洞嘗試下載並執行Linux惡意程式，後續還觀測到試圖部署網頁後門、以便持續執行遠端命令的攻擊手法。
 
 - 📰 **iThome 科技**
 
@@ -176,7 +176,7 @@ Google旗下Mandiant公布2026年多起大型語言模型（大型語言模型�
 
 ### 28. [MIT展示權重空間程式設計，GPT-6 Astra可直接讀寫神經網路權重](https://www.ithome.com.tw/news/180195)
 
-麻省理工學院電腦科學暨人工智慧實驗室（MIT CSAIL）研究團隊公布實驗���利用GPT-6 Astra直接修改Qwen3.5-0.8B語言模型的神經網路權重，不需重新訓練，就讓MATH-500數學測試正確率從7.9%提高至48.1%。修改範圍僅占模型約0.016%的權重，主要解決模型推理時反覆產生相同內容、無法完成回答的問題。
+麻省理工學院電腦科學暨人工智慧實驗室（MIT CSAIL）研究團隊公布實驗，利用GPT-6 Astra直接修改Qwen3.5-0.8B語言模型的神經網路權重，不需重新訓練，就讓MATH-500數學測試正確率從7.9%提高至48.1%。修改範圍僅占模型約0.016%的權重，主要解決模型推理時反覆產生相同內容、無法完成回答的問題。
 
 - 📰 **iThome 科技**
 
@@ -196,23 +196,39 @@ IBM指出開源AI工作流程開發平臺Langflow存在多項安全漏洞，其�
 
 ### 更多 AI 新聞 (70則)
 
+- ‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online (**Wired**)
+- The Biggest Pro-AI Super PAC 網絡 Didn’t Really Impact the Midterms (**Wired**)
+- ‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover (**Wired**)
+- Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out (**Wired**)
+- Knives Are Out in the White House (**Wired**)
+- Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’ (**Wired**)
+- Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350 (**Wired**)
+- The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court (**Wired**)
+- Small Phones Have Vanished. Enough Phone Wants to Bring Them Back (**Wired**)
+- The Results Are In: Voters Hate Data Centers (**Wired**)
+- ‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump (**Wired**)
+- Voters Set $400 Million of Elon Musk’s Money on Fire (**Wired**)
+- Election Deniers Aren’t Contesting Their Massive Losses (**Wired**)
+- ‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable (**Wired**)
+- UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google (**Wired**)
+- ‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout (**Wired**)
 - I Tried Amazon’s 新 Kindles. Buy This Accessory Instead (2026) (**Wired**)
 - 最佳 Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More (**Wired**)
-- 新 Jersey’s 新 Ebike Law Is Causing Chaos (**Wired**)
 - What’s the Difference Between an Ebike and an E-Moto? (**Wired**)
+- 新 Jersey’s 新 Ebike Law Is Causing Chaos (**Wired**)
 - Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know 為什麼 (**Wired**)
 - 50% Off DoorDash Promo 代碼 | November 2026 (**Wired**)
 - Hoka Coupon Codes: 30% Off in November 2026 (**Wired**)
 - SteelSeries Coupon Codes: 15% Off in November 2026 (**Wired**)
 - Motley Fool Promo 代碼: $200 Off on Stock Advisor November 2026 (**Wired**)
 - Columbia Promo Codes: 15% Off | November 2026 (**Wired**)
-- 25% Off Adidas Promo 代碼 | November 2026 (**Wired**)
-- LegalZoom Promo 代碼: Exclusive 10% Off LLC Formations (**Wired**)
-- Alo Discount 代碼: 20% Off November 2026 (**Wired**)
 - Hulu Promo Codes &amp; Discounts: 20% Off in November 2026 (**Wired**)
 - Hostinger Promo 代碼: 79% Off for November 2026 (**Wired**)
 - Shark Promo Codes for November 2026 (**Wired**)
 - Whoop Promo Codes: 20% Off This November 2026 (**Wired**)
+- Alo Discount 代碼: 20% Off November 2026 (**Wired**)
+- 25% Off Adidas Promo 代碼 | November 2026 (**Wired**)
+- LegalZoom Promo 代碼: Exclusive 10% Off LLC Formations (**Wired**)
 - Democrats Sweep Republicans in Nearly Every Race That Matters (**Wired**)
 - The Lenovo IdeaPad Slim 5x Is Only $900 Right Now (**Wired**)
 - $1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work (**Wired**)
@@ -230,22 +246,6 @@ IBM指出開源AI工作流程開發平臺Langflow存在多項安全漏洞，其�
 - White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More (**Wired**)
 - Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past (**Wired**)
 - Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It (**Wired**)
-- Uber Eats Promo Codes: $15 Off│November 2026 (**Wired**)
-- Hotels.com Coupon Codes for November 2026 (**Wired**)
-- Chewy Promo Codes: $20 Off November 2026 (**Wired**)
-- 20% Off Brooks Promo 代碼 | November 2026 (**Wired**)
-- Dell Coupon Codes: 20% Off for November 2026 (**Wired**)
-- 30% Off Canon Promo Codes | November 2026 (**Wired**)
-- Newegg Promo Codes and Coupons for November 2026 (**Wired**)
-- eBay Coupons: 20% Off in November 2026 (**Wired**)
-- AT&amp;T Promo Codes: $50 Off This November 2026 (**Wired**)
-- KitchenAid Promo Codes: Save Up to 20% (**Wired**)
-- The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes (**Wired**)
-- 如何 Save $25 on Burga’s Phone Accessories With This Sale (**Wired**)
-- 最佳 Dyson Vacuum Deals (2026): Dyson Spot+Scrub AI, Dyson V16 Piston Animal (**Wired**)
-- 最佳 Early Black Friday Espresso Machine Deals (2026) (**Wired**)
-- A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress (**Wired**)
-- Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
