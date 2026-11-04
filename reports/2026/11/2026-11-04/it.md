@@ -4,206 +4,208 @@
 
 ---
 
-### 1. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+### 1. [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 
-- ⭐ 90 分｜💬 29 留言｜👤 thatxliner
+- ⭐ 217 分｜💬 108 留言｜👤 pseudolus
 
-### 2. [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+### 2. [NVIDIA RTX Spark encrypted firmware slows 推論 speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
 
-- ⭐ 14 分｜💬 0 留言｜👤 gmays
+- ⭐ 221 分｜💬 117 留言｜👤 novaRom
 
-### 3. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+### 3. [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)
 
-- ⭐ 175 分｜💬 10 留言｜👤 ibobev
+- ⭐ 130 分｜💬 60 留言｜👤 kevcampb
 
-### 4. [Jailbreaking my car's navigation 系統 just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
+### 4. [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
 
-- ⭐ 671 分｜💬 278 留言｜👤 xx_ns
+- ⭐ 98 分｜💬 52 留言｜👤 ersinesen
 
-### 5. [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
+### 5. [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)
 
-- ⭐ 31 分｜💬 1 留言｜👤 gmays
+If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for 訓練 and there is no way to opt out unless you turn off chat history or use temporary chat sess
 
-### 6. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)
+- ⭐ 175 分｜💬 47 留言｜👤 jameslk
 
-- ⭐ 447 分｜💬 159 留言｜👤 nharada
+### 6. [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
 
-### 7. [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org)
+- ⭐ 311 分｜💬 79 留言｜👤 memalign
+
+### 7. [Kitty 0.50](https://sw.kovidgoyal.net/kitty/changelog/#)
+
+- ⭐ 219 分｜💬 137 留言｜👤 porridgeraisin
+
+### 8. [A map of 5000+ midterm ads](https://admap.org/)
+
+- ⭐ 34 分｜💬 7 留言｜👤 Eden09
+
+### 9. [Debian apt 安全 更新: man-in-the-middle arbitrary 代碼 execution](https://lists.debian.org/debian-security-announce/2026/msg00526.html)
+
+- ⭐ 29 分｜💬 20 留言｜👤 vesinisa
+
+### 10. [Jailbreaking my car's navigation 系統 just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
+
+- ⭐ 875 分｜💬 330 留言｜👤 xx_ns
+
+### 11. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)
+
+- ⭐ 664 分｜💬 210 留言｜👤 nharada
+
+### 12. [The lost malloc()](https://napcakes.nekoweb.org/posts/malloc/)
+
+- ⭐ 78 分｜💬 23 留言｜👤 matt_d
+
+### 13. [Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+
+- ⭐ 133 分｜💬 84 留言｜👤 alkyon
+
+### 14. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+
+- ⭐ 311 分｜💬 23 留言｜👤 ibobev
+
+### 15. [Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver](https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver)
+
+- ⭐ 46 分｜💬 4 留言｜👤 snvzz
+
+### 16. [Show HN: Uncracked City, detective game where you question 大型語言模型 suspects that lie](https://uncracked.city)
+
+To give you some context on the project. I&#x27;m a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is
+
+- ⭐ 86 分｜💬 42 留言｜👤 passkey1510
+
+### 17. [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org)
 
 I saw HackerTube (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50319510) a few days ago, the YouTube videos HN keeps
 recommending, pulled from 19 years of comments. It made me want to flip
 thro
 
-- ⭐ 231 分｜💬 47 留言｜👤 dsalzman
+- ⭐ 368 分｜💬 69 留言｜👤 dsalzman
 
-### 8. [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
+### 18. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
 
-- ⭐ 9 分｜💬 0 留言｜👤 firstbase
+- ⭐ 348 分｜💬 246 留言｜👤 thatxliner
 
-### 9. [Safari 引進 Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+### 19. [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
 
-- ⭐ 341 分｜💬 192 留言｜👤 paddingtone
+- ⭐ 496 分｜💬 211 留言｜👤 bookofjoe
 
-### 10. [Japan's Jimi 'Mundane' Halloween Costumes of 2026](https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/)
+### 20. [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
 
-- ⭐ 139 分｜💬 23 留言｜👤 zdw
+- ⭐ 108 分｜💬 22 留言｜👤 gmays
 
-### 11. [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+### 21. [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
 
-- ⭐ 409 分｜💬 175 留言｜👤 bookofjoe
+- ⭐ 90 分｜💬 34 留言｜👤 gmays
 
-### 12. [為什麼 Clip Art Was Everywhere Until It Wasn't [video]](https://www.youtube.com/watch?v=XfLlpxE6AYM)
+### 22. [Hackers hit French national blood bank](https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/)
 
-- ⭐ 12 分｜💬 2 留言｜👤 surprisetalk
+- ⭐ 58 分｜💬 47 留言｜👤 blaze33
 
-### 13. [Qwen 3.8 27B on my laptop can interpret 模型 weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
+### 23. [Japan's Jimi 'Mundane' Halloween Costumes of 2026](https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/)
 
-- ⭐ 528 分｜💬 166 留言｜👤 theanonymousone
+- ⭐ 209 分｜💬 34 留言｜👤 zdw
 
-### 14. [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
+### 24. [Qwen 3.8 27B on my laptop can interpret 模型 weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
 
-- ⭐ 1104 分｜💬 362 留言｜👤 sidgarimella
+- ⭐ 665 分｜💬 193 留言｜👤 theanonymousone
 
-### 15. [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
+### 25. [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
 
-- ⭐ 267 分｜💬 47 留言｜👤 ibobev
+- ⭐ 62 分｜💬 4 留言｜👤 firstbase
 
-### 16. [We're 訓練 a Figma-fluent editing 模型](https://www.figma.com/blog/training-a-figma-fluent-editing-model/)
+### 26. [How I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
 
-- ⭐ 86 分｜💬 40 留言｜👤 gmays
+- ⭐ 201 分｜💬 240 留言｜👤 citelao
 
-### 17. [There is no posttraining data commons](https://openathena.ai/blog/there-is-no-posttraining-data-commons/)
+### 27. [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
 
-- ⭐ 43 分｜💬 10 留言｜👤 lukasschwab
+- ⭐ 1373 分｜💬 456 留言｜👤 sidgarimella
 
-### 18. [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
+### 28. [There is no posttraining data commons](https://openathena.ai/blog/there-is-no-posttraining-data-commons/)
 
-Hey HN, Ayan here from Finic. We’re launching Kairos, an 開源 alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing 
+- ⭐ 90 分｜💬 24 留言｜👤 lukasschwab
 
-- ⭐ 73 分｜💬 12 留言｜👤 ayanb9440
+### 29. [Safari 引進 Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
 
-### 19. [The Pnyx and the Agora (2016)](https://www.readingdesign.org/the-pnyx-and-the-agora)
+- ⭐ 461 分｜💬 241 留言｜👤 paddingtone
 
-- ⭐ 5 分｜💬 0 留言｜👤 apophatic
+### 30. [We're 訓練 a Figma-fluent editing 模型](https://www.figma.com/blog/training-a-figma-fluent-editing-model/)
 
-### 20. [How I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
-
-- ⭐ 107 分｜💬 97 留言｜👤 citelao
-
-### 21. [Microsoft fixes a Windows 11 annoyance as PC revenue declines](https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/)
-
-- ⭐ 27 分｜💬 68 留言｜👤 rbanffy
-
-### 22. [介紹 程式設計 in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
-
-- ⭐ 60 分｜💬 9 留言｜👤 ibobev
-
-### 23. [Union Types and Option Types (2025)](https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html)
-
-- ⭐ 30 分｜💬 13 留言｜👤 g0xA52A2A
-
-### 24. [Curiosity Traps](https://www.autodidacts.io/curiosity-traps/)
-
-- ⭐ 56 分｜💬 6 留言｜👤 surprisetalk
-
-### 25. [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
-
-- ⭐ 928 分｜💬 194 留言｜👤 syllogism
-
-### 26. [Writing seen in PHerc. 306B, for the first time in 2000 years](https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the)
-
-- ⭐ 119 分｜💬 16 留言｜👤 benbreen
-
-### 27. [Ashby (YC W19) Is 招聘 EMs](https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn)
-
-- ⭐ 1 分｜💬 0 留言｜👤 abhikp
-
-### 28. [Antimony: CAD 軟體 Evolved from Lisp Machines and Not Drafting Tables (2015)](https://www.mattkeeter.com/projects/antimony/3/)
-
-- ⭐ 112 分｜💬 60 留言｜👤 pmkary
-
-### 29. [Pratt parsing is a black box](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
-
-- ⭐ 45 分｜💬 20 留言｜👤 ibobev
-
-### 30. [Mac at any scale](https://namespace.so/blog/mac-at-any-scale)
-
-- ⭐ 333 分｜💬 194 留言｜👤 anner_
+- ⭐ 131 分｜💬 58 留言｜👤 gmays
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Uncracked City, detective game where you question 大型語言模型 suspects that lie
-- Killing what can't be handled – putting a spaghetti demon to eternal rest
-- Preparing for the Flipper One Kickstarter and opening pre-orders
-- Practice speaking Japanese with real YouTube videos, graded line by line
-- macOS 27 does not support CoreStorage volumes
-- USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance
+- Disaster is still better than AI
+- The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+- The 'Astra can read and write weights to improve Qwen' post is misleading
+- Curiosity Traps
+- 為什麼 Clip Art Was Everywhere Until It Wasn't [video]
+- Mac at any scale
+- Writing seen in PHerc. 306B, for the first time in 2000 years
+- Show HN: Kairos – Open-source risk and fraud decisioning platform
+- Ashby (YC W19) Is 招聘 EMs
+- 介紹 程式設計 in ATS
+- Microsoft fixes a Windows 11 annoyance as PC revenue declines
+- NetBSD 11.1
+- Antimony: CAD 軟體 Evolved from Lisp Machines and Not Drafting Tables (2015)
+- Union Types and Option Types (2025)
 - Toit v2.0.0
+- Practice speaking Japanese with real YouTube videos, graded line by line
+- Milkman – The Better Alternative to Postman
+- Tell HN: Don't use Postman, they proxy your info without your permission
 - 為什麼 Don't We Live in an Art Nouveau World?
-- Tiny Basic for Arduino
-- OpenAI seems to be silently re-enabling 模型 訓練 on Codex chats
-- Gitbook Breached
-- Katamari Damacy but it's The Met collection
 - NVIDIA – open-source auto-ontology
-- Google will turn off search for schools that reject AI
-- US tech giants' hidden AI debt swells 90% to $3.2T in 6 months
-- Queen of the Bagel Business
-- Bear turns 10, and it still feels like day one
-- Could a modern chess engine on a Pentium have defeated Kasparov in 1996?
+- Renewable electricity – 最佳 buffer against gas price volatility
+- Katamari Damacy but it's The Met collection
 - European RISC-V Industrial Computing Initiative
 - Resisting Cognitive Surrender
-- Kalshi and its co-founders face felony charges for violating Utah gambling laws
-- I dumped Apple’s word list
-- Handles are the better pointers (2018)
-- Tesla allegedly misled South Korean customers about automated-driving tech
-- $20M in Fines and Vizio Smart TVs Opt Out of Spying Option Does Nothing
+- Preparing for the Flipper One Kickstarter and opening pre-orders
+- OpenAI seems to be silently re-enabling 模型 訓練 on Codex chats
+- Google will turn off search for schools that reject AI
+- Could a modern chess engine on a Pentium have defeated Kasparov in 1996?
+- Tiny Basic for Arduino
+- Albert Einstein and Hannah Arendt's 1948 open letter on Israel
+- USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance
 - Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
-- The cryptography behind e-voting (and 為什麼 paper ballots are still essential)
-- Apple opens the door to a nightmare world of always-listening tech
-- Charles Tandy, the mastermind behind Radio Shack
-- Embedding boolean circuits in a 神經網絡 網絡
-- DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
-- Show HN: Subvocal – Talk to your computer without making noise
+- Pratt parsing is a black box
+- Killing what can't be handled – putting a spaghetti demon to eternal rest
 - HackerTube: YouTube built from videos recommended by HN
-- French blood storage facilities targeted in cyberattack
-- Shrinking NixOS RAM footprint and resource requirements to the bare minimum
-- Writing as an act of rebellion (Despite the AI psychosis)
-- 如何 write comparison content that doesn't age like milk
-- Study estimates 75% of NFL players who died over 15-year span had CTE
-- Delaying Conflict Is Better Than Venting for Relationships
-- Show HN: Hacker Times, a 新 York Times-inspired version of Hacker News
-- Binance hackers used fake 工作 interview to breach PC before $6.3B attack
-- Astra can read and write weights to improve Qwen
+- Gitbook Breached
+- Bear turns 10, and it still feels like day one
+- Queen of the Bagel Business
+- Affinity for Linux is in active development
+- Show HN: Subvocal – Talk to your computer without making noise
+- Handles are the better pointers (2018)
+- Charles Tandy, the mastermind behind Radio Shack
 - If you love a website, back it up
-- IKEA Turned 8,500 Call Agents into Design Consultants
-- Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform
+- DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
+- macOS 27 does not support CoreStorage volumes
+- Show HN: HackerBooks – HackerTube, but for books mentioned on HN
+- The cryptography behind e-voting (and 為什麼 paper ballots are still essential)
+- NetBSD 11.1
+- Kalshi and its co-founders face felony charges for violating Utah gambling laws
+- Canadian publisher: Orelien used AI to write award-winning book; ends relation
+- Astra can read and write weights to improve Qwen
+- Shrinking NixOS RAM footprint and resource requirements to the bare minimum
+- US tech giants' hidden AI debt swells 90% to $3.2T in 6 months
+- Show HN: Hacker Times, a 新 York Times-inspired version of Hacker News
+- RTX 5090 Street Prices 熱門 $9k as NVIDIA GPU Costs Climb
+- US boy names that became girl names and vice versa
 - SLAC researchers find proof of altermagnetism, a 新 magnetic phase
 - LLMs are not superhuman at reading and writing 神經網絡 網絡 weights
-- US boy names that became girl names and vice versa
-- Show HN: Interactive notes on RLHF, attention, LoRA and 大型語言模型 evals
-- Show HN: HackerBooks – HackerTube, but for books mentioned on HN
-- Snapchat Is Harming Children at an Industrial Scale (2025)
-- Show HN: Bema: Work messaging built for humans
-- Exploring the Legacy of Image Club Graphics
-- Ubuntu still has not 發布 patch for Linux 0day RCE in almost 3 weeks
-- Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities
+- Embedding boolean circuits in a 神經網絡 網絡
+- Runs Scored in World Baseball Classic
+- The Pnyx and the Agora (2016)
 - We halved DNS 構建 delay and cut memory use by 85%
-- Is There Anything Left in the Dream of Cold Fusion?
-- Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You
-- Deskilling the body: We are doing less sensing, navigating, remembering, walking
-- Nsw Health Breached
-- Sneaking into the auditorium for the Windows 2000 launch rehearsal
-- 為什麼 Every AI 模型 Will Ship as a Torrent
 - Postgres 19 is late because so many more bugs are being found now
-- Skill to Create Product Videos
-- 433MHz TUI scanner: using a FT232H connected to a CC1101
-- Show HN: HackerChurn – which SaaS tools HN wants to cancel
+- Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform
+- Ubuntu still has not 發布 patch for Linux 0day RCE in almost 3 weeks
+- Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You
 - Show HN: I've updated my Linux 系統 Call website and API
-- Just a little AI resistance, as a treat
-- Scaling Git at OpenAI
-- Life with Down Syndrome
+- Sneaking into the auditorium for the Windows 2000 launch rehearsal
+- I dumped Apple’s word list
+- Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities
 
 
 ---
