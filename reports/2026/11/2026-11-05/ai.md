@@ -13,7 +13,7 @@ OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助�
 ### 2. [公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護效率](https://www.ithome.com.tw/news/180263)
 
 臺灣山區地形陡峭、地質破碎，加上颱風、地震頻繁，許多公路與橋梁沿著山區興建，邊坡、橋梁梁底及橋墩等設施長期面臨巡檢不易的挑戰。交通部公路局副局長周廷彰表示，過去巡檢多仰賴人工步行、攀爬或橋梁檢測車，不僅耗時，也伴隨一定作業風險。公路局近年逐步導入無人機，利用高空影像快速掌握橋梁、邊坡等人員不易到達的位置，減少工程人員進入危險區域的需求。
-不過，公路局的目標已不只是利用無人機空拍，而是進一步將巡檢數��化、智慧化。周廷彰指出，目前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生後協助快速掌握現場，三是建立鐵公路共同巡檢機制。
+不過，公路局的目標已不只是利用無人機空拍，而是進一步將巡檢數位化、智慧化。周廷彰指出，��前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生後協助快速掌握現場，三是建立鐵公路共同巡檢機制。
 
 - 📰 **iThome 科技**
 
@@ -26,7 +26,7 @@ Debian與Ubuntu發布APT套件管理工具安全更新，修補編號CVE-2026-10
 ### 4. [【資安日報】11月5日，法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改](https://www.ithome.com.tw/news/180260)
 
 本日新聞焦點
-● ��國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改
+● 法國國家血液機構冷藏設備遭��路攻擊，3處設施溫度控制遭竄改
 ● 永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用
 ● 俄羅斯駭客APT29大規模水坑式攻擊，竊取iOS與Android裝置資料
 
@@ -50,7 +50,7 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 
 - 📰 **iThome 科技**
 
-### 8. [法國銀行Crédit Mutuel Arkéa遭網攻，傳逾1.18億歐元遭���擊者轉走](https://www.ithome.com.tw/news/180255)
+### 8. [法國銀行Crédit Mutuel Arkéa遭網攻，傳逾1.18億歐元遭攻擊者轉走](https://www.ithome.com.tw/news/180255)
 
 法國合作銀行集團Crédit Mutuel Arkéa於11月4日證實遭遇網路攻擊，攻擊者透過一家外部服務商的平臺取得銀行系統存取管道，並利用該銀行行方的帳戶向其他金融機構進行未授權轉帳。
 
@@ -64,7 +64,7 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 
 ### 10. [法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改](https://www.ithome.com.tw/news/180253)
 
-近期歐洲冷凍冷藏設備遭網路攻擊的事件，已從超市與零售業蔓延至醫療機構。法國國家血��機構（EFS）於11月3日證實旗下3處設施的冷藏設備控制系統遭遇網路攻擊，攻擊者竄改溫度及除霜設定，企圖將冷藏設備調高至極端溫度。
+近期歐洲冷凍冷藏設備遭網路攻擊的事件，已從超市與零售業蔓延至醫療機構。法國國家血液機構（EFS）於11月3日證實旗��3處設施的冷藏設備控制系統遭遇網路攻擊，攻擊者竄改溫度及除霜設定，企圖將冷藏設備調高至極端溫度。
 
 - 📰 **iThome 科技**
 
@@ -76,7 +76,7 @@ C++26國際標準草案未通過國際標準化組織（ISO）各國標準機構
 
 ### 12. [Zyxel GS1900系列交換器存在越界寫入漏洞，攻擊者不需通過身分驗證就能執行作業系統命令](https://www.ithome.com.tw/news/180252)
 
-11月3日網通設備製造商兆勤（Zyxel）發布資安公告，GS1900系列交換器��在越界寫入漏洞CVE-2026-107441，該漏洞存在於交換器韌體的CGI程式，位於區域網路（LAN）內的攻擊者，可透過傳送特製HTTP請求觸發漏洞，進而在不需通過身分驗證的情況下執行作業系統命令，該公司已為10款GS1900交換器推出新版
+11月3日網通設備製造商兆勤（Zyxel）發布資安公告，GS1900系列交換器存在越界寫入漏洞CVE-2026-107441��該漏洞存在於交換器韌體的CGI程式，位於區域網路（LAN）內的攻擊者，可透過傳送特製HTTP請求觸發漏洞，進而在不需通過身分驗證的情況下執行作業系統命令，該公司已為10款GS1900交換器推出新版
 
 - 📰 **iThome 科技**
 
@@ -88,7 +88,7 @@ C++26國際標準草案未通過國際標準化組織（ISO）各國標準機構
 
 ### 14. [俄羅斯駭客APT29發動大規模水坑式攻擊，竊取iOS與Android裝置帳密及資料](https://www.ithome.com.tw/news/180250)
 
-資安公司Sekoia於11月4日揭露大規模水坑式攻擊活動Poisoned Source，攻擊���鎖定iOS與Android行動裝置使用者，透過入侵合法網站、架設偽冒網站，以及第三方服務供應鏈攻擊散布惡意JavaScript，再依據受害者的作業系統與瀏覽器版本，投遞不同的漏洞利用鏈。Sekoia研判，此次活動很有可能是俄羅斯駭客組織APT29所為。
+資安公司Sekoia於11月4日揭露大規模水坑式攻擊活動Poisoned Source，攻擊者鎖定iOS與Android行動裝置使用者，透過入侵合法網站、架設偽冒網站，以及第三方服務供應鏈攻擊散布惡意JavaScript，再依據受害者的作業系統與瀏覽器版本，投遞不同的漏洞利用鏈。Sekoia研判，此次活動很有可能是俄羅斯駭客組織APT29所為。
 
 - 📰 **iThome 科技**
 
@@ -125,7 +125,7 @@ Cisco於11月4日發布公告修補UCS Central管理平臺漏洞CVE-2026-76506�
 ### 20. [蘋果傳縮減員工AI費用額度，工程人員可能降到每天100美元](https://www.ithome.com.tw/news/180241)
 
 彭博報導由於AI支出高漲，蘋果近日在非工程人員之外，進一步縮減部分工程師員工每月的AI使用預算。
-報導引述消息來源指出，蘋果內部已將部��工程師的AI預算由每天300美元減為200美元，而且有些工程師的AI預算將減至每天100美元。但也有少部分員工還維持每天300美元的額度。
+報導引述消息來源指出，蘋果內部已將部分工程師的AI預算由每天300美元減為200美元，而且有些工程師的AI預算將減至每天100美元。但也有少部分員工還維持每天300美元的額度。
 
 - 📰 **iThome 科技**
 
@@ -137,7 +137,7 @@ Cisco於11月4日發布公告修補UCS Central管理平臺漏洞CVE-2026-76506�
 
 ### 22. [AI驅動攻擊與鎖定AI系統的攻擊來勢洶洶，近兩千位全球企業高層有超過一半坦承無法招架](https://www.ithome.com.tw/news/180232)
 
-AI的普及為企業帶來顛覆市場的機會，但接踵而至的內部管理挑戰同樣令人擔憂，四大會計師事務所之一的資誠（PwC）10月初發���的2027全球數位信任洞察報告，AI已成為企業安全的首要議題，84%受訪者預期資安相關預算將增加， 58%受訪者將AI列為主要投資項目；對於量子運算安全，近半數（49%）尚未開始準備；為了專門因應網路威脅，已完全正式制定
+AI的普及為企業帶來顛覆市場的機會，但接踵而至的內部管理挑戰同樣令人擔憂，四大會計師事務所之一的資誠（PwC）10月初發布的2027全球數位信任洞察報告，AI已成為企業安全的首要議題，84%受訪者預期資安相關預算將增加， 58%受訪者將AI列為主要投資項目；對於量子運算安全，近半數（49%）尚未開始準備；為了專門因應網路威脅，已完全正式制定
 
 - 📰 **iThome 科技**
 
@@ -150,7 +150,7 @@ AI的普及為企業帶來顛覆市場的機會，但接踵而至的內部管理
 ### 24. [Meta收購AI程式開發協作平臺新創公司Conductor](https://www.ithome.com.tw/news/180238)
 
 Meta近日收購了AI程式開發協作平臺Conductor，以強化其開發人員工具服務。
-Conductor成立於2025年，核心代表性產品為同���AI軟體工程協作平臺Conductor（conductor.構建）。它提供程式開發非同步AI代理人及沙箱式開發環境，當開發人員指派任務給它時，AI代理人會在不干擾主分支（Main Branch）或工程師日常編輯的情況下，在背景獨立進行程式碼編寫、測試與除錯。其長鏈執行能力可跨多個檔案修復問題、重構模組、或新增某項功能，並在完成後提交人類審查、提出修改意見或合併到專案中。
+Conductor成立於2025年，核心代表性產品為同名AI軟體工程協作平臺Conductor��conductor.構建）。它提供程式開發非同步AI代理人及沙箱式開發環境，當開發人員指派任務給它時，AI代理人會在不干擾主分支（Main Branch）或工程師日常編輯的情況下，在背景獨立進行程式碼編寫、測試與除錯。其長鏈執行能力可跨多個檔案修復問題、重構模組、或新增某項功能，並在完成後提交人類審查、提出修改意見或合併到專案中。
 
 - 📰 **iThome 科技**
 
@@ -194,24 +194,34 @@ API開發工具Postman遭使用者指出，桌面版會在未經明確同意的�
 
 ### 更多 AI 新聞 (70則)
 
-- Motorola Signature 27: Specs, Price, Features, Release Date (**Wired**)
+- 6 最佳 VPN Services (2026), Tested and Reviewed (**Wired**)
+- The 7 最佳 Early Black Friday TV Deals (2026) (**Wired**)
+- How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost (**Wired**)
+- Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not (**Wired**)
+- 13 最佳 Early Black Friday Deals at 最佳 Buy on Hot Tech (2026) (**Wired**)
+- The Blue Tsunami Swept Doctors and Scientists Into Office (**Wired**)
+- Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’ (**Wired**)
+- Area Man Feels Joy Online for First Time in Years (**Wired**)
+- Exclusive: Aina’s Smart Ring Wants to Be a 遠端 Control for Your AI 代理 (**Wired**)
+- Apple MacBook Pro OLED (2026) Review: The 最佳 Comes at a Cost (**Wired**)
 - Finding 新 Drugs Is Laborious. This AI Startup Is Skipping The Lab Work (**Wired**)
-- AI’s Next Trick? Speaking Dolphin (**Wired**)
+- Motorola Signature 27: Specs, Price, Features, Release Date (**Wired**)
 - 最佳 Wireless Chargers (2026): My Picks After Testing 100+ (**Wired**)
+- AI’s Next Trick? Speaking Dolphin (**Wired**)
 - He Trolls AI Labs for a Living. Now They All Want to Work With Him (**Wired**)
 - The ‘Ocarina of Time’ Remake Is Finally Here, but 為什麼 Does Link Look so Yassified? (**Wired**)
 - Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’ (**Wired**)
 - The 最佳 Smart Ring for Discreet Fitness Tracking in 2026 (**Wired**)
 - Israel Is Destroying the Machinery South Lebanon Needs to Rebuild (**Wired**)
 - A 新 UK Porn Ban Sparks Fears of Unprecedented Sex Censorship (**Wired**)
-- Ray-Ban Promo Codes: Save 50% in November 2026 (**Wired**)
-- Meta Quest Promo Codes and Coupons for November 2026 (**Wired**)
-- Nomad Goods Promo Codes: Get 25% Off in November 2026 (**Wired**)
+- Zoro Coupon Codes: 20% Off November 2026 (**Wired**)
 - B&amp;H Photo Promo Codes and Deals This November 2026 (**Wired**)
 - Booking.com Promo Codes: 20% Off | November 2026 (**Wired**)
 - Corsair Discount 代碼: Up to 50% Off for November 2026 (**Wired**)
 - Udemy Coupon Codes: 20% Off November 2026 (**Wired**)
-- Zoro Coupon Codes: 20% Off November 2026 (**Wired**)
+- Ray-Ban Promo Codes: Save 50% in November 2026 (**Wired**)
+- Meta Quest Promo Codes and Coupons for November 2026 (**Wired**)
+- Nomad Goods Promo Codes: Get 25% Off in November 2026 (**Wired**)
 - Herman Miller Promo Codes: 40% Off November 2026 (**Wired**)
 - HP Coupon Codes and Deals November 2026 (**Wired**)
 - Altra Running Promo Codes: 10% Off November 2026 (**Wired**)
@@ -234,16 +244,6 @@ API開發工具Postman遭使用者指出，桌面版會在未經明確同意的�
 - UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google (**Wired**)
 - ‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout (**Wired**)
 - I Tried Amazon’s 新 Kindles. Buy This Accessory Instead (2026) (**Wired**)
-- 最佳 Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More (**Wired**)
-- What’s the Difference Between an Ebike and an E-Moto? (**Wired**)
-- 新 Jersey’s 新 Ebike Law Is Causing Chaos (**Wired**)
-- Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know 為什麼 (**Wired**)
-- 50% Off DoorDash Promo 代碼 | November 2026 (**Wired**)
-- Motley Fool Promo 代碼: $200 Off on Stock Advisor November 2026 (**Wired**)
-- Columbia Promo Codes: 15% Off | November 2026 (**Wired**)
-- SteelSeries Coupon Codes: 15% Off in November 2026 (**Wired**)
-- Hoka Coupon Codes: 30% Off in November 2026 (**Wired**)
-- Hulu Promo Codes &amp; Discounts: 20% Off in November 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
