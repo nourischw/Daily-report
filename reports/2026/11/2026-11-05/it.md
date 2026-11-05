@@ -4,208 +4,204 @@
 
 ---
 
-### 1. [Residential proxies detected on White House 網絡](https://layer3intel.com/blog/residential-proxies-white-house-network)
+### 1. [Sshole](https://sshhole.com)
 
-- ⭐ 799 分｜💬 253 留言｜👤 Rasbora
+- ⭐ 387 分｜💬 84 留言｜👤 josemrb
 
-### 2. [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+### 2. [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2)
 
-- ⭐ 177 分｜💬 118 留言｜👤 davidbarker
+- ⭐ 38 分｜💬 3 留言｜👤 selckin
 
-### 3. [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
+### 3. [Baidu 發布 ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
 
-- ⭐ 149 分｜💬 87 留言｜👤 gmays
+- ⭐ 101 分｜💬 53 留言｜👤 pretext
 
-### 4. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+### 4. [Residential proxies detected on White House 網絡](https://layer3intel.com/blog/residential-proxies-white-house-network)
 
-- ⭐ 203 分｜💬 118 留言｜👤 dangelosaurus
+https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;11&#x2F;want-to-rent-an-internet...
 
-### 5. [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)
+- ⭐ 1162 分｜💬 376 留言｜👤 Rasbora
 
-- ⭐ 249 分｜💬 90 留言｜👤 Philpax
+### 5. [Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/)
 
-### 6. [Kimi K3.1 Pro 模型 weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
+- ⭐ 94 分｜💬 49 留言｜👤 erikgahner
 
-- ⭐ 423 分｜💬 125 留言｜👤 abrarthought
+### 6. [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
 
-### 7. [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
+- ⭐ 267 分｜💬 53 留言｜👤 MarkBlah
 
-- ⭐ 190 分｜💬 103 留言｜👤 speckx
+### 7. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
 
-### 8. [A 新 Go API for JSON](https://go.dev/blog/jsonv2)
+- ⭐ 416 分｜💬 295 留言｜👤 dangelosaurus
 
-- ⭐ 252 分｜💬 117 留言｜👤 olexsmir
+### 8. [Images 2.6](https://openai.com/index/introducing-images-2-6/)
 
-### 9. [Hacking the Xbox 360 Hypervisor Part 3: Bad 更新 Improvements](https://icode4.coffee/?p=1746)
+- ⭐ 339 分｜💬 201 留言｜👤 davidbarker
 
-- ⭐ 82 分｜💬 4 留言｜👤 muricula
+### 9. [Kimi K3.1 Pro 模型 weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
 
-### 10. [Conductor is joining Meta](https://www.conductor.build/announcement)
+- ⭐ 574 分｜💬 164 留言｜👤 abrarthought
 
-- ⭐ 142 分｜💬 163 留言｜👤 kenrose
+### 10. [Partial Operator Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
 
-### 11. [Qualcomm 雲端 AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
+- ⭐ 71 分｜💬 39 留言｜👤 tosh
 
-- ⭐ 118 分｜💬 48 留言｜👤 peter_d_sherman
+### 11. [Spreading Liquid with Three.js](https://mofu-dev.com/en/blog/fluid-foundation/)
 
-### 12. [Launch HN: Kino AI (YC S23) – AI media 經理 and video editor](https://news.ycombinator.com/item?id=50368804)
+- ⭐ 161 分｜💬 22 留言｜👤 mooreds
 
-Hi HN! I&#x27;m Luke from Kino (https:&#x2F;&#x2F;kino.AI). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links fo
+### 12. [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)
 
-- ⭐ 76 分｜💬 31 留言｜👤 lukeigel
+- ⭐ 312 分｜💬 111 留言｜👤 Philpax
 
-### 13. [Progress on provable 推論 for large language models](https://www.anthropic.com/research/provable-inference)
+### 13. [A 新 Go API for JSON](https://go.dev/blog/jsonv2)
 
-- ⭐ 191 分｜💬 87 留言｜👤 ltononro
+- ⭐ 350 分｜💬 177 留言｜👤 olexsmir
 
-### 14. [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+### 14. [OpenSSH 10.6p2 has been 發布 with a workaround for a critical vulnerability](https://hachyderm.io/@damienmiller/117563026759098135)
 
-- ⭐ 1118 分｜💬 654 留言｜👤 pseudolus
+- ⭐ 112 分｜💬 39 留言｜👤 Animux
 
-### 15. [Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander](https://fireflyk64.github.io/wcmulti/)
+### 15. [Being a kid making games in the early 2000s](https://jaytholen.net/teengamedev/)
 
-- ⭐ 128 分｜💬 15 留言｜👤 daniel_rh
+- ⭐ 62 分｜💬 17 留言｜👤 farmerbb
 
-### 16. [Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs](https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/)
+### 16. [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
 
-- ⭐ 57 分｜💬 49 留言｜👤 rdmuser
+- ⭐ 292 分｜💬 139 留言｜👤 speckx
 
-### 17. [Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
+### 17. [GPT-6 Astra covertly underperforms on safety research](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/)
 
-- ⭐ 275 分｜💬 199 留言｜👤 zenincognito
+- ⭐ 31 分｜💬 9 留言｜👤 lucrbvi
 
-### 18. [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)
+### 18. [Altera 宣布 Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
+
+- ⭐ 44 分｜💬 14 留言｜👤 gmays
+
+### 19. [TextEdit vs. Pages](https://leancrew.com/all-this/2026/10/textedit-vs-pages/)
+
+- ⭐ 38 分｜💬 15 留言｜👤 surprisetalk
+
+### 20. [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)
 
 I&#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a
 
-- ⭐ 184 分｜💬 199 留言｜👤 eggbrain
+- ⭐ 407 分｜💬 464 留言｜👤 eggbrain
 
-### 19. [OpenAI to acquire Pierre Computer Company](https://openai.com/index/openai-to-acquire-pierre/)
+### 21. [Conductor is joining Meta](https://www.conductor.build/announcement)
 
-https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;211799903617518818...
+- ⭐ 193 分｜💬 204 留言｜👤 kenrose
 
-- ⭐ 211 分｜💬 63 留言｜👤 itunpredictable
+### 22. [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 
-### 20. [Spreading Liquid with Three.js](https://mofu-dev.com/en/blog/fluid-foundation/)
+- ⭐ 1221 分｜💬 712 留言｜👤 pseudolus
 
-- ⭐ 3 分｜💬 0 留言｜👤 mooreds
+### 23. [Moment of Ruby: An Argument for Nothing](https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing)
 
-### 21. [Basically no one is using AI agents for their DoorDash orders](https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/)
+- ⭐ 49 分｜💬 11 留言｜👤 zemptime
 
-- ⭐ 91 分｜💬 172 留言｜👤 PaulHoule
+### 24. [A Clock Made of Branches](https://fzakaria.com/2026/11/01/a-clock-made-of-branches)
 
-### 22. [A wave of plastic-free coffee pods and machines](https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free)
+- ⭐ 3 分｜💬 0 留言｜👤 setheron
 
-- ⭐ 61 分｜💬 81 留言｜👤 thunderbong
+### 25. [TScert: A Sound Core for TypeScript](https://github.com/cristianoc/TScert)
 
-### 23. [Tencent Hy4](https://hy.tencent.ai/research/hy4)
+- ⭐ 12 分｜💬 1 留言｜👤 bpierre
 
-- ⭐ 206 分｜💬 70 留言｜👤 Philpax
+### 26. [Future Maintenance of Mbed TLS](https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/)
 
-### 24. [Show HN: The DNA of DOOM – How 代碼 structure survives across 44 ports](https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/)
+- ⭐ 58 分｜💬 16 留言｜👤 jonesjohnson
 
-I used my custom built structural extraction engine to analyze 44 DOOM ports across history to see what functions remain, if the keyword structure of those functions remained, if comparable call netwo
+### 27. [Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander](https://fireflyk64.github.io/wcmulti/)
 
-- ⭐ 32 分｜💬 17 留言｜👤 joe-esquibel
+- ⭐ 221 分｜💬 31 留言｜👤 daniel_rh
 
-### 25. [PageScribe: Handwriting and offline dictionary audio for KOReader](https://aspireai.kiranadimatyam.com/builds/pagescribe/)
+### 28. [Hacking the Xbox 360 Hypervisor Part 3: Bad 更新 Improvements](https://icode4.coffee/?p=1746)
 
-- ⭐ 16 分｜💬 1 留言｜👤 seshakiran
+- ⭐ 127 分｜💬 12 留言｜👤 muricula
 
-### 26. [Is Curiosity Good for Us?](https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us)
+### 29. [Progress on provable 推論 for large language models](https://www.anthropic.com/research/provable-inference)
 
-- ⭐ 27 分｜💬 13 留言｜👤 NaOH
+- ⭐ 232 分｜💬 118 留言｜👤 ltononro
 
-### 27. [AMD expects to outsell Intel in Q4 for the first time in history](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections)
+### 30. [Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
 
-- ⭐ 509 分｜💬 184 留言｜👤 rbanffy
-
-### 28. [11 Nanoseconds per Word: Over-Optimizing Anagrams](https://wiredream.com/anagram-fun/)
-
-- ⭐ 6 分｜💬 0 留言｜👤 ColinWright
-
-### 29. ['It's just vape, nail, charity shops': Can anything save UK high street?](https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham)
-
-- ⭐ 82 分｜💬 186 留言｜👤 theanonymousone
-
-### 30. [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)
-
-- ⭐ 260 分｜💬 129 留言｜👤 kevcampb
+- ⭐ 322 分｜💬 249 留言｜👤 zenincognito
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Ask HN: What cryptography book do you recommend for reading with 10 year olds?
-- Show HN: Gauge – Open-Source CLI to recursively improve your docs
+- Qualcomm 雲端 AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s
+- Launch HN: Kino AI (YC S23) – AI media 經理 and video editor
+- OpenAI to acquire Pierre Computer Company
+- Replacing homepage demo media with looping HTML and CSS
+- A wave of plastic-free coffee pods and machines
+- All 5 genetic letters of DNA and RNA discovered in 4.5B-year-old asteroid
+- Tencent Hy4
+- Discord is ditching Electron and its 新 app uses less RAM
+- Amazon tells engineers to stop 'tokenmaxxing' to look productive
+- 'It's just vape, nail, charity shops': Can anything save UK high street?
+- Basically no one is using AI agents for their DoorDash orders
+- Starfall – Affordable, routine access to microgravity
+- AMD expects to outsell Intel in Q4 for the first time in history
 - Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
-- North Korean fake 工作 interview led to $6.3B Binance heist
-- Hacking the T-行動 Sidekick, 20 Years Too Late
+- How Apple fits a 大型語言模型 on iPhone with surgical efficiency
 - NVIDIA RTX Spark encrypted firmware slows 推論 speed to 35% on Linux
+- 11 Nanoseconds per Word: Over-Optimizing Anagrams
+- Is Curiosity Good for Us?
+- OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel
 - YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
-- Have I befriended a murderer?
-- Show HN: I built a tool that prices a pre-built PC part by part
-- Evergreen: A Provably Safe Systems Language
-- From wild to mild: Friendly foxes show changes in brain region
-- Smiling can make you happier – unless someone forces you to do it
-- Flims and TV shows created using AI have now reached a high level of quality
-- American Voters Overwhelmingly Reject AI Data Centers
-- Kitty 0.50
-- 512GB Mac Studio
-- Death Comes for XSLT
+- North Korean fake 工作 interview led to $6.3B Binance heist
+- Show HN: The DNA of DOOM – How 代碼 structure survives across 44 ports
 - Don't Call It a Decision 模型
+- Ask HN: What cryptography book do you recommend for reading with 10 year olds?
+- Show HN: I built a tool that prices a pre-built PC part by part
+- Palantir CEO says it's pioneering an antiwar movement–while accepting defense $s
+- Chip Art
+- Hacking the T-行動 Sidekick, 20 Years Too Late
+- So my ISP was hijacking my DNS
+- Evergreen: A Provably Safe Systems Language
+- Show HN: Gauge – Open-Source CLI to recursively improve your docs
+- Multiple planes diverted as bomb threats to commercial flights reported
+- Have I befriended a murderer?
+- Kitty 0.50
+- Overlooked Linux Mv Option Replaces Three Commands with One
+- PageScribe: Handwriting and offline dictionary audio for KOReader
 - Verification Is Not Knowledge: Science needs more than answers
-- The SBND collaboration releases first neutrino results
-- Juju: Modern Codeforge
-- Bruno: The Git-native API client
-- Harmony: Chat like Discord. Federated like email
-- 為什麼 Isn't Retatrutide Approved Yet?
-- You'll need nerves of steel to work with AI agents
-- Distinct cellular and genetic differences in colorectal cancer in young patients
-- Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust
-- Jelly Sheet
-- The lost malloc()
-- Letting users trust their own MCP clients, without opening a phishing hole
-- RTX 5090 Street Prices 熱門 $9k as NVIDIA GPU Costs Climb
-- Show HN: Uncracked City, detective game where you question 大型語言模型 suspects that lie
-- Stringman, an $800 open-source room scale gripper robot
 - Jailbreaking my car's navigation 系統 just so I can change the time
-- Kernel.sh Hacked
-- Successful People (2013)
-- Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver
-- If you're on Replit Pro, you have until November 8 to opt out of arbitration
-- Postal Service Surveilled Protest Activities Online with Little Rules, Oversight
+- Stringman, an $800 open-source room scale gripper robot
+- Distinct cellular and genetic differences in colorectal cancer in young patients
+- Harmony: Chat like Discord. Federated like email
+- Jelly Sheet
+- RTX 5090 Street Prices 熱門 $9k as NVIDIA GPU Costs Climb
+- Incident with Pull Requests, Git Operations and Issues
+- Show HN: Uncracked City, detective game where you question 大型語言模型 suspects that lie
+- From wild to mild: Friendly foxes show changes in brain region
 - Ashby (YC W19) Is 招聘 EMs
-- Vi Turns 50: The True History of vi
-- Mocktastic: A Meshtastic Node on Arduino
+- Juju: Modern Codeforge
+- Simon Glass removed from U-Boot community
 - We're 訓練 a Figma-fluent editing 模型
-- NVIDIA store pulls RTX 5080 following RTX 5090 removal, prices rise to 2.2X MSRP
+- NASA's 22-year-old Swift satellite telescope falls from orbit
+- American Voters Overwhelmingly Reject AI Data Centers
 - There is no posttraining data commons
-- Debian apt 安全 更新 (man-in-the-middle)
-- Arrows to arrows, categories to queries (2025)
-- Safari 引進 Adaptive Dark Mode in 27.3
-- Adding Window Functions to a Spreadsheet
 - The 'Astra can read and write weights to improve Qwen' post is misleading
-- The Internals of PostgreSQL
+- Bruno: The Git-native API client
+- The lost malloc()
 - Fujifilm to boost tape production 5x as AI fuels archiving demand
-- Everything is an AI scam now
+- Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver
+- Safari 引進 Adaptive Dark Mode in 27.3
+- HackerTube: YouTube built from videos recommended by HN
+- Letting users trust their own MCP clients, without opening a phishing hole
+- Uranium cubes reveal 為什麼 the German nuclear project failed
 - Writing seen in PHerc. 306B, for the first time in 2000 years
 - Mac at any scale
+- Arrows to arrows, categories to queries (2025)
+- The Internals of PostgreSQL
+- Death Comes for XSLT
+- Vibrating mattress helps clear Alzheimer's protein from the brain
 - Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels
-- NetBSD 11.1
-- This Month in Ladybird – October 2026
-- Curiosity Traps
-- C++26 Disapproved
-- In Praise of Japan's Failure to Keep Up
-- I give to charity – but never to people on the street. Is that wrong?
 - Toit v2.0.0
-- Antimony: CAD 軟體 Evolved from Lisp Machines and Not Drafting Tables (2015)
-- The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
-- HackerTube: YouTube built from videos recommended by HN
-- AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x
-- 介紹 程式設計 in ATS
-- Resisting Cognitive Surrender
-- Giant canyon on Mars is still tectonically active
 
 
 ---
