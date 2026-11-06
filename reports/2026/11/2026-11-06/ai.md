@@ -4,7 +4,7 @@
 
 ---
 
-### 1. [Google Compute Engine API支援多版本並行，既有系統不必跟隨升級](https://www.ithome.com.tw/news/180294)
+### 1. [Google Compute Engine API支援多版本並行，既有系統不���跟隨升級](https://www.ithome.com.tw/news/180294)
 
 Google在Compute Engine API加入多版本管理機制，讓既有/v1 API與依日期命名的新版API並行運作。企業可指定使用特定版本，完成測試後再自行安排升級，不必隨著Google更新API而修改既有自動化程式。
 
@@ -13,7 +13,7 @@ Google在Compute Engine API加入多版本管理機制，讓既有/v1 API與依�
 ### 2. [憑證效期持續縮短，普鴻看好企業自動化管理需求逐漸浮現](https://www.ithome.com.tw/news/180293)
 
 隨著公開信任TLS憑證有效期持續縮短，臺灣企業的憑證自動化管理現況成為眾所關注的議題，正值相關廠商普鴻資訊10月底公布PQC產品布局，同步介紹今年推出的憑證生命週期管理產品ProCLM，該公司也透露目前企業憑證自動化管理的需求及實際導入情況。
-普鴻資訊董事長林群國表示，目前市面上已有不少憑證生命週期管理解決方案，而普鴻除了提供憑證自動化管理功能，也能結合自行研發的PQC6000後量子密碼學硬體加解密卡，強化金鑰保護能力，藉此與其他產品的定位形成區隔，而且該公司也觀察到相關市場需求逐漸浮現。
+普鴻資訊董事長林群國表示，目前市面上已有不少憑證生命週期管理解決方案，而普鴻除了提供憑證自動化管理功能，也能結合自行研發的PQC6000後量子密碼學硬體加解密卡，強化金鑰保護能力，藉此與其他產品的定位形成區隔，而且該公司也觀察到���關市場需求逐漸浮現。
 
 - 📰 **iThome 科技**
 
@@ -25,15 +25,15 @@ GitHub推出新版拉取請求（Pull Request，PR）總覽頁面（Overview）�
 
 ### 4. [普鴻積極布局PQC解決方案，發展五大密碼學治理能力，自研演算法實作通過CAVP驗證](https://www.ithome.com.tw/news/180292)
 
-過去在資安市場相對低調的普鴻資訊，長期深耕金融業硬體安全模組（HSM）及加解密系統，主要依據客戶需求提供資安產品與客製化解決方案。近一年多來，該公司逐漸調整發展策略，不僅將既有技術與功能整合為獨立產品，也開始更積極對外推廣，並將後量子密碼學（PQC）列為重要發展方向，同時積極擴展非金融業領域的客戶應用。
-普鴻10月底舉辦產品發表會，首度完整對外說明自家PQC產品布局，除了自主研發的後量子密碼學演算法與硬體安控設備，也進一步推出五項密碼學治理產品，涵蓋密碼學資產盤點、憑證與金鑰管理，以及加密敏捷等領域，協助企業因應PQC遷移需求。不僅如此，該公司近兩年也積極拓展非金融業市場，目前已逐步展現成效。
+過去在資安市場相對低調的普鴻資訊，長期深耕金融業硬體安全模組（HSM）及加解密系統，主要依據客戶需求提供資安產品與客製化解���方案。近一年多來，該公司逐漸調整發展策略，不僅將既有技術與功能整合為獨立產品，也開始更積極對外推廣，並將後量子密碼學（PQC）列為重要發展方向，同時積極擴展非金融業領域的客戶應用。
+普鴻10月底舉辦產品發表會，首度完整對外說明自家PQC產品布局，除了自主研發的後量子密碼學演算法與硬體安控設備，也進一步推出五項密碼學治理產品，涵蓋密碼學資產盤點、憑證與金鑰管理，以及加密敏捷等領域，協助企業因應PQC遷移需求。不僅如此，該公司近兩年也積極拓展非金融業市場，目前已逐步展現成
 
 - 📰 **iThome 科技**
 
-### 5. [【資安週報】1102～1106，電商服務供應鏈資安風波延燒、永豐銀行異常轉帳確認為資安事件](https://www.ithome.com.tw/news/180291)
+### 5. [【資安週報】1102～1106，電商服務供應鏈資安風波多家同時延燒、永豐銀行異常轉帳確認為資安事件](https://www.ithome.com.tw/news/180291)
 
-連續數週以來，日本企業資料外洩事件接連曝光，臺灣電商服務供應鏈也持續傳出資安警訊。繼91APP遭駭波及上千家品牌後，1shop、Cyberbiz、meepShop及電商ERP業者莫筆克科技也接連傳出資安事件或疑慮，連帶使得眾多採用相關服務的品牌商陸續發布資安公告，���分顧客訂單及個資可能受到影響。
-金融資安事故同樣備受關注。臺灣永豐銀行客戶異常轉帳事件，銀行後續說明是駭客利用新網銀交易系統供應商的安全設定漏洞所導致，但相關細節並未揭露，仍待進一步釐清；國際間，法國銀行也傳出鉅額資金遭駭轉走，加密貨幣交易平臺Binance則揭露，駭客透過假面試及遭變造的軟體安裝程式入侵工程師電腦，進而滲透錢包
+連續數週以來，日本企業資料外洩事件接連曝光，臺灣電商服務供應鏈也持續傳出資安警訊。繼91APP遭駭波及上千家品牌後，1shop、Cyberbiz、meepShop及電商ERP業者莫筆克科技也接連傳出資安事件或疑慮，連��使得眾多採用相關服務的品牌商陸續發布資安公告，部分顧客訂單及個資可能受到影響。
+金融資安事故同樣備受關注。臺灣永豐銀行客戶異常轉帳事件，銀行後續說明是駭客利用新網銀交易系統供應商的安全設定漏洞所導致，但相關細節並未揭露，仍待進一步釐清；國際間，法國銀行也傳出鉅額資金遭駭轉走，加密貨幣交易平臺Binance則揭露，駭客透過假面試及遭變造的軟體安裝程式入侵工程師電腦，進而滲透錢包簽
 
 - 📰 **iThome 科技**
 
@@ -70,7 +70,7 @@ OpenAI周四（11/5）發表GPT-6 Cyber，此一專為資安研究開發的AI模
 
 - 📰 **iThome 科技**
 
-### 11. [NTT Docomo線上服務遭駭，可能洩露30���筆用戶個資](https://www.ithome.com.tw/news/180283)
+### 11. [NTT Docomo線上服務遭駭，可能洩露30萬筆用戶個資](https://www.ithome.com.tw/news/180283)
 
 日本行動電信NTT Docomo本週公告網站及My docomo服務遭到駭客攻擊，可能有多達30萬筆用戶個資外洩，包括電話號碼等資料。
 NTT Docomo在11月4日確認Docomo線上商店及My docomo服務遭到第三方人士未經授權存取。為防止損害擴大及進行調查，Docomo在11月5日凌晨1時5分左右暫停Docomo線上商店及My docomo的各項手續。這些服務可供用戶查詢合約內容、辦理合約異動及購買手機等產品。
@@ -91,7 +91,7 @@ OpenSSH開發團隊於11月5日發布緊急更新10.6p2，受到資安界高度�
 
 ### 14. [遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清](https://www.ithome.com.tw/news/180274)
 
-11月5日興櫃公司遠東生技（6886）在股市公開資訊觀測站發布重大訊息，電子商城平臺委外服務廠商順立智慧（Cyberbiz）發生資安事件，資料庫部分資料遭未經授權的異常存取，其中包含遠東生技電子商城的訂單及個人資料，此次事件對公司財務及業務尚無重大影響，但目前尚無法確認相關資料是否受到影響，以
+11月5日興櫃公司遠東生技（6886）在股市公開資訊觀測站發布重大訊息，電子商城平臺委外服務廠商順立智慧（Cyberbiz）發生資安事件，資料庫部分資料遭未經授權的異常存取，其中包含遠東生技電子商城的訂單及個人資料，此次事件對公司財務及業務尚無重大影響，但目前尚無法確認相關資料是否受��影響，以
 
 - 📰 **iThome 科技**
 
@@ -133,7 +133,7 @@ Anthropic本周公告，將文字浮水印推向更早期推出的Claude模型�
 
 ### 21. [Chainalysis遭駭波及使用者密碼與權杖，暫停加密貨幣交易監控服務](https://www.ithome.com.tw/news/180206)
 
-區塊鏈分析業者Chainalysis遭駭客入侵，攻擊者存取該公司的內部系統及工具。Chainalysis確認，攻擊��曾存取平臺使用者的密碼雜湊值及有效權杖，部分客戶的密碼也在攻擊中外洩。該公司也因偵測到異常活動，暫停加密貨幣交易監控產品KYT等多項服務。
+區塊鏈分析業者Chainalysis遭駭客入侵，攻擊��存取該公司的內部系統及工具。Chainalysis確認，攻擊者曾存取平臺使用者的密碼雜湊值及有效權杖，部分客戶的密碼也在攻擊中外洩。該公司也因偵測到異常活動，暫停加密貨幣交易監控產品KYT等多項服務。
 
 - 📰 **iThome 科技**
 
@@ -143,7 +143,7 @@ Anthropic本周公告，將文字浮水印推向更早期推出的Claude模型�
 
 - 📰 **iThome 科技**
 
-### 23. [OpenAI揭露AI助理個人化瓶頸，模型仍難善用過往對話](https://www.ithome.com.tw/news/180267)
+### 23. [OpenAI揭露AI助���個人化瓶頸，模型仍難善用過往對話](https://www.ithome.com.tw/news/180267)
 
 OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助理能存取使用者過往的ChatGPT對話，仍可能漏掉完成任務所需的個人資訊。在被判定需要從歷史對話取得資訊的評分條件中，平均達標率僅33.33%，反映出運用過往對話的能力仍有不足。
 
@@ -152,7 +152,7 @@ OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助�
 ### 24. [公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護效率](https://www.ithome.com.tw/news/180263)
 
 臺灣山區地形陡峭、地質破碎，加上颱風、地震頻繁，許多公路與橋梁沿著山區興建，邊坡、橋梁梁底及橋墩等設施長期面臨巡檢不易的挑戰。交通部公路局副局長周廷彰表示，過去巡檢多仰賴人工步行、攀爬或橋梁檢測車，不僅耗時，也伴隨一定作業風險。公路局近年逐步導入無人機，利用高空影像快速掌握橋梁、邊坡等人員不易到達的位置，減少工程人員進入危險區域的需求。
-不過，公路局的目標已不只是利用無人機空拍，而是進一步將巡檢數位化、智慧化。周廷彰指出，目前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生後協助快速掌握現場，三是建立鐵公路共同巡檢機制。
+不過，公路局的目���已不只是利用無人機空拍，而是進一步將巡檢數位化、智慧化。周廷彰指出，目前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生後協助快速掌握現場，三是建立鐵公路共同巡檢機制。
 
 - 📰 **iThome 科技**
 
@@ -189,7 +189,7 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 
 - 📰 **iThome 科技**
 
-### 30. [法國銀行Crédit Mutuel Arkéa遭網攻，傳逾1.18億歐元遭攻��者轉走](https://www.ithome.com.tw/news/180255)
+### 30. [���國銀行Crédit Mutuel Arkéa遭網攻，傳逾1.18億歐元遭攻擊者轉走](https://www.ithome.com.tw/news/180255)
 
 法國合作銀行集團Crédit Mutuel Arkéa於11月4日證實遭遇網路攻擊，攻擊者透過一家外部服務商的平臺取得銀行系統存取管道，並利用該銀行行方的帳戶向其他金融機構進行未授權轉帳。
 
@@ -199,6 +199,12 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 
 ### 更多 AI 新聞 (70則)
 
+- How Stephen Miller Schemed His Way to the 熱門 (**Wired**)
+- Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026 (**Wired**)
+- Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites (**Wired**)
+- Free Chinese AI Models Are Getting Scary Good at Hacking (**Wired**)
+- AI Companies Really, Really Want to Buy Your Work Files and Emails (**Wired**)
+- RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd (**Wired**)
 - The 最佳 Automatic Litter Box of 2026: Petkit and Litter-Robot (**Wired**)
 - Horny Grandmas Are Having a Moment (**Wired**)
 - Kitchen Composters I Recommend After 2 Years of Testing (2026) (**Wired**)
@@ -217,22 +223,22 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 - Apple MacBook Pro OLED (2026) Review: The 最佳 Comes at a Cost (**Wired**)
 - Finding 新 Drugs Is Laborious. This AI Startup Is Skipping The Lab Work (**Wired**)
 - Motorola Signature 27: Specs, Price, Features, Release Date (**Wired**)
-- AI’s Next Trick? Speaking Dolphin (**Wired**)
 - 最佳 Wireless Chargers (2026): My Picks After Testing 100+ (**Wired**)
+- AI’s Next Trick? Speaking Dolphin (**Wired**)
 - He Trolls AI Labs for a Living. Now They All Want to Work With Him (**Wired**)
 - The ‘Ocarina of Time’ Remake Is Finally Here, but 為什麼 Does Link Look so Yassified? (**Wired**)
 - Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’ (**Wired**)
 - The 最佳 Smart Ring for Discreet Fitness Tracking in 2026 (**Wired**)
 - Israel Is Destroying the Machinery South Lebanon Needs to Rebuild (**Wired**)
 - A 新 UK Porn Ban Sparks Fears of Unprecedented Sex Censorship (**Wired**)
-- Ray-Ban Promo Codes: Save 50% in November 2026 (**Wired**)
-- Meta Quest Promo Codes and Coupons for November 2026 (**Wired**)
-- Nomad Goods Promo Codes: Get 25% Off in November 2026 (**Wired**)
+- Zoro Coupon Codes: 20% Off November 2026 (**Wired**)
 - B&amp;H Photo Promo Codes and Deals This November 2026 (**Wired**)
 - Booking.com Promo Codes: 20% Off | November 2026 (**Wired**)
 - Corsair Discount 代碼: Up to 50% Off for November 2026 (**Wired**)
 - Udemy Coupon Codes: 20% Off November 2026 (**Wired**)
-- Zoro Coupon Codes: 20% Off November 2026 (**Wired**)
+- Ray-Ban Promo Codes: Save 50% in November 2026 (**Wired**)
+- Meta Quest Promo Codes and Coupons for November 2026 (**Wired**)
+- Nomad Goods Promo Codes: Get 25% Off in November 2026 (**Wired**)
 - Herman Miller Promo Codes: 40% Off November 2026 (**Wired**)
 - HP Coupon Codes and Deals November 2026 (**Wired**)
 - Altra Running Promo Codes: 10% Off November 2026 (**Wired**)
@@ -243,12 +249,6 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 - ‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover (**Wired**)
 - Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out (**Wired**)
 - Knives Are Out in the White House (**Wired**)
-- Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’ (**Wired**)
-- Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350 (**Wired**)
-- The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court (**Wired**)
-- Small Phones Have Vanished. Enough Phone Wants to Bring Them Back (**Wired**)
-- The Results Are In: Voters Hate Data Centers (**Wired**)
-- ‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
