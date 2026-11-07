@@ -4,200 +4,206 @@
 
 ---
 
-### 1. [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+### 1. [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
 
-- ⭐ 133 分｜💬 48 留言｜👤 infwhispers
+https:&#x2F;&#x2F;archive.is&#x2F;AaY5Ohttps:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;Microsoft...
 
-### 2. [Upload Your RAM](https://uploadyourram.org)
+- ⭐ 228 分｜💬 126 留言｜👤 srean
 
-- ⭐ 95 分｜💬 59 留言｜👤 susanthenerd
+### 2. [Claude 代碼's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
 
-### 3. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+- ⭐ 28 分｜💬 9 留言｜👤 shmulc
 
-- ⭐ 717 分｜💬 116 留言｜👤 mfiguiere
+### 3. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
 
-### 4. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
+- ⭐ 156 分｜💬 33 留言｜👤 LaurensBER
 
-- ⭐ 63 分｜💬 11 留言｜👤 fluxusars
+### 4. [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
 
-### 5. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+- ⭐ 203 分｜💬 128 留言｜👤 user_7832
 
-- ⭐ 503 分｜💬 119 留言｜👤 theanomaly
+### 5. [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
 
-### 6. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
+I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would
 
-- ⭐ 1037 分｜💬 1887 留言｜👤 PLenz
+- ⭐ 130 分｜💬 31 留言｜👤 hedgerow-dev
 
-### 7. [The Components of 代理 Memory](https://www.anthropic.com/research/components-of-agent-memory)
+### 6. [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)
 
-- ⭐ 66 分｜💬 32 留言｜👤 geoffbp
+- ⭐ 115 分｜💬 30 留言｜👤 antiuniverse
 
-### 8. [Port 0: The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/)
+### 7. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
 
-- ⭐ 11 分｜💬 4 留言｜👤 NewCzech
+- ⭐ 673 分｜💬 195 留言｜👤 fluxusars
 
-### 9. [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
+### 8. [Five memorable books about 程式設計 (2008)](https://prog21.dadgum.com/19.html)
 
-- ⭐ 136 分｜💬 71 留言｜👤 raybb
+- ⭐ 51 分｜💬 24 留言｜👤 andsoitis
 
-### 10. [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
+### 9. [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 
-- ⭐ 121 分｜💬 88 留言｜👤 benbreen
+- ⭐ 174 分｜💬 78 留言｜👤 zenincognito
 
-### 11. [Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE](https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/)
+### 10. [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
 
-- ⭐ 125 分｜💬 11 留言｜👤 derbOac
+- ⭐ 502 分｜💬 297 留言｜👤 infwhispers
 
-### 12. [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
+### 11. [How long can life wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
 
-- ⭐ 349 分｜💬 284 留言｜👤 ChrisArchitect
+- ⭐ 92 分｜💬 51 留言｜👤 Ariarule
 
-### 13. [ToothPaste](https://brisk4t.github.io/blog/toothpaste/)
+### 12. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 
-- ⭐ 6 分｜💬 1 留言｜👤 speckx
+- ⭐ 982 分｜💬 172 留言｜👤 mfiguiere
 
-### 14. [PostgreSQL Internals [pdf]](https://edu.postgrespro.com/postgresql_internals-14_en.pdf)
+### 13. [Every processor die anyone has photographed and given away](https://sheets.works/data-viz/cpu-dies)
 
-- ⭐ 34 分｜💬 4 留言｜👤 Foe
+- ⭐ 50 分｜💬 12 留言｜👤 user_7832
 
-### 15. [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
+### 14. [GeoWorks, Microsoft Windows' Upstart '90s Competitor](https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor)
 
-- ⭐ 248 分｜💬 109 留言｜👤 SerCe
+- ⭐ 20 分｜💬 3 留言｜👤 andsoitis
 
-### 16. [Enterprise Brain – Memory that learns from work](https://www.ampup.ai/companybrain)
+### 15. [Every Windows 11 app should kill Electron, and Discord just showed 為什麼](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/)
 
-- ⭐ 16 分｜💬 0 留言｜👤 irodov_rg
+- ⭐ 131 分｜💬 150 留言｜👤 thunderbong
 
-### 17. [The Flash C Compiler](https://blog.adafruit.com/2026/10/31/flash-c-compiler/)
+### 16. [Terry Pratchett's Study](https://www.sussi.dk/terry-pratchetts-study)
 
-- ⭐ 60 分｜💬 15 留言｜👤 AlexeyBrin
+- ⭐ 48 分｜💬 12 留言｜👤 ColinWright
 
-### 18. [Notes on San Marino](https://mattlakeman.org/2026/11/05/notes-on-san-marino/)
+### 17. [The typo generation is damaging literature](https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature)
 
-- ⭐ 80 分｜💬 27 留言｜👤 yorwba
+- ⭐ 41 分｜💬 54 留言｜👤 bryanrasmussen
 
-### 19. [The great butter and cheese fire of 1991](https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/)
+### 18. [Show HN: Where Were We](https://wherewerewe.app/)
 
-- ⭐ 36 分｜💬 13 留言｜👤 subroutine
+A little 網頁 game I made as an anniversary present for my wife.Upload vacation photos and make them into a game.WWW uses EXIF to determine where and when the photo was taken. This is then turned into 
 
-### 20. [8088 Domination Post-Mortem](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/)
+- ⭐ 5 分｜💬 1 留言｜👤 zkiihne
 
-- ⭐ 23 分｜💬 5 留言｜👤 cosmojg
+### 19. [Running a law firm on Free 軟體](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
 
-### 21. [First steps in bare-metal 程式設計 using UEFI](https://kevinboone.me/efitest_index.html)
+- ⭐ 206 分｜💬 90 留言｜👤 DeepLogin
 
-- ⭐ 227 分｜💬 42 留言｜👤 LaSombra
+### 20. [Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes](https://unfix.dev/)
 
-### 22. [GitHub's 新 Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)
+- ⭐ 9 分｜💬 0 留言｜👤 u-pump
 
-- ⭐ 157 分｜💬 34 留言｜👤 DAlperin
+### 21. [Text.js: 構建 full-stack React apps that render inside console.log](https://textjs.org/)
 
-### 23. [Can GROUP BY still be optimized after all these years?](https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/)
+- ⭐ 67 分｜💬 39 留言｜👤 nateb2022
 
-- ⭐ 93 分｜💬 15 留言｜👤 ntur1337
+### 22. [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
 
-### 24. [Every Windows 11 app should kill Electron, and Discord just showed 為什麼](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/)
+- ⭐ 269 分｜💬 223 留言｜👤 ackyshake
 
-- ⭐ 9 分｜💬 0 留言｜👤 thunderbong
+### 23. [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 
-### 25. [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+- ⭐ 157 分｜💬 87 留言｜👤 andsoitis
 
-- ⭐ 343 分｜💬 233 留言｜👤 thisisauserid
+### 24. [Show HN: We compressed a 31B video+audio diffusion 模型 to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)
 
-### 26. [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
+- ⭐ 41 分｜💬 11 留言｜👤 jiant
 
-- ⭐ 201 分｜💬 164 留言｜👤 ackyshake
+### 25. [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
 
-### 27. [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+- ⭐ 183 分｜💬 172 留言｜👤 benbreen
 
-- ⭐ 324 分｜💬 280 留言｜👤 yurivish
+### 26. [Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming](https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/)
 
-### 28. [Devvm.dev: One VM for every project](https://devvm.dev/)
+- ⭐ 34 分｜💬 14 留言｜👤 Bender
 
-- ⭐ 161 分｜💬 62 留言｜👤 luispa
+### 27. [We know 15k websites are infected. how do we tell them?](https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/)
 
-### 29. [Restaurant Delivery Payment-Skimming Campaign](https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming)
+- ⭐ 171 分｜💬 142 留言｜👤 speckx
 
-- ⭐ 129 分｜💬 65 留言｜👤 fiej
+### 28. [What do the next 4000 emoji look like?](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look)
 
-### 30. [Google has acquired Crusoe's data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)
+- ⭐ 78 分｜💬 75 留言｜👤 lacieargyle
 
-- ⭐ 80 分｜💬 26 留言｜👤 rexbee
+### 29. [The Components of 代理 Memory](https://www.anthropic.com/research/components-of-agent-memory)
+
+- ⭐ 139 分｜💬 71 留言｜👤 geoffbp
+
+### 30. [The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)](https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf)
+
+- ⭐ 43 分｜💬 27 留言｜👤 tylerdane
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Chomsky and the two cultures of statistical learning (2011)
-- Show HN: Waymark – A workflow engine that compiles jobs instead of replaying
-- sshole
-- Claude 代碼 sends your email address to websites
-- Show HN: Tmux-restore saves tmux windows and 代理 sessions across reboots
-- Bug Finding Considered Harmful?
-- Panthera: Ampere's CPU Performance 模型
-- Ozempic-style drugs now in trials for heart failure, addiction and even aging
+- British Library Legal deposit and 網頁 archiving
+- A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+- Optimising the Rail Cube
+- Tasfer: a text editor drawn on a 2D canvas
+- Ask HN: How did you convince family and friends to join your XMPP/Matrix 伺服器?
+- ToothPaste
+- Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE
+- US FAA says it will phase out floppy disks from air traffic control by 2028
+- Building the NBC News Big Board
+- Hackers pull off $133M French bank heist via service provider
+- Show HN: Spindle – a full-featured, type-safe 網頁 framework for OCaml 5
+- ZeBridge – PostgreSQL replicas on devices, synchronized over NATS
+- Upgrading NetBSD from 11.0 to 11.1
+- Major construction ongoing near Iran missile bases, satellite images suggest
+- 8088 Domination Post-Mortem
+- Firecracker VM Escape: PwnEscape Part 2
+- Notes on San Marino
+- PostgreSQL Internals [pdf] (2023)
+- The great butter and cheese fire of 1991
+- The Flash C Compiler
+- GitHub's 新 Git storage architecture
 - UpCodes (YC S17) is 招聘 SDR's to sell AI compliance 軟體
-- Kugelblitz – Mac-Native Google Earth Alternative
-- Anthropic IPO buyers see valuation as low as $1.1T
-- How octopuses squeeze through too small gaps
-- Sodium-ion batteries approach cost parity with LFP
-- Memorilla: Latent Semantic Memory for LLMs
-- Blender's UI and Runtime: Much Faster Than GPUI
-- Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)
-- I toured Unitree's factory. I'm more bullish on the West
-- Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
-- We've built an open-source feature flag 伺服器 for 11 years
-- Replit rebuilt its sandbox engine with microVMs
-- Size-It-Up (Game)
-- Bong: DuckDuckGo bang alternative, open-source and self-hosted
-- Pwn.college
-- The Ubuntu 26.04 Rust sudo is not compatible with standard sudo
-- Deus Ex
-- Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and 網頁
-- Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)
-- 40C3 halfnarp – Submit talk preferences to aid scheduling
-- PyLings: Solve Exercises and Learn Python
-- I struggle to believe that AI R&D is ingenious
-- Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)
-- AI for scientific discovery: How researchers use Claude
-- 17776 (2017)
-- MTG-I2 First Images
-- Lighting the Skies
-- MS Paint 遠端 代碼 Execution Vulnerability
-- How tall can you 構建 with 54 Jenga blocks?
-- We know 15k websites are infected. how do we tell them?
-- Project Sync: The journey to sample-perfect audio/video sync with WebCodecs
-- Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3
-- Britain to make salary disclosure in 工作 ads mandatory
-- Reading the Anthropic S-1, with Zvi Mowshowitz
-- NVIDIA Kubernetes Engine (NVKE)
-- ChatGPT silently passes data between connectors and the bounty wants an ID card
-- From Linux to Wikipedia: How Volunteers 構建 the Internet
-- Scriptable GeoDNS: Leaving AWS for Bunny
-- Implementing GPT-2 in CSS
-- Ask HN: What in the world is taking Ubuntu so long?
-- Obscure audio codec is a perfect fit for the N64
-- My first and last telegram was from Rebecca West
-- MCP Explained
-- So my ISP was hijacking my DNS
-- As the Japanese countryside empties out, wildlife is disappearing
-- Northstar: A 新 Booster Engine with More Thrust and Less Mass
-- Pangram Image 1.0
-- Multiplayer tanks that demolish real buildings from OpenStreetMap
-- Swipeblocked: The phrases your iPhone won't suggest
-- Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue
-- Only 16% of U.S. fast-charging stations meet federal NEVI standards (open data)
-- 88x31 GIF Stickers for 2026
-- Flawless UI-UX Skill 1.0.0
-- Hardcoded credentials and other issues in Tata Motors App
+- You are protesting the wrong technology, people
+- First steps in bare-metal 程式設計 using UEFI
+- Datastructures-JS – The JavaScript data structures project
+- RealPage rent-pricing case wraps with nearly $360M to renters
+- Air holes turn silicon wafers into flat UV focusing mirrors for compact optics
+- Tesla to wind down Cybertruck production
+- Gemini Omni 1.2 Flash
+- The planet Vulcan: a cautionary tale
 - The AI sell-off compared to well-known stock market crashes
-- AI is forcing us to pay off 40 years of technical debt
-- Baidu 發布 ERNIE 5.5 Flash Base
-- Half of Show HN posts are a bare link. Ones with 500 characters got 2x replies
-- UV-5RM-Radio-Mod
-- Window Sweaters
-- Microsoft is winding down Oracle deal to rent AI 雲端 capacity
-- Perplexity 推出 AI agents for work
+- sshole
+- Can GROUP BY still be optimized after all these years?
+- Devvm.dev: One VM for every project
+- Chomsky and the two cultures of statistical learning (2011)
+- Claude 代碼 sends your email address to websites
+- Restaurant Delivery Payment-Skimming Campaign
+- Kugelblitz – Mac-Native Google Earth Alternative
+- Microsoft requiring DMARC now or just us?
+- Blender's UI and Runtime: Much Faster Than GPUI
+- Fox Bought Roku
+- Show HN: Waymark – A workflow engine that compiles jobs instead of replaying
+- Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)
+- Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
+- America's economy is becoming zero-sum
+- Pwn.college
+- Outbound SIP calling is now available to all organizations
+- Richard Lloyd, Torrential Guitarist of Television, Has Died
+- We've built an open-source feature flag 伺服器 for 11 years
+- How octopuses squeeze through too small gaps
+- Memorilla: Latent Semantic Memory for LLMs
+- Show HN: Logo Deal – Logos anyone can edit with text
+- AI is dramatically accelerating AI research
+- Anthropic IPO buyers see valuation as low as $1.1T
+- Size-It-Up (Game)
+- Replit rebuilt its sandbox engine with microVMs
+- Show HN: Tmux-restore saves tmux windows and 代理 sessions across reboots
+- I toured Unitree's factory. I'm more bullish on the West
+- I struggle to believe that AI R&D is ingenious
+- Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says
+- Deus Ex
+- Microsoft open-sources DACS: stalled data loads fell from 14% to 0.1%
+- Sodium-ion batteries approach cost parity with LFP
+- Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and 網頁
+- MS Paint 遠端 代碼 Execution Vulnerability
+- Bong: DuckDuckGo bang alternative, open-source and self-hosted
+- Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)
+- Panthera: Ampere's CPU Performance 模型
+- AI for scientific discovery: How researchers use Claude
+- Google has acquired Crusoe's data center site in southeast Wyoming
 
 
 ---
