@@ -13,7 +13,7 @@ Google在Compute Engine API加入多版本管理機制，讓既有/v1 API與依�
 ### 2. [憑證效期持續縮短，普鴻看好企業自動化管理需求逐漸浮現](https://www.ithome.com.tw/news/180293)
 
 隨著公開信任TLS憑證有效期持續縮短，臺灣企業的憑證自動化管理現況成為眾所關注的議題，正值相關廠商普鴻資訊10月底公布PQC產品布局，同步介紹今年推出的憑證生命週期管理產品ProCLM，該公司也透露目前企業憑證自動化管理的需求及實際導入情況。
-普鴻資訊董事長林群國表示，目前市面上已有不少憑證生命週期管理解決方案，而普鴻除了提供憑證自動化管理功能，也能結合自行研發的PQC6000後量子密碼學硬體加解密卡，強化金鑰保護能力，藉此與其他產品的定位形成區隔，而且該公司也觀察到相關市場需求逐漸浮現。
+普鴻資訊董事長林群國表示，目前市面上已有不少憑證生命週期管理解決方案，而普鴻除了提供憑證自動化管理功能，也能結合自行研發的PQC6000後量子密碼學硬體加解密卡，強化金鑰保護能力，藉此與其他產品的定位形成區隔，而且該公司也觀察到相關市場需求逐漸浮現��
 
 - 📰 **iThome 科技**
 
@@ -25,15 +25,15 @@ GitHub推出新版拉取請求（Pull Request，PR）總覽頁面（Overview）�
 
 ### 4. [普鴻積極布局PQC解決方案，發展五大密碼學治理能力，自研演算法實作通過CAVP驗證](https://www.ithome.com.tw/news/180292)
 
-過去在資安市場相對低調的普鴻資訊，長期深耕金融業硬體安全模組（HSM）及加解密系統，主要依據客戶需求提供資安產品與客製化解決方案。近一年多來，該公司逐漸調整發展策略，不僅將既有技術與功能整合為獨立產品，也開始更積極對外推廣，並將後量子密碼學（PQC）列為重要發展方向，同時積極擴展非金融業領域的客戶應用。
-普鴻10月底舉辦產品發表會，首度完整對外說明自家PQC產品布局，除了自主研發的後量子密碼學演算法與硬體安控設備，也進一步推出五項密碼學治理產品，涵蓋密碼學資產盤點、憑證與金鑰管理，以及加密敏捷等領域，協助企業因應PQC遷移需求。不僅如此，該公司近兩年也積極拓展非金融業市場，目前已逐步展現成效。
+過去在資安市場相對低調的普鴻資訊，長期深耕金融業硬體安全模組（HSM）及加解密系統，主要依據客戶需求提供資安產品與客製化解決方案。近一年多來，��公司逐漸調整發展策略，不僅將既有技術與功能整合為獨立產品，也開始更積極對外推廣，並將後量子密碼學（PQC）列為重要發展方向，同時積極擴展非金融業領域的客戶應用。
+普鴻10月底舉辦產品發表會，首度完整對外說明自家PQC產品布局，除了自主研發的後量子密碼學演算法與硬體安控設備，也進一步推出五項密碼學治理產品，涵蓋密碼學資產盤點、憑證與金鑰管理，以及加密敏捷等領域，協助企業因應PQC遷移需求。不僅如此，該公司近兩年也積極拓展非金融業市場，目前已逐步展現成效
 
 - 📰 **iThome 科技**
 
 ### 5. [【資安週報】1102～1106，電商服務供應鏈資安風波多家同時延燒、永豐銀行異常轉帳確認為資安事件](https://www.ithome.com.tw/news/180291)
 
-連續數週以來，日本企業資料外洩事件接連曝光，臺灣電商服務供應鏈也持續傳出資安警訊。繼91APP遭駭波及上千家品牌後，1shop、Cyberbiz、meepShop及電商ERP業者莫筆克科技也接連傳出資安事件或疑慮，連帶使得眾多採用相關服務的品牌商陸續發布資���公告，部分顧客訂單及個資可能受到影響。
-金融資安事故同樣備受關注。臺灣永豐銀行客戶異常轉帳事件，銀行後續說明是駭客利用新網銀交易系統供應商的安全設定漏洞所導致，但相關細節並未揭露，仍待進一步釐清；國際間，法國銀行也傳出鉅額資金遭駭轉走，加密貨幣交易平臺Binance則揭露，駭客透過假面試及遭變造的軟體安裝程式入侵工程師電腦，進而滲透錢包
+連續數週以來，日本企業資料外洩事件接連曝光，臺灣電商服務供應鏈也持續傳出資安警訊。繼91APP遭駭波及上千家品牌後，1shop、Cyberbiz、meepShop及電商ERP業者莫筆克科技也接連傳出資安事件或疑慮，連帶使得眾多採用相關服務的品牌商陸續發布資安公告，部分顧客訂單及個資可能受到影響。
+金融資安事故同樣備受關注。臺灣永豐銀行客戶異常轉帳事件，銀行後續說明是駭客利用新網銀交易系統供應商的安全設定漏洞所導致，但相關細節並未揭露，仍待進一步釐清；國際間，法國銀行也傳出鉅額資金遭駭轉走，加密貨幣交易平臺Binance則揭露，駭客透過假面試及遭變造的軟體安裝程式入侵工程師電腦，進而滲透錢包簽章
 
 - 📰 **iThome 科技**
 
@@ -46,7 +46,7 @@ GitHub推出新版拉取請求（Pull Request，PR）總覽頁面（Overview）�
 
 - 📰 **iThome 科技**
 
-### 7. [SonicWall GMS爆出免登入檔案讀取漏洞，產品退役無修補可用](https://www.ithome.com.tw/news/180287)
+### 7. [SonicWall GMS爆出免登入檔案讀取漏洞，產品退役無修補可���](https://www.ithome.com.tw/news/180287)
 
 防火牆廠商SonicWall發布資安公告，揭露已終止支援的集中管理平臺Global Management 系統（GMS）存在兩項漏洞，影響9.5.2及更早版本。其中CVE-2026-109593的CVSS風險評分達9.1分，攻擊者不需登入，就可能透過網路讀取GMS內部檔案。由於產品已終止支援，SonicWall不會發布修補程式，建議用戶遷移至網絡 安全 經理（NSM）。
 
@@ -107,7 +107,7 @@ Anthropic本周公告，將文字浮水印推向更早期推出的Claude模型�
 
 - 📰 **iThome 科技**
 
-### 17. [Anthropic推出Claude個人理財功能，可連結銀行帳戶分析收��](https://www.ithome.com.tw/news/180268)
+### 17. [Anthropic推出Claude個人理財功能，可���結銀行帳戶分析收支](https://www.ithome.com.tw/news/180268)
 
 繼OpenAI今年5月推出ChatGPT個人理財服務後，Anthropic周四（11/5）也宣布推出Claude Personal Finance，讓使用者連結銀行及信用卡帳戶，透過AI分析收支與財務狀況，進一步加入AI個人理財市場的競爭。
 
@@ -133,7 +133,7 @@ Anthropic本周公告，將文字浮水印推向更早期推出的Claude模型�
 
 ### 21. [Chainalysis遭駭波及使用者密碼與權杖，暫停加密貨幣交易監控服務](https://www.ithome.com.tw/news/180206)
 
-區塊鏈分析業者Chainalysis遭駭客入侵，攻擊者存取該公司的內部系統及工具。Chainalysis確��，攻擊者曾存取平臺使用者的密碼雜湊值及有效權杖，部分客戶的密碼也在攻擊中外洩。該公司也因偵測到異常活動，暫停加密貨幣交易監控產品KYT等多項服務。
+區塊鏈分析業者Chainalysis遭駭客入侵，攻擊者存取該公司的內部系統及工具。Chainalysis確認，攻擊者曾存取平臺使用者的密碼雜湊值及有效權杖，部分客戶的密碼也在攻擊中外洩。該公司也因偵測到異常活動，暫停加密貨幣交易監控產品KYT等多項服務。
 
 - 📰 **iThome 科技**
 
@@ -143,7 +143,7 @@ Anthropic本周公告，將文字浮水印推向更早期推出的Claude模型�
 
 - 📰 **iThome 科技**
 
-### 23. [OpenAI揭露AI助理個人化瓶頸，模型仍難善用過往對話](https://www.ithome.com.tw/news/180267)
+### 23. [OpenAI揭露AI助理個人化瓶頸，模型仍��善用過往對話](https://www.ithome.com.tw/news/180267)
 
 OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助理能存取使用者過往的ChatGPT對話，仍可能漏掉完成任務所需的個人資訊。在被判定需要從歷史對話取得資訊的評分條件中，平均達標率僅33.33%，反映出運用過往對話的能力仍有不足。
 
@@ -152,7 +152,7 @@ OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助�
 ### 24. [公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護效率](https://www.ithome.com.tw/news/180263)
 
 臺灣山區地形陡峭、地質破碎，加上颱風、地震頻繁，許多公路與橋梁沿著山區興建，邊坡、橋梁梁底及橋墩等設施長期面臨巡檢不易的挑戰。交通部公路局副局長周廷彰表示，過去巡檢多仰賴人工步行、攀爬或橋梁檢測車，不僅耗時，也伴隨一定作業風險。公路局近年逐步導入無人機，利用高空影像快速掌握橋梁、邊坡等人員不易到達的位置，減少工程人員進入危險區域的需求。
-不過，公路局的目標已不只是利用無人機空拍，而是進一步將巡檢數位化、智慧化。周廷彰指出，目前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生後協助快速掌握現場，三是建立鐵公路共同巡檢機制。
+不過，公路局的目標已不只是利用無人機��拍，而是進一步將巡檢數位化、智慧化。周廷彰指出，目前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生後協助快速掌握現場，三是建立鐵公路共同巡檢機制。
 
 - 📰 **iThome 科技**
 
@@ -164,7 +164,7 @@ Debian與Ubuntu發布APT套件管理工具安全更新，修補編號CVE-2026-10
 
 ### 26. [【資安日報】11月5日，法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改](https://www.ithome.com.tw/news/180260)
 
-本日新聞焦��
+本日新聞焦點
 ● 法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改
 ● 永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用
 ● 俄羅斯駭客APT29大規模水坑式攻擊，竊取iOS與Android裝置資料
@@ -177,7 +177,7 @@ Debian與Ubuntu發布APT套件管理工具安全更新，修補編號CVE-2026-10
 
 - 📰 **iThome 科技**
 
-### 28. [Safari 27.3測試網頁自動轉暗，WebKit引擎可依內容調整文字與圖示��色](https://www.ithome.com.tw/news/180256)
+### 28. [Safari 27.3測試網頁自動轉暗，WebKit引擎可依���容調整文字與圖示配色](https://www.ithome.com.tw/news/180256)
 
 Apple WebKit團隊公布瀏覽器Safari 27.3測試版新功能自適應深色模式（Adaptive Dark Mode），可將未支援深色模式的淺色網站轉成深色顯示。使用者將系統外觀切換為深色，開啟背景明亮的網站時，Safari便會提供轉換效果預覽，點選試用後即可啟用。
 
@@ -189,7 +189,7 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 
 - 📰 **iThome 科技**
 
-### 30. [法國銀行Crédit Mutuel Arkéa遭網攻，傳逾1.18億��元遭攻擊者轉走](https://www.ithome.com.tw/news/180255)
+### 30. [法國銀行Crédit Mutuel Arkéa遭網攻，傳逾1.18億歐元遭攻擊者轉走](https://www.ithome.com.tw/news/180255)
 
 法國合作銀行集團Crédit Mutuel Arkéa於11月4日證實遭遇網路攻擊，攻擊者透過一家外部服務商的平臺取得銀行系統存取管道，並利用該銀行行方的帳戶向其他金融機構進行未授權轉帳。
 
@@ -199,6 +199,15 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 
 ### 更多 AI 新聞 (70則)
 
+- 最佳 Wi-Fi Routers (2026): My Honest Picks After Testing 50+ (**Wired**)
+- The 10 最佳 Early Black Friday Headphone Deals (2026) (**Wired**)
+- The 最佳 Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall (**Wired**)
+- This Totally Free App Can Free Up Space on Your Mac (**Wired**)
+- GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off (**Wired**)
+- Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough (**Wired**)
+- Ecoflow Rapid Pro Power Bank Deal: Save $80 (**Wired**)
+- The 19 最佳 Early Black Friday Deals 2026 (**Wired**)
+- The American Dream Wasn’t Built for Climate Change (**Wired**)
 - The Cybertruck’s Death Is Actually Great News for EVs (**Wired**)
 - How Stephen Miller Schemed His Way to the 熱門 (**Wired**)
 - Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026 (**Wired**)
@@ -233,22 +242,13 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 - Israel Is Destroying the Machinery South Lebanon Needs to Rebuild (**Wired**)
 - A 新 UK Porn Ban Sparks Fears of Unprecedented Sex Censorship (**Wired**)
 - Zoro Coupon Codes: 20% Off November 2026 (**Wired**)
-- B&amp;H Photo Promo Codes and Deals This November 2026 (**Wired**)
 - Booking.com Promo Codes: 20% Off | November 2026 (**Wired**)
-- Corsair Discount 代碼: Up to 50% Off for November 2026 (**Wired**)
 - Udemy Coupon Codes: 20% Off November 2026 (**Wired**)
-- Ray-Ban Promo Codes: Save 50% in November 2026 (**Wired**)
+- Corsair Discount 代碼: Up to 50% Off for November 2026 (**Wired**)
+- B&amp;H Photo Promo Codes and Deals This November 2026 (**Wired**)
 - Meta Quest Promo Codes and Coupons for November 2026 (**Wired**)
+- Ray-Ban Promo Codes: Save 50% in November 2026 (**Wired**)
 - Nomad Goods Promo Codes: Get 25% Off in November 2026 (**Wired**)
-- Herman Miller Promo Codes: 40% Off November 2026 (**Wired**)
-- HP Coupon Codes and Deals November 2026 (**Wired**)
-- Altra Running Promo Codes: 10% Off November 2026 (**Wired**)
-- HostGator Coupon Codes: 76% Off Hosting in November 2026 (**Wired**)
-- The Blue Wave Has Tech Bros Scrambling for Data Centers in Space (**Wired**)
-- ‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online (**Wired**)
-- The Biggest Pro-AI Super PAC 網絡 Didn’t Really Impact the Midterms (**Wired**)
-- ‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover (**Wired**)
-- Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
