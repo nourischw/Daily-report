@@ -18,14 +18,14 @@ Google在Compute Engine API加入多版本管理機制，讓既有/v1 API與依�
 
 ### 3. [憑證效期持續縮短，普鴻看好企業自動化管理需求逐漸浮現](https://www.ithome.com.tw/news/180293)
 
-隨著公開信任TLS憑證有效期持續縮��，臺灣企業的憑證自動化管理現況成為眾所關注的議題，正值相關廠商普鴻資訊10月底公布PQC產品布局，同步介紹今年推出的憑證生命週期管理產品ProCLM，該公司也透露目前企業憑證自動化管理的需求及實際導入情況。
+隨著公開信任TLS憑證有效期持續縮短，臺灣企業的憑證自���化管理現況成為眾所關注的議題，正值相關廠商普鴻資訊10月底公布PQC產品布局，同步介紹今年推出的憑證生命週期管理產品ProCLM，該公司也透露目前企業憑證自動化管理的需求及實際導入情況。
 普鴻資訊董事長林群國表示，目前市面上已有不少憑證生命週期管理解決方案，而普鴻除了提供憑證自動化管理功能，也能結合自行研發的PQC6000後量子密碼學硬體加解密卡，強化金鑰保護能力，藉此與其他產品的定位形成區隔，而且該公司也觀察到相關市場需求逐漸浮現。
 
 - 📰 **iThome 科技**
 
 ### 4. [GitHub改版PR總覽頁面，集中顯示合併狀態與待處理事項](https://www.ithome.com.tw/news/180290)
 
-GitHub推出新版拉取請求（Pull Request，PR）總覽頁面（Overview），將合併狀態、檢查結果及下一步操作集中顯示在頁面上方，方便開發者確認尚未通過的檢查與待處理事項。新版也加入討論篩選、留言排序及近期活動摘要功能，讓開發者更容易掌握PR的審查進度。新版目前採自願啟用���公開預覽形式，GitHub已開始逐步開放。
+GitHub推出新版拉取請求（Pull Request，PR）總覽頁面（Overview），將合併狀態、檢查結果及下一步操作集中顯示在頁面上方，方便開發者確認尚未通過的檢查與待處理事項。新版也加入討論篩選、留言排序及近期活動摘要功能，讓開發者更容易掌握PR的審查進度。新版目前採自願啟用的公開預覽形式，GitHub已開始逐步開放。
 
 - 📰 **iThome 科技**
 
@@ -43,7 +43,7 @@ GitHub推出新版拉取請求（Pull Request，PR）總覽頁面（Overview）�
 
 - 📰 **iThome 科技**
 
-### 7. [【資安日報】11月6日，OpenSSH修補長密碼身分驗證繞過漏洞](https://www.ithome.com.tw/news/180289)
+### 7. [【資安日報���11月6日，OpenSSH修補長密碼身分驗證繞過漏洞](https://www.ithome.com.tw/news/180289)
 
 資安新聞焦點
 ● OpenSSH修補可利用長密碼繞過身分驗證的資安漏洞
@@ -58,7 +58,7 @@ GitHub推出新版拉取請求（Pull Request，PR）總覽頁面（Overview）�
 
 - 📰 **iThome 科技**
 
-### 9. [Amazon S3 Tables支援Hive轉Iceberg託管遷移，企業免自建資料轉換管線](https://www.ithome.com.tw/news/180282)
+### 9. [Amazon S3 Tables支援Hive轉Iceberg託管遷移，企���免自建資料轉換管線](https://www.ithome.com.tw/news/180282)
 
 AWS釋出Amazon S3 Tables新增Apache Hive轉Apache Iceberg託管遷移功能，可將儲存在Amazon S3，且已登錄AWS Glue Data Catalog的Parquet格式Hive資料表移入S3 Tables。資料驗證、格式轉換與搬移由服務處理，企業不必自行建置遷移管線或配置運算資源，而且來源資料表在大部分遷移期間還可繼續使用。
 
@@ -133,7 +133,7 @@ Anthropic本周公告，將文字浮水印推向更早期推出的Claude模型�
 
 ### 21. [英國情報機構GCHQ管理出包，數千個儲存裝置下落不明](https://www.ithome.com.tw/news/180221)
 
-英國調查權力專員辦公室（IPCO）揭露，英國情報機構政府通訊總部（GCHQ）多��來持續清查內部可移除式儲存媒體（removable media）的去向，但估計仍有數千個裝置下落不明，其中部分可能存有與情報監察及調查活動相關的資料。
+英國調查權力專員辦公室（IPCO）揭露，英國情報機構政府通訊總部（GCHQ）多年來持續清查內部可移���式儲存媒體（removable media）的去向，但估計仍有數千個裝置下落不明，其中部分可能存有與情報監察及調查活動相關的資料。
 
 - 📰 **iThome 科技**
 
@@ -155,7 +155,7 @@ OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助�
 
 - 📰 **iThome 科技**
 
-### 25. [公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護��率](https://www.ithome.com.tw/news/180263)
+### 25. [公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護效率](https://www.ithome.com.tw/news/180263)
 
 臺灣山區地形陡峭、地質破碎，加上颱風、地震頻繁，許多公路與橋梁沿著山區興建，邊坡、橋梁梁底及橋墩等設施長期面臨巡檢不易的挑戰。交通部公路局副局長周廷彰表示，過去巡檢多仰賴人工步行、攀爬或橋梁檢測車，不僅耗時，也伴隨一定作業風險。公路局近年逐步導入無人機，利用高空影像快速掌握橋梁、邊坡等人員不易到達的位置，減少工程人員進入危險區域的需求。
 不過，公路局的目標已不只是利用無人機空拍，而是進一步將巡檢數位化、智慧化。周廷彰指出，目前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生後協助快速掌握現場，三是建立鐵公路共同巡檢機制。
@@ -164,7 +164,7 @@ OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助�
 
 ### 26. [Debian、Ubuntu修補高風險APT套件漏洞，中間人可替換套件取得root權限](https://www.ithome.com.tw/news/180262)
 
-Debian與Ubuntu發布APT套件管理工具安全更新，修補編號CVE-2026-109518的驗證繞過���洞。攻擊者若能控制系統與套件伺服器之間的HTTP傳輸流量，可在特定條件下替換已通過驗證的套件，誘使系統安裝惡意程式，以root權限執行任意程式碼。其他採用APT的Linux衍生發行版也可能受到影響。
+Debian與Ubuntu發布APT套件管理工具安全更新，修補編號CVE-2026-109518的驗證繞過漏洞。攻擊者若能控制系統與套件伺服器之間的HTTP傳輸流量，可在特定條件下替換已通過驗證的套件，誘使系統安裝惡意程式，以root權限執行任意程式碼。其他採用APT的Linux衍生發行版也可能受到影響。
 
 - 📰 **iThome 科技**
 
@@ -179,7 +179,7 @@ Debian與Ubuntu發布APT套件管理工具安全更新，修補編號CVE-2026-10
 
 ### 28. [熱門遊戲《勝利女神：妮姬》遭遇供應鏈攻擊，玩家電腦恐被植入竊資軟體](https://www.ithome.com.tw/news/180259)
 
-根據資安新聞網站Bleeping Computer報導，���國遊戲公司Shift Up開發的《勝利女神：妮姬》電腦版遊戲啟動器，於11月4日傳出發生供應鏈攻擊，駭客竄改遊戲啟動器使用的JavaScript檔案，藉此散布具備遠端控制及資料竊取能力的惡意程式。攻擊者可利用植入的後門執行遠端命令、瀏覽及下載本機檔案，並竊取遊戲帳號與瀏覽器儲存的敏感資訊。
+根據資安新聞網站Bleeping Computer報導，韓國遊戲公司Shift Up開���的《勝利女神：妮姬》電腦版遊戲啟動器，於11月4日傳出發生供應鏈攻擊，駭客竄改遊戲啟動器使用的JavaScript檔案，藉此散布具備遠端控制及資料竊取能力的惡意程式。攻擊者可利用植入的後門執行遠端命令、瀏覽及下載本機檔案，並竊取遊戲帳號與瀏覽器儲存的敏感資訊。
 
 - 📰 **iThome 科技**
 
@@ -199,6 +199,14 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 
 ### 更多 AI 新聞 (70則)
 
+- 8 最佳 Computer Speakers (2026) After Testing 30 Pairs (**Wired**)
+- I Used NYT Cooking’s 新 AI-Powered Recipe Modifier, and It’s Actually Pretty Good (**Wired**)
+- Wandrd’s Magnetic Camera Straps Are My 新 Favorite Accessory (**Wired**)
+- 如何 Remind Your Boss of Your PTO Without Pissing Them Off (**Wired**)
+- A 55-Year-Old Math Problem Was Solved—This Time by Humans (**Wired**)
+- 6 最佳 Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More (**Wired**)
+- The Apple MacBook Pro M5 is on Sale, and a 熱門 MacBook to Buy Right Now (**Wired**)
+- World Models Will Soon Be Inescapable. Here’s What You Need to Know (**Wired**)
 - The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call (**Wired**)
 - 最佳 Wi-Fi Routers (2026): My Honest Picks After Testing 50+ (**Wired**)
 - The 10 最佳 Early Black Friday Headphone Deals (2026) (**Wired**)
@@ -206,8 +214,8 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 - This Totally Free App Can Free Up Space on Your Mac (**Wired**)
 - GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off (**Wired**)
 - Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough (**Wired**)
-- He Ran on Fighting Data Centers. Now, He’s Going to Congress (**Wired**)
 - Ecoflow Rapid Pro Power Bank Deal: Save $80 (**Wired**)
+- He Ran on Fighting Data Centers. Now, He’s Going to Congress (**Wired**)
 - The 19 最佳 Early Black Friday Deals 2026 (**Wired**)
 - The American Dream Wasn’t Built for Climate Change (**Wired**)
 - The Cybertruck’s Death Is Actually Great News for EVs (**Wired**)
@@ -241,14 +249,6 @@ OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Com
 - The ‘Ocarina of Time’ Remake Is Finally Here, but 為什麼 Does Link Look so Yassified? (**Wired**)
 - Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’ (**Wired**)
 - The 最佳 Smart Ring for Discreet Fitness Tracking in 2026 (**Wired**)
-- Israel Is Destroying the Machinery South Lebanon Needs to Rebuild (**Wired**)
-- A 新 UK Porn Ban Sparks Fears of Unprecedented Sex Censorship (**Wired**)
-- Booking.com Promo Codes: 20% Off | November 2026 (**Wired**)
-- Udemy Coupon Codes: 20% Off November 2026 (**Wired**)
-- Zoro Coupon Codes: 20% Off November 2026 (**Wired**)
-- Meta Quest Promo Codes and Coupons for November 2026 (**Wired**)
-- B&amp;H Photo Promo Codes and Deals This November 2026 (**Wired**)
-- Corsair Discount 代碼: Up to 50% Off for November 2026 (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
