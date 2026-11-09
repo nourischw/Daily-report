@@ -4,208 +4,208 @@
 
 ---
 
-### 1. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+### 1. [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
 
-- ⭐ 285 分｜💬 82 留言｜👤 dcoulmbe
+- ⭐ 236 分｜💬 166 留言｜👤 edward
 
-### 2. [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+### 2. [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 
-- ⭐ 132 分｜💬 47 留言｜👤 infosecau
+- ⭐ 257 分｜💬 52 留言｜👤 vismit2000
 
-### 3. [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
+### 3. [Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/)
 
-- ⭐ 55 分｜💬 18 留言｜👤 zdw
+- ⭐ 49 分｜💬 23 留言｜👤 speckx
 
-### 4. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+### 4. [什麼是 malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 
-- ⭐ 134 分｜💬 20 留言｜👤 nmstoker
+- ⭐ 60 分｜💬 12 留言｜👤 benmandrew
 
-### 5. [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
+### 5. [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
 
-- ⭐ 287 分｜💬 204 留言｜👤 xmddmx
+- ⭐ 68 分｜💬 8 留言｜👤 rbanffy
 
-### 6. [Declarative Dragging](https://declarative-dragging.github.io/)
+### 6. [Burying the Evidence: nine out of every 10 time capsules go missing](https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/)
 
-- ⭐ 406 分｜💬 51 留言｜👤 smusamashah
+- ⭐ 37 分｜💬 21 留言｜👤 ohjeez
 
-### 7. [Dux: Free, open-source Wayland desktop shell with file 經理 and theming](https://duxlabs.dev/)
+### 7. [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 
-- ⭐ 220 分｜💬 69 留言｜👤 indigodaddy
+- ⭐ 139 分｜💬 29 留言｜👤 theanonymousone
 
-### 8. [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
+### 8. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+
+- ⭐ 618 分｜💬 186 留言｜👤 dcoulmbe
+
+### 9. [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+
+- ⭐ 489 分｜💬 247 留言｜👤 infosecau
+
+### 10. [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
+
+- ⭐ 425 分｜💬 723 留言｜👤 matteoraso
+
+### 11. [How Australia played the first music on a computer](https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/)
+
+- ⭐ 12 分｜💬 2 留言｜👤 Skyfall106
+
+### 12. [Declarative Dragging](https://declarative-dragging.github.io/)
+
+- ⭐ 641 分｜💬 80 留言｜👤 smusamashah
+
+### 13. [Outlook.com is rejecting email from domains without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
+
+- ⭐ 468 分｜💬 323 留言｜👤 xmddmx
+
+### 14. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+
+- ⭐ 278 分｜💬 47 留言｜👤 nmstoker
+
+### 15. [Psalm 7 release: PHP 安全&static analysis 軟體](https://psalm.dev/articles/psalm-7)
+
+- ⭐ 60 分｜💬 30 留言｜👤 danogentili
+
+### 16. [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
+
+Decision models need their own 推論 engine.So we developed Flide, a high-performance and exact 推論 engine for Jev-like decision models.Flide achieves up to a 9.5x speedup over vLLM and SGLa
+
+- ⭐ 83 分｜💬 18 留言｜👤 unikcc
+
+### 17. [Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate 硬體](https://leosmith.wtf/blog/not-so-secure-boot.html)
+
+- ⭐ 20 分｜💬 2 留言｜👤 p4p1
+
+### 18. [Dux: Free, open-source Wayland desktop shell with file 經理 and theming](https://duxlabs.dev/)
+
+- ⭐ 315 分｜💬 118 留言｜👤 indigodaddy
+
+### 19. [ChatGPT Desktop forwards your SSH 代理 to 遠端 machines](https://news.ycombinator.com/item?id=50422628)
+
+The 代理 running on a 遠端 machine can authenticate using your local SSH credentials.That means it can push to your private repos on GitHub, for example.Proof: https:&#x2F;&#x2F;github.com&#x2F;ope
+
+- ⭐ 105 分｜💬 31 留言｜👤 DenGorbachev
+
+### 20. [Quasi-Logarithmic Kitchen Timer](https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer)
+
+- ⭐ 64 分｜💬 18 留言｜👤 surprisetalk
+
+### 21. [He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget](https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/)
+
+- ⭐ 20 分｜💬 5 留言｜👤 gmays
+
+### 22. [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
 
 What are you working on? What have you been curious about lately?
 
-- ⭐ 160 分｜💬 541 留言｜👤 david927
+- ⭐ 247 分｜💬 851 留言｜👤 david927
 
-### 9. [A Bit about Email](https://maurycyz.com/misc/email/)
+### 23. [NVIDIA CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company)
 
-- ⭐ 4 分｜💬 1 留言｜👤 vinhnx
+https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;NVIDIA-ceo-jensen-huang-aff..., https:&#x2F;&#x2F;archive.ph&#x2F;Hxn5hhttps:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;06&#x2F;u
 
-### 10. [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
+- ⭐ 817 分｜💬 961 留言｜👤 karimf
 
-- ⭐ 3 分｜💬 0 留言｜👤 niceguitars
+### 24. [The French Cake Cooked on a Spit (2018) [video]](https://www.youtube.com/watch?v=havcACdx0Y0)
 
-### 11. [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
+- ⭐ 21 分｜💬 13 留言｜👤 NaOH
 
-- ⭐ 89 分｜💬 70 留言｜👤 acossta
+### 25. [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
 
-### 12. [Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)
+- ⭐ 448 分｜💬 197 留言｜👤 joshcsimmons
 
-Hi Guys,
-like many of you I work with AI agents every day and across several clients.
-The major time cost for me is to re-explaining context and past decisions, client rules, that we already do. To fi
+### 26. [Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/)
 
-- ⭐ 13 分｜💬 14 留言｜👤 Michel_Aventin
+- ⭐ 42 分｜💬 7 留言｜👤 Bluestein
 
-### 13. [The 網頁 Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
+### 27. [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
 
-- ⭐ 96 分｜💬 52 留言｜👤 edward
+- ⭐ 338 分｜💬 235 留言｜👤 rzk
 
-### 14. [Show HN: JavaScript 網頁 apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)
+### 28. [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 
-Over the past year, I have been working to find a better way to write cross-platform apps.The problems I am trying to solve:- Native frameworks only work on a subset of platforms, so a different imple
+- ⭐ 421 分｜💬 102 留言｜👤 jruohonen
 
-- ⭐ 6 分｜💬 0 留言｜👤 rkaehn
+### 29. [Goldman Sachs is pulling Claude 代碼 from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 
-### 15. [Goldman Sachs is pulling Claude 代碼 from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+- ⭐ 829 分｜💬 446 留言｜👤 TheWiggles
 
-- ⭐ 656 分｜💬 376 留言｜👤 TheWiggles
+### 30. [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
 
-### 16. [Taco: The Tensor Algebra Compiler](http://tensor-compiler.org/)
-
-- ⭐ 12 分｜💬 0 留言｜👤 measurablefunc
-
-### 17. [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
-
-- ⭐ 386 分｜💬 172 留言｜👤 joshcsimmons
-
-### 18. [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
-
-- ⭐ 304 分｜💬 83 留言｜👤 jruohonen
-
-### 19. [The History of Djgpp (1998)](https://www.delorie.com/djgpp/history.html)
-
-- ⭐ 56 分｜💬 19 留言｜👤 atan2
-
-### 20. [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html)
-
-- ⭐ 34 分｜💬 4 留言｜👤 bookofjoe
-
-### 21. [Playing with the STM32MP2](https://serd.es/2026/11/08/playing-with-stm32mp2.html)
-
-- ⭐ 45 分｜💬 30 留言｜👤 dverlaeckt80
-
-### 22. [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
-
-- ⭐ 179 分｜💬 142 留言｜👤 kyunez
-
-### 23. [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
-
-- ⭐ 713 分｜💬 443 留言｜👤 karagenit
-
-### 24. [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
-
-- ⭐ 177 分｜💬 35 留言｜👤 jrcplus
-
-### 25. [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
-
-- ⭐ 95 分｜💬 19 留言｜👤 dmit
-
-### 26. [I'm not a fan of Deno's 安全 模型 (2024)](https://goldstein.lol/posts/deno-security/)
-
-- ⭐ 92 分｜💬 45 留言｜👤 maxloh
-
-### 27. [Edward Hopper's Iconic Painting, "Nighthawks](https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/)
-
-- ⭐ 82 分｜💬 28 留言｜👤 prismatic
-
-### 28. [A Little Snitch for Windows](https://packethound.app/)
-
-- ⭐ 103 分｜💬 48 留言｜👤 BadBoyBubby
-
-### 29. [Claude 代碼's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
-
-- ⭐ 595 分｜💬 404 留言｜👤 shmulc
-
-### 30. [Are big problems more difficult to solve?](https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/)
-
-- ⭐ 4 分｜💬 0 留言｜👤 andsoitis
+- ⭐ 785 分｜💬 479 留言｜👤 karagenit
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- NVIDIA was in 1 in 11 startup rounds over $100M last year
+- The Qlobe: Rotating Quine (2010)
+- RIP, Harvest
+- Show HN: JavaScript 網頁 apps with WASM layout and GPU rendering in 280 KB
+- Ginux: A 新 Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering
+- How I Fight AI Brain Fry
+- When a language's creator and its owners strongly disagree [pdf]
+- JIT bitmap text rendering for microcontrollers
+- PixelOS
+- Show HN: Vegetable Gardening for Engineers
+- Playing with the STM32MP2
+- Branching Beyond Leonardo: The Evolution of Tree Architecture Theory
 - Porting Android 16 to my blind mother's keypad phone
-- Playing Zork 1 on a CP/M emulator on Linux (2021)
-- The Kekulé Problem – Cormac McCarthy
-- NVIDIA Board of Directors Is Investigating Jensen Huang
-- The Reconstruction of Torn Documents
-- Starship Flight 15 on 11/13 plans to catch both booster and ship
-- 如何 prove equations using diagrams, part 1
-- NVIDIA CEO Jensen Huang's letter to staff about affair
-- Clj.rs – a Clojure dialect implemented in Rust
-- 代理 memory needs its OpenTelemetry moment
+- Show HN: My compact, bio inspired distributed edge detection algorithm
+- 6 Hours of YouTube and 85 handtyped pages of notes on 大型語言模型 推論 – Start here
+- NVIDIA's China Problem [pdf]
+- I'm not a fan of Deno's 安全 模型 (2024)
+- The 網頁 Is More Than Enough, by Paul Ford
+- A Critique of GPUI
 - MaxxBench – "Nice DeepSWE score. But is it true?"
-- Tasfer: a text editor drawn on a 2D canvas
+- Air holes turn silicon wafers into flat UV focusing mirrors for compact optics
+- Clj.rs – a Clojure dialect implemented in Rust
+- Edward Hopper's Iconic Painting, "Nighthawks
 - Uranium cubes reveal 為什麼 the German nuclear project failed
-- The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]
+- 代理 memory needs its OpenTelemetry moment
+- The Reconstruction of Torn Documents
+- 如何 prove equations using diagrams, part 1
 - Making any integer with four 2s (2025)
-- Ian Murdock – And we learn about Debian
-- ISponsorBlockTV: SponsorBlock client for all YouTube TV clients
+- A Little Snitch for Windows
 - Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller
-- Nyquist Limit:The frequency of changes in tech is invalidating our understanding
-- Petered
+- A Bit about Email
+- The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]
+- Playing Zork 1 on a CP/M emulator on Linux (2021)
 - GitHub 新 pull request overview page in public preview
-- Ads in Popular Apps Give Police a Powerful Tool to Spy on Users
-- Finding Xanadu: Inside a JRPG classic translation 15 years in the making
-- Person of Interest
 - What I run on my $10 USD OpenStick homelab
-- Show HN: SafeScript, a safe version of JavaScript for executing untrusted 代碼
-- 新 typeface using intricate designs from Shakespeare's First Folio (2023)
+- ISponsorBlockTV: SponsorBlock client for all YouTube TV clients
+- DIY Injection Molding: Making Plastic Recycling Accessible to All
 - The $8 Linux Computer (2022)
-- I'm Not Convinced the AI Bubble Exists
-- Mizu – zero-copy parallel R and Python over shared memory
-- Apple’s grey list: Words and phrases your iPhone won’t help you spell
-- The end of Microsoft Research's AI Frontiers group
 - We know 15k websites are infected. how do we tell them?
-- Every processor die anyone has photographed and given away
-- Consumer brain wave headsets threaten privacy
-- Kirlian Photography: Building Your Own Equipment
+- Claude 代碼's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+- Try Gleam
+- Apple’s grey list: Words and phrases your iPhone won’t help you spell
 - Need for Speed Underground 2 online in the browser
-- Amsterdam School
-- Commodore PET – The Worlds First Personal Computer
+- Finding Xanadu: Inside a JRPG classic translation 15 years in the making
+- The end of Microsoft Research's AI Frontiers group
+- Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased 代碼
 - Libghostty 1.0
+- Every processor die anyone has photographed and given away
+- The Kekulé Problem – Cormac McCarthy
+- Petered
+- Nyquist Limit:The frequency of changes in tech is invalidating our understanding
 - The Components of 代理 Memory
-- WaveDudeNext 2D Wave Simulator
-- Text.js: 構建 full-stack React apps that render inside console.log
-- Terry Pratchett's Study
-- What do the next 4000 emoji look like?
-- How Long Can Life Wait?
-- Every Mac comes with an (undocumented) family member classifier
-- Every Windows 11 app should kill Electron, and Discord just showed 為什麼
-- GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)
-- Five memorable books about 程式設計 (2008)
 - sshole
-- Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack
-- Etsy changes terms to train AI on your creations, while blocking you doing it [video]
-- The efficiency trap: 為什麼 optimising everything can backfire, badly
-- Turning every radio into a radar
-- Firecracker VM Escape: PwnEscape Part 2
-- Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It
-- Claude 代碼 sends your email address to websites
-- Reverse engineering a vintage diode-transistor logic chip
-- IRA Velinsky – Commodore's Industrial Designer
-- Show HN: Where Were We
-- ToothPaste
-- GitHub's 新 Git storage architecture
-- Show HN: We compressed a 31B video+audio diffusion 模型 to 14B, 6 steps, INT8
-- Asahi Linux Progress Linux 7.3
-- Tesla to wind down Cybertruck production
-- First steps in bare-metal 程式設計 using UEFI
+- 新 typeface using intricate designs from Shakespeare's First Folio (2023)
+- Consumer brain wave headsets threaten privacy
+- Commodore PET – The Worlds First Personal Computer
+- Terry Pratchett's Study
+- Are big problems more difficult to solve?
+- What do the next 4000 emoji look like?
+- Person of Interest
+- Every Mac comes with an (undocumented) family member classifier
+- Kirlian Photography: Building Your Own Equipment
+- Statement from NVIDIA board of directors
+- Every Windows 11 app should kill Electron, and Discord just showed 為什麼
+- Mizu – zero-copy parallel R and Python over shared memory
+- How Long Can Life Wait?
+- Five memorable books about 程式設計 (2008)
 - UpCodes (YC S17) is 招聘 SDR's to sell AI compliance 軟體
-- Notes on San Marino
-- A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+- GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)
+- Starship Flight 15 on 11/13 plans to catch both booster and ship
 
 
 ---
