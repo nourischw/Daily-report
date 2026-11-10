@@ -4,204 +4,208 @@
 
 ---
 
-### 1. [AlphaProof 代碼](https://deepmind.google/blog/introducing-alphaproof-code/)
+### 1. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
 
-- ⭐ 184 分｜💬 81 留言｜👤 ilreb
+- ⭐ 594 分｜💬 130 留言｜👤 p4bl0
 
-### 2. [Ableton Live 13](https://www.ableton.com/en/live/)
+### 2. [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 
-- ⭐ 53 分｜💬 47 留言｜👤 phaser
+- ⭐ 147 分｜💬 104 留言｜👤 NaOH
 
-### 3. [Compress any 大型語言模型 3x in one click,near-lossless,in under 50 MB RAM](https://neuracryption.com/research)
+### 3. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 
-- ⭐ 9 分｜💬 1 留言｜👤 anushka_gandhi
+- ⭐ 595 分｜💬 207 留言｜👤 skittleson
 
-### 4. [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+### 4. [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
 
-- ⭐ 443 分｜💬 157 留言｜👤 aloukissas
+- ⭐ 60 分｜💬 7 留言｜👤 digital55
 
-### 5. [Show HN: A 15 MB self-hosted Netflix and Spotify for your media 伺服器](https://github.com/HolyArrs/HolyArrs)
+### 5. [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 
-- ⭐ 55 分｜💬 38 留言｜👤 CoderLuii
+- ⭐ 231 分｜💬 101 留言｜👤 speckx
 
-### 6. [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+### 6. [Val Town is winding down](https://blog.val.town/winding-down)
 
-- ⭐ 706 分｜💬 875 留言｜👤 lairv
+- ⭐ 252 分｜💬 64 留言｜👤 tosh
 
-### 7. [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
+### 7. [Sherman Anti-Trust Act (1890)](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
 
-- ⭐ 89 分｜💬 83 留言｜👤 giuliomagnifico
+- ⭐ 41 分｜💬 23 留言｜👤 hashmap
 
-### 8. [Don't buy AR glasses](https://blog.yaros.ae/dont-buy-ar-glasses/)
+### 8. [Show HN: Get your coding 代理 off ~2019 JavaScript, onto modern 網頁 primitives](https://github.com/GoogleChrome/modern-web-guidance)
 
-- ⭐ 50 分｜💬 42 留言｜👤 Bluestein
+Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() gi
 
-### 9. [USPS now offers official ZIP 代碼 boundary polygons](https://postalpro.usps.com/zcb)
+- ⭐ 205 分｜💬 58 留言｜👤 paulirish
 
-- ⭐ 665 分｜💬 338 留言｜👤 munro
+### 9. [AlphaProof 代碼](https://deepmind.google/blog/introducing-alphaproof-code/)
 
-### 10. [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
+- ⭐ 545 分｜💬 171 留言｜👤 ilreb
 
-- ⭐ 78 分｜💬 60 留言｜👤 rustyhancock
+### 10. [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
 
-### 11. [Your TV can see through walls](https://maurycyz.com/projects/fading/)
+- ⭐ 70 分｜💬 33 留言｜👤 gmays
 
-- ⭐ 188 分｜💬 75 留言｜👤 Curiositry
+### 11. [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
 
-### 12. [Simon Winchester, Author of 'The Professor and the Madman,' Has Died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
+- ⭐ 156 分｜💬 55 留言｜👤 pixelpoet
 
-- ⭐ 13 分｜💬 6 留言｜👤 benbreen
+### 12. [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
 
-### 13. [Show HN: Ghanaian street games you can play in the browser](https://www.ghanastreetgames.com/)
+- ⭐ 23 分｜💬 11 留言｜👤 michaelsbradley
 
-- ⭐ 32 分｜💬 6 留言｜👤 samuelaidoo45
+### 13. [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 
-### 14. [Fireworks AI 安全 breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
+- ⭐ 49 分｜💬 16 留言｜👤 tomrittervg
 
-- ⭐ 89 分｜💬 28 留言｜👤 werrett
+### 14. [Stable URLs for 42,000 Huts and Peaks](https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html)
 
-### 15. [Billion Watts in the Speaker [video]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
+- ⭐ 11 分｜💬 0 留言｜👤 lumpa
 
-- ⭐ 47 分｜💬 24 留言｜👤 Element_
+### 15. [Ableton Live 13](https://www.ableton.com/en/live/)
 
-### 16. [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+- ⭐ 247 分｜💬 265 留言｜👤 phaser
 
-- ⭐ 241 分｜💬 125 留言｜👤 bigwheels
+### 16. [Process Explorer for macOS](https://github.com/microsoft/Procexp-Mac)
 
-### 17. [Foldable Flight: The 最佳 Paper Airplanes](https://www.foldableflight.com)
+- ⭐ 97 分｜💬 35 留言｜👤 ingve
 
-- ⭐ 1098 分｜💬 153 留言｜👤 vismit2000
+### 17. [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
 
-### 18. [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
+- ⭐ 168 分｜💬 42 留言｜👤 leugim
 
-- ⭐ 67 分｜💬 15 留言｜👤 theanonymousone
+### 18. [Blender 5.3 發布 with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
 
-### 19. [Payments Canada 宣布 launch of Canada's Real-Time Rail (RTR) payment 系統](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- ⭐ 385 分｜💬 53 留言｜👤 amlib
 
-- ⭐ 554 分｜💬 316 留言｜👤 ocd
+### 19. [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html)
 
-### 20. [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)
+- ⭐ 67 分｜💬 38 留言｜👤 reasonableklout
 
-- ⭐ 435 分｜💬 54 留言｜👤 porridgeraisin
+### 20. [What's 新 in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime)
 
-### 21. ['C:\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
+https:&#x2F;&#x2F;devblogs.Microsoft.com&#x2F;dotnet&#x2F;announcing-dotnet-11&#x2F;
 
-- ⭐ 26 分｜💬 14 留言｜👤 TheIncredibleCh
+- ⭐ 217 分｜💬 153 留言｜👤 stevefan1999
 
-### 22. [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
+### 21. [An Open Field Guide to 推論 Engineering](https://docs.modelplane.ai/guides/inference-guide)
 
-- ⭐ 104 分｜💬 30 留言｜👤 Ivoah
+- ⭐ 53 分｜💬 6 留言｜👤 d-ramdass
 
-### 23. [Horible public key tricks](https://maurycyz.com/projects/badcert/)
+### 22. [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 
-- ⭐ 197 分｜💬 63 留言｜👤 Curiositry
+- ⭐ 310 分｜💬 368 留言｜👤 plun9
 
-### 24. [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
+### 23. [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)
 
-- ⭐ 66 分｜💬 45 留言｜👤 FinnLobsien
+- ⭐ 130 分｜💬 100 留言｜👤 Yorothegoat
 
-### 25. [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
+### 24. [The planet Vulcan: a cautionary tale](https://kevinboone.me/vulcan.html)
 
-- ⭐ 64 分｜💬 7 留言｜👤 mebcitto
+- ⭐ 31 分｜💬 7 留言｜👤 andsoitis
 
-### 26. [Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
+### 25. [Apple has 新 Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 
-https:&#x2F;&#x2F;www.cell.com&#x2F;cell-reports-physical-science&#x2F;fulltext&#x2F;...
+- ⭐ 44 分｜💬 12 留言｜👤 linolevan
 
-- ⭐ 330 分｜💬 224 留言｜👤 speckx
+### 26. [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 
-### 27. [Formalizing CPython](https://broyojo.com/python-formalization/)
+https:&#x2F;&#x2F;網頁.archive.org&#x2F;網頁&#x2F;20261110172054&#x2F;https:&#x2F;&#x2F;blog.infe...
 
-- ⭐ 102 分｜💬 40 留言｜👤 carnevalem
+- ⭐ 206 分｜💬 109 留言｜👤 speckx
 
-### 28. [What's 新 in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime)
+### 27. [What constant surveillance is doing to children and parents](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
 
-- ⭐ 19 分｜💬 0 留言｜👤 stevefan1999
+https:&#x2F;&#x2F;archive.is&#x2F;opw0i, https:&#x2F;&#x2F;wallhop.io&#x2F;https:&#x2F;&#x2F;www.theatlantic.com&#x2F;magazine&#x2F;2026...
 
-### 29. [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
+- ⭐ 189 分｜💬 185 留言｜👤 FinnLobsien
 
-hey HN, i built this because I&#x27;m a satellite nerd who was bored this past weekend.type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak cata
+### 28. [M John Harrison becomes first science fiction author to win the Booker](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 
-- ⭐ 407 分｜💬 76 留言｜👤 a585gupt
+- ⭐ 119 分｜💬 86 留言｜👤 sorokod
 
-### 30. [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
+### 29. [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 
-- ⭐ 175 分｜💬 15 留言｜👤 nomi_uw
+- ⭐ 121 分｜💬 70 留言｜👤 jaypatelani
+
+### 30. [Queens Public Library under ransomware attack](https://connect.queenslibrary.org/)
+
+- ⭐ 190 分｜💬 106 留言｜👤 rustyhancock
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Taking another shot at the cheap IP camera, part 2
+- The Hardest Tarball?
+- Fossil CO2 emissions decrease in 2026
+- Variable-width Bézier curves (2025)
+- The death knell of digital search
+- Businesses in ChatGPT – OpenAI
+- Billion Watts in the Speaker [video]
+- Work at the Frontier: AI's effect on freelance work
+- Starlink Mini 2
+- A failed experiment in laptop cooling (2025)
+- Foldable Flight: The 最佳 Paper Airplanes
+- Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
+- Shellport: An SSH terminal, file browser and live 伺服器 dashboard
+- Show HN: Ghanaian street games you can play in the browser
+- Show HN: I have trained 15 blood glucose forecasting models on my own data
+- Your TV can see through walls (2025)
+- Let over Lambda–50 Years of Lisp (2008)
+- Ask HR: Systems Engineering's 資深 Pipeline Crisis
+- Locating the source of a mysterious beep
+- Simon Winchester, Author of 'The Professor and the Madman,' Has Died
+- Fireworks AI 安全 breach impacts Notion and their customers
+- Claude Fable 5.2 and Mythos 5.2
+- Tailscale's DNS IPv6 spells out "Tailscale"
+- 為什麼, oh 為什麼, is it so hard to buy a digital bus ticket in 2026?
+- Here comes the sun[light]:An ambient Daylight Clock with time and space controls
+- AI Users have workdays up to 90 min longer than non-users
+- PHP2Shell Deep Dive
+- How hard is it to check for whitespace?
+- Show HN: TheoremSmith: Mass-Producing Hard Proof Problems to Train LLMs
+- Y/N (YC S23) is 招聘 a growth lead to distribute superhuman A.I. storytelling
+- Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint
+- Horible public key tricks
+- USPS now offers official ZIP 代碼 boundary polygons
+- Ultorg: The User Interface for Relational Databases
+- Apple is working on a 新 app called Harbor
+- Building an OOO RISC-V CPU from scratch
+- How do you keep up quality when you vibe-代碼?
+- ClickHouse Acquires Xata
+- Show HN: Every satellite that passed over any place this week, and its photos
+- A primer on GPUs and kernel optimization
+- Alpine Linux and OpenSSH patch flaw that's as bad as it can get
+- Anthropic Targets $1.4T Valuation in IPO
+- Gemini 4 Carbon is now available
+- Fable 5.2 and Jagged AGI
+- Formalizing CPython
 - The first 300-millimeter power silicon carbide (SiC) wafer
 - On Being an 工程師 in 2026
+- Windows Search RCE Vulnerability
 - Google Gemini routes personal Drive files and emails to human annotators
+- Payments Canada 宣布 launch of Canada's Real-Time Rail (RTR) payment 系統
+- E-means: Outperforming k-means in one-tenth the epochs
 - Time for AVIF everywhere?
+- Architecture Decisions for Marin 535B-A23B
 - Muse Ember: Our smallest, most efficient 模型
-- Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse
-- Never Gonna Print You Up
-- Fable 5.2 one-shotted my nephew's dream game
-- Y/N (YC S23) is 招聘 a growth lead to distribute superhuman A.I. storytelling
 - The 網頁 Is More Than Enough
-- Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100
-- Show HN: Someone Was Here – Find out who used your Mac while you were away
-- Russia's combat losses in the data of Rosstat
-- Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far
-- An ode to livelyness analysis; SSA to registers
-- Is Opus 5.5 nerfed? Thinking patterns changed on November 3
-- TPU 8tx and TPU 8i Max
+- Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse
+- Saltline: First-person shooter built by Fable 5.2
+- Fable 5.2 one-shotted my nephew's dream game
+- Never Gonna Print You Up
+- macOS 27.2.1 Fixes eMudhra Certificate Flaw in Command-Line Tools
 - Starship Flight 15 on 11/13 plans to catch both booster and ship
-- CoreWeave bond yield tops 16% as AI credit stress rises
-- Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)
+- Is Opus 5.5 nerfed? Thinking patterns changed on November 3
+- Looks Like the Intelligence Explosion Will Happen in 2027 After All
+- Show HN: Someone Was Here – Find out who used your Mac while you were away
 - Drones built to look like birds evaded detection at Air Force tech exercise
-- Try Gleam
-- Echoloc: A minimalist echolocation horror videogame
-- Deuterium's Impact on OLED Displays (2024)
-- Human Emacs
-- Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI
-- Children of Men: The future is a mirror for the present
-- Research Finds Outright Grants of Cash Are Effective Form of Aid to the Poor
-- Merz: Google 雲端 is sovereign enough for intelligence agencies
-- Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation
-- Pigshell: Unix the 網頁
-- RAM-Altman reports unused RAM on your machine, one email a day
-- A renowned scientist, a deadly snakebite, and a diary that documented it (2025)
-- DeepX claims 推論 up to 100B parameters at less than 5 W
-- Anthropic to Seek $1.3T Valuation in IPO
-- The Qlobe: Rotating Quine (2010)
-- Lean proof to search for US tax loopholes
-- Fun things to do with your VM/370 CE machine – Fun with big computers
-- Exact – a 新 cross platform UI framework
-- Cryptocurrency lawsuit: Ethereum Foundation required "suicide pledge"
-- Indie Game Development with AI
-- 'Stupendously large' primordial black holes ruled out as a dark matter source
-- Unlocking any car from X brand in most of the world
-- AI usage generates a fragile codebase
-- KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
-- Zebkit – Chromium as an embeddable library
-- Show HN: Recalc – Spreadsheet where cells can be Claude 代碼 or Codex terminals
-- Ask HN: What are you working on? (November 2026)
-- 什麼是 malloc doing, anyway?
-- Show HN: Flide: Make Jev-like decision models up to 9.5x faster
-- Quasi-Logarithmic Kitchen Timer
-- NVIDIA CEO Jensen Huang's letter to staff about affair
-- I ran 120B MoE models on my 32GB M1 Max using under 16 GB
-- Claude Fable 5.2 launch offers
-- China drafts lifetime ID codes for every robot it makes, not just humanoids
-- When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385
-- Magnets and Rare Earths
-- ChatGPT Desktop forwards your SSH 代理 to 遠端 machines
-- Goldman Sachs is pulling Claude 代碼 from its bankers and traders
-- Testing Claude on real-world electronics design
-- Psalm 7 release: PHP 安全&static analysis 軟體
-- PixelOS
-- Active Benchmarking
-- Outlook.com is rejecting email from domains without DMARC
-- I'm not convinced the AI bubble exists
-- Show HN: Airgap-check – find what your AI app silently downloads offline
-- The Learjet Repo Man (2009)
-- Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints
-- JIT bitmap text rendering for microcontrollers
-- Supply chain attack on Qubole customers
+- Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100
+- Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics
+- Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far
+- Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)
+- Contract: Digital Archivist, Historical Systems
 
 
 ---
