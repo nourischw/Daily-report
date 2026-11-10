@@ -4,191 +4,193 @@
 
 ---
 
-### 1. [Nous Research改造Qwen模型，注入西方價值並減少政治偏差](https://www.ithome.com.tw/news/180350)
+### 1. [微軟WinApp CLI新增WinUI DevTools，AI代理可檢查執行中的介面元件](https://www.ithome.com.tw/news/180394)
 
-美國AI研究新創Nous Research上周五（11/6）發表Arete-27B，透過後訓練改造阿里巴巴的Qwen3.8-27B模型，強化言論自由、民主、自由市場及個人隱私等西方價值觀，以減少政治敏感議題上的偏差，同時保留模型原有能力。
-
-- 📰 **iThome 科技**
-
-### 2. [法國將10月冷凍、冷藏設備網攻歸因於伊朗網軍，波及700多處零售據點、損失數千萬歐元](https://www.ithome.com.tw/news/180349)
-
-法國政府11月9日宣布，將10月11日晚間至12日凌晨針對境內大型零售業者發動的網路攻擊，正式歸因於伊朗革命衛隊旗下的網路攻擊單位Shahid Kaveh。攻擊者鎖定法國700多處零售據點的冷凍、冷藏設備控制器，將設備的除霜溫度設定調高，造成大量食品損失，並至少引發15起火災。
+微軟發布Windows應用程式命令列開發工具WinApp CLI 0.8，新增實驗性預覽功能WinUI DevTools，讓開發者及AI代理檢查執行中的WinUI 3應用程式，查看介面元件屬性、版面配置及對應的XAML原始碼位置，也能即時測試修改結果。新版另加入效能分析及C++專案支援。
 
 - 📰 **iThome 科技**
 
-### 3. [整合開發環境GoLand 2026.3讓AI代理直接操作效能分析器，追��Go程式瓶頸](https://www.ithome.com.tw/news/180347)
+### 2. [涉嫌入侵美國大學進行非法加密貨幣挖礦的加拿大駭客，被引渡至美國受審](https://www.ithome.com.tw/news/180396)
 
-JetBrains發布Go語言整合開發環境GoLand 2026.3，開放效能分析工具供AI代理操作。開發者只要描述API回應緩慢、CPU使用率過高或記憶體持續增加等問題，AI代理便可啟動程式、收集效能資料，找出耗費資源的函式與程式碼位置。目前已支援Claude 代碼、Codex及Junie。
-
-- 📰 **iThome 科技**
-
-### 4. [AI加快漏洞發現與攻擊速度，2027年企業資安面臨四大變化](https://www.ithome.com.tw/news/180299)
-
-隨著AI加快漏洞發現與攻擊速度，漏洞公開後可能很快就遭到利用，企業若仍按照固定週期修補漏洞，可能無法及時因應攻擊。
+美國司法部於11月3日公告，兩名加拿大男子Ryan James Roach（35歲）與Mathiew James Stubbings（41歲），涉嫌在2016年6月至2019年12月間，入侵紐約、田納西、北卡羅來納及麻薩諸塞州教育機構的系統，竊取登入憑證，並植入惡意程式，利用受害電腦挖掘加密貨幣。
 
 - 📰 **iThome 科技**
 
-### 5. [Cloudflare推出漏洞情報服務，整理網際網路服務相關重大漏洞](https://www.ithome.com.tw/news/180297)
+### 3. [應用程式安全檢測可透過臺灣SaaS平臺執行，叡揚���訊促成Mend臺灣雲端區域上線](https://www.ithome.com.tw/news/180393)
 
-網路基礎設施與資安業者Cloudflare近期推出公���漏洞情報服務Zero Wire，這項服務已在Cloudflare Radar平臺上線，非Cloudflare客戶也能查閱相關資訊。
-
-- 📰 **iThome 科技**
-
-### 6. [親俄網路間諜組織Gorbag鎖定烏克蘭政府，透過網釣郵件及WinRAR漏洞竊取情報](https://www.ithome.com.tw/news/180261)
-
-資安業者ESET調查親俄網路間諜組織Gorbag的攻擊活動，發現該組織至少自2025年2月起，針對烏克蘭政府、司法及執法機關、國防相關單位發動攻擊，目標還包括外國軍援物資的重要運輸據點。研究人員研判，攻擊者可能藉此蒐集與俄烏戰爭有關的情報。
+因應臺灣企業與組織對於主權IT的重視程度日益提高，越來越多國際資安廠商選擇在臺灣提供在地化的雲端服務。
 
 - 📰 **iThome 科技**
 
-### 7. [搶攻企業AI規模化的需求，Google新推兩款TPU新系統，TPU首度支援機密運算](https://www.ithome.com.tw/news/180336)
+### 4. [捐款人個資恐外洩！netiCRM服務商遭駭，公督盟、司改會等超過30個非營利組織接連示警](https://www.ithome.com.tw/news/180384)
 
-為了搶攻企業AI規模化的需求，Google再次加快TPU產品的發布速度，首度一年推出四款TPU產品。 Google今天發表了兩款第八代TPU新系統，分別是支援機密運算的TPU 8tx，以及因應百萬級Token上下文需求的TPU 8i Max。 
-Google今年4月才在Next大會發表兩款針對AI生命週期不同用途設計的第八代TPU晶片 ，瞄準大規模模型訓練最佳化的TPU 8t，以及針對低延遲推論最佳化的TPU 8i。不到半年，Google在這兩款TPU晶片的基礎上，推出了兩款新的TPU系統。
-
-- 📰 **iThome 科技**
-
-### 8. [美國CISA警告SonicWall資安漏洞遭積極利用](https://www.ithome.com.tw/news/180346)
-
-11月6日美國網路安全與基礎設施安全局（CISA）更新已知遭利用的漏洞名單（KEV），指出已掌握SonicWall SonicOS SSL VPN漏洞CVE-2026-19868遭到實際利用的證據，因此將其納入KEV清單。這項漏洞涉及身分驗證機制的安全問題，CISA並要求美國聯邦機構在14天內完成漏洞修補或採取緩解措施。
+臺灣非營利組織使用的捐款管理系統netiCRM傳出資安事件，服務商網絡行動科技部分伺服器遭外部攻擊者入侵，包括婦女新知基金會、公民監督國會聯盟、民間司法改革基金會及台灣同志諮詢熱線協會等超過30個非營利組織相繼發布公告，提醒捐款人留意可疑來電與詐騙訊息。其中，公督盟已預防性暫停線上捐款及活動報名服務，至於是否涉及捐款人個資外洩，目前仍在調查中。由於相關公告持續增加，究竟有多少組織受到波及，以及是否所有使用netiCRM的組織都受到影響，仍有待進一步釐清。
 
 - 📰 **iThome 科技**
 
-### 9. [SonicWall修補SSL-VPN身分驗證繞過漏洞，原廠示警可能遭利用](https://www.ithome.com.tw/news/180345)
+### 5. [英特爾在臺揭露主流PC、邊緣運算到資料中心最新運算架構，加速布局代理 AI](https://www.ithome.com.tw/news/180395)
 
-SonicWall於11月6日發布資安公告，揭露旗下防火牆作業系統SonicOS存在7項安全漏洞，其中最值得關注的是身分驗證繞過漏洞CVE-2026-19868，因為該公司強調已調查這項漏洞可能遭利用的通報事件，呼籲客戶儘速更新系統。
-
-- 📰 **iThome 科技**
-
-### 10. [日本警方查獲車載偽基地臺，逮捕涉嫌干擾手機通訊的男子，並追查釣魚簡訊活動](https://www.ithome.com.tw/news/180339)
-
-日本總務省關東綜合通信局11月9日發布公告指出，查獲一起車載偽基地臺案件，一名居住在東京都北區的31歲中國籍男子，涉嫌在自己駕駛的車輛內，未經許可設置俗稱「偽基地臺」的無線設備，干擾行動通訊。
-該局表示，這類偽基地臺可冒充合法行動通訊基地臺，向附近手機發送簡訊，進而用於網路釣魚詐騙等活動，該局已在11月7日與警視廳展開聯合逮捕行動，並以涉嫌違反相關法規為由告發犯嫌。
+英特爾在今年8月舉行的Hot Chips 2026展示最新架構，反映AI運算競爭正在改變方向。過去幾年，市場焦點多集中於大型模型訓練，需要大量GPU算力與資料中心資源，但隨著生成式AI逐漸進入企業應用，接下來的挑戰將轉向如何讓模型被廣泛使用，也就是大規模推論。
+呼應「推論 Everywhere」的策略願景，英特爾今天(11/10)在臺揭露AI PC、資料中心GPU與CPU三個層面布局AI運算，包括讓AI能力進入更多PC與邊緣裝置的Core系列3，以及降低企業部署AI推論成本的GPU D系列，還有提供企業級代理 AI協調運算能力的下一代Xeon。
 
 - 📰 **iThome 科技**
 
-### 11. [OpenAI Images 2.6支援GIF動畫生成，API新增SVG圖檔輸出與編輯控制](https://www.ithome.com.tw/news/180340)
+### 6. [WorkOS資料外洩事故出現新進展，AI滲透測試框架突破測試環境釀禍](https://www.ithome.com.tw/news/180388)
 
-OpenAI推出新版影像生成技術Images 2.6，支援製作GIF動畫，並擴充影像生成API的SVG輸出與編輯控制功能，新版已在ChatGPT、Codex及API推出，官方表示，影像生成速度較以往提高50%。
-Images 2.6可依據文字指令製作循環播放的GIF動畫，也能將手繪草圖轉成動態角色，應用包括品牌吉祥物、產品展示及社群貼圖。ChatGPT使用者可調整動畫播放速度並分享GIF，目前GIF生成功能正逐步開放，開發者也能透過API指定動畫影格數量及每個影格的顯示時間，單段GIF支援2至16個影格。
-
-- 📰 **iThome 科技**
-
-### 12. [調查局史上首位科技專業副局長吳富梅，退休後轉戰鴻海合規長](https://www.ithome.com.tw/news/180344)
-
-今年7月法務部調查局前副局長吳富梅屆齡退休，日前證實轉戰企業界，獲鴻海集團延攬出任企業合規長（Chief Compliance Officer，CCO），因其具備資安專長，被鴻海集團延攬成為企業內的合規長，將負責企業營運符合國內外法規、產業標準及內部道德規範，預防法律訴訟、鉅額罰款與聲譽危機。
-這也是鴻海去年延攬前審計部副審計長李順保出任集團稽查長兼副總經理，再次向公部門延攬資深人才，補強集團治理與風險控管體質。
+上週���分驗證服務公司WorkOS發生資料外洩事故，該公司內部銷售應用程式遭未經授權存取，攻擊者疑似使用AI滲透測試框架ARTEX自動化執行。事隔數日此事出現新的變化，有研究人員承認，其實是他們正在透過ARTEX執行資安基準測試的過程當中，該AI代理意外逃脫隔離測試環境造成。
 
 - 📰 **iThome 科技**
 
-### 13. [GitHub重構Git底層儲存架構，單一儲存庫壓測每秒可接收7,200次推送](https://www.ithome.com.tw/news/180337)
+### 7. [醫療AI從內容生成走向自主行動，衛福部下一階段指引瞄準代理治理](https://www.ithome.com.tw/news/180379)
 
-GitHub公布新一代Git儲存架構Rubicon，因應大量AI代理同時操作單一程式碼儲存庫的需求。新Git儲存架構經官方內部測試，可支援5,000個AI代理同時作業，每秒處理7,200次程式碼推送（Push），讀取仍維持低延遲。新架構目前僅提供有限私人預覽。
-
-- 📰 **iThome 科技**
-
-### 14. [宏碁智新因委外廠商Cyberbiz資料庫遭異常存取，已暫停線上商店營運](https://www.ithome.com.tw/news/180321)
-
-11月6日宏碁集團旗下的上櫃居家生活業者宏碁智新（7794）發布資安事件重大訊息，指出11月5日下午該公司從媒體報導得知，線上商店委外服務廠商順立智慧（Cyberbiz）的其他客戶發生資料庫遭未經授權存取事件，因此立即暫停線上商店營運，並向廠商確認自家商店是
+衛福部今年5月發布醫療機構生成式AI應用指引，為醫院導入生成式AI提供風險管理參考，但能自主決策、採取行動的AI 代理，尚未納入適用範圍。
+衛福部醫事司司長劉越萍10月初在臺灣醫院資訊主管會議上指出，下一階段指引需要回應AI從內容生成走向自主行動的挑戰，讓醫療機構更清楚應用時的注意事項。面對AI持續進入醫療流程，她也提醒，醫院應先盤點院內AI工具、釐清責任，再依風險安排驗證與持續監測。
 
 - 📰 **iThome 科技**
 
-### 15. [有民眾透過AI學會架設自動化網路攻擊系統，高雄警方破案示警網路犯罪門檻降低](https://www.ithome.com.tw/news/180317)
+### 8. [美國司法部成立AI犯罪專責單位，打擊詐騙及其他非法活動](https://www.ithome.com.tw/news/180378)
 
-高雄市政府警察局刑事警察大隊11月6日公布一起駭客竊取個資案件，38歲林姓男子涉嫌透過AI學會程式撰寫及網路架設技術，建立自動化網路攻擊系統，非法侵入網站後臺，竊取超過23萬筆會員及客戶個人資料，再於網路上販售牟利。警方已於10月將嫌犯查緝到案，全案依妨害電腦使用罪嫌移送高雄地方檢察署偵辦。
-
-- 📰 **iThome 科技**
-
-### 16. [威聯通警告部分NAS設備遭遇Plex2Shell漏洞攻擊](https://www.ithome.com.tw/news/180338)
-
-10月下旬研究人員公布影音串流平臺Plex的漏洞利用鏈Plex2Shell（CVE-2026-96652、CVE-2026-96654、CVE-2026-96655、CVE-2026-96656），不久後便出現實際攻擊活動，如今有NAS廠商透露用戶遭遇相關攻擊，呼籲儘速採取行動因應。
+美國司法部宣布成立超級智慧任務編組（Super Intelligence Task Force，DOJ-SITF），以打擊美國國內外的AI詐騙或駭客行為。
+這是9月底美國總統川普將人工智慧（AI）改名為超級智慧（SI）後，美國政府持續在法制化機構中落實確保美國在AI產業領先地位的行動。
 
 - 📰 **iThome 科技**
 
-### 17. [【資安日報】11月9日，AI自動化攻擊系統BossAI鎖定臺灣緊急應變服務](https://www.ithome.com.tw/news/180334)
+### 9. [AWS支援以暫時性憑證跨分區存取雲端資源，減少長期金鑰依賴](https://www.ithome.com.tw/news/180369)
+
+AWS擴充安全權杖服務（AWS 安全 Token Service，STS），讓工作負載可以使用原有的身分，在不同AWS分區（AWS Partitions）取得暫時性憑證，存取獲得授權的雲端資源。企業不必再替跨分區作業另外保存長期有效的IAM存取金鑰，可減少金鑰外洩風險及管理負擔。
+
+- 📰 **iThome 科技**
+
+### 10. [N-able遭揭露逾30個零時差漏洞，緊急關閉全球N-central雲端服務，要求本地建置客戶停機](https://www.ithome.com.tw/news/180377)
+
+IT管理軟體公司N-able旗下的遠端監控與管理（RMM）平臺N-central，近日遭研究人員公布一系列資安漏洞，其中部分漏洞可串聯形成遠端程式碼執行（RCE）攻擊鏈，使攻擊者取得系統管理權限。N-able於11月9日宣布重大資安事件，緊急關閉全球託管版N-central服務，並要求本地建置的客戶暫時關閉伺服器。
+
+- 📰 **iThome 科技**
+
+### 11. [【資安日報】11月10日，甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動](https://www.ithome.com.tw/news/180375)
 
 本日新聞焦點
-● AI自動化攻擊系統BossAI鎖定臺灣緊急應變服務
-● 駭客冒用被竊Entra ID憑證入侵多家MSP，並波及下游客戶
-● Rails修補重大漏洞，使用ImageMagick處理上傳圖片的網站需留意
+● 甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動
+● 法國將10月冷凍與冷藏設備網攻歸因於伊朗，波及約700處零售據點
+● SEGA集團因日本Arara資安事件外洩資料近220萬筆
 
 - 📰 **iThome 科技**
 
-### 18. [Anthropic應用市集目前已有超過25款���理人、服務](https://www.ithome.com.tw/news/180332)
+### 12. [CISA警告SSHole等4個資安漏洞已遭積極利用](https://www.ithome.com.tw/news/180368)
 
-Anthropic上周宣布新增其平臺Claude Marketplace第三方應用市集的合作夥伴，目前已有超過25項代理人及服務。
-
-- 📰 **iThome 科技**
-
-### 19. [天仁會員與線上商城平臺訂單資料恐受91APP資安事件波及](https://www.ithome.com.tw/news/180330)
-
-連鎖茶飲品牌天仁（1233）11月6日於股市公開資訊觀測站發布重大訊息，其線上平臺委外服務廠商91APP發生網路資安事件，遭受自動化攻擊的資料庫包含天仁會員與線上商城平臺「熟客圈」的訂單資料，天仁接獲委外服務廠商通知後，隨即啟動應變機制，目前評估此次事件對公司財務、業務及營運皆無重大影響，且尚未接獲會員
+11月9日美國網路安全與基礎設施安全局（CISA）發布公告指出，他們已掌握4個漏洞遭到積極利用的證據，將其列入已遭利用漏洞名單（KEV），這些漏洞是：GPU資源管理及AI模型服務部署GPUStack身分驗證不當漏洞CVE-2026
 
 - 📰 **iThome 科技**
 
-### 20. [臺鹽線上商城委外廠商資料庫遭未授權存取](https://www.ithome.com.tw/news/180328)
+### 13. [一旦影像模糊或遭竄改，AI機器人恐因視覺判斷失準，嘗試執行可能傷害人的危險動作](https://www.ithome.com.tw/news/180364)
 
-11月6日臺鹽（1737）於股市公開資訊觀測站發布重大訊息，線上商城委外服務廠商順立智慧（Cyberbiz）通知其資料庫部分資料遭未經授權異常存取，包含臺鹽電子商城「台鹽線上購」的訂單及消費者個人資料。
-
-- 📰 **iThome 科技**
-
-### 21. [ElevenLabs攜手SoundCloud，開放直接發布AI生成音樂](https://www.ithome.com.tw/news/180326)
-
-AI語音技術業者ElevenLabs周四（11/5）宣布與音樂分享平臺SoundCloud合作，讓使用者可將旗下ElevenMusic生成的AI歌曲直接發布至SoundCloud，省去下載及重新上傳的程序，簡化AI音樂從創作到公開發表的流程。
+AI機器人獨立評測公司Robocurve於11月6日公布一項研究，發現當AI模型控制實體機器人執行任務時，攝影機影像若遭到模糊處理或刻意竄改，可能大幅影響其安全判斷。研究團隊在特定實驗條件下測試5款多模態AI模型，發現在原始影像下，模型嘗試執行危險任務的比例為27%，但畫面模糊後升至87.7%，若改以刻意竄改的影像測試，比例更達97%。
 
 - 📰 **iThome 科技**
 
-### 22. [傳微軟AI Frontiers部門併回Microsoft AI，主管離職](https://www.ithome.com.tw/news/180325)
+### 14. [Meta推出輕量級模型Muse Ember，每任務成本是Claude Haiku 5.5的1/3](https://www.ithome.com.tw/news/180367)
 
-微軟研究（Microsoft Research）近日傳出關閉AI尖端（AI Frontiers）部門，成員併回Microsoft AI事業群，而主管則宣布離開公司。
-AI Frontiers��門主管John Langford在個人X帳號及個人部落格宣布AI Frontiers的結束，並形容留下計畫失敗（train wreck），痛苦難以表達。
+Meta周一（11月9日）公布輕量級模型Muse Ember，挑戰Claude Haiku 5.5、GPT 6 Luna，宣稱以1/3成本達到Anthropic Claude Haiku 5.5的測試效能。
 
-- 📰 **iThome 科技**
-
-### 23. [日本ISP業者Arara遭駭，影響小學館、BIC Camera、摩斯漢堡等數百家客戶，可能外洩8,100萬筆資訊](https://www.ithome.com.tw/news/180324)
-
-日本知名ISP Arara母公司PayCloud上週六公告，旗下Arara公司的郵件發送服務Arara Message及相關伺服器環境發生攻擊事件，造成郵件發送服務7,700萬筆在內共超過8,100萬筆客戶資訊可能外洩，影響超過380家企業客戶。
 
 - 📰 **iThome 科技**
 
-### 24. [駭客在GitHub散布假資安工具，利用Visual Studio編譯流程植入後門](https://www.ithome.com.tw/news/180316)
+### 15. [Ethersphere發布流程遭入侵，惡意版bee-js與Swarm Desktop經官方管道散布](https://www.ithome.com.tw/news/180362)
 
-資安廠商Dr.網頁揭露，駭客在GitHub散布偽裝成資安工具的惡意專案，將惡意程式碼藏入Visual Studio專案檔，以及Python、Go原始碼。開發者若觸���埋藏在專案中的指令，電腦可能遭植入遠端存取後門與資訊竊取程式。研究人員指出，調查時已有超過2,000臺電腦遭感染。
-
-- 📰 **iThome 科技**
-
-### 25. [日本保險集團MS&amp;amp;AD保戶網站遭存取，外洩三井住友等客戶資料72萬筆](https://www.ithome.com.tw/news/180323)
-
-日本MS&amp;amp;AD控股公司上週（11月6日）發布公告，旗下包括三井住友海上、愛和誼日生同和壽險和產險被存取保戶專用網站，外洩客戶個資超過72萬筆。
+去中心化儲存網路Swarm的開發組織Ethersphere遭軟體供應鏈攻擊，攻擊者利用專案的GitHub發布流程，將含有惡意程式的JavaScript套件bee-js 13.3.0上架NPM，並發布Swarm Desktop 0.56.2。惡意程式可竊取節點錢包金鑰，並在使用者電腦植入遠端控制後門。
 
 - 📰 **iThome 科技**
 
-### 26. [倚天酷碁與宏碁風尚線上商店委外服務商Cyberbiz發生資安事件](https://www.ithome.com.tw/news/180322)
+### 16. [ShinyHunters兜售宣稱竊自Binance 3.3億用戶的資料](https://www.ithome.com.tw/news/180366)
 
-宏碁集團所屬的電腦周邊與智慧生活裝置公司倚天酷碁（2432）於11月6日發布重大訊息，表示該公司與
-
-- 📰 **iThome 科技**
-
-### 27. [Perplexity推出Teammates，支援多個常駐AI代理人分工協作](https://www.ithome.com.tw/news/180320)
-
-隨著科技業者相繼投入主動型AI代理人市場，Perplexity周三（11/4）宣布推出Teammates，讓使用者建立多個常駐AI代理人，各自負責長期專案，主動追蹤進度、執行任務，並互相交辦工作。
+自稱是ShinyHunters成員的駭客近日聲稱駭入加密貨幣交易平臺Binance內部系統，並取得超過3.35億用戶資料並欲兜售，但遭Binance否認。
+Bleeping Computer報導，一個自稱是ShinyHunters的人士在一個新興暗網上張貼訊息，打算出售竊自Binance的資訊。
 
 - 📰 **iThome 科技**
 
-### 28. [諾貝兒線上商店委外廠商Cyberbiz資料庫遭異常存取，客戶訂單資料恐受影響](https://www.ithome.com.tw/news/180319)
+### 17. [甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動](https://www.ithome.com.tw/news/180365)
 
-經營丁丁藥局的上櫃公司諾貝兒寶貝（6844）11月8日（週日）發布資安事件重大訊息，指出接獲線上商店委外服務廠商順立智慧（Cyberbiz）通知，其資料庫部分資料遭未經授權的異常存取，而該資料庫亦存有諾貝兒線上商店平臺的訂單相關資料，因此訂單資料可能受到影響。
-
-- 📰 **iThome 科技**
-
-### 29. [展碁國際子公司好漾生活先行暫停線上商店營運，釐清線上商店委外業者Cyberbiz資安事件影響](https://www.ithome.com.tw/news/180327)
-
-11月6日上市電子通路業者展碁國際（6776）發布資安事件重大訊息，指出子公司好漾生活的線上商店委外服務廠商順立智慧（Cyberbiz），部分客戶發生資料庫部分資料遭未經授權存取事件，展碁國際得知此事後，持續關注事件發展，並與順立智慧保持聯繫，以釐清好漾生活
+11月5日OpenSSH開發團隊發布緊急更新10.6p2，公布及修補能透過長密碼利用的身分驗證繞過漏洞SSHole（CVE-2026-123158），資安公司Previdian透露，他們在前述公告發布的9小時內首度偵測到漏洞利用攻擊，對方在執行Alpine Linux與OpenSSH的蜜罐陷阱裡，成功繞過身分驗證流程，並以root的權限入侵系統。
 
 - 📰 **iThome 科技**
 
-### 30. [半導體封測廠精材遭不明IP位址入侵，客戶與員工聯絡資訊外洩](https://www.ithome.com.tw/news/180318)
+### 18. [主機服務商DreamHost遭駭，用戶FTP帳號密碼及網頁郵件工作階段資訊外洩](https://www.ithome.com.tw/news/180363)
 
-半導體封測廠商精材（3374）於11月6日發布重大訊息，表示發現不明IP位址侵入內部資訊系統，造成某客戶、部分供應商及少數員工的名稱與商務郵件聯絡資訊外洩。
+美國主機代管與網域註冊業者DreamHost近日揭露資安事件，攻擊者利用其網頁版檔案管理工具File 經理的軟體漏洞，入侵執行該服務的伺服器，竊取部分使用者的FTP及SFTP帳號名稱與密碼，這起事件從今年8月開始發生，直到10月23日才被發現。
+
+- 📰 **iThome 科技**
+
+### 19. [駭客利用假冒CWP網頁伺服器程式散布新型後門，全球逾34萬臺CWP主機暴露網際網路](https://www.ithome.com.tw/news/180361)
+
+中國資安業者奇安信威脅研究團隊XLab於11月5日揭露新型Linux後門程式CWPdoor，利用被竄改的開源Linux網頁伺服器管理工具Control 網頁 Panel（CWP）執行檔散布，並指出全球有逾34萬個CWP主機實例暴露於網際網路，可能成為攻擊目標 。
+
+- 📰 **iThome 科技**
+
+### 20. [韓國聯合5家海運業者演練船舶資安事故，模擬供應鏈攻擊造成船岸通訊中斷](https://www.ithome.com.tw/news/180359)
+
+船舶資安已成為各國關注的議題，韓國網際網路振興院（KISA）於11月3日宣布，聯合5家海運業者及相關政府機關，舉行船舶資安事件應變演練，模擬攻擊者假冒港務機關發送惡意電子郵件，並透過遭感染的合作廠商電腦竄改船舶軟體更新檔，導致船上電腦及通訊伺服器遭惡意程式感染，進而造成船岸通訊受阻。
+
+- 📰 **iThome 科技**
+
+### 21. [易遊網會員中心遭網路攻擊，逾69萬人歷史訂單聯絡資料受影響](https://www.ithome.com.tw/news/180354)
+
+旅遊電商平臺易遊網揭露發生資安事件，指出11月7日主動偵測到會員中心出現外部異常網路攻擊，經初步清查，確認部分歷史訂單聯絡資料遭不當取得，受影響人數超過69萬人。
+
+- 📰 **iThome 科技**
+
+### 22. [Google發布Chrome 157更新，修補已遭利用的資安漏洞](https://www.ithome.com.tw/news/180360)
+
+Google於11月9日發布Chrome 157穩定版更新，修補9個安全漏洞，7個為高風險等級、2個為中度風險等級，存在於WebGL、GPU、V8、XML，以及FileSystem等瀏覽器元件。
+
+- 📰 **iThome 科技**
+
+### 23. [台灣櫻花購物商城的委外廠商資料庫遭異常存取，訂單及消費者個資恐受影響](https://www.ithome.com.tw/news/180358)
+
+11月9日家電及廚房設備製造商櫻花（9911）於股市公開資訊觀測站發布重大訊息，指出公司接獲旗下「SAKURA台灣櫻花官方購物商城」的委外服務廠商順立智慧（Cyberbiz）近日通知，表示其資料庫遭到未經授權的異常存取，涉及櫻花購物商城的訂單及消費者個人資料。
+
+- 📰 **iThome 科技**
+
+### 24. [存在漏洞且暴露於網際網路的Danfoss��藏控制器，Shadowserver示警全球仍有170臺](https://www.ithome.com.tw/news/180357)
+
+歐洲多國冷凍冷藏系統接連遭到網路攻擊，攻擊者遠端操控冷凍冷藏設備的控制器，導致冷藏設備進入除霜模式或溫度設定遭到竄改。
+
+- 📰 **iThome 科技**
+
+### 25. [美吾華購物網站疑似個資外洩，茅頭指向委外的電商服務系統](https://www.ithome.com.tw/news/180356)
+
+生技醫療公司美吾華（1731）於11月9日，在股市公開資訊觀測站發布重大訊息，該公司於11月6日接獲線上購物網站會員反映疑似個資外洩，經初步了解，事件與公司委外的電商平臺服務廠商系統有關，確切原因及影響範圍仍在調查中。
+
+- 📰 **iThome 科技**
+
+### 26. [SemiAnalysis揭中國AI資料中心建設成本僅美國1/5](https://www.ithome.com.tw/news/180355)
+
+美國半導體與AI基礎設施研究機構SemiAnalysis於11月8日發表報告，揭露中國內蒙古一座大型AI資料中心僅花一年便完成120MW設施，建設成本只有美國的1/5，並已測試800V直流電供電技術，展現中國在AI基礎設施建設速度、成本及能源整合上的優勢。
+
+- 📰 **iThome 科技**
+
+### 27. [SEGA集團因日本Arara資安事件外洩資料220萬筆](https://www.ithome.com.tw/news/180353)
+
+日本遊戲大廠SEGA上週公告，因委外的郵件發送服務商Arara發生資安事件影響，SEGA遊戲製作及SEGA玩具製造部門SEGA FAVE外洩客戶電子郵件地址將近220萬筆。
+SEGA指出，近日接獲負責公司集團下SEGA及SEGA FAVE部分電子報發送的Arara通知，Arara的郵件發送系統遭第三方未授權存取，導致用於發送電子報的訂閱客戶電子郵件地址及部分個資外洩。
+根據分析，已確認外流的客戶資訊包括數份電子報訂戶的電子郵件地址2,196,044筆，以及隨信發送的用戶個人資訊92,273筆。
+
+- 📰 **iThome 科技**
+
+### 28. [曜亞子公司線上購物平臺遭委外廠商資安事件波及，訂單資料遭異常存取](https://www.ithome.com.tw/news/180352)
+
+11月9日晚間生技醫療公司曜亞（4138）於股市公開資訊觀測站發布資安重訊，旗下重要子公司曜胜生技的線上商店「DR CYJ購物網」，受到委外服務廠商順立智慧（Cyberbiz）資安事件影響，購物平臺訂單相關資料遭未經授權異常存取。根據初步評估，此次事件對曜胜財務及業務尚無重大影響。
+
+- 📰 **iThome 科技**
+
+### 29. [崇越子公司安永生活電商委外服務商發生異常資料存取，清查受影響範圍](https://www.ithome.com.tw/news/180351)
+
+11月9日半導體材料整合服務商崇越（5434）於股市公開資訊觀測站發布資安重訊，旗下子公司安永生活的電商平臺委外服務商順立智慧，近期發生異常資料存取情形。
+
+- 📰 **iThome 科技**
+
+### 30. [DigiCert資料外洩起因是伺服器遷移設定錯誤，導致內部系統暴露於網際網路](https://www.ithome.com.tw/news/180342)
+
+憑證管理公司DigiCert於11月5日證實發生資料外洩事件，因伺服器遷移過程中的設定錯誤，導致原本僅供內部使用的業務系統暴露於網際網路，攻擊者利用系統授權控管漏洞，未經授權存取部分封存客戶資料，外洩資訊包含個人聯絡資料及身分證明文件。
 
 - 📰 **iThome 科技**
 
@@ -196,6 +198,31 @@ AI Frontiers��門主管John Langford在個人X帳號及個人部落格宣布
 
 ### 更多 AI 新聞 (70則)
 
+- Ring’s Indoor Drone Camera Is Back—and Now Powered by AI (**Wired**)
+- The Grindr 1 Percent Is Getting Its Own Gated Community (**Wired**)
+- Louis Rossmann Wants More People to Care About the Right to Repair (**Wired**)
+- 最佳 Gifts for Hikers, Backpackers, Outdoorsy People (2026) (**Wired**)
+- Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers (**Wired**)
+- The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are (**Wired**)
+- Huupe Mini 2 Review: More Game Than It Can Handle (**Wired**)
+- Here’s What We Know About the X-70 Fractal, NASA’s Experimental 新 Plane (**Wired**)
+- 安全 Flaws Across UK Government Sites Exposed ‘God-Tier’ Information (**Wired**)
+- Valvoline Coupons and Promo Codes for November 2026 (**Wired**)
+- Office Depot Coupons: $20 Off November 2026 (**Wired**)
+- Bose Promo 代碼: 40% Off for November 2026 (**Wired**)
+- Rover Promo Codes and Referral Deals for November 2026 (**Wired**)
+- Naturepedic Promo Codes: Get 20% Off Plus Free Pillows (**Wired**)
+- Sam's Club Promo Codes and Membership Deals for November 2026 (**Wired**)
+- Chirp Discount Codes: 67% Off (**Wired**)
+- Barkbox Promo Codes and Discounts: Up to 50% Off (**Wired**)
+- Sealy Promo Codes: $100 Off (**Wired**)
+- Babbel Promo 代碼: Up to 65% Off in November 2026 (**Wired**)
+- H&amp;R Block Coupon: 25% Off DIY + Tax Pro Assist (**Wired**)
+- Braun Promo Codes: 15% Off November 2026 (**Wired**)
+- Casetify Promo Codes | 15% Off November 2026 (**Wired**)
+- Dyson Promo Codes: 25% Off in November 2026 (**Wired**)
+- Breville Promo 代碼: $700 Off | November 2026 (**Wired**)
+- A 新 AI Tool From Google DeepMind Proved the Signal Protocol Is Secure (**Wired**)
 - Jensen Huang’s Troubles Leave the AI Industry Reeling (**Wired**)
 - Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work (**Wired**)
 - The Home Depot 最佳 Early Black Friday Deals (2026) (**Wired**)
@@ -218,34 +245,9 @@ AI Frontiers��門主管John Langford在個人X帳號及個人部落格宣布
 - Wandrd’s Magnetic Camera Straps Are My 新 Favorite Accessory (**Wired**)
 - 如何 Remind Your Boss of Your PTO Without Pissing Them Off (**Wired**)
 - A 55-Year-Old Math Problem Was Solved—This Time by Humans (**Wired**)
-- 6 最佳 Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More (**Wired**)
 - The Apple MacBook Pro M5 is on Sale, and a 熱門 MacBook to Buy Right Now (**Wired**)
+- 6 最佳 Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More (**Wired**)
 - World Models Will Soon Be Inescapable. Here’s What You Need to Know (**Wired**)
-- The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call (**Wired**)
-- 最佳 Wi-Fi Routers (2026): My Honest Picks After Testing 50+ (**Wired**)
-- The 10 最佳 Early Black Friday Headphone Deals (2026) (**Wired**)
-- The 最佳 Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall (**Wired**)
-- This Totally Free App Can Free Up Space on Your Mac (**Wired**)
-- Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough (**Wired**)
-- GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off (**Wired**)
-- He Ran on Fighting Data Centers. Now, He’s Going to Congress (**Wired**)
-- Ecoflow Rapid Pro Power Bank Deal: Save $80 (**Wired**)
-- The 18 最佳 Early Black Friday Deals 2026 (**Wired**)
-- The American Dream Wasn’t Built for Climate Change (**Wired**)
-- The Cybertruck’s Death Is Actually Great News for EVs (**Wired**)
-- How Stephen Miller Schemed His Way to the 熱門 (**Wired**)
-- Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026 (**Wired**)
-- Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites (**Wired**)
-- Free Chinese AI Models Are Getting Scary Good at Hacking (**Wired**)
-- AI Companies Really, Really Want to Buy Your Work Files and Emails (**Wired**)
-- RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd (**Wired**)
-- The 最佳 Automatic Litter Box of 2026: Petkit and Litter-Robot (**Wired**)
-- Horny Grandmas Are Having a Moment (**Wired**)
-- Kitchen Composters I Recommend After 2 Years of Testing (2026) (**Wired**)
-- 10 最佳 Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More (**Wired**)
-- Can a Radar-Equipped AC Actually Cut Your Power Bill? (**Wired**)
-- Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026) (**Wired**)
-- 6 最佳 VPN Services (2026), Tested and Reviewed (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
