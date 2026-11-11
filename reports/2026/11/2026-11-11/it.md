@@ -4,208 +4,210 @@
 
 ---
 
-### 1. [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
+### 1. [AWS emulator](https://github.com/aws/aws-emulator)
 
-- ⭐ 71 分｜💬 24 留言｜👤 eyvindn
+https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-AI-代理...https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-an...
 
-### 2. [Can a Linear Program Do Weight-Space 程式設計?](https://nathan.rs/posts/weight-space-lp/)
+- ⭐ 587 分｜💬 199 留言｜👤 super_linear
 
-- ⭐ 28 分｜💬 3 留言｜👤 emschwartz
+### 2. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 
-### 3. [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
+https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw
 
-- ⭐ 46 分｜💬 16 留言｜👤 lae
+- ⭐ 783 分｜💬 77 留言｜👤 ayhanfuat
 
-### 4. [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+### 3. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 
-- ⭐ 276 分｜💬 98 留言｜👤 js2
+- ⭐ 267 分｜💬 244 留言｜👤 herpderperator
 
-### 5. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+### 4. [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 
-- ⭐ 1050 分｜💬 369 留言｜👤 skittleson
+- ⭐ 50 分｜💬 10 留言｜👤 zenincognito
 
-### 6. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+### 5. [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 
-Previously: .name Termination - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550772 - Sept 2026 (547 comments)
+- ⭐ 65 分｜💬 12 留言｜👤 gslin
 
-- ⭐ 882 分｜💬 191 留言｜👤 p4bl0
+### 6. [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 
-### 7. [Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
+- ⭐ 381 分｜💬 189 留言｜👤 mbac32768
 
-- ⭐ 8 分｜💬 0 留言｜👤 artrax
+### 7. [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 
-### 8. [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
+- ⭐ 214 分｜💬 71 留言｜👤 iamdelirium
 
-- ⭐ 501 分｜💬 325 留言｜👤 NaOH
+### 8. [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
 
-### 9. [Tinfoil (YC P25) is 招聘 an applied AI 安全 工程師 in San Francisco](https://news.ycombinator.com/item?id=50452404)
+- ⭐ 117 分｜💬 43 留言｜👤 ggcr
+
+### 9. [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
+
+- ⭐ 150 分｜💬 67 留言｜👤 bolau
+
+### 10. [NVIDIA prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)
+
+- ⭐ 99 分｜💬 27 留言｜👤 alexmolas
+
+### 11. [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
+
+- ⭐ 7 分｜💬 3 留言｜👤 iceboundrock
+
+### 12. [Huawei releases MACaQ, its internal quantizer for local 推論](https://github.com/huawei-csl/MACaQ)
+
+- ⭐ 45 分｜💬 18 留言｜👤 thefox96
+
+### 13. [The Utah Teapot](https://graphics.cs.utah.edu/teapot/)
+
+- ⭐ 51 分｜💬 13 留言｜👤 cobbal
+
+### 14. [A Brief History of Sierra Online (2017)](https://retrofreakreviews.com/2017/01/30/sierra-retrospective/)
+
+- ⭐ 13 分｜💬 0 留言｜👤 freshtake
+
+### 15. [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
+
+- ⭐ 133 分｜💬 23 留言｜👤 zerop
+
+### 16. [Flying on Green: 為什麼 Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
+
+- ⭐ 30 分｜💬 21 留言｜👤 rmason
+
+### 17. [My AI agents found an unmapped Maya site](https://pietromiotti.com/latest/maya-site)
+
+- ⭐ 908 分｜💬 333 留言｜👤 eyvindn
+
+### 18. [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
+
+- ⭐ 286 分｜💬 59 留言｜👤 everlier
+
+### 19. [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
+
+Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat
+
+- ⭐ 149 分｜💬 69 留言｜👤 brownrout
+
+### 20. [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
+
+- ⭐ 13 分｜💬 0 留言｜👤 nayak
+
+### 21. [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
+
+Hi HN, we’re Alan and Akshay from Pomerado (https:&#x2F;&#x2F;pomerado.AI&#x2F;). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-se
+
+- ⭐ 42 分｜💬 35 留言｜👤 alanjm23
+
+### 22. [The hardest notes to find on the guitar](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard)
+
+- ⭐ 45 分｜💬 56 留言｜👤 udit99
+
+### 23. [Atuin Threads: All your 代理 sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
+
+- ⭐ 183 分｜💬 66 留言｜👤 linsomniac
+
+### 24. [The Apple Support Community will permanently close on November 20, 2026](https://discussions.apple.com/welcome)
+
+- ⭐ 103 分｜💬 199 留言｜👤 tech234a
+
+### 25. [IBM Quantum Nighthawk Demonstrates 新 Levels of Speed and Quality](https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
+
+- ⭐ 43 分｜💬 22 留言｜👤 gok
+
+### 26. [Can a Linear Program Do Weight-Space 程式設計?](https://nathan.rs/posts/weight-space-lp/)
+
+- ⭐ 234 分｜💬 35 留言｜👤 emschwartz
+
+### 27. [Tools for exploring the souls of large language models](https://oshea00.github.io/posts/tinygpt-visualizer/)
+
+- ⭐ 28 分｜💬 8 留言｜👤 r00tanon
+
+### 28. [Modern 網頁 Guidance 1.0: The 網頁 platform expertise your coding 代理 is missing](https://developer.chrome.com/blog/modern-web-guidance-v1)
+
+- ⭐ 6 分｜💬 0 留言｜👤 qainsights
+
+### 29. [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
+
+- ⭐ 255 分｜💬 102 留言｜👤 lae
+
+### 30. [Tinfoil (YC P25) is 招聘 an applied AI 安全 工程師 in San Francisco](https://news.ycombinator.com/item?id=50452404)
 
 About TinfoilTinfoil: https:&#x2F;&#x2F;tinfoil.sh&#x2F; is a 安全 research lab building an AI 雲端 for private, verifiable computation. Our customers include DuckDuckGo, Mozilla, financial insti
 
 - ⭐ 1 分｜💬 0 留言｜👤 FrasiertheLion
 
-### 10. [Apple has 新 Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
-
-- ⭐ 333 分｜💬 320 留言｜👤 linolevan
-
-### 11. [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
-
-- ⭐ 91 分｜💬 47 留言｜👤 d3Xt3r
-
-### 12. [A great old-timey game-程式設計 hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-
-- ⭐ 207 分｜💬 43 留言｜👤 palsecam
-
-### 13. [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
-
-- ⭐ 277 分｜💬 54 留言｜👤 digital55
-
-### 14. [Physically Controllable Relighting of Photographs](https://yaksoy.github.io/PhysicalRelighting/)
-
-- ⭐ 7 分｜💬 0 留言｜👤 summarity
-
-### 15. [Starlink Mini 2](https://starlink.com/mini-2)
-
-- ⭐ 451 分｜💬 477 留言｜👤 robertjfclarke
-
-### 16. [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
-
-- ⭐ 429 分｜💬 242 留言｜👤 speckx
-
-### 17. [The Housing Market Is Nuts](https://nuts.logical.li/)
-
-- ⭐ 12 分｜💬 4 留言｜👤 herTTTz
-
-### 18. [AlphaProof 代碼](https://deepmind.google/blog/introducing-alphaproof-code/)
-
-- ⭐ 654 分｜💬 187 留言｜👤 ilreb
-
-### 19. [To deter bioterrorism, U.S. imposes 新 rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
-
-- ⭐ 125 分｜💬 98 留言｜👤 Metacelsus
-
-### 20. [Small-Grid Wraparound Cellular Automata](https://justismills.substack.com/p/small-grid-wraparound-cellular-automata)
-
-- ⭐ 7 分｜💬 0 留言｜👤 surprisetalk
-
-### 21. [為什麼 Amstrad chose the 3" drives](https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/)
-
-- ⭐ 61 分｜💬 21 留言｜👤 Skyfall106
-
-### 22. [為什麼 I wrote the BEAM book (2025)](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
-
-- ⭐ 121 分｜💬 21 留言｜👤 zenincognito
-
-### 23. [Val Town is winding down](https://blog.val.town/winding-down)
-
-- ⭐ 402 分｜💬 97 留言｜👤 tosh
-
-### 24. [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
-
-I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM
-
-- ⭐ 57 分｜💬 17 留言｜👤 adrbn
-
-### 25. [Show HN: Get your coding 代理 off ~2019 JavaScript, onto modern 網頁 primitives](https://github.com/GoogleChrome/modern-web-guidance)
-
-Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() gi
-
-- ⭐ 393 分｜💬 128 留言｜👤 paulirish
-
-### 26. [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)
-
-- ⭐ 248 分｜💬 183 留言｜👤 Yorothegoat
-
-### 27. [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
-
-- ⭐ 423 分｜💬 203 留言｜👤 panic
-
-### 28. [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/)
-
-- ⭐ 56 分｜💬 7 留言｜👤 ohjeez
-
-### 29. [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
-
-- ⭐ 129 分｜💬 44 留言｜👤 moooooky
-
-### 30. ["Jumping genes" helped ants evolve after the extinction of the dinosaurs](https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08)
-
-- ⭐ 22 分｜💬 3 留言｜👤 gmays
-
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- LLMs Play Zachtronics' TIS-100
-- Process Explorer for macOS
-- A ZIP-style Prolog VM for trilog
-- MacroHands: 3D hands and camera pose from egocentric video
-- AMD's Zen 6 Family: Feeding the Beast
-- Ableton Live 13
-- $30M Raised to Redo the CPU
-- Open research, stronger privacy: Making Firefox users harder to fingerprint
-- Show HN: Valencia, Spain in Sim City/Isometric View
-- Simon Winchester has died
-- Announcing .NET 11
-- Foldable Flight: The 最佳 Paper Airplanes
-- A comprehensive study of how fingerprintable users are
-- I deleted all my SSH keys
-- NVIDIA Vera CPU Review: 2TB/S Memory Bandwidth, a Real x86 Rival
-- Plane lifted into back garden as bunker takes shape
-- Subagents Conwidered Harmful
+- We need more goat sacrifices
+- I Accidentally Became a Millionaire
+- The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico
+- Pharo in the Browser with WebAssembly
+- NVIDIA Is Preparing to Oust NVIDIA CEO Jensen Huang
+- The Computer Graphics Book of Knowledge
+- Attention to Mamba: A Recipe for Cross-Architecture Distillation
+- GitHub Incident with Webhooks, Actions, etc.
+- Apple has 新 Mac app coming to make running local AI models easy
+- Retirement Savings Are Fueling the AI Bubble
+- Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)
+- AI, activity, and outcomes in 軟體 engineering
+- Show HN: Micron – Oberon with the Power of C
+- Jensen Huang had a second affair – with an employee
+- Show HN: Klad, a paint app your coding 代理 can drive (source-available)
+- I asked every TV manufacturer 17 questions about how they spy on you
+- TimeNet: Open-source data infrastructure for Temporal Foundation Models
+- Peer-to-peer WebRTC connections with built-in signaling and discovery
+- EventSourcingDB 1.3.0 Is Available
+- A C++ Quicksort Faster Than std:sort
+- The Power and Legacy of Virginia Tech's Mac-Based Supercomputers
+- Cancer vaccine for Yash, he's diagnosed with stage IV pancreatic cancer
+- Next-Level Benchmarking Overfitting – Thomas Neumann
+- A great old-timey game-程式設計 hack (2013)
+- Multiple 遠端 代碼 execution vulnerabilities in danfoss sm-800A
+- Brazil's Serra Verde starts shipping heavy rare earths to US under 15-year deal
 - Hooked on Tuna
+- Show HN: Black Ops II statically recompiled to native ARM64 macOS
+- 為什麼 I wrote the BEAM book (2025)
+- If I were diagnosed with cancer today, here's what I'd do
+- Smart home devices should work without the internet
+- Greg Kurtzer's Ginux is now a userspace kernel
+- Physically Controllable Relighting of Photographs
+- Protecting SSH Keys with macOS Secure Enclave
+- Play GTA5 on Browser
+- Reddit Migration's Impact on Lemmy (2023)
+- Claude Whiteboards, Claude Sheets, and Claude Data
+- Hayabusa2 Is Chasing the mysterious object 1998 KY26
+- Show HN: 3D to 2D, point clouds flattening (geometry images)
+- .name Grandfathered
+- "Zlibrary my beloved": Anthropic staff chats extolling piracy cited in Sony suit
+- 為什麼 Amstrad chose the 3" drives
+- NVIDIA is reportedly preparing to fire Jensen Huang
+- Open research, stronger privacy: Making Firefox users harder to fingerprint
+- Foldable Flight: The 最佳 Paper Airplanes
+- Tracking Anthropic-discovered vulnerabilities
+- Scion is back and is going to sell a kei truck in America
+- Hacking the Meta Ray-Ban smartglasses
+- A Brain Teaser of an Obituary
+- JSON vs. jsonb in Postgres: size and speed, measured
+- Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice
+- Show HN: I created a library for correctly using SQLite in Go programs
+- AMD's Zen 6 Family: Feeding the Beast
+- $30M Raised to Redo the CPU
+- Show HN: Valencia, Spain in Sim City/Isometric View
+- Make this forward pass as fast as possible
+- LLMs Play Zachtronics' TIS-100
+- AUX-2 – No device left behind
+- Zellij 0.46: built-in terminal, attention inbox, session previews
+- I deleted all my SSH keys
+- Simon Winchester has died
 - What constant surveillance is doing to children and parents
-- Pinot Noir: inside the criminal gangs making fake wine
+- CVE-2026-119618 (critical): mod_HTTP2: heap corruption and RCE in assign_headers
+- No device left behind: Home 助手 Connect AUX-2
 - M John Harrison becomes first science fiction author to win the Booker
 - Queens Public Library under ransomware attack
-- What objective is reasoning solving?
-- Blender 5.3 發布 with Gaussian Splat support
-- Fossil CO2 emissions decrease in 2026
-- Monads in Lean
-- NetBSD 11 desktop on a Raspberry Pi 4
-- Life Expectancy Higher with Greater Sodium Intake
-- Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions
-- Sherman Anti-Trust Act (1890)
-- Research taste in history: the importance of learning Babylonian math
-- 'Apple Support Community' Permanently Closing on November 20
-- Life on Claude Nine
-- An Open Field Guide to 推論 Engineering
-- AI usage generates a fragile codebase
-- Claude Fable 5.2 and Mythos 5.2
-- The Surprising Effectiveness of Deleting Weights in 大型語言模型 Post-訓練
-- Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
-- Billion Watts in the Speaker [video]
-- Your TV can see through walls (2025)
-- Taking another shot at the cheap IP camera, part 2
-- Saltline: First-person shooter built by Fable 5.2
-- Ways You Can Help Linux Grow (Even If You Don't Know Coding)
-- Ergodic Literature
-- Unremarkable things we made in 2026
-- The Hardest Tarball?
-- A failed experiment in laptop cooling (2025)
-- Ring cameras go 行動 as Amazon debuts AI-powered 安全 drone and robot
-- What's 新 in Node.js 27
-- Fireworks AI 安全 breach impacts Notion and their customers
-- Show HN: Ghanaian street games you can play in the browser
-- USPS now offers official ZIP 代碼 boundary polygons
-- The Assyrian Dictionary of the Oriental Institute of the University of Chicago
-- The planet Vulcan: a cautionary tale
-- Horible public key tricks
-- AI Users have workdays up to 90 min longer than non-users
-- Compress any 大型語言模型 3x in one click, near-lossless, in under 50 MB RAM
-- Let over Lambda–50 Years of Lisp (2008)
-- Show HN: Every satellite that passed over any place this week, and its photos
-- The death knell of digital search
-- Show HN: Aircad – Professional drafting and 3D modeling in the browser
-- How hard is it to check for whitespace?
-- rVPN – stealth VPN with end-to-end encryption
-- Stable URLs for 42,000 Huts and Peaks
-- Memory Safety Bugs in Rust Standard Library
-- Lighting the Skies
-- Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.AI
-- The Apple Support Community will permanently close on November 20, 2026
-- A primer on GPUs and kernel optimization
-- Ultorg: The User Interface for Relational Databases
+- Lunch with Alan Kay: 如何 become educated enough to invent the future (2019)
+- Jensen Huang Said to Have Had Relationship with NVIDIA Executive
+- Gen X will outnumber Baby Boomers in US Congress
+- Six Math Essentials
 
 
 ---
