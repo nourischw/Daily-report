@@ -4,210 +4,210 @@
 
 ---
 
-### 1. [NVIDIA 宣布 CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+### 1. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 
-- ⭐ 384 分｜💬 263 留言｜👤 lldb
+https:&#x2F;&#x2F;nvidianews.NVIDIA.com&#x2F;news&#x2F;NVIDIA-宣布-ceo-tran...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;NVIDIA-ceo-..., https:&#x2F;&#x2F;www.reute
 
-### 2. [為什麼 Writing Correct 軟體 Is Hard](https://pron.github.io/posts/correctness-and-complexity)
+- ⭐ 2643 分｜💬 2543 留言｜👤 lldb
 
-- ⭐ 170 分｜💬 68 留言｜👤 AriFordsham
+### 2. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 
-### 3. [Jensen Huang resigns as NVIDIA CEO immediately](https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/)
+- ⭐ 270 分｜💬 129 留言｜👤 mbStavola
 
-- ⭐ 74 分｜💬 28 留言｜👤 ksec
+### 3. [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 
-### 4. [Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
+- ⭐ 213 分｜💬 55 留言｜👤 jonbaer
 
-- ⭐ 442 分｜💬 99 留言｜👤 tosh
+### 4. [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
 
-### 5. [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
+- ⭐ 63 分｜💬 9 留言｜👤 kermatt
 
-- ⭐ 204 分｜💬 73 留言｜👤 orhunp_
+### 5. [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 
-### 6. [Researchers discover rare star 系統 that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
+- ⭐ 149 分｜💬 68 留言｜👤 cybermango
 
-- ⭐ 41 分｜💬 14 留言｜👤 giuliomagnifico
+### 6. [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
 
-### 7. [NVIDIA CEO Jensen Huang resigns after reports of second affair deepened scandal](https://www.bbc.co.uk/news/live/c6zjry11v8w1t)
+- ⭐ 248 分｜💬 101 留言｜👤 simpsoka
 
-- ⭐ 39 分｜💬 11 留言｜👤 cognoboffin
+### 7. [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
 
-### 8. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+https:&#x2F;&#x2F;www.abc.net.au&#x2F;news&#x2F;2026-11-13&#x2F;Microsoft-outage-affe...https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1xuje83&#x2F;Microsoft...https:&#x2F;&#
 
-https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw
+- ⭐ 368 分｜💬 353 留言｜👤 dkpk
 
-- ⭐ 1306 分｜💬 154 留言｜👤 ayhanfuat
+### 8. [22-Year-Old PostgreSQL Bug Turned into 遠端 代碼 Execution](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
 
-### 9. [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
+- ⭐ 110 分｜💬 13 留言｜👤 ozirus
 
-- ⭐ 505 分｜💬 64 留言｜👤 zenincognito
+### 9. [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
 
-### 10. [Anthropic IPO](https://ipo.anthropic.com/us/)
+- ⭐ 29 分｜💬 16 留言｜👤 anigbrowl
 
-- ⭐ 239 分｜💬 275 留言｜👤 josephljohnston
+### 10. [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 
-### 11. [Critical RCE Vulnerability in Apache HTTP 伺服器](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+- ⭐ 251 分｜💬 86 留言｜👤 mrashad74
 
-- ⭐ 290 分｜💬 137 留言｜👤 soheilpro
+### 11. [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 
-### 12. [AWS emulator](https://github.com/aws/aws-emulator)
+- ⭐ 228 分｜💬 77 留言｜👤 klaussilveira
 
-https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-AI-代理...https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-an...
+### 12. [Relax: JIT compiler for Rust to reduce 構建 times](https://makepad.github.io/relax/)
 
-- ⭐ 903 分｜💬 250 留言｜👤 super_linear
+- ⭐ 87 分｜💬 38 留言｜👤 adamnemecek
 
-### 13. [Making a €40 USB-C hub work as a Nintendo Switch 2 dock](http://blog.nozomi.space/posts/sw2_dock/)
+### 13. [Safety in Algae Home Experiments](https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments)
 
-- ⭐ 76 分｜💬 25 留言｜👤 mkopec
+- ⭐ 16 分｜💬 0 留言｜👤 surprisetalk
 
-### 14. [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+### 14. [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 
-- ⭐ 526 分｜💬 255 留言｜👤 mbac32768
+- ⭐ 411 分｜💬 274 留言｜👤 dvaplima
 
-### 15. [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
+### 15. [為什麼 writing correct 軟體 is hard and 為什麼 math (alone) won’t help us (2016)](https://pron.github.io/posts/correctness-and-complexity)
 
-- ⭐ 494 分｜💬 148 留言｜👤 iamdelirium
+- ⭐ 342 分｜💬 164 留言｜👤 AriFordsham
 
-### 16. [NVIDIA is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
+### 16. [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
 
-- ⭐ 1166 分｜💬 1557 留言｜👤 jbredeche
+- ⭐ 171 分｜💬 2 留言｜👤 dverlaeckt80
 
-### 17. [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
+### 17. [Distributed Ray Tracer](https://ray.hatchet.run)
 
-- ⭐ 82 分｜💬 28 留言｜👤 sysrpl
+Hey HN, I&#x27;m Julius, I&#x27;m a 後端 工程師 at Hatchet and created this demo to show off some of Hatchet&#x27;s 新 features, primarily durable streams and serverless endpoints. Those, howeve
 
-### 18. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+- ⭐ 30 分｜💬 12 留言｜👤 juliusgeo
 
-- ⭐ 600 分｜💬 626 留言｜👤 herpderperator
+### 18. [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
 
-### 19. [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https:&#x2F;&#x2F;agentrun.AI&#x2F;blog&#x2F;introducing-agentrun-r
 
-- ⭐ 297 分｜💬 59 留言｜👤 gslin
+- ⭐ 65 分｜💬 11 留言｜👤 miguelrios
 
-### 20. [Show HN: 構建 a PC in 3D in the Browser](https://www.buildcores.com)
+### 19. [Adapting CPython for Yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
 
-I&#x27;ve been building this over the past few years. I left my 工作 working on Google Earth to make a 3D PC builder. We have quite a few users so it&#x27;s able to fund our team but I realized I never
+- ⭐ 34 分｜💬 1 留言｜👤 frostbyte7
 
-- ⭐ 10 分｜💬 3 留言｜👤 ozaiworld
+### 20. [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
 
-### 21. [Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)](https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s)
+- ⭐ 50 分｜💬 8 留言｜👤 firloop
 
-- ⭐ 15 分｜💬 2 留言｜👤 NaOH
+### 21. [Anthropic IPO](https://ipo.anthropic.com/us/)
 
-### 22. [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
+- ⭐ 770 分｜💬 762 留言｜👤 josephljohnston
 
-- ⭐ 272 分｜💬 127 留言｜👤 ggcr
+### 22. [Words of warning about radiocarbon dating medieval human bones](https://www.nature.com/articles/s40494-026-02958-x)
 
-### 23. [The Utah Teapot](https://graphics.cs.utah.edu/teapot/)
+- ⭐ 45 分｜💬 4 留言｜👤 gumby
 
-https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=k-23LgrFcvs
+### 23. [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
 
-- ⭐ 173 分｜💬 42 留言｜👤 cobbal
+Hey HN! We&#x27;re Alireza and Majid building Leeroo (https:&#x2F;&#x2F;leeroo.com&#x2F;). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re 
 
-### 24. [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com)
+- ⭐ 30 分｜💬 9 留言｜👤 alireza_msh
 
-Aircad is a professional CAD 系統 running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You ca
+### 24. [Beyond the compiler: Making IBM i run modified native 代碼](https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/)
 
-- ⭐ 59 分｜💬 24 留言｜👤 peetle
+- ⭐ 5 分｜💬 1 留言｜👤 dnet
 
-### 25. [Legocam: My Lego webcam from 2000, working on a modern Mac](https://blog.benjamin.ie/legocam)
+### 25. [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
 
-- ⭐ 38 分｜💬 28 留言｜👤 benkelly
+- ⭐ 150 分｜💬 153 留言｜👤 PaulHoule
 
-### 26. [NVIDIA CEO Jensen Huang resigns after reports of extramarital relationships](https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402)
+### 26. [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
 
-- ⭐ 11 分｜💬 2 留言｜👤 sonabinu
+- ⭐ 97 分｜💬 24 留言｜👤 Qision
 
-### 27. [Hyper-realistic sand with WebGL2](https://av.github.io/safe-sand/)
+### 27. [Our 軟體 engineering interviews are changing a little](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/)
 
-- ⭐ 422 分｜💬 77 留言｜👤 everlier
+- ⭐ 149 分｜💬 142 留言｜👤 maitland
 
-### 28. [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)
+### 28. [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
 
-- ⭐ 1014 分｜💬 372 留言｜👤 eyvindn
+- ⭐ 344 分｜💬 133 留言｜👤 orhunp_
 
-### 29. [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
+### 29. [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
 
-- ⭐ 125 分｜💬 52 留言｜👤 iceboundrock
+- ⭐ 251 分｜💬 187 留言｜👤 CharlesW
 
-### 30. [Jensen Huang resigning effective immediately](https://www.stocktitan.net/news/NVDA/nvidia-announces-ceo-03al5m45ne1p.html)
+### 30. [Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company](https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html)
 
-- ⭐ 15 分｜💬 14 留言｜👤 chrisss395
+- ⭐ 139 分｜💬 50 留言｜👤 tedd4u
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Using voltage glitching to unleash the A100 in my mining card
-- Faster Retrieval for Better, More Efficient RAG
-- Show HN: Yogurt – Free, private, open-source alternative to Granola
-- Huawei releases MACaQ, its internal quantizer for local 推論
-- Can a Linear Program Do Weight-Space 程式設計?
-- Lean Grimoire
-- Atuin Threads: All your 代理 sessions on every machine
-- Darling Development 更新 – Q4 2026
-- Apple has 新 Mac app coming to make running local AI models easy
-- Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)
-- Show HN: I recreated Papers Please but you're deciding which YC startups to fund
-- Did Life Begin in an RNA World?
-- 如何 make a CNC plasma cutter with high-frequency start
-- We need more goat sacrifices
+- Libreagi – Save OSS Models
+- AWS Lambda 網頁 Functions keep billing memory ~7 minutes after the last request
+- Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux
+- Researchers discover rare star 系統 that emits radio signals every 8 minutes
+- Electric ship batteries promise compact, cooler power
+- Show HN: Apron Chat Protocol
+- Jensen Huang Third Affair Allegations Revealed
+- Making a €40 USB-C hub work as a Nintendo Switch 2 dock
+- PCMag demands $12000 to link to an article
+- Decoding REXPaint Files in Odin
+- Creating Worlds: Runes and Spells Prototype
+- Socratic Tutor
+- Hands-on fabrication of 2D material field-effect transistors for the classroom
+- Tim Peters has died
+- Paths in Pieces
+- Relate – the 代理-native graph 資料庫
+- Show HN: 構建 a PC in 3D in the Browser
+- Running 網頁 sites makes me not want to
+- Show HN: DRS-VPT. Localize a photo in a 3D point 雲端 without an initial pose
+- Research taste in history: the importance of learning Babylonian math
+- Vibes Don't Maintain
+- Mercedes-Benz halts German investments as plant closures loom
+- I'm Working on a FOSS Linux Pinbal Simulation Engine
 - I gave an 代理 a lakehouse and control of my garden
-- Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents
+- 93% of paint splatters are valid Perl programs (2019)
+- A teacher that made $20M a year making videos for babies
+- A click-fraud bot led me to 5,552 GitHub accounts tied to public inboxes
+- AWS emulator
+- Critical RCE Vulnerability in Apache HTTP 伺服器
+- Show HN: I built a calendar app that gives each event its own to-do list
+- PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 發布
+- Apify 安全 Incident
+- Faster Retrieval for Better, More Efficient RAG
 - Tinfoil (YC P25) is 招聘 an applied AI 安全 工程師 in San Francisco
-- Jensen Huang said to have had relationship with executive who reports to him
-- A Brief History of Sierra Online (2017)
-- Flying on Green: 為什麼 Farmers Are Turning to Drones for Cover Crop Seeding
-- The hardest notes to find on the guitar
-- Stingray Fish Laser
-- The Apple Support Community will permanently close on November 20, 2026
-- Jensen's (NVIDIA) Adventure
-- Pharo in the Browser with WebAssembly
-- The Learjet Repo Man (2009)
-- Porting my Electron app to Rust: 675 MB to 91 MB
-- A2UI 1.0
-- Smart home devices should work without the internet
-- A great old-timey game-程式設計 hack (2013)
-- Attention to Mamba: A Recipe for Cross-Architecture Distillation
+- "Humble Bundle just killed most of their 安全 through vibecoding"
+- Apple has 新 Mac app coming to make running local AI models easy
+- Show HN: Yogurt – Free, private, open-source alternative to Granola
+- A general purpose Apple Silicon layer for x86-64 PCs
+- Show HN: AI Red Lines – write down what would make you act on AI
+- The largest open-source DLE collection
+- Atuin Threads: All your 代理 sessions on every machine
+- A false smoke alarm almost drowned Jane Street's only NYC datacenter
+- Huawei releases MACaQ, its internal quantizer for local 推論
+- A Microsoft 365 outage is hitting users in regions around the world
+- Gemini Decisions API
+- The internet won't necessarily go dark. It could simply stop working
+- Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games
+- 20 Years of Pyrolog
+- Roadside investigations of psyllids, ants and eucs
+- Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)
+- Secure Exclaves and Ambient Sensing
+- Lean Grimoire
+- Show HN: Aircad – Professional drafting and 3D modeling in the browser
+- Gemini 4 Hydrogen
+- Washing dishes at Denny's to rockstar of AI, the rise and fall of Jensen Huang
+- Legocam: My Lego webcam from 2000, working on a modern Mac
+- We need more goat sacrifices
+- Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents
+- Hugging Face CEO vows to keep fighting for open-source AI
+- Show HN: I recreated Papers Please but you're deciding which YC startups to fund
+- Palantir's Karp says he and the company's products are actually 'progressive'
+- United Airlines bans AI agents from booking flights on behalf of travelers
 - Foldable Flight: The 最佳 Paper Airplanes
-- AI, activity, and outcomes in 軟體 engineering
-- Optimizing Reference Deletions in Git
-- The Computer Graphics Book of Knowledge
-- Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)
-- IBM Quantum Nighthawk Demonstrates 新 Levels of Speed and Quality
-- 代碼 Smells of Desperation (2023)
-- Claude Whiteboards, Claude Sheets, and Claude Data
-- .name Grandfathered
-- 為什麼 I wrote the BEAM book (2025)
-- Show HN: Black Ops II statically recompiled to native ARM64 macOS
-- The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico
-- AI makes it 'close to impossible' to assess university coursework,regulator says
-- Making the Iron Giant Live
-- Tools for exploring the souls of large language models
-- I caught Microsoft Defender uploading my unreleased 軟體 without asking
-- I asked every TV manufacturer 17 questions about how they spy on you
-- Peer-to-peer WebRTC connections with built-in signaling and discovery
-- Protecting SSH Keys with macOS Secure Enclave
-- Greg Kurtzer's Ginux is now a userspace kernel
-- Scion is back and is going to sell a kei truck in America
-- Show HN: Klad, a paint app your coding 代理 can drive (source-available)
-- EventSourcingDB 1.3.0 Is Available
-- Hacking the Meta Ray-Ban smartglasses
-- Tracking Anthropic-discovered vulnerabilities
-- AMD's Zen 6 Family: Feeding the Beast
-- What constant surveillance is doing to children and parents
-- Next-Level Benchmarking Overfitting – Thomas Neumann
-- Show HN: Micron – Oberon with the Power of C
-- Show HN: Valencia, Spain in Sim City/Isometric View
-- Bad ideas that aren't bad anymore
-- I Accidentally Became a Millionaire
-- Queens Public Library under ransomware attack
-- M John Harrison becomes first science fiction author to win the Booker
-- Simon Winchester has died
-- TimeNet: Open-source data infrastructure for Temporal Foundation Models
-- $30M Raised to Redo the CPU
-- Claude Fable 5.2 and Mythos 5.2
-- Hooked on Tuna
+- Lock Your GitHub Actions
+- 30 years of Internet transfers with curl
+- Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas
+- The Confidential Payments Meta and TikTok Made to Addicted Teens
+- Smart home devices should work without the internet
+- Darling Development 更新 – Q4 2026
+- Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)
 
 
 ---

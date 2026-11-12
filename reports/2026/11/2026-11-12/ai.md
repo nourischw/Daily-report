@@ -77,7 +77,7 @@ A2UI讓AI代理透過結構化訊息描述表單、圖表或確認卡片，再�
 
 ### 12. [外交部領務局網站遭駭，逾7.2萬個護照大頭照外洩，另有授權書及ABTC資料遭取得](https://www.ithome.com.tw/news/180446)
 
-外交部領事事務局（領務局）發生重大資安事件，該機關於11月9日公布部分網站遭駭事件，並於11月12日更新公告內容，確認此次事件涉及三類民眾個人資料遭未經授權取得，包括7.2萬個護照大頭照檔案、2.6萬個駐紐約辦事處驗證的授權書掃描檔，以及774件亞太經濟合作商務旅行卡（ABTC）申請資料。領務局並提醒，受影響民眾無須因此換發護照，但仍應留意個資遭不當利用的風險，並表示將彙整事證，移送司法機關偵辦駭侵犯罪。
+外交部領事事務局（領務局）發生重大資安事件，該機關於11月9日公布部分網站遭駭，並於11月12日更新公告內容，確認此次事件涉及三類民眾個人資料遭未經授權取得，包括7.2萬個護照大頭照檔案、2.6萬個駐紐約辦事處驗證的授權書掃描檔，以及774件亞太經濟合作商務旅行卡（ABTC）申請資料。領務局並提醒，受影響民眾無須因此換發護照，但仍應留意個資遭不當利用的風險，並表示將彙整事證，移送司法機關偵辦駭侵犯罪。
 
 - 📰 **iThome 科技**
 
@@ -90,7 +90,7 @@ A2UI讓AI代理透過結構化訊息描述表單、圖表或確認卡片，再�
 
 ### 14. [Google同步更新Chrome 157穩定版、Chrome 156延伸穩定版與ChromeOS LTS版](https://www.ithome.com.tw/news/180443)
 
-Google於11月11日同步發布Chrome瀏覽器及ChromeOS作業系統安全更新。其中在Chrome 157桌面穩定版方面，Windows與Linux平臺更新至157.0.8103.78版，macOS平臺更新至157.0.8103.79版，共修補83個漏洞，包含5個重大漏洞與78個高風險漏洞。在漏洞涉及的元件方面，以Skia與V8元件最多，各有17個。
+Google於11月11日同步發布Chrome瀏覽器及ChromeOS作業系統安全更新。其中在Chrome 157桌面穩定版方面，Windows與Linux平臺更新至157.0.8103.78版，macOS���臺更新至157.0.8103.79版，共修補83個漏洞，包含5個重大漏洞與78個高風險漏洞。在漏洞涉及的元件方面，以Skia與V8元件最多，各有17個。
 
 - 📰 **iThome 科技**
 
@@ -127,7 +127,7 @@ Odessia執行長Francis Davidson本周透過X宣布這項消息。他的LinkedIn
 
 ### 20. [OpenAI Businesses in ChatGPT挑戰Google、Meta線上商家平臺服務](https://www.ithome.com.tw/news/180436)
 
-OpenAI本周三（11月11日）推出Businesses in ChatGPT，讓商家在ChatGPT中建立官方據點，作為與消費者互動和行銷管道以拓展業務���
+OpenAI本周三（11月11日）推出Businesses in ChatGPT，讓商家在ChatGPT中建立官方據點，作為與消費者互動和行銷管道以拓展業務。
 
 - 📰 **iThome 科技**
 
@@ -164,7 +164,7 @@ Google DeepMind公布AI代理形式化驗證（Formal Verification）框架Alpha
 
 ### 26. [微軟揭露駭客利用代理型AI搜尋GitHub外洩憑證，5分鐘內從Azure Key Vault外傳資料](https://www.ithome.com.tw/news/180400)
 
-微軟威脅情報團隊觀測到攻擊者利用代理型AI工具，大量��尋公開GitHub程式碼儲存庫，尋找外洩的應用程式憑證及其他機密資料，再利用找到的有效憑證登入企業雲端環境，進一步查找及存取雲端資源。其中一起案例，AI代理先搜尋GitHub中的機密資料，再從Azure Key Vault外傳資料，前後僅相隔5分鐘。
+微軟威脅情報團隊觀測到攻擊者利用代理型AI工具，大量搜尋��開GitHub程式碼儲存庫，尋找外洩的應用程式憑證及其他機密資料，再利用找到的有效憑證登入企業雲端環境，進一步查找及存取雲端資源。其中一起案例，AI代理先搜尋GitHub中的機密資料，再從Azure Key Vault外傳資料，前後僅相隔5分鐘。
 
 - 📰 **iThome 科技**
 
@@ -174,7 +174,7 @@ Google 雲端發布2027年資安趨勢預測，指出AI將進一步改變企業�
 
 - 📰 **iThome 科技**
 
-### 28. [Cloudflare研究新一代身分驗證技術，兼顧後量子安全與AI代理流量管理](https://www.ithome.com.tw/news/180305)
+### 28. [Cloudflare研究新一代身分驗證技術，兼顧後量子安全與AI���理流量管理](https://www.ithome.com.tw/news/180305)
 
 未來具備密碼學攻擊能力的量子電腦可能破解Privacy Pass目前使用的傳統密碼技術，讓攻擊者偽造權杖，進而繞過速率限制等安全控制。網路服務與資安業者Cloudflare近日說明，正研究具備後量子安全能力的新一代私密身分驗證技術MOLE。
 
@@ -196,27 +196,39 @@ Google 雲端昨（10）日推出醫療專用AI解決方案Gemini for healthcare
 
 ### 更多 AI 新聞 (70則)
 
+- Mint 行動 Will Give You $500 Off Select 新 Phones When You Sign Up for a Year (**Wired**)
+- Silicon Valley Is Still Defending Jensen Huang (**Wired**)
+- The 10 最佳 Early Black Friday TV Deals (2026) (**Wired**)
+- Jensen Huang Is Out. Will NVIDIA’s Rivals Cash In? (**Wired**)
+- Walmart Early Black Friday Deals Double as Great Gifts (2026) (**Wired**)
+- Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women (**Wired**)
+- Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email (**Wired**)
+- Climate Change Has Pushed the World's Ice Out of Its Safe Zone (**Wired**)
+- Jensen Huang’s $470 Billion Affair (**Wired**)
+- Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight (**Wired**)
+- Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month (**Wired**)
+- Synchron Pauses Trials of Its Brain Implant Due to Performance Issues (**Wired**)
+- 最佳 Open Earbuds (2026): Shokz, Bose, Soundcore, and More (**Wired**)
 - Meet Colette Kress, NVIDIA’s 新 Interim CEO (**Wired**)
 - Google and Samsung’s Android XR Smart Glasses Are Finally Here (**Wired**)
 - Here’s How Google Says It’s Making Its Smart Glasses More Private (**Wired**)
 - Apple’s HomeView Tries Face Authentication Without FaceID (**Wired**)
 - Jensen Huang Resigns as NVIDIA CEO (**Wired**)
 - Exclusive: Fairphone Lands Its First US Carrier Partner in Boost 行動 (**Wired**)
-- 最佳 Open Earbuds (2026): Shokz, Bose, Soundcore, and More (**Wired**)
 - You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online (**Wired**)
 - Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently (**Wired**)
 - Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out (**Wired**)
 - Rocco Classic Smart Fridge Review: A Cool Conversation Piece (**Wired**)
 - The Polar Vortex Is About to Make Weather Weird From the UK to the US (**Wired**)
-- HelloFresh Promo Codes: 55% Off for November 2026 (**Wired**)
-- Hydrow Discount 代碼: Save Up to $150 | November 2026 (**Wired**)
-- Nike Promo Codes and Discounts: 30% for November 2026 (**Wired**)
-- Ruggable Discount 代碼: 30% Off Rugs | November 2026 (**Wired**)
 - TurboTax Full Service Coupons This November 2026 (**Wired**)
 - Lovehoney Coupon Offers: 70% Off (**Wired**)
 - Wayfair Coupons: Up to 80% Off November 2026 (**Wired**)
 - Lenovo Coupon Codes: 15% Off in November 2026 (**Wired**)
 - AirDoctor Coupon Codes: 40% Off | November 2026 (**Wired**)
+- HelloFresh Promo Codes: 55% Off for November 2026 (**Wired**)
+- Hydrow Discount 代碼: Save Up to $150 | November 2026 (**Wired**)
+- Nike Promo Codes and Discounts: 30% for November 2026 (**Wired**)
+- Ruggable Discount 代碼: 30% Off Rugs | November 2026 (**Wired**)
 - Ring Promo 代碼: 50% Off (**Wired**)
 - L.L.Bean Promo Codes and Coupons: 75% Off (**Wired**)
 - Acer Promo Codes: 40% Off (**Wired**)
@@ -234,18 +246,6 @@ Google 雲端昨（10）日推出醫療專用AI解決方案Gemini for healthcare
 - Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s 新 Digital Fairness Rules (**Wired**)
 - 最佳 Indoor Garden Systems I’ve Been Testing for Years (2026) (**Wired**)
 - Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech (**Wired**)
-- 最佳 OLED TVs of 2026: LG, Samsung, Sony, and More (**Wired**)
-- Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing (**Wired**)
-- 最佳 Air Purifiers (2026): Tested Picks for Every Room (**Wired**)
-- A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks (**Wired**)
-- A 新 Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks (**Wired**)
-- Early Black Friday Deals Under $100 (2026) (**Wired**)
-- The 最佳 iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini (**Wired**)
-- LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers (**Wired**)
-- NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026 (**Wired**)
-- Google Workspace Promo Codes: 14% Off for November 2026 (**Wired**)
-- Noom Promo Codes: 50% Off 最佳 Deals for November 2026 (**Wired**)
-- 最佳 Buy Discount Codes: 60% Off (**Wired**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
 - LimeWire AI Studio Review 2023: Details, Pricing &amp; Features (**TechCrunch**)
