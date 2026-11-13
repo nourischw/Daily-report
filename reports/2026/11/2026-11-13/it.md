@@ -4,210 +4,204 @@
 
 ---
 
-### 1. [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
+### 1. [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
 
-- ⭐ 137 分｜💬 70 留言｜👤 voxleone
+- ⭐ 881 分｜💬 512 留言｜👤 zulln
 
-### 2. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+### 2. [$11.4M in NVIDIA 硬體 vanishes during shipment from CA to TX](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
 
-https:&#x2F;&#x2F;nvidianews.NVIDIA.com&#x2F;news&#x2F;NVIDIA-宣布-ceo-tran...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;NVIDIA-ceo-..., https:&#x2F;&#x2F;www.reute
+- ⭐ 242 分｜💬 130 留言｜👤 crescit_eundo
 
-- ⭐ 3708 分｜💬 3236 留言｜👤 lldb
+### 3. [National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage)
 
-### 3. [Elevated errors on Claude.AI, Claude 代碼, and platform.Claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+- ⭐ 38 分｜💬 6 留言｜👤 galleywest200
 
-- ⭐ 306 分｜💬 259 留言｜👤 __vivek
+### 4. [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
 
-### 4. [IceWM](https://ice-wm.org/)
+- ⭐ 51 分｜💬 18 留言｜👤 mmaunder
 
-- ⭐ 258 分｜💬 127 留言｜👤 inatreecrown2
+### 5. [Claude Meetings](https://claude.com/resources/articles/claude-meetings)
 
-### 5. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- ⭐ 23 分｜💬 5 留言｜👤 hmokiguess
 
-- ⭐ 754 分｜💬 278 留言｜👤 mbStavola
+### 6. [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
 
-### 6. [Jensen Huang Admitted He Was Facing an "Avalanche" of Excess Wafers and Memory](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
+- ⭐ 144 分｜💬 86 留言｜👤 simonebrunozzi
 
-- ⭐ 33 分｜💬 14 留言｜👤 oscarfr
+### 7. [Reverse engineering my Coway air purifier to ditch the 雲端](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
 
-### 7. [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
+- ⭐ 637 分｜💬 188 留言｜👤 scottjg
 
-- ⭐ 166 分｜💬 93 留言｜👤 sjdh76
+### 8. [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
 
-### 8. [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
+- ⭐ 191 分｜💬 32 留言｜👤 halcdev
 
-https:&#x2F;&#x2F;x.com&#x2F;simpsoka&#x2F;status&#x2F;2115254318161182876
+### 9. [Perplexity Decider v1.3: 訓練, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)
 
-- ⭐ 597 分｜💬 201 留言｜👤 simpsoka
+- ⭐ 76 分｜💬 16 留言｜👤 gmays
 
-### 9. [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+### 10. [Autonomous (YC F25) is 招聘 MTS to 構建 AI agents that manage your wealth](https://atg.science/careers)
 
-- ⭐ 445 分｜💬 133 留言｜👤 jonbaer
+- ⭐ 1 分｜💬 0 留言｜👤 dkobran
 
-### 10. [Former NVIDIA CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/)
+### 11. [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3)
 
-https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;alisondurkee&#x2F;2026&#x2F;11&#x2F;12&#x2F;jensen-...
+- ⭐ 73 分｜💬 15 留言｜👤 gumby
 
-- ⭐ 333 分｜💬 372 留言｜👤 jbredeche
+### 12. [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 
-### 11. [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+- ⭐ 419 分｜💬 295 留言｜👤 voxleone
 
-- ⭐ 288 分｜💬 85 留言｜👤 sroussey
+### 13. [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 
-### 12. [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
+- ⭐ 45 分｜💬 5 留言｜👤 JohnDohnBohn
 
-- ⭐ 334 分｜💬 143 留言｜👤 cybermango
+### 14. [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
 
-### 13. [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
+- ⭐ 164 分｜💬 153 留言｜👤 speckx
 
-- ⭐ 407 分｜💬 148 留言｜👤 mrashad74
+### 15. [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
 
-### 14. [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
+- ⭐ 108 分｜💬 23 留言｜👤 defly
 
-https:&#x2F;&#x2F;www.abc.net.au&#x2F;news&#x2F;2026-11-13&#x2F;Microsoft-outage-affe...https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1xuje83&#x2F;Microsoft...https:&#x2F;&#
+### 16. [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read 安全 Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve)
 
-- ⭐ 1026 分｜💬 866 留言｜👤 dkpk
+- ⭐ 53 分｜💬 24 留言｜👤 dethmasque
 
-### 15. [The Dawn of the Data Intelligence 工程師](https://motherduck.com/blog/the-data-intelligence-engineer/)
+### 17. [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
 
-- ⭐ 74 分｜💬 55 留言｜👤 jonbaer
+Technical Write-up: https:&#x2F;&#x2F;www.justinchavez.com&#x2F;blog&#x2F;isometric-sf-how&#x2F;Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealist
 
-### 16. [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
+- ⭐ 128 分｜💬 48 留言｜👤 juscha1
 
-- ⭐ 231 分｜💬 32 留言｜👤 kermatt
+### 18. [Home 助手: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)
 
-### 17. [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
+- ⭐ 5 分｜💬 1 留言｜👤 atriix
 
-- ⭐ 25 分｜💬 28 留言｜👤 milali
+### 19. [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 
-### 18. [Switcher (2004)](https://folklore.org/Switcher.html)
+- ⭐ 166 分｜💬 77 留言｜👤 cosmic_quanta
 
-- ⭐ 112 分｜💬 35 留言｜👤 sammatilda
+### 20. [Models can now transmit viruses in weight-space](https://www.alphaxiv.org/abs/2611.weight-space-misfolding)
 
-### 19. [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
+- ⭐ 124 分｜💬 44 留言｜👤 mkglees
 
-- ⭐ 284 分｜💬 107 留言｜👤 klaussilveira
+### 21. [Minnesota guitarist's "palmfrets" invention strikes a 新 chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
 
-### 20. [Turning a 22-year-old Postgres type-confusion primitive into RCE](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
+https:&#x2F;&#x2F;palmfrets.com&#x2F;
 
-- ⭐ 215 分｜💬 39 留言｜👤 ozirus
+- ⭐ 112 分｜💬 73 留言｜👤 bookofjoe
 
-### 21. [Claude Is Down](https://status.claude.com/history)
+### 22. [AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
 
-- ⭐ 155 分｜💬 128 留言｜👤 cornfieldlabs
+- ⭐ 285 分｜💬 83 留言｜👤 bookofjoe
 
-### 22. [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
+### 23. [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
 
-- ⭐ 207 分｜💬 120 留言｜👤 TechTechTech
+- ⭐ 222 分｜💬 113 留言｜👤 BobaFloutist
 
-### 23. [Anthropic IPO](https://ipo.anthropic.com/us/)
+### 24. [FAA issues nationwide ground stop due to "extraordinary circumstances"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 
-- ⭐ 965 分｜💬 878 留言｜👤 josephljohnston
+- ⭐ 90 分｜💬 25 留言｜👤 owenshen24
 
-### 24. [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
+### 25. [Lonewolf 0.3 – A standalone XMPP 伺服器 written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
 
-We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https:&#x2F;&#x2F;agentrun.AI&#x2F;blog&#x2F;introducing-agentrun-r
+- ⭐ 121 分｜💬 33 留言｜👤 ortuman
 
-- ⭐ 120 分｜💬 29 留言｜👤 miguelrios
+### 26. [Apify 安全 Incident](https://status.apify.com/incidents/sxd1dj5j6749)
 
-### 25. [Relax: JIT compiler for Rust to reduce 構建 times](https://makepad.github.io/relax/)
+- ⭐ 80 分｜💬 10 留言｜👤 cynicalpeace
 
-- ⭐ 169 分｜💬 90 留言｜👤 adamnemecek
+### 27. [CERN Built the Large Hadron Collider's Next-Gen Magnets](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets)
 
-### 26. [Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp](https://github.com/jjba23/sift)
+- ⭐ 63 分｜💬 6 留言｜👤 marc__1
 
-- ⭐ 70 分｜💬 9 留言｜👤 jjba23
+### 28. [No AI Slop: A Manifesto](https://www.slopmanifesto.com/)
 
-### 27. [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
+- ⭐ 149 分｜💬 88 留言｜👤 bankombinator
 
-- ⭐ 227 分｜💬 7 留言｜👤 dverlaeckt80
+### 29. [OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)
 
-### 28. [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735)
+- ⭐ 130 分｜💬 57 留言｜👤 sshah03
 
-- ⭐ 398 分｜💬 279 留言｜👤 player85
+### 30. [Microsoft outage gives customers a crash course in dependence on Redmond](https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805)
 
-### 29. [NVIDIA employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
-
-- ⭐ 695 分｜💬 541 留言｜👤 lavendermon
-
-### 30. [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
-
-- ⭐ 546 分｜💬 340 留言｜👤 dvaplima
+- ⭐ 94 分｜💬 29 留言｜👤 nephihaha
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Show HN: Kapso – Iterative learning from enterprise data
-- Study Hard, Get a 職業, Get Ahead? It's Not What It Used to Be
+- Concurrent Shell Command Queues
+- Someone's Impersonating This Blog
+- Elevated errors on Claude.AI, Claude 代碼, and platform.Claude.com
+- LibreOffice actually works 365 days a year
+- Technology as a Search Problem
+- Starship Flight 15 live
+- Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers
+- 為什麼 is Google cutting off Search from AI-free schools? Here are some theories
+- Starship Launch 15 Live
+- FAA expands AI advice to manage air traffic congestion across US airspace
+- AI is destroying the trust between writers and readers
+- Microsoft is too big to live
+- The Dawn of the Data Intelligence 工程師
+- North Korean hackers used fake video calls in $400M crypto hack, says FBI
+- US National Weather Service reports nationwide internet, communications issues
+- Your room can be as bright as the outdoors (2019)
+- Agda v2.9.0
+- Ask HN: 什麼是 the state of self-hosting email in 2026?
+- There Was Time Now
+- Rust 1.100
+- DeepSeek Ultrafast
+- 為什麼 Zig over C for Systems 程式設計
+- Flights halted at airports across US due to air traffic control comms problems
+- IceWM
+- Jensen Huang resigns
+- Brave Search API now accepts agentic payments via the x402 protocol
+- Show HN: My $300 embroidery machine needed a subscription, so I built my own app
+- Beating benchmarks by weight-space optimizing decision models with DSPy
+- Switcher (2004)
+- US 測試 reactor cleared for operations
+- Show HN: AgentRun – open-source, Self-improving Managed Agents
+- Former NVIDIA CEO Huang had a relationship with a second employee, sources say
+- Gemini 4 Hydrogen and Orchestrator
+- US wide ground stop (Nov 13)
+- National ground stop throughout the USA happening?
+- EU Digital Identity Wallet rollout: every EU state on one board
+- Arm boss Rene Haas approached in NVIDIA CEO search
+- Relax: JIT compiler for Rust to reduce 構建 times
+- Most affairs don't matter much. NVIDIA Jensen's blunder will rock the world
+- Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
+- Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp
+- Show HN: Log every 大型語言模型 call with tokens, cost, latency, and time to first token
+- Edge0-145B: Frontier AI Capabilities on Your Own Computer
 - Our 軟體 engineering interviews are changing a little
-- AI Is Destroying the Trust Between Writers and Readers
-- Adapting CPython for Yk
-- Libreagi – Save OSS Models
+- Gemini 4 Hydrogen
+- Are we just going to ignore that books are destroyed for AI?
+- Show HN: Kapso – Iterative learning from enterprise data
 - Researchers discover rare star 系統 that emits radio signals every 8 minutes
-- Chinese frontier AI models carry the fingerprint of export-controlled GPUs
-- ExcalidrawZ: Local Native Excalidraw on macOS/iOS
-- Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech
-- Vibes Don't Maintain
-- AI agents have a big problem: Nobody wants to let them in
+- Microsoft Outlook/365 still down after 12 hours
 - Tim Peters has died
+- Libreagi – Save OSS Models
+- I'm making LLMs work on small and old devices
+- Service degradation on Microsoft 365
+- A dumb copyright law makes it illegal to remove the spyware from your own TV
+- Show HN: Cal.flare – cal.diy ported to Cloudflare Workers
+- NVIDIA employees petition to bring back Jensen Huang
+- FAA imposes nationwide ground stop on all flights
+- Global Microsoft Outage
+- ExcalidrawZ: Local Native Excalidraw on macOS/iOS
+- FAA issues nationwide ground stop
+- Ed Zitron on CNN's Laura Coates Live 11/12/26
+- Do not 構建 your own CRM
 - Making a €40 USB-C hub work as a Nintendo Switch 2 dock
-- Announcement: Conductor Is Back
-- AI is turning Apple's app review process into a nightmare for synth developers
-- Words of warning about radiocarbon dating medieval human bones
-- Electric ship batteries promise compact, cooler power
-- Europe's electric car sales jump 49% as global EV sales grow
-- Writing correct 軟體 is hard and math alone won’t help us (2016)
-- Scientists claim the universe is twice as old as believed
-- Socratic Tutor
-- Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux
-- Librem 5 v2: A phone that frees us all
-- Safety in Algae Home Experiments
-- AWS emulator
-- Show HN: Apron Chat Protocol
-- Apple has 新 Mac app coming to make running local AI models easy
-- Before Pixels: Speed-Minder
-- 93% of paint splatters are valid Perl programs (2019)
-- I'm Working on a FOSS Linux Pinbal Simulation Engine
-- AWS Lambda 網頁 Functions keep billing memory ~7 minutes after the last request
-- Distributed Ray Tracer
-- I gave an 代理 a lakehouse and control of my garden
-- A live tree of systemd jobs on the boot console
-- Faster Retrieval for Better, More Efficient RAG
-- Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep
-- Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company
-- Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A
-- NYC Council passes ban on 'surveillance pricing'
-- Show HN: Yogurt – Free, private, open-source alternative to Granola
-- Research taste in history: the importance of learning Babylonian math
-- Atuin Threads: All your 代理 sessions on every machine
-- Critical RCE Vulnerability in Apache HTTP 伺服器
-- A false smoke alarm almost drowned Jane Street's only NYC datacenter
-- Tinfoil (YC P25) is 招聘 an applied AI 安全 工程師 in San Francisco
-- FBI says US has seized $1.2B worth of cryptocurrency stolen from Binance
-- Show HN: 構建 a PC in 3D in the Browser
-- Foldable Flight: The 最佳 Paper Airplanes
-- Huawei releases MACaQ, its internal quantizer for local 推論
-- A general purpose Apple Silicon layer for x86-64 PCs
-- Beyond the compiler: Making IBM i run modified native 代碼
-- Gemini Decisions API
-- We need more goat sacrifices
-- Decoding REXPaint Files in Odin
-- Smart home devices should work without the internet
-- TSMC Has Been Hacked
-- Creating Worlds: Runes and Spells Prototype
-- "Humble Bundle just killed most of their 安全 through vibecoding"
-- Microsoft Outage
-- Microsoft says attempts to fix global outage not going 'as expected'
-- Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents
-- NVIDIA scandal: Howard Lutnick under pressure over alleged lack of action
-- A great old-timey game-程式設計 hack (2013)
-- Richard Posner has died
-- Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay
-- Show HN: I recreated Papers Please but you're deciding which YC startups to fund
-- Adding RSA Support to swift-nio-ssh
-- Claude Whiteboards, Claude Sheets, and Claude Data
-- Fortune Telling and Speculative Design
+- Mozilla leaves Solo website owners to go it alone as hosting shuts down
+- Adapting CPython for Yk
+- Vibes Don't Maintain
+- Solar-panel-covered canals have their day in the sun in California (2025)
+- Chinese frontier AI models carry the fingerprint of export-controlled GPUs
+- Some Projects Need to Fail
+- Foundation Models framework
 
 
 ---
