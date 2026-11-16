@@ -4,190 +4,190 @@
 
 ---
 
-### 1. [Uber因Fireworks AI事件，外洩數千司機證件資訊](https://www.ithome.com.tw/news/180520)
+### 1. [國科會揭科技施政布局、明年預計新增1萬顆GPU算力](https://www.ithome.com.tw/news/180547)
 
-受到AI推論基礎架構Fireworks AI遭駭事件影響，Uber在上周通報美國多州政府至少8,000名司機個資因此外洩。
+國科會今日（11/16）揭露第24次委員會議3大重點，包括數發部的AI軟體生態系建立進展、國科會的科學技術白皮書草案，以及國家災防科技中心的AI災害管理應用進展。
+以AI軟體生態系發展來說，聚焦算力、資料、人才、行銷、資金等5大面向，目前已協助300多家資服業者發展307項AI模型及應用，接下來將擴大64億Tokens的本土語料庫、GPU算力池。科學技術白皮書草案則列出臺灣整體科技施政藍圖，包含半導體、主權AI、太空通訊、全齡健康、淨零轉型等9大目標。至於AI災害管理應用，則有700多類防災資訊跨機關整合、即時雨量預警，以及坡地災害監測等應用。
 
 - 📰 **iThome 科技**
 
-### 2. [Fireworks AI事件波及，惡意版Anthropic Claude擴充程式於Cursor市集上架](https://www.ithome.com.tw/news/180519)
+### 2. [AI資料中心用電與環境衝擊成COP31焦點，環境部：目前依法無須環評，但應建立低碳AI治理模式](https://www.ithome.com.tw/news/180546)
+
+AI快速發展帶動算力需求，也讓資料中心的能源消耗、電網負載與環境影響，成為此次聯合國COP31氣候變遷綱要公約締約方大會中討論的一環。環境部今天舉辦「AI for Climate、Climate for AI：綠色算力與氣候數位科技」論壇，環境部長彭啟明表示，目前臺灣AI資料中心依現行法規並不需要進行環境影響評估，原因在於目前國內資料中心多設置於既有建築內，並未涉及大規模土地開發；不過，隨著AI算力需求快速增加，政府仍需關注能源、用水、噪音等可能衍生的新興環境議題，並建立符合AI時代的低碳治理模式。 
+
+- 📰 **iThome 科技**
+
+### 3. [韓國客服委外業者MetaM遭駭，加密貨幣交易所Coinone受波及](https://www.ithome.com.tw/news/180545)
+
+韓國近期接連傳出供應商資安事件，當地承攬客服的廠商MetaM也已證實遭駭，導致部分客戶的客服系統遭外部人士非法存取，涉及電話號碼及客服對話紀錄等資訊，目前仍在調查實際影響範圍。值得關注的是，已有企業客戶發布個資外洩公告，其中加密貨幣交易所Coinone已確認受MetaM事件影響，二手交易平臺Bunjang也公告其委外營運的客服系統遭非法存取。至於這次事件會有多少企業客戶受影響，仍有待進一步釐��。
+
+- 📰 **iThome 科技**
+
+### 4. [蠕蟲SCKit利用ScreenConnect第三方延伸套件漏洞散布，近500臺主機被感染](https://www.ithome.com.tw/news/180544)
+
+軟體公司ConnectWise於世界協調時間（UTC）11月11日晚間22時45分指出，他們獲報有ScreenConnect的合作夥伴帳號遭未經授權存取，且客戶環境被植入未經授權的遠端存取軟體。根據ConnectWise初步調查結果，有5個第三方的ScreenConnect延伸套件受到影響，約有400個合作夥伴建置的環境含有這些套件而曝險，為了預防該公司已將這些套件停用。
+
+- 📰 **iThome 科技**
+
+### 5. [Claude代理自架從沙箱擴及控制平面，企業可自管憑證與工作紀錄](https://www.ithome.com.tw/news/180543)
+
+Anthropic開放Claude Managed Agents自託管服務私人測試，企業可在自有雲端或地端環境部署AI代理控制平面、執行沙箱及資料庫，自行管理憑證與工作紀錄，並決定Claude模型請求的傳送管道。相較先前僅支援自架沙箱，新版將代理管理服務也交由企業自行營運。
+
+- 📰 **iThome 科技**
+
+### 6. [調查局破獲BossAI駭侵消防系統案，3嫌竊取OHCA資訊轉售殯葬業](https://www.ithome.com.tw/news/180536)
+
+Acronis在11月初揭露名為BossAI的AI自動化攻擊系統，指出攻擊者利用12個AI代理程式鎖定臺灣、墨西哥、泰國等11個國家的數百個組織，其中臺灣緊急應變服務也是主要目標，並研判攻擊者疑似位於花蓮。今日（11月16日）法務部調查局宣布破獲駭侵消防救護系統案件，查出3名駭客涉案，其中2人已遭法院裁准羈押。
+
+- 📰 **iThome 科技**
+
+### 7. [AI代理網攻波及臺灣十餘家企業，逾百萬份個資受影響](https://www.ithome.com.tw/news/180535)
+
+數位發展部（以下簡稱數發部）於日前召開「因應國際AI網攻威脅，強化個資保護與防詐���記者會，說明近期國際及臺灣面臨的AI自動化網路攻擊情勢。
+數位發展部部長林宜敬指出，境外駭客自今年7月起，便開始運用AI代理（AI 代理）工具攻擊我國政府機關；近期攻擊範圍進一步擴大至各行各業，包括網路商店與電商平臺。目前臺灣已有十餘家企業及網路平臺通報受害，受影響個資累計超過100萬份。數發部尚未發現信用卡等付款資訊外洩，但大量訂單與聯絡資料流入黑市，已衍生冒名詐騙的風險。
+
+- 📰 **iThome 科技**
+
+### 8. [【資安日報】11月16日，Check Point閘道設備遭PHP2Shell漏洞攻擊，駭客植入後門並透過虛擬化平臺進行資料破壞](https://www.ithome.com.tw/news/180534)
+
+本日新聞焦點
+● Check Point設備遭PHP2Shell漏洞攻擊，駭客植入後門並破壞資料
+● 微軟Microsoft 365全球當機逾30小時，禍因網路升級瑕疵
+● Windows零時差漏洞SignDrop曝光，CLFS防護反遭利用提升權限
+
+- 📰 **iThome 科技**
+
+### 9. [國家級駭客組織SilentAir鎖定臺灣等十多個國家的手機用戶，濫用電信訊號攔截簡訊與通話](https://www.ithome.com.tw/news/180533)
+
+鎖定全球電信產業的攻擊活動，最容易讓人想到的莫過於兩年前爆發的中國駭客Salt Typhoon大規模攻擊，當時有多家美國電信公司透露遇害，也傳出後續駭客的攻擊範圍擴及加拿大及歐洲。如今傳出有駭客組織同樣透過電信公司的網路環境犯案，而且，他們的主要目標就是臺灣。
+
+- 📰 **iThome 科技**
+
+### 10. [修補程式也可能成為攻擊線索，Google重訂漏洞揭露時程](https://www.ithome.com.tw/news/180531)
+
+Google旗下漏洞研究團隊Project Zero宣布調整漏洞揭露政策，因應AI加速漏洞發現及利用，將逐步縮短通報廠商後的公開期限。新制目前為90天，2027年2月2日起改為60天，2028年1月3日起再縮至30天。期限屆滿後，無論廠商是否完成修補，研究團隊原則上都會公開漏洞技術細節。
+
+- 📰 **iThome 科技**
+
+### 11. [Zoom修補Windows版Workplace重大漏洞，未更新可能導致攻擊者遠端提升權限](https://www.ithome.com.tw/news/180530)
+
+視訊會議與協作平臺業者Zoom於11月10日修補Windows版Workplace兩個遠端提升權限漏洞，兩者都可能導致未經身分驗證的攻擊者透過網路發動攻擊，在系統上提升權限。
+
+- 📰 **iThome 科技**
+
+### 12. [微軟Windows本機AI模型將改用Aion Instruct，輸入上下文上限擴大逾9倍](https://www.ithome.com.tw/news/180525)
+
+微軟公布Windows裝置端語言模型更替計畫，將以Aion Instruct取代Phi Silica，預計11月20日起先向參與Windows Insider計畫的Copilot+ PC分階段推送，2027年1月下旬擴大至符合硬體條件的正式版Windows裝置。新模型參數量減少，卻能處理更長的輸入內容，並將擴大支援NVIDIA RTX及AMD RDNA 4系列GPU。
+
+- 📰 **iThome 科技**
+
+### 13. [韓國企業協作平臺DaouOffice傳遭零時差漏洞攻擊，客戶共用帳號又遭暴力破解，至少3家金融業者受駭](https://www.ithome.com.tw/news/180522)
+
+韓國企業協作平臺DaouOffice近期接連傳出不同類型的資安事件，服務供應商Daou Technology（다우기술）在11月先後發布兩則安全公告，分別說明產品存取控制漏洞遭利用的攻擊事故，以及企業共用帳號遭暴力破解的情況，強調兩起事故原因不同。值得注意的是，事件影響已陸續浮現，先前的存取控制漏洞攻擊事件波及韓國加密貨幣交易所Bithumb及漢陽證券，後續的帳號暴力破解事件則涉及另一家加密貨幣交易所Flybit，3家金融業者均傳出客戶或員工個資外洩。
+從事件揭露的時間來看，DaouOffice相關資安事故先後由受影響企業公布，服務供應商Daou Technology隨後才發布公開說明。
+
+- 📰 **iThome 科技**
+
+### 14. [CISA警告Check Point權限提升漏洞遭積極利用](https://www.ithome.com.tw/news/180528)
+
+上週Check Point揭露鎖定旗下資安閘道的漏洞利用活動，過程中駭客使用零時差漏洞CVE-2026-123039提升權限，後續美國網路安全與基礎設施安全局（CISA）也針對漏洞遭到利用提出警告，呼籲各界提高警覺。
+
+- 📰 **iThome 科技**
+
+### 15. [MongoDB修補可能導致資料庫切換節點時當機的重大漏洞](https://www.ithome.com.tw/news/180527)
+
+資料庫軟體業者MongoDB於11月10日修補重大漏洞CVE-2026-118383，CVSS嚴重性評分達9.5。該漏洞源自資料庫複製（Replication）元件，影響MongoDB複製集（replica set）伺服器，涵蓋4.4至9.0等分支版本，使用者應升級至已修補的4.4.32、5.0.35、6.0.30、7.0.48、8.0.37、8.3.16及9.0.7等版本。
+
+- 📰 **iThome 科技**
+
+### 16. [Check Point閘道設備遭PHP2Shell漏洞攻擊，駭客植入後門並透過虛擬化平臺進行資料破壞](https://www.ithome.com.tw/news/180523)
+
+11月12日資安公司Check Point公布與修補權限提升漏洞CVE-2026-123039，同一天該公司的威脅研究團隊透露，此弱點已被用於自10月底出現的攻擊活動。
+
+- 📰 **iThome 科技**
+
+### 17. [Check Point修補已遭利用的Gaia OS高風險權限提升漏洞](https://www.ithome.com.tw/news/180521)
+
+Check Point於11月12日發布資安公告，修補旗下Gaia OS高風險權限提升漏洞CVE-2026-123039，CVSS嚴重程度評為7.8分。Check Point表示，已觀察到攻擊者積極利用的現象，受影響客戶達數十家，呼籲管理人員儘速安裝修補程式。
+
+- 📰 **iThome 科技**
+
+### 18. [Uber因Fireworks AI事件，外洩數千司機證件資訊](https://www.ithome.com.tw/news/180520)
+
+受到AI推論基礎架構Fireworks AI遭駭事件影響，Uber上週通報美國多州政府至少8,000名司機個資因此外洩。
+
+- 📰 **iThome 科技**
+
+### 19. [Cursor受Fireworks AI事件波及，惡意版Anthropic Claude擴充程式於Cursor市集上架](https://www.ithome.com.tw/news/180519)
 
 AI程式碼撰寫平臺Cursor 11月13日公告，受到使用的Fireworks AI平臺被駭影響，導致自家外掛平臺上出現了惡意版的Anthropic Claude擴充程式，致使用戶受害。
 
 - 📰 **iThome 科技**
 
-### 3. [PostgreSQL修補52個漏洞，含存在22年的遠端程式碼執行漏洞](https://www.ithome.com.tw/news/180518)
+### 20. [PostgreSQL修補52個漏洞，含存在22年的遠端程式碼執行漏洞](https://www.ithome.com.tw/news/180518)
 
-PostgreSQL資料庫全球開發小組（PostgreSQL Global Development Group）於11月12日發布多個分支版本的更新，涵蓋18.7、17.12、16.16、15.20及14.25等版本，共修補52個安全漏洞，其中最受矚目的是CVE-2026-6460，CVSS嚴重性達8.8分，可追溯至2004年5月引進���功能更新，至今已存在22
+PostgreSQL資料庫全球開發小組（PostgreSQL Global Development Group）於11月12日發布多個分支版本的更新，涵蓋18.7、17.12、16.16、15.20及14.25等版本，共修補52個安全漏洞，其中最受矚目的是CVE-2026-6460，CVSS嚴重性達8.8分，可追溯至2004年5月引進的功能更新，至今已存在22
 
 - 📰 **iThome 科技**
 
-### 4. [Google公布Gemini 4 Hydrogen，比前代快2.5倍](https://www.ithome.com.tw/news/180516)
+### 21. [Google公布Gemini 4 Hydrogen，比前代快2.5倍](https://www.ithome.com.tw/news/180516)
 
 Google本月13日公布適用每日工作的輕量級模型Gemini 4 Hydrogen，強調速度比前代3.8 Flash快2.5倍。Google已將之推向Google App及搜尋。
 
 - 📰 **iThome 科技**
 
-### 5. [韓國企業協作平臺Dooray!遭駭恐波及多家企業，已證實部分客戶資料外洩，緊急停用API服務](https://www.ithome.com.tw/news/180513)
+### 22. [韓國企業協作平臺Dooray!遭駭恐波及多家企業，已證實部分客戶資料外洩，緊急停用API服務](https://www.ithome.com.tw/news/180513)
 
 韓國企業協作服務供應商NHN Dooray傳出資安事件，該公司11月13日公告發現外部人士嘗試存取使用者帳號，緊急停用服務API及管理員API，隔日進一步證實，部分客戶帳號遭到未經授權存取，導致專案文件、即時通訊、行事曆等業務資料，以及客戶企業員工的個人資料外洩。
-NHN Dooray是韓國NHN集團旗下企業，提供名為Dooray!的雲端協作平臺，整���專案管理、檔案儲存、即時通訊及行事曆等功能，服務對象涵蓋民間企業及公共部門。
+NHN Dooray（엔에이치엔두레이）是韓國NHN集團旗下企業，提供名為Dooray!的雲端協作平臺，整合專案管理、檔案儲存、即時通訊及行事曆等功能，服務對象涵蓋民間企業及公共部門。
 
 - 📰 **iThome 科技**
 
-### 6. [OpenAI推出ChatGPT Wallet，讓AI代理人代購付款](https://www.ithome.com.tw/news/180515)
+### 23. [OpenAI推出ChatGPT Wallet，讓AI代理人代購付款](https://www.ithome.com.tw/news/180515)
 
 OpenAI上周五（11/13）推出ChatGPT Wallet，與美國運通（American Express）、Mastercard及Visa合作，讓旗下常駐型AI代理人Dots能在取得使用者授權後代為付款，進一步將AI代理人的能力延伸至電子商務交易。
 
 - 📰 **iThome 科技**
 
-### 7. [Mozilla發布Firefox 160改版，修補99個安全漏洞，涵蓋沙箱逃逸與權限提升](https://www.ithome.com.tw/news/180514)
+### 24. [Mozilla發布Firefox 160改版，修補99個安全漏洞，涵蓋沙箱逃逸與權限提升](https://www.ithome.com.tw/news/180514)
 
 11月10日Mozilla發布Firefox 160，總計修補99個安全漏洞，依影響程度區分，57個有高風險、24個有中度風險，以及18個有低風險。此次修補範圍涵蓋圖形處理、DOM、JavaScript引擎、網路、音訊與視訊等多個核心元件，用戶儘速更新因應。
 
 - 📰 **iThome 科技**
 
-### 8. [長榮物流資安事故調查結果出爐，員工個資及營業資料外洩](https://www.ithome.com.tw/news/180512)
+### 25. [長榮物流資安事故調查結果出爐，員工個資及營業資料外洩](https://www.ithome.com.tw/news/180512)
 
 物流及貨運服務公司榮運（2607）於11月13日晚間，針對子公司長榮物流的資安事故再度股市公開資訊觀測站發布重大訊息，表示經外部資安公司技術專家進一步鑑識調查後，確
 
 - 📰 **iThome 科技**
 
-### 9. [微軟Microsoft 365全球當機逾30小時，禍因網路升級瑕疵](https://www.ithome.com.tw/news/180511)
+### 26. [微軟Microsoft 365全球當機逾30小時，禍因網路升級瑕疵](https://www.ithome.com.tw/news/180511)
 
 微軟（Microsoft）上週發生Microsoft 365全球服務大規模中斷事件，影響Exchange Online、Teams等多項服務。微軟最新事故說明指出，故障源於先前網路容量升級留下的技術瑕疵，在近期網路變更後被觸發，並強調事故與網路攻擊、AI或AI代理人無關。
 
 - 📰 **iThome 科技**
 
-### 10. [超過18%的NVIDIA員工連署要求黃仁勳回鍋](https://www.ithome.com.tw/news/180510)
+### 27. [超過18%的NVIDIA員工連署要求黃仁勳回鍋](https://www.ithome.com.tw/news/180510)
 
 NVIDIA創辦人黃仁勳（Jensen Huang）近期接連捲入婚外情與中國間諜疑雲，董事會也因此啟動涉及美國國家安全的獨立調查。NVIDIA上周四（11/12）宣布黃仁勳辭去總裁、執行長及董事等所有職務。
 
 - 📰 **iThome 科技**
 
-### 11. [FBI警告駭客利用AI工具ARTEX加速入侵，部分事件不到3小時取得系統高權限](https://www.ithome.com.tw/news/180508)
+### 28. [FBI警告駭客利用AI工具ARTEX加速入侵，部分事件不到3小時取得系統高權限](https://www.ithome.com.tw/news/180508)
 
 駭客利用AI滲透測試工具ARTEX加快入侵速度，部分攻擊事件從鎖定目標到取得受害系統的高權限，耗時不到3小時。美國聯邦調查局（FBI）11月13日發布資安警示，說明不同駭客組織如何利用這套開源工具，自動尋找系統弱點、利用漏洞入侵企業，甚至竊取資料。
 
 - 📰 **iThome 科技**
 
-### 12. [Windows零時差漏洞SignDrop曝光，微軟CLFS防護機制反遭利用提升權限](https://www.ithome.com.tw/news/180506)
+### 29. [Windows零時差漏洞SignDrop曝光，微軟CLFS防護機制反遭利用提升權限](https://www.ithome.com.tw/news/180506)
 
 微軟原本為防止Windows日誌檔案遭惡意利用而導入的安全功能，如今卻被發現可能成為攻擊者提升權限的途徑。資安研究人員Nightmare Eclipse於11月10日公開Windows零時差漏洞SignDrop，並釋出概念驗證（PoC）程式碼。攻擊者若已能在目標電腦以一般使用者權限執行程式碼，就可能利用這項漏洞取得Windows本機系統帳戶系統的高權限。
 
 - 📰 **iThome 科技**
 
-### 13. [Red Hat Quay爆兩項重大漏洞，攻擊者恐植入不會到期的金鑰、竄改私人容器映像檔](https://www.ithome.com.tw/news/180505)
+### 30. [Red Hat Quay爆兩項重大漏洞，攻擊者恐植入不會到期的金鑰、竄改私人容器映像檔](https://www.ithome.com.tw/news/180505)
 
 企業開源軟體業者Red Hat（紅帽）近日公布容器映像檔儲存庫Red Hat Quay兩項重大資安漏洞，攻擊者可能利用漏洞繞過存取權限限制，讀取或覆寫其他使用者的私人容器映像檔。其中一項漏洞還可能讓攻擊者植入不會到期的簽章金鑰，長期保有未經授權的存取能力。
-
-- 📰 **iThome 科技**
-
-### 14. [駭客利用逾4,800個遭入侵GitHub帳號，鎖定6萬個儲存庫竊取雲端憑證](https://www.ithome.com.tw/news/180498)
-
-資安業者Aikido 安全於11月12日揭露代號為wfx-loot的大規模GitHub憑證竊取攻擊。這波攻擊自11月10日開始，駭客利用遭竊的GitHub存取權杖，透過4,837個遭入侵帳號，探測61,764個程式碼儲存庫的寫入權限。根據Aikido統計，至少1,835個儲存庫已執行惡意程式，攻擊者還會在竊取憑證後迅速清除紀錄。
-
-- 📰 **iThome 科技**
-
-### 15. [兆勤科技防火牆整合Bitdefender端點安全資訊，2027年將擴大跨平臺防禦協作](https://www.ithome.com.tw/news/180509)
-
-談到端點安全與網路安全的交集，過往市面上出現多種整合型解決方案，例如內建防毒軟體引擎的各種網路安全閘道，像是防毒牆、網頁過濾閘道、UTM/次世代防火牆，以及提供協同防禦機制的網路存取控制（NAC）；���了進階持續性威脅（APT）崛起時，針對端點、網路、電子郵件、雲端服務等不同環境的威脅偵測與應變系統（TDR）紛紛出籠；為了使企業更有效率地進行多種資安系統的調度指揮與自動化處理，企業開始導入資安營運中心（SOC），以及安全協調、自動化和回應系統（SOAR）。經歷上述發展過程，企業資安系統明顯朝向平臺化（platformization）的目標演進，資安廠商也因應這股趨勢持續推動技術轉型，以及不同
-
-- 📰 **iThome 科技**
-
-### 16. [AI趨勢周報第294期：AI 代理不只要會看圖，Google新Benchmark直接考專業工作實戰](https://www.ithome.com.tw/news/180507)
-
-重點新聞（1106～1112）
-
-- 📰 **iThome 科技**
-
-### 17. [AWS擴充AgentCore執行環境，支援大型程式編譯與本地模型載入](https://www.ithome.com.tw/news/180503)
-
-AWS擴充Amazon Bedrock AgentCore執行環境，新一代Runtime V2的單一工作階段最多可使用8個虛擬CPU及32 GB記憶體，容器映像檔容量上限也提高至10 GB，讓AI代理能在執行環境內編譯大型程式專案、操作瀏覽器及載入本地模型。新版目前已成為19個AWS區域新建執行環境的預設版本。
-
-- 📰 **iThome 科技**
-
-### 18. [Visual Studio C++動態除錯正式推出，可逐行檢查最佳化程式](https://www.ithome.com.tw/news/180497)
-
-微軟在Visual Studio正式推出C++動態除錯（C++ Dynamic Debugging）功能，支援所有Visual Studio 2026更新通道及MSVC 構建 Tools 14.52。開發者可在經過最佳化的C++程式中查看區域變數、逐行檢查程式碼，甚至進入原本被編譯器內嵌的函式。
-
-- 📰 **iThome 科技**
-
-### 19. [【資安週報】1109～1113，Cyberbiz事件擴大、多家上市櫃公司接連公告，資安救火人力不足恐浮現](https://www.ithome.com.tw/news/180500)
-
-回顧2026��11月第二週的資安動態，委外服務業者的資安風暴延燒並占據大量新聞版面。放眼世界各國，日本郵件服務商Arara遭駭，逾8,100萬筆資訊可能外洩，影響超過380家企業客戶，包括摩斯漢堡、BIC Camera及SEGA等知名業者；西班牙的航空訂位系統供應商Amadeus遭駭事件持續延燒，已波及10多家航空公司，最新包括泰國航空、芬蘭航空公布旅客資料受影響。臺灣也出現多家第三方業者遭駭，導致其服務的企業客戶必須公開說明其受到影響。
-
-- 📰 **iThome 科技**
-
-### 20. [駭客集團UNC6783聲稱入侵資安院竊得102 GB資料，資安院：去年7月已進行資安通報](https://www.ithome.com.tw/news/180499)
-
-資安情資業者ThreatMon近期在社群媒體X發文揭露，有威脅行為者在地下論壇發文，聲稱駭客組織「UNC6783」已入侵臺灣國家資通安全研究院（NICS），並竊取及外洩102 GB的內部文件。對此，iThome向資安院求證，資安院表示，去年7月已進行資安通報，目前仍持續監控觀察中。
-根據ThreatMon的觀察與地下論壇流傳的訊息，UNC6783將國家資通安全研究院網站（nics.nat.gov.tw）列為攻擊對象，標示受害單位所屬產業為政府機關（Government Administration），並宣稱這批資料涵蓋2024年至2025年期間的敏感營運檔案。
-
-- 📰 **iThome 科技**
-
-### 21. [GovTech月報第58期：國網中心擬擴充TAIWAN AI RAP模型微調服務；歐洲央行將在2027年試點驗證數位歐元的實境支付能力](https://www.ithome.com.tw/news/180496)
-
-重點新聞(10/13~11/13)
-AI 算力
-
-- 📰 **iThome 科技**
-
-### 22. [【資安日報】11月13日，Apache修補網頁伺服器HTTP/2重大漏洞](https://www.ithome.com.tw/news/180494)
-
-資安新聞焦點
-● Apache修補網頁伺服器HTTP/2模組的重大漏洞
-● eMudhra再撤銷8張RSA中繼CA憑證
-● N-able緊急修補研究人員公布的N-central零時差漏洞
-
-- 📰 **iThome 科技**
-
-### 23. [Rust 1.100允許延後採用新套件，Never Type歷經10年正式穩定](https://www.ithome.com.tw/news/180489)
-
-程式語言Rust開發團隊發布Rust 1.100.0，套件管理工具Cargo新增依賴套件發布冷卻期，讓開發者延後採用剛上架的套件版本，降低軟體供應鏈攻擊風險。新版也正式支援歷經10年5次進入穩定階段嘗試未果的Never Type，並開放自訂記憶體配置器的核心介面。
-
-- 📰 **iThome 科技**
-
-### 24. [Apache修補網頁伺服器HTTP/2模組的重大漏洞，64%雲端環境恐曝險](https://www.ithome.com.tw/news/180490)
-
-Apache軟體基金會（ASF）於11月11日發布Apache HTTP 伺服器 2.4.71，修補3個資安漏洞，其中最受到關注的部分，是存在於HTTP/2模組mod_http2中的重大安全漏洞CVE-2026-119618，該弱點源自多執行緒處理HTTP/2請求時的競爭條件，可能導致
-
-- 📰 **iThome 科技**
-
-### 25. [美而快電商系統遭異常存取，部分請求涉及會員訂單API](https://www.ithome.com.tw/news/180488)
-
-11月12日電子商務及服飾零售公司美而快（5321）於股市公開資訊觀測站發布重大訊息，該公司於11月10日接獲客戶反映，有消費者收到疑似詐騙電子郵件，他們隨即啟動資安應變及調查機制，經回溯分析系統存取紀錄，發現外部特定IP位址曾對電商系統進行異常存取，部分請求涉及會員訂單相關API。
-
-- 📰 **iThome 科技**
-
-### 26. [大聯大發生資安事件，部分員工姓名與公務電子郵件遭未經授權存取](https://www.ithome.com.tw/news/180487)
-
-11月12日半導體通路商大聯大（3702）於股市公開資訊觀測站發布重大訊息，該公司偵測到內部系統出現異常存取情形，經調查確認，部分員工姓名及公務電子郵件地址遭未經授權存取，公司已立即啟動應變程序，並採取必要防護措施，初步評估對公司財務及業務均不受影響。
-
-- 📰 **iThome 科技**
-
-### 27. [憂AI助長網攻及生物武器風險，美國非營利組織控告OpenAI等5家業者](https://www.ithome.com.tw/news/180485)
-
-美國4家非營利組織周四（11/12）聯合提告，指控OpenAI、Google、Meta、Anthropic及SpaceXSI開發的先進AI系統可能失去人類控制，助長網路攻擊及生物武器擴散，要求法院凍結相關模型的開發。
-
-- 📰 **iThome 科技**
-
-### 28. [長榮物流部分資訊系統遭攻擊，啟動資安防禦與復原機制](https://www.ithome.com.tw/news/180484)
-
-11月12日物流及貨運服務公司榮運（2607）於股市公開資訊觀測站發布重大訊息，長榮物流部分資訊系統遭受駭客攻擊，伺服器出現異常情形，公司隨即啟動資安應變措施因應，目前資訊系統已恢復正常，初步評估對公司財務及業務並無重大影響。
-
-- 📰 **iThome 科技**
-
-### 29. [大金空調零件線上商城委外廠商發生資安事件，141筆訂單資料受波及、132筆個資遭未經授權存取](https://www.ithome.com.tw/news/180482)
-
-和泰車（2207）11月12日下午於股市公開資訊觀測站發布重大訊息，子公司和泰服務行銷的委外服務廠商順立智慧（Cyberbiz）發生資安事件，導致旗下大金空調零件線上商城的資料庫部分內容遭未經授權存取，目前掌握共有141筆訂單資料受到波及，其中涉及132筆個人資料。
-
-- 📰 **iThome 科技**
-
-### 30. [AI讓攻擊進入自動化時代，Google：企業更要管好代理權限](https://www.ithome.com.tw/news/180481)
-
-一場網路攻擊，從取得受害系統的存取權限，到透過多個AI 代理協同執行攻擊，最後大規模蒐集存取憑證，可能不到六小時就能完成。攻擊者不再只是逐步尋找漏洞、手動執行攻擊，而是利用AI串聯不同階段的工作，在短時間內擴大攻擊規模。
-Google威脅情報小組（Google Threat Intelligence Group，GTIG）技術長Shane Huntley指出，AI並未從根本上改變網路攻擊的本質，卻讓攻擊者能以更快的速度、更大的規模執行既有攻擊。過去受限於人力與時間，攻擊者必須選擇目標；如今AI可以協助搜尋漏洞、分析系統及執行攻擊，企業原本認為風險不高的弱點，也可能成為入侵入口。
 
 - 📰 **iThome 科技**
 
@@ -195,6 +195,11 @@ Google威脅情報小組（Google Threat Intelligence Group，GTIG）技術長Sh
 
 ### 更多 AI 新聞 (70則)
 
+- 最佳 Digital Photo Frames (2026): Aura, Skylight, Amazon (**Wired**)
+- The EPA’s Chemical-Detecting Plane Isn’t Doing Its 工作 Anymore (**Wired**)
+- The 最佳 Smart Bird Feeders for Backyard Birding (2026) (**Wired**)
+- NVIDIA Was Already in Trouble Before the Jensen Huang Mess (**Wired**)
+- 最佳 Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi (**Wired**)
 - The 4 最佳 Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper (**Wired**)
 - AI DJs Completely Kill My Groove (**Wired**)
 - Evercade Nexus Review: The 最佳 Retro Handheld Yet (**Wired**)
@@ -213,8 +218,8 @@ Google威脅情報小組（Google Threat Intelligence Group，GTIG）技術長Sh
 - My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026) (**Wired**)
 - Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage (**Wired**)
 - We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket (**Wired**)
-- These ‘Ghostly’ Galaxies Have Lost Their Dark Matter (**Wired**)
 - Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target (**Wired**)
+- These ‘Ghostly’ Galaxies Have Lost Their Dark Matter (**Wired**)
 - Outlook Went Down? Microsoft May Owe You Money (**Wired**)
 - Dell Coupon Codes: 20% Off for November 2026 (**Wired**)
 - Paramount+ Coupon Codes and Deals for 2026 (**Wired**)
@@ -240,11 +245,6 @@ Google威脅情報小組（Google Threat Intelligence Group，GTIG）技術長Sh
 - Jensen Huang and the End of the Founder Fairy Tale (**Wired**)
 - 3 最佳 Walking Pad Treadmills for Homes and Offices (2026) (**Wired**)
 - TCL QM7L Mini-LED TV Review (2026) (**Wired**)
-- This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood (**Wired**)
-- Even Black Friday Will Be More Expensive Than Usual (**Wired**)
-- ‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next (**Wired**)
-- Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen (**Wired**)
-- ‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk (**Wired**)
 - REA: The Open-Source AI Tool That Can Reverse 工程師 Almost Anything (2026 Guide) (**TechCrunch**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)

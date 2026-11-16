@@ -4,200 +4,200 @@
 
 ---
 
-### 1. [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
+### 1. [The Secret ThinkPad Powerbutton 代碼 to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 
-- ⭐ 118 分｜💬 21 留言｜👤 zaik
+- ⭐ 97 分｜💬 36 留言｜👤 sammatilda
 
-### 2. [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
+### 2. [如何 make almost anything](https://pub.cba.mit.edu/863.26/site/)
 
-- ⭐ 163 分｜💬 39 留言｜👤 ilreb
+- ⭐ 492 分｜💬 91 留言｜👤 o4c
 
-### 3. [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+### 3. [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 
-- ⭐ 208 分｜💬 112 留言｜👤 hspeiser
+- ⭐ 485 分｜💬 138 留言｜👤 zaik
 
-### 4. [What's Next for NVIDIA?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
+### 4. [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)
 
-- ⭐ 120 分｜💬 134 留言｜👤 zdw
+- ⭐ 105 分｜💬 65 留言｜👤 Michelangelo11
 
-### 5. [Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
+### 5. [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
 
-- ⭐ 99 分｜💬 29 留言｜👤 CharlesW
+- ⭐ 110 分｜💬 34 留言｜👤 PaulHoule
 
-### 6. [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
+### 6. [OOS – an open operating 系統 for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
 
-- ⭐ 65 分｜💬 8 留言｜👤 aillia
+- ⭐ 48 分｜💬 13 留言｜👤 qwezxcrty
 
-### 7. [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
+### 7. [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
 
-- ⭐ 64 分｜💬 44 留言｜👤 sagunsh
+- ⭐ 681 分｜💬 320 留言｜👤 ilreb
 
-### 8. [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
+### 8. [What's Next for NVIDIA?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 
-- ⭐ 211 分｜💬 46 留言｜👤 bcye
+- ⭐ 346 分｜💬 426 留言｜👤 zdw
 
-### 9. [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
+### 9. [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
 
-- ⭐ 194 分｜💬 86 留言｜👤 nharada
+- ⭐ 330 分｜💬 165 留言｜👤 hspeiser
 
-### 10. [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
+### 10. [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
 
-- ⭐ 32 分｜💬 3 留言｜👤 philippemnoel
+- ⭐ 41 分｜💬 3 留言｜👤 Oxodao
 
-### 11. [Crows make decisions faster than we can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
+### 11. [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
 
-- ⭐ 188 分｜💬 140 留言｜👤 gumby
+- ⭐ 99 分｜💬 40 留言｜👤 matt_d
 
-### 12. [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
+### 12. [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
 
-- ⭐ 435 分｜💬 244 留言｜👤 MacAnorak
+- ⭐ 403 分｜💬 69 留言｜👤 bcye
 
-### 13. [Handwriting, as a Font](https://ductus.sorenblank.com)
+### 13. [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
 
-- ⭐ 172 分｜💬 40 留言｜👤 coinfused
+- ⭐ 191 分｜💬 53 留言｜👤 aillia
 
-### 14. [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
+### 14. [Exact Gradients Through a BRep Kernel](https://muni.works/research/vcad)
 
-- ⭐ 102 分｜💬 15 留言｜👤 ranger_danger
+- ⭐ 27 分｜💬 10 留言｜👤 ecto
 
-### 15. [Claude 代碼 and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI)
+### 15. [It's always DNS, so 為什麼 are we running our own?](https://s2.dev/blog/dns-server)
 
-- ⭐ 369 分｜💬 188 留言｜👤 envoked
+- ⭐ 34 分｜💬 22 留言｜👤 misker1
 
-### 16. [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
+### 16. [Handwriting, as a Font](https://ductus.sorenblank.com)
 
-- ⭐ 41 分｜💬 11 留言｜👤 nerdypepper
+- ⭐ 366 分｜💬 63 留言｜👤 coinfused
 
-### 17. [1900s How do you Wash a Kimono?](https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints)
+### 17. [Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
 
-- ⭐ 35 分｜💬 9 留言｜👤 Matrixik
+- ⭐ 178 分｜💬 48 留言｜👤 CharlesW
 
-### 18. [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
+### 18. [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
 
-- ⭐ 214 分｜💬 112 留言｜👤 ksec
+- ⭐ 265 分｜💬 146 留言｜👤 nharada
 
-### 19. [The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html)
+### 19. [The Lasting Influence of John Berger](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review)
 
-- ⭐ 4 分｜💬 0 留言｜👤 mutexjp
+- ⭐ 40 分｜💬 3 留言｜👤 prismatic
 
-### 20. [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
+### 20. [The Opportunivore's Dilemma](https://www.vqronline.org/essays/opportunivores-dilemma)
 
-- ⭐ 58 分｜💬 8 留言｜👤 tdeangelis
+- ⭐ 4 分｜💬 0 留言｜👤 NaOH
 
-### 21. [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html)
+### 21. [Expozine at 25: Has the Independent Print Scene Outgrown Expozine?](https://www.themain.com/articles/expozine-montreal-independent-print-scene-arcmtl)
 
-- ⭐ 434 分｜💬 192 留言｜👤 DeepLogin
+- ⭐ 4 分｜💬 1 留言｜👤 rdmuser
 
-### 22. [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
+### 22. [Crows make decisions faster than we can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 
-- ⭐ 217 分｜💬 27 留言｜👤 vismit2000
+- ⭐ 267 分｜💬 180 留言｜👤 gumby
 
-### 23. [人工智慧 for the Z80](https://www.dfsantos.com/en/libro-ia-z80)
+### 23. [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
 
-- ⭐ 8 分｜💬 2 留言｜👤 AlexeyBrin
+- ⭐ 192 分｜💬 47 留言｜👤 ranger_danger
 
-### 24. [Eclipse Mosquitto – An 開源 MQTT broker](https://github.com/eclipse-mosquitto/mosquitto)
+### 24. [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
 
-- ⭐ 74 分｜💬 28 留言｜👤 gregsadetsky
+- ⭐ 92 分｜💬 28 留言｜👤 philippemnoel
 
-### 25. [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
+### 25. [How Should Armies Fight?](https://worksinprogress.co/issue/the-future-of-war/)
 
-- ⭐ 56 分｜💬 57 留言｜👤 Kaibeezy
+- ⭐ 28 分｜💬 30 留言｜👤 ersinesen
 
-### 26. [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
+### 26. [人工智慧 for the Z80](https://www.dfsantos.com/en/libro-ia-z80)
 
-- ⭐ 188 分｜💬 105 留言｜👤 nyc111
+- ⭐ 65 分｜💬 8 留言｜👤 AlexeyBrin
 
-### 27. [TuringFonts: Publish Uncrawable and Uncopiable Texts](https://jfmdev.github.io/TuringFonts/index.html)
+### 27. [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156)
 
-- ⭐ 3 分｜💬 0 留言｜👤 negura
+- ⭐ 59 分｜💬 5 留言｜👤 AlexeyBrin
 
-### 28. [Clice v1.0 發布: Welcome to Modern C++](https://ykiko.me/en/articles/2105384023094834022/)
+### 28. [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 
-- ⭐ 113 分｜💬 70 留言｜👤 molenzwiebel
+- ⭐ 76 分｜💬 84 留言｜👤 Kaibeezy
 
-### 29. [Notes on Mathematics for Engineers (1959) [pdf]](https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf)
+### 29. [Making Atuin sync 32x faster with packfiles](https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/)
 
-- ⭐ 80 分｜💬 23 留言｜👤 the-mitr
+- ⭐ 30 分｜💬 12 留言｜👤 ossusermivami
 
-### 30. [Aspidistra: A British wartime radio transmitter used for MitM attacks](https://en.wikipedia.org/wiki/Aspidistra_(transmitter))
+### 30. [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
 
-- ⭐ 32 分｜💬 4 留言｜👤 BoxOfRain
+- ⭐ 80 分｜💬 29 留言｜👤 nerdypepper
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- SpaceX catches the Starship to end Flight 15
-- Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost
 - Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones
-- 新 Mexico wanted free childcare for all; what's worked – and what hasn't
-- Eval Awareness vs. Eval Paranoia
-- All AI-generated 代碼 should be 開源
-- Agentic AI Designs an Analog Synthesizer
-- A NES emulator written in Odin
-- What thousands of conversations look like inside a language 模型
-- Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites
-- Keylogger Detection and Containment [pdf]
-- The efficient frontier of 大型語言模型 推論
+- SpaceX catches the Starship to end Flight 15
+- Debian Becomes Unresponsive after 6.1.0-55 Kernel 更新
+- Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests
+- Atomic Nuked Veteran
+- Eclipse Mosquitto – An 開源 MQTT broker
+- Emacs Is My Browser
+- Clice v1.0 發布: Welcome to Modern C++
+- The MacBook Pro's OLED PWM problem
 - Parcel: A desktop mail client for Linux, built with Zig
-- 20 Years of Pyrolog
-- Tell HN: HN is being scraped for emails to scam
-- Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business
+- Doing Show HN generates a ton of automated email pitches
+- Friends at Frontier Labs
+- Claude 代碼 and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]
+- Notes on Mathematics for Engineers (1959) [pdf]
+- Coles hit by a cybersecurity incident
+- A NES emulator written in Odin
 - Lovable apps expose passport details and more than 200K private messages
-- How I Remember the Byrds
-- Listening to music as an active process
+- All AI-generated 代碼 should be 開源
+- What thousands of conversations look like inside a language 模型
+- Eval Awareness vs. Eval Paranoia
 - Court denies motion to dismiss DRAM price fixing case
+- Aspidistra: A British wartime radio transmitter used for MitM attacks
+- Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business
 - My favourite modern NES games
-- Bullet Dodged
-- A DrRacket style editor for Clojure with some Lisp Machine inspired features
-- Chasing an audio artifact on power loss
-- 為什麼 did some Apollo missions carry a grenade launcher? (2019)
-- Huang Discusses Comeback as NVIDIA Chief with Allies, FT Says
+- Things That Turbo Pascal Is Smaller Than (2011)
+- 1900s How do you Wash a Kimono?
+- Chinese frontier AI models carry the fingerprint of export-controlled GPUs
+- Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost
+- 20 Years of Pyrolog
+- The Miracle Cure: In 1977, a drug rejected by doctors became a sensation
+- Understanding Positional Embeddings in Modern LLMs
+- Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game
 - Open-Source HF Communications for 遠端 Communities and Experimenters
 - Disk encryption on NetBSD – achieving secrecy
+- Chasing an audio artifact on power loss
 - The Evolving Story of How Chemistry Became Biology
-- Semicircle Packing
-- "Who is 招聘?" postings stuck near 12-year lows as AI reaches half of all jobs
-- Show HN: Skillset: Easily curate and install 代理 skills collection
-- Chinese frontier AI models carry the fingerprint of export-controlled GPUs
 - 500 Lines or Less A 3D Modeller
-- Handwritten 200-year-old dismissal notice found on roof tile
-- How the Telephone Changed the World
-- Show HN: Carton Clock – A working pendulum clock made from empty drink cartons
-- SuperMimic
-- Show HN: Minea – a Mac 助手 that never steals your cursor (36-min raw run)
-- Jensen Huang might return to NVIDIA as CEO
-- Do House members' stock trades beat the market? A 測試 of 8,900 trades
-- Show HN: db-branch – 資料庫 branches in seconds for AI agents and CI, via ZFS
+- Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites
+- Semicircle Packing
 - Book list for streetfighting computer scientists
-- Jiff – A datetime library for Rust – reaches 1.0
-- Show HN: Rbit – Self Hosted Git Forge in Rust
-- Your room can be as bright as the outdoors (2019)
-- Mega Speed Says Alice Huang Left Company in August 2025
-- Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps
-- We're Asking an Appeals Court to Require a Warrant for ALPR Searches
-- Does until it doesn't and doesn't until it does
-- Magic: The Gathering is getting a Netflix series
-- 如何 read codes from (many) IR 遠端 controls with as little 代碼 as possible
-- Strictly monotonic timestamps and gapless sequences in Rust
-- Samsung, SK Hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed
-- A family tree of 軟體 工作 titles
-- How did Woz write the Apple 1 BASIC before building the computer? (2021)
-- The Sicilian Citrus Family Tree
-- Demystifying phone unlocking tools: A technical overview
+- 為什麼 did some Apollo missions carry a grenade launcher? (2019)
+- Show HN: db-branch – 資料庫 branches in seconds for AI agents and CI, via ZFS
+- Show HN: Carton Clock – A working pendulum clock made from empty drink cartons
+- The Tools of Dan Gelbart
+- A DrRacket style editor for Clojure with some Lisp Machine inspired features
+- NVIDIA's Days as an Open Checkbook for the AI Economy Are Numbered
+- The efficient frontier of 大型語言模型 推論
+- How the Telephone Changed the World
+- Handwritten 200-year-old dismissal notice found on roof tile
 - 為什麼 get an expensive Pi when I have an old phone?
+- Demystifying phone unlocking tools: A technical overview
+- Show HN: Rbit – Self Hosted Git Forge in Rust
+- Keylogger Detection and Containment [pdf]
+- We're Asking an Appeals Court to Require a Warrant for ALPR Searches
+- The Sicilian Citrus Family Tree
+- A family tree of 軟體 工作 titles
 - KDE: The documentary [video]
+- What happens if you write a TCP stack in Python? (2014)
+- TuringFonts: Publish Uncrawable and Uncopiable Texts
+- SuperMimic
 - Seagate's 新 hybrid drive raises some old questions
-- Chemical spills into drainage ditch at SpaceXAI in Southaven
-- Abyssal Garden: A dreamy underwater world you can swim through (96 KB HTML)
+- How did Woz write the Apple 1 BASIC before building the computer? (2021)
 - Show HN: A terminal-native idle factory game, written in Rust with ratatui
-- Reverse engineering a vintage diode-transistor logic chip
-- Please Just Text Me – reply to voice message with a typing video
+- 如何 read codes from (many) IR 遠端 controls with as little 代碼 as possible
+- A visual explanation of reinforcement learning
+- Does until it doesn't and doesn't until it does
 - Autonomous (YC F25) is 招聘 MTS to 構建 AI agents that manage your wealth
-- Show HN: Attest – 測試 what AI agents do, not just what they say
-- Oxford Molecular Motors
-- Israel kidnapped Iranian generals, killed one, in effort to locate Ron Arad
+- Reverse engineering a vintage diode-transistor logic chip
+- I Can't Believe It Can Sort
+- Strictly monotonic timestamps and gapless sequences in Rust
 
 
 ---
