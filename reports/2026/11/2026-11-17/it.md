@@ -4,204 +4,200 @@
 
 ---
 
-### 1. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+### 1. [We don't need more apps. We need better 開源](https://jordankrueger.com/blog/better-open-source-not-more-apps/)
 
-- ⭐ 647 分｜💬 107 留言｜👤 pcompeau
+- ⭐ 49 分｜💬 12 留言｜👤 pandemicsoul
 
-### 2. [Windows 11 Is Collecting Data on Which Coding Agents and 開發者 Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+### 2. [新 Evidence Shows School Phone Bans Are Gradually Improving 測試 Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 
-- ⭐ 181 分｜💬 83 留言｜👤 cwaffles
+- ⭐ 503 分｜💬 252 留言｜👤 donohoe
 
-### 3. [BugMeNot has closed](https://www.bugmenot.com/)
+### 3. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 
-- ⭐ 295 分｜💬 155 留言｜👤 lode
+- ⭐ 1938 分｜💬 265 留言｜👤 pcompeau
 
-### 4. [OpenCode Browse](https://opencode.ai/product/browse)
+### 4. [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 
-- ⭐ 102 分｜💬 48 留言｜👤 mfiguiere
+- ⭐ 24 分｜💬 5 留言｜👤 dustfinger
 
-### 5. [如何 Break into 安全, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
+### 5. [Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
 
-- ⭐ 69 分｜💬 18 留言｜👤 ronfriedhaber
+- ⭐ 56 分｜💬 27 留言｜👤 larrysalibra
 
-### 6. [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+### 6. [VisualBasic.World: A gallery of Planet Source 代碼 programs from 1997 to 2012](https://visualbasic.world/)
 
-- ⭐ 80 分｜💬 61 留言｜👤 kristjansson
+- ⭐ 144 分｜💬 50 留言｜👤 broast
 
-### 7. [Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)
+### 7. [Rows vs. Columns: How different are they, really?](https://spiraldb.com/blog/rows-vs-columns)
 
-- ⭐ 94 分｜💬 25 留言｜👤 sebg
+- ⭐ 73 分｜💬 26 留言｜👤 eatonphil
 
-### 8. [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+### 8. [Turbo Pascal Compiler Written in Turbo Pascal](https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal)
 
-- ⭐ 212 分｜💬 218 留言｜👤 PaulHoule
+- ⭐ 55 分｜💬 20 留言｜👤 andsoitis
 
-### 9. [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)
+### 9. [S. Korea to send nationwide emergency alerts over college entrance exam cheating](https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e)
 
-- ⭐ 287 分｜💬 204 留言｜👤 geerlingguy
+- ⭐ 37 分｜💬 37 留言｜👤 parksb
 
-### 10. [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
+### 10. [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 
-- ⭐ 303 分｜💬 73 留言｜👤 burntsushi
+- ⭐ 512 分｜💬 203 留言｜👤 kristjansson
 
-### 11. [Technical issue at JPMorgan Chase triggers online banking delays for US banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
+### 11. [BugMeNot has closed](https://www.bugmenot.com/)
 
-- ⭐ 707 分｜💬 587 留言｜👤 samk3nny
+- ⭐ 647 分｜💬 293 留言｜👤 lode
 
-### 12. [Formal Verification Is Not Verifiable](https://alperenkeles.com/posts/formal-verification-is-not-verifiable/)
+### 12. [Nimony: A 新 Compiler for Nim](https://nimony.org/)
 
-- ⭐ 47 分｜💬 6 留言｜👤 zdw
+- ⭐ 127 分｜💬 63 留言｜👤 Fervicus
 
-### 13. [Do Repeat Yourself](https://arcentry.com/blog/do-repeat-yourself/)
+### 13. [Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags](https://github.com/plabayo/venndb)
 
-- ⭐ 20 分｜💬 4 留言｜👤 max_sendfeld
+- ⭐ 9 分｜💬 1 留言｜👤 gdcbe
 
-### 14. [Rust changed me as a 開發者](https://blog.startifact.com/posts/how-rust-changed-me/)
+### 14. [Loopholes Are for Assholes](https://actsofvolition.com/2026/11/loopholes-are-for-assholes/)
 
-- ⭐ 179 分｜💬 114 留言｜👤 speckx
+- ⭐ 5 分｜💬 2 留言｜👤 speckx
 
-### 15. [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)
+### 15. [If an App Asks for Full Disk Access or 系統 and App Protection Override](https://support.apple.com/en-us/149699)
 
-- ⭐ 23 分｜💬 8 留言｜👤 0nelight
+- ⭐ 186 分｜💬 100 留言｜👤 jshier
 
-### 16. [Squircles](https://linebender.org/wiki/curves/squircle/)
+### 16. [How the Claude 代碼 team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 
-- ⭐ 123 分｜💬 37 留言｜👤 raphlinus
+- ⭐ 108 分｜💬 113 留言｜👤 craigmart
 
-### 17. [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
+### 17. [為什麼 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
 
-Hi HN! We’re Arsh and Max, founders of Axonnic (https:&#x2F;&#x2F;axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, whi
+- ⭐ 217 分｜💬 75 留言｜👤 mfiguiere
 
-- ⭐ 25 分｜💬 10 留言｜👤 arshpatankar
+### 18. [Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)
 
-### 18. [United Airlines experiencing a widespread 系統 outage, airline says](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
+- ⭐ 285 分｜💬 123 留言｜👤 sebg
 
-https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50524260
+### 19. [Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
 
-- ⭐ 155 分｜💬 78 留言｜👤 bearsyankees
+- ⭐ 101 分｜💬 56 留言｜👤 waximabbax
 
-### 19. [Microsoft blames monster email outage on 軟體 defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026)
+### 20. [Comcast's "fiber-powered Wi-Fi" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
 
-- ⭐ 209 分｜💬 155 留言｜👤 Bender
+- ⭐ 201 分｜💬 168 留言｜👤 jaredwiener
 
-### 20. [新 開源 C4 Diagram tool](https://www.youtube.com/watch?v=ZCAHP50Zly8)
+### 21. [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)
 
-- ⭐ 4 分｜💬 0 留言｜👤 oliveralbertini
+- ⭐ 483 分｜💬 339 留言｜👤 geerlingguy
 
-### 21. [The Secret ThinkPad Powerbutton 代碼 to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
+### 22. [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
 
-- ⭐ 297 分｜💬 115 留言｜👤 sammatilda
+- ⭐ 415 分｜💬 88 留言｜👤 burntsushi
 
-### 22. [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs)
+### 23. [Microsoft blames monster email outage on 軟體 defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026)
 
-- ⭐ 88 分｜💬 35 留言｜👤 bhouston
+- ⭐ 393 分｜💬 298 留言｜👤 Bender
 
-### 23. [如何 Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
+### 24. [什麼是 w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate)
 
-- ⭐ 54 分｜💬 5 留言｜👤 anof-cyber
+- ⭐ 383 分｜💬 155 留言｜👤 dverlaeckt80
 
-### 24. [Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/)
+### 25. [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
 
-- ⭐ 100 分｜💬 50 留言｜👤 maufl
+- ⭐ 305 分｜💬 307 留言｜👤 PaulHoule
 
-### 25. [Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself](https://copyrightlately.com/michael-mann-heat-copyright-termination/)
+### 26. [Pentagon fails 9th financial audit in a row](https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/)
 
-- ⭐ 87 分｜💬 38 留言｜👤 speckx
+- ⭐ 4 分｜💬 0 留言｜👤 zootedjordan
 
-### 26. [Spamhaus 新 email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
+### 27. [測試/verification technique effectiveness with Astra](https://danluu.com/astra-testing/)
 
-- ⭐ 69 分｜💬 61 留言｜👤 computer23
+- ⭐ 80 分｜💬 12 留言｜👤 luu
 
-### 27. [Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
+### 28. [The Fossils That Haunted Lovecraft](https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/)
 
-- ⭐ 832 分｜💬 505 留言｜👤 DeepLogin
+- ⭐ 61 分｜💬 25 留言｜👤 BigTTYGothGF
 
-### 28. [Jolt – Clojure that speaks C](https://jolt-lang.net/)
+### 29. [Do Repeat Yourself](https://arcentry.com/blog/do-repeat-yourself/)
 
-- ⭐ 93 分｜💬 29 留言｜👤 michaelsbradley
+- ⭐ 131 分｜💬 47 留言｜👤 max_sendfeld
 
-### 29. [Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
+### 30. [OpenCode Browse](https://opencode.ai/product/browse)
 
-- ⭐ 102 分｜💬 226 留言｜👤 rossant
-
-### 30. [The origins of the placenta](https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta)
-
-- ⭐ 31 分｜💬 6 留言｜👤 gmays
+- ⭐ 311 分｜💬 197 留言｜👤 mfiguiere
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Stop Filming in Log?
+- Formal Verification Is Not Verifiable
+- Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
+- Technical issue at JPMorgan Chase triggers online banking delays for US banks
+- A US Federal Women's Prison Became a "Rape Club"
+- Spamhaus 新 email sender requirements in November
+- Squircles
+- Windows 11 is collecting data on which coding agents and 開發者 tools you use
+- 如何 Break into 安全, Ptacek Edition (2012)
+- My Quest to push native Three.js quality match AAA Game Engines
+- How long have we got before the 代理 output is enshittified?
+- Interpreting claims that a theorem is correct because it was checked in Lean
+- Mem Is Shutting Down
+- Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings
+- 為什麼 did modems have speakers? (2019)
+- My Empire of Dirt
+- Aristotle Expands into Rust
+- Jolt – Clojure that speaks C
 - OOS – an open operating 系統 for the Rigol Scopes
-- Show HN: Open-source, real-time object tracking for live video feeds
-- NVIDIA was in trouble before the Jensen Huang mess
+- Tokendoctor – See what your Claude 代碼 use overpays
+- Researchers track whole body movement with just a smartwatch
+- Show HN: Sutra-OS – A self-hosted ontology platform
+- Rust changed me as a 開發者
+- Show HN: Pulsar – cross-harness 代理 to 代理 communication and messaging
+- United Airlines experiencing a widespread 系統 outage, airline says
+- 為什麼 was that backup so large?
+- Atomic Nuked Veteran
+- Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself
+- 如何 Intercept HTTP/3 Traffic: QUIC and Qpack
+- Run your FreeBSD services from one console
+- 如何 make almost anything
+- Strengthening the fight against online child sexual abuse
 - Coffeehouses and the Rise of Science [pdf]
 - Pentagon fails ninth straight audit despite progress in organizing finances
-- Researchers track whole body movement with just a smartwatch
-- Interpreting claims that a theorem is correct because it was checked in Lean
-- First phase of embedded assessments at OpenAI
-- Kubernetes Is Strengthening Its Position as the AI Platform of Choice
-- Comcast's "fiber-powered Wi-Fi" is cable, AT&T says in false advertising case
-- A 512 KiB binary message teaching chess without a shared language
-- 軟體 is breaking down at a systemic level
-- Beyond Floating Point: Next-Generation Computer Arithmetic
-- Eight years of running DocSpring on Convox
-- Smallest possible nopert polyhedra: the Septopert
-- 如何 make almost anything
-- Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME
-- Uber says hackers stole information on close to 150k DLs during data breach
-- The Active Directory Era Is Finally Over
-- Universal XSS in uBlock Origin from website-driven element picker
-- Psychic: Like fzf but learns from your actions
-- FBI has possession of router that the FAA says is behind Friday's ATC meltdown
-- Elementary Applied Topology, 2nd Ed by Robert Ghrist [pdf]
-- The Fed Is Worried AI Agents Could Trigger a Bank Run
-- How Billions in Safe Insurance Money Is Being Bet on A.I. Debt
 - A quest to create the perfect whiskey glass
-- Show HN: Fakemetrics.com – "構建 in public" like a superstar
-- 3D Sword Coast Map with weather and day/night cycle (Rust to WebGL)
-- Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland
-- Do we still have to denormalize? Have your schema and search it too
-- What's Next for NVIDIA?
-- The Lasting Influence of John Berger
+- Ask HN: If AI tools are so good, 為什麼 isn't your bug backlog empty?
+- 新 開源 C4 Diagram tool
+- The Secret ThinkPad Powerbutton 代碼 to Bring Dead Laptops Back to Life (2007)
+- Universal XSS in uBlock Origin from website-driven element picker
+- Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME
+- First phase of embedded assessments at OpenAI
+- The origins of the placenta
+- Beyond Floating Point: Next-Generation Computer Arithmetic
+- Show HN: Open-source, real-time object tracking for live video feeds
 - SpaceX catches the Starship to end Flight 15
-- Obituaries
-- Qwen4-Max
-- US will say "no" to global ban on killer robots
+- NVIDIA was in trouble before the Jensen Huang mess
+- A 512 KiB binary message teaching chess without a shared language
+- Improving the Wii U's Wii Mode
+- Psychic: Like fzf but learns from your actions
+- Joint Statement from Department of Commerce and DOJ on Megaspeed Investigation
+- Kubernetes Is Strengthening Its Position as the AI Platform of Choice
+- 'Katastrophe': inside the chaos at Deutsche Bank
+- Who Is Anthropic Kidding?
+- Running coding agents without handing them my credentials
+- What's Next for NVIDIA?
+- Tech leaders are convinced that Jensen Huang's exit was a plot against him
+- Show HN: Zigzag, a native Mac browser for people leaving Arc
+- Opus 5.5 covertly sabotaged a game developers deployment environments
+- Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites
 - Old Bitly links are being hijacked
-- Making Atuin sync 32x faster with packfiles
-- FBI says Artex AI open-source hacking tool used to breach networks
-- 人工智慧 for the Z80
-- United Halts Flights as It Addresses 'Widespread 系統 Outage'
-- The Opportunivore's Dilemma
+- Claude Mythos slashed 軟體 work to onboard AMD GPUs to around three days
+- Chinese frontier AI models carry the fingerprint of export-controlled GPUs
+- Qwen4-Max
+- The Lasting Influence of John Berger
 - Protomaps: Self-hosting map tiles has gotten cheap and easy
-- Some OLED MacBook Pro Owners Report Eye Strain and Dizziness
-- Simple 8085 Computer
-- SignuDoc: Open-source document signature platform
+- Lovable apps expose passport details and more than 200K private messages
+- 人工智慧 for the Z80
+- Geographic Data Science with Python
 - Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests
 - Handwriting, as a Font
-- 什麼是 w2rt6byl5nf1opmc-a.com?
-- Exact Gradients Through a BRep Kernel
-- Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack
-- Eclipse Mosquitto – An 開源 MQTT broker
-- Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones
-- No matter how you ask, more Americans are negative than positive about AI
-- Ask HN: Are iPhone Duo Customers Happy?
-- My Emacs 31 contributions
-- Mini.nvim Is Now on Tangled
-- Show HN: ThingStudio, Node-RED style 程式設計 for microcontrollers
-- C-like bit flags in Ruby
-- Atomic Nuked Veteran
-- The MacBook Pro's OLED PWM problem
-- Lovable apps expose passport details and more than 200K private messages
-- United Airlines experiencing 'widespread 系統 outage'
-- U.S. tightens controls on 遠端 access to AI technology amid NVIDIA fallout
-- Claude 代碼 and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]
-- Clice v1.0 發布: Welcome to Modern C++
-- Parcel: A desktop mail client for Linux, built with Zig
-- Reports of AI-related child sexual abuse material rise 8,400% in two years
-- Chinese frontier AI models carry the fingerprint of export-controlled GPUs
-- Notes on Mathematics for Engineers (1959) [pdf]
 
 
 ---
