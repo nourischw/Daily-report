@@ -4,208 +4,204 @@
 
 ---
 
-### 1. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+### 1. [Quad9 Is Leaving France: 為什麼 DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 
-- ⭐ 416 分｜💬 108 留言｜👤 werrett
+- ⭐ 155 分｜💬 30 留言｜👤 ritzaco
 
-### 2. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+### 2. [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
 
-- ⭐ 1047 分｜💬 654 留言｜👤 jasondavies
+- ⭐ 39 分｜💬 26 留言｜👤 torutofu
 
-### 3. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+### 3. [Energy-Based Reasoners: 385x more efficient 推論](https://energy-based-reasoners.github.io/)
 
-- ⭐ 182 分｜💬 45 留言｜👤 subset
+- ⭐ 192 分｜💬 29 留言｜👤 frenchmajesty
 
-### 4. [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
+### 4. [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/)
 
-- ⭐ 22 分｜💬 3 留言｜👤 digitaldragon
+- ⭐ 123 分｜💬 35 留言｜👤 mariuz
 
-### 5. [NVIDIA stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
+### 5. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 
-- ⭐ 351 分｜💬 177 留言｜👤 louiereederson
+- ⭐ 1067 分｜💬 281 留言｜👤 werrett
 
-### 6. [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
+### 6. ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 
-- ⭐ 231 分｜💬 126 留言｜👤 petecooper
+- ⭐ 6 分｜💬 0 留言｜👤 DeepLogin
 
-### 7. [MAI 代碼 2 and 代碼 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
+### 7. [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e)
 
-- ⭐ 266 分｜💬 125 留言｜👤 lemonish97
+- ⭐ 32 分｜💬 15 留言｜👤 Aldus551
 
-### 8. [Phrack 73 發布](https://phrack.org/issues/73/introduction_md)
+### 8. [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
 
-- ⭐ 251 分｜💬 25 留言｜👤 notmine1337
+- ⭐ 579 分｜💬 434 留言｜👤 slashdev
 
-### 9. [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
+### 9. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 
-- ⭐ 226 分｜💬 69 留言｜👤 dxs
+- ⭐ 800 分｜💬 361 留言｜👤 subset
 
-### 10. [Highly classified US national 安全 communications 網絡 goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
+### 10. [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
+
+- ⭐ 36 分｜💬 21 留言｜👤 genghizkhan
+
+### 11. [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+
+- ⭐ 419 分｜💬 215 留言｜👤 DeepLogin
+
+### 12. [Evidence (YC S21) Is 招聘](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
+
+- ⭐ 1 分｜💬 0 留言｜👤 amcaskill
+
+### 13. [Show HN: Type Fighter 2](https://typefighter2.com/)
+
+Type Fighter II is an arcade inspired game for people learning to touch type.Free, no account, and progress stays local. You can try on 行動, 最佳 with a physical keyboard.
+
+- ⭐ 39 分｜💬 18 留言｜👤 torumitch
+
+### 14. [為什麼 is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
+
+- ⭐ 196 分｜💬 100 留言｜👤 deenadz
+
+### 15. [NVIDIA stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
+
+- ⭐ 629 分｜💬 273 留言｜👤 louiereederson
+
+### 16. [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
+
+- ⭐ 81 分｜💬 8 留言｜👤 xenodium
+
+### 17. [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
+
+- ⭐ 390 分｜💬 80 留言｜👤 nvader
+
+### 18. [Highly classified US national 安全 communications 網絡 goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 
 https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;highly-classified-us-nati...
 
-- ⭐ 435 分｜💬 519 留言｜👤 monkeydust
+- ⭐ 642 分｜💬 718 留言｜👤 monkeydust
 
-### 11. [Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)](https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938)
+### 19. [Archive Team is archiving the Apple Support Community](https://wiki.archiveteam.org/index.php/Apple_Discussions)
 
-- ⭐ 140 分｜💬 25 留言｜👤 b33f
+- ⭐ 236 分｜💬 91 留言｜👤 digitaldragon
 
-### 12. [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
+### 20. [Harvard researchers find AI coding agents shifted the bottleneck to 代碼 review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
 
-- ⭐ 201 分｜💬 53 留言｜👤 pier25
+- ⭐ 255 分｜💬 345 留言｜👤 judahmeek
 
-### 13. [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
+### 21. [Dissecting Spring petclinic (Part 2 – Bending the persistence)](https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html)
 
-- ⭐ 50 分｜💬 11 留言｜👤 nvader
+- ⭐ 3 分｜💬 0 留言｜👤 ejboy
 
-### 14. [網頁 Browser Engineering (2021)](https://browser.engineering/)
+### 22. [Phrack 73](https://phrack.org/issues/73/introduction_md)
 
-- ⭐ 113 分｜💬 19 留言｜👤 ibobev
+- ⭐ 435 分｜💬 60 留言｜👤 notmine1337
 
-### 15. [Launch HN: StarSling (YC P25) – Self-improving CI for 代理-volume repos](https://starsling.dev)
+### 23. [MAI 代碼 2 and 代碼 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
 
-We’re Yonas and Daniel and we’re building StarSling (https:&#x2F;&#x2F;starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every C
+- ⭐ 391 分｜💬 157 留言｜👤 lemonish97
 
-- ⭐ 44 分｜💬 25 留言｜👤 yonasb
+### 24. [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 
-### 16. [什麼是 the 最佳 harness for each 模型?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+- ⭐ 374 分｜💬 122 留言｜👤 dxs
 
-- ⭐ 324 分｜💬 113 留言｜👤 Edward40
+### 25. [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
 
-### 17. [Apple Services Down](https://developer.apple.com/system-status/)
+- ⭐ 351 分｜💬 181 留言｜👤 petecooper
 
-- ⭐ 613 分｜💬 334 留言｜👤 willy_k
+### 26. [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
 
-### 18. [Effects of a Nuclear Detonation in Low Earth Orbit](https://arxiv.org/abs/2611.09827)
+- ⭐ 594 分｜💬 566 留言｜👤 grey-area
 
-- ⭐ 69 分｜💬 39 留言｜👤 PaulHoule
+### 27. [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
 
-### 19. [Who Builds the Machines That 構建 the Machines?](https://read.corematter.com/p/section-232-us-machine-tools)
+- ⭐ 112 分｜💬 50 留言｜👤 gmays
 
-- ⭐ 85 分｜💬 25 留言｜👤 gmays
+### 28. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 
-### 20. [Tencent Hy4 Flash](https://hy.tencent.ai/research/hy4-flash)
+- ⭐ 1318 分｜💬 821 留言｜👤 jasondavies
 
-- ⭐ 31 分｜💬 6 留言｜👤 lyra1337
+### 29. [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
 
-### 21. [YC wrote 軟體 to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
+- ⭐ 345 分｜💬 110 留言｜👤 pier25
 
-We ran an intern expo last summer to help students get jobs for 2027 (and help our companies hire!) and we nerded out with 軟體. We built lookbooks, AI-powered matching, 15-minute speed interviews
+### 30. [什麼是 the 最佳 harness for each 模型?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
 
-- ⭐ 1 分｜💬 0 留言｜👤 ryankicks
-
-### 22. [Not Everything Needs an 大型語言模型](https://newsletter.posthog.com/p/decision-models)
-
-- ⭐ 74 分｜💬 29 留言｜👤 speckx
-
-### 23. [Mouse Party](https://aboard.com/lets-have-a-mouse-party/)
-
-- ⭐ 52 分｜💬 8 留言｜👤 bookofjoe
-
-### 24. [新 Evidence Shows School Phone Bans Are Gradually Improving 測試 Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
-
-- ⭐ 1139 分｜💬 565 留言｜👤 donohoe
-
-### 25. [How the Claude 代碼 team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
-
-- ⭐ 254 分｜💬 198 留言｜👤 craigmart
-
-### 26. [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
-
-- ⭐ 172 分｜💬 31 留言｜👤 prafandy
-
-### 27. [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
-
-- ⭐ 10 分｜💬 3 留言｜👤 E-Reverance
-
-### 28. [Zoltraak and the Dynamics of Military Innovation](https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/)
-
-- ⭐ 40 分｜💬 8 留言｜👤 zdw
-
-### 29. [Show HN: TrnRT – An open-source 大型語言模型 推論 engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)
-
-Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our 推論 engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run G
-
-- ⭐ 41 分｜💬 5 留言｜👤 sanchitmonga22
-
-### 30. [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
-
-- ⭐ 35 分｜💬 25 留言｜👤 gmays
+- ⭐ 407 分｜💬 129 留言｜👤 Edward40
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Fixing a WebKit bug to see if promises are made of train tracks
-- First Photos of the Poles of a Rod-Shaped Bacterium
-- Elephant-Goldfish 模型
-- NVIDIA Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO
+- Launch HN: StarSling (YC P25) – Self-improving CI for 代理-volume repos
+- Dutch resist 'unacceptable' US bid to tighten semiconductor export controls
+- 為什麼 Fibonacci?
+- Tencent Hy4 Flash
+- Codeberg.org Not Reachable
+- Energy drinks linked to 11 times more reports of cardiac arrest
+- Cerebras Disaggregated 推論
+- Show HN: Unref – A Python dead 代碼 finder built on Ruff's parser
+- Show HN: Math 2.0
+- Fun with Constrained 程式設計 (2012)
+- 網頁 Browser Engineering (2021)
+- Not Everything Needs an 大型語言模型
+- Australia's full national topographic library at your fingertips
+- Apple Services Down
+- 新 Evidence Shows School Phone Bans Are Gradually Improving 測試 Scores
 - Carnegie Mellon is putting computer science courses on YouTube for free
-- 新 Species of Giant Fungus Discovered in China Grows Up to 20 Inches Tall
+- Classical Energies Learn to Reason 1k× Faster Than Looped Models
+- Voyager 1 hits one light day from Earth
+- Who Builds the Machines That 構建 the Machines?
+- Flattening Every Memory Peak in Long-Context Mixture-of-Experts 訓練
+- Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off
+- Accelerating Development for Massive Git Repositories
+- Mouse Party
+- Effects of a Nuclear Detonation in Low Earth Orbit
+- Latent Lattice Language Models
+- Talos Linux
+- Apple/FastFrames-L 模型
 - VisualBasic.World: A gallery of Planet Source 代碼 programs from 1997 to 2012
-- Rows vs. Columns: How different are they, really?
-- Computer Graphics from Scratch
-- Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs
-- Turbo Pascal Compiler Written in Turbo Pascal
+- First Photos of the Poles of a Rod-Shaped Bacterium
+- Show HN: TrnRT – An open-source 大型語言模型 推論 engine for AWS Trainium
 - Nimony: A 新 Compiler for Nim
-- Antfly learned to stop worrying and love Apache 2.0
-- California bans Waymo autonomous vehicles from state freeways
-- Japan's Hometown Tax (2018)
-- Goose Typing – Python Morsels
-- Purism 推出 Librem 5 v2, a RISC-V Phone to Empower People
-- Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC
-- NVIDIA says it does not intend to reinstate Jensen Huang as CEO
-- Apple faces French trial over alleged planned obsolescence of iPhones
+- Rows vs. Columns: How different are they, really?
+- Elephant-Goldfish 模型
 - 什麼是 w2rt6byl5nf1opmc-a.com?
-- iCloud, App Store, and other Apple services hit by ongoing outage
-- Self-Improvement Memory Enables Continual Recursive Self-Improvement
-- NVIDIA Beats Estimates, Raises Guidance After Huang's Ouster
-- Show HN: Zigzag, a native Mac browser for people leaving Arc
-- Optimizely compromised, served malware on Zoom, GitLab
-- Too Many Stadiums with Roofs
-- We don't need more apps, we need better 開源
-- My Empire of Dirt
+- 43k+ 新 periodic solutions to the three body problem found by volunteers
+- Turbo Pascal Compiler Written in Turbo Pascal
+- Duality of Quadrilaterals via Quaternions [pdf]
+- Advancing computer-use agents for healthcare teams
+- Japan's Hometown Tax (2018)
+- How the Claude 代碼 team thinks about verification
+- LeetCode adds vibe coding challenges now
+- A repo of information for Zoom R8 firmware development
 - Human.md
-- BugMeNot has closed
-- Witches, vampires, ancient aliens–you'll find them all in Malta
-- Do Repeat Yourself
+- Optimizely compromised, served malware on Zoom, GitLab
+- Zoltraak and the Dynamics of Military Innovation
+- Horizon Opens to Early Users: America's Most Powerful Academic Supercomputer
+- Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages
+- A Review of Alfred North Whitehead's "介紹 Mathematics"
+- Firefox opens hotline for users sick of Microsoft shoving Edge down their throat
 - Stop Filming in Log?
-- CA DMV bans Waymos from operating on state freeways after Bay Area incidents
-- Uncontacted Awá people approach government post in Brazil, ask for food
+- Codeberg is down due to a domain issue
+- Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs
+- BugMeNot has closed
+- Hex: Voice Dictation
+- Alkaline batteries are obsolete – but not for the reason you'd think [video]
+- Do Repeat Yourself
+- Fixing a WebKit bug to see if promises are made of train tracks
+- Show HN: Zigzag, a native Mac browser for people leaving Arc
 - Formal Verification Is Not Verifiable
-- Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags
-- OpenCode Browse
 - Technical issue at JPMorgan Chase triggers online banking delays for US banks
-- GPT-6.2 Astra scores 100% on ARC-AGI-3
 - Squircles
+- Interviewed at a YC startup, found out they used my LinkedIn without permission
+- Antfly learned to stop worrying and love Apache 2.0
+- OpenCode Browse
+- Computer Graphics from Scratch
+- Interpreting claims that a theorem is correct because it was checked in Lean
+- Mullet: The Skill for 工作 安全
+- Too Many Stadiums with Roofs
 - Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
 - Spamhaus 新 email sender requirements in November
-- If an App Asks for Full Disk Access or 系統 and App Protection Override
-- 測試/verification technique effectiveness with Astra
-- Show HN: SSH into DOS: I wrote an x86 (IBM PC) emulator
-- Leak of 15M Deutsche Bank files exposes systemic failures
-- The Fossils That Haunted Lovecraft
-- Texas Attorney General composed songs for Dragon Ball Z
-- Israel vs. Wikipedia
-- 為什麼 3dfx 1 cards had such a washed out color output?
-- Harvard researchers find AI coding agents shifted the bottleneck to 代碼 review
-- As Voyager 1 reaches one light-day from Earth, scientists reflect on its past
-- 為什麼 did modems have speakers? (2019)
-- Isomorphic Labs $5B Series C
-- 如何 Break into 安全, Ptacek Edition (2012)
-- My Quest to push native Three.js quality match AAA Game Engines
-- Chemistry is Actually Geometry
-- Frame – 31.5" color ePaper display
-- Comcast's "fiber-powered Wi-Fi" is cable, AT&T says in false advertising case
-- Interpreting claims that a theorem is correct because it was checked in Lean
-- Windows 11 is collecting data on which coding agents and 開發者 tools you use
-- Running coding agents without handing them my credentials
-- Microsoft blames monster email outage on 軟體 defect introduced in July fix
-- Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings
-- Jiff 1.0: A datetime library for Rust
-- Qwen3.8-Flash-Next 180B running in real time on a 16G MacBook Pro
-- Researchers track whole body movement with just a smartwatch
-- Aristotle Expands into Rust
 
 
 ---
