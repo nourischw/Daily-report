@@ -4,204 +4,206 @@
 
 ---
 
-### 1. [Quad9 Is Leaving France: 為什麼 DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+### 1. [Unauthenticated 遠端 代碼 execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 
-- ⭐ 155 分｜💬 30 留言｜👤 ritzaco
+https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123633https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123007
 
-### 2. [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
+- ⭐ 1037 分｜💬 475 留言｜👤 speedping
 
-- ⭐ 39 分｜💬 26 留言｜👤 torutofu
+### 2. [Seven 新 models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
 
-### 3. [Energy-Based Reasoners: 385x more efficient 推論](https://energy-based-reasoners.github.io/)
+- ⭐ 403 分｜💬 282 留言｜👤 gmays
 
-- ⭐ 192 分｜💬 29 留言｜👤 frenchmajesty
+### 3. [Inside Deutsche Bank](https://www.inside-db.com/)
 
-### 4. [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/)
+- ⭐ 512 分｜💬 182 留言｜👤 gyre007
 
-- ⭐ 123 分｜💬 35 留言｜👤 mariuz
+### 4. [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 
-### 5. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+- ⭐ 314 分｜💬 144 留言｜👤 Betelbuddy
 
-- ⭐ 1067 分｜💬 281 留言｜👤 werrett
+### 5. [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
 
-### 6. ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
+- ⭐ 108 分｜💬 28 留言｜👤 de_sty
 
-- ⭐ 6 分｜💬 0 留言｜👤 DeepLogin
+### 6. [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 
-### 7. [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e)
+- ⭐ 325 分｜💬 309 留言｜👤 yigitdemirag
 
-- ⭐ 32 分｜💬 15 留言｜👤 Aldus551
+### 7. [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 
-### 8. [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
+- ⭐ 561 分｜💬 209 留言｜👤 ritzaco
 
-- ⭐ 579 分｜💬 434 留言｜👤 slashdev
+### 8. [Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)
 
-### 9. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+- ⭐ 28 分｜💬 5 留言｜👤 acossta
 
-- ⭐ 800 分｜💬 361 留言｜👤 subset
+### 9. [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
 
-### 10. [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
+- ⭐ 144 分｜💬 84 留言｜👤 vighneshiyer
 
-- ⭐ 36 分｜💬 21 留言｜👤 genghizkhan
+### 10. [A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
 
-### 11. [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+- ⭐ 16 分｜💬 2 留言｜👤 wawayanda
 
-- ⭐ 419 分｜💬 215 留言｜👤 DeepLogin
+### 11. [The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 
-### 12. [Evidence (YC S21) Is 招聘](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
+- ⭐ 223 分｜💬 166 留言｜👤 DeepLogin
+
+### 12. [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
+
+- ⭐ 141 分｜💬 37 留言｜👤 zerocool0101
+
+### 13. [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
+
+Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to a s
+
+- ⭐ 137 分｜💬 30 留言｜👤 raj-shekhar
+
+### 14. [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
+
+- ⭐ 168 分｜💬 139 留言｜👤 leumon
+
+### 15. [CrossPoint Reader](https://crosspointreader.com)
+
+- ⭐ 90 分｜💬 47 留言｜👤 kristianpaul
+
+### 16. [The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter](https://americanhandgunner.com/handguns/revolvers/the-first-revolver/)
+
+- ⭐ 52 分｜💬 35 留言｜👤 bushwart
+
+### 17. [KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)](https://www.cve.org/CVERecord?id=CVE-2026-99312)
+
+- ⭐ 164 分｜💬 113 留言｜👤 Kozmik1
+
+### 18. [大型語言模型 Assisted Reverse Engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering)
+
+- ⭐ 5 分｜💬 0 留言｜👤 ioma8
+
+### 19. [Show HN: Mastra Factory, the open-source 軟體 factory we use to 構建 Mastra](https://news.ycombinator.com/item?id=50548660)
+
+Hi HN, we&#x27;re Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript 代理 framework, on Show HN: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43103073. It 
+
+- ⭐ 77 分｜💬 26 留言｜👤 codekarate
+
+### 20. [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)
+
+- ⭐ 15 分｜💬 12 留言｜👤 bananaboy
+
+### 21. [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486)
+
+- ⭐ 131 分｜💬 45 留言｜👤 ibobev
+
+### 22. [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
+
+- ⭐ 85 分｜💬 21 留言｜👤 aray07
+
+### 23. [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
+
+- ⭐ 48 分｜💬 31 留言｜👤 rsaz
+
+### 24. [為什麼 educational 系統 is broken](https://keycybermonk.com/edu)
+
+- ⭐ 10 分｜💬 7 留言｜👤 makosst
+
+### 25. [Energy-Based Reasoners: 385x more efficient 推論](https://energy-based-reasoners.github.io/)
+
+- ⭐ 296 分｜💬 51 留言｜👤 frenchmajesty
+
+### 26. [A Primer on Fourier Series (2025)](https://arxiv.org/abs/2510.18203)
+
+- ⭐ 104 分｜💬 28 留言｜👤 teleforce
+
+### 27. [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
+
+- ⭐ 27 分｜💬 9 留言｜👤 todsacerdoti
+
+### 28. [Horizon Labs Report](https://horizon-labs.ai/)
+
+- ⭐ 19 分｜💬 4 留言｜👤 gmays
+
+### 29. [Evidence (YC S21) Is 招聘](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
 
 - ⭐ 1 分｜💬 0 留言｜👤 amcaskill
 
-### 13. [Show HN: Type Fighter 2](https://typefighter2.com/)
+### 30. [F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
 
-Type Fighter II is an arcade inspired game for people learning to touch type.Free, no account, and progress stays local. You can try on 行動, 最佳 with a physical keyboard.
-
-- ⭐ 39 分｜💬 18 留言｜👤 torumitch
-
-### 14. [為什麼 is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
-
-- ⭐ 196 分｜💬 100 留言｜👤 deenadz
-
-### 15. [NVIDIA stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
-
-- ⭐ 629 分｜💬 273 留言｜👤 louiereederson
-
-### 16. [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
-
-- ⭐ 81 分｜💬 8 留言｜👤 xenodium
-
-### 17. [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
-
-- ⭐ 390 分｜💬 80 留言｜👤 nvader
-
-### 18. [Highly classified US national 安全 communications 網絡 goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
-
-https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;highly-classified-us-nati...
-
-- ⭐ 642 分｜💬 718 留言｜👤 monkeydust
-
-### 19. [Archive Team is archiving the Apple Support Community](https://wiki.archiveteam.org/index.php/Apple_Discussions)
-
-- ⭐ 236 分｜💬 91 留言｜👤 digitaldragon
-
-### 20. [Harvard researchers find AI coding agents shifted the bottleneck to 代碼 review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
-
-- ⭐ 255 分｜💬 345 留言｜👤 judahmeek
-
-### 21. [Dissecting Spring petclinic (Part 2 – Bending the persistence)](https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html)
-
-- ⭐ 3 分｜💬 0 留言｜👤 ejboy
-
-### 22. [Phrack 73](https://phrack.org/issues/73/introduction_md)
-
-- ⭐ 435 分｜💬 60 留言｜👤 notmine1337
-
-### 23. [MAI 代碼 2 and 代碼 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
-
-- ⭐ 391 分｜💬 157 留言｜👤 lemonish97
-
-### 24. [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
-
-- ⭐ 374 分｜💬 122 留言｜👤 dxs
-
-### 25. [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
-
-- ⭐ 351 分｜💬 181 留言｜👤 petecooper
-
-### 26. [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
-
-- ⭐ 594 分｜💬 566 留言｜👤 grey-area
-
-### 27. [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
-
-- ⭐ 112 分｜💬 50 留言｜👤 gmays
-
-### 28. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
-
-- ⭐ 1318 分｜💬 821 留言｜👤 jasondavies
-
-### 29. [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
-
-- ⭐ 345 分｜💬 110 留言｜👤 pier25
-
-### 30. [什麼是 the 最佳 harness for each 模型?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
-
-- ⭐ 407 分｜💬 129 留言｜👤 Edward40
+- ⭐ 138 分｜💬 103 留言｜👤 birdboat00
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- Launch HN: Maritime (YC F26) – A managed 雲端 for production AI agents
+- A live service duress prototype
+- Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys
+- Show HN: Type Fighter 2
+- US charges Irishman with destroying a $60M Air Force C-130
+- SuperEMeans: Making e-means 3× faster
+- Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests
+- Lakegres: Vector search on existing Open/Hudi/Iceberg tables
+- 為什麼 is Gemini 4 Carbon taking so long?
+- Java4Shell: RCE in OpenJDK when processing Base64
+- VB Harness – Make local coding agents verify their own work
+- Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T
+- Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights
+- When Everything Has Changed, What Do We Do Next?
+- 新 FreeBSD Pkgbase(8) Tool
+- Show HN: Beat – a to-do list that completes its own tasks
+- Quad9's withdrawal from France: A canary in the coal mine
+- Scottish HTTP Codes
+- 什麼是 the randomart image for? (2023)
+- U.S. School Districts Weigh Breaking Up with Google Search over A.I
+- My Emacs 31 contributions
+- Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck
+- Can Universities Survive? AI vs. Higher Education [audio]
+- Claude was trained on protein sequences at scale
+- Google's AI answers reducing search traffic by 40%
+- 如何 Bypass Rust's Orphan Rule
+- Show HN: Poptato – App launcher, command runner, and fuzzy menu for Linux
+- Show HN: PocketOps for SigNoz: The 開源 Datadog Alternative
+- A Perfect SimCity
+- Demazure Operators for Beginners
+- ID.me terms required for IRS sign-in
+- M.C. Escher's Art Creates Mathematical Worlds
+- NVIDIA stopped disclosing Singapore sales as revenues hit $104B
+- The Codex Sandbox
+- Amazon vows to fight the company's first NA union contract at a CAN warehouse
+- Show HN: BPM – Baby Plus Music Visualizer
 - Launch HN: StarSling (YC P25) – Self-improving CI for 代理-volume repos
-- Dutch resist 'unacceptable' US bid to tighten semiconductor export controls
-- 為什麼 Fibonacci?
+- AI is killing All About Berlin
+- Google Buys Worker Data from Spirit Airlines in a 新 Market to Feed AI
 - Tencent Hy4 Flash
-- Codeberg.org Not Reachable
-- Energy drinks linked to 11 times more reports of cardiac arrest
-- Cerebras Disaggregated 推論
-- Show HN: Unref – A Python dead 代碼 finder built on Ruff's parser
-- Show HN: Math 2.0
-- Fun with Constrained 程式設計 (2012)
-- 網頁 Browser Engineering (2021)
-- Not Everything Needs an 大型語言模型
-- Australia's full national topographic library at your fingertips
-- Apple Services Down
-- 新 Evidence Shows School Phone Bans Are Gradually Improving 測試 Scores
 - Carnegie Mellon is putting computer science courses on YouTube for free
-- Classical Energies Learn to Reason 1k× Faster Than Looped Models
-- Voyager 1 hits one light day from Earth
-- Who Builds the Machines That 構建 the Machines?
-- Flattening Every Memory Peak in Long-Context Mixture-of-Experts 訓練
-- Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off
-- Accelerating Development for Massive Git Repositories
-- Mouse Party
-- Effects of a Nuclear Detonation in Low Earth Orbit
-- Latent Lattice Language Models
-- Talos Linux
-- Apple/FastFrames-L 模型
-- VisualBasic.World: A gallery of Planet Source 代碼 programs from 1997 to 2012
-- First Photos of the Poles of a Rod-Shaped Bacterium
-- Show HN: TrnRT – An open-source 大型語言模型 推論 engine for AWS Trainium
-- Nimony: A 新 Compiler for Nim
-- Rows vs. Columns: How different are they, really?
-- Elephant-Goldfish 模型
-- 什麼是 w2rt6byl5nf1opmc-a.com?
-- 43k+ 新 periodic solutions to the three body problem found by volunteers
-- Turbo Pascal Compiler Written in Turbo Pascal
-- Duality of Quadrilaterals via Quaternions [pdf]
-- Advancing computer-use agents for healthcare teams
-- Japan's Hometown Tax (2018)
-- How the Claude 代碼 team thinks about verification
-- LeetCode adds vibe coding challenges now
-- A repo of information for Zoom R8 firmware development
-- Human.md
-- Optimizely compromised, served malware on Zoom, GitLab
-- Zoltraak and the Dynamics of Military Innovation
-- Horizon Opens to Early Users: America's Most Powerful Academic Supercomputer
-- Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages
-- A Review of Alfred North Whitehead's "介紹 Mathematics"
-- Firefox opens hotline for users sick of Microsoft shoving Edge down their throat
-- Stop Filming in Log?
-- Codeberg is down due to a domain issue
-- Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs
-- BugMeNot has closed
-- Hex: Voice Dictation
-- Alkaline batteries are obsolete – but not for the reason you'd think [video]
-- Do Repeat Yourself
-- Fixing a WebKit bug to see if promises are made of train tracks
-- Show HN: Zigzag, a native Mac browser for people leaving Arc
-- Formal Verification Is Not Verifiable
-- Technical issue at JPMorgan Chase triggers online banking delays for US banks
-- Squircles
-- Interviewed at a YC startup, found out they used my LinkedIn without permission
-- Antfly learned to stop worrying and love Apache 2.0
-- OpenCode Browse
-- Computer Graphics from Scratch
-- Interpreting claims that a theorem is correct because it was checked in Lean
-- Mullet: The Skill for 工作 安全
-- Too Many Stadiums with Roofs
-- Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
-- Spamhaus 新 email sender requirements in November
+- When AI Knows More Than It Can Offer
+- Sarasa Gothic Mono
+- IPv6 delegation, an unusually subtle failure mode
+- Steve Jobs Core Animation Demo from WWDC 2007
+- Anthropic Prices IPO at $83 a Share
+- Amazon and Google will together own nearly 30% of Anthropic after its IPO
+- Highly classified US national 安全 communications 網絡 goes down
+- Pikuma: Fundamentals of Computer Science and Mathematics
+- 新 Evidence Shows School Phone Bans Are Gradually Improving 測試 Scores
+- Show HN: Fun with bicycle trainers and 網頁 APIs
+- Forking TuxGuitar into a 17-EDO tab editor
+- Microsoft's ONNX Runtime has disappeared from GitHub
+- Gemini 4 Neon
+- Cerebras Disaggregated 推論
+- 網頁 Browser Engineering (2021)
+- Harvard researchers find AI coding agents shifted the bottleneck to 代碼 review
+- Show HN: Sci-Fi Futures – Reverse-engineering tech from classic sci-fi novels
+- Apple Services Down
+- Not Everything Needs an 大型語言模型
+- Archive Team is archiving the Apple Support Community
+- NVIDIA Tells Employees That Company Is Moving on from Huang Era
+- Linux/4004
+- The Boring Company and the Future Underground
+- SiliconForest: An open operating 系統 on Apple Silicon running Mac apps
+- Phrack 73
+- Waymo pulls driverless taxis from all US freeways
+- Fun with Constrained 程式設計 (2012)
+- MAI 代碼 2 and 代碼 2 Flash
+- Energy drinks linked to 11 times more reports of cardiac arrest
 
 
 ---
