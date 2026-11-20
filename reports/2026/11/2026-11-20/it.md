@@ -4,204 +4,208 @@
 
 ---
 
-### 1. [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+### 1. [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 
-- ⭐ 826 分｜💬 1580 留言｜👤 wslh
+- ⭐ 249 分｜💬 142 留言｜👤 sammatilda
 
-### 2. [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
+### 2. [Frostbite: A 新 CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 
-https:&#x2F;&#x2F;archive.ph&#x2F;2Et0x
+- ⭐ 338 分｜💬 222 留言｜👤 shioyama
 
-- ⭐ 474 分｜💬 68 留言｜👤 cybermango
+### 3. [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 
-### 3. [Synology 安全 Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
+- ⭐ 24 分｜💬 2 留言｜👤 iamronaldo
 
-- ⭐ 70 分｜💬 34 留言｜👤 choult
+### 4. [Show HN: I made an audio-to-MIDI 模型 60x more efficient](https://kobi.music/research/dettato)
 
-### 4. [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
+I 發布 dettato, my open weight audio to midi transcription 模型. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without 訓練 on copyrighted recordings. Feel free to ask que
 
-- ⭐ 346 分｜💬 155 留言｜👤 cybermango
+- ⭐ 40 分｜💬 10 留言｜👤 hidude562
 
-### 5. [RegExr: Temporarily Offline](https://regexr.com/)
+### 5. [Floppy3.5: A portable 3.5-inch floppy WiFi NAS](https://github.com/bigcrimping/floppy3.5)
 
-- ⭐ 24 分｜💬 16 留言｜👤 somebudyelse
+- ⭐ 41 分｜💬 8 留言｜👤 fortran77
 
-### 6. [如何 CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
+### 6. [Llms.txt and MCP didn't move the needle](https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did)
 
-- ⭐ 71 分｜💬 13 留言｜👤 o4c
+- ⭐ 16 分｜💬 4 留言｜👤 moebrowne
 
-### 7. [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
+### 7. [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 
-- ⭐ 175 分｜💬 88 留言｜👤 dev1one1
+- ⭐ 94 分｜💬 33 留言｜👤 hggh
 
-### 8. [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
+### 8. [Show HN: Fast deterministic natural language search for OpenStreetMap data](https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935)
 
-- ⭐ 722 分｜💬 307 留言｜👤 harrisonpage
+I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways.My aim with HippoMap
 
-### 9. [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
+- ⭐ 57 分｜💬 22 留言｜👤 vihren
 
-- ⭐ 178 分｜💬 88 留言｜👤 cornholemedia
+### 9. [What people are building, discovered through 新 domains](https://startups.novumsignals.com/)
 
-### 10. [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
+- ⭐ 87 分｜💬 40 留言｜👤 walterschnitzel
 
-- ⭐ 344 分｜💬 90 留言｜👤 notmine1337
+### 10. [為什麼 the Airbus A321XLR often gets stuck climbing for first few hours of flight](https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/)
 
-### 11. [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
+- ⭐ 46 分｜💬 26 留言｜👤 edward
 
-- ⭐ 62 分｜💬 117 留言｜👤 sandslash
+### 11. [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 
-### 12. [Rebuilding my local voice 助手 pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
+- ⭐ 63 分｜💬 16 留言｜👤 dotcoma
 
-- ⭐ 41 分｜💬 2 留言｜👤 todsacerdoti
+### 12. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
 
-### 13. [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
+- ⭐ 320 分｜💬 260 留言｜👤 JacobHenner
 
-- ⭐ 461 分｜💬 201 留言｜👤 Terretta
+### 13. [Epic Games Turns to AI Coding for the Unreal Engine](https://spectrum.ieee.org/epic-games-unreal-engine-ai)
 
-### 14. [Launch HN: Onlook (YC W25) – An open-source 開發者 tool for designers](https://github.com/onlook-dev/onlook/)
+- ⭐ 22 分｜💬 14 留言｜👤 rbanffy
 
-Hey HN, I&#x27;m Daniel, founder of Onlook (https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook and onlook.com).Onlook is a desktop app that puts a canvas on 熱門 of your real codebase, letting yo
+### 14. [I can’t believe it’s 1!](https://aperiodical.com/2026/11/i-cant-believe-its-1/)
 
-- ⭐ 81 分｜💬 66 留言｜👤 D_R_Farrell
+- ⭐ 25 分｜💬 21 留言｜👤 ColinWright
 
-### 15. [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
+### 15. [Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
 
-- ⭐ 231 分｜💬 51 留言｜👤 krthr
+- ⭐ 284 分｜💬 171 留言｜👤 sammatilda
 
-### 16. [Reverse-Engineering Kevin J. Lang's Lost OCaml 代碼 in Apache DataSketches](https://www.tisonkun.io/posts/ai-repair-program/)
+### 16. [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
 
-- ⭐ 27 分｜💬 0 留言｜👤 tison
+- ⭐ 82 分｜💬 48 留言｜👤 brianrhea
 
-### 17. [Computer Graphics from Scratch (2021)](https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html)
+### 17. [UK fridges secured from hackers](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
 
-- ⭐ 41 分｜💬 9 留言｜👤 ibobev
+https:&#x2F;&#x2F;www.pentestpartners.com&#x2F;安全-blog&#x2F;the-fridge-hac...
 
-### 18. [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
+- ⭐ 95 分｜💬 84 留言｜👤 tomnext
 
-- ⭐ 377 分｜💬 160 留言｜👤 jdns
+### 18. [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
 
-### 19. [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
+- ⭐ 219 分｜💬 30 留言｜👤 gyan
 
-- ⭐ 246 分｜💬 95 留言｜👤 cowlevel
+### 19. [Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 
-### 20. [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
+- ⭐ 36 分｜💬 9 留言｜👤 cdrnsf
 
-- ⭐ 646 分｜💬 309 留言｜👤 liotier
+### 20. [If you stop writing 代碼, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/)
 
-### 21. [Pete warden on local AI, open models, voice interfaces, the future of 硬體](https://thedataexchange.media/pete-warden-moonshine/)
+- ⭐ 48 分｜💬 11 留言｜👤 theanonymousone
 
-- ⭐ 205 分｜💬 185 留言｜👤 datascientist
+### 21. [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
 
-### 22. [An Oregon library ditched Dewey Decimal and got people excited about books again](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
+- ⭐ 77 分｜💬 9 留言｜👤 mofosyne
 
-- ⭐ 182 分｜💬 138 留言｜👤 bookofjoe
+### 22. [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
 
-### 23. [Do not buy RAM, compress](https://curiousbits.nl/blog/do-not-buy-ram-compress/)
+- ⭐ 102 分｜💬 22 留言｜👤 ibobev
 
-- ⭐ 239 分｜💬 199 留言｜👤 Ecno92
+### 23. [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 
-### 24. [What's 新 in PHP 8.6](https://www.php.net/releases/8.6/en.php)
+- ⭐ 142 分｜💬 23 留言｜👤 craigkerstiens
 
-- ⭐ 267 分｜💬 126 留言｜👤 netol
+### 24. [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 
-### 25. [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
+- ⭐ 175 分｜💬 109 留言｜👤 renehsz
 
-- ⭐ 20 分｜💬 2 留言｜👤 mikhael
+### 25. ["I can tell you wrote this yourself"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
 
-### 26. [Unblockable communication with gravity](https://www.science.org/doi/10.1126/sciadv.aee0802)
+- ⭐ 304 分｜💬 292 留言｜👤 BrunoBernardino
 
-- ⭐ 136 分｜💬 50 留言｜👤 rbanffy
+### 26. [如何 CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 
-### 27. [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
+- ⭐ 323 分｜💬 109 留言｜👤 o4c
 
-- ⭐ 251 分｜💬 68 留言｜👤 ghostfoxgod
+### 27. [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
 
-### 28. [如何 Make the Ink Used to Write Hamlet and the Declaration of Independence](https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/)
+- ⭐ 295 分｜💬 15 留言｜👤 linzhangrun
 
-- ⭐ 68 分｜💬 28 留言｜👤 ohjeez
+### 28. [Vint Cerf on 為什麼 TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
 
-### 29. [Adding Fortran Support to LLDB (GSoC 2026)](https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/)
+- ⭐ 134 分｜💬 64 留言｜👤 emot
 
-- ⭐ 32 分｜💬 9 留言｜👤 JDevlieghere
+### 29. [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)
 
-### 30. [Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'](https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/)
+- ⭐ 111 分｜💬 219 留言｜👤 jdkee
 
-- ⭐ 28 分｜💬 9 留言｜👤 defrost
+### 30. [Show HN: Radiotherapy Delivery Demo](https://tps.neuralrad.com)
+
+The treatment planning station (TPS) 軟體 field is currently monopolized by Varian&#x27;s Eclipse and Raystation from Raysearch. Current 軟體 is still using technology stack 2 decades old.At U
+
+- ⭐ 13 分｜💬 3 留言｜👤 coolwulf
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Everything you need to survive and rebuild society
-- Cooling buildings is overtaking heating them as an energy need, IEA says
-- Fuck Your AI Safeguards
-- Bending Spoons has entered into a definitive agreement to acquire Mailchimp
-- SSD prices may begin to decline in the latter half of 2027
-- Gemini 4 Neon
-- Chrome AI features wasting much bandwidth
-- Teaching robots to carve marble sculptures
-- Show HN: Mastra Factory, the open-source 軟體 factory we use to 構建 Mastra
-- I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)
+- Pancreatic cancer halted by virus injection in three patients
+- Bit Shifting in Basic
+- Synology 安全 Advisory
+- The 98% Slot Machine: How Paid Advertising Became an Extraction Tax
+- Automatic Checking of Compiler Correctness with E-Graphs
+- Anthropic’s Nasdaq debut
+- Launch HN: Onlook (YC W25) – An open-source 開發者 tool for designers
+- Weight-Space 程式設計 builds 神經網絡 networks like a 1990s researcher
+- ChatGPT for SNES
+- Show HN: Foolscap – a writing app that reads your book and never writes for you
+- Can I borrow a lunar rover? (2013)
+- Do not buy RAM, compress
+- Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
+- Frankenstein PBC – Animation, bestowed upon lifeless matter
+- UK government forced to admit it issued Apple a secret encryption order
+- The Specialization of Desire
+- Garage Door Spam
+- $1M Berggruen Philosophy Prize Awarded to Thomas Nagel
+- Claude solves two open problems in the physics of black holes
+- Rebuilding my local voice 助手 pipeline
+- RegExr: Temporarily Offline
+- 為什麼 the U.S. air traffic control 系統 still relies on an 'antique' 網絡
+- GIMP now has UI tests
+- 'The Super Poopers'
+- Unblockable communication with gravity
+- Talking Venice with Mahesh Subramony at AMD In-Depth
+- Computer Graphics from Scratch (2021)
+- What a Rewrite of Libexpat Needs
+- It's the End of the Academic World as We Know It
 - Unauthenticated 遠端 代碼 execution in Nginx
-- Show HN: Watch weight-space 程式設計 in action with WebGPU
-- It's all about the allocator
-- Silicon Valley Is Suffering from 模型 Collapse
-- An FBI 代理 called a Claude user about his chats
-- AI isn't replacing your 工作. It's turning it into low-paid gig work
-- Waymo stalls in high San Francisco floodwaters during storm
-- Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2
-- JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack
-- On The Use of AI-Based Tools to Find Bugs in 開源 軟體
-- OpenAI still has a WebRTC Problem
-- Dumping an AES key from a MyQ garage opener to stop rebooting when offline
-- Logitech Harmony IR 代碼 online 資料庫 archive
-- Welcome to 軟體 Beirut
-- C's designated initializers give us named arguments
-- Google Chrome dev team declares bug report bankruptcy (2012)
-- Attacker swapped Prime Intellect's DeepSeek v4.1 Flash endpoint for 53 hours
-- 15M 網頁 servers on one VM – smoltcp, DPDK, AF_XDP
-- Cincinnati Zoo's Fiona the hippo has died, days after ingesting a visitor's hat
-- No Bailout for the AI Bubble, Anthropic IPO Protesters Say
-- F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)
-- US Intelligence Hawks Plot to Sneak Through Warrantless Spying
-- The first ping from Tonga (1997)
-- The MisAnthropic Statement
+- 如何 Make the Ink Used to Write Hamlet and the Declaration of Independence
+- Pete Warden on local AI, open models, voice interfaces, the future of 硬體
+- Gemini 4 Neon
+- Someone reported java4shell bug in September 2026
+- Mapping every neuron in Qwen3-8B
+- Intuit to sell Mailchimp to Bending Spoons for $3.68B
+- Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers
+- Threats, Insults, Settlements: How Jensen Huang Made Humiliation Routine
+- Reverse-Engineering Kevin J. Lang's Lost OCaml 代碼 in Apache DataSketches
+- Show HN: Mastra Factory, the open-source 軟體 factory we use to 構建 Mastra
+- The need for at least a third option
+- Apple is building an AI 代理
+- Iran's oil leverage is weakening. That could push it toward escalation
+- The Market Is Down
+- Ruby2ßhell: Pre-authentication RCE on stock Rails
+- SSD prices may begin to decline in the latter half of 2027
+- Making 8-page foldable zines from a single A4 sheet in the browser
+- Everything you need to survive and rebuild society
+- Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest
+- AI came for the coders. Understanding 為什麼 tells us who's next
+- Infinite scroll and autoplay are fuelling a global problem
 - Evidence (YC S21) Is 招聘
-- Multiple vulnerabilities in Regexp and String case conversion
-- Building Lego Machines to Destroy Tall Lego Towers (2024)
-- PostgreSQL 19 發布
-- Palo Alto Networks to Acquire Applied Compute for $4.5B
-- Inside Deutsche Bank
-- AI agents ask better questions than KPMG accountants in audit trial
-- Seven 新 models at scalable price-performance
-- Codeberg.org Not Reachable
-- Facial photographs reveal mortality risk beyond triage and clinical risk scores
-- The x86 CPU: From 4004 to 486
-- From data to silicon: play Connect-4 against a chip
-- Show HN: Open-source, real-time object tracking for live video feeds
-- Ask HN: Where do you see 軟體 in 5 years?
-- Mosquitoes are Ladakh's latest tourists
-- Launch HN: Maritime (YC F26) – A managed 雲端 for production AI agents
-- CA Sales and Use Tax Applies to Digital Products Beginning January 1, 2027 [pdf]
-- Jensen Huang's daughter Madison insulted employees and drove 熱門 talent away
-- Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon
-- Anthropic prices initial public offering
-- We need smart people who give a shit
-- Java4Shell: RCE in OpenJDK when processing Base64
-- KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)
-- Funkycache: A Python library to cache functions in SQLite
-- BYD's folding steering wheel isn't a concept – it's in a $49K SUV now
-- A Primer on Fourier Series (2025)
-- Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute
-- AI Came for the Coders. Understanding 為什麼 Tells Us Who's Next
-- 為什麼 is Gemini 4 Carbon taking so long?
-- 大型語言模型 assisted reverse engineering
-- CrossPoint Reader
-- Pushing WireGuard on macOS to 5 Gbit/s
-- Unreal Tournament 2004 in the Browser
-- Genie 4 is now available
-- Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising
-- DaisyRose-27B
+- Adding Fortran Support to LLDB (GSoC 2026)
+- Astronomers discover remarkable 3-star 系統 just 28 light-years from Earth
+- An Oregon library ditched Dewey Decimal and got people excited about books again
+- Nintendo takes Picofly firmware down from GitHub [video]
+- Mysterious Mercury about to get a visitor – after spacecraft's eight-year voyage
+- PHP advisory: mixed-case HTTPS and FTPS URLs can expose data in plaintext
+- IRA Velinsky, industrial designer for Commodore and Atari
+- Gemini 4 Neon is the 新 #1 on the Models Engineering Index
+- Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2
+- Cooling buildings is overtaking heating them as an energy need, IEA says
+- How the European Commission rolled out Matrix to more than 40k staff
+- Dumping an AES key from a MyQ garage opener to stop rebooting when offline
+- F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)
+- C's designated initializers give us named arguments
+- Teaching robots to carve marble sculptures
+- What's 新 in PHP 8.6
+- Google is pushing OEMs against GrapheneOS and bootloader unlocking
+- Fuck Your AI Safeguards
 
 
 ---

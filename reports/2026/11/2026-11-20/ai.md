@@ -4,192 +4,191 @@
 
 ---
 
-### 1. [Ruby修補7項記憶體安全漏洞，5項可能導致遠端程式碼執行](https://www.ithome.com.tw/news/180667)
+### 1. [Android手機變詐騙話務中繼站、泡芙箱藏上百張SIM卡！刑事局揭露詐團電話轉接新手法](https://www.ithome.com.tw/news/180687)
+
+為規避國際電話語音警示機制，境外詐騙集團利用架設在臺灣的電信設備，將詐騙電話轉接成國內門號撥出。刑事警察局11月19日公布「斷源」專案查緝成果，今年1至9月已查獲38處詐騙話務轉接據點、111臺（組）DMT設備及48名嫌犯。警方並揭露近期詐團出現新的轉接手法，不僅有不肖卡商勾結物流業者，透過包裹運送人頭SIM卡及設備，更發現詐團利用一般Android手機，搭配智能撥號APP及藍牙設備，就能讓境外機房遠端撥打詐騙電話。
+
+- 📰 **iThome 科技**
+
+### 2. [AWS Aurora DSQL開放跨洲多區域叢集，單一區域故障仍可讀寫](https://www.ithome.com.tw/news/180686)
+
+AWS無伺服器分散式SQL資料庫Amazon Aurora DSQL新增跨洲多區域叢集支援，讓企業能將位於不同洲的兩個AWS區域連接成同一個資料庫。兩地應用程式可同時讀取及寫入資料，並維持強一致性。若其中一個區域故障，另一區域仍可繼續處理讀寫請求，已提交的交易資料也會保留。
+
+- 📰 **iThome 科技**
+
+### 3. [PostgreSQL 19支援並行資料表重整，新增查詢計畫控制功能](https://www.ithome.com.tw/news/180683)
+
+PostgreSQL全球開發團隊發布開源關聯式資料庫PostgreSQL 19，新增可在資料表持續讀寫時進行重整的REPACK指令，並加入查詢計畫控制功能，讓管理者減少資料庫維護對服務的影響。新版也改善自動清理、資料複寫及SQL開發功能。
+
+- 📰 **iThome 科技**
+
+### 4. [國內首座6G實驗網正式啟用，串聯歐英與衛星業者打造國際驗測基地，搶攻2029年6G標準商機](https://www.ithome.com.tw/news/180685)
+
+全球6G發展已由前瞻技術研究逐步邁向系統整合與跨國驗證階段，在經濟部與國科會支持下，國內首座「實驗網」（6G-FORMOSA）正式全面啟用。這座實驗網由工研院整合聯發科技、和碩、明泰、啟碁、濰元等18家產學研單位共同建置，��已串聯歐盟、英國6G實驗網，以及Eutelsat OneWeb、SES等國際衛星營運商，為臺灣與國際6G生態系接軌的重要測試驗證平臺。
+經濟部政務次長江文若指出，目前國際第一版的6G標準預計會在2029年由3GPP完成制定，而2035年全球6G市場規模可望達到875億美元，目前正是布局技術、參與標準制定與驗證的關鍵時期。
+
+- 📰 **iThome 科技**
+
+### 5. [鳳凰旅遊遭駭、部分旅客個資外洩，已發現冒名訂單詐騙活動](https://www.ithome.com.tw/news/180684)
+
+繼易遊網之後，國內旅行社鳳凰旅遊也遭駭客攻擊，該公司於11月16日發現資訊系統遭入侵，並發生部分個資外洩事件，目前尚未公布受影響人數。值得注意的是，業者也發現不法人士冒用鳳凰旅遊名義，以訂單錯誤、重複訂單等理由誘騙旅客提供金融資訊，呼籲旅客提高警覺。
+
+- 📰 **iThome 科技**
+
+### 6. [AI趨勢周報第295期：微軟一口氣推��7款AI模型，拚效能也拚Token成本](https://www.ithome.com.tw/news/180669)
+
+重點新聞（1113～1119）
+
+- 📰 **iThome 科技**
+
+### 7. [【資安日報】11月20日，VMware修補已遭利用的vCenter重大漏洞](https://www.ithome.com.tw/news/180682)
+
+資安新聞焦點
+● VMware修補重大等級的vCenter漏洞
+● PHP釋出安全更新修補18個漏洞，7個為重大等級
+● 群暉警告NAS存在兩個重大漏洞，預告將提供修補程式
+
+- 📰 **iThome 科技**
+
+### 8. [【資安週報】1116～1120，全球第三方供應商遭駭連環爆；Java4Shell、NGINX2Root等重大漏洞揭露引關注](https://www.ithome.com.tw/news/180681)
+
+全球第三方服務供應商資安事件持續擴大，單一供應商遭駭，往往連帶波及數十甚至數百家企業。例如：愛爾蘭銀行IT服務商Wellington IT遭駭，已有3家信用合作社發布資安公告，據統計約40家信用合作社受到影響；日本行銷科技業者PLAID旗下KARTE平臺遭入侵，隨後JINS、DHC及三菱UFJ銀行等數十家企業陸續公告個資外洩或可能外洩的情況。韓國客服委外業者MetaM、企業協作平臺Dooray!與DaouOffice也接連傳出資安事故，已確認影響多家企業客戶。在國內，除了委外服務供應商資安事件持續波及企業，上市櫃公司自身資訊系統也接連傳出資安事故，包括富邦媒旗下mo店+、大車隊子公司全球商務科
+
+- 📰 **iThome 科技**
+
+### 9. [群暉警告NAS存在兩個重大漏洞，預計20日提供部分版本作業系統修補程式](https://www.ithome.com.tw/news/180680)
+
+11月19日群暉（Synology）發布兩份嚴重程度為重大等級的資安公告，揭露漏洞CVE-2026-120382與CVE-2026-123007，這些弱點同時影響DiskStation 經理（DSM）與BeeStation OS，CVE-2026-123007也影響應用 P
+
+- 📰 **iThome 科技**
+
+### 10. [微軟全面部署Office in Copilot，Autopilot提供給早鳥用戶](https://www.ithome.com.tw/news/180679)
+
+本周在Ignite大會上，微軟公告已將Office in Copilot正式全面部署到所有用戶。微軟同時宣布多項商務環境的代理人服務，包括自主代理人Autopilot提供搶先體驗、針對商務用戶的Workspaces及Dynamics 365 in Copilot等。
+
+- 📰 **iThome 科技**
+
+### 11. [PHP釋出安全更新修補18個漏洞，7個為重大等級](https://www.ithome.com.tw/news/180678)
+
+11月19日PHP基金會發布安全更新8.6.0、8.5.13、8.4.28、
+
+- 📰 **iThome 科技**
+
+### 12. [Google跟進OpenAI、Anthropic，Gemini開始支援Mac電腦操作](https://www.ithome.com.tw/news/180677)
+
+Google周四（11/19）宣布，旗下AI助理Gemini新增Mac電腦操作功能，可直接操作Mac上的��用程式、檔案及網站，替使用者完成多步驟工作，跟進OpenAI及Anthropic等業者在電腦操作型AI代理人領域的布局。
+
+- 📰 **iThome 科技**
+
+### 13. [中國駭客利用VMware vCenter零時差漏洞入侵，部署後門以竊取資料](https://www.ithome.com.tw/news/180674)
+
+11月19日博通（Broadcom）修補VMware vCenter重大等級的身分驗證繞過漏洞CVE-2026-123890，通報此事的Google威脅情報團隊（GTIG）與Mandiant後續透露，該漏洞的發現，源自中國駭客組織Armory Castle（之前Google稱作UNC5221）網路間諜活動調查的最新發
+
+- 📰 **iThome 科技**
+
+### 14. [VMware發布資安更新，修補重大等級的vCenter漏洞，警告只能升級沒有其他替代緩解方法](https://www.ithome.com.tw/news/180673)
+
+11月19日博通（Broadcom）發布公告，修補VMware vCenter、VMware Tools，以及SDDC 經理當中5個漏洞，涵蓋身分驗證繞過、SQL注入、命令注入、權限提升，以及SAML權杖簽章繞過等弱點。其中，評為重大等級的vCenter身分驗證繞過漏洞CVE-2026-123890最為危險，由於除了套用更新之外沒有其他替代緩解措施，用戶應儘速採取行動因應。
+
+- 📰 **iThome 科技**
+
+### 15. [歐盟執委會遭AI網攻，ARTEX開源工具成駭客利器](https://www.ithome.com.tw/news/180672)
+
+歐盟執委會（European Commission）週四（11/19）對外證實，該機構10月22日偵測到使用AI工具的網路攻擊，至今已近一個月，部分內部系統仍無法使用，員工個資是否外洩也尚待釐清。
+根據Politico週四率先揭露的消息，這起攻擊影響歐盟執委會多項內部系統，包括處理薪資、請假及工時紀錄的人力資源平臺Sysper、醫療費用報銷系統MyPMO，以及內部翻譯服務，且駭客使用了開源AI滲透測試框架ARTEX。
+
+- 📰 **iThome 科技**
+
+### 16. [全球首家前沿AI公司Anthropic上市，首日上漲17%](https://www.ithome.com.tw/news/180671)
+
+Claude開發商Anthropic周四（11/19）正式在美國那斯達克（Nasdaq）掛牌，成為全球首家上市的前沿AI公司。Anthropic的股票代號為ANT，發行價為每股83美元，開盤即衝上111.5美元，最後以97.17美元作收，上漲17%，市值約1.27兆美元。
+此次Anthropic IPO總計發售9.8億股，每股83美元，發售規模約813億美元，創下全球首次公開發行股票（IPO）規模紀錄。
+
+- 📰 **iThome 科技**
+
+### 17. [VS 代碼 1.147讓AI代理操作Chrome與Edge，新增延後發送工作請求](https://www.ithome.com.tw/news/180670)
+
+微軟發布程式碼編輯器Visual Studio 代碼（VS 代碼）1.147穩定版，擴充AI代理的瀏覽器操作與工作排程功能。新版允許代理操作外部Chrome或Edge瀏覽器，並將工作請求安排在指定時間送出，也新增依照任務類型自動選擇AI模型的功能。
+
+- 📰 **iThome 科技**
+
+### 18. [Ruby修補7項記憶體安全漏洞，5項可能導致遠端程式碼執行](https://www.ithome.com.tw/news/180667)
 
 程式語言Ruby維護團隊11月18日發布安全更新，修補7項記憶體安全漏洞，其中3項被列為重大（Critical）風險、3項為高（High）風險，另有1項為中度（Moderate）風險。官方指出，其中5項漏洞已有概念驗證（PoC）證明，在特定情況下可觸發遠端程式碼執行（RCE），使用受影響版本的企業應留意應用程式處理外部輸入時的安全風險。
 
 - 📰 **iThome 科技**
 
-### 2. [NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分](https://www.ithome.com.tw/news/180652)
+### 19. [NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分](https://www.ithome.com.tw/news/180652)
 
 帳號密碼一旦遭竊，攻擊者就可能冒用合法使用者身分，從其他地點登入系統。美國國家標準暨技術研究院（NIST）近日公布量子位置驗證（Quantum Position Verification，QPV）研究成果，利用量子糾纏與訊息傳輸時間，確認通訊對象是否位於指定地點，未來有望為企業存取控制增加一道防護。
 
 - 📰 **iThome 科技**
 
-### 3. [API金鑰隨Docker Hub映像檔對外曝光，研究發現最快7.86秒就遭濫用](https://www.ithome.com.tw/news/180635)
+### 20. [API金鑰隨Docker Hub映像檔對外曝光，研究發現最快7.86秒就遭濫用](https://www.ithome.com.tw/news/180635)
 
 美國石溪大學（Stony Brook University）研究人員近期發布研究，發現自動化掃描工具持續搜尋Docker Hub等公開儲存庫中的容器映像檔，並擷取其中的雲端服務金鑰。研究團隊透過蜜罐實驗發現，AWS測試金鑰最快在映像檔發布後7.86秒，就被用來呼叫AWS API，顯示企業若不慎將金鑰留在公開映像檔中，金鑰可能很快就遭到未經授權的使用。
 
 - 📰 **iThome 科技**
 
-### 4. [資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元](https://www.ithome.com.tw/news/180568)
+### 21. [資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元](https://www.ithome.com.tw/news/180568)
 
 今年8月才宣布取得6,000萬美元種子輪資金的資安AI新創公司Corma，相隔約3個月，再完成1.25億美元A輪募資，公司估值達10億美元。
 
 - 📰 **iThome 科技**
 
-### 5. [Google Gemini 4 Neon��調Hydrogen子代理開發程式，評測成績略勝Claude](https://www.ithome.com.tw/news/180663)
+### 22. [Google Gemini 4 Neon協調Hydrogen子代理開發程式，評測成績略勝Claude](https://www.ithome.com.tw/news/180663)
 
 Google新推出AI模型Gemini 4 Neon，主要用於複雜程式開發、企業資料分析及需要長時間執行的AI代理任務。在Google Antigravity開發環境的協調模式中，Neon負責規畫任務並檢查執行成果，速度較快的Gemini 4 Hydrogen則負責修改程式、更新套件及執行測試。新模型已陸續開放開發者、企業及付費訂閱者使用。
 
 - 📰 **iThome 科技**
 
-### 6. [愛爾蘭金融業IT供應商Wellington IT遭駭，波及約40家信用合作社，會員收款人資料外洩](https://www.ithome.com.tw/news/180665)
+### 23. [愛爾蘭金融業IT供應商Wellington IT遭駭，波及約40家信用合作社，會員收款人資料外洩](https://www.ithome.com.tw/news/180665)
 
-愛爾蘭金融業傳出大規模第三方服務供應商資安事件，為當地信用合作社提供銀行軟體及IT服務的Wellington IT遭到駭客攻擊，導致約40家信用合作社受到波及，會員在網路銀行儲存的收款帳戶資料，包括收款人姓名、銀行帳號等資訊，皆因此遭到未經授權的存取。Wellington IT已證實發生資安事件，並表示正與外部資安專家及主管機關合作調查，���前相關漏洞已完成修補。
+愛爾蘭金融業傳出大規模第三方服務供應商資安事件，為當地信用合作社提供銀行軟體及IT服務的Wellington IT遭到駭客攻擊，導致約40家信用合作社受到波及，會員在網路銀行儲存的收款帳戶資料，包括收款人姓名、銀行帳號等資訊，皆因此遭到未經��權的存取。Wellington IT已證實發生資安事件，並表示正與外部資安專家及主管機關合作調查，目前相關漏洞已完成修補。
 
 - 📰 **iThome 科技**
 
-### 7. [從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型](https://www.ithome.com.tw/news/180666)
+### 24. [從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型](https://www.ithome.com.tw/news/180666)
 
 臺灣港務公司今天（11/19）公布旗下的臺中港、高雄港智慧港口轉型的最新進展，分別聚焦船舶交通管理智慧化與貨櫃物流數位化，顯示國內商港的數位轉型已從港區資訊系統建置，逐步延伸至AI影像辨識、船舶交通管理、文件數位化與跨系統資料串接等應用。
 高雄港作為國內最大的國際商港及貨櫃樞紐，著重提升貨櫃物流效率；而臺中港則肩負中部能源、大宗散雜貨及產業供應鏈的重要角色，因此將數位轉型重點放在船舶航行安全與港區交通管理，兩者分別從港口營運不同面向推動智慧港口發展。
 
 - 📰 **iThome 科技**
 
-### 8. [勒索軟體駭客The Gentlemen聲稱入侵NVIDIA，疑為合作夥伴遭駭受到波及](https://www.ithome.com.tw/news/180664)
+### 25. [勒索軟體駭客The Gentlemen聲稱入侵NVIDIA，疑為合作夥伴遭駭受到波及](https://www.ithome.com.tw/news/180664)
 
 勒索軟體組織The Gentlemen近日將GPU大廠NVIDIA列入其暗網資料勒索網站的受害者名單，聲稱已取得該公司的資料，並威脅若雙方未能達成協議，將在10天後公開竊取的資料，引起全球高度關注。對此，NVIDIA發言人表示，該公司正在調查一起可能影響第三方合作夥伴的事件，目前沒有發現NVIDIA自身系統或網路受到影響的跡象，將持續監控相關情況。
 
 - 📰 **iThome 科技**
 
-### 9. [大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩](https://www.ithome.com.tw/news/180662)
+### 26. [大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩](https://www.ithome.com.tw/news/180662)
 
-11月18日晚間車隊運輸服務公司大車隊（2640）於股市公開資訊觀測站發布重大訊息，子公司全球商務科技發生資訊系統遭外部未經授權存取事件，初步調查發現部分客戶、會員及外務人員資料涉及未經授權存取及擷取，實際影響範圍仍在釐清。全球商務科技已關閉異常存取入口、修補系統弱點，並啟動帳號安全處置及後續調查。
+11月18日晚間車隊運輸服務公司大車隊（2640）於股市公開資訊觀測站發布重大訊息，子公司全球商務科技發生資訊系統遭外部未經授權存取事件，該公司已關閉異常存取入口、修補系統弱點，並啟動帳號安全處置及後續調查。
 
 - 📰 **iThome 科技**
 
-### 10. [Climate Change AI共同創辦人：AI永續關鍵不是更大模型，而是選對AI工具](https://www.ithome.com.tw/news/180659)
+### 27. [Climate Change AI共同創辦人：AI永續關鍵不是更大模型，而是選對AI工具](https://www.ithome.com.tw/news/180659)
 
 隨著生成式AI快速發展，人工智慧所需算力與能源消耗也成為全球關注議題。正值聯合國COP31舉行之際，環境部也同步舉辦系列論壇，本周舉辦的「綠色算力與氣候數位科技」論壇，邀請產學界專家共同關注人工智慧與氣候變遷發展，加拿大麥吉爾大學電腦科學學院副教授，也是Climate Change AI共同創辦人的David Rolnick指出，AI與氣候變遷並非只能二選一，AI確實能協助解決氣候問題，但前提是必須重新思考「使用什麼樣的AI」。
 
 - 📰 **iThome 科技**
 
-### 11. [資安業者剖析ARTEX、Cairn、CyberStrikeAI等五大AI攻擊框架，均已遭濫用於實際入侵事件](https://www.ithome.com.tw/news/180657)
+### 28. [資安業者剖析ARTEX、Cairn、CyberStrikeAI等五大AI攻擊框架，均已遭濫用於實際入侵事件](https://www.ithome.com.tw/news/180657)
 
-近來AI自動化攻擊框架日益受到資安界關注，因為已有多種工具被濫用���實際網路入侵事件。資安業者Elastic於11月13日發布研究報告，針對5種已遭濫用的工具進行分析，涵蓋ARTEX、CyberStrikeAI、Cairn、PentAGI及HexStrike。研究指出，這些AI代理式攻擊框架雖然在架構設計及工具整合方式上有所不同，但都能利用AI規畫攻擊步驟、呼叫不同工具執行任務。
+近來AI自動化攻擊框架日益受到資安界關注，因為已有多種工具被濫用於實際網路���侵事件。資安業者Elastic於11月13日發布研究報告，針對5種已遭濫用的工具進行分析，涵蓋ARTEX、CyberStrikeAI、Cairn、PentAGI及HexStrike。研究指出，這些AI代理式攻擊框架雖然在架構設計及工具整合方式上有所不同，但都能利用AI規畫攻擊步驟、呼叫不同工具執行任務。
 
 - 📰 **iThome 科技**
 
-### 12. [元太資訊系統疑遭攻擊](https://www.ithome.com.tw/news/180658)
+### 29. [元太資訊系統疑遭攻擊](https://www.ithome.com.tw/news/180658)
 
 11月18日下午電子紙顯示技術廠商元太（8069）於股市公開資訊觀測站發布重大訊息，該公司資訊系統疑似遭受駭客網路攻擊，已啟動資訊安全防禦機制，並委請外部第三方資訊安全技術公司及專家共同處理，初步評估對營運暫無重大影響。
 
 
 - 📰 **iThome 科技**
 
-### 13. [富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取](https://www.ithome.com.tw/news/180656)
+### 30. [富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取](https://www.ithome.com.tw/news/180656)
 
-電商公司富邦媒（8454��於11月19日，在股市公開資訊觀測站發布重大訊息，該公司於11月18日透過資安監控機制，發現旗下mo店+服務出貨資料發生疑似資安事件。經初步調查，部分出貨資料遭未經授權存取，目前仍持續釐清事件原因及實際影響範圍。
-
-- 📰 **iThome 科技**
-
-### 14. [加州擬強化AI安全監管，政府可緊急停用模型並限制研發算力](https://www.ithome.com.tw/news/180655)
-
-美國加州州長Gavin Newsom公布新一輪AI安全監管建議，研議賦予州政府緊急關閉高風險AI模型的權力，並建立限制AI自行開發更強模型的機制。加州也計畫要求大型先進AI開發商接受持續性的第三方安全驗證，相關措施仍須透過立法才能實施。
-
-- 📰 **iThome 科技**
-
-### 15. [【資安日報】11月19日，Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼](https://www.ithome.com.tw/news/180654)
-
-本日新聞焦點
-● Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼
-● 駭客利用AI代理框架ARTEX攻擊資安公司Barracuda
-● 行銷平臺KARTE遭駭，波及JINS、三菱UFJ銀行等數十家日本企業
-
-- 📰 **iThome 科技**
-
-### 16. [Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼](https://www.ithome.com.tw/news/180651)
-
-開源網頁伺服器軟體Nginx周三（11/18）發布1.30.7穩定版及1.31.9主線版，緊急修補10個安全漏洞，其中有5個屬於遠端程式攻擊漏洞，而資安業者Xint也獨立發現了這5項漏洞，並將它們稱為nginx2root。
-
-- 📰 **iThome 科技**
-
-### 17. [OpenAI正在測試使自主代理人Dots有自己的email位址](https://www.ithome.com.tw/news/180650)
-
-OpenAI透露正在讓常駐自主代理人Dots擁有自己的電子郵件位址，以協助使用者更有效率執行商務作業。
-OpenAI今年9月推出Dots，讓使用者可建立常時作業的代理人Dot，���可連接外部應用程式、主動處理待辦事項。
-
-- 📰 **iThome 科技**
-
-### 18. [FBI警告Gootloader已入侵逾千個WordPress網站，相關勒索軟體贖金逾2,800萬美元](https://www.ithome.com.tw/news/180649)
-
-美國聯邦調查局（FBI）於11月16日發布Flash通報，警告惡意初始存取框架Gootloader透過遭污染的搜尋結果及遭挾持的網站，入侵各類組織，一旦取得初始存取權限，攻擊者會針對不同產業的受害者部署勒索軟體。FBI截至2026年10月已識別出逾1,000個遭感染的WordPress網站，以及216個由Gootloader管理者控制的網域，相關攻擊已造成超過2,800萬美元的勒索軟體贖金支付。
-
-- 📰 **iThome 科技**
-
-### 19. [日本藥妝業者DHC因第三方行銷分析平臺被駭，外洩用戶個資1,911萬筆](https://www.ithome.com.tw/news/180648)
-
-日本藥妝及健康食品業者DHC週三（11月18日）公告因使用的行銷分析平臺KARTE遭駭，外流客戶資料約1,911萬筆。
-DHC指出，11月13日，DHC接獲外包商PLAID通知，告知後者提供的互動式行銷及客戶分析平臺KARTE遭到第三方未經授權存取，波及DHC的客戶資訊被非法存取。經過調查，DHC確認一部分客戶資料外洩。
-
-- 📰 **iThome 科技**
-
-### 20. [資安業者揭露ARTEX攻擊事件應變過程，AI代理程式取得API金鑰後幾分鐘內即發動攻擊，防守方也用AI加速調查](https://www.ithome.com.tw/news/180647)
-
-AI代理程式攻擊框架ARTEX持續受到資安界關注，已有多家資安業者揭露相關攻擊活動及調查結果，但較少詳細說明第一線資安團隊的實際應變經過。資安業者Eye 安全近日公布一起企業遭ARTEX攻擊的事件應變案例，詳細揭露攻擊者如何利用AI代理程式快速滲透企業環境，以及防守方如何調查、阻擋攻擊，甚至運用AI代理程式協助應變。
-
-- 📰 **iThome 科技**
-
-### 21. [Apple多項雲端服務大規模中斷，內部軟體更新問題影響iCloud等服務逾6個小時](https://www.ithome.com.tw/news/180645)
-
-Apple於11月17日發生多項網路服務中斷，最早於美東時間上午11時15分左右出現異常，影響範圍隨後擴大。Apple向媒體表示，問題源自內部軟體更新，並非網路攻擊，該公司已復原部分系統，正設法讓其餘服務重新上線。
-
-- 📰 **iThome 科技**
-
-### 22. [美國警告群暉NAS、Apache Axis等4款應用系統的漏洞遭積極利用](https://www.ithome.com.tw/news/180644)
-
-11月18日美國網路安全與基礎設施安全局（CISA）表示，他們已掌握4個漏洞遭積極利用的證據，將其納入已知遭利用的漏洞名單（KEV），這些漏洞編號是CVE-2024-10441、CVE-2026-40217、CVE-2026-90436，以及CVE-2026-90817，分別影響群暉NAS作業系統DiskStation 經理（DSM）、LiteLLM、Apache Axis，以及REDCap。
-
-- 📰 **iThome 科技**
-
-### 23. [N0n勒索軟體組織宣稱取得Visa、摩根大通等59家公司資料](https://www.ithome.com.tw/news/180643)
-
-勒索軟體組織N0n近日先後將金融業者摩根大通（JPMorgan Chase）及信用卡組織Visa、Mastercard以及Walmart、P&amp;amp;G等59家企業列入受害者名單，威脅部分受害企業若未在48小時內達成交易談判，將公開資料。
-N0n今年9月開始活動，該組織在11月16日將59家企業列於其暗網資訊公開網站。其中駭客宣稱竊得摩根大通、Visa、Mastercard三家機構的資訊，包括持卡人資料檔（profile）、個人聯絡資訊如電子郵件地址、旅遊、機票與餐廳預約紀錄、以及大量客戶行銷活動紀錄等。
-
-- 📰 **iThome 科技**
-
-### 24. [美國NSA機密通訊網路NSANet傳中斷，官方稱例行維護期間發生異常](https://www.ithome.com.tw/news/180642)
-
-美國國家安全局（NSA）內部高機密通訊網路NSANet於11月17日發生服務異常，影響員工存取機密資訊及日常作業。NSANet是NSA內部傳輸與交換機密情報的網路，也是該機構情報分析與作業���重要基礎設施。故障期間，NSA調整馬里蘭州總部員工到班時間，避免大量人員同時登入加重網路負載。
-
-- 📰 **iThome 科技**
-
-### 25. [JINS、三菱UFJ銀行等數十家日本企業陸續發布資安事件公告，皆因第三方行銷科技業者PLAID旗下KARTE平臺遭駭](https://www.ithome.com.tw/news/180640)
-
-日本行銷科技服務業者PLAID旗下的KARTE平臺遭駭，攻擊者利用伺服器漏洞入侵，竊取系統認證資訊及客戶資料，導致使用該服務的數十家日本企業受到波及，包括眼鏡品牌JINS、金融業者三菱UFJ銀行、美妝及保健食品業者DHC、工業零組件供應商MISUMI等，多家企業已陸續公告會員個資外洩或可能外洩的情況。其中，JINS已經指出最多約1,829萬個會員帳號可能受到影響，臺灣JINS則表示臺灣會員資料未受波及。
-
-- 📰 **iThome 科技**
-
-### 26. [Google升級Gemini Tasks，新增AI代打電話、購物付款功能，首度開放免費使用](https://www.ithome.com.tw/news/180641)
-
-Google周二（11/17）宣布升級AI代理人功能Gemini Tasks，率先於美國推出代打電話、預約服務、購物付款及帳單分析等進階功能，同時首度開放美國、日本、南韓、加拿大、澳洲及印度等6國用戶免費使用。
-
-- 📰 **iThome 科技**
-
-### 27. [Apache Roller反序列化漏洞已遭利用，開發團隊警告漏洞影響範圍涵蓋近20年的版本](https://www.ithome.com.tw/news/180639)
-
-11月17日Apache基金會（ASF）針對開源部落格發布平臺Apache Roller用戶提出警告，他們在9月修補的重大漏洞CVE-2026-82384（CVE-2026-129448）已遭積極利用，而且，原本認定影響範圍只有6.1.5版，現在確認也同時存在於4.0.0至6.1.4版所有版本。對此，ASF呼籲用戶應儘速升級至6.1.6以上版本因應。
-
-- 📰 **iThome 科技**
-
-### 28. [駭客利用AI代理框架ARTEX攻擊資安公司Barracuda，44小時入侵10個雲端帳戶搜刮憑證](https://www.ithome.com.tw/news/180621)
-
-資安公司Barracuda近日揭露雲端環境遭到入侵的事件，攻擊者利用遭竊的雲端存取金鑰，在44小時內橫跨10個雲端帳戶，持續蒐集憑證、探索內部系統，並嘗試建立後門，根據該公司的調查，此次攻擊行為使用的工具，就是AI滲透測試框架ARTEX。
-駭客最初入侵的管道，是Barracuda尚未撤銷的雲端存取金鑰，該公司先前委託一家AI公司執行專案而提供，到了2026年10月，該AI公司的開發環境遭到入侵，攻擊者疑似從中取得這把金鑰。
-
-- 📰 **iThome 科技**
-
-### 29. [Palo Alto Networks斥資45億美元併購AI新創Applied Compute](https://www.ithome.com.tw/news/180637)
-
-美國資安大廠Palo Alto Networks周三（11/18）宣布，將以45億美元全股票交易併購AI新創Applied Compute，藉此擴展企業AI業務，協助客戶安全地訓練、客製化及部署開放權重AI模型，預計於明年4月以前完成交易，屆時Applied Compute共同創辦人暨執行長Yash Patil將出任Palo Alto Networks共同AI長。
-
-- 📰 **iThome 科技**
-
-### 30. [微軟代理 Framework套件遭植入惡意程式，鎖定Azure及CI/CD環境憑證](https://www.ithome.com.tw/news/180624)
-
-微軟AI代理開發框架Microsoft 代理 Framework的Python套件代理-framework遭植入惡意程式。根據資安業者Wiz的分析，攻擊者於11月17日在Python套件儲存庫PyPI發布惡意版本1.26.1及1.26.2，企圖竊取Azure雲端服務及Azure DevOps、GitHub Actions等開發與CI/CD環境所使用的身分驗證憑證。兩個版本均已從PyPI移除。
+電商公司富邦媒（8454）於11月19日���在股市公開資訊觀測站發布重大訊息，該公司於11月18日透過資安監控機制，發現旗下mo店+服務出貨資料發生疑似資安事件。經初步調查，部分出貨資料遭未經授權存取，目前仍持續釐清事件原因及實際影響範圍。
 
 - 📰 **iThome 科技**
 
@@ -197,6 +196,33 @@ Google周二（11/17）宣布升級AI代理人功能Gemini Tasks，率先於美�
 
 ### 更多 AI 新聞 (70則)
 
+- The 最佳 Pura Deals for Cyber Week (2026) (**Wired**)
+- The Birdfy Gifts I’d Buy for Backyard Birders (**Wired**)
+- Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites (**Wired**)
+- 最佳 Robot Vacuum Early Black Friday Deals from Roborock (2026) (**Wired**)
+- Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You (**Wired**)
+- Muse Is Unleashing a World of Pettiness on Instagram (**Wired**)
+- The 36 最佳 REI Holiday Sale Outdoor Deals (2026) (**Wired**)
+- The Smart Ring Goes to Church (**Wired**)
+- Regular Tech Bros Are Worried About Honeypots (**Wired**)
+- The 最佳 Gifts for the Techie in Your Life (2026) (**Wired**)
+- El Niño Is Driving a Record Marine Heat Wave Off the California Coast (**Wired**)
+- ‘Grand Theft Auto 6’ Is a Perfect Game. Rushing Through It Would Be a Mistake (**Wired**)
+- 最佳 Gifts for Gym Bros: Fitness Tech and Workout Gear (2026) (**Wired**)
+- This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’ (**Wired**)
+- Vimeo Promo Codes: 40% Off This November 2026 (**Wired**)
+- Expedia Coupons: 50% Off (**Wired**)
+- Skechers Coupon Codes 20% Off (**Wired**)
+- HBO Max Promo 代碼: 50% Off | November 2026 (**Wired**)
+- Adorama Camera Coupon Codes &amp; Promo Codes: November 2026 (**Wired**)
+- Ancestry Coupons│50% Off│November 2026 (**Wired**)
+- Walgreens Photo Coupons: Up to 70% Off This November 2026 (**Wired**)
+- Castlery Promo Codes: $600 Off for November 2026 (**Wired**)
+- eBay Coupons: 20% Off in November 2026 (**Wired**)
+- Groupon Promo Codes: 60% Off in November 2026 (**Wired**)
+- Dyson Promo Codes: 25% Off in November 2026 (**Wired**)
+- iRobot Promo 代碼: 15% Off (**Wired**)
+- Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo? (**Wired**)
 - Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women (**Wired**)
 - 最佳 Amazon Black Friday Deals (2026) (**Wired**)
 - What’s With All These Outages? (**Wired**)
@@ -209,44 +235,17 @@ Google周二（11/17）宣布升級AI代理人功能Gemini Tasks，率先於美�
 - The 最佳 Early Black Friday Deals on Laptops I’ve Tested (2026) (**Wired**)
 - 最佳 Early Dyson Black Friday Vacuum Deals (2026) (**Wired**)
 - Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine (**Wired**)
-- 10 最佳 Therabody Gadgets &amp; Theraguns to Gift This Year (2026) (**Wired**)
 - ‘The Hairiest 90 Minutes of My 職業’: How the FAA Ground Stop Went Down (**Wired**)
+- 10 最佳 Therabody Gadgets &amp; Theraguns to Gift This Year (2026) (**Wired**)
 - 14 最佳 Gifts for Travelers Who Have Everything (2026) (**Wired**)
 - Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly (**Wired**)
 - Lego Promo 代碼 | 20% Off November 2026 (**Wired**)
 - Reebok Discount 代碼: 15% Off: November 2026 (**Wired**)
-- We-Vibe Discount Codes and Deals: Up to 60% Off (**Wired**)
 - TurboTax Full Service Coupons This November 2026 (**Wired**)
 - Sportsman's Warehouse Promo 代碼: Save in November 2026 (**Wired**)
 - Lowe’s Promo Codes and Deals: Up to $300 Off Appliances (**Wired**)
+- We-Vibe Discount Codes and Deals: Up to 60% Off (**Wired**)
 - Home Chef Promo Codes for November 2026 (**Wired**)
-- Fanatics Promo 代碼: 10% Off (**Wired**)
-- 50% Off Blue Apron Promo Codes | November 2026 (**Wired**)
-- Litter-Robot Promo Codes: Up to $150 Off (**Wired**)
-- Sony Coupons: 45% Off Sony Headphones and Sony Cameras November 2026 (**Wired**)
-- ExpressVPN Coupons: 80% Off (**Wired**)
-- Target Promo 代碼: $50 Off | November 2026 (**Wired**)
-- Does NVIDIA Got This? Interim CEO Colette Kress Says It’s Got This (**Wired**)
-- Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI (**Wired**)
-- America’s AI Chip War Is Heating Up in the Dumbest Possible Ways (**Wired**)
-- Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’ (**Wired**)
-- The ‘GTA 6’ Work Blackout Is Here (**Wired**)
-- 最佳 Early Black Friday Phone Deals (2026) (**Wired**)
-- An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings (**Wired**)
-- The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back (**Wired**)
-- The MacBook Neo Is on Sale Ahead of Black Friday (2026) (**Wired**)
-- Inside NVIDIA’s First Post-Jensen All-Hands: Pay Raises and More Equity (**Wired**)
-- A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab (**Wired**)
-- Artex Is Criminals’ 新 Favorite ‘Point-and-Shoot’ AI Hacking Tool (**Wired**)
-- ‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness (**Wired**)
-- 14 Elite Coffee Gifts for Caffeinated Connoisseurs (**Wired**)
-- The 最佳 Gifts Under $25 for Everyone on Your List (2026) (**Wired**)
-- Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed (**Wired**)
-- I Will Never Stop Playing ‘Grand Theft Auto’ (**Wired**)
-- Early Black Friday Deals Under $100 (2026) (**Wired**)
-- Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth (**Wired**)
-- Exclusive: Germ DM Is a Signal Alternative That’s Now on Android (**Wired**)
-- Apple HomeView Review (2026): Should’ve Been Better (**Wired**)
 - REA: The Open-Source AI Tool That Can Reverse 工程師 Almost Anything (2026 Guide) (**TechCrunch**)
 - How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO) (**TechCrunch**)
 - 熱門 10 AI Tools That Will Transform Your Content Creation in 2025 (**TechCrunch**)
