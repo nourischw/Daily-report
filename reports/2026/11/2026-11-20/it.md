@@ -4,208 +4,208 @@
 
 ---
 
-### 1. [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
+### 1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 
-- ⭐ 249 分｜💬 142 留言｜👤 sammatilda
+- ⭐ 1310 分｜💬 599 留言｜👤 jasondavies
 
-### 2. [Frostbite: A 新 CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
+### 2. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 
-- ⭐ 338 分｜💬 222 留言｜👤 shioyama
+- ⭐ 516 分｜💬 82 留言｜👤 jasondavies
 
-### 3. [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+### 3. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 
-- ⭐ 24 分｜💬 2 留言｜👤 iamronaldo
+- ⭐ 2255 分｜💬 1536 留言｜👤 iamronaldo
 
-### 4. [Show HN: I made an audio-to-MIDI 模型 60x more efficient](https://kobi.music/research/dettato)
+### 4. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+
+- ⭐ 238 分｜💬 154 留言｜👤 QueensGambit
+
+### 5. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+
+- ⭐ 33 分｜💬 4 留言｜👤 CharlesW
+
+### 6. [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
+
+- ⭐ 289 分｜💬 109 留言｜👤 archon1410
+
+### 7. [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+
+- ⭐ 313 分｜💬 103 留言｜👤 lwhsiao
+
+### 8. [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)
+
+- ⭐ 33 分｜💬 20 留言｜👤 RubenLtke
+
+### 9. [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
+
+- ⭐ 240 分｜💬 77 留言｜👤 trotro
+
+### 10. [DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
+
+- ⭐ 60 分｜💬 9 留言｜👤 facundo_olano
+
+### 11. [Vibecoding an 推論 chip](https://ankitg.me/blog/vibecoding-inference-chip/)
+
+- ⭐ 97 分｜💬 31 留言｜👤 ankitvgupta
+
+### 12. [The stochastic parrots have apparently proved the Riemann Hypothesis](https://scottaaronson.blog/?p=10344)
+
+- ⭐ 172 分｜💬 139 留言｜👤 stratos123
+
+### 13. [And Yet, It Moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
+
+- ⭐ 53 分｜💬 24 留言｜👤 notfried
+
+### 14. [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
+
+- ⭐ 596 分｜💬 284 留言｜👤 sammatilda
+
+### 15. [Winedroid – run Android apps without Android (WASM demo)](https://winedroid.soham.sh/demo/)
+
+- ⭐ 80 分｜💬 25 留言｜👤 sohzm
+
+### 16. [Frostbite: A 新 CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
+
+- ⭐ 604 分｜💬 316 留言｜👤 shioyama
+
+### 17. [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
+
+- ⭐ 471 分｜💬 290 留言｜👤 dotcoma
+
+### 18. [NVIDIA accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
+
+- ⭐ 178 分｜💬 78 留言｜👤 ftchd
+
+### 19. [Microsoft 宣布 Windows 伺服器 2028 with hardened 安全](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/)
+
+- ⭐ 60 分｜💬 63 留言｜👤 N19PEDL2
+
+### 20. [Show HN: OpenComputer – an 開源 alternative to Devin](https://github.com/diggerhq/opencomputer)
+
+Hi HN!Utpal here, I&#x27;m one of the founders of OpenComputer.OpenComputer is an 開源 雲端 coding 代理 for teams that can run in your own 雲端 account (AWS, GCP, Azure).We run the 代理 har
+
+- ⭐ 42 分｜💬 14 留言｜👤 iacguy
+
+### 21. [Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks](https://euler.dawei7.com)
+
+- ⭐ 8 分｜💬 0 留言｜👤 dawei7
+
+### 22. [Show HN: An API for word timestamps from speech, 75% within 20ms](https://quebec.yarn.so)
+
+Hey HN, we&#x27;re Yarn (W24) and we make a video editing app for startups, and we built Quebec (https:&#x2F;&#x2F;quebec.yarn.so), an API that gives you accurate word timestamps from speech. We neede
+
+- ⭐ 48 分｜💬 8 留言｜👤 jasperstory
+
+### 23. [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
+
+I&#x27;ll be here for the rest of the day. As usual, there are countless possible topics and I&#x27;ll be guided by whatever you&#x27;re concerned with. Please remember that I can&#x27;t provide legal
+
+- ⭐ 91 分｜💬 122 留言｜👤 proberts
+
+### 24. [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
+
+- ⭐ 6 分｜💬 2 留言｜👤 undefinedmethod
+
+### 25. [Nasdaq erases all 2026 gains](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)
+
+- ⭐ 29 分｜💬 2 留言｜👤 mv4
+
+### 26. [Show HN: I made an audio-to-MIDI 模型 60x more efficient](https://kobi.music/research/dettato)
 
 I 發布 dettato, my open weight audio to midi transcription 模型. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without 訓練 on copyrighted recordings. Feel free to ask que
 
-- ⭐ 40 分｜💬 10 留言｜👤 hidude562
+- ⭐ 221 分｜💬 48 留言｜👤 hidude562
 
-### 5. [Floppy3.5: A portable 3.5-inch floppy WiFi NAS](https://github.com/bigcrimping/floppy3.5)
+### 27. [Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
 
-- ⭐ 41 分｜💬 8 留言｜👤 fortran77
+- ⭐ 239 分｜💬 175 留言｜👤 cdrnsf
 
-### 6. [Llms.txt and MCP didn't move the needle](https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did)
+### 28. [Reverse Engineering my cat's litter box](https://master--ytulsiani.netlify.app/blog/furrytails/)
 
-- ⭐ 16 分｜💬 4 留言｜👤 moebrowne
+- ⭐ 21 分｜💬 8 留言｜👤 allidoisvim
 
-### 7. [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
+### 29. [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
 
-- ⭐ 94 分｜💬 33 留言｜👤 hggh
+- ⭐ 51 分｜💬 0 留言｜👤 khalidkhair
 
-### 8. [Show HN: Fast deterministic natural language search for OpenStreetMap data](https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935)
+### 30. [The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)
 
-I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways.My aim with HippoMap
-
-- ⭐ 57 分｜💬 22 留言｜👤 vihren
-
-### 9. [What people are building, discovered through 新 domains](https://startups.novumsignals.com/)
-
-- ⭐ 87 分｜💬 40 留言｜👤 walterschnitzel
-
-### 10. [為什麼 the Airbus A321XLR often gets stuck climbing for first few hours of flight](https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/)
-
-- ⭐ 46 分｜💬 26 留言｜👤 edward
-
-### 11. [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
-
-- ⭐ 63 分｜💬 16 留言｜👤 dotcoma
-
-### 12. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
-
-- ⭐ 320 分｜💬 260 留言｜👤 JacobHenner
-
-### 13. [Epic Games Turns to AI Coding for the Unreal Engine](https://spectrum.ieee.org/epic-games-unreal-engine-ai)
-
-- ⭐ 22 分｜💬 14 留言｜👤 rbanffy
-
-### 14. [I can’t believe it’s 1!](https://aperiodical.com/2026/11/i-cant-believe-its-1/)
-
-- ⭐ 25 分｜💬 21 留言｜👤 ColinWright
-
-### 15. [Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
-
-- ⭐ 284 分｜💬 171 留言｜👤 sammatilda
-
-### 16. [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
-
-- ⭐ 82 分｜💬 48 留言｜👤 brianrhea
-
-### 17. [UK fridges secured from hackers](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
-
-https:&#x2F;&#x2F;www.pentestpartners.com&#x2F;安全-blog&#x2F;the-fridge-hac...
-
-- ⭐ 95 分｜💬 84 留言｜👤 tomnext
-
-### 18. [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
-
-- ⭐ 219 分｜💬 30 留言｜👤 gyan
-
-### 19. [Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
-
-- ⭐ 36 分｜💬 9 留言｜👤 cdrnsf
-
-### 20. [If you stop writing 代碼, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/)
-
-- ⭐ 48 分｜💬 11 留言｜👤 theanonymousone
-
-### 21. [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
-
-- ⭐ 77 分｜💬 9 留言｜👤 mofosyne
-
-### 22. [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
-
-- ⭐ 102 分｜💬 22 留言｜👤 ibobev
-
-### 23. [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
-
-- ⭐ 142 分｜💬 23 留言｜👤 craigkerstiens
-
-### 24. [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
-
-- ⭐ 175 分｜💬 109 留言｜👤 renehsz
-
-### 25. ["I can tell you wrote this yourself"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
-
-- ⭐ 304 分｜💬 292 留言｜👤 BrunoBernardino
-
-### 26. [如何 CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
-
-- ⭐ 323 分｜💬 109 留言｜👤 o4c
-
-### 27. [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
-
-- ⭐ 295 分｜💬 15 留言｜👤 linzhangrun
-
-### 28. [Vint Cerf on 為什麼 TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
-
-- ⭐ 134 分｜💬 64 留言｜👤 emot
-
-### 29. [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)
-
-- ⭐ 111 分｜💬 219 留言｜👤 jdkee
-
-### 30. [Show HN: Radiotherapy Delivery Demo](https://tps.neuralrad.com)
-
-The treatment planning station (TPS) 軟體 field is currently monopolized by Varian&#x27;s Eclipse and Raystation from Raysearch. Current 軟體 is still using technology stack 2 decades old.At U
-
-- ⭐ 13 分｜💬 3 留言｜👤 coolwulf
+- ⭐ 95 分｜💬 50 留言｜👤 ejboy
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
-- Pancreatic cancer halted by virus injection in three patients
-- Bit Shifting in Basic
-- Synology 安全 Advisory
-- The 98% Slot Machine: How Paid Advertising Became an Extraction Tax
-- Automatic Checking of Compiler Correctness with E-Graphs
-- Anthropic’s Nasdaq debut
-- Launch HN: Onlook (YC W25) – An open-source 開發者 tool for designers
-- Weight-Space 程式設計 builds 神經網絡 networks like a 1990s researcher
-- ChatGPT for SNES
-- Show HN: Foolscap – a writing app that reads your book and never writes for you
-- Can I borrow a lunar rover? (2013)
-- Do not buy RAM, compress
-- Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
-- Frankenstein PBC – Animation, bestowed upon lifeless matter
-- UK government forced to admit it issued Apple a secret encryption order
-- The Specialization of Desire
-- Garage Door Spam
-- $1M Berggruen Philosophy Prize Awarded to Thomas Nagel
+- Floppy3.5: A portable 3.5-inch floppy WiFi NAS
+- The Making of Oxygene
+- PostgreSQL 19: A hands-on tour with runnable browser examples
+- 為什麼 there are still no non-WebKit browsers on iOS
+- AI is giving everyone the same advice
+- LZ-RDO lands in ARM's astc-encoder
+- Teskooano: A 3D N-body simulator in the browser
+- Slopstrap – Make your site look hastily vibecoded
+- What people are building, discovered through 新 domains
+- I have been unemployed for 2y.15YOE,US.What to do?
+- OPM Data Was Breached on the Same Day as the FAA Ground Stop, per Internal Email
+- Show HN: Fast deterministic natural language search for OpenStreetMap data
+- Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street
+- If you stop writing 代碼, you also get worse at reviewing it
+- Lovable: Now you can explore any idea in parallel without touching what's live
+- Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)
+- Wikipedia Rewrote Zionism
+- FFmpeg 9.1 'Gauss'
 - Claude solves two open problems in the physics of black holes
-- Rebuilding my local voice 助手 pipeline
-- RegExr: Temporarily Offline
-- 為什麼 the U.S. air traffic control 系統 still relies on an 'antique' 網絡
-- GIMP now has UI tests
-- 'The Super Poopers'
+- µ-Wire – USB on an ATtiny 10
+- Teenage Engineering EP/BC–1 professional CD player
+- Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup
+- I'll never buy Framework 硬體 again
+- The Strongest Sokoban Solver
+- What Comes After AGI?
+- PostgreSQL 19
+- Army delays detonating "catastrophically hazardous" lead azide amid fear, anger
+- UK fridges secured from hackers
+- Predictions of the End of Wikipedia
+- Synology 安全 Advisory
+- OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+- Launch HN: Onlook (YC W25) – An open-source 開發者 tool for designers
+- Vint Cerf on 為什麼 TCP/IP was never patented
+- "I can tell you wrote this yourself"
+- Inkling 2 Mini, Cutting-Edge Performance for Your Local Setup
+- Show HN: Foolscap – a writing app that reads your book and never writes for you
+- 為什麼 YC Series A rounds fell off a cliff
+- Bit Shifting in Basic
+- ChatGPT for SNES
+- Do not buy RAM, compress
+- Weight-Space 程式設計 builds 神經網絡 networks like a 1990s researcher
+- Kia's cheapest EV is coming next year, and it could cost under $25,000
+- Automatic Checking of Compiler Correctness with E-Graphs
+- Show HN: Tinnitus frequency finder and audio notch tool
+- Scientists Track 219,000 People–Discover Unexpected Shift in Dementia Risk
+- Judge: DHS's Seizure Of Immigration Lawyer's Phone Likely Violated 1st Amendment
+- Garage Door Spam
+- Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
+- Anthropic shares tank after IPO as the Nasdaq erases 2026 gains
+- Grand Theft Auto VI Earns $3.79B on First Day
+- Anton Syndrome
+- Show HN: Radiotherapy Delivery Demo
+- Windows 11 passkey bug cries failure after successful sign-in
+- European rights court bars Romanian lawyer for 2 years over AI citations
+- 為什麼 San Francisco's water 系統 couldn't handle a record-breaking storm
 - Unblockable communication with gravity
-- Talking Venice with Mahesh Subramony at AMD In-Depth
-- Computer Graphics from Scratch (2021)
-- What a Rewrite of Libexpat Needs
-- It's the End of the Academic World as We Know It
+- 如何 CAD Almost Anything
+- Rebuilding my local voice 助手 pipeline
 - Unauthenticated 遠端 代碼 execution in Nginx
-- 如何 Make the Ink Used to Write Hamlet and the Declaration of Independence
-- Pete Warden on local AI, open models, voice interfaces, the future of 硬體
-- Gemini 4 Neon
-- Someone reported java4shell bug in September 2026
-- Mapping every neuron in Qwen3-8B
-- Intuit to sell Mailchimp to Bending Spoons for $3.68B
-- Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers
-- Threats, Insults, Settlements: How Jensen Huang Made Humiliation Routine
-- Reverse-Engineering Kevin J. Lang's Lost OCaml 代碼 in Apache DataSketches
-- Show HN: Mastra Factory, the open-source 軟體 factory we use to 構建 Mastra
-- The need for at least a third option
-- Apple is building an AI 代理
-- Iran's oil leverage is weakening. That could push it toward escalation
-- The Market Is Down
-- Ruby2ßhell: Pre-authentication RCE on stock Rails
-- SSD prices may begin to decline in the latter half of 2027
-- Making 8-page foldable zines from a single A4 sheet in the browser
-- Everything you need to survive and rebuild society
-- Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest
-- AI came for the coders. Understanding 為什麼 tells us who's next
-- Infinite scroll and autoplay are fuelling a global problem
 - Evidence (YC S21) Is 招聘
-- Adding Fortran Support to LLDB (GSoC 2026)
-- Astronomers discover remarkable 3-star 系統 just 28 light-years from Earth
-- An Oregon library ditched Dewey Decimal and got people excited about books again
-- Nintendo takes Picofly firmware down from GitHub [video]
-- Mysterious Mercury about to get a visitor – after spacecraft's eight-year voyage
-- PHP advisory: mixed-case HTTPS and FTPS URLs can expose data in plaintext
-- IRA Velinsky, industrial designer for Commodore and Atari
-- Gemini 4 Neon is the 新 #1 on the Models Engineering Index
-- Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2
-- Cooling buildings is overtaking heating them as an energy need, IEA says
-- How the European Commission rolled out Matrix to more than 40k staff
-- Dumping an AES key from a MyQ garage opener to stop rebooting when offline
-- F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)
-- C's designated initializers give us named arguments
+- Gemini 4 Neon
+- Walls Beneath Jerusalem May Solve 150-Year Mystery
+- GTA VI Shatters Box Office Records with $3.79B in Day One Retail Sales
+- Show HN: Mastra Factory, the open-source 軟體 factory we use to 構建 Mastra
+- Pancreatic cancer halted by virus injection in three patients
+- RegExr: Temporarily Offline
+- Someone reported java4shell bug in September 2026
+- Frankenstein PBC – Animation, bestowed upon lifeless matter
+- Talking Venice with Mahesh Subramony at AMD In-Depth
 - Teaching robots to carve marble sculptures
-- What's 新 in PHP 8.6
-- Google is pushing OEMs against GrapheneOS and bootloader unlocking
-- Fuck Your AI Safeguards
 
 
 ---
