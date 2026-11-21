@@ -4,210 +4,208 @@
 
 ---
 
-### 1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+### 1. [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
+
+- ⭐ 211 分｜💬 57 留言｜👤 dvaplima
+
+### 2. [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
+
+- ⭐ 18 分｜💬 1 留言｜👤 beginning_end
+
+### 3. [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
+
+- ⭐ 73 分｜💬 19 留言｜👤 soheilpro
+
+### 4. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 
 Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968
 
-- ⭐ 1774 分｜💬 789 留言｜👤 jasondavies
+- ⭐ 2228 分｜💬 1051 留言｜👤 jasondavies
 
-### 2. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+### 5. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 
 Related: Hurried Announcement: Alessandro Masullo GRH - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568
 
-- ⭐ 2465 分｜💬 1663 留言｜👤 iamronaldo
+- ⭐ 2734 分｜💬 1916 留言｜👤 iamronaldo
 
-### 3. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+### 6. [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 
-- ⭐ 828 分｜💬 143 留言｜👤 jasondavies
+- ⭐ 94 分｜💬 27 留言｜👤 gdgghhhhh
 
-### 4. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+### 7. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 
-- ⭐ 179 分｜💬 43 留言｜👤 CharlesW
+- ⭐ 1123 分｜💬 212 留言｜👤 jasondavies
 
-### 5. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+### 8. [Adult-only households accounted for 55% of toy sales in the first half of 2026](https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic)
 
-- ⭐ 346 分｜💬 210 留言｜👤 QueensGambit
+- ⭐ 40 分｜💬 31 留言｜👤 helsinkiandrew
 
-### 6. [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
+### 9. [ClawDOS – An AI coding 代理 for DOS](http://ricapar.net/ClawDOS/)
 
-- ⭐ 383 分｜💬 154 留言｜👤 archon1410
+- ⭐ 112 分｜💬 31 留言｜👤 Ricapar
 
-### 7. [Clojure will affect the way you think about 程式設計 (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+### 10. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
 
-- ⭐ 20 分｜💬 5 留言｜👤 sammatilda
+- ⭐ 489 分｜💬 271 留言｜👤 QueensGambit
 
-### 8. [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
+### 11. [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 
-- ⭐ 79 分｜💬 32 留言｜👤 reconditerose
+- ⭐ 478 分｜💬 206 留言｜👤 archon1410
 
-### 9. [Sir Brian May adds 新 dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
+### 12. [Clojure will affect the way you think about 程式設計 (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 
-- ⭐ 66 分｜💬 14 留言｜👤 mooreds
+- ⭐ 133 分｜💬 51 留言｜👤 sammatilda
 
-### 10. [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+### 13. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 
-- ⭐ 367 分｜💬 115 留言｜👤 lwhsiao
+- ⭐ 299 分｜💬 77 留言｜👤 CharlesW
 
-### 11. [DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
+### 14. [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
 
-- ⭐ 151 分｜💬 28 留言｜👤 facundo_olano
+I&#x27;m 資深 軟體 工程師 in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can&#x27;t find a 工作, within
 
-### 12. [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
+- ⭐ 301 分｜💬 303 留言｜👤 LetThingsBeDiff
 
-- ⭐ 269 分｜💬 86 留言｜👤 trotro
+### 15. [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 
-### 13. [Restricting AI agents in 行動 operating systems platforms from capturing data](https://signal.org/blog/protecting-your-privacy/)
+- ⭐ 80 分｜💬 19 留言｜👤 NordStreamYacht
 
-- ⭐ 533 分｜💬 311 留言｜👤 dotcoma
+### 16. [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
 
-### 14. [And yet, it moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
+- ⭐ 435 分｜💬 127 留言｜👤 lwhsiao
 
-- ⭐ 120 分｜💬 61 留言｜👤 notfried
+### 17. [FBI reportedly investigating apparent hack of its criminal 資料庫](https://www.bbc.com/news/articles/cvze7de86pk3o)
 
-### 15. [Vibecoding an 推論 chip](https://ankitg.me/blog/vibecoding-inference-chip/)
+- ⭐ 68 分｜💬 32 留言｜👤 theanonymousone
 
-- ⭐ 128 分｜💬 49 留言｜👤 ankitvgupta
+### 18. [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
 
-### 16. [BlackBlaze now explicitly states selling your data for advertisement](https://www.backblaze.com/company/policy/privacy)
+- ⭐ 156 分｜💬 51 留言｜👤 reconditerose
 
-- ⭐ 54 分｜💬 6 留言｜👤 meysamazad
+### 19. [Sir Brian May adds 新 dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 
-### 17. [The stochastic parrots have apparently proved the Riemann Hypothesis](https://scottaaronson.blog/?p=10344)
+- ⭐ 126 分｜💬 30 留言｜👤 mooreds
 
-- ⭐ 249 分｜💬 226 留言｜👤 stratos123
+### 20. [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 
-### 18. [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
+- ⭐ 380 分｜💬 686 留言｜👤 cdrnsf
 
-- ⭐ 39 分｜💬 24 留言｜👤 Bender
+### 21. [DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
 
-### 19. [Re: Riemann](https://borretti.me/article/re-riemann)
+- ⭐ 242 分｜💬 86 留言｜👤 facundo_olano
 
-- ⭐ 183 分｜💬 175 留言｜👤 _dain_
+### 22. [Slopstrap – Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/)
 
-### 20. [Winedroid – run Android apps without Android (WASM demo)](https://winedroid.soham.sh/demo/)
+- ⭐ 351 分｜💬 63 留言｜👤 mlacher
 
-- ⭐ 117 分｜💬 36 留言｜👤 sohzm
+### 23. [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
 
-### 21. [為什麼 the Airbus A321XLR often gets stuck climbing for first few hours of flight](https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/)
+- ⭐ 300 分｜💬 94 留言｜👤 trotro
 
-- ⭐ 101 分｜💬 70 留言｜👤 edward
+### 24. [Fewer slides, more dragons](https://www.breakingchange.blog/p/fewer-slides-more-dragons)
 
-### 22. [Show HN: I made an audio-to-MIDI 模型 60x more efficient](https://kobi.music/research/dettato)
+- ⭐ 46 分｜💬 18 留言｜👤 firloop
 
-I 發布 dettato, my open weight audio to midi transcription 模型. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without 訓練 on copyrighted recordings. Feel free to ask que
+### 25. [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
 
-- ⭐ 259 分｜💬 55 留言｜👤 hidude562
+I&#x27;ve had tinnitus for about a year and a half. There&#x27;s no cure, so I&#x27;m trying anything that looks promising. One idea people are researching is listening to sound with a notch cut out r
 
-### 23. [I can’t believe it’s 1!](https://aperiodical.com/2026/11/i-cant-believe-its-1/)
+- ⭐ 192 分｜💬 121 留言｜👤 brianrhea
 
-- ⭐ 53 分｜💬 57 留言｜👤 ColinWright
+### 26. [Defcon 5's California Caravan Program/Zine](https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/)
 
-### 24. [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
+- ⭐ 6 分｜💬 0 留言｜👤 speckx
 
-- ⭐ 27 分｜💬 8 留言｜👤 undefinedmethod
+### 27. [Vibecoding an 推論 chip](https://ankitg.me/blog/vibecoding-inference-chip/)
 
-### 25. [I Don't Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes)
+- ⭐ 162 分｜💬 64 留言｜👤 ankitvgupta
 
-- ⭐ 22 分｜💬 1 留言｜👤 jnord
+### 28. [為什麼 the Airbus A321XLR often gets stuck climbing for first few hours of flight](https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/)
 
-### 26. [如何 Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
+- ⭐ 128 分｜💬 94 留言｜👤 edward
 
-- ⭐ 27 分｜💬 4 留言｜👤 todsacerdoti
+### 29. [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
 
-### 27. [US SEC's NVIDIA probe is examining potential accounting issues – sources](https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627)
+- ⭐ 108 分｜💬 57 留言｜👤 Bender
 
-- ⭐ 266 分｜💬 140 留言｜👤 ftchd
+### 30. [Winedroid – run Android apps without Android (WASM demo)](https://winedroid.soham.sh/demo/)
 
-### 28. [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
-
-I&#x27;ll be here for the rest of the day. As usual, there are countless possible topics and I&#x27;ll be guided by whatever you&#x27;re concerned with. Please remember that I can&#x27;t provide legal
-
-- ⭐ 105 分｜💬 147 留言｜👤 proberts
-
-### 29. [Show HN: OpenComputer – an 開源 alternative to Devin](https://github.com/diggerhq/opencomputer)
-
-Hi HN!Utpal here, I&#x27;m one of the founders of OpenComputer.OpenComputer is an 開源 雲端 coding 代理 for teams that can run in your own 雲端 account (AWS, GCP, Azure).We run the 代理 har
-
-- ⭐ 82 分｜💬 23 留言｜👤 iacguy
-
-### 30. [Slopstrap – Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/)
-
-- ⭐ 126 分｜💬 25 留言｜👤 mlacher
+- ⭐ 164 分｜💬 42 留言｜👤 sohzm
 
 ---
 
 ### 更多 IT 新聞 (70則)
 
+- The stochastic parrots have apparently proved the Riemann Hypothesis
+- I can’t believe it’s 1
+- Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize
+- Show HN: I made an audio-to-MIDI 模型 60x more efficient
+- Microsoft's SideWinder Strategic Commander was a failed attempt
+- 3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards
+- Acoustic parameters of bird vocalizations&their perceived pleasantness by humans
+- 工程師's Guide to 職業 Growth – Advice from My Time at Stripe and Facebook
+- Worlds largest beaver dam in Northern Alberta
+- Backblaze Notice at Collection and Privacy Policy
 - If you can't explain something in simple terms, you don't understand it (2017)
-- Show HN: An API for word timestamps from speech, 75% within 20ms
-- Integrals of Polynomials with Galois Group S_p
-- Merkle Tree Certificates
-- Floppy3.5: A portable 3.5-inch floppy WiFi NAS
-- The Making of Oxygene
-- The G1 Garbage Collector
 - Frostbite: A 新 CPU architecture discovered, designed and verified by AI
-- I'll never buy Framework 硬體 again
-- Running two PSP emulators on one Switch 2 and sharing one via GameShare
-- 如何 generate an accessible color palette from a single color
-- AI is giving everyone the same advice
-- What people are building, discovered through 新 domains
-- PostgreSQL 19: A hands-on tour with runnable browser examples
-- Forking TuxGuitar into a 17-EDO tab editor
-- Show HN: Fast deterministic natural language search for OpenStreetMap data
+- I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
+- Bitcoin falls to its lowest in two years
+- Anyone can easily use private, open weight models
+- The Hungry Butler Effect: Concealed Commercial Incentives in LLMs
+- Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder
+- And yet, it moves
+- The Making of Oxygene
 - Claude solves two open problems in the physics of black holes
-- 為什麼 there are still no non-WebKit browsers on iOS
-- Uncontacted Indigenous people emerge from Amazon forest to ask for food
+- Restricting AI agents in 行動 operating systems platforms from capturing data
+- Floppy3.5: A portable 3.5-inch floppy WiFi NAS
+- US SEC's NVIDIA probe is examining potential accounting issues – sources
+- AI is giving everyone the same advice
+- The G1 Garbage Collector
+- Show HN: OpenComputer – an 開源 alternative to Devin
+- Catching Crumbs from the Table [pdf]
+- What people are building, discovered through 新 domains
 - FFmpeg 9.1 'Gauss'
-- Reverse Engineering my cat's litter box
-- The FBI was hacked again
-- Replacing implicit optionals with a None type in TypeDB
-- Substrate: A Lisp for WebAssembly
-- Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)
-- If you stop writing 代碼, you also get worse at reviewing it
-- LZ-RDO lands in ARM's astc-encoder
-- µ-Wire – USB on an ATtiny 10
+- I'll never buy Framework 硬體 again
+- Jujutsu Primer
+- I Don't Trust Visual Recordings Anymore. But One Day I Will Again
+- Show HN: Fast deterministic natural language search for OpenStreetMap data
+- Running two PSP emulators on one Switch 2 and sharing one via GameShare
+- Show HN: An API for word timestamps from speech, 75% within 20ms
 - Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup
-- Teskooano: A 3D N-body simulator in the browser
-- Teenage Engineering EP/BC–1 professional CD player
-- Microsoft 宣布 Windows 伺服器 2028 with hardened 安全
-- What Comes After AGI?
-- Lovable: Now you can explore any idea in parallel without touching what's live
-- Synology 安全 Advisory
+- Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)
+- 如何 Bypass Rust's Orphan Rule
+- PostgreSQL 19: A hands-on tour with runnable browser examples
+- 為什麼 there are still no non-WebKit browsers on iOS
+- µ-Wire – USB on an ATtiny 10
+- Merkle Tree Certificates
+- If you stop writing 代碼, you also get worse at reviewing it
 - Launch HN: Onlook (YC W25) – An open-source 開發者 tool for designers
-- PostgreSQL 19
-- The Strongest Sokoban Solver
-- Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street
-- Vint Cerf on 為什麼 TCP/IP was never patented
-- OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
-- Show HN: Foolscap – a writing app that reads your book and never writes for you
+- What Comes After AGI?
+- Synology 安全 Advisory
+- Spacecraft reaches Mercury on second-ever mission to enter its orbit
 - Do not buy RAM, compress
-- Google workers tell their employer not to punish schools that don't want AI
-- UK fridges secured from hackers
-- "I can tell you wrote this yourself"
-- ChatGPT for SNES
-- Bit Shifting in Basic
+- Show HN: Foolscap – a writing app that reads your book and never writes for you
+- Vint Cerf on 為什麼 TCP/IP was never patented
+- Substrate: A Lisp for WebAssembly
+- PostgreSQL 19
+- Muse Spark 1.3
+- The Strongest Sokoban Solver
 - Garage Door Spam
-- Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks
+- OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+- LZ-RDO lands in ARM's astc-encoder
+- Reverse Engineering my cat's litter box
+- Teenage Engineering EP/BC–1 professional CD player
+- Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections
 - Weight-Space 程式設計 builds 神經網絡 networks like a 1990s researcher
-- Automatic Checking of Compiler Correctness with E-Graphs
-- Reviving the Donkey Car with Erlang
-- Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
 - Unauthenticated 遠端 代碼 execution in Nginx
-- Give Me Back My Monolith (2019)
-- Unblockable communication with gravity
-- Ink2Tex
-- Show HN: Tinnitus frequency finder and audio notch tool
-- Gemini 4 Neon
-- Rebuilding my local voice 助手 pipeline
-- 如何 CAD Almost Anything
-- Twin films are films with the same or similar plots 發布 with a short time
-- A human liver has been kept alive outside the body for a record seven weeks
-- White House removes cyber-安全 chief after series of tech outages
-- Show HN: Mastra Factory, the open-source 軟體 factory we use to 構建 Mastra
-- Show HN: Radiotherapy Delivery Demo
-- The Case for Urban Bathrooms
-- Someone reported java4shell bug in September 2026
-- Pancreatic cancer halted by virus injection in three patients
+- ChatGPT for SNES
+- 如何 generate an accessible color palette from a single color
+- Bit Shifting in Basic
+- Teskooano: A 3D N-body simulator in the browser
+- Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
+- UK fridges secured from hackers
+- Microsoft 宣布 Windows 伺服器 2028 with hardened 安全
+- Lovable: Now you can explore any idea in parallel without touching what's live
 
 
 ---
